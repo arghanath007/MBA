@@ -90,6 +90,38 @@
 
 * **OTHER EXAMS** for **MBA**. [**VERY IMPORTANT**]
 
+# Other Exams(Non-CAT)
+
+* Link -> https://www.youtube.com/watch?v=V7E92w7yqQE
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/34dc7184-ab5d-4261-8fe0-9ed083887c68)
+
+* NMAT -> 3 attempts(Oct to Dec) -> Adaptive exam.
+* SNAP -> 3 attempts(Dec) -> 60mins for 60 questions. [Get close to 40 marks]
+* XAT -> Jan
+* CMAT -> May [Not good exams] [NTA organized]
+* CET-> March [Not good exams] [Low cost colleges] [Good for maharashtra people]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a17287f9-dc10-46e4-be62-772f8b52905b)
+
+* Link -> https://www.youtube.com/watch?v=kS8tlzOHOi4
+* Preparation based -> Ratta.
+* Intelligence based.
+* LOD -> Level of difficulty.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c5d98c8b-7601-4a6f-85f0-db1da77d66e9)
+
+* Preparation strategy.
+
+
+
+
+
+
+
+
+
+
 
 
 
