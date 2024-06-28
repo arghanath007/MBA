@@ -1,5 +1,17 @@
 # CAT
 
+# Resources
+
+* Free Resources -> https://docs.google.com/spreadsheets/d/121TJowkkWLeaPSAYp5Cokg0If9iwBtFDF6CZ5JWIYO0/edit?gid=0#gid=0
+* Link -> https://www.youtube.com/@Rodha/videos
+* Link -> https://www.youtube.com/@elitesgridCAT/videos
+* Link -> https://www.youtube.com/@StudybuzzEducation/videos
+* Link -> https://www.youtube.com/@CrackuInexam/videos
+* Link -> https://www.youtube.com/@ANSHU_IIM_VLOGS/videos
+* Link -> https://www.youtube.com/@InsideIIMKonversations/videos
+* Link -> https://www.youtube.com/@testprepbyinsideiim
+* Link -> https://www.youtube.com/@99percentileclub/videos
+
 * Link -> https://www.youtube.com/watch?v=ANj0ySN5UVQ
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/89c131c2-6808-48fb-9901-77df508e21eb)
