@@ -49,19 +49,46 @@
 
 * Preparation.
 
+## CAT Exam
 
+* Link -> https://www.youtube.com/watch?v=8jx3VjU_oxM
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc7ca6ed-6aa9-4970-9886-4ddab4162306)
+![image](https://github.com/arghanath007/MBA/assets/54589605/76e3de00-1c00-4c21-af27-2a16907ee637)
 
+* Types of questions.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/f73d730f-558b-49b3-bc71-c9c7e53ae993)
 
+* **Negative marking** is for **MCQ** questions only.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/08937a76-a276-4ab8-aa68-e185c6dbd69d)
 
+* Subjects/sections.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/325a41f1-e3e2-4311-aa3e-bfce06d11b38)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cbb32afd-9be8-4728-913f-5f197c843bd6)
 
+* Marks distribution.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/452541c4-2d0b-4a2a-9076-8af1d416ac13)
+![image](https://github.com/arghanath007/MBA/assets/54589605/aedccc42-cc28-4e7a-b947-094fb5d2228f)
 
+* Each section is alloted for **40mins** only. [**IMPORTANT**]
+* No syllabus for CAT exam. General understanding is Maths upto class 10th and it's application based questions are asked.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/b8d61552-b85d-4623-9a04-3f39b7d8198d)
 
+* For admission into **colleges**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b63d0b39-1f5e-421b-9a00-f150a97dd1ef)
+
+* CAT score is one component. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ed685eab-5a67-40e8-8d16-d868dd5606af)
+![image](https://github.com/arghanath007/MBA/assets/54589605/41ce2e36-f3d2-4ad1-97d6-dbd2c4a39b83)
+
+* **OTHER EXAMS** for **MBA**. [**VERY IMPORTANT**]
 
 
 
