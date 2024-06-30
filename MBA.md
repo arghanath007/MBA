@@ -113,12 +113,18 @@
 
 * Preparation strategy.
 
+## CAT EXAM
 
+* Link -> https://www.youtube.com/watch?v=KzfGqHN5rPs
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/17a5e5e7-726d-4c3c-83e0-8c70538dba40)
+![image](https://github.com/arghanath007/MBA/assets/54589605/805a5e07-1fd9-427b-9f36-8336fbd448af)
 
+* Colleges.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/7c20a9e0-3d01-45e9-8ce9-4ba1152d75c5)
 
-
+* Why MBA.
 
 
 
