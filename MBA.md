@@ -126,23 +126,53 @@
 
 * Why MBA.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/1e866b4e-0b62-4a75-95e3-5b5157507916)
 
+* Myths.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/dc82c71a-38e4-4a64-9fc2-7a993c4b44fd)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d55fa318-2c36-4a78-9cae-89ccd2e80ee6)
 
+* Build profile.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/67e78e9b-1a22-4b95-b76b-9a0c53868177)
 
+* Exams.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/99d0a07c-be38-4465-a1a9-70b18d9c30d6)
 
+* Exam pattern.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/d5ed2c58-11c7-4639-abb2-9fae42a5733e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ad25ada2-dc54-424d-9960-73a14c521d5a)
 
+* Marks/percentiles.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/410eea43-6655-43e9-9991-0223f8f18c72)
 
+* Cutoffs.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/727ab07f-c15a-45f2-a93a-c20fdd25ea57)
 
+* Quants. [Syllabus]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/fa6d6969-fead-40a2-b35b-f4a878dfdd3b)
 
+* LR-DI. [Syllabus]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/a6c05e2c-f962-4ec6-ac41-a3374fecd09e)
 
+* Verbal. [Syllabus]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2e364f0c-da44-4973-8a41-28b2a28752cd)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e0a07269-decc-4185-ba4e-a2e5d479ff96)
+
+* General Knowledge(GK). Other exams. [Syllabus]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a9aa6476-5fd6-4e93-9587-296f489cd216)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b5032d89-da92-4e42-b43c-886b5c6d68b1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8639ea04-8fe5-46a2-87d5-ea2928f8e146)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f8ff8bb6-0f47-4386-941f-1bf9010990ad)
 
 
 
