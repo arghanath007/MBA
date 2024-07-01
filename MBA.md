@@ -19,6 +19,7 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3401c56c-323e-4066-8bfe-822f5e4af09f)
 
 * VARC1000.
+* Link -> https://www.careerlauncher.com/cat-mba/varc1000/
 
 ## Strategy
 
