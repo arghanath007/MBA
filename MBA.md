@@ -12,6 +12,30 @@
 * Link -> https://www.youtube.com/@testprepbyinsideiim
 * Link -> https://www.youtube.com/@99percentileclub/videos
 
+## Strategy
+
+* Link -> https://www.youtube.com/watch?v=vg3QNNIzqgI
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc8bc5da-f1e7-46c9-8f48-d4a31ec44e88)
+![image](https://github.com/arghanath007/MBA/assets/54589605/73f00297-e400-4c6c-b2bb-c753fa17869e)
+
+* **Quants**:-
+* Out of **22** questions, we have to solve **9, 11 or 12** questions. [**VERY IMPORTANT**]
+* **LRDI**:-
+* Out of **4** sets, we have to solve **2** sets. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f0f2e02a-b74d-48f2-9ff8-2825a625a84c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/075f77fa-4fed-48f8-a278-0c2d05c07086)
+![image](https://github.com/arghanath007/MBA/assets/54589605/91ffe726-0787-44e0-b3aa-f8f1d13fb96e)
+
+* LRDI.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/13e12a26-0bd8-4744-9090-34a01f75e160)
+
+* VARC.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fcb58258-ec99-45de-87e0-9020deaf7289)
+
 ## CAT
 
 * Link -> https://www.youtube.com/watch?v=ANj0ySN5UVQ
@@ -173,6 +197,10 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b5032d89-da92-4e42-b43c-886b5c6d68b1)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/8639ea04-8fe5-46a2-87d5-ea2928f8e146)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f8ff8bb6-0f47-4386-941f-1bf9010990ad)
+
+
+
+
 
 
 
