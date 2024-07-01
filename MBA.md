@@ -12,6 +12,14 @@
 * Link -> https://www.youtube.com/@testprepbyinsideiim
 * Link -> https://www.youtube.com/@99percentileclub/videos
 
+# Courses
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ca9a11f6-2ac6-4803-9f4d-14c1a5f3eaa5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/57006a27-2145-44f0-bf12-83911848d468)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3401c56c-323e-4066-8bfe-822f5e4af09f)
+
+* VARC1000.
+
 ## Strategy
 
 * Link -> https://www.youtube.com/watch?v=vg3QNNIzqgI
