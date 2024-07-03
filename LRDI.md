@@ -19,39 +19,87 @@
 * LIDR -> Out of the **22** questions in the section, solve around **13, 14 to 15** questions and **leave** the rest of the questions. We have to solve them in **40mins** only. [Logic] [**VERY IMPORTANT**] [Strategy] [Planning]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/824ef548-3988-4915-a745-cb085c9ea36c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/396f1eb3-da2e-4247-bc56-5bbeb3f29d81)
+![image](https://github.com/arghanath007/MBA/assets/54589605/381e0bda-17b1-42dd-87aa-c35784cf0cc2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/69981a3c-2d8e-4c89-bc8c-0e33a6863821)
+![image](https://github.com/arghanath007/MBA/assets/54589605/01282b97-07f1-477b-b72a-098fa3949019)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1b6468a2-a8af-44bb-aabd-ed518163be1f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/273d8872-52b8-43fb-b2ff-5e683081730f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cf2b4411-d5e9-479b-a4f3-8d9f47256a43)
 
+* Practice needed.
+* 800 sets.
 
-
-
-
-
-
-
-
+![image](https://github.com/arghanath007/MBA/assets/54589605/60823a5a-40c8-46ba-a270-e1ef0f330861)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f5835db2-bc12-40cd-8992-9fc6ea4187cc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e3e53577-48ed-43b6-8510-451b787d8f74)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2fb761ef-ecba-4dd0-9f8b-cf53a25fe919)
 
 ## Quant Based Puzzles (1)
 
+### Coin Picking Puzzle/Set
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/aa34048c-2f38-4237-9079-4e6bcea78046)
 
+* We have **200** coins. Two people are playing, ravi(A) and chanchal(B). Whoever picks last losses the game. They are picking **alternatively**. They can pick any no between **1 to 4** which is **1<= n <=4**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/82f3d31b-4154-406a-8cd6-273ffe8b1a6c)
 
+* It is chance of ravi, how many he should pick in first chance to ensure the win? [Question]
+* 1 [Question] [Example]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/609def83-30e5-4129-82a7-b9fd95ef4fef)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6e55270c-7db8-4f5a-a901-e43c4ec107c5)
 
+* We are getting so many **cases**.
+* Thinking is going in the **wrong direction**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/e714126f-42ff-475e-be4c-826abb82f012)
 
+* **2, 3, 4 and 5** are **winning** nos for me.
+* **1** is the **lossing** nos for me.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/6da369c2-4e28-406d-b38f-282744a21e74)
 
+* We are trying to **design/develop** a **pattern**. [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/fdacda84-7095-4b96-9446-f9727f42d154)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3b39421e-58f3-47cd-a187-1249c2b0c840)
+![image](https://github.com/arghanath007/MBA/assets/54589605/5a361edf-978a-4c33-a73d-d0841b83f634)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3e28e703-7384-47e8-bce7-6cd0535f6c1f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c4a4ecc0-ab91-4566-bbe5-ed9db6a21a9a)
 
+* For **7**, we will pick **1 coin** and we are left with **6 coins**. Chanchal will pick which ever no of coins be it **1, 2, 3 or 4**, we can pick **4, 3, 2, 1** no. of coins respectively so that there is **1 coin** left which she has to pick and thus **loose** the game. [Logic] [Explaination] [**VERY IMPORTANT**]
+* For **8** also it is **same** as **7** only. [Logic] [Explaination] [**VERY IMPORTANT**]
+* **7 and 8** are **winning** nos for me.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/5ece50e8-a460-4145-9ad9-17a77213474e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1cd53fb6-4254-491c-9f31-86b2c5976d02)
 
+* **Trap** is on the **loosing nos**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/ba1f1fe4-09e0-42df-8ad8-f794326397d4)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f3ab4123-6af0-4b03-85e6-4ac802676769)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6bee590d-8a9f-453c-81cc-f1be33e7dc78)
 
+* **5** is the no that is **controlling** the game. It is called as **controlling factor**. [**VERY IMPORTANT**] [Logic]
+* Min -> 1, Max -> 4
+* Controlling factor(CF) -> Min + Max -> 1 + 4 -> 5.  [**VERY IMPORTANT**] [Formula]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/6e0f3cac-025f-495f-8fce-9579de471069)
+![image](https://github.com/arghanath007/MBA/assets/54589605/63c98c2c-fce4-40df-a20b-bdfd6661a28e)
 
+* **1** was the **lossing no** after that it was **6** after that it was **11**. They are Lossing nos.
+* After a **difference of '5'** we are getting **lossing nos**.
+* 11 -> 16 -> 21.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/6f886bbb-461f-4c79-9406-726f0ade23e1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/68b58955-ba0a-4f7a-a1d7-4c20a710077f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9bb52bb5-b0fc-45bd-9d79-78356b642fc4)
 
-
+* Lossing no series.
+* Series -> 5K + 1.[Formula] [**VERY IMPORTANT**]
+* K = 1,2,3,4,5,6 ....
 
 
 
