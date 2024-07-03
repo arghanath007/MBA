@@ -131,11 +131,17 @@
 * 53 ^ 2 -> (53 - 25) * 100 + (53-50)^2 -> 2800 + 9 -> 2809. [Logic] 
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c90e06d6-2ae5-4db5-80eb-f2b0019a141b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/250e0e19-2b16-4436-a5ed-bbc9d39bf7be)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bb0ef459-4a40-415e-9eb3-a84f2d5bda8f)
 
 * HW.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/6541af38-b163-4025-be90-9054fbfdb38d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0b713226-aae6-45ed-9225-1197aafd25de)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3e6dd8d5-9a8c-4969-a4f8-37c93c9b5e8a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e4e3209d-406a-4746-ab59-ebe21938db94)
 
-
+## Speed Maths (2)
 
 
 
