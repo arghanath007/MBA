@@ -101,19 +101,76 @@
 * Series -> 5K + 1.[Formula] [**VERY IMPORTANT**]
 * K = 1,2,3,4,5,6 ....
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/c2974ea4-3155-4184-ba9d-c05104c017b9)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7f184512-de8a-48b3-8d7b-92a22cc98ba5)
 
+* Table has **200** coins.
+* k = 39
+* 5K + 1 -> 5 * 39 + 1 -> 196.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/cb6226d2-f2f4-4f22-aee3-e507a5f8894b)
 
+* Trap series -> loosing series.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/de565bd5-7c83-4934-84d5-ad80b771fa35)
+![image](https://github.com/arghanath007/MBA/assets/54589605/db826b95-2b7e-4211-bbea-fdf6d327fcd5)
 
+* 2 -> Losing nos.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/50fb97d3-fbb6-4c24-9cf7-6638b82690b2)
 
+* Example.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/e947cdf8-f664-4c6b-8b4a-03429a616165)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8e503bc5-628b-4c62-a323-b1ccfba4c6ee)
 
+* Example.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/18cb2f6d-33ae-455f-8db3-929729663c85)
 
+* 2 [Question]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/00e857c6-47ec-40da-87e3-0100403a9857)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac3e8f59-221e-4a5d-bc55-9aacc893c149)
 
+* These are **lossing** nos only.
+* 13 * 97 -> 1261.
+* As **1263** is one of the **lossing** nos so **1263** is the **answer**.
+* We are starting from a **lossing/trap** no only.
+* Answer -> 1263. [Solution] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3e9a2195-85fe-457e-a58e-ac127fa9f122)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b74f97da-8b52-48a5-b79a-2b36b559859b)
+
+* 3 [Question]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0454c739-3994-45ae-a90e-840d2c1cb71a)
+
+* These are the closest lossing numbers.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a257db49-4854-49ec-9da6-3d4418ebba75)
+
+* The value of **x** is **9** only. We cannot have **x = 10**. So it is **9, 8 and 7**.
+* The sum of **x** is **9 + 8 + 7 -> 24**. x = 24.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/07677de8-2207-49da-a3f8-cf89b200e936)
+
+* Answer -> 24
+* Option **A**. [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7b3a909b-070a-494e-8c7e-d1269dd2221d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc9ec168-4f9a-4f14-bc05-60d95730f8c4)
+
+* 13 * 107 -> 1391
+* We will never **win** as we are starting from a **lossing** number.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0f9d3d18-2e78-48c5-956b-94b947ed1c44)
+![image](https://github.com/arghanath007/MBA/assets/54589605/74bba0ad-0a74-48cb-b394-8a003e438d0e)
+
+* Controlling factor(CF).
+* Lossing Number(LN).
+
+## Puzzle(Part - 2)
 
 
 
