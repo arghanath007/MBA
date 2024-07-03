@@ -148,11 +148,95 @@
 
 * Example. [Even Gap]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/85843cbc-c6b2-42bf-a3d8-5cddd313f6c5)
 
+* Last **2** digits pattern.
+* The **squares** are making a **series**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/abe32eab-eb09-4f84-91fb-24afce9054fc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8e5a73db-0b9c-42d3-82eb-429090ea1e18)
 
+* x ^ 2 -> __ab
+* Last 2 digits are **ab** only.
+* At multiples of **50**. [Logic] [Formula] [**IMPORTANT***]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/f2aa9468-e4db-4c7e-a181-f37c314c2036)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6c040af0-ee95-4f49-9402-4a7a2a490e65)
 
+* The last 2 digits will be **89** only.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c1b8042b-8bc0-47a3-a9e7-750e87b4538d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/34f553b3-763b-4d97-a499-9ef8b554b7c1)
+
+* (Difference from 25) * 100 + (difference from 50) ^ 2. [Formula] [Logic] [**VERY IMPORTANT**]
+* Till the **no '25'**, the pattern is **different** and after that the pattern is **different**.
+* 16 ^ 2 -> 256.
+* The last 2 digits of **34 ^ 2** is same as **16 ^ 2** which is **56** only.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/364fdaf0-6b2b-4075-b5f9-e958fe9ec620)
+
+* 100 - 89 -> 11
+* **89 ^ 2** will come in the **series** of **11**.
+* 11 ^ 2 -> 121
+* **x** is **11** here.
+* We have to guess in which series the no is coming? [Question]
+
+> We will check by seeing to which multiple of **50**, the no. is closest too and what is the value of **x**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/28bd86e9-8425-445f-b300-9649f0e280a1)
+
+* **89** is closest to **100**. The **difference(x)** is **100 - 89 -> 11**. As the **difference(x)** is **11** so **89** falls in the series of **11**. So the last 2 digits of **89 ^ 2** is **21** only. [Example] [Solution] [Answer] 
+* 11 ^ 2 -> 121 -> The last 2 digits are **21**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/30e062e4-99ec-42a4-8aa7-6a4948a4634f)
+
+* **113** is closest to **100**. The **difference(x)** is **113 - 100 -> 13**. As the **difference(x)** is **13** so **113** falls in the series of **13**. So the last 2 digits of **113 ^ 2** is **69** only. [Example] [Solution] [Answer] 
+* 13 ^ 2 -> 169 -> The last 2 digits are **69**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/13b2de45-c6c8-46f5-98c9-ae0064fcf670)
+
+* **166** is closest to **150**. The **difference(x)** is **166 - 150 -> 16**. As the **difference(x)** is **16** so **113** falls in the series of **16**. So the last 2 digits of **166 ^ 2** is **56** only. [Example] [Solution] [Answer] 
+* 16 ^ 2 -> 256 -> The last 2 digits are **56**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/84a8f742-fe8c-4c99-b862-1671e2d9f0cb)
+![image](https://github.com/arghanath007/MBA/assets/54589605/248027e6-3a19-4cf0-b0b9-d95dce1a9151)
+![image](https://github.com/arghanath007/MBA/assets/54589605/afa408ae-298f-42c5-83df-a01bf96b696c)
+
+* Examples.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3ca139ba-9168-45ba-94be-68cdb811247b)
+
+* 1
+* How many perfect squares upto 1 lakh will end in 69? [Question] [CAT]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a933d956-5dde-48f2-ae3b-85e6f9f186ae)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4fb42f58-1f31-4a3a-b18b-755b45bfdefc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7a24179b-9c99-48af-9a9f-f169287cbf32)
+
+* Perfect Square.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d802439c-cc51-451d-8ed3-eb54573e3af4)
+
+* **316 ^ 2** is the **last perfect square** under **1 lakh**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/de630820-4080-4ea8-a0a8-d733c34a112f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0e52c81a-c93b-4c0e-a4e8-ce214221e257)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1548883b-8708-49cf-a742-4362e85f318e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/200255fb-b5fb-4709-a6f2-2d6b70f7eaa4)
+
+* Answer -> 13. [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8d6ee34a-a99a-4b68-93f8-9814512c9524)
+
+* 2 [Question] [CAT]
+* * How many 5-digit perfect squares will end in 89? 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/549a2f61-9158-4caf-aa68-d526ed403603)
+![image](https://github.com/arghanath007/MBA/assets/54589605/de34b71e-d3d7-458c-ac6f-acd6f70e4573)
+![image](https://github.com/arghanath007/MBA/assets/54589605/36de6534-b87b-42f7-9f30-d7869256d3d0)
+
+* Option **D**.
+* Answer -> 8. [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
 
 
 
