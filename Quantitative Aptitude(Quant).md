@@ -3,7 +3,7 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c88d2f60-47fd-431e-84ce-571bacf2aeb5)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d9b33b61-fdfd-4130-a644-be463c969926)
 
-* Calculator.
+* Calculator. [Information]
 
 * Rodha Classes(2024).
 
