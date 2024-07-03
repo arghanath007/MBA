@@ -1,5 +1,10 @@
 # Quantitative Aptitude 
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/c88d2f60-47fd-431e-84ce-571bacf2aeb5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d9b33b61-fdfd-4130-a644-be463c969926)
+
+* Calculator.
+
 * Rodha Classes(2024).
 
 ## Speed Maths(1)
@@ -238,11 +243,79 @@
 * Option **D**.
 * Answer -> 8. [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/1f395953-90c4-473b-aba9-e3c4f1edd6ac)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac82e856-d9f0-4b05-9567-cc98aa01c7ec)
 
+* Ends with **25**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/dfd022c4-ee05-4e40-87d7-5800b67f6008)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3d04592f-0266-4b6e-a4b7-77354b0282e7)
 
+* How many perfect squares are of the form AABB, 4-digit nos?
+* 3 [Question] [CAT]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/202740fe-1c3b-41e0-ae9a-e5603efa8ac3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/edd52f5d-d385-4a10-bafb-eb3c8eb449e8)
 
+* None of the digits have **1st '2' nos** as **same/similar**.
+* 4 digit no -> Less than **100 ^ 2**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1bbf7787-fc7d-42e3-906d-066cf71a14f8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/27a13a01-6d8f-457f-976d-c3b6c1adfbed)
+
+* As we couldn't find **1st '2' nos** as **same/similar** that's why we tried to find the  **last '2' nos** as **same/similar**.
+* AABB -> 7744.
+* Answer -> 1. [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/77f3f584-e261-4538-bc3b-8dfa48c84cc1)
+
+* How many perfect squares upto 11500 will end up in 25?
+* 4 [Question] [CAT]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2bd9f620-5845-4c1a-a11f-dbf42ee1684c)
+
+* Answer -> 11 [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/73e0ef06-c6c7-492c-86b9-61ccd1e1e56c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ae68401a-1d94-4561-9311-26d6992045df)
+
+* How many 4-digt and 5-digit squares end in 41?
+* 5 [Question] [CAT]
+* 4 digit -> 1000 -> Greater than **32^2**. [**VERY IMPORTANT**] [Formula]
+* 5-digit -> 10000 -> Less than **(316 ^ 2)**. [**VERY IMPORTANT**] [Formula]
+* 21 ^ 2 -> 441.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d019ea65-821f-4cb6-ab54-63c4cc4ca0f1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6c5ac4eb-e59e-47fd-912d-4707a1b29ca9)
+
+* Option **A**.
+* Answer -> 10 [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again]
+
+### Percentage Approximation
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5ca8bef0-d47b-4e8d-a039-9d4ce3dc7db8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a8e920ab-610e-41fd-a9b0-1762e0a79026)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a1c1d0e4-f4a6-496c-aa87-c188aa965ee3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d6903827-b84f-485e-9a36-93cf24f0ddab)
+
+* Calculations. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/eabd2d35-b250-43bf-ac65-8e47dec524bb)
+![image](https://github.com/arghanath007/MBA/assets/54589605/54daaaeb-0663-455c-ba70-2f8a07d85a88)
+
+* Percentage Table. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/72b79d86-7589-4f91-b05d-9817d678c50c)
+
+* 5 [Question] [CAT] 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0321b805-ec98-44a8-854b-dc740294b1e5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ae8bc373-3ef3-4c96-8d02-57ae6d81395b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/954b88c6-9283-4ccf-bab7-1a666615211d)
+
+* Answer -> 0.27 [Answer] [Solution] [**IMPORTANT**]
+
+## Speed Maths (3)
 
 
 
