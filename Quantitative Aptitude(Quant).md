@@ -143,6 +143,10 @@
 
 ## Speed Maths (2)
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/26c1c2fd-c81e-4b10-bacf-6023b993a0dc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f6cf0d89-45c4-4d19-ab7e-487d2bb51240)
+
+* Example. [Even Gap]
 
 
 
