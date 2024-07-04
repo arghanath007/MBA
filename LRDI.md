@@ -406,6 +406,219 @@
 
 ## Quant Puzzles Part(3)
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/586aa824-6fc4-4ae4-a739-49fadfc17b86)
+![image](https://github.com/arghanath007/MBA/assets/54589605/214a9e4d-9ed1-42df-82a8-9556bd85d236)
+
+* 1 [Question] [Set]
+* Last pick loses.
+* 684 coins
+* 114 * 6 -> 684
+* 113 * 6 -> 678
+* We are nos before **684** that's why we are using the multiple of **113** with **6** which gives **678** which is **smaller than 684**. [Logic] [Explain] [**VERY IMPORTANT**]
+* 2,3 and 4 -> 2<= n <=4.
+* CF -> 2 + 4 -> 6
+* Losing no series -> 6K + 1, 6K + 2 -> 679, 680
+* We cannot do **5** as the max limit is **4** only.
+* 684 - 4 -> 680
+* Answer -> 4
+* Option **A**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Got it wrong]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a0ed4d1f-4a95-4334-8f88-39e745c32836)
+![image](https://github.com/arghanath007/MBA/assets/54589605/da543a07-081a-4fe5-8a1f-500ed0058cce)
+
+* Last pick loses.
+* 3,4,5,6,7 -> 3<= n <=7.
+* 1733 coins.
+* 173 * 10 -> 1730
+* CF -> 3 + 7 -> 10
+* Losing no series -> 10K + 1, 10K + 2, 10K + 3 -> 1731, 1732, 1733.
+* We are starting on **losing no** only which is **1733** which means that **A** will **never win**. **A** is already on a **losing number**.
+* Answer -> Never win
+* Option **E**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e1536ff3-b1aa-4353-99bb-a98f8d5fe437)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d0047137-04c1-460b-8719-95e29e5a65e1)
+
+* Last pick wins.
+* 7,8,9,10,11,12,13 -> 7<= n <=13.
+* 2440 coins.
+* CF -> 7 + 13 -> 20
+* 122 * 20 -> 2440 [20K]
+* Losing no series -> 20K, 20K-1, 20K-2, 20K-3, 20K-4, 20K-5, 20K-6,
+* We are starting on **losing no** only which is **2440** which means that **A** will **never win**. **A** is already on a **losing number**.
+* Answer -> Never win
+* Option **E**. [3] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/baa8286b-bb60-4cbd-b32a-2447a4f8700f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4d78cd1f-9965-4fbd-ab22-7b0b1c5a25f1)
+
+* 2 [Question] [Set] 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a5297988-045d-40e0-8836-430b9594e25b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cf7d49b3-14c4-44f7-96a2-e5aff7334d63)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b72b5013-1664-450d-ad0b-b204c4e73e97)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b0ba9075-738b-4658-baf1-461bd7141a17)
+
+* We can measure upto **7Kgs**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ec6ad10a-8a91-475d-9579-a4a120ba9b39)
+![image](https://github.com/arghanath007/MBA/assets/54589605/11396dc6-7dc2-4b3f-b4eb-3fcacb8a059a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6833aa68-584a-438a-8863-aa5e8f28d8bc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/193c24e8-a8b1-4324-a6ae-c571f93ddb2e)
+
+* Left side is **Powers of '2'**.
+* Right side is **Power of '2' and minus '1'(-1)**.
+* To measure upto **1023** we need **10** stones.
+* Answer -> 10 [1] [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5426c235-f675-4da8-bc55-ce1d89736f01)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6f59e1ba-1a4e-4be6-8a11-8f711913f191)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a6866029-7ce0-49d6-9041-bdbd2c863a29)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f8b8523f-736a-4ca9-aa78-5759f7a13192)
+
+* We cannot do **8kg** with **3 stones**, we need **4 stones** for **8kgs**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7df3f5c5-af4f-4609-b5b5-bf8750633d7c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/220aafad-cdc0-4dea-b295-6255519419e3)
+
+* 2 ^ 10 -> 1024
+* 2 ^ 11 -> 2048
+* 2 ^ 0 to 2 ^ 9 -> (2^10) - 1 -> 1023 -> 10 stones. [0 to 9 -> 10]
+* 2 ^ 0 to 2 ^ 10 -> (2^11) - 1 -> 2047 -> 11 stones. [0 to 10 -> 11]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/30a23020-c945-4215-b291-ceb6d06852d5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1b880af3-c784-46d0-bb24-65edd5edece8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4253c5fe-a81a-41c8-8b31-62bb8bea20df)
+
+* * Answer -> 11 [2] [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a60b619b-5da9-4d1c-ad85-790561c2c331)
+
+* 3 [Question] [Set]
+* We need to **minimize** the **no. of weights** we are putting on the balance. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e0d46bb1-0962-42f8-bfd7-559bc5db13e7)
+
+* 3kg - 1kg -> 2kg.
+* We can use the **difference** in the **weights**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ca0b6f15-0277-4614-a1d9-6a28f200f5d9)
+
+* If we have **1kg and 3kg** stones then we can weight upto **4kg**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/46e18d8e-ae8d-4331-94a7-8ff378f0b658)
+
+* If we have **9Kg** weight on one side and we put **1kg and 3kg** weights on the other side then the **differene** in the **weight** is **9 - 4 -> 5kg**. This is how we will get **5kg**. We do not need a **5kg** weight.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a2256c6a-cb99-49c7-a59a-a5e8e0d4289a)
+
+* To use **min** no. of **stones/weights**, we have to **maximize** the **value**. [Logic] [**IMPORTANT**]
+* 9 + 3 + 1 -> 13kgs.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/764d5c7b-af51-47c2-8771-e96d45f7d3ce)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac2ad942-bf10-450c-8408-9ad897297342)
+
+* 9 + 3 - 1 -> 11kgs.
+* 9 - 3 -> 6kgs.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ff7da0dd-8b02-419f-b9f3-3913f48bfd37)
+
+* 4 + 5 -> 9kgs.
+* 13 + 14 -> 27kgs
+* 27 - 13 -> 14kgs.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2d684439-48ed-427f-8d93-46301c23ffec)
+
+* 1 sided balance pattern -> Power of 2. [Logic] [Formula] [**VERY IMPORTANT**] [Practice Again]
+* 2 sided balance pattern -> Power of 3. [Logic] [Formula] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8937ab29-bfc0-49c0-a52d-f7ee1ebf6f90)
+![image](https://github.com/arghanath007/MBA/assets/54589605/17bb0a70-d4f8-4e2d-b0e3-aeb7def07fd0)
+
+* 40 + 41 -> 81kgs.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3367adab-2e93-42fd-bea3-604ba282f309)
+![image](https://github.com/arghanath007/MBA/assets/54589605/88fae6f8-90e3-47b5-b7f5-0b128770931b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b5d4c28f-5136-4015-bdea-b8486e771a44)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d26b8842-7dac-494b-8a26-47d32fbb87a4)
+
+* Pattern. [**VERY IMPORTANT**]
+* Left Side -> power of 3.
+* Right side -> ((3 ^ (n)) - 1)/2 [n -> 1,2,3,4,...]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3d773f71-3b34-43bd-8e3d-cc92a6a59363)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c6635e3f-bbfe-41b3-a5d6-50d62437aa7f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ae7c397b-63ac-403e-8b0c-bbedd1e0b807)
+
+* If we keep **729kgs** then we can measure upto **1093kgs**.
+* If we want to measure after **364kgs** then we will need from **3 ^ 0 to 3 ^ 6** which is **0 to 6 -> '7'** stones.
+* 1kg to 1000kg
+* Power of 3 which is closer to 1000.
+* 3 ^ 6 -> 729
+* 3 ^ 7 -> 2187
+* So we want more than **3 ^ 6** but less than **3 ^ 7**. So we need atleast **3 ^ 6**. So it is from **3 ^ 0 to 3 ^ 6** which is **0 to 6 -> '7'** stones.
+* **3 ^ 0 to 3 ^ 6** -> 0 to 6 -> **'7'** stones
+* Answer -> 7 [Solution] [Answer] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/dd3b3c16-7f94-44b7-a155-b0553de5bfb0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7ab6a4a0-2549-44c6-9457-b4bfbb6bd26f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a74b4c18-2eb4-4d65-8f81-150407f5c67b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f4785293-6946-4716-874d-d0f111753bcd)
+
+* 1kg to 2100kg
+* 3 ^ 7 -> 2187 -> We can measure upto **1093Kg**. We need till **2100kg**. [((3 ^ 7) - 1)/2 -> 1093kg]
+* 3 ^ 8 -> 6561 -> We can measure upto **3280**. Now we can measure till **2100kg**. [((3 ^ 8) - 1)/2 -> 3280kg]
+* So we want more than **3 ^ 7** but less than **3 ^ 8**. So we need atleast **3 ^ 7**. So it is from **3 ^ 0 to 3 ^ 7** which is **0 to 7 -> '8'** stones.
+* **3 ^ 0 to 3 ^ 7** -> 0 to 7 -> **'8'** stones
+* Answer -> 8 [Solution] [Answer] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a9ab28ef-2325-46a1-b201-1ca48783c64e)
+
+* 4 [Question] [Set]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/75aa4ef6-8924-42cb-a6ea-ff45c1a3bd67)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6b6b7ae4-9280-4f57-92ec-a2f8553c2f67)
+![image](https://github.com/arghanath007/MBA/assets/54589605/38c2b605-5b02-4ff2-a78f-ec4b60a8a5b4)
+
+* It is in the **power of '5'**. [Logic] [**VERY IMPORTANT**]
+* (125-1)/2 -> 62
+* (25-1)/2 -> 12
+* It is from **0 to 3** which is **4**.
+* To measure upto **250kgs**, we need **4** stones.
+* Answer -> 4 [1] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ff9450a7-ad76-4ac7-9823-56c446df39eb)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4b40a8ef-23a9-42b0-bce9-95e689979ba7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7ed8dc57-cf05-4de4-b2a0-39028bd42a94)
+
+* 5 ^ 4 -> 625
+* (625 - 1)/2 -> 312
+* 625 * 5 ->  5^5  -> 3125
+* (3125 - 1)/2 -> 1562.5 -> 1562
+* It is from **0 to 4** which is **5**
+* To measure upto **600kgs**, we need **5** stones.
+* Answer -> 5 [2] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/645af39d-fef0-4539-9874-2d32564e3c08)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4fa6f14e-b2b0-45ca-aa3e-3add2359fc21)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0a931295-9241-445e-849d-4161859f2a33)
+
+* 5 [Question] [Set] [Doubt]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2dc1ab8b-31f9-4769-bcdb-f87661129953)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3622306b-0c9e-4387-a3d1-067f263edd50)
+![image](https://github.com/arghanath007/MBA/assets/54589605/84e1a595-cbf8-415e-ad22-74e19ecf2441)
+![image](https://github.com/arghanath007/MBA/assets/54589605/988ff2c6-3af4-47e6-b76b-10a2399539ea)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1d387577-319e-482a-8a3e-055ae2c72c6e)
+
+* Answer -> [1]
+* (80 + 20)/140 -> 100/140-> 5/7 -> 5/7 -> 71.4 % 
+* Answer -> 71.4 % [2]
+* (20)/140 -> 1/7 -> 14.28 % 
+* Answer -> 71.4 % [3]
+* Answer -> 60g [4]
+
+## Puzzles (Part - 4)
 
 
 
