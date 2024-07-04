@@ -289,31 +289,122 @@
 * 1512 is the **losing** no. This is the **trap**.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e0d62de5-ad3a-4317-b59f-0c0f4f8e0adc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4f8ffceb-9af5-4b77-ad24-422854b1ca36)
 
 * 2 [Question] [Set 1] [CAT]
+* CF -> 4 + 6 -> 10.
+* Losing No series -> 10K + 1, 10K + 2, 10K + 3, 10K + 4.
+* The nos that are closest to **15**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/2f44763d-737b-480b-a55e-7f92ac2a9d30)
 
+* The min. we can pick is **4** only, we cannot pick **1, 2 or 3**.
+* The game is at **15** only and if we pick **4** then it will be at **11** now. **11** is a **losing number**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/d05d85df-abe8-4f19-843d-89d9d8b3938f)
 
+* If we pick **4** then we will **lose** the game.
+* Essentially we have to bring the **opponent** to a **losing number** essentially.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac339939-3d83-4086-8be3-a08e70c38833)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bf846d55-9be2-47bf-8c0f-fa8d33ab61c9)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ee1bc2ec-3316-402b-8afa-293d51fccee9)
 
+* Answer -> 4
+* Option **C**. [1] [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/96fa4958-c0b2-44b3-8b28-087f0d984d10)
+![image](https://github.com/arghanath007/MBA/assets/54589605/537f0c40-6552-4393-b495-23252bc6fd70)
 
+* 10 * 10 -> 100
+* Losing No series -> 10K + 1, 10K + 2, 10K + 3, 10K + 4 -> 101, 102, 103, 104
+* These **102, 103, 104** are losing nos, so **105** is the answer.
+* Answer -> 105
+* Option **D**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/1c071956-5046-4203-87c5-d01b603550eb)
 
+* Losing No series -> 10K + 1, 10K + 2, 10K + 3, 10K + 4 -> 11, 12, 13, 14
+* **n** is greater than 8 but less than 20.
+* The amount of coins we can pick is **4, 5, 6**.
+* Max value of **n** is **19**.
+* **19-4 -> 15** that is not possible as **15** is not a losing number.
+* **19 - 5 -> 14** is possible as **14** is a **losing no.**.
+* Answer -> 19
+* Option **A**. [3] [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/319a9e7c-97a3-4633-a184-f5a73400e528)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f92bbe77-307f-4828-944b-257e6316571c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/46808d4a-4f15-48ce-b796-bc4ab50a1183)
 
+* 2 [Question]
+* 2<= n <=6
+* Last pick loses format.
+* CF -> 2 + 6 -> 8
+* 8 * 7 -> 56
+* Losing no series -> 8K + 1, 8K + 2 -> 57, 58.
+* 60 - 2 -> 58.
+* 60 - 3 -> 57.
+* His -> Kushal's win.
+* Answer -> either 2 or 3.
+* Option **D**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Read the question] [Got it wrong]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/67ab06bc-8471-45b7-89d0-9b987c6a29cf)
 
+* No matter how many coins kushal picks -> It means that kushal is on a losing number. [Explain] [Logic] [**IMPORTANT**]
+* 64 -> 8 * 8 -> Not a losing no.
+* Losing no series -> 8K + 1, 8K + 2 -> 65, 66
+* 54 -> 8 * 7 -> Not a losing no.
+* Losing no series -> 8K + 1, 8K + 2 -> 57, 58
+* 97 -> 8 * 12 -> 96 -> losing no.
+* Losing no series -> 8K + 1, 8K + 2 -> 97, 98
+* Answer -> 97
+* Option **C**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/585c6e0a-c245-45fd-8a56-d76c5362242c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/91cfb9fa-1f63-4d70-a054-580d726b0402)
 
+* Shreya is picking up **5** coins. That's why we are substracting **5** from every option. [Logic] [Explain] [**IMPORTANT**]
+* 38 - 5 -> 33 -> 8 * 4 -> 32 -> losing no.
+* Losing no series -> 8K + 1, 8K + 2 -> 33, 34
+* 50 - 5 -> 45 -> 8 * 6 -> 48 -> Not a losing no.
+* Losing no series -> 8K + 1, 8K + 2 -> 49, 50
+* 77 - 5 -> 72 -> 8 * 9 -> 72 -> Not a losing no.
+* Losing no series -> 8K + 1, 8K + 2 -> 73, 74
+* Answer -> 38
+* Option **A**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Got it wrong] [Read Question]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/c5419f75-6e6b-4b0e-aa6d-9e14bbadb3b3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9cc998d7-d70f-4bea-bcd9-841433443621)
+![image](https://github.com/arghanath007/MBA/assets/54589605/683ca91c-e85d-4ff8-bca5-821374bf0ccc)
 
+* 2 [Question] [4 and 5]
+* Last pick wins format.
+* 900 coins
+* CF -> 8
+* 112 * 8 -> 896
+* Losing nos -> 8K, 8K -1 -> 896, 895
+* 900 - 4 -> 896.
+* 900 - 5 -> 895.
+* Answer -> either 4 or 5
+* Option **D**. [4] [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/a155bead-0c12-485e-b749-88bd8dd393fe)
 
+* 49 - 2 -> 47 -> 8 * 6 -> 48 -> Losing No
+* Losing nos -> 8K, 8K -1 -> 48, 47
+* 67 - 2 -> 65 -> 8 * 8 -> 64 -> Not a Losing No
+* Losing nos -> 8K, 8K -1 -> 64, 63
+* 101 - 2 -> 99 -> 8 * 12 -> 96 -> Not a Losing No
+* Losing nos -> 8K, 8K -1 -> 96, 95
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/1ff04fec-66b2-4a06-8080-6ef710d426cc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a50e838e-f967-41d8-93c2-cdebfc8cdbd9)
 
+* Answer -> 49
+* Option **A**. [5] [Answer] [Solution] [**VERY IMPORTANT**]
 
+## Quant Puzzles Part(3)
 
 
 
