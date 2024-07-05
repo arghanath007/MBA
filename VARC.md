@@ -225,16 +225,48 @@
 * 3 [Para]
 * From all of the **'3' paragraphs** above.
 * Paragraph Flow ->
-* Keywords/points -> Language, Writing, thinking, experiences, feeling, thoughts
+* Keywords/points -> Language, thoughts, expression, feelings, Writing, thinking, experiences,
 * Summary ->
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c2dbd327-8947-4b46-9e37-d1c0c360d19b)
 
-* If **question** comes at the starting of the **paragraph** then the author will try to give an **answer** to that **question** or try to do **analysis** of the **question** within the **paragraph** itself..
+* If **question** comes at the starting of the **paragraph** then the author will try to give an **answer** to that **question** or try to do **analysis** of the **question** within the **paragraph** itself.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/5fab9611-4d86-4d5c-a396-385e3717887e)
 
 * The **language** is stabilizing the word **green/laptop**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1d0e2f67-2505-4161-bd0b-c54a2b0b8da8)
+
+* Language is **important** to express **feelings**.
+* We won't be able to say the **pain** without the **language** but we will get the feeling of **pain** without the **language**.
+* We need language to express the **feelings**.
+* The author is trying to say that **language** is **important**.
+* **Pain** doesn't fall in **any language**.
+* **Symbol** is a **language**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d85a3f9b-2f63-464c-8a76-ef3a4a2d4965)
+![image](https://github.com/arghanath007/MBA/assets/54589605/48359265-85da-41b2-b7ab-0e7492795d11)
+![image](https://github.com/arghanath007/MBA/assets/54589605/245efa20-3d0a-4492-b69f-183eabfb9e89)
+![image](https://github.com/arghanath007/MBA/assets/54589605/90fe2589-87ac-43b9-a533-0598b8175625)
+
+* Intricate -> Delicate.
+
+[!image](https://github.com/arghanath007/MBA/assets/54589605/e126e7f1-5577-4541-897e-db0d2d878781)
+![image](https://github.com/arghanath007/MBA/assets/54589605/95ffe08b-0575-416d-a6da-21ea0c458f6c)
+
+* Understading. [1]
+
+## RC (Part-4)
+
+
+
+
+
+
+
+
+
 
 
 
