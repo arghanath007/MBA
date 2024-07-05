@@ -90,18 +90,151 @@
 
 ## Reading Comprehension(RC) (Part - 2)
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/1dd391da-f667-465b-b0e4-0f0ae95db4c3)
 
+* 1 [Para]
+* In every paragraph we are trying to identify **author's claim**. [Formula] [**VERY VERY IMPORTANT**]
+* alluring -> attractive/charming.
+* We sometimes inflict great damage -> Claim
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/62eb4a95-0298-4876-b3db-e5fd6fec6007)
+![image](https://github.com/arghanath007/MBA/assets/54589605/82a9358b-2412-4b7e-9ea3-1691b2dbe5b4)
 
+* ariters ->
+* canine -> Dog.
+* The author is against some kind of breeding that will inflict some kind of damage.
+* The author is negative about selective breeding.
+* The author has written so many points about **dogs** to drive home the point.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/4d07c93b-e6a7-4d03-87f9-42b1dab1159c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b52b7321-afe4-4085-8346-f8cf1a2a1dc3)
 
+* **Claim** is an **opinion**.
+* **Best** is a **subjective** word.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/111bcbe9-f70f-4af4-8324-7b2ea9e51952)
 
+* Dog is used as an example to support the main point/1st statement.
+* Normally, **main claim** is the **central idea** or **keys of the central idea**. [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/5c7b3dcf-17e4-4e0a-a34e-80b840b24fab)
 
+* Explaination. [1]
 
+ ![image](https://github.com/arghanath007/MBA/assets/54589605/c18a29a8-1efb-4990-9d50-297ef5ebf0e8)
 
+* Opinion -> It is **'1'** sentence. [**VERY IMPORTANT**]
+* Argument -> It is a sentence which has **claim and outcome** and the claim is backed up by **atleat '1' support**. [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/3a6a742d-b730-4603-ab81-40303ad21724)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f79ba6ec-9b29-4526-93a4-f7b3862cf3f7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/438fc84e-5309-4df2-a096-9540fadf9dfa)
+
+* In the whole paragraph, the **dogs** are treated as an **example**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1fa6bbde-8072-40cb-b786-30330e1ea7d2)
+
+* 2 [Para]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c9bfa2a5-aeb6-4552-a752-a24e547544c5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6512c41f-2a1b-42c2-a490-99daaa067711)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f2ae3e01-1874-4dd6-b504-29ddca27f982)
+
+* Welfare.
+* The welfare cost is not justified in terms of the author.
+* AKC -> All capitilized -> Organization's name -> So a proper name. [Logic] [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b4d1258c-1735-4f9f-86b4-811c72818b19)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a7365ac7-e4e1-4244-a630-44b2b1789a50)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f0d12228-9379-4abf-81e4-6e9b7d4c5227)
+![image](https://github.com/arghanath007/MBA/assets/54589605/178a49cb-8131-4193-9526-c110024d3b62)
+
+* Explaination. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a2938593-fd37-449f-ba74-5268589f2d79)
+
+* 3 [Para]
+* monstrosities -> breed/changes.
+* Dogs are not the only example where breading has lead to **problems/issues/damage**. It is everywhere.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8e8f6909-bcf3-4442-acd7-4a7e91173579)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d35742bd-b01b-4043-a6c5-7f0a5e297061)
+![image](https://github.com/arghanath007/MBA/assets/54589605/617efb59-a30c-4ba6-9899-a0d6a60f6e7b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c8b7ad04-ba7e-470e-81ec-011b51bd14d3)
+
+* Explaination. [3]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/382094f9-e194-4d36-96b0-22a65370bf80)
+
+* 4 [Para]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/14ba15eb-ef31-4c34-b4d5-66f36c33e3b5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/17962b6c-e72a-4659-9fbd-a34eb374af2f)
+
+* Explaination. [4]
+* asthetic breeding -> more negative.
+* Biotechnology -> more negative.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8dd2650a-7595-4c63-9762-e7c0742dd4aa)
+![image](https://github.com/arghanath007/MBA/assets/54589605/dd10e87c-ca6f-4a1c-860c-e40caa6e6568)
+
+* The author can come to **very negative** tone.
+* Asthetic -> More alluring.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/51398df1-f5ee-4e7b-8820-830ca3635c26)
+
+* Breeding -> Selective breeding
+* harmful
+* Negative effect
+* Health issues
+* Costly
+* Aesthetics.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/61f94f7f-79be-4a23-af74-d4aa3040657a)
+
+* Aesthetics -> Selective Breeding(SB) -> Health issues/Costs increasing -> Negative effects.
+* Selective Breeding(SB) purely for the sake of **aesthetics** should be avoided.
+* **Aesthetics** means **appearance**.
+* Paragraph was putting emphasis on **aesthatic**.
+* We would definitely pick **aesthatic** over **appearance**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/43758a2d-35ae-4c05-bf45-8324433f94e6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/17d9093e-befa-4c3f-8bdd-6d3b132c1737)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8da96cda-c4ba-4744-9a93-0c2080286f99)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0b208839-7d7f-426b-82d4-f137da8e97ac)
+
+ * Exlaination [4]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5a294fc5-4cf0-4127-a1df-3ec7e71b822e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6c008fcf-b840-4fcd-a9ed-2084828edf2c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d05572b1-0b1d-4219-9511-0877c183ae72)
+
+## RC (Part - 3)
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9d6b46c7-61c1-40e9-aab8-850d9d479122)
+
+*  1 [Para]
+*  **Language** is a **keyword** here.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc031adf-0e33-41bc-a94e-8f7dd9772b61)
+
+*  2 [Para]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c6891b54-2d19-42d3-bb59-3048000f7015)
+
+* 3 [Para]
+* From all of the **'3' paragraphs** above.
+* Paragraph Flow ->
+* Keywords/points -> Language, Writing, thinking, experiences, feeling, thoughts
+* Summary ->
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c2dbd327-8947-4b46-9e37-d1c0c360d19b)
+
+* If **question** comes at the starting of the **paragraph** then the author will try to give an **answer** to that **question** or try to do **analysis** of the **question** within the **paragraph** itself..
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5fab9611-4d86-4d5c-a396-385e3717887e)
+
+* The **language** is stabilizing the word **green/laptop**.
 
 
 
