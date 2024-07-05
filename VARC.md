@@ -247,29 +247,149 @@
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d85a3f9b-2f63-464c-8a76-ef3a4a2d4965)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/48359265-85da-41b2-b7ab-0e7492795d11)
+
+* 1st para. [Para]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/245efa20-3d0a-4492-b69f-183eabfb9e89)
-![image](https://github.com/arghanath007/MBA/assets/54589605/90fe2589-87ac-43b9-a533-0598b8175625)
-
-* Intricate -> Delicate.
-
 [!image](https://github.com/arghanath007/MBA/assets/54589605/e126e7f1-5577-4541-897e-db0d2d878781)
-![image](https://github.com/arghanath007/MBA/assets/54589605/95ffe08b-0575-416d-a6da-21ea0c458f6c)
 
 * Understading. [1]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/90fe2589-87ac-43b9-a533-0598b8175625)
+![image](https://github.com/arghanath007/MBA/assets/54589605/95ffe08b-0575-416d-a6da-21ea0c458f6c)
+
+* Understading. [1]
+* Intricate -> Delicate.
+
 ## RC (Part-4)
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/16d11c9c-de8d-4ed4-8209-66f62a8f9d99)
 
+* 1 [Para]
+* keywords -> race, social, inequality
+* author's claim -> The first line of the paragraph -> There are at least two distinct phases in the sociology of racism, ...as constructed by social actors and social forces after World War II.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/2fe29618-e483-46ba-833d-bdd1a2fa1cd7)
 
+* Sociology -> About society.
+* The focus of the paragraph will be on how **racism came to society**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/b900345b-90f9-4c7a-a058-0c5daf169fd8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c875c04a-42b8-4cf1-a413-6f9257890831)
 
+* **Social actors and factors** after **WWII** where the **factors** that lead to **race/racism**.
+* Overt -> open.
+* 1st phase(P) -> Overt and direct.
+* 2nd phase(SP) -> Explicit, implicit bias and processes -> Will result in more clarity.
+* Diffuse -> Direct and some indirectness also.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/26d077bf-b1d7-47c4-8045-bedfc93bedd7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ddd28c16-83da-405b-9893-1f6600439aea)
 
+* The paragraph talks about **2 phases** and majorly talks about **2 differences**.
+* 1st phase is **more direct**.
+* 2nd phase is **direct** as well as **indirect**.
+* **Racism** is a **note**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/9aab92d6-417f-4d19-871f-bd4570b0cef2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/41602e40-fc5c-4cba-bf9b-1af59a90ca56)
 
+* and talk about the two different phases.
+* Understand. [1] 
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/f5e1aa84-9aa3-4a56-8343-f2a1bbed5619)
 
+* 2 [Para]
+* keywords -> Sociology/social, racism, scientific/scientists
+* author's claim -> 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/54f9f9c8-6290-49d9-b802-e7c7797cf21f)
+
+* Few -> Kam/less -> negative meaning
+* perverse -> negative impact.
+* Rather than studying **racism** as a **social problem**, **social scientists** were having **racist assumptions**. It will lead to a **biased study**. No new**neutral** outcome will come.
+* **Social scientists** should be **unbiased**.
+* The author is typing to put the social scientists in some sort of **negative** lime light. They maintained racist attitude and incorporated racist assumptions.
+* Pervaded -> Occupied
+* discourses -> study
+* misapplied -> negative word/form.
+* The authod is **sad** about the **social darwinism**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d0e90192-ba60-42c2-a1bb-82898df755bc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/62dd01a0-8d46-48d1-92a0-72750b5090e2)
+
+* The 2nd para started in the late 19th century. Very few scholars studied racism. Others, instead of studying racism as a social problem they maintained racist attitudes and incorporated racist assumptions. The scientific discourses had racist implications/implied. The author was **not happy/sad** about it.
+* 2nd para is talking about the **1st phase**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/33e1abf6-78f2-49c9-bdc1-a398a770b2f3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/dd1765d6-866d-4617-a487-930043c59098)
+
+* Understanding. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/95878c45-f95b-4c5a-91fb-cd5f54baef34)
+
+* In the **main idea** there is **no opinion** or **explicit claim** of the author. We have tried to find the **implied claim**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9dbafc2e-998a-47af-96ab-f548a7c9721e)
+
+* 3 [Para]
+* keywords -> sociologists/sociological, 
+* author's claim -> Began to view racism as a distinct social problem worthy of study.
+* attenuation -> decrease/reduction.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ab3f0690-9131-4252-bb8e-2738525c1063)
+
+* Closer scrunity -> more examination.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a0fcdc02-94f9-4323-b9b0-0b868c1dc3ee)
+
+* At the starting, the **european immigrants** are classified into **other**. This is **racism/raciasization**. Later on, the **european immigrants** are assimilated.
+* Assimilate -> transform/mix
+* As the time went up/passed by, the racism has **decreased/went down**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/4b3558be-b0d0-4c87-9e79-9263286ae906)
+![image](https://github.com/arghanath007/MBA/assets/54589605/aaf70bf5-ef6f-4326-ba4a-84c514ce7ce0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/33134d7f-a5ef-4dd6-aea0-d352388b7651)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f994bfc5-cf11-44cf-a2aa-0c709ea6b406)
+
+* Understanding. [3]
+* They understood that **racism** is a thing that is going to **decrease/went down/fade away** with the **passage of time/passing of time**.
+* We cannot explicitely say that the **author is happy** about the **fading** of racism with the passing of time.
+* We haven't found any explicit **author's claim** in paragraph **'3'**.
+* The author's note is analytic.
+* The 3rd para is about the **studying** of the **socialogy of racism**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/78fb347c-fd03-4663-a285-c96a80a90968)
+
+* 4 [Para]
+* keywords -> 
+* author's claim ->
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/17d1ee74-4470-4038-a03d-dfb57b641268)
+
+* Prejudicial -> injure/harm
+* little difficulty -> low.
+* The racism was defined by the **social scientists**.
+* **Social scientists** word is implied in the 4th para.
+* There is no talk about **phase '2'**.
+* In the 4th paragraph, we are talking about the **1st phase**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/323a2f13-9f4a-452a-aca4-c50a12986416)
+
+* The tone of the author is largly **neutral**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e23bc76d-3990-4e8c-a9a7-a870daa08106)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e22052f6-5fdb-4ad1-b4b5-d44fbb511a42)
+![image](https://github.com/arghanath007/MBA/assets/54589605/879dfb92-2532-4c1f-8732-4fd360f55bbf)
+
+* Understanding. [4]
+* Tone is **neutral** only.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2aa51f00-9e03-4b55-bf7f-f05c7771f2d8)
+
+## RC (Part - 5)
+
+* ERT-2.
 
 
 
