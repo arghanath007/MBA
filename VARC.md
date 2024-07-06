@@ -446,9 +446,9 @@
 
 * Broad understanding of the **paragrah/passage** is **needed** to solve the **RCs**.
 
+## Part(7)
 
-
-
+* RC Part - 2
 
 
 
