@@ -446,9 +446,59 @@
 
 * Broad understanding of the **paragrah/passage** is **needed** to solve the **RCs**.
 
-## Part(7)
+## RC Part- 2 Part(7)
 
-* RC Part - 2
+![image](https://github.com/arghanath007/MBA/assets/54589605/2f5b5118-ff05-40f7-a6d7-68487ef83a67)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c5206508-c472-42d8-9731-9ac3ca175b98)
+
+* Kind 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f68dfe0b-5de5-4837-9d50-d2ee91f39e46)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d738bb6d-cdb2-4d50-a006-2632671f5ba7)
+
+* Inferrence.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a4d89d16-e893-46e0-8e3a-09f9341182e6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4afc1965-ca48-4f02-8e26-54de13217d86)
+![image](https://github.com/arghanath007/MBA/assets/54589605/10cfcc18-56a9-42c1-b17e-80b620d5208f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8e37e496-ebd1-4a4f-8c8d-a19058c91e96)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e654f3c8-eeca-4d19-9752-7779d23bdf47)
+
+* The **options** are making the **questions** into **complex** questions.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ad59d74d-e74f-4b2d-963b-0503661e5530)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cfaae442-4852-48d9-9494-784edfffe2dc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8143a7a4-06ec-4a82-b30c-377e5060a7b0)
+
+## Verbal Ability(VA) in CAT
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/75310afd-42bd-49ed-98c2-4e1e0e3eb211)
+![image](https://github.com/arghanath007/MBA/assets/54589605/65f96232-abbd-4a9b-8932-bcb1eb86cff8)
+
+* VA.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e7d975a6-a740-416d-852b-c3152cc58574)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9baed445-2d54-44e6-819d-d9be81ba45c0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/151baa5a-b3d8-46f8-8b43-638595b7f24d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/982e856e-0c6e-4c72-b061-4b8e790891c1)
+
+* Odd sentence.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8a1f3d8d-8107-4d38-9c62-fda9f71faf94)
+
+* Sentence placement.
+* Multiple/group of sentences is a **paragraph** only.
+* Everything is revolving around a **paragraph**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0ed795d6-cf92-431a-ae80-191e0c44a645)
+![image](https://github.com/arghanath007/MBA/assets/54589605/13df7e9c-c382-4ed3-b273-ae59734bc83a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/acae20d4-9404-4566-95cd-255d665e9a4b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/55ce083c-20a4-463f-8c47-e03dfe15b424)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7e6e088e-86ed-46e5-b466-944c94527fc2)
+
+* Critical Thinking.
+* Option Trap.
+
 
 
 
