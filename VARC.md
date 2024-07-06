@@ -408,140 +408,43 @@
 
 # VARC1000
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/431f318a-a2d0-44ff-8e0f-eacaea57fb03)
-![image](https://github.com/arghanath007/MBA/assets/54589605/d2da9c54-6940-41c9-b565-a2e5b55a0c48)
-![image](https://github.com/arghanath007/MBA/assets/54589605/67ef81fa-40a0-4f39-b9c5-8b5ac7d1abe6)
-![image](https://github.com/arghanath007/MBA/assets/54589605/a4fd381b-1be5-42a3-a3af-45b56ca12663)
+## RC in Cat (Part - 1)
 
-* We have to beat **70%** of the people.
-* Percentile requirements.
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac5e7500-b798-408f-94d5-276549013201)
+![image](https://github.com/arghanath007/MBA/assets/54589605/64cab5a7-0c04-4453-96ae-18b957fb38b8)
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/f247c10a-26e4-448b-91a1-11a905bee8d9)
-![image](https://github.com/arghanath007/MBA/assets/54589605/03ac408c-db7b-4d65-9d16-abba3bf5842b)
+* Pattern.
+* 40mins for **VARC**.
+* Reading Comprehension(RC).
+* Passage Summary(PS).
+* Para jumbles(PJ).
+* Odd Sentence(OS).
+* Sentence placement(SP).
 
-* Application -> Profile rating.
+![image](https://github.com/arghanath007/MBA/assets/54589605/119f6839-16cf-4142-8e08-fb5866bbfd9e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cdfd0977-7a47-4c99-b34b-b13436d8cae3)
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/f13bd3a4-b5d7-402d-9c9b-24d4158c5b1c)
-![image](https://github.com/arghanath007/MBA/assets/54589605/218f2325-fb04-464f-b049-cc6818adfa11)
-![image](https://github.com/arghanath007/MBA/assets/54589605/388b62b4-e438-4e1b-b17c-f13820dd0af2)
-![image](https://github.com/arghanath007/MBA/assets/54589605/c838ca97-137d-4d9b-b099-921eedbd56b1)
-![image](https://github.com/arghanath007/MBA/assets/54589605/bfdb6657-4bad-4715-b0b9-3864cf9e1d32)
+* RC.
 
-* Application Rating.
+![image](https://github.com/arghanath007/MBA/assets/54589605/47c93dd4-43da-47d5-afe9-09ea2483a2d0)
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/54c0890a-82ff-4784-9703-6601485aec91)
-![image](https://github.com/arghanath007/MBA/assets/54589605/a0e7c022-a53b-40f4-aa7c-a995d7893a44)
-![image](https://github.com/arghanath007/MBA/assets/54589605/bc31d083-b4a0-4d69-9137-c55b81157eea)
-![image](https://github.com/arghanath007/MBA/assets/54589605/140852bb-39ed-481c-90ed-74ff2303f322)
+* Min. no. of words in a passage, it is around 500 words.
 
-* **CAT** exam/TEST is in **our** control. [**VERY IMPORTANT**]
+![image](https://github.com/arghanath007/MBA/assets/54589605/d819a851-ce65-468b-ac9e-f4011bd4337c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9818c629-13d8-4238-80c9-caab5d2431b2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1f252e15-16cc-4ad0-b291-d67e1323729e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/46a13dd9-471a-4856-bb2e-e06f5cb8df51)
+![image](https://github.com/arghanath007/MBA/assets/54589605/52626779-5e0c-456c-905b-22472a5a6c64)
+![image](https://github.com/arghanath007/MBA/assets/54589605/44e0c86b-ee82-4fec-bbef-eb335f63fd20)
+![image](https://github.com/arghanath007/MBA/assets/54589605/43e01b56-2b0e-4fc7-af57-c9bd8179b46e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc331f44-df12-44c0-9d06-6fa40ba2ea9a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bcd3bed4-ae00-4207-92e6-9cf74b771361)
+![image](https://github.com/arghanath007/MBA/assets/54589605/24cc0e7d-f77c-4e52-8e55-d10f891efb23)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4e667-cafc-45bf-a442-5530cd232e8f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b2d5efdb-80c0-4027-aafa-5f7f1f04c40b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e95a58af-c891-4f39-a617-22f9a78db73e)
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/71bf3458-8502-4a31-8f56-f45ae16a017a)
-
-* GP ka funda -> Website/YT
-* Link -> https://www.youtube.com/@GP-Ka-Funda/videos
-* IIM profiler -> APP
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/862eb540-87d7-4699-ad74-a53a25875f9c)
-
-* CAT exam format.
-* MCQ and Non-MCQ(TITA).
-* MCQ -> It has negative marking.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/43990e60-431c-4e5f-9b69-78bfaf2ef12a)
-![image](https://github.com/arghanath007/MBA/assets/54589605/18e466e1-090b-4506-b88e-0c9059de4454)
-
-* Bare **minimum**.
-* VARC -> 20marks -> 7 questions minimum
-* DILR -> 13marks -> 5 questions minimum
-* QA -> 11marks -> 5 questions minimum
-* Overall solve aout **16 questions**.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/6ec12c04-8ba3-4f87-b95d-eedd7d9c846a)
-![image](https://github.com/arghanath007/MBA/assets/54589605/838c4230-305a-4d3c-bb59-88ad23019a64)
-
-* Marks
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/3f524075-f29e-44a0-9a14-fab10797af25)
-
-* No. of questions.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/0cf9452d-9233-4e75-b398-c1603983a48d)
-
-* Passage comprehension
-* Paragraph comprehension.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/bbe06cba-cca1-44cc-a676-8ef53de99897)
-![image](https://github.com/arghanath007/MBA/assets/54589605/cfcb2a38-9ce2-46ae-9c34-bbcb49b3de31)
-
-* 16 -> 8
-* 8 -> 4
-* 8 + 4 -> 12 marks -> 99 percentile.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/61983f8c-2764-41d1-9373-863df8e80ec0)
-![image](https://github.com/arghanath007/MBA/assets/54589605/874113ed-3eca-4e37-8089-681efc0b4371)
-![image](https://github.com/arghanath007/MBA/assets/54589605/2a29e89e-4723-4f15-9af8-cc057a2fb5c1)
-
-* MBA exams and colleges.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/b9e4fe17-56ec-42cf-9137-6f9195848220)
-
-* Verbal ability.
-* Critical Reasoning(CR).
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/7e65072d-3864-44b6-b554-7983b217cce8)
-![image](https://github.com/arghanath007/MBA/assets/54589605/84212207-5ba2-4c60-9a99-9e7eed3c378d)
-
-* Comparison of Tests.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/bb3614e3-772d-48ec-83ee-bd7084dc9258)
-![image](https://github.com/arghanath007/MBA/assets/54589605/6d60de6d-38b8-43bc-8bc7-89429d451210)
-![image](https://github.com/arghanath007/MBA/assets/54589605/7d412a8a-33b2-4a22-a0ad-5b1d2f82bf52)
-
-* XAT.
-* Logical Ability -> Critical Reasoning
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/9cd75e40-ef5d-4974-bbbe-c0df51b3cf15)
-![image](https://github.com/arghanath007/MBA/assets/54589605/9bf74441-904c-4c0f-ac66-c848f1a521e7)
-![image](https://github.com/arghanath007/MBA/assets/54589605/c8114750-f8ce-44b7-8494-f127c9ad4475)
-
-* XAT verbal.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/712f19e1-aedb-4713-958c-1c72250faaeb)
-
-* XAT vs CAT.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/589cefb9-f682-4635-ba02-4bfc8e562e1a)
-
-* NMAT.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/6ccb4740-489e-445e-a4ef-4200245d3114)
-![image](https://github.com/arghanath007/MBA/assets/54589605/22e21089-efe2-489c-9aa4-ba8f4e52f4f8)
-![image](https://github.com/arghanath007/MBA/assets/54589605/c07b5da5-d124-4565-ab8e-b5ed99107ef3)
-![image](https://github.com/arghanath007/MBA/assets/54589605/ef33fedd-79ec-4a16-964d-36fc946492d0)
-![image](https://github.com/arghanath007/MBA/assets/54589605/9c1116f1-8cb8-42ea-a683-c121b03539de)
-![image](https://github.com/arghanath007/MBA/assets/54589605/a2aef1d8-3fa2-4059-8fe1-53d1399c12c2)
-![image](https://github.com/arghanath007/MBA/assets/54589605/479af60d-83ac-4665-92ea-ccbd847e05d2)
-![image](https://github.com/arghanath007/MBA/assets/54589605/1d4f1085-382f-48d3-8f46-4174e2f08bb4)
-
-* Explainations.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/304195db-587e-4d02-9c6d-bef9f5331bdb)
-![image](https://github.com/arghanath007/MBA/assets/54589605/235185c8-064b-47a1-bda6-b2334a338456)
-
-* SNAP.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/0a3f79ec-c2c5-4fc4-88ea-4b01eab95f7b)
-![image](https://github.com/arghanath007/MBA/assets/54589605/c84e7317-43b2-441f-9ea7-60d464ab8664)
-![image](https://github.com/arghanath007/MBA/assets/54589605/b3f2fb0e-d545-4494-843d-b786b67d89fd)
-
-* Syllabus.
-
-![image](https://github.com/arghanath007/MBA/assets/54589605/b1235c4d-59ff-42d1-8304-c17677b7be97)
-
-* Non-CAT exams.
-
-
+* Broad understanding of the **paragrah/passage** is **needed** to solve the **RCs**.
 
 
 
