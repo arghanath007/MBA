@@ -566,6 +566,53 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/8bd9429c-e032-4aa1-a220-1657e8500c56)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/7827e188-535c-480b-895d-f68150a19ae2)
 
+## Reading Skill (1)
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/66f71a5c-3a48-438a-aa01-18459f0e93dc)
+
+* Common Theme -> Evaluating paragraphs.
+* We need to develop **reading skills**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5b9de380-4e68-4160-a815-f0621fbe21b5)
+
+* What -> Literal meaning
+* Why -> Purpose -> Then we can find the **key idea**.
+* How -> Structure.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/451a94f8-781b-496b-a64c-229a8121f7e0)
+
+* **Meaning** of a word.
+
+## Vocabulary for VARC (2)
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8c615807-78db-4a08-8a3b-76db3939613e)
+
+### Exercises
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/222fd0e8-a9a8-423b-8a70-e97d53aff722)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7b49994c-177b-4513-b403-b09f394c11dd)
+
+* Exercise. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e3e9a2cc-8a6f-4791-a857-89293f5959c9)
+
+* Question 1.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/29448567-4009-4479-9ea9-68e3046aa9d5)
+
+* Option **2 or B**. [Answer] [Solution]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/4c03d2fa-06e6-4534-b362-948ce3bc92d7)
+
+* Exercise. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e3a9f69e-c8b3-4a9d-8fb2-31a6a39cce09)
+
+* 30mins.
+
+
+
+
 
 
 
