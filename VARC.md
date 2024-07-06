@@ -499,6 +499,23 @@
 * Critical Thinking.
 * Option Trap.
 
+### VARC game plan
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b7eb454f-623a-49b0-b168-c44201a5fbc1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e4393071-a2c2-4ac7-82e3-20d55c9f7c20)
+![image](https://github.com/arghanath007/MBA/assets/54589605/72bf2771-a028-4eae-bf07-f7ce91b22c17)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2aac7367-3d7e-4bc2-8429-bb289598ae0b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ffb45e54-bd25-48b8-a33e-056d7417c6b0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e770c4d6-0a35-4fe1-88ed-bcc8e72e4ce9)
+
+* We want to **solve** as much as we **can/want**.
+* We want to **solve** as many as we **can/want**.
+
+## Diagnostic Test (Practice)
+
+
+
+
 
 
 
