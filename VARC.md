@@ -513,7 +513,58 @@
 
 ## Diagnostic Test (Practice)
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/b9ba23ef-2ac8-451e-8ed7-b0db82004d26)
 
+* Overview.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d5521bca-edc2-49c8-a3c5-3e67384d796c)
+
+* Paragraph.
+* Para 1 -> Identity politics -> Social injustice for specific groups.
+* Para 1 -> Identity politics is very broad and it doesnt' have any criteria.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c3669094-fb04-41ad-8564-dd89da230d1a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8b2b43f6-e32d-4233-94a8-61066b5cad2a)
+
+* Question 1.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/cc550871-763c-4a8f-8737-9832de19fc1f)
+
+* Option **1 or A**. [Answer] [Solution]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1b82b146-70c2-4205-b0df-d3e8ac6ef383)
+
+* Question 2.
+* Flaw -> Option that does not align with the passage. [Logic] [**VERY IMPORTANT**] [RC] [Example] [Formula]
+* Unnuanced -> Broad.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0a366a22-fd9c-43a5-9f1a-486a086a0f34)
+
+* Option **4 or D**. [Answer] [Solution]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/802d816f-c452-468e-8904-8d6ccd45d9ae)
+
+* Question 3.
+* Valid Inference -> True. [Logic] [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/01d77df7-a9b8-49a6-99a6-291f2bb8ddb1)
+
+* Option **4 or D**. [Answer] [Solution]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/dceb7ccf-41ad-4b4c-9683-7f9db92e1571)
+
+* Question 4.
+* Argument -> We are just giving **justification**. 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b48258b1-542f-48e7-bc9f-94cbcda69a66)
+
+* Option **1 or A**. [Answer] [Solution]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/50fec219-d946-45e9-8e0f-7f2f07fc090d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9647cac4-b617-4f2b-aaaf-3e1627cb98c0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/27659ee9-df9d-4319-b723-3663a7e33e2e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8bd9429c-e032-4aa1-a220-1657e8500c56)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7827e188-535c-480b-895d-f68150a19ae2)
 
 
 
