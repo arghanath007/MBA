@@ -892,15 +892,91 @@
 * Statements **'2 and 3'** are **less** important as they are giving **examples**.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f064ed2b-36a3-4d6f-b211-d114b3c93b8a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4cf82649-b3af-412e-b894-b355e3af7a22)
+![image](https://github.com/arghanath007/MBA/assets/54589605/56ecdd39-6903-4a35-8f9d-670bc071dfb2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/aa346514-2e5d-40b9-bd60-89f6adf7e134)
 
+* Paragraph. [1]
+* Moreover -> Signal word.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/c72b8af6-5371-4ca6-b231-c2914892c98a)
 
+* Statement **'2 and 3'** are **details, understanding, explaination***.
+* Statement **'1'** is the **key view/idea**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/24ac1454-e8f2-4a31-a8f0-5504a8e8bcb1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8c2e6ac6-7f17-422f-9b99-35002e253b34)
 
+* Paragraph. [2]
+* reveals -> action word.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/a30bba59-293d-4f27-ad3c-dafca43f8531)
+![image](https://github.com/arghanath007/MBA/assets/54589605/70d45e3b-aef5-41ee-a33d-b2b17debc71f)
 
+* Statement **'1'** is the **key view/idea**.
+* Statement **'2 and 3'** are **details, supporting information***.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/705563fb-9914-4b98-952b-f170523d522a)
 
+* Paragraph. [3]
+* We started with a very very specific topic and then we went to broader topics.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9097d053-243d-43df-b986-6d126149c2e4)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9b236e25-775f-4e2c-923b-e161074f27cc)
+
+* Paragraph. [4]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/15e93a49-87b6-47ba-9be1-2d04f8d79d85)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1f231444-9c65-4e84-a976-daaf475ab426)
+
+* Paragraph. [5]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1465ad48-14c2-4600-9081-80a6979755f8)
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ba7f4f5e-09a6-4aeb-9497-2f804add992a)
+
+* Mind the read.
+* Every single statement is not equally important88.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d69d16c2-6006-4d85-81ca-bb65d6476e72)
+
+* **Tone** of the author.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b609ab2c-6c42-41e0-ac27-7be9ecb1d9ee)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6c0f9738-5045-4ecd-bdac-4313a2d767c9)
+![image](https://github.com/arghanath007/MBA/assets/54589605/56cd48f5-f087-422f-b9aa-405999e3adca)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9806aa66-02ce-4a1b-8d56-8cb706e65d69)
+
+* Question. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/32eed355-154f-4747-a6e5-2d65179cf3a3)
+
+* Option **D**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/380af280-bbc5-4d0a-91f3-0c8a1ff63f63)
+
+* Question. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2d6a6b8d-4189-437e-8e1b-6d14de899739)
+
+* Option **D**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/bbeba1b3-4950-450d-9d99-59417b119bcf)
+
+* Question. [3]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3d543bec-d3f8-48a9-921b-be9f45cf5548)
+
+* Option **B**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d381cf40-8e7e-4f69-b013-59802c177f97)
+
+* Question. [4]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/83863216-a452-4221-94f3-c80dd7cb9790)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d257100e-22b0-4b04-9361-15cc006a59de)
+
+* Option **C**.
 
 
 
