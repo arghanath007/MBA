@@ -607,8 +607,296 @@
 * Exercise. [2]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e3a9f69e-c8b3-4a9d-8fb2-31a6a39cce09)
+![image](https://github.com/arghanath007/MBA/assets/54589605/eb4481b0-14c3-4155-b8d0-a48893df5f05)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fa9f4ea0-81fc-4c8a-8c4e-64c1fc4de888)
 
-* 30mins.
+## Grammer in CAT
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/031a6ba7-f9bf-42c8-a9f8-8acacbc96859)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bcb91117-485b-40f1-b606-bfe2467416b9)
+![image](https://github.com/arghanath007/MBA/assets/54589605/01f19c2d-9910-478a-ba45-2c2460c79ab4)
+
+## Handling Complex Sentences
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2c561bd4-2872-473d-8eaa-099ac232113f)
+
+* Objective.
+* Verb -> action.
+* love -> verb.
+* I -> Subject.
+* you -> Object.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/806e452f-0a7e-4f53-8780-ccb9c5e8f78b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d8762443-acd9-4252-ac9f-93b976948549)
+
+* Adjective
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b57988e9-88d4-4e6f-8daf-1d59e6014123)
+
+* Adverb.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5169fa96-0992-41c0-9a2f-002c9b5f97ab)
+
+* Preposition
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a6ab76f4-371e-4578-a866-a9efa77006b5)
+
+* Relative phases
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/048cf77c-de22-4ce6-9bd7-2466cc83affe)
+![image](https://github.com/arghanath007/MBA/assets/54589605/77f4966e-a586-4576-a26f-092a9a3cad40)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f6fa07fa-6d8a-41c6-afd1-2d84a976a56f)
+
+* Em dash
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/233474a1-96fc-4176-9e0f-ca62b0775059)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f0f53740-dae0-46db-a863-0f7cf69df2bd)
+
+* Subject(S)
+* Verb(V)
+* Object(O)
+* Few additional stuff is added to the **initial** sentence.
+* Few extra bit of information is given.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e4294181-9866-4b16-9f5a-f8c8078fd445)
+![image](https://github.com/arghanath007/MBA/assets/54589605/209a10b0-2bec-4621-9dd5-1db800a28d2b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0555cf6b-574d-4a21-b7c8-68bca66606f7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/baf502ba-5413-4af0-b49f-bb1882a7c324)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d1450c9a-6472-47d4-b441-49dac712b99f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9e2e7ca4-1826-498e-828d-bc5681567cb6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/db251ecf-9bb1-48eb-a512-f8ecf1b0d8b4)
+![image](https://github.com/arghanath007/MBA/assets/54589605/31c9a58f-a9db-40f3-a3c0-812e27fe9433)
+
+* **Subject(S), verb(V) and the object(O)** with a alot of **information** is given.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/70610d8f-df07-4c14-a760-79b8ffd20ca0)
+
+* The key takeaway from all of the **above sentences** is that **"I love you"**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/855b5c77-79b2-4121-8a7c-a1c32c53e002)
+
+* Paragraph. [1] [**VERY IMPORTANT**]
+* Put a little bit of effort on **action** words.
+* The **detail** is not important to understand the **crux** of the paragraph.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a4a80dff-b401-4e90-928e-b989c786983a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/64a35eca-77d2-45a9-b14b-931a58edb001)
+
+* Question 1.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ecb4b908-4265-430b-9f01-be3f566acb8e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b981bbcd-8077-4777-a687-7889b4f0b321)
+
+* Option **A**. [Answer]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac9be2ac-69e3-4597-89b0-345cae457395)
+
+* Paragrah. [2] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ee59bcba-d03a-4e15-82a0-59a8eaadc51e)
+
+* Something put within a **comma(,)** it is a **modifier**. [**IMPORTANT**]
+* Revels -> action word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e97dfa2e-f189-48d2-9cc9-de3b40883216)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f80b075a-21ae-4cce-bd44-321e7380184b)
+
+* Question 1.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/255e88c1-23f3-4b0f-87ac-4cfcab044e0e)
+
+* Option **C**. [Answer]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f7625a4e-1e22-491b-b48a-a6af4af06a15)
+
+* **Grand narratives** is part of the **detail**. [**IMPORTANT**]
+* **Hold equal weight** is part of the **detail**. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/342c13e9-dac8-4cd7-b960-a7b02c0a70b4)
+
+* Conjunction.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ca8de34b-f496-45e5-b2d8-10328c366d53)
+![image](https://github.com/arghanath007/MBA/assets/54589605/976cfad2-50b0-4c2c-ad08-43c684bb141f)
+
+* because/not only-but also -> They are giving the **Reason/justification**.
+* however -> Contrast.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ea0688fb-c50c-413c-9b56-828c106d04ea)
+
+* I want to go to an IIM because IIM offers great carrer opportunities.
+* **"I want to go to an IIM"** -> This is the **critical** information.
+* **"IIM offers great carrer opportunities"** -> Reason given for the **critical** information.
+* Arguments.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/33e883ef-eae0-4818-8844-26e38d886ae1)
+
+* **"I love you"** -> **Critical** information.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b6792b5e-701e-4fd0-b01a-f2e41802aec6)
+
+* However.
+* **"There are things we need to address"** -> This is the **hero** part. [**VERY IMPORTANT**]
+* Conjuctions -> and, because, not only-but also, however -> They are **signalling** something. [**VERY IMPORTANT**]
+* **Semi-colon(;)** practically is a **full-stop(.)**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/647b6f24-f7bb-4888-8b47-03de414e22e7)
+
+* Paragraph. [3]
+* cause -> **action** word.
+* however/since -> conjunctions/Signals.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5998330e-82e9-43a3-bb8e-3143b8edd194)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b0bafcd0-10d0-4364-b04c-ae6629454a91)
+
+* 1 -> View
+* 2 -> The view is wrong as claimed by the author.
+* 3 -> Reasons to show that the **view** is wrong. [Conclusion]
+* The 3rd statement exists to tell me that the **view** of **"childhood vaccinations cause autism"** is **wrong**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/61a878f6-dfe6-42e1-a857-5598920c5e4e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7c256df6-f4c0-4516-b9ae-f1260e9d8f6e)
+
+* Option **B**. [Answer]
+* Option **B** has the **main point/purpose*** of the paragraph.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b9d0b86d-3520-4187-b7d9-67b4842d7615)
+
+* Paragraph. [4]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f8584e4f-6b78-4deb-a49b-8c25fc9ad001)
+
+* Distinction is drawn between **traditional dream and lucid dreaming** -> This is the **crux/essential information** of the **paragraph**. [**VERY IMPORTANT**]
+* This is good enough for the **understanding** of the **paragraph**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/125031cf-870c-49a9-a04b-414b220aade6)
+
+* Drawn -> **action** word. 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2d20a505-e900-4008-86b2-bffba270dc1c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/091f9043-efab-400c-b379-5cf4de97ea38)
+![image](https://github.com/arghanath007/MBA/assets/54589605/5b56b503-b3a9-4a12-898c-4d86ca35d7bb)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b6588a05-52a5-4b84-8819-4e93b47346a5)
+
+* Paragraph. [5]
+* Plagued -> **action** word.
+* Conjunctions/signals -> such as -> examples given.
+* Subject -> Hero
+* Verb -> Action
+* Conjuction -> Signal.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a1cc0737-a576-45c0-ac49-95dc03e42b6a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/caf45ef1-6cf5-4be9-8930-014736d90a21)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7b3387ce-30f4-4453-a534-e79b04193c5b)
+
+* Option **B**. [Answer]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8c75187e-ca8a-471b-a69c-cbb498c5a770)
+
+* Learning. [Summary] [Formula] [**VERY IMPORTANT**]
+* Essential elements ->  key ideas.
+* From the **paragraph** we have to find the **key idea**. We are interested in picking out the **essentials**.
+* Conjunctions -> Signal words.
+* Modifier -> Non-essential things.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/979da9e5-100b-4afc-9ada-f01b13d58785)
+
+* What is the **key idea**? [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fa2f1b07-cf0f-422c-8ab2-1143d98719bf)
+
+* Objective.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/17bf72d5-0aff-4d62-b8c7-428abb391fb3)
+
+* What?
+* Why?
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc50598a-54dc-4c74-b0d3-46fe38b142f4)
+
+* Paragraph. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7d4c0796-8494-4dae-bc7b-d0c1d281cfee)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e073bb0d-a47c-4ec8-9c40-eb09dc1793dd)
+
+* Statement of Fact VS Statement of Opinion. [**IMPORTANT**]
+* **Fact** does not equal to **Truth**.
+* Statement of Fact -> Something is **verifiable** wheather it is **True or False**. It doesn't mean that the statement is a **True statement**. It is merely saying that it is presented as a **statements of fact**. We can **verify** wheather the statement is **True or False**. [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/06ca477b-9545-444c-8994-ee6e0a5a386b)
+
+* Examples.
+1) Statement of Fact(F).
+2) Statement of Opinion(O).
+3) Statement of Fact(F).
+4) a) Statement of Fact(F).
+   b) Statement of Opinion(O).
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/16d9633f-4bde-449b-95bf-536df7c89441)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e2539fd3-7b8f-41d5-a81d-844fbcb58dab)
+
+* The author wants to **correct** a particular perception.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f78eb86a-e7ba-4c35-95f2-caf85e046ab4)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1bca231e-dbec-425b-b7fa-6a441d278b91)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8aeed5ed-a90b-4f22-8ac9-44d98707084d)
+
+* Paragraph. [2]
+* Examples -> Statement of Fact(F).
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/024b5465-7d49-4272-b456-4f0cbe8ead2c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/283386d5-3786-453a-9806-86afe72c095e)
+
+1) Statement of Fact(F).
+2) Statement of Fact(F).
+3) Statement of Fact(F).
+4) Statement of Fact(F).
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7fbd0b80-5e6d-4aa8-874b-6f7253daf42b)
+
+* Resultant Luck(RL)
+* Explain RL
+* Introducing Moral luck(ML).
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/4d853168-ce4a-4205-b108-e00eef0119e2)
+
+* Statements **'2 and 3'** are there to **support** the statement **'1'**.
+* Statement **'1 and 4'** are the **critical statements** that the author is trying to **explain/tell me**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9eae329b-0326-4998-a6de-0ab9dc456f3f)
+
+* Paragraph. [3]
+* Retribution -> Revenge.
+* homicide -> Killing of human beings.
+* hom -> Humans.
+* cide -> killing
+* Suicide ->
+* Su -> Me
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/78e158fe-b040-470f-8152-0e457945e234)
+
+1) Statement of Fact(F).
+2) Statement of Fact(F).
+3) Statement of Fact(F).
+4) Statement of Fact(F).
+5) Statement of Opinion(O) -> The author is trying to give a reason for that particular **shift**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b2f13e3f-2329-4f03-9dc0-737a5466952b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1e291bd6-e613-4285-b7df-9ebab75bcf17)
+
+* Statements **'1 and 4'** are equally important.
+* Statements **'5'** is the most important because the author is talking about the **reasons** for why the **shift** happened.
+* Statements **'2 and 3'** are **less** important as they are giving **examples**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f064ed2b-36a3-4d6f-b211-d114b3c93b8a)
+
+
+
+
+
 
 
 
