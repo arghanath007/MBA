@@ -978,9 +978,31 @@
 
 * Option **C**.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/bb0274b6-2a0e-43fb-8e9a-afbd01523a85)
+![image](https://github.com/arghanath007/MBA/assets/54589605/189c4415-8b36-4699-b966-fa533d7105af)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cc189a74-036d-4fd3-9dc3-897b672c6f62)
 
+* Content -> Idea of author.
+* Intent -> Purpose of author.
+* Expression -> Tone of author.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/371ee3e9-41d5-4a90-a872-e7db87c17231)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0a10c304-eb90-4b9f-a3b4-3aea16a039c0)
 
+* We want to read the **passage** first.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7c44343a-d99c-4e76-b18f-aebda9d9a49b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c4da6bce-b631-4580-9bb2-92da6924f6be)
+
+* We have to retain **max info** about the passage when reading it for the 1st time and we cannot spend much time in reading the passage also.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e7615f0d-c76e-4629-b492-da07cc446aee)
+![image](https://github.com/arghanath007/MBA/assets/54589605/df17d918-e79f-4954-9855-09a27a277742)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fa7dd5ed-ddaa-424c-b3ed-17fd705c93db)
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/55253359-85b0-47bd-90e0-01e098592b0c)
+
+* Paragraph. [1]
 
 
 
