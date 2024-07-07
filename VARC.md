@@ -1004,6 +1004,76 @@
 
 * Paragraph. [1]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/e6eb86db-2854-487d-8818-f1e26850fa8e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/437dc066-aca5-4ab8-856d-7b06177ee457)
+
+* Paragraph. [2]
+* impressive -> action word.
+* But -> signal word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d28848a4-c67b-48a5-96ee-a077d869efa6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/063acf8f-d52d-4ccc-89a5-8ed317834355)
+
+* Paragraph. [3]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/4f672f28-feff-4b75-b110-231d76da47ed)
+
+* Fixation -> action word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d93b83ca-dc73-4543-bfa9-8fc2e4068c1f)
+
+* Paragraph. [4]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ff9b8893-a424-4278-9957-57f1593fa83e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8fa29901-6373-47ad-b0f5-b577fecb9adc)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b8240845-e203-46b6-bf23-29a1c2b55b07)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8e6add90-e7ca-4bdb-bb21-f2d0d6bfb932)
+
+* Question 1.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0d44101c-d60b-4e0d-b610-c173820f31a4)
+
+* Option **A**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c780795f-5706-426a-842b-30e4ce18fc67)
+
+* Option **B**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0fb3656a-8146-4c79-9f88-8e8decd0a500)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9e062308-07c2-4f83-b3db-45e52b1f0f2a)
+
+* Option **D**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0d2211be-5ffe-4d3a-a186-6297ed537f10)
+
+* Paragraph. [1]
+* Para 1 -> Wealth cap.
+* Para 2 -> Reasons for wealth cap. Rich are making money and people are not.
+* however -> signal word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e1fb7e68-a2e3-4d82-8f8b-9352098b6d9c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/44b1f053-2d42-4538-b578-3bafcd673468)
+
+* Option **D**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/00b6c469-70e1-4217-84ae-8c318d6d7a38)
+
+* Option **D**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/deb842dc-bee0-4327-b80d-9fd054fc7e64)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0b20a9c8-a027-4c8c-9bb2-b4d944d395e7)
+
+* Option **B**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/bafbc4cd-b152-4ec0-803d-a1839b510e5d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/74b53887-d57e-4ab7-9ec3-bffe7d124186)
+
+* Option **C**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9ec4f295-0104-471c-b097-843019c0be4c)
+
+* Start from **17**.
+
 
 
 
