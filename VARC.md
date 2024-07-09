@@ -1390,7 +1390,122 @@
 
 * Option **D**. [**VERY IMPORTANT**]
 
-* Start from Video **5** -> Global questions.
+### Global Questions
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5686c118-0eeb-4224-88e7-69fb309c75f3)
+
+* Global Question -> Main idea, Purpose, structure.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e4dc829e-3f44-4649-9fcd-7e78273721f9)
+![image](https://github.com/arghanath007/MBA/assets/54589605/118aa88f-2ba0-4926-929c-abd582132068)
+
+* Passage 1.
+* Posit -> action word.
+* Vikings not always came to **raid and plunder**. They initially started with **trading**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c5209ec5-95d0-487d-8221-5f5d9718aa9d)
+
+* 1
+* Option **1** -> Reindeer antler combs -> Side tracking.
+* Option **2** -> Beginning Date -> Side tracking.
+* Option **4** -> violet, skilled, efficient -> Alien words -> These words were added by the author in the option.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ad6acf6d-6b6a-4dec-a9fe-2c06d1ccd602)
+![image](https://github.com/arghanath007/MBA/assets/54589605/705a10b9-8d98-40d0-8b5b-0d477aa9e74d)
+
+* Option **C**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f462a718-927a-4d9a-99f8-e876b8f14cfb)
+
+* Passage 2.
+* Argument -> Final conclusion.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2397608d-704f-4b84-a4bb-8e84e23fcdf1)
+
+* Option **'1, 2 and 4'** are all **side-tracks**. [**VERY IMPORTANT**]
+* Most common **trap** is the **side-trap**. [**VERY IMPORTANT**]
+* Option **3**.
+
+### Local Closed Questions
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0d9c95cc-d40d-42b1-a127-3e9462ffd6b1)
+
+* Local -> According to the passage.
+* Closed -> From a particular part of the paragraph -> Asking a very specific part.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b1212d91-e964-437e-91e9-7dbb4045b7e3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e21064e8-0598-4925-b0b4-36072cc6952a)
+
+* Passage. [1]
+* Option **2** -> Alien option.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2810f52b-8cbe-4736-b3fe-bdf2f0149f49)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1ada300d-2b20-4f06-8621-99fa96fb2e8a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/5b7fe627-e8ba-419b-b93a-b3b1ea633140)
+
+* A lot of side-tracking.
+* Option **1**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9b3c4d8b-4361-4b5d-a58d-e3e8406042c9)
+
+* Passage. [2]
+* Option **1** -> Completely alien.
+* Option **2** -> Completely alien.
+* Option **3** -> Side tracking.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b7f2e7ac-45ca-4de2-ae55-f929f5199f15)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ba2eee83-8636-4a4e-83bd-38ab8e52583d)
+
+* Option **4**.
+
+### Local Open Questions
+
+* Open -> Can come from anywhere in the passage.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3d900f57-6eae-4410-8373-cca5d0b51045)
+
+* Passage. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fac051ef-ecf0-4d79-b80e-fd4729b45817)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b8bf8525-d061-458f-8c2b-7383da799f4d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0dba39f5-8dcc-411e-b8a2-1ef38332f135)
+
+* Option **2** -> Twisted side track.
+* Option **2**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/42c8b5ee-cde3-4732-995e-55155baf9ec5)
+
+* Passage. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/cd157a44-f162-4c91-80fc-042c2e9b7192) 
+![image](https://github.com/arghanath007/MBA/assets/54589605/b82c1863-8ed6-4ac4-8c3a-a5c9882ecf04)
+
+* Visitors -> Alien word.
+* Option **4**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7bb705cb-0202-4955-8130-eaa5216db49a)
+
+* Passage. [3]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7a2b6d8b-22cd-4155-bcb2-b2ecdb6394e1)
+
+* Option **1**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/80f7d788-17df-497a-a7d5-8071e029aa75)
+
+* Passage. [4]
+* Option **4** -> Alien sentence.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f8b388a3-3aef-4d3a-80ae-3d79f206a32d)
+
+* Option **4**. [**VERY IMPORTANT**]
+* We have to engage with the **answer choices/options** and critically look at these **answer choices/options**. [Logic] [**VERY IMPORTANT**] [Formula]
+* If we read it **too fast** then we will miss the **key points/ideas**. [**VERY IMPORTANT**] [Logic] [Formula]
+
+### Argument
+
+
+
 
 
 
