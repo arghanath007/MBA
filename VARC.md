@@ -1168,10 +1168,173 @@
 * The main point of the passage -> The main point of the author only. [Logic] [**VERY IMPORTANT**]
 * We just need the **key ideas**. [Logic] [Formula] [**VERY IMPORTANT**]
 
-# Module 3
+## Module 3
 
+### Wrong Options/Traps in options
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/8d4c51ed-0d62-4621-acf2-3553222c3a1e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/59803742-3469-4fb9-bf8b-5db3e1205862)
 
+* Objective.
+* Trap.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9ed0fab8-9145-46f5-8993-d49203fa9003)
+![image](https://github.com/arghanath007/MBA/assets/54589605/32b5c684-1eb2-47ef-b86e-684a9ede5d25)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a8d8e35f-7900-4b9c-ab32-2614ba7e767f)
+
+* **Answer** is there in the **passage** only whatever **type** of question it is. [Logic] [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/af6fbe2e-32a9-483b-9eb7-2a4f6a8d2588)
+![image](https://github.com/arghanath007/MBA/assets/54589605/37790c99-a034-4ad3-9a3d-f508fb053fd0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4f1353b0-876a-4f93-a097-bba0f5efa581)
+
+* Act on Trap.
+* We are **ditching** the traps so that we can **find/get** the **correct answer/option**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/de4cef78-8988-4200-9c86-93e5ec680f28)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e1f3767b-7096-43fc-9520-871d4309491b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2b34e3b6-300f-4346-9548-f3e53129c168)
+
+* Traps. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8f01a5a7-3465-4b9d-8608-72ddd360d8c3)
+
+* Paragraph. [1]
+* renounces -> rejected. [Trap]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/6cbb0afc-c9af-4825-b499-bcd79ce5bf55)
+![image](https://github.com/arghanath007/MBA/assets/54589605/27ec7ab3-0cd3-446f-beaf-acd0e147d77e)
+
+* Pure deviation.
+* Without a single overarching direction -> Non-linear
+* Option **D**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c820362a-7772-4919-a4d1-ce75ee4d7110)
+
+* Consensus -> End [Trap]
+* **Finding** the **trap** and acting on the **trap**. It is the **key** thing.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0c63bc8e-30cf-4d1e-bec3-b486170ea03c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/99ba621c-ff5c-46f2-929c-36f027c4ae25)
+
+* Not True -> False -> This is a **mistake**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/56f46a21-3706-4386-b172-62333d9a8847)
+
+* "Gijo has been teaching for the past 25yrs".
+* Gijo's teaching experience > 5ys -> True(T).
+* Gijo's teaching experience < 3ys -> False(F).
+* Gijo is married -> Cannot be determined(CBD).
+* Gijo is a great teacher -> Cannot be determined(CBD).
+* Gijo teaches CAT -> Cannot be determined(CBD).
+* Cannot be determined(CBD) -> It is something that is also **not True** -> It is called as **uncertain**. [**VERY IMPORTANT**]
+* Traps -> False and uncertain. [**VERY IMPORTANT**]
+* Author is playing with the **uncertain** options/questions. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1a774c9d-fae2-4d8b-9ea7-1999e320c634)
+
+* True -> Synonymes -> Same meaning but different words -> Key ideas. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/32ede805-825a-47f8-bdb3-dcb49b7ac52e)
+
+* Types of traps.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/68af0b42-eac5-43a2-8c36-80e80d99733f)
+
+* Evilness -> Uncertain stuff/things. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c5e4b6ec-85dd-483c-ac8b-41c023aa673f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a58ba84c-6c0c-4a52-b678-756881f7caa5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e7277ac8-d0b3-439d-9305-f62bdc4b54a8)
+
+* Passage. [1]
+* however -> action word.
+* seem to have -> Appears to have.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/febc2a3a-ca9b-490b-adab-83217ae7e21d)
+
+* Paragraph 2 -> Example, explaination, details of the main point.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/6af620d3-1430-4826-88f6-756197bb9ee5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8b9fa36b-73c0-4f8e-a66d-62748b3494bc)
+
+* True -> No deviation, everything is aligned with the passage.
+* Question(Q), Answer/True(A), Trap/False(T).
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/6e7ef42f-bd30-4366-b20f-4a74c4d8ebc6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/76a60b92-879d-43f9-827e-7620da7124c7)
+
+* Trap 1.
+* The **main point** of the **passage** is about **sports**.
+* Main sports -> Sports. [**IMPORTANT**] 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/569d3b56-d2cc-4050-a10f-84050561797e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ccf7e4a2-692c-4b37-ba1f-0d87d6944984)
+![image](https://github.com/arghanath007/MBA/assets/54589605/edbccabd-d04b-45b1-b738-ff51055b58fe)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b06b2bf6-4da3-44b9-9f70-ffeb2fc8bd09)
+
+* **Trap '2'** statement is making the **main point** into a **broader sense/category**. [**VERY IMPORTANT**]
+* There is no mention of **traditional values** in the **passage**. [**VERY IMPORTANT**]
+* This is an **uncertain** trap. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/6552764d-d0b2-4144-bfd9-e16dd2aba42f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e7e0d018-8bd5-4a3a-888c-8f9dcbe7db12)
+
+* **Trap '3'** statement.
+* There is no mention of **professional sports** in the passage.
+* The word **professional sports** is making the **main point** i.e sports into a **narrower sense/category**. [**VERY IMPORTANT**]
+* There is no mention of **professional sports** in the **passage**. [**VERY IMPORTANT**]
+* This is an **uncertain** trap. [**VERY IMPORTANT**]
+* The author is playing around with the **scope of the discussion**. [Logic] [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ff2efd18-5096-4877-8638-4c8f2f6e17f7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4925ccdc-1146-4529-be07-f405318b07f1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6246c4c5-c3c6-4ecd-83bf-6433b784108d)
+
+* **Trap '4'** statement.
+* Eradicated -> Full removed/extinct.
+* Tentative -> uncertain.
+* "Seem to have replaced" -> The author is atleast in this case **tentative**. The author is not making any definitive claim. [**VERY IMPORTANT**]
+* The word **eradicated** is taking the sentence to the **extreme**. [**VERY IMPORTANT**]
+* This is an **usual** trap.  [**VERY IMPORTANT**]
+* **Broad, narrow, extremes** are all of the **traps** that the author can setup in the **options** of the passage. [Logic] [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b6265510-2857-49f7-814b-6a020cd7eac1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/91029689-2f5f-4b5b-bcbc-281b10845916)
+![image](https://github.com/arghanath007/MBA/assets/54589605/aca6cee2-2054-42c2-95f9-b19157bef8b8)
+
+* **Trap '5'** statement.
+* Side-Track -> Deviation- > Side-tracking the **answer**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d8d7d050-fa61-4a09-a2d9-e05387d7577b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a1959a7a-0f69-4175-a378-2b0d2232b9c7)
+
+* **Trap '6'** statement.
+* Rational -> Alienist/Alien statement -> Foreign statement -> Outside of the **passage**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/80ece2be-fc15-471c-badb-dfd6f5743cea)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2513d2f8-3028-40a6-8e64-219e3696cc65)
+
+* Winning
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/53dd28aa-68cb-44fc-8215-50a58c06977e)
+
+* lax -> relax
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/08d9f3be-3cdc-46a1-8110-689b9e42bab8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/5b5096fc-711c-4ce3-a93c-7aa6c3ff6b98)
+
+* Types of Traps. [Logic] [Formula] [**VERY VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d8bd6e20-2fb7-4bf6-890c-4f59d021eac0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1d8fc4ca-8592-437b-9840-0432e190c570)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d6e0f54d-72d2-4184-b27b-0940d8fe2eb9)
+
+* **Uncertain Traps**. [Logic] [Formula] [**VERY VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/51b6c2cb-b6cb-426a-be3e-2ee5c50f1951)
+
+* Objective.
 
 
 
