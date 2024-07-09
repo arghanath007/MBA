@@ -1504,9 +1504,15 @@
 
 ### Argument
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/c017ceff-c39b-4fe9-92da-4766ebdf6ccf)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d1f12f07-6d1a-4d49-82bd-038aa573101f)
 
+* Logical skills.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/4a608881-05bd-48c9-8f07-b9d5af15626c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/133306e7-5ce3-4924-8c38-e27c0063c420)
 
+* Watch from **starting** only.
 
 
 
