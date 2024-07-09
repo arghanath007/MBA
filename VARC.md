@@ -1071,8 +1071,110 @@
 * Option **C**.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/9ec4f295-0104-471c-b097-843019c0be4c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/15396f6d-0171-4d14-ac12-a3fb36254fd5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e5ad8ba6-fc2f-4ef7-8cc0-7194ef2e7f4b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0e3ac98e-1e2d-4e53-9a5c-bb4532e3a8b5)
 
-* Start from **17**.
+* Broad understanding of the **passage** is **good enough**. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d122fd26-5b96-40d6-9a91-b51421b2ea7a)
+
+* Passage info.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e652ddc7-e15d-4cc9-acb5-2d0a364cb65c)
+
+* Broad stuff is enough.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/23faf2de-9d07-4fff-9346-ec2260a0b5f9)
+
+* Passage. [1]
+* Being -> Reason
+* Nature -> Reason includes matter.
+* Life becomes more rational when it has consecious.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/38d389fc-813a-4e65-bc59-18abb349060d)
+
+* **Broad understanding** of the **passage** is enough.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b6efe745-c675-45f0-87a6-4e8bd4ac3ea6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ee8cd2e8-a89b-4668-b8e3-8e3b9dd72119)
+
+* Passage info.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/da4dfdf0-e50c-466c-baad-61b2b03b7812)
+
+* Passage. [2]
+* pervades -> action word.
+* Para 1 -> Lookism in professional space/area. 
+* articulates -> action word.
+* Para 2 -> Lookism can be **choosen or not choosen**. It is based on social norms.
+* suggests -> action word.
+* is required -> action word.
+* Para 3 -> Re-evaluate the impact of appearance in the work place.
+* Solution or course is suggested.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9dd079e0-eca5-41c1-98ad-51d9d186ead0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b90eac63-92cb-4726-8696-3242ae5263dd)
+
+* Para 4 -> Law + monitory framework.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fb599e96-ad1f-4a68-92d3-a8e63a120d52)
+
+* Passage info.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/4bc852e7-2367-44fc-9233-ea3fda55faf1)
+
+* Passage. [3]
+* However -> action word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/dabf9c45-89f5-4970-94ab-19b9ae4eeeeb)
+
+* They wanted **independence and acknowledgement** and didn't want to be **anticommercial**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2898102d-fbc3-4b8a-9648-88f6cbbeb45c)
+
+* 1
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/825df008-b9c2-406e-b03f-256f3cd98236)
+
+* Option **C**. 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8af3ba4a-0831-420a-9c97-50ce5a578792)
+
+* 2
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c646cce4-7b47-4553-90f3-11e0e8d1cd37)
+
+* Option **B**. 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/db8fcd58-f220-49f7-88eb-e77bbb9d434a)
+
+* 3
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/8ee1fef8-7e4c-40b5-94da-04d6e6bed4b6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/5877885a-5a3d-4ac7-b1aa-f53033d1f799)
+
+* Option **A**.
+* Autonom -> independence.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/93eb962d-7469-48b4-9b95-8fd4d830c153)
+
+* 4
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/be741dfb-9264-4e99-9230-0fe3f969b57b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/905670a1-7a25-464b-91a6-32cec79db5ff)
+
+* Option **B**.
+* The main point of the passage -> The main point of the author only. [Logic] [**VERY IMPORTANT**]
+* We just need the **key ideas**. [Logic] [Formula] [**VERY IMPORTANT**]
+
+# Module 3
+
+
+
+
+
+
 
 
 
