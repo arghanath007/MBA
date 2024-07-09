@@ -1336,6 +1336,72 @@
 
 * Objective.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/907040c5-2985-49fd-914b-d26054ea8672)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f0550822-01e3-4dcc-a324-04fc7ffb1753)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3db56b88-d378-4f62-be11-d1918196d90b)
+
+* Passage. [1]
+* Nevertheless -> action word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/09c4d63f-0c09-4f3d-9ac2-820b4c415866)
+![image](https://github.com/arghanath007/MBA/assets/54589605/188782bc-9b5b-49cc-98c0-268c689d6d0d)
+
+* 1
+* Option **1** -> Extreme level.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ebcf556a-90d9-4829-a067-0fa47d7de3ea)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/55a9f542-b9aa-4ad5-8cfb-bdd3aca1f9ce)
+
+* 2
+* We need to find the **trap** option.
+* 3 of them are **correct** options.
+* Refute -> Rotten word. Contradictory word to the passage.
+* Neither impossible -> It is possible. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0df64fc4-001e-40b4-9338-766dadca4bcb)
+
+* Option **A**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b8a52dc6-8fbc-411f-a46a-a8705434f26b)
+
+* 3
+* Option **1** -> **Written** is an **alien** word.
+* Option **3** -> Alien sentence. 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/829a202b-d80c-4174-9b6d-7db95f6d70af)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b01d1d12-7ff3-432c-af53-4a86327e0f3e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8b2e2e5c-0704-4980-bbc1-1444427dc6ad)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fc646ea5-1840-4c9a-9fe5-de5be57c6a70)
+
+* Option **2** -> It is also a **difficult** but not the **main difficulty**.
+* Option **D**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/94e65e62-bc8d-4c3d-a7a9-2fda6efc6ef2)
+
+* 4
+* Option **1** -> paradox -> From different paragraph -> Side tracking.
+* Option **2** -> Lovejoy's sceptism -> Side tracking.
+* Option **3** -> Impossible -> Alien word.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/71124022-a1ab-4964-87f4-566329231348)
+
+* Option **D**. [**VERY IMPORTANT**]
+
+* Start from Video **5** -> Global questions.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
