@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)# VARC
 
 # Rodha 
 
@@ -1737,6 +1737,68 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f322e80d-d0af-42e3-b59e-acd3a38b4e5a)
 
 * [**IMPORTANT**] [Logic] 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2f9bd3ea-a71c-4c85-aac0-2830d1f63e97)
+![image](https://github.com/arghanath007/MBA/assets/54589605/532d3791-7716-414f-8ab4-a9c22cd441dc)
+
+* [**IMPORTANT**] [Logic]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a59dd83d-cf06-47e5-8721-f961d3a614a6)
+
+* Which of the following if true would strengthen/weaken the argument? [**IMPORTANT**]
+
+* if true.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b9bd202d-49b7-44f7-863c-bcf0e79c1d27)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3ac0fc21-e97a-4884-89b3-3971980dc01a)
+
+* strengthen and weaken questions.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f4ad0eb7-6c25-4693-9932-2efe8485be18)
+
+* Passage. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d5e7112e-1864-459a-89b7-50e34b958542)
+
+* 1
+* Option **2**. [**VERY IMPORTANT**]
+* endo -> Inside/within.
+* undermine -> weakens.
+* We essentially reached the conclusion because of the study of the O2 isotopes.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5efc51d8-6573-4066-90c8-6b475c1a423e)
+
+* Passage. [2]
+* 1
+* Option **3**. [**VERY IMPORTANT**]
+* challenge -> Weaken.
+* structured moral dilemma -> hypothetical scenario. 
+* Significantly -> attacking the argument. [**VERY IMPORTANT**]
+* slightly, some -> Not good words to attack/weaken an argument. [**VERY IMPORTANT**]  
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/29c0c73d-a45b-46d9-8242-c626757168d3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3692aca4-0d4e-46c4-bc43-8f3caf5dfd92)
+
+* Passage. [3]
+* 1
+* Option **3**.
+* Overcrowding has a negative impact on human behaviour.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d6557966-c5c9-4cb3-a7ae-25457feaa2cd)
+
+* Passage. [4]
+* 1
+* Option **2**.
+* Support  -> Strengthens.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/028c7c62-1fe8-4a8b-a83b-d49e858ecc1b)
+
+
+
+
+
+
+
 
 
 
