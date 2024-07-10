@@ -1605,9 +1605,88 @@
 1) All elephants are black.
 2) Gigo is an elephant.
 
-* Valid Inference -> Gigo is black [**IMPORTANT**] [Example.
+* Valid Inference -> Gigo is black. [**IMPORTANT**] [Example].
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b27ecadf-8388-4af7-8cdb-f8406bf9fd3d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/cf28d971-f981-4749-bc34-2b2acf90b660)
+
+1) All dogs are mammels
+2) Gigo is a mammels
+
+* Invalid Inference -> Gigo is a dog. [**IMPORTANT**] [Example]
+* **Sound** inference is a **valid inference**, which has **true** premises. [**IMPORTANT**]
+* Gigo is an elephant -> Valid inference but not a **sound** inference. [**IMPORTANT**] [Example]
+* **Sound** inference also looks at the **truth** of the premises.
+* For a **lawyer** in a court room they have to create **valid inference** as well as **sound** inference. 
+* We don't have to check whatever is given in the **passage** is **True or not**. That we don't have to check. We will assume whatever is given in the passage is **True**. [**VERY IMPORTANT**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/38d8deb8-53ad-4531-ab8e-56a9efd6dd1c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4b1920cf-1735-4864-bf02-d658a9cc32c2)
+
+* We are concerned with what is **True**.
+* We will treat **inferences** to be something that is **True**.
+* Inferences. [Formula] [Logic] [**VERY VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2e1dc2b8-7b4f-464d-b830-274cf749e208)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ee022b84-3c85-444b-95b5-0358d3fd95c6)
+
+* Passage. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/6e83d87c-1c32-45ae-9dde-4af5372d2ec6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fb5231f8-ebb8-4152-ab8e-e074b29cd85f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/edabebad-b7e5-47b8-aea7-60a273d24e58)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1f98f857-1912-489e-9570-786bd3f687e9)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0e43d36e-b308-4bce-870a-ffbaf6d1833b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fde0b5f1-e537-42f7-9a2b-14f049f18dfa)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9cd99341-5538-45ae-bf07-1a6222104167)
+![image](https://github.com/arghanath007/MBA/assets/54589605/eab715f8-46ef-430b-80fd-83ef7e35d093)
+
+* if the statement in the passage are true, which of the following must also be true. [**VERY IMPORTANT**] [Logic]
+
+### Assumption Questions
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/31edec8d-501b-48c0-9b8a-576bd3b51ce3)
+
+* Assumption
+* Batman is human -> Premise
+* Therefore, batman is mortal -> Conclusion.
+* Humans are mortal -> Necessary statements -> Assumptions.
+* **Assumptions** are things that are **necessary** for an **argument** to make sense.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/709e0e5f-76b7-4cb8-9794-b692c2cbb099)
+
+* Necessary statements != sufficient statements.
+* != -> not equal to.
+* They are not the **same**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3abf9289-fa75-48fc-86da-de5bfefe77a2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2ebaf057-1c33-4535-ab36-f28ef93d5a86)
+
+* Inference -> Drawing conclusions.
+* Batman is human -> From these statement we are **infering** that **Batman is mortal**. [Example]
+* "Go Home" -> We are assuming that the person has a home. We are assuming that the person is not deaf. We are assuming that the person understands english.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ef98f454-b020-44e0-9c2b-bf4a28cda423)
+
+* Or we can say that the **assumption** was a **premise** that was needed for this particular **argument**. It protects the **argument**. It is like a necessary **protection** needed to protect the **argument**,
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3c081bc4-2592-4b4d-a1bb-70fb7f976c61)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f745f75b-c56f-4b7b-9ae0-4d5a3e2e2a8f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e39df5d8-2b22-4278-81fd-b8d9f6869e55)
+
+* Passage. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/82a72153-9f6f-41a9-84ec-fa9b91cc1c3e)
+![image](https://github.com/arghanath007/MBA/assets/54589605/25171f20-a861-4541-a977-ce253da32cc4)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f3169b20-04f3-494e-ac9d-c7ad88838ae5)
+
+* Negative Test.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1d8f6a4d-1afd-4222-abd2-b1e3b3dea71c)
+
+### Imapct of new evidence
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/da4ecd01-9936-4154-9df9-050d60166bb3)
 
 
 
