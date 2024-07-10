@@ -1508,22 +1508,106 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d1f12f07-6d1a-4d49-82bd-038aa573101f)
 
 * Logical skills.
+* Argument
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4a608881-05bd-48c9-8f07-b9d5af15626c)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/133306e7-5ce3-4924-8c38-e27c0063c420)
 
-* Watch from **starting** only.
+* Author argument -> Main conclusion -> Main point. [**VERY IMPORTANT**]
+* They mean the **same** thing only.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/8069814d-0984-4960-991c-0f99e1873daf)
 
+* Types of logical questions.  [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/0877c381-aa74-4ba2-9947-046ce35f15d2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/15c5925a-6458-4321-8f3c-52fae16e1822)
 
+* Whatever we need to answer the **questions** is in the **passage** only. [**VERY IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/869c63bc-78a0-4bb1-9dee-155fa6475734)
 
+* Argument -> It is there in the **passage**. [**IMPORTANT**]
+* Inferences -> It has to be something that is **True**. [**IMPORTANT**]
+* Assumptions -> It has to be **True** based on the things from the **passage**. [**IMPORTANT**]
+* Function -> It is there in the **passage**. [**IMPORTANT**]
+* New Evidence Impact -> It either aligns with the passage or it does not align with the passage. [**IMPORTANT**]
+* Author agreement -> It is **True**. [**IMPORTANT**]
+* Author disagreement -> It is **False/not True**. [**IMPORTANT**]
+* Interpretation -> It has to be **True** based on the things from the **passage**. [**IMPORTANT**]
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/d319926c-29b5-4e21-aea8-d6678c64cbeb)
 
+* Therefore -> Signal.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/aac70c16-f46e-4075-bbdd-a00d09b76fb3)
 
+* "Sonal panels ....cut down on energy costs" -> Author wants to prove this.
+* Many people ....monthly electricity expenses -> Evidence.
+* The **conclusion** of a particular argument is basically that the **author** is trying to do.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/ab882794-78e6-4f7a-a4c5-f5fbd2ca9e0e)
+
+* Argument -> Premise + Conclusion.
+* **Argument** means that it has a certain **premise** and from those **premises**, we are trying to reach/arrive to a **conclusion**. [**VERY IMPORTANT**]
+* The fundamental component of a **argument** is the **premise** and the **conclusion**. [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/40293126-4c13-47e3-99dd-a6897de096a6)
+
+* Argument -> It is not a fight between two people arguing about some topic.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c0cdfda3-21b5-4412-939f-cef90858a514)
+
+* This is because -> We are trying to justify it.
+* Furthermore -> We are adding another justification.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/45f6475f-2e96-40a1-907b-0edb8e58b212)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d7d97328-71ca-459e-a572-38e9b7aa67c6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d3af412c-7b60-487e-838c-cd35e7be2b41)
+
+* 1 -> Conclusion
+* P1, P2, P3, P4 -> Premise 1, Premise 2, Premise 3, Premise 4
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/5a5ad275-92ff-447f-8de3-b1acd2bd8cd0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/55d69c90-3177-4c1b-9f6d-e8821daf8555)
+![image](https://github.com/arghanath007/MBA/assets/54589605/98ea10f5-d446-417e-9d0f-bf9a679ae42c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/295bd0bc-2997-4c56-91f8-240214585847)
+![image](https://github.com/arghanath007/MBA/assets/54589605/867a29da-605a-469e-baba-c9864e96b7b7)
+
+* [**IMPORTANT**]
+* Author's argument is that the **gravity** is **essential**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f5a0a6cb-a92a-49bd-ba07-aea6cfe31a0b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6b56a5b5-75e4-466d-a4f0-890eb44e6b00)
+![image](https://github.com/arghanath007/MBA/assets/54589605/097ac55f-8c2a-4368-9573-3943cfe83deb)
+
+* Logical Argument
+* Premises -> Conclusion.
+
+### Inference Questions
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/77c1ea3a-663d-4f29-a436-281862f2bab3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b6ee3cf8-6cad-4ecb-920a-25711cd2eab6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/16887df5-cca6-45b9-b6f7-5acb9b60c5a5)
+
+* **Inference** meaning.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f6d92919-8901-4e40-a811-c95bee27baf7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/11cb948f-1189-4e34-a87b-8cfe6ae1e0a8)
+
+* Absolute nonsense.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e8626435-6380-47e0-b511-a990a757aa91)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bb53489f-a0e5-47cd-87b0-343c61264d19)
+
+* Types of **inferences**. [**VERY IMPORTANT**]
+
+1) All elephants are black.
+2) Gigo is an elephant.
+
+* Valid Inference -> Gigo is black [**IMPORTANT**] [Example.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/b27ecadf-8388-4af7-8cdb-f8406bf9fd3d)
 
 
 
