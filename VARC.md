@@ -1688,6 +1688,100 @@
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/da4ecd01-9936-4154-9df9-050d60166bb3)
 
+* Types of argument.
+
+1) All elephants are black.
+2) Elephants in India are black.
+
+* the 2nd statement is guranteed to be true if the 1st statement is true.
+* the premise is making a general/broad claim.
+* the conclusion is making a  specific claim.
+* the conclusion is guranteed.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a05777cc-1902-4858-867e-522ba5c2d50e)
+
+1) all elephants oberved thus far have been black.
+2) prrobably, all elephants are black.
+
+* the 2nd statement is **likely to be true** if the 1st statement is true.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/23e7572d-7556-483c-93f2-a63c3f2013a4)
+
+* syllogism.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a118dc6e-5e25-4335-977b-5536cd808a00)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1b698af6-eda1-4848-a6db-7ef6d80f7c4f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c767db06-4000-470e-bf3a-6846db4f42bb)
+
+* passage.  
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/0d820df1-d1e2-4ddd-83b0-65efbd9d20a7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/6179853a-4ed1-4ba3-beb4-5bc609491f4b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e559f603-8eb4-4ba9-9300-a247045b26b2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/298ebce1-c83b-42fe-b700-10f74bca5de8)
+
+* Enlightenmment(E) and  revolution(R) happened at thhe same time.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c802cbb3-ea74-4934-9526-12f9f34d1f78)
+
+* Weakening means **doubt**. Attacking the argument.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/318b36ae-3639-4f0d-82a7-4ddd73c7b5c2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f59909f8-78d7-499a-b649-f85717ede750)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c9c188c0-39b2-46c4-b041-4d38699211c0)
+
+* Irrelevant, nothing to do with the argument.
+* 
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ec22a535-46ac-4e54-a05d-3f4365863c59)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f322e80d-d0af-42e3-b59e-acd3a38b4e5a)
+
+* [**IMPORTANT**] [Logic] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
