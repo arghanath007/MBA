@@ -1,4 +1,4 @@
-![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)# VARC
+# VARC
 
 # Rodha 
 
@@ -1793,6 +1793,154 @@
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/028c7c62-1fe8-4a8b-a83b-d49e858ecc1b)
 
+### Author's questions.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/86e09010-f1e5-498b-ad46-9a96ec058b45)
+
+* Objective
+* Author's idea/agree is present in the **passage** only.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c1775357-268c-492e-8618-047551a087ed)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3d91b6fd-3dd8-4d61-b832-e1e5e030b4e7)
+
+* Passage. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/563437c6-a319-4494-8ef5-b6849e5bd3ca)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8d35651b-43b9-4ec3-955b-02af4e568454)
+
+* Statement 1 -> True
+* Statement 2 -> True
+* Statement 3 -> True
+* Statement 4 -> True
+* Statement 5 -> True
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/da2b5780-757f-423b-bbcb-2973f1f0e3b1)
+
+* Author's **agreement** means it is **True** based on the information given in the passage.  [**VERY IMPORTANT**] [Logic]
+* Author's **disagreement** means it **contradicts** based on the information given in the passage. [**VERY IMPORTANT**] [Logic]
+
+* Agree -> Definitely agree -> Absolutely Tree.
+* Disagree -> Definitely disagree -> False
+* Uncertain -> Don't know -> BEAST.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1da7711e-5507-46da-a374-07dba61baf62)
+![image](https://github.com/arghanath007/MBA/assets/54589605/28ae6ef2-ea43-44e1-b136-37ccc988b79b)
+
+* Agree -> Eliminate the traps.
+* Disagree -> Contradicts the statement. Completely against the statement.
+
+### Specific Function
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ab88951c-5486-4541-8e5a-71126871525f)
+
+* Specific function question.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/7aea3635-a105-41b2-b822-95cc21077e50)
+
+* The question asked here is **why**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c26d4112-9a80-43cb-be71-dc66a396fb51)
+![image](https://github.com/arghanath007/MBA/assets/54589605/84ad632f-9f8d-441a-bf61-94ee46e6e3e5)
+
+* Why did the author mention it?
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ba2e8e9b-600e-42c5-8d72-cd59c1d445f6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d3db407d-752d-4134-b928-ec98db8ff2b3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f25c04ee-67a5-4046-9226-6b267d9fd819)
+
+* Passage. [2]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/9c1e40b4-ded7-44e5-a5af-4bfbccd26f48)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bb0be9b9-bc40-448e-bf46-749a52553bc3)
+
+* Option **1** -> sensitive -> Alien.
+* Option **2** -> widely accepted -> Alien.
+* Option **4** -> best -> extreme, side tracking.
+* Option **3**. [Answer] [Solution]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ea2f2dd6-b788-40d2-a940-200b23aafcb9)
+
+* Passage. [3]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/ec28c220-5008-4def-9748-d69f1624050f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b4641a09-032d-44cf-8582-b9460dfe6a8b)
+
+* Option **4**.
+* Viking came to **trade** first.
+* The question is asking for **why**.
+* Option **1** -> Should -> Extreme.
+* Option **3** -> Side tracking.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fd5933c6-6845-40c3-a009-8ffd9752dffa)
+
+* Specific function. [**IMPORTANT**]
+
+### Twisted Questions
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/d92cb729-1532-4465-bb2e-9e7df140d45c)
+
+* Twisted Questions
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/29629f0a-c9f7-4abe-8637-3de35277e868)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f1587091-c641-4e55-9184-049c7a4ed45a)
+
+* **Except** type questions.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/bf5b2c35-18cf-4341-a922-d19cb1218f66)
+
+* Maths.
+* True -> positive.
+* Not True -> Negative
+* Can be inferred -> positive
+* Except -> Negative.
+* positive + Negative -> Negative
+* Cannot be inferred -> Negative
+* Negative + Negative -> positive
+* None -> Negative
+* Negative + positive + Negative -> positive
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/af20e29d-4cdc-4f9b-93c5-e4b4c3ec036a)
+
+* Examples. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3e04da5f-d662-4524-b14c-514c3e474395)
+
+* Examples. [**IMPORTANT**]
+* If True -> positive
+* undermine -> Negative
+* strengthens -> positive
+* if false -> negative
+* if false, weakens.
+* if True, strengthens.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/97f40039-41fc-4b17-a779-942d5e94771d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a466999f-6ffb-4e2d-90d8-33df1ced6e19)
+
+* Examples. [**IMPORTANT**]
+* Except -> Negative.
+* weakens -> Negative.
+* If false, strengthens Except.
+* If True, weakens except.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/deb77a10-e7c9-4095-819a-50c6b67e7929)
+
+* Examples. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1e09a08b-47a9-42f3-bd93-e304552d1cae)
+![image](https://github.com/arghanath007/MBA/assets/54589605/fd6c8f2c-de41-40d8-87d6-87e9eba3b11b)
+
+* Examples. [**IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/3dbc7947-e048-464e-af52-704831ea3796)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e001d02a-0695-4707-8438-f15216fd77f7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/34bea4d6-61f8-467a-bd7f-1b07b7f13c3a)
+
+* None -> Negative.
+* Examples. [**IMPORTANT**]
+
+## Article Reading.
+
+* Article Dose.
 
 
 
@@ -1848,10 +1996,7 @@
 
 
 
+### Misc
 
-
-
-
-
-
+![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)
 
