@@ -134,6 +134,8 @@
 * XAT -> Jan
 * CMAT -> May [Not good exams] [NTA organized]
 * CET-> March [Not good exams] [Low cost colleges] [Good for maharashtra people]
+* JEMAT -> makaut exam mba
+* mat -> MBA exam.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a17287f9-dc10-46e4-be62-772f8b52905b)
 
