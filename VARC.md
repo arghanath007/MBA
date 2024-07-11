@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/arghanath007/MBA/assets/54589605/4e5e0ec8-5d9e-45ab-9ef2-91185a382141)![image](https://github.com/arghanath007/MBA/assets/54589605/4aff8912-e9f5-47fd-a847-91d3da232189)![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4ab5c-72c3-4f27-994a-03c0f3ca22e7)![image](https://github.com/arghanath007/MBA/assets/54589605/19e8db9e-a350-4a0f-bc12-f88ac8953a40)# VARC
 
 # Rodha 
 
@@ -1971,6 +1971,52 @@
 
 ### Article 2
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/41d00544-f8d1-485b-aed1-082569d4c11d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/1cdcc269-9f4d-40ce-8c0e-213e96b5f349)
+
+* ontology.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/94b1345d-f6bd-49c5-a981-45d38d0a3c28)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7c7e4796-75f6-45f4-b3b4-ecfe9404454b)
+
+* Passage.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/84ac2daf-d07b-4f55-ba01-d98528f2b197)
+![image](https://github.com/arghanath007/MBA/assets/54589605/b9dd34a6-aa54-4b3b-acf0-17491726ac2a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/668de9d7-3534-4b37-a7ea-58011c91c8cb)
+![image](https://github.com/arghanath007/MBA/assets/54589605/15be6d58-f2bf-44cc-893e-e4c751c9013a)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8b5fd231-d4bc-4f74-b45e-b884b9a8b1af)
+![image](https://github.com/arghanath007/MBA/assets/54589605/baf15d91-123e-49a6-9ded-474c9a8d2bc5)
+
+* The key is to undertanding the **key ideas** and move-on.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f14dd00f-f375-4667-8968-221589eea57f)
+
+### Article 3
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/48f07a29-7845-43a3-bb06-131d42c0dfb0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/10689f81-e5b4-4136-9f5d-a42ede86e190)
+![image](https://github.com/arghanath007/MBA/assets/54589605/deec080a-7878-49be-9a1a-dacfe47d4822)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e8c56dc0-7b36-46f7-a719-68465f7e8491)
+
+* noise -> fake news -> unwarranted claims.
+* signal ->
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/6f752345-da5d-4729-8cce-77a10e3c3c32)
+![image](https://github.com/arghanath007/MBA/assets/54589605/0db4ebae-734e-4bde-b725-d9dfc07644c7)
+
+* proposition -> different claims/statement.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/abcd45a5-045b-4785-a2e4-0ee229efcee8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/031a9f94-c1e2-4e9b-a2ff-67e44cfb1898)
+![image](https://github.com/arghanath007/MBA/assets/54589605/31e438f5-4da1-4c5c-bdf7-3e8e5c625f4e)
+
+* Truth -> signal
+* Untruth -> Noise.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f9642604-2dac-4c71-ba18-d1d0af13e48f)
+
+### Article 4
 
 
 
