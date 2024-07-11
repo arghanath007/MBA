@@ -2034,13 +2034,23 @@
 
 ### Article 5
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/abe35f7d-6875-4067-b545-448e3a37b98a)
 
+* Free will VS determinism.
+* To explain my viewpoint -> justification is happening.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/d240a308-1f1a-4d61-8d6c-883942ea1afa)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d28680a3-e4ee-47b4-9e3f-606fcb1a6889)
+![image](https://github.com/arghanath007/MBA/assets/54589605/33c5b18d-a3e3-4b39-a662-2e670da768e5)
 
+* the whole argument is about, if the whole world is deterministic then does free will exist? lewis is saying that it exists because free will doesn't require/need you to break  laws. We can act differently. Author is countering it by saying that the free will is the ability to breaking the law. That is what free will is. 
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/e3e6be95-ffb2-4d12-a65f-9cffd73c5059)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a241d8ab-193a-4577-8b03-cb59fd413096)
 
+### Article 6
 
-
+* CAD6.
 
 
 
