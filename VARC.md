@@ -1940,7 +1940,52 @@
 
 ## Article Reading.
 
-* Article Dose.
+* Article Dose. [1]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/1e7aabc7-3747-4de6-8bd2-3cbb88f17b35)
+![image](https://github.com/arghanath007/MBA/assets/54589605/191ea96d-6a0b-496b-b695-966543dea812)
+
+* paragraph 1.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/fbc43ed6-af0e-4086-a4b5-3e0fe08a3bd3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/e4b5418b-1116-42e1-9938-f0f849dc7661)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f6b9f3ae-6352-4a40-90fa-20d00a4d517e)
+
+* para 1 and 2 are talking about challenges including philosophy as a subject in k12.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/c9d9607c-7189-4b15-bd8c-12159b7dc3e8)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ffce8d9a-4963-44f2-aa38-27005f2ba370)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8fdb03ef-6cc5-4d9b-b5e1-d8dd86f9451c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8724aca0-ff28-4266-9707-30de4eb2a0bb)
+![image](https://github.com/arghanath007/MBA/assets/54589605/816b796a-cc35-4ebe-99fc-8c2d93828e3c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/3e9a295a-cfcb-40cd-8539-a543ee574a57)
+
+* 3 and 4 -> benefits
+* 4 -> critical thinking(CR).
+* 5 -> against/counter CR.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/e4465899-15a2-4bf1-acd5-8301f6504b18)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2a75f066-fd3b-4d85-a717-9b847611e89b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/00eb9793-4cc1-41df-a391-94787f92f253)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a02704ed-4863-486d-aac1-3bd4dcb84998)
+
+### Article 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
