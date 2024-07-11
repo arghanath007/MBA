@@ -2018,9 +2018,21 @@
 
 ### Article 4
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/ac144412-fa21-452f-8b73-6b2d4f13bcae)
+![image](https://github.com/arghanath007/MBA/assets/54589605/f2b9bb88-b5be-4fd3-9780-b6062e95e61f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/9c5f3caa-b038-496f-b6d4-d5c0d08db6d0)
+![image](https://github.com/arghanath007/MBA/assets/54589605/48840a60-56e8-4ca0-b0c0-f4449e700091)
 
+* Where is the barber?
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/ed15abcc-ffdc-4a01-9cfe-284201c9e932)
+![image](https://github.com/arghanath007/MBA/assets/54589605/c312cfff-afe4-4b7c-9650-0d952559dc83)
+![image](https://github.com/arghanath007/MBA/assets/54589605/34143852-8d9a-46ee-917c-575d239855e3)
+![image](https://github.com/arghanath007/MBA/assets/54589605/2e365c02-a331-439b-a437-3e3afd837df6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bda34164-c6c3-48fb-ac3e-bd5385177d5f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/36ec907b-6063-437d-a803-22a2e15f920f)
 
+### Article 5
 
 
 
