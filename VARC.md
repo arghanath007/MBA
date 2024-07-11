@@ -2144,9 +2144,13 @@
 9) 1 [Got wrong] 
 10) 1 [Got wrong] 
 
+![image](https://github.com/user-attachments/assets/65c9edf3-d826-4f6e-9417-8e053cbb5aa1)
 
+* [**VERY IMPORTANT**] 
 
+### Article 10
 
+* CAD10.
 
 
 
