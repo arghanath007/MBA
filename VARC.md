@@ -1,4 +1,4 @@
-![image](https://github.com/arghanath007/MBA/assets/54589605/4e5e0ec8-5d9e-45ab-9ef2-91185a382141)![image](https://github.com/arghanath007/MBA/assets/54589605/4aff8912-e9f5-47fd-a847-91d3da232189)![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4ab5c-72c3-4f27-994a-03c0f3ca22e7)![image](https://github.com/arghanath007/MBA/assets/54589605/19e8db9e-a350-4a0f-bc12-f88ac8953a40)# VARC
+# VARC
 
 # Rodha 
 
@@ -2125,4 +2125,4 @@
 ### Misc
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)
-
+![image](https://github.com/arghanath007/MBA/assets/54589605/4e5e0ec8-5d9e-45ab-9ef2-91185a382141)![image](https://github.com/arghanath007/MBA/assets/54589605/4aff8912-e9f5-47fd-a847-91d3da232189)![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4ab5c-72c3-4f27-994a-03c0f3ca22e7)![image](https://github.com/arghanath007/MBA/assets/54589605/19e8db9e-a350-4a0f-bc12-f88ac8953a40)
