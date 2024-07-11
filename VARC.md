@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/arghanath007/MBA/assets/54589605/bb3f951c-80ce-449a-bc62-df642b501540)# VARC
 
 # Rodha 
 
@@ -2065,6 +2065,95 @@
 ### Article 7
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2eeb4a3e-912e-42fe-8c7f-584c80f74627)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bc05fefd-2d64-400b-ada4-8cb0c4b7fb8f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ebac4bb4-3911-443d-9b0d-26084ea62de6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/208109b9-9e7f-4492-997f-a8e987b4e5d1)
+![image](https://github.com/arghanath007/MBA/assets/54589605/416d5abe-2c32-41e3-bb03-f48df5692901)
+![image](https://github.com/arghanath007/MBA/assets/54589605/dfb35c6a-3c91-46a7-8ffb-1a1b0aff2d5b)
+
+### Article 8
+
+1) B
+2) b
+3) c
+4) b [Got wrong]
+5) c [Got wrong]
+6) a
+7) b
+8) b [Got wrong]
+9) b
+10) b
+11) a
+
+* 2, 3, 4, 9, 16, 22. [Got wrong]
+
+1) 2
+2) 1
+3) 3
+4) 1
+5) 3
+6) 2 [Got wrong] 
+7) 2
+8) 1
+9) 3
+
+* Check the pdf file.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/42f96feb-7003-4f41-acee-d68a900d004d)
+![image](https://github.com/arghanath007/MBA/assets/54589605/a00f17ca-3b18-45d3-a618-1cbead3afb18)
+
+* pseudo-satire ->
+* emancipation -> freedom.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/618f84cb-e42f-4189-b634-a5478dc5133b)
+
+### Article 9
+
+1) a [Got wrong] 
+2) b [Got wrong] 
+3) a
+4) c [Got wrong] 
+5) a [Got wrong] 
+6) b
+7) a [Got wrong] 
+8) a [Got wrong] 
+9) b
+10) c
+
+* 1, 10, 14, 15, 22, 30. [Got wrong] 
+
+1) 1
+2) 1
+3) 1
+4) 1
+5) 1
+6) 1 [Got wrong] 
+7) 1
+8) 2 [Got wrong] 
+9) 2
+10) 2
+
+1) 1
+2) 2
+3) 2
+4) 2
+5) 2 [Got wrong] 
+6) 2 [Got wrong] 
+7) 1
+8) 2 [Got wrong] 
+9) 1 [Got wrong] 
+10) 1 [Got wrong] 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
