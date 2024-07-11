@@ -2052,6 +2052,19 @@
 
 * CAD6.
 
+![image](https://github.com/arghanath007/MBA/assets/54589605/8b7ba6c6-4eed-444b-bb4d-fbec873633a7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/ece69736-80fe-4736-bea5-db3b4d4eb9a6)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8c6c1c36-4956-4d8a-88e1-2c3a2b11c17b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/06d87485-45fb-4154-9a70-62357393da6c)
+![image](https://github.com/arghanath007/MBA/assets/54589605/beacbd71-a507-45d8-ab0e-01f99ac150c2)
+![image](https://github.com/arghanath007/MBA/assets/54589605/03e001cf-9483-42e0-9a4e-617980e729f5)
+![image](https://github.com/arghanath007/MBA/assets/54589605/d48bff82-0884-4884-b45b-bab7cd36e186)
+![image](https://github.com/arghanath007/MBA/assets/54589605/8b0bcc06-d5bd-40fa-b52f-467ef3018d0f)
+![image](https://github.com/arghanath007/MBA/assets/54589605/abdb3962-2363-4868-9f89-240c8355622c)
+
+### Article 7
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/2eeb4a3e-912e-42fe-8c7f-584c80f74627)
 
 
 
