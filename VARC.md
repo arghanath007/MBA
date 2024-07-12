@@ -1,4 +1,4 @@
-![image](https://github.com/arghanath007/MBA/assets/54589605/bb3f951c-80ce-449a-bc62-df642b501540)# VARC
+# VARC
 
 # Rodha 
 
@@ -391,7 +391,119 @@
 
 ## RC (Part - 5)
 
-* ERT-2.
+![image](https://github.com/user-attachments/assets/c2fc3146-666f-44ce-9e41-f6b8943ee8fa)
+
+* Para-1
+* headspace -> Something taking space in our head.
+* GAI -> headspace + technology.
+* A **passage** can move from **general(G)** to **specific(S)**. [**IMPORTANT**]
+* A **passage** can move from **specific(S)** to **specific(S)**. [**IMPORTANT**]
+* A **passage** can move from **general(G)** to **general(G)**. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/71b9c9f9-729f-421f-aa7e-28486d019bed)
+![image](https://github.com/user-attachments/assets/3ee62397-164f-496f-a884-cb0f5a6a161d)
+
+* Deductive reasoning.
+* Inductive reasoning.
+
+![image](https://github.com/user-attachments/assets/4b0fc035-6722-4263-b605-4b597c123029)
+![image](https://github.com/user-attachments/assets/ee17975b-84ae-4403-aed2-91a65920c3d2)
+
+* doomsday or a radiant posthuman future -> negative words/meaning.
+* They raise existential .... recent intellectual history -> Looks like **author's claim**.
+* Para's main idea -> AI.
+
+![image](https://github.com/user-attachments/assets/0b1ec482-ac65-4534-b097-1aebd5a738b6)
+![image](https://github.com/user-attachments/assets/c5022d99-b3a0-47d2-b8f0-51a9ba3662bf)
+![image](https://github.com/user-attachments/assets/75aad516-9b72-45c0-a311-1f9290e999b8) 
+![image](https://github.com/user-attachments/assets/573e16fb-18d3-4344-bfc4-c2809c3e0269)
+
+* Para-2.
+
+![image](https://github.com/user-attachments/assets/c33b7173-c743-41e0-b6ac-37100ee6eb3d)
+
+* Informative/descriptive.
+
+![image](https://github.com/user-attachments/assets/8b487b3b-e481-4b8e-a627-bc76cdd7d2f6)
+![image](https://github.com/user-attachments/assets/68034908-7e48-4e9d-86e6-19f291791a3a)
+![image](https://github.com/user-attachments/assets/1cce6f8b-9716-463b-8f6d-08d68bbb6f08)
+
+* The para focuses on the **language**.
+
+![image](https://github.com/user-attachments/assets/1690431a-5497-4eeb-865b-074ae214d851)
+
+* The central idea of the passage is that the **language** is no longer a **unique** human feature. The monopoly of **language** is falling.
+
+![image](https://github.com/user-attachments/assets/4a4a551a-742a-419d-b51a-03c9c20054dd)
+![image](https://github.com/user-attachments/assets/7b158ebf-c775-4dc1-aca0-3fb6e67b400e)
+
+* Para-3.
+* philosophical laboratories -> analogy.
+* somewhat misleading -> author.
+* Yet -> Contrast/contrasting word.
+
+![image](https://github.com/user-attachments/assets/a86351f5-f4ca-4855-b105-3c141987952f)
+
+* The author is acknowledging the impact of LLMs.
+
+![image](https://github.com/user-attachments/assets/ea803497-20fb-4934-a9aa-a000006869e6)
+
+* They -> AI developers. 
+
+![image](https://github.com/user-attachments/assets/87ee047e-1ecc-46ac-a752-430a72257090)
+![image](https://github.com/user-attachments/assets/2eaa32d3-ea6f-4436-ab6c-86f7a50a77b6)
+![image](https://github.com/user-attachments/assets/1389a784-f938-46f6-ab05-120de5ea1d64)
+
+* Para-4.
+
+![image](https://github.com/user-attachments/assets/10f7a180-f52e-47db-ac56-3285ad4a1420)
+![image](https://github.com/user-attachments/assets/50f08940-009f-48ea-bedf-56fd3e99d766)
+
+* AI's improvement/revolution is going on for **decades**.
+
+![image](https://github.com/user-attachments/assets/da643f4c-0531-42fa-a024-7a6d8e31e6a9)
+![image](https://github.com/user-attachments/assets/de729133-7f0e-49e3-8698-e9401d1e029b)
+
+* Explaination. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2389,3 +2501,4 @@
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4e5e0ec8-5d9e-45ab-9ef2-91185a382141)![image](https://github.com/arghanath007/MBA/assets/54589605/4aff8912-e9f5-47fd-a847-91d3da232189)![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4ab5c-72c3-4f27-994a-03c0f3ca22e7)![image](https://github.com/arghanath007/MBA/assets/54589605/19e8db9e-a350-4a0f-bc12-f88ac8953a40)
+![image](https://github.com/arghanath007/MBA/assets/54589605/bb3f951c-80ce-449a-bc62-df642b501540)
