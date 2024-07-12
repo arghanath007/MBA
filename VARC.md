@@ -2241,18 +2241,55 @@
 
 ### Article 13
 
+* [**VERY IMPORTANT**] [Practice Again]
+* P1 -> 1, 2 [Got wrong] 
+* P2 -> 7, 10 [Got wrong] 
+* P3 -> 14 [Got wrong] 
+* P4 -> 19, 21 [Got wrong]
 
 
+1) 2
+2) 1
+3) 2
+4) 1 
+5) 2 [Got wrong] 
+6) 1
+7) 2
+8) 1 
+9) 2
+10) 2
 
+1) 2
+2) 1 [Got wrong] 
+3) 1 [Got wrong] 
+4) 1  
+5) 2
+6) 2
+7) 2
+8) 2
+9) 2
+10) 1 [Got wrong] 
 
+### Article 14
 
+* P1 -> 2 [Got wrong] 
+* P2 -> 5 
+* P3 -> 14  [Got wrong] 
+* P4 -> 16 
+* P5 -> 22 [Got wrong]
 
+* [**VERY IMPORTANT**] [Practice Again]
+1) 2 [Got wrong]
+2) 1 [Got wrong] 
+3) 4 
+4) 5 [Got wrong] 
+5) 3 [Got wrong] 
 
+* dogmatic -> It is somewhat like religion only. It can't be questioned or changed. It is what it is.
 
+![image](https://github.com/user-attachments/assets/509e304a-ae5d-4388-bc62-1fbe2077c122)
 
-
-
-
+### Article 15
 
 
 
