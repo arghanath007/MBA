@@ -2150,7 +2150,69 @@
 
 ### Article 10
 
-* CAD10.
+* P1 -> 3, 4 [Got wrong] 
+* P2 -> 8, 16 [Got wrong] 
+* P3 -> 17, 22 [Got wrong] 
+
+1) 2 [Got wrong] 
+2) 2 [Got wrong] 
+3) 1
+4) 2 [Got wrong] 
+5) 2 [Got wrong] 
+6) 1
+7) 2 [Got wrong] 
+8) 2 
+9) 1 [Got wrong] 
+10) 2 [Got wrong]  
+
+
+1) 2 [Got wrong] 
+2) 2
+3) 1 [Got wrong] 
+4) 1
+5) 2 
+6) 2 [Got wrong] 
+7) 1
+8) 2 
+9) 2  
+10) 2
+
+### Article 11
+
+* P1 -> 1, 9. [Got wrong] 
+* P2 -> 10, 12 [Got wrong] 
+* P3 -> 17, 22 [Got wrong] 
+* P4 -> 25 
+
+
+1) 2 
+2) 1
+3) 1 
+4) 2 [Got wrong] 
+5) 1
+6) 1 
+7) 2
+8) 2 
+9) 1  
+10) 2
+
+
+1) B
+2) B 
+3) A [**IMPORTANT**]
+4) A
+
+* passive -> not mentioned in the passage.
+
+![image](https://github.com/user-attachments/assets/df39f74e-b4b0-4ba0-bbb5-055a8cc8fbc0)
+![image](https://github.com/user-attachments/assets/d5009397-7737-4abf-8888-7adf93044801)
+
+### Article 12
+
+
+
+
+
 
 
 
