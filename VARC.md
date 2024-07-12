@@ -2291,21 +2291,69 @@
 
 ### Article 15
 
+* [**VERY IMPORTANT**] [Practice Again]
+* P1 -> 1, 5 [Got wrong] 
+* P2 -> 6 [Got wrong] 
+* P3 -> 19  
+* P4 -> 21 [Got wrong]
+* P5 -> 23, 24 [Got wrong]
+
+1) 5 [Got wrong] [**VERY IMPORTANT**]
+2) 2 [Got wrong] 
+3) 4 [Got wrong] 
+
+### Article 16
+
+* [**VERY IMPORTANT**] [Practice Again]
+* P1 -> 4 [Got wrong] 
+* P2 -> 8, 9
+* P3 -> 14 [Got wrong]
+* P4 -> 21, 28 [Got wrong]
+* P5 -> 29 [Got wrong]
 
 
+1) B
+2) A 
+3) A 
+4) A
+5) B
 
 
+1) 1
+2) 1 
+3) 2 
+4) 1 [Got wrong]
+5) 2 [Got wrong]
+6) 1
+7) 1
+8) 1
 
+* diabolic -> evil spirit.
+* quiety shake up -> unnoticed.
+* will cease migrating -> stop migrating.
 
+### Article 17
 
+* [**VERY IMPORTANT**] [Practice Again]
+* P1 -> 2 [Got wrong] 
+* P2 -> 7, 11 [Got wrong]
+* P3 -> 15 
+* P4 -> 21 [Got wrong]
+* P5 -> 23, 24
 
+1) B [Got wrong] [**IMPORTANT**]
+2) B
+3) B
+4) B
 
-
-
-
-
-
-
+1) 2 [Got wrong] [**IMPORTANT**]
+2) 2
+3) 2 
+4) 2 
+5) 2 
+6) 2
+7) 2
+8) 2
 
 
 
