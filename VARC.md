@@ -2209,14 +2209,37 @@
 
 ### Article 12
 
+* P1 -> 3, 6 [Got wrong] 
+* P2 -> 7 [Got wrong] 
+* P3 -> 12, 16 
+* P4 -> 17, 21 [Got wrong] 
+* P5 ->  25
 
+1) 1
+2) 2
+3) 2
+4) 2 
+5) 1
+6) 2 [Got wrong] 
+7) 2 [Got wrong] 
+8) 1 
+9) 1  
+10) 1
 
+1) 1
+2) 2
+3) 1
+4) 2 [Got wrong] 
+5) 1
+6) 2 
+7) 1
+8) 1 
+9) 1  
+10) 1
 
+![image](https://github.com/user-attachments/assets/c0824a5a-9508-499f-95e8-9318611ca4ad)
 
-
-
-
-
+### Article 13
 
 
 
