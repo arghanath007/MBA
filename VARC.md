@@ -2496,16 +2496,25 @@
 
 ### Article 19
 
-* P1 -> 3, 9 [Got wrong] 
-* P2 -> 10, 12 [Got wrong]
-* P3 -> 17, 18 [Got wrong]
-* P4 -> 23, 25 [Got wrong]
+* P1 -> 3, 4 [Got wrong] 
+* P2 -> 6, 13 [Got wrong]
+* P3 -> 14, 22 [Got wrong]
 
+1) B 
+2) A [Got wrong] 
+3) A 
+4) A
 
+1) 2 [Got wrong]
+2) 1 [Got wrong]
+3) 4 [Got wrong]
 
+![image](https://github.com/user-attachments/assets/7687d796-3546-4914-b874-355fa0a1e0d7)
+![image](https://github.com/user-attachments/assets/36234fe2-6a62-4c93-873d-13439bf05cb9)
 
+### Article 20
 
-
+* CAD20
 
 
 
