@@ -468,7 +468,66 @@
 
 ## RC (Part - 5)
 
-* ERT-3
+![image](https://github.com/user-attachments/assets/e139b6cf-2ba7-4c94-a30d-d78146cfcaf8)
+
+* 1
+* nihilism -> rejecting all religion. Life is meaningless.
+* transcendence
+* seemingly -> slightly negative tone. [**IMPORTANT**]
+* to a degree -> A small number.
+
+![image](https://github.com/user-attachments/assets/88e78e6e-a778-448d-ba29-ea9b37a205c3)
+![image](https://github.com/user-attachments/assets/06ccb802-f8d1-4f10-b402-d1dd65849830)
+
+* The author is using magic and magician as an anology to drive home his point about internet and perception manipulation. Overall the author is taking the manipulation in a **negative** sense.
+* We are taking about the internet
+
+![image](https://github.com/user-attachments/assets/30416cd7-0229-4058-84f2-963b30b40e3f)
+![image](https://github.com/user-attachments/assets/e27d6f47-3341-4858-93ef-e16512b92005)
+
+* 2
+* cult -> extremist group/new group.
+* transgression -> change
+* mediated -> manipulated.
+* The internet is using our desires.
+* Valor -> bravery.
+* esoteric ideas -> 
+
+![image](https://github.com/user-attachments/assets/ee56e664-ccf3-4ea2-b50e-9f1a8ee1a8b1)
+![image](https://github.com/user-attachments/assets/6796fd70-df7e-43aa-990b-8eaf35f0b396)
+
+* 3
+* modern internet culture -> negative
+* disinformation, engagement farming, meme culture, russian troll bots, other fragments -> negative word
+* The people who are making the **memes** and the people who are watching the memes are getting manipulated by the creators of the memes. 
+* keywords -> internet culture, attention, perception, desire, modern, dark.
+* More examples to prove author's points.
+* The author is trying to say that the people are getting manipulated by the internet.
+
+![image](https://github.com/user-attachments/assets/30aa0786-70f6-4ac1-9b46-b2baf611e25f)
+![image](https://github.com/user-attachments/assets/6f636cc8-ca90-42bc-ba66-c665f5563413)
+![image](https://github.com/user-attachments/assets/5aa71131-edec-4432-aa5c-b0f7756677f3)
+![image](https://github.com/user-attachments/assets/bfbf9c06-d733-4c0b-9b30-65c8920fd01e)
+
+* Para - 4.
+* extrolling
+* be a better you -> to manipulate.
+* Tenn manipulate -> magazine -> manipulating.
+
+![image](https://github.com/user-attachments/assets/5f2498fa-46ba-45cd-a204-47757423f2ff)
+
+* It is **critical**.
+* Internet is not negative, internet is being miss used in the negative sense by someone else.
+* Internet is being used as a manipulating tool.
+* Author is criticizing the people who are using the internet as a manipulating tool.
+* We are trying to be the best version of ourselves -> YES.
+* The best version is fullfilled by our **desire**.
+* The **desire** is fullfilled by the **internet**.
+
+![image](https://github.com/user-attachments/assets/c494d540-f92a-4df0-856a-f5d51c0ffeed)
+![image](https://github.com/user-attachments/assets/b1c51d82-4337-497d-bced-44272e2d264e)
+
+## RC (Part - 6)
 
 
 
@@ -490,6 +549,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
