@@ -529,7 +529,71 @@
 
 ## RC (Part - 6)
 
+![image](https://github.com/user-attachments/assets/c988891f-5007-4b13-877a-a8f7dde87a71)
 
+* doctrine -> law.
+* sovereign -> free
+* plenary -> complete
+* Congress -> Government.
+* however -> contrast -> government is different from the judiciary.
+
+![image](https://github.com/user-attachments/assets/5f9aeb7c-a90d-4204-8183-9047ac1843ec)
+![image](https://github.com/user-attachments/assets/cbfe9449-e555-43ea-8b14-8423b68ef6a0)
+
+* Para 1 -> Tribal immunity and judiciary.
+* enunciated -> created/elaborated.
+* Para 2 -> Reevaluating of the tribal immunity.
+* suit -> cases.
+* natives -> sovereign -> tribal immunity.
+
+![image](https://github.com/user-attachments/assets/ad225a6f-3a90-45fe-b209-c9b4cff2bb2c)
+![image](https://github.com/user-attachments/assets/e824d948-3a38-4653-9675-d3c2d159d26a)
+![image](https://github.com/user-attachments/assets/ee5b9d92-3122-4f15-8efc-094693dfadc7)
+
+*  Para 1 -> Talking about some changes in governance.
+*  First basis -> sovereign
+*  second bases -> tribal resources.
+*  We want to protect **tribal resources**.
+
+![image](https://github.com/user-attachments/assets/10a444d2-83c7-4c73-a856-11fe399f4def)
+![image](https://github.com/user-attachments/assets/c51daef3-d395-41cd-b37c-f64197ef569c)
+![image](https://github.com/user-attachments/assets/42abbe83-8378-4f36-b3ef-b2fb644ae7ee)
+
+* Para 1 -> Tribes maybe got some other protection here.
+
+![image](https://github.com/user-attachments/assets/49b18d91-5209-4b46-80af-4ca0463d545b)
+
+* 1 [**VERY IMPORTANT**]
+* Immunity was granted to the tribals.
+
+![image](https://github.com/user-attachments/assets/a921ed6a-f1c0-4ce5-9264-689f9ced9d83)
+
+* Option **2**. [Got wrong]
+
+![image](https://github.com/user-attachments/assets/81dade94-4d2a-411f-896a-eece7707e2d6)
+
+* 2
+* Not True -> Not given in the passage -> This is not **False**. [**VERY IMPORTANT**]
+* Out of the **'4'** options, **'3'** options will be **correct**.
+* virtually -> Hypothetically.
+* We can sue **fedral, local and foreign** government relatively easily compared to **native american tribes**.
+
+ ![image](https://github.com/user-attachments/assets/02af5c72-997b-47ad-8015-e8126823cbe3)
+
+* Option **1**. [Got wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f844cf79-012d-451e-89b0-6ff53fa0c2f0)
+
+* 3
+* plausible -> possibility.
+
+![image](https://github.com/user-attachments/assets/1a227e40-62a0-4e6b-9bf2-b2befbe5e87a)
+![image](https://github.com/user-attachments/assets/aefa89a1-5ad3-4ad0-ba32-31e7d8895538)
+![image](https://github.com/user-attachments/assets/ecf3975b-ab89-48d9-969f-cb9afa5692e5)
+
+* Option **3** is an **irrelevant** option.
+* Option **4** is an **out of context** option.
+* Option **3**. [Got wrong] [**VERY IMPORTANT**] 
 
 
 
