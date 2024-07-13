@@ -2469,13 +2469,37 @@
 
 ### Article 18
 
-* CAD18
+* [**VERY IMPORTANT**] [Practice Again]
+* P1 -> 3, 9 [Got wrong] 
+* P2 -> 10, 12 [Got wrong]
+* P3 -> 17, 18 [Got wrong]
+* P4 -> 23, 25 [Got wrong]
 
+1) B 
+2) B
+3) A [Got wrong] 
+4) B
 
+1) 2 [Got wrong]
+2) 1
+3) 2 
+4) 1 
+5) 2 
+6) 1
+7) 2
+8) 1
 
+![image](https://github.com/user-attachments/assets/0d62b931-40f3-4063-8f67-9a9752bde9a5)
+![image](https://github.com/user-attachments/assets/6e69703b-dc94-4def-a181-55a898570a30)
+![image](https://github.com/user-attachments/assets/5df0e4d4-7150-4b2a-bf16-848d305fb70d)
+![image](https://github.com/user-attachments/assets/786ff3df-0039-490e-a62e-b41c08ca44bf)
 
+### Article 19
 
-
+* P1 -> 3, 9 [Got wrong] 
+* P2 -> 10, 12 [Got wrong]
+* P3 -> 17, 18 [Got wrong]
+* P4 -> 23, 25 [Got wrong]
 
 
 
