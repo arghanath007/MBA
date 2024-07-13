@@ -595,6 +595,25 @@
 * Option **4** is an **out of context** option.
 * Option **3**. [Got wrong] [**VERY IMPORTANT**] 
 
+## RC (Part - 7)
+
+![image](https://github.com/user-attachments/assets/bf036e3a-dcbd-4b03-8d1f-0fa0fb919a08)
+
+* keywords -> power, abilities, subject, agents, object, action
+
+![image](https://github.com/user-attachments/assets/ddcc380d-a5da-4caf-b4d1-bb9edb987480)
+
+* ERT - 5.
+
+
+
+
+
+
+
+
+
+
 
 
 
