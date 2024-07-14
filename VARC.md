@@ -2693,11 +2693,28 @@
 
 ### Article 21
 
+* P1 -> 4 
+* P2 -> 6, 9 [Got wrong]
+* P3 -> 10, 11 [Got wrong]
+* P4 -> 16 [Got wrong] 
+* P5 -> 19, 23 [Got wrong]
 
+1) B 
+2) C 
+3) C 
+4) b [Got wrong] [**important**]
+5) b [Got wrong]
+6) B
+7) a [Got wrong]
+8) b
+9) b
 
+* Conflict is the primary cause of hunger.
+* starvation -> hungry.
+* war -> conflict.
+* If A then B -> Only if B then A.
 
-
-
+### Article 22
 
 
 
