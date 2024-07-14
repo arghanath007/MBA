@@ -2668,7 +2668,47 @@
 
 ### Article 20
 
-* CAD20
+* P1 -> 1, 4 
+* P2 -> 5, 6 [Got wrong]
+* P3 -> 9, 12 [Got wrong]
+* P4 -> 15, 16 [Got wrong] 
+* P5 -> 17 [Got wrong]
+* P6 -> 23 [Got wrong]
+
+
+1) B 
+2) A  
+3) B [Got wrong]
+4) C
+5) A [Got wrong]
+6) A
+
+* The focus is on the bird sound.
+* amplified in option **'c'** of question **'1'** is a rotten word. 
+
+![image](https://github.com/user-attachments/assets/9233db47-fb90-41f7-a1d3-8ae04874c911)
+![image](https://github.com/user-attachments/assets/ac092eed-5f1f-4c3c-8d37-40516098b38b)
+ 
+ * **Outdated** is an alien word in option **'b** of question **'6'**.
+
+### Article 21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
