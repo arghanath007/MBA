@@ -2206,7 +2206,7 @@
 
 ## Article Reading.
 
-* Article Dose. [1]
+## Article 1
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1e7aabc7-3747-4de6-8bd2-3cbb88f17b35)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/191ea96d-6a0b-496b-b695-966543dea812)
