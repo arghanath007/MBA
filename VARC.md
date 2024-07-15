@@ -2778,6 +2778,79 @@
 
 
 
+## Module 5 (Rc practice)
+
+* RC - 1
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=GE%2FELaBVl9g%3D$
+
+![image](https://github.com/user-attachments/assets/398b8a5e-b370-4379-b715-ba94510fa7b0)
+![image](https://github.com/user-attachments/assets/c1a162c6-c64a-4b99-8e92-f6b8e6e025fb)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/8e4addc7-ae61-4bf2-b7dc-22ddc429bc4f)
+
+* 2
+* option **1 and 3** are contradictory to the passage. Options are talking about **individual**.
+
+![image](https://github.com/user-attachments/assets/c3029145-a799-496d-b25d-2a2880eb97e3)
+
+* 3.
+
+![image](https://github.com/user-attachments/assets/5d667561-946c-49b9-a357-459f87c635e7)
+
+* 4.
+
+![image](https://github.com/user-attachments/assets/ee8f309f-8d44-4916-b65a-1a6865ddab3b)
+![image](https://github.com/user-attachments/assets/c1280d5b-95be-4a55-a38c-62bb9e3bfe1f)
+![image](https://github.com/user-attachments/assets/4a27e32b-64af-46a5-9bb8-f437be593838)
+![image](https://github.com/user-attachments/assets/4059d128-67d2-4818-922c-d9c06ea02691)
+![image](https://github.com/user-attachments/assets/789c87aa-12cd-402c-9812-0fe5db02b6a8)
+
+
+* RC - 2 [**VERY IMPORTANT**] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=mhfwDeI8v4U%3D$
+
+![image](https://github.com/user-attachments/assets/14e3a803-90fa-4c1c-bcb6-968f811f253f)
+![image](https://github.com/user-attachments/assets/bcefcae3-1a06-40c9-9210-2184f25b44cc)
+
+* Risk, reward, rescue -> Guidelines. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8bc208ee-8948-49b2-9d18-432643527108)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/8f7c098c-60a7-410a-b2fc-e76b8095ac9a)
+
+* 2
+* Cannot be inferred -> negative.
+* selfless -> Altruistic.
+
+![image](https://github.com/user-attachments/assets/0b449caa-5b6b-44db-bfc9-5579496e4649)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/cedc7528-feb4-4497-a949-3b08244bab5a)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/d4dbdd73-0bfc-4511-9304-6080e3465d72)
+![image](https://github.com/user-attachments/assets/4025ca33-7f7f-4ad4-9ef7-71ca6a96d236)
+![image](https://github.com/user-attachments/assets/5c7b1519-9fee-4f21-a95a-251c8a7f6b62)
+![image](https://github.com/user-attachments/assets/92ece9bd-43c3-456a-a18d-6a9afaf2750f)
+
+* RC - 3 [**VERY IMPORTANT**] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sNsCNpUOx8o%3D$
+
+
+
+
+
+
+
+
+
+
 
 
 
