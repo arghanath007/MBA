@@ -1,5 +1,9 @@
 # CAT
 
+![image](https://github.com/user-attachments/assets/94f0e4c2-818f-4ee1-835e-7123049d26d5)
+
+* MBA exam
+
 # Resources
 
 * Free Resources -> https://docs.google.com/spreadsheets/d/121TJowkkWLeaPSAYp5Cokg0If9iwBtFDF6CZ5JWIYO0/edit?gid=0#gid=0
