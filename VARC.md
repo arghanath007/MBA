@@ -674,6 +674,12 @@
 
 # VARC1000
 
+* Module 1 -> Done
+* Module 2 -> Done
+* Module 3 -> Done
+* Module 4 -> Done
+* Module 5 -> Working on it.
+
 ## RC in Cat (Part - 1)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ac5e7500-b798-408f-94d5-276549013201)
