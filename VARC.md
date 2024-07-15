@@ -2842,6 +2842,53 @@
 * RC - 3 [**VERY IMPORTANT**] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sNsCNpUOx8o%3D$
 
+![image](https://github.com/user-attachments/assets/e1acb4e6-cc5a-4343-a4d1-70e8e8f96612)
+![image](https://github.com/user-attachments/assets/a58ff314-c8e6-4e64-a99e-85e928bbbd33)
+
+* History. [**VERY IMPORTANT**]
+* phil -> root word -> love.  [**IMPORTANT**]
+* apo -> root word ->  from. [**IMPORTANT**]
+* theo -> root word -> god. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d8686443-516e-4ed3-b0e8-42358242a51b)
+![image](https://github.com/user-attachments/assets/e4189c81-83e5-48db-be33-bf2b8864f4ac)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/48e71867-1c9b-4582-a444-58dddb9027ab)
+![image](https://github.com/user-attachments/assets/ad6006d4-950e-473b-94c3-43b5fd30e293)
+![image](https://github.com/user-attachments/assets/615e4883-2bc3-4998-8703-12950e6c53d0)
+![image](https://github.com/user-attachments/assets/2373faea-0f3e-451c-84e9-7381e4be532a)
+![image](https://github.com/user-attachments/assets/0861a9a6-c42f-413b-8b69-b811ffa5f8dd)
+![image](https://github.com/user-attachments/assets/15c616c2-081c-4bc8-975d-ede2ef50e6db)
+![image](https://github.com/user-attachments/assets/b051d0a0-6585-4b76-a26c-ae867454802d)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/cedc07c7-9013-4d70-b1bb-1fd3221c1be7)
+![image](https://github.com/user-attachments/assets/4f01b77a-6a38-40b3-9d5e-3828ef975e30)
+
+* RC - 4 [**VERY IMPORTANT**] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=oQ02XlvP2gU%3D$
+
+![image](https://github.com/user-attachments/assets/0822f996-89c1-4fb6-ba75-8fb633caeb8a)
+![image](https://github.com/user-attachments/assets/2d0f45be-ed57-45fb-96b6-4aeae5bcc22b)
+
+* History. [**VERY IMPORTANT**]
+* epochs -> Different eras.
+
+
+* start from **solutions**.
+
+
+
+
+
+
+
+
+
+
 
 
 
