@@ -2717,15 +2717,50 @@
 ### Article 22
 
 
+* P1 -> 2, 3
+* P2 -> 5, 9 [Got wrong]
+* P3 -> 14, 16 [Got wrong]
+* P4 -> 20, 22 [Got wrong] 
+* P5 -> 25
+
+1) A
+2) B
+3) B
+4) A 
+5) a [Got wrong]
 
 
+* [**important**]
+1) 1
+2) 1
+3) 2
+4) 2 [Got wrong] [**important**]
+5) 1 
+
+### Article 23
+
+* P1 -> 3, 6 [Got wrong]
+* P2 -> 7, 11 
+* P3 -> 12
+* P4 -> 15, 17 [Got wrong] 
+* P5 -> 21 [Got wrong]
 
 
+1) C
+2) B
+3) c [Got wrong] [**important**]
+4) a 
+5) b
+6) B
+7) b 
+8) a
+9) c [Got wrong] 
+10) b [Got wrong] 
 
+* Underlines -> give extra weight to (a communication) [**very important**]
+* sigma -> a symbol of disgrace or infamy [**very important**]
 
-
-
-
+![image](https://github.com/user-attachments/assets/0c424b1e-1858-4090-b277-d42882c94a43)
 
 
 
