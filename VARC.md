@@ -680,6 +680,60 @@
 * Module 4 -> Done
 * Module 5 -> Working on it.
 
+### RC discussion
+
+![image](https://github.com/user-attachments/assets/f44a9133-7dcb-4769-ae87-6afae3a357d3)
+![image](https://github.com/user-attachments/assets/77ed8ec6-3dbe-44c7-a80f-ee9cfa3c1007)
+
+* 8 VA questions -> 1.5mins per question -> total is 10 to 12mins.
+
+![image](https://github.com/user-attachments/assets/093021bb-2064-4faa-a612-d7ea71f3fac9)
+![image](https://github.com/user-attachments/assets/566f1d34-ef72-403d-8049-1c47d48a2e6b)
+![image](https://github.com/user-attachments/assets/4c0999d6-7f61-4334-864b-3396a4f2cbd5)
+![image](https://github.com/user-attachments/assets/2a2254c0-56ed-488f-b97c-caf166e58480)
+![image](https://github.com/user-attachments/assets/794ed3dc-e74b-4dea-9903-ce0a386c4832)
+![image](https://github.com/user-attachments/assets/e09d9b0c-f8ff-47f5-baca-00ca017377aa)
+
+* Ideal Game Plan.
+
+![image](https://github.com/user-attachments/assets/cd5afbbe-f9fa-4652-80c3-485e03d685a2)
+
+* We are leaving 1-passage here.
+
+![image](https://github.com/user-attachments/assets/d54a4bcd-e7c9-4463-b37e-c6743a12ea6c)
+
+* We are doing all RCs only. We are strategically leaving questions.
+
+![image](https://github.com/user-attachments/assets/feacf5a5-7fd3-40b1-a77f-f020b90d1176)
+![image](https://github.com/user-attachments/assets/ea937000-fa0f-44c6-9f00-b69e51557afc)
+![image](https://github.com/user-attachments/assets/57880d2b-cb65-4187-b356-70515f2cf2ce)
+![image](https://github.com/user-attachments/assets/31874901-2025-4437-b58b-64430acdab77)
+![image](https://github.com/user-attachments/assets/6f3674e1-ed04-4930-bd2e-7ab888ce1bbc)
+![image](https://github.com/user-attachments/assets/e8d6a354-a575-42f9-bea4-1163db428f3d)
+![image](https://github.com/user-attachments/assets/4b5c34fc-f06b-4e7a-8a3c-fcdfaa24a0c4)
+![image](https://github.com/user-attachments/assets/625f482e-777f-4322-89d6-a85ebefc81d7)
+
+* KISS -> Keep It simple, Soldier. [**VERY IMPORTANT**]
+* Learn to **leave**. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## RC in Cat (Part - 1)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ac5e7500-b798-408f-94d5-276549013201)
