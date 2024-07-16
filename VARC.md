@@ -934,6 +934,61 @@
 ![image](https://github.com/user-attachments/assets/faf62a42-c9db-490a-bdfb-adb089b4fde6)
 ![image](https://github.com/user-attachments/assets/42636b57-29a5-4c65-8286-9627bab4c298)
 
+## VA questions
+
+![image](https://github.com/user-attachments/assets/0e87320b-9a80-4d2d-8b9d-c81ac4026f66)
+
+* **IMPORTANT** points of the passage.
+* Unity.
+* Cohesion.
+* Development.
+
+![image](https://github.com/user-attachments/assets/27ee2baa-0621-43ab-be1b-d1fa887d167d)
+![image](https://github.com/user-attachments/assets/22e8e20e-bd05-4b4d-8aca-22a613407258)
+![image](https://github.com/user-attachments/assets/45843236-d34e-4493-9bdd-fcb0e7698902)
+![image](https://github.com/user-attachments/assets/04dfc14d-f783-4aa1-b6f4-acba756b48e0)
+
+* Unity.
+
+![image](https://github.com/user-attachments/assets/936d72a1-0c14-4a9a-bf4b-4291e5d9eb3c)
+
+* Cohesion is about **language** elements that are used to ensure that the sentences are connected together.
+
+![image](https://github.com/user-attachments/assets/456bb04e-8588-475e-8690-2bfcca9f1ad9)
+![image](https://github.com/user-attachments/assets/2aba5281-1b81-4d64-8b2c-cfc59653f841)
+
+1) Pronouns -> It, them, they. [**VERY IMPORTANT**]
+2) Transition -> But, however -> Creating a **contrast**.
+3) Repetition(Echo) -> Lookism, Appearance discrimination.
+
+![image](https://github.com/user-attachments/assets/7493354b-6667-4ac9-a70c-ff16cc051c4d)
+
+* Development -> Based on **logic**. 
+
+![image](https://github.com/user-attachments/assets/f941b9a8-9df4-41e0-b771-88a59be3a588)
+
+* It is an **interplay** between **language and logic**. 
+
+![image](https://github.com/user-attachments/assets/c52ece6d-63c4-42b7-a784-69620e9c3095)
+
+* VA questions -> Paragraph -> Game -> Unity, Cohesion, Development.
+
+### Unity
+
+![image](https://github.com/user-attachments/assets/ddc5d006-9301-4243-8745-1b9249726dba)
+![image](https://github.com/user-attachments/assets/10f9ff18-3041-4803-b00c-f3e6c8679290)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
