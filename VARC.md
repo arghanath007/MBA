@@ -680,7 +680,7 @@
 * Module 4 -> Done
 * Module 5 -> Working on it.
 
-### RC discussion
+## RC discussion
 
 ![image](https://github.com/user-attachments/assets/f44a9133-7dcb-4769-ae87-6afae3a357d3)
 ![image](https://github.com/user-attachments/assets/77ed8ec6-3dbe-44c7-a80f-ee9cfa3c1007)
@@ -715,24 +715,6 @@
 
 * KISS -> Keep It simple, Soldier. [**VERY IMPORTANT**]
 * Learn to **leave**. [**VERY IMPORTANT**]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## RC in Cat (Part - 1)
 
@@ -836,6 +818,146 @@
 
 * We want to **solve** as much as we **can/want**.
 * We want to **solve** as many as we **can/want**.
+
+### VA discussion
+
+![image](https://github.com/user-attachments/assets/039777f3-2dda-485d-91e4-ec714aa17fdc)
+
+* We have to **game the test**. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7fbe6924-c1c6-451e-a847-517d2b38cf19)
+![image](https://github.com/user-attachments/assets/65869130-ffdf-4a0d-b8f1-b4b3285dad7d)
+
+*  Verbal Ability(VA).
+
+![image](https://github.com/user-attachments/assets/71987adf-b5f0-45ac-a817-08d2df56829b)
+![image](https://github.com/user-attachments/assets/5f08a6e5-1d6b-40cf-86c4-9e2ae5f8fde0)
+![image](https://github.com/user-attachments/assets/c9f48a5f-839f-4dab-a2a9-d1296e7f9ccf)
+![image](https://github.com/user-attachments/assets/6db351df-a5f2-4bf4-af07-3db8f776bae4)
+
+* Paragraph Comprehension Questions [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f602c4df-582a-44bb-bb63-df571e008b86)
+
+* Rank, Percentile.
+* Pattern VARC. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7e070095-14e9-4869-b8a0-519d40fbf47a)
+
+* **VA** is an important part of **VARC**. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7fc77269-5b6e-4fdd-b38d-c776677f984e)
+
+* Paragraph Summary. [Example]
+
+![image](https://github.com/user-attachments/assets/cb162a00-6bb7-40b2-8f22-c9c0e7aa8290)
+
+* Answer -> 2 [Answer] [Solution]
+
+![image](https://github.com/user-attachments/assets/7065643b-5231-4235-b530-994e97416743)
+![image](https://github.com/user-attachments/assets/d8971789-9e5f-40b4-b510-cbbdd6eb912b)
+
+* We shouldn't look for **perfect summary**. [**IMPORTANT**]
+* We have to look to **eliminate** the options. 
+
+![image](https://github.com/user-attachments/assets/90f78b6c-1d11-491d-9c49-3f8262eb3857)
+
+* BEAST -> Broad Extreme Alien Side-track Tone-mismatch. [**VERY IMPORTANT**] [Logic]
+* Outward looking culture -> diplomacy, faith and commerce.
+
+![image](https://github.com/user-attachments/assets/04732b4d-7638-49e2-ba30-ae55487eaecc)
+![image](https://github.com/user-attachments/assets/c9eee602-8421-4e2b-b6d0-df2cc93bce90)
+![image](https://github.com/user-attachments/assets/a1011dd1-035a-4caa-82cc-4229b9f4bbbb)
+
+* Paragraph Jumble. [Example] [2018]
+* Answer -> 1324. [**IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/51ea1016-c0a9-415d-89b6-14245ae813de)
+![image](https://github.com/user-attachments/assets/e98bf529-6755-4fad-9d2f-59aa45ee3959)
+![image](https://github.com/user-attachments/assets/8f47ea7a-6e46-45ac-aea3-1a05b5fa72c3)
+
+* Statement 1 -> Broad.
+* Statement 2 -> Narrow.
+* Statement 3 -> Narrow.
+* Statement 4 -> Example.
+* Broad -> Narrow.
+* We are doing **zooming in**. [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/50f11414-23f3-407f-beba-5a1a9d9e259b)
+![image](https://github.com/user-attachments/assets/8ea3c3aa-b546-4de5-b21d-3b43d8eb7578)
+![image](https://github.com/user-attachments/assets/800e2e62-529e-4afd-a0fa-a428ba4a2857)
+
+* Paragraph Jumble. [Example] [2019]
+
+![image](https://github.com/user-attachments/assets/be0aec63-3a73-491d-b963-ba1fde1d63b4)
+
+* Answer -> 2341. [**IMPORTANT**] [Got Wrong] [Try again]
+* Echoing words -> Mind-reading, print-reading. [Logic] [**VERY IMPORTANT**]
+* **Mind-reading** started/introduced/originated from **statement '2'**. [Logic] [**VERY IMPORTANT**]
+* **Print-reading** started/introduced/originated from **statement '4'**. [Logic] [**VERY IMPORTANT**] 
+* In **statement '4'** we are doing a comparison between **Print-reading** and **Mind-reading**. [**IMPORTANT**]
+* **Statement '3'** is giving details about **mind-reading**.
+* **Statement '2 and 3'** explained **Mind-reading**.
+* **Statement '4 and 1'** explained **Print-reading**.
+
+![image](https://github.com/user-attachments/assets/330c3012-8c6c-47de-bb03-076f44663cae)
+![image](https://github.com/user-attachments/assets/1eb052e9-a780-491d-b3f3-2d07130fa0a6)
+
+* We have to use **logic** and **language** is going to aid the **logic**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c82cd4ee-92f8-49ea-a89b-e16518d5cdc7)
+
+* Logic(L) + Language(L) -> L + L. [Logic]
+
+![image](https://github.com/user-attachments/assets/6c5829fd-39f9-4364-8d30-96ccdfa55159)
+
+* Odd Sentence in a Paragraph. [Example] [2018]
+* Answer -> 2 [**IMPORTANT**] [Try again]
+* **Statement '5'** is absolutely needed otherwise **statement '3'** is also eliminated. 
+
+![image](https://github.com/user-attachments/assets/dfff02ab-710c-492e-974c-dd0d8f3c5c5f)
+![image](https://github.com/user-attachments/assets/c496d53e-a0e0-445c-b415-6d764ef1b316)
+![image](https://github.com/user-attachments/assets/a69262a2-63ac-441b-92e2-755ec32e5dc4)
+![image](https://github.com/user-attachments/assets/a8a2cca9-aa7f-4435-a593-95e89c3d1392)
+![image](https://github.com/user-attachments/assets/7d4e167e-b710-42a9-bb37-5f921abdc7e8)
+
+* Explaination.
+
+![image](https://github.com/user-attachments/assets/96c9b7bc-62b8-461c-acc6-ad9e0232d730)
+
+* Making **pair/blocks/connection** between the sentences **helps**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/550821a3-8e3c-4e86-97df-c87c5a22c947)
+
+* Sentence Placement in a Paragraph. [Example] [2022]
+
+![image](https://github.com/user-attachments/assets/faf62a42-c9db-490a-bdfb-adb089b4fde6)
+![image](https://github.com/user-attachments/assets/42636b57-29a5-4c65-8286-9627bab4c298)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Diagnostic Test (Practice)
 
