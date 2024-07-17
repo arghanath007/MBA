@@ -1010,6 +1010,81 @@
 
 * Incompete video, only 48secs.
 
+![image](https://github.com/user-attachments/assets/238c48d8-7009-47c0-ae30-3b4d538bb32c)
+
+* Cohesion-Echo
+
+![image](https://github.com/user-attachments/assets/e636d57d-5d6f-4618-807f-3b4ecfedf2b5)
+ ![image](https://github.com/user-attachments/assets/23b8c6c1-edd1-4b29-91c9-e87ed9c09fc4)
+
+* 1 -> 2.
+* Echo word -> Xenobot.
+
+![image](https://github.com/user-attachments/assets/7867e543-8778-416c-b7df-e2571e0af721)
+
+* 1 -> 2.
+* Echo word -> minimally invasive surgeries.
+
+![image](https://github.com/user-attachments/assets/b834183b-df1e-4971-89ef-fe66174d6870)
+
+* Echo -> Not the exact same words but similar meaning words.
+
+![image](https://github.com/user-attachments/assets/eb6970f5-6a16-4541-b431-17bec347f51e)
+![image](https://github.com/user-attachments/assets/6f5e7c10-479c-4281-aed0-243f514c6855)
+
+* Urban/cities -> Metropolitan [Echo word]
+* Farming -> cultivating. [Echo word]
+
+![image](https://github.com/user-attachments/assets/99377ec4-dd96-492f-8e65-6d0487d57651)
+![image](https://github.com/user-attachments/assets/e4780603-dadd-4ab5-ba7b-4a8920c3514d)
+
+* Protagonist -> main character. [Echo word]
+* trials -> challenges and obstacles. [Echo word]
+* learns about himself -> self discovery. [Echo word]
+* Don't ignore the **echoes**. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/13e8ea00-f0f6-4932-b448-c39be32d97b1)
+![image](https://github.com/user-attachments/assets/1eaeb159-2866-434f-bfc8-bff495d9c84f)
+
+* Parajumble Question. [2018] [Example]
+
+![image](https://github.com/user-attachments/assets/46bd865f-2666-4e97-9e66-188fb06b9f64)
+![image](https://github.com/user-attachments/assets/e774f1ac-8c0a-4ded-afe4-0051576b960b)
+
+* Answer -> 1324 [Solution] [**IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/8898d796-f5a4-4803-92ca-6cc03dfdb4df)
+![image](https://github.com/user-attachments/assets/ff736615-e9a8-483b-a0dd-fb31ebee3778)
+![image](https://github.com/user-attachments/assets/1605f359-dec2-4c5d-be7b-5aca41b08462)
+
+* Parajumble Completion. [2022] [Example]
+
+![image](https://github.com/user-attachments/assets/1169857e-3bc5-4323-94d9-9cc53e3b66f8)
+
+* Answer -> 2 [Solution] [**VERY IMPORTANT**] [Try Again] [Got Wrong]
+* Not eager to send out invites -> Secret. [Feeble echo] [Echo] [Echo word]
+
+![image](https://github.com/user-attachments/assets/8de7d289-83ad-4ed3-958a-cc4ef59046a5)
+
+* Parajumble(PJ), Para Completion(PC), Odd Sentence(OS). [**VERY IMPORTANT**]
+* Cohesion -> Echo -> Clear echo, feeble echo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Development
 
 ![image](https://github.com/user-attachments/assets/7cb57ea8-c659-4c20-bad4-97d62a446174)
