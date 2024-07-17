@@ -1069,15 +1069,180 @@
 * Parajumble(PJ), Para Completion(PC), Odd Sentence(OS). [**VERY IMPORTANT**]
 * Cohesion -> Echo -> Clear echo, feeble echo.
 
+### Cohesion Pronouns
 
+![image](https://github.com/user-attachments/assets/8a4c1acf-5abb-4fbe-80e7-9b1e278e5bb8)
+![image](https://github.com/user-attachments/assets/93343534-fe9e-46d7-ba53-3c6dfc97a191)
 
+* Signals -> However, Thereforee, Additionally, for example.
 
+![image](https://github.com/user-attachments/assets/8ebaa70f-a548-404a-a8bb-3fcd0c721a53)
+![image](https://github.com/user-attachments/assets/6235d5dc-0c99-444b-b79e-cc30c28b8708)
 
+* Pronouns. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/278f389a-45aa-4003-b6d1-f9ee048c4fbb)
+![image](https://github.com/user-attachments/assets/75405ce1-75ac-4667-8cca-8c808644463a)
+![image](https://github.com/user-attachments/assets/566b2329-3013-4ae3-92ee-7cb3c5b1a9f9)
+![image](https://github.com/user-attachments/assets/aadffd4f-66cb-49db-9b43-c66bdb1bf071)
+![image](https://github.com/user-attachments/assets/53582ec6-c65a-4fe3-9e47-d80a759b572f)
 
+* Pronouns. [Example] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/add459a3-844a-4de7-bd17-9ab08b05f905)
+![image](https://github.com/user-attachments/assets/f82876df-0c4a-4b22-a49e-9d6db6c7e9c5)
 
+* Parajumble(PJ) [2018] [Example] 
+* Fund -> investing. [Echo words]
+* pet projects -> side projects. [Echo words]
 
+![image](https://github.com/user-attachments/assets/2e6ef386-2f55-408f-9c39-ef6e57c65e38)
+![image](https://github.com/user-attachments/assets/ab27f156-a979-4509-90bd-9b11b4d8449c)
+
+* Answer -> 3241. [**IMPORTANT**] [Try again] [Got wrong]
+* Find the **echoes**. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f0988e8b-fdb5-4f30-8889-30b0c203d2bd)
+
+* Para completion(PC) [2022] [Example] 
+* He -> Pronoun -> person.
+* We found a **pronoun**, we need to find the **antecedent** now which means we have to find a **human/person**.
+* Karmakar -> person -> antecedent.
+* Options **'1' and '2'** didn't have any **antecedents**.
+
+![image](https://github.com/user-attachments/assets/872edadb-b06d-4646-88cc-b72abbbed0c0)
+
+* Answer -> 3 [**IMPORTANT**] [Try again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/4662dcc6-49e1-4bdf-bf50-0a77df2f6771)
+
+* Echo -> clear and feeble ech -> pronouns.
+
+### Cohesion signals
+
+![image](https://github.com/user-attachments/assets/12dab70f-15d8-4523-9855-85c968ecc118)
+![image](https://github.com/user-attachments/assets/d48371fb-f053-483c-ad0f-d9ce86aa8832)
+![image](https://github.com/user-attachments/assets/21801ba7-ee0f-4378-975e-197073a8a26c)
+
+* Signal. [Logic] [**IMPORTANT**]
+* Signal -> Contrast -> However.
+
+![image](https://github.com/user-attachments/assets/60d3fadb-5c32-411a-94bf-54c464a63c95)
+![image](https://github.com/user-attachments/assets/2a7ee8f4-f66a-4b37-b7d7-3956057cb17d)
+![image](https://github.com/user-attachments/assets/0fb62dff-dcbb-4f21-9bc1-76d1a3ee50f1)
+![image](https://github.com/user-attachments/assets/6933b10b-d48d-4572-94de-190b1ba2b4df)
+![image](https://github.com/user-attachments/assets/16c0bcf1-5f6f-46ec-bd96-28b8343865b9)
+![image](https://github.com/user-attachments/assets/a4eb6c19-33ee-476b-8b1b-8a3cf98da57f)
+
+* Signal. [Example] [**VERY IMPORTANT**]
+* Therefore -> It doesn't mean that the sentences having **therefore** should be placed at the **end** only. They(the sentence) can be **anywhere**. [Logic] [**VERY IMPORTANT**]
+* Subsequently -> Later on, after a will. [**VERY IMPORTANT**]
+* Signal Words -> However, furthermore, therefore, subsequently, for instance, similarly. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c7c5652f-5700-4868-bfb9-c86b77739dbd)
+
+* Para jumble. [signal] [2018]
+* these  -> pronouns.
+* unwitting -> working for a better world. [Feeble Echo]
+* enablers -> the system goes on as it is. [Feeble Echo]
+* statements **1 and 4** are related and then statement **1 and 3** are related.
+
+![image](https://github.com/user-attachments/assets/723e4193-01aa-4e51-ab18-9209a979025c)
+![image](https://github.com/user-attachments/assets/efbf6cf4-8ac6-4b9f-b9b8-0ebb5cee71e4)
+
+* Para Completion(PC) [Example] [2022]
+* Signals -> Yet, but -> contrasting.
+
+![image](https://github.com/user-attachments/assets/8ed26b73-204e-44dd-bdb7-7feb309f330a)
+
+* Answer -> 4 [**IMPORTANT**] [Try again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/2b7deeca-c705-4652-b9dc-87a6782152b5)
+
+* Unity -> Single idea
+* Coherence -> Logical connection/flow.
+* Cohesion ->
+
+1) Echo -> Source
+2) pronouns -> Anticedent -> Source.
+3) Signals -> Source.
+
+### Cohesion sentence blocks
+
+![image](https://github.com/user-attachments/assets/3ed17ac3-b2d2-49c1-9057-df41537c70ec)
+![image](https://github.com/user-attachments/assets/50e9e83c-a69c-4b2e-acc9-c23f8a87dd54)
+
+* sentence blocks
+
+![image](https://github.com/user-attachments/assets/ba9277e9-30ca-4578-a5c9-b6d1dad39fce)
+![image](https://github.com/user-attachments/assets/c4fcc624-27cd-41c0-8bef-19e63c65c5c6)
+![image](https://github.com/user-attachments/assets/ba081b12-f52b-4c7a-8665-56b953a3c752)
+
+* Sentence jumble. [**VERY IMPORTANT**] [Example]
+* Statement **'1 and 2'** are **block/aligned/related**.
+* Statement **'2 and 3'** are **block/aligned/related**.
+
+![image](https://github.com/user-attachments/assets/272c2564-ee2a-4f65-b59e-6be027c15266)
+
+* Sentence jumble. [**VERY IMPORTANT**] [Example]
+* genetic disorders -> faulty genes.
+* potential benefits -> promising results
+* Statement **'1 and 3'** are **block/aligned/related**.
+* Signals -> However
+* such interventions -> CRISPR-Cas9 technology
+* Statement **'2 and 3'** are **block/aligned/related**.
+* Statement **'1, 2 and 3'** are saying something **positive** and statement **'4'** is saying something **negative**.
+* Before **negative** statement i.e **'4'**, some **positive** statement should come. [Logic] [**VERY IMPORTANT**]
+* Statement **'1'** is the introductory statement.
+
+![image](https://github.com/user-attachments/assets/b003b59b-c695-4c39-b6cd-35c0e0a8b8cd)
+
+* Answer -> 1234 [**VERY IMPORTANT**] [Example] [Try again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/b96bf076-a5e2-428c-ab41-3733ad489986)
+
+* Sentence jumble. [**VERY IMPORTANT**] [Example]
+* Echo -> this -> Statement **'3 and 4'**.
+* ambitious initiative -> this initiative. [Echo]
+* Signal -> As a part of, Consequently.
+* renewable energy sources -> solar, wind, and hydroelectric power projects.
+
+![image](https://github.com/user-attachments/assets/24f4adf2-4e4d-444f-852c-3ef84ca2ccc4)
+
+* Answer -> 1234 [**VERY IMPORTANT**] [Example] [Try again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/f1131ceb-259e-4d5b-b6ce-d8cb0b438770)
+
+* Sentence jumble. [**VERY IMPORTANT**] [Example]
+* creative element -> echo -> 1 and 2
+* It -> creative industry -> 3 and 4.
+* Signal -> In fact,
+
+![image](https://github.com/user-attachments/assets/564b60c2-29ac-425c-9ebc-bbc7c967fbac)
+
+* Statement **'1'** is coming later than **'2'** because **'2'** is talking about **design** first.
+* Answer -> 3214. [**VERY VERY IMPORTANT**] [Example] [Try again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/8f8c245c-29e3-4879-b524-21f7f5dffe48)
+
+* Sentence jumble. [**VERY IMPORTANT**] [Example]
+* this -> environmental collapse. [Echo]
+* Signal -> Clearly.
+* 1 -> Technology solutions
+* 4 -> No Technology solutions
+* **4** comes after **1**.
+* **3** comes after **4**.
+* **1 and 4** are **block**.
+* **4 and 3** are **block**.
+
+![image](https://github.com/user-attachments/assets/7133fd20-b050-4b3e-a9f1-dbf00f252b18)
+
+* Answer -> 2143. [**VERY VERY IMPORTANT**] [Example] [Try again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/fd39b4e3-a39b-4958-8bb2-05fbf2d3329d)
+![image](https://github.com/user-attachments/assets/5c22aabb-cfa0-4720-944e-5359e871dc14)
+
+* Cohesion. [**VERY VERY IMPORTANT**] [Logic]
 
 
 
