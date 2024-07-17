@@ -978,6 +978,147 @@
 ![image](https://github.com/user-attachments/assets/ddc5d006-9301-4243-8745-1b9249726dba)
 ![image](https://github.com/user-attachments/assets/10f9ff18-3041-4803-b00c-f3e6c8679290)
 
+* Unity
+
+![image](https://github.com/user-attachments/assets/7d4d891b-5aeb-4ba0-b88a-9118a504f22a)
+![image](https://github.com/user-attachments/assets/1ce43b75-f016-448c-b7ab-223a030b9f40)
+![image](https://github.com/user-attachments/assets/265daef8-2c44-45c4-8d48-d78bd9342f46)
+![image](https://github.com/user-attachments/assets/720ce46b-495f-4a6f-bbb3-ceede9acc644)
+![image](https://github.com/user-attachments/assets/881a03ff-6da2-4c74-9c48-41ee13d3651f)
+
+* Option **3**. [Answer]
+
+![image](https://github.com/user-attachments/assets/991f14de-c6da-49e4-90d9-108b981dabfb)
+![image](https://github.com/user-attachments/assets/d460122e-a5f0-44c1-a9c3-d22e7187ef27)
+
+* Unity -> Indian texts are to be converted in english by Indians. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b963d84a-0245-4251-be68-9f433232619e)
+
+* Odd Sentence.
+* They -> These sentences need **support**.
+
+![image](https://github.com/user-attachments/assets/7519dda2-2fe6-4f9f-a1ba-d39ea1bc5cc7)
+![image](https://github.com/user-attachments/assets/de2b9a75-a91c-4e7f-b4f8-b7dda969c065)
+
+* Option **3**. [Got Wrong] [Try Again]
+
+### Cohesion Echo
+
+![image](https://github.com/user-attachments/assets/4bc6aaf5-bea0-4666-a022-03201b843067)
+![image](https://github.com/user-attachments/assets/d61c84d2-6f40-48ab-ba4e-32029f08636f)
+
+* Incompete video, only 48secs.
+
+### Development
+
+![image](https://github.com/user-attachments/assets/7cb57ea8-c659-4c20-bad4-97d62a446174)
+![image](https://github.com/user-attachments/assets/f2ed69fc-17bf-43ee-825c-97bb62c8f277)
+
+* Unity -> Key idea [**VERY IMPORTANT**]
+* cohesion -> Echo, pronouns, signal words, block.
+* Development -> Zoom.
+
+![image](https://github.com/user-attachments/assets/fe2daa49-0479-4e1e-bb2a-909fed9c5ade)
+
+* Development Ideas. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bbec4501-40ee-47fb-b62e-3189085fae4a)
+
+* Narrative.
+
+![image](https://github.com/user-attachments/assets/ebc747cd-5561-455b-b77b-deaec7890351)
+![image](https://github.com/user-attachments/assets/fb8f7ddb-e380-4022-adb1-6f02c87f24be)
+![image](https://github.com/user-attachments/assets/f4ccc347-718b-4428-8d1e-3dd04b47b790)
+![image](https://github.com/user-attachments/assets/0ea0b79a-d167-4240-824d-53da910a4814)
+![image](https://github.com/user-attachments/assets/12eaf209-1331-4ecd-bef2-2d8c115d5ce2)
+![image](https://github.com/user-attachments/assets/f754865e-0817-44bc-8187-f0d38091a434)
+![image](https://github.com/user-attachments/assets/6da6dafd-edcc-4a03-ba72-9de965c2bf68)
+
+* * Development Ideas -> Examples. 
+
+![image](https://github.com/user-attachments/assets/e9240e86-3492-4652-a966-c9dc77ea3592)
+
+* Ideas can be developed in either **zooming in or zooming out**.
+
+![image](https://github.com/user-attachments/assets/c517a57f-4933-4774-a2fc-b84bc1acd0b4)
+
+* General -> Specific. [**VERY IMPORTANT**]
+* Broad -> Narrow.
+
+![image](https://github.com/user-attachments/assets/774cb331-40e2-47fc-a4d3-cfc3c4544c48)
+
+* Specific -> General. [**VERY IMPORTANT**]
+* Narrow -> Broad.
+* We will assume **by default** that the paragraph will **zoom in**. [**VERY IMPORTANT**]
+* Read the **first and the last** line. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/614346da-ada2-4e45-9288-8ca47fe267a7)
+![image](https://github.com/user-attachments/assets/18f73260-63d2-4aba-a91f-f953a85a7c6b)
+
+* Paragraph Jumble. [2017] [Question] [Example]
+
+![image](https://github.com/user-attachments/assets/9a7cc1f1-e6ce-4df5-bb65-6c709653c1ce)
+
+* Answer -> 15243 [Solution] [Try Again] [Got Wrong] [**VERY IMPORTANT**]
+* Statement 1, 5 -> Broad
+* Statement 2, 3 and 4 -> Narrow
+
+![image](https://github.com/user-attachments/assets/7f3c67ff-162d-4f24-b1fb-456078d3fdaa)
+
+* Paragraph Jumble. [2019] [Question] [Example]
+* Statement 1, 3 -> Narrow
+* Statement 2-> Broad.
+
+![image](https://github.com/user-attachments/assets/dabf8ad0-9f2a-418e-87e6-1855c6a1c567)
+
+* Answer -> 2413 [Solution] [Try Again] [Got Wrong] [**VERY IMPORTANT**]
+* In statement **'3'** we have, **we** which is referencing **humans** so it can't be the 1st statement.
+* Statement **'3'** is much more **narrower** than statement **'1'** 
+* Statement **'2 and 4'** are a block and statement **'2'** is **broader** than statement **4**.
+* Broad -> Narrow.
+* General -> Specific.
+
+![image](https://github.com/user-attachments/assets/33a506ff-cc91-4c63-9771-4beb60849743)
+
+* Odd Sentence. [2019] [Question] [Example]
+
+![image](https://github.com/user-attachments/assets/35dda8ac-8a01-4584-91ea-ad0face5a145)
+
+* Answer -> 2 [Solution] [Try Again] [**VERY IMPORTANT**] [Be Confident]
+* also -> addition.
+* Idea -> Problem identification/causes.
+
+![image](https://github.com/user-attachments/assets/eff814e1-9345-42d2-ac89-38f757ef0008)
+
+* Odd Sentence. [2019] [Question] [Example]
+
+![image](https://github.com/user-attachments/assets/74dd12c0-1450-4407-a0ed-c5e2a484e6a3)
+
+* Answer -> 2 [Solution] [Try Again] [**VERY IMPORTANT**]
+* Statement 1 -> Broad.
+* Statement 3,4,5 -> Narrow.
+* Statement **3,4,5** are in a **block**.
+
+![image](https://github.com/user-attachments/assets/bb804374-6bf0-4af3-bfa6-6aa0d6ecbcae)
+
+* Sentence Placement. [2022] [Question] [Example]
+* We are not **selecting blanks**, we are eliminating **blanks**. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a98bc116-d184-4970-a475-6e6b25bf4168)
+
+* Answer -> 2 -> Option **4**. [Solution] [Try Again] [Got Wrong] [**VERY IMPORTANT**]
+* Yet -> Change/contrast.
+* Option  **3 and 4** -> The conversation has gone to positive. So option  **3 and 4** are **not correct**.
+* "more of a trickle" -> Small scale return -> Drawing **inference**. 
+
+![image](https://github.com/user-attachments/assets/9c0d60ca-e335-4603-9c17-0941a38db175)
+![image](https://github.com/user-attachments/assets/43dd5bfc-b9f8-42df-bd34-ff62a9a4633e)
+
+* Process -> PS, PJ, OS, SP.
+
+
+
 
 
 
@@ -3099,7 +3240,7 @@
 ![image](https://github.com/user-attachments/assets/cedc07c7-9013-4d70-b1bb-1fd3221c1be7)
 ![image](https://github.com/user-attachments/assets/4f01b77a-6a38-40b3-9d5e-3828ef975e30)
 
-* RC - 4 [**VERY IMPORTANT**] [TRY AGAIN]
+* RC - 4 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=oQ02XlvP2gU%3D$
 
 ![image](https://github.com/user-attachments/assets/0822f996-89c1-4fb6-ba75-8fb633caeb8a)
@@ -3108,8 +3249,10 @@
 * History. [**VERY IMPORTANT**]
 * epochs -> Different eras.
 
-
-* start from **solutions**.
+![image](https://github.com/user-attachments/assets/06eb73eb-3152-406f-85da-31ceb47a5663)
+![image](https://github.com/user-attachments/assets/d86528e7-3281-42e0-93af-cdd43eae504b)
+![image](https://github.com/user-attachments/assets/6db56287-a625-4c35-97e5-b1742d01297a)
+![image](https://github.com/user-attachments/assets/ba839772-de0c-41aa-b984-abbd80fba1cb)
 
 
 
