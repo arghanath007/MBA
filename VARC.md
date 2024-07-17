@@ -1117,6 +1117,17 @@
 
 * Process -> PS, PJ, OS, SP.
 
+![image](https://github.com/user-attachments/assets/10d0b918-db52-4493-bbd0-af0888a17a72)
+![image](https://github.com/user-attachments/assets/9b3d7acd-f6e9-4439-a9ca-89613c27114d)
+
+* VA -> Paragraph Comprehension.
+
+![image](https://github.com/user-attachments/assets/22d3b8c0-7bd0-49e1-b5d5-3eb34be54d79)
+![image](https://github.com/user-attachments/assets/fe2b0480-a785-4ab3-807d-1c2cdb963369)
+
+* Paragraph Comprehension Questions. [**IMPORTANT**]
+* Variation of Paragraph based questions.
+
 
 
 
