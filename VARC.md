@@ -1244,6 +1244,33 @@
 
 * Cohesion. [**VERY VERY IMPORTANT**] [Logic]
 
+![image](https://github.com/user-attachments/assets/a4891bdd-e4e3-4c81-9e8b-0199d2c7d723)
+![image](https://github.com/user-attachments/assets/12d2c735-522b-468d-abe9-07e4b96022c5)
+![image](https://github.com/user-attachments/assets/946d6ef8-c79c-4a8f-8a7e-7bb8d92b43bd)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/31c7a6ea-de21-4902-82e1-f4c33cc10708)
+![image](https://github.com/user-attachments/assets/51973cdd-ef22-4cef-839c-2ab7f6f4f607)
+
+
+* Question Setter(7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
