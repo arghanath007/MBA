@@ -1071,6 +1071,139 @@
 
 ### Cohesion Pronouns
 
+#### 2024
+
+![image](https://github.com/user-attachments/assets/e6028d2a-5d49-4328-9288-bcbb3900cc89)
+![image](https://github.com/user-attachments/assets/e30c4e2c-5ad4-49a7-bb83-bfc2f62c0e5e)
+![image](https://github.com/user-attachments/assets/6a846087-7284-46cb-9d19-93708ecd7f6d)
+![image](https://github.com/user-attachments/assets/9073e2f3-e21e-4e34-abb0-2f94aed876ee)
+
+* Another way of writing it.
+
+![image](https://github.com/user-attachments/assets/fecfa328-636f-4e48-9d56-2140503f148a)
+
+* Still an **echo**.
+
+![image](https://github.com/user-attachments/assets/b7fed113-9d54-4b5b-aa94-1305ab2a9091)
+
+* If we see the sentences in **isolation** then we cannot say if the word **essentialism** is an **echo** or not. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d49c3e9f-9465-4be7-b806-b8e2fe950804)
+![image](https://github.com/user-attachments/assets/005e63ec-b04f-4e9f-b9ed-c3c8f9809f5d)
+
+* If we see the whole paragraph completely then we can say that the word **essentialism** is an **echo**. Here they don't require an **antecedent**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/32c816b6-d799-4953-84f8-4634abf55f42)
+
+* The sentences with the words **this and these** cannot live **separate/isolated** because those words need an **antecedent**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/977611ca-17ee-4a13-88c9-c61b84d0b905)
+
+* Para Jumble(PJ) -> Pronouns -> VERY IMPORTANT.
+* Pronoun -> It is an **echo** on streoids -> Not only giving us the **linkage** but also stating that the statement requires something. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2830863e-705a-4b04-9308-a73b2658b248)
+![image](https://github.com/user-attachments/assets/43344ac1-b476-494a-b212-e55eddc8af1e)
+
+* Pronoun -> She, Ms Wong, they, their, his.
+
+![image](https://github.com/user-attachments/assets/116b6858-e8cb-4bb2-b755-851ace46d2ab)
+
+* Every **pronoun** needs an **antecedent**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/68e934ca-7406-4b14-98e9-39bbfda7feb4)
+
+* **Antecedent** present in the **prior/earlier** sentences. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/15a2f0e9-d05e-4fa8-86bd-8bbfa952ea1f)
+
+* There are certain **antecedent** that are present in the **same** sentence. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f89168b1-02c0-4d96-9c57-456ad336b7c4)
+![image](https://github.com/user-attachments/assets/0e1fe588-27de-4218-aef6-3215b116eb41)
+![image](https://github.com/user-attachments/assets/0ff29446-0ad5-4cfa-8d87-c1606e69f1be)
+
+* Pronouns. [Example] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/599ccb19-6e9b-4fee-bca5-1145c5050478)
+
+* Paragraph Jumble. [2018] [Example]
+* Pronouns. [Example] 
+
+![image](https://github.com/user-attachments/assets/1d04cce8-455c-4c28-b7f7-a21970026922)
+
+* Answer -> 3241 [Solution] [Try Again] [Got Wrong] [**VERY IMPORTANT**]
+* Pronouns -> his, such -> needs support.
+* Echo -> Phoenixing.
+
+![image](https://github.com/user-attachments/assets/a9748395-af68-4330-aaaa-7eb0ab6839ac)
+
+* Paragraph Jumble. [2018] [Example]
+* Pronouns -> they, their -> needs support.
+* side projects -> pet projects. [Echo]
+* Business elite -> they, their -> Pronouns.
+* buzzwordy programs -> social-impact-investing and philanthro-capitalism. [Echo]
+
+![image](https://github.com/user-attachments/assets/fdc9e768-4098-41fc-849d-a3e8140af984)
+
+* Answer -> 3241 [Solution] [Try Again] [Got Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fff181f2-6750-44a2-bd83-1dbdb3349ca4)
+
+* Odd Sentence. [2019] [Example]
+* Pronoun -> his, this
+* Sign language -> deaf -> hearing impairment. [Echo]
+* Presumed -> prejudice -> marginalized. [Echo]
+
+![image](https://github.com/user-attachments/assets/d28eab79-a564-4c35-b849-1fb9781408d2)
+![image](https://github.com/user-attachments/assets/48ad3174-0cae-4eea-945e-63ff32d4fc50)
+
+* Answer -> 2 [Solution] [Try Again] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/826bca94-dc71-447c-a7ea-85de5a2fe927)
+
+* Odd Sentence. [2017] [Example]
+* Pronouns -> our, they, we, these, they've 
+* body's influence -> we, our. [Echo]
+* moving -> exercise. [Feeble Echo]
+* mind -> brain. [Echo]
+* influence -> roles.
+* they've -. neuroscientists.
+
+![image](https://github.com/user-attachments/assets/5926d9ea-3efb-4d58-a12c-3115d7fc7520)
+
+* Answer -> 4 [Solution] [Try Again] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/dae543d9-13f3-421c-a75d-d37325c3103f)
+
+* Sentence placement. [2022] [Example]
+* Users -> Someone who is actually using and not catering to. Really using.
+
+![image](https://github.com/user-attachments/assets/35eee11f-517e-493e-a6a5-76ac5c13f1f4)
+
+* Option **'4'**.
+* Answer -> 4 [Solution] [Try Again] [**VERY IMPORTANT**] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/7d669151-a2a5-47dc-9c17-e693565db8dd)
+
+* Echo -> Pronoun.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 2023
+
 ![image](https://github.com/user-attachments/assets/8a4c1acf-5abb-4fbe-80e7-9b1e278e5bb8)
 ![image](https://github.com/user-attachments/assets/93343534-fe9e-46d7-ba53-3c6dfc97a191)
 
@@ -1253,8 +1386,64 @@
 ![image](https://github.com/user-attachments/assets/31c7a6ea-de21-4902-82e1-f4c33cc10708)
 ![image](https://github.com/user-attachments/assets/51973cdd-ef22-4cef-839c-2ab7f6f4f607)
 
+### VA question setter
 
-* Question Setter(7)
+![image](https://github.com/user-attachments/assets/73d479b2-73cc-400d-a0c5-02b25e15278b)
+![image](https://github.com/user-attachments/assets/950ec622-f984-4f48-ae95-d76e19239f2b)
+![image](https://github.com/user-attachments/assets/8e87fbdb-9cff-4912-9874-b89aed0c421b)
+![image](https://github.com/user-attachments/assets/f26173b7-7648-439e-bb0b-a5055b1e4e17)
+![image](https://github.com/user-attachments/assets/dc82f519-5ed8-4d11-aea2-44b811502e41)
+
+* Creating a paragraph.
+
+![image](https://github.com/user-attachments/assets/f2ca2b49-b96c-4b02-b496-9dc0621b7ceb)
+
+* Paragraph Jumble.
+
+![image](https://github.com/user-attachments/assets/17c1874e-bda3-4076-8262-be4086273a2e)
+
+* Paragraph Jumble. [2022]
+
+![image](https://github.com/user-attachments/assets/30eda63b-f00d-4d55-a3fe-5574b5946e6c)
+
+* Solution.
+
+![image](https://github.com/user-attachments/assets/01733783-8d72-4bf9-b824-d79d9195e9f0)
+![image](https://github.com/user-attachments/assets/e429bd35-ef52-4ddf-acd9-78d0653736ce)
+![image](https://github.com/user-attachments/assets/7bb6283f-e1dd-494b-bc04-69667625dfd5)
+
+* Para jumble. [**IMPORTANT**] [Logic]
+* they are logically connected.
+* Need to find the **blocks**.
+
+![image](https://github.com/user-attachments/assets/4077593d-4c73-462a-8fa2-bbda571311c6)
+
+* Para completion. [**IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/0286a918-2d2e-4b67-9897-625202d26b75)
+![image](https://github.com/user-attachments/assets/2f4c9cc8-5528-46a1-99da-5153d044f54b)
+
+* Correct order. [Solution]
+
+![image](https://github.com/user-attachments/assets/b651d832-0c4d-4794-b89b-a770fee08e1f)
+![image](https://github.com/user-attachments/assets/5caddc0b-1eeb-4fc2-b14a-39b373651217)
+![image](https://github.com/user-attachments/assets/42cfe24c-41dd-4a45-b0d6-eea2e6b8722e)
+
+* Para Completion. [2022] [Logic] [**IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/5d2e6f1d-3424-408e-9d30-2c57a4e6e356)
+![image](https://github.com/user-attachments/assets/44fbb7f3-efc2-47bd-bb5d-37a4cf11bc17)
+![image](https://github.com/user-attachments/assets/a20be64b-d96b-4453-bfb4-e857ab2bbc3b)
+
+* Paragraph Jumble(PJ), Paragraph completion(PC), Paragraph Summary(PS) -> There is **ONLY ONE** correct answer. [Logic] [**VERY VERY IMPORTANT**]
+
+
+
+
+
+
+
+
 
 
 
