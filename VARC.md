@@ -1370,24 +1370,101 @@
 
 ![image](https://github.com/user-attachments/assets/84bce23c-d0c8-4a85-ae8b-d059cfced1cc)
 ![image](https://github.com/user-attachments/assets/67647c88-b999-48ad-b007-66e0cb0fb1f1)
+![image](https://github.com/user-attachments/assets/2ab4721a-3b9f-447a-804e-0abdcf3cdfe4)
+![image](https://github.com/user-attachments/assets/bca47769-5af4-4522-9b1d-cff952fb4532)
 
+* Para Jumble [2018] [Example]
+* Echo -> In the era
+* Pronoun ->
+* Signal -> however, rather than
+* 4 and 2 -> positive
+* 1 and 3 -> negative.
 
+![image](https://github.com/user-attachments/assets/3af4bb5c-fc99-43e5-ac1a-b2a51e282f6c)
 
+* Answer -> 4213 [**VERY IMPORTANT**] [Try again] [Got Wrong] [Example]
 
+![image](https://github.com/user-attachments/assets/1931ff11-a666-4738-b16d-f37586745e96)
 
+* Para Jumble [2019] [Example]
+* historically -> ancient [Echo]
+* Pronoun -> these, that, it
+* Signal -> Such, and
+* 2 -> 1
+* 4 -> 2
+* Statement **1, 2 and 4**, all need **support**. [Logic]
+* **This, these** words require an immediate **antecedent**. [Logic] [**VERY IMPORTANT**]
+* **Such** word does not require an immediate **antecedent/connection**. [Logic] [**VERY IMPORTANT**]
+* balance -> harmony [Echo]
+* well ordered system -> ancient belief system. [Echo]
 
+![image](https://github.com/user-attachments/assets/4f468bc1-3cb7-4928-9406-3ae853e69720)
 
+* Answer -> 3421 [**VERY IMPORTANT**] [Try again] [Got Wrong] [Example]
 
+![image](https://github.com/user-attachments/assets/b13c38bb-957e-4fd3-92e0-bbe3dd75ae5b)
 
+* Para Jumble [2019] [Example]
+* historically -> ancient [Echo]
+* Pronoun -> you, these, this
+* Signal -> If,
+* these -> algo [Echo]
+* 4 -> 1
+* 2 -> 3
+* circumstances -> gift. [Echo]
+* The problem, hate -> negative.
 
+![image](https://github.com/user-attachments/assets/9a4d81f8-675d-4e4b-bc0d-24780f6553e5)
 
+* Answer -> 4123 [**VERY IMPORTANT**] [Try again] [Example]
 
+![image](https://github.com/user-attachments/assets/629d33d6-70e1-4af9-95b2-a2298b9a67d2)
 
+* Odd sentence [2019] [Example]
+* Pronoun -> others, some, 
+* Signal -> If,
+* Opposing view -> positive and negative view. [Logic]
+* Confuse -> negative.
+* beneficial -> positive.
+* **'2, 4 and 5'** are **blocks**.
+* 2 -> Negative.
+* 5 -> Positive.
 
+![image](https://github.com/user-attachments/assets/9691c7a1-37d9-4d08-add2-ccc9cff419dd)
+![image](https://github.com/user-attachments/assets/ce22b7ca-a6eb-4dc6-a924-fa0ef8d7d4a5)
 
+* Answer -> 1 [**VERY IMPORTANT**] [Try again] [Example] [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/bb8cd6d7-8c20-43f0-b4f0-7ecc32a8ec34)
 
+* Odd sentence [2019] [Example]
+* Pronoun -> it,
+* Signal ->  these
+* 1 -> 3.
+* **'4, 1 and 3'** are **blocks**.
 
+![image](https://github.com/user-attachments/assets/8fe2afcc-2056-45d8-bcf0-3410692ff1e2)
+![image](https://github.com/user-attachments/assets/4f5351d7-dcac-479d-9064-e8a5c724b9e4)
+
+* Answer -> 2 [**VERY IMPORTANT**] [Try again] [Example] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/248b0d51-7155-4346-8754-fc76983bfa41)
+
+* Odd sentence [2017] [Example]
+* Pronoun -> it,
+* Signal ->  but, while
+* Echo -> atmosphere.
+* Solar wind -> Solar storm. [Echo]
+* Sun -> Solar. [Echo]
+* 4 -> 2
+* 3 -> 5
+* 5 -> Starting statement.
+
+![image](https://github.com/user-attachments/assets/ea546991-b62c-4ec5-a83c-7242a635bf09)
+
+* Answer -> 1 [**VERY IMPORTANT**] [Try again] [Example] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/cc6ef0d9-0ba4-4f7e-825d-069ffcdee046)
 
 #### 2023
 
