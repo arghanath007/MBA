@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)# VARC
 
 # Rodha 
 
@@ -1188,20 +1188,6 @@
 
 * Echo -> Pronoun.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### 2023
 
 ![image](https://github.com/user-attachments/assets/8a4c1acf-5abb-4fbe-80e7-9b1e278e5bb8)
@@ -1253,6 +1239,84 @@
 
 ### Cohesion signals
 
+#### 2024
+
+![image](https://github.com/user-attachments/assets/07b6a90d-de27-4461-82ac-0770ea0431bc)
+
+* Signal.
+
+![image](https://github.com/user-attachments/assets/fdbef090-1832-4711-98a6-67c2d0bb33cd)
+![image](https://github.com/user-attachments/assets/5dc5efd3-87c6-4c6d-a01d-8a22a35d70c3)
+
+* Addition -> And, moreover
+* Contrast -> But, however
+* Cause -> since, because
+* Effect -> consequently
+* Comparison -> similarly
+* Sequence -> First....second, Then....now
+* Emphasis -> Indeed
+* Summary -> Thus, therefore, inconclusion
+* Clarification -> In other wordss, afterall
+* **Signals** are very effective in finding **blocks/connnections** between sentences. [Logic] [**VERY IMPORTAT**]
+
+![image](https://github.com/user-attachments/assets/a1da05a3-22cf-4c2c-8448-cbd92fea2efa)
+![image](https://github.com/user-attachments/assets/f3ed811c-be7d-4580-a765-90cfea66adb0)
+![image](https://github.com/user-attachments/assets/7257a2aa-ef8a-4bc8-8319-0fe2b8adaccf)
+
+* Signals -> as, moreover, however, therefore, first, for example, in conclusion, in other words.
+
+![image](https://github.com/user-attachments/assets/fd1629b1-f2e3-4d84-8d5f-db232eb07623)
+
+* Para Jumble(PJ). [2017] [Example]
+* Pronouns -> we, them
+* Signals -> hence, but, after all, and, as soon as.
+
+![image](https://github.com/user-attachments/assets/aacf26ec-4a53-405e-8900-19c5d16974e0)
+
+* Answer -> 25341. [**IMPORTANT**] [Try again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/399842f5-a3be-4053-8278-0b0dc3e92cd6)
+
+* Para Jumble(PJ). [2018] [Example]  [**VERY IMPORTANT**] 
+* Pronouns -> her
+* Signals -> then, and, eventually.
+* eventually -> sequence.
+* **It** is not a **pronoun** here. **It** word is used to describe a thing. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6525a6af-e550-499d-aa92-8cebdd2c8044)
+
+* Answer -> 4213. [**VERY IMPORTANT**] [Try again] [Got wrong] [Example]
+
+![image](https://github.com/user-attachments/assets/9956e53a-60ed-4804-afb4-b186dd25b88b)
+
+* Odd sentence. [2018] [Example]  [**VERY IMPORTANT**] 
+* We are getting **immunization**  word from option **1 to 4** doesn't mean that option **'5'** is the **odd sentence**. The **author** can **traap** us by giving these types of **echoes**. [Logic] [**VERY IMPORTANT**]
+* Postpone -> It is a **time** issue.
+* Cost -> It is a **money($)** issue.
+* Pronoun -> they.
+* Signals -> however.
+* 1 -> 3 and 2 -> 5
+* Camp -> hospital
+* next month -> time issue.
+* Option **'4'** is discussing **cost**. [Logic] 
+* Option **'1, 2, 3 and 5'** are discussing **time**.
+
+![image](https://github.com/user-attachments/assets/1ca60404-e361-43ea-886c-9419760ae334)
+![image](https://github.com/user-attachments/assets/75c7c423-f154-4189-9b2f-b8e630598cf8)
+
+* Answer -> 4. [**VERY IMPORTANT**] [Try again] [Got wrong] [Example]
+
+![image](https://github.com/user-attachments/assets/f347b991-03c7-4f17-9ecb-eaf8bda95b21)
+
+* Sentence placement/Completion. [2022] [Example]  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/38692a0d-073a-4ef7-9309-c7021cda884c)
+
+* Option **4**.
+* Answer -> 4. [**VERY IMPORTANT**] [Try again] [Example]
+
+#### 2023
+
 ![image](https://github.com/user-attachments/assets/12dab70f-15d8-4523-9855-85c968ecc118)
 ![image](https://github.com/user-attachments/assets/d48371fb-f053-483c-ad0f-d9ce86aa8832)
 ![image](https://github.com/user-attachments/assets/21801ba7-ee0f-4378-975e-197073a8a26c)
@@ -1301,6 +1365,31 @@
 3) Signals -> Source.
 
 ### Cohesion sentence blocks
+
+#### 2024
+
+![image](https://github.com/user-attachments/assets/84bce23c-d0c8-4a85-ae8b-d059cfced1cc)
+![image](https://github.com/user-attachments/assets/67647c88-b999-48ad-b007-66e0cb0fb1f1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 2023
 
 ![image](https://github.com/user-attachments/assets/3ed17ac3-b2d2-49c1-9057-df41537c70ec)
 ![image](https://github.com/user-attachments/assets/50e9e83c-a69c-4b2e-acc9-c23f8a87dd54)
