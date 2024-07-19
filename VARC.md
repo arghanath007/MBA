@@ -1603,6 +1603,91 @@
 
 * Paragraph Jumble(PJ), Paragraph completion(PC), Paragraph Summary(PS) -> There is **ONLY ONE** correct answer. [Logic] [**VERY VERY IMPORTANT**]
 
+### Development Zooming
+
+####  Zooming
+
+![image](https://github.com/user-attachments/assets/2d8bfc74-dedf-4522-bb97-d2112534fb47)
+![image](https://github.com/user-attachments/assets/8f62a702-5b6f-47ac-ab3a-34d494fa889d)
+![image](https://github.com/user-attachments/assets/d563dabd-5e12-41bf-b23b-8e8e36e1c60a)
+
+* Ideas.
+
+![image](https://github.com/user-attachments/assets/aab9f68b-0042-4412-a049-e40119cf6f78)
+![image](https://github.com/user-attachments/assets/27e3c11f-4670-41d2-be74-b09d272469d9)
+![image](https://github.com/user-attachments/assets/a8e6adbc-6ea4-4e59-8d77-2d6594109a7b)
+![image](https://github.com/user-attachments/assets/4fedb1fb-2969-413d-9a58-54de3751b3eb)
+![image](https://github.com/user-attachments/assets/929a8fa4-deb8-4c19-aff0-a1560945d2df)
+![image](https://github.com/user-attachments/assets/a39c0eb6-f9f4-4bf6-9a21-2e00be48397a)
+![image](https://github.com/user-attachments/assets/1ebda960-0b45-47f7-965b-194631a22703)
+
+* Development ideas.
+
+![image](https://github.com/user-attachments/assets/df9f1544-b5f1-415f-b457-9e809482b0ac)
+
+* Logic <-> Language. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6fc5c893-dbe9-43b5-98ce-5fc87895479e)
+
+* Broad -> Narrow. [Zooming In] [Logic] [**VERY IMPORTANT**]
+* Narrow -> Broad. [Zooming Out] [Logic] [**VERY IMPORTANT**]
+* General Idea -> Default/assuming -> Zooming In. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/68ea60bf-58a1-41e5-b83e-cd15a51a2ba7)
+
+* Para Jumble. [2017] [Example]
+
+![image](https://github.com/user-attachments/assets/9208d398-cb34-4d43-aec4-463f2026b4fb)
+
+* Answer -> 15243 [**VERY IMPORTANT**] [Got wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/d888dfc1-c652-4a9d-a919-c6df554efa8b)
+
+* Para Jumble. [2019] [Example]
+* 1, 3 -> Narrow
+* 2 -> Broad
+* our -> human
+* 2 -> 4.
+
+![image](https://github.com/user-attachments/assets/a2e941c5-b11b-4868-ac59-a36fae445538)
+![image](https://github.com/user-attachments/assets/6213fcad-aba5-46b6-a996-062e23ade64e)
+
+* Answer -> 2413 [**VERY IMPORTANT**] [Got wrong] [Try again]
+* General -> Specific.
+* Broad -> Narrow.
+
+![image](https://github.com/user-attachments/assets/236c4be6-4e8a-4067-b567-f8dd62064f27)
+
+* Odd sentence [2019] [Example]
+* 1 -> 3 -> 4 -> 5 -> Problems.
+* 1 -> 3 -> 5 -> blocks.
+* 2 -> % category of ocean plastic -> Classification.
+
+![image](https://github.com/user-attachments/assets/b8996fae-cf50-402d-acd5-8f6a5ef65ba9)
+
+* Answer -> 2 [**VERY IMPORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/5588ba66-a405-412e-899b-a2b1a5a3f02e)
+
+* Odd sentence [2019] [Example]
+* 3 -> 4 -> 5 -> reader's inference -> block.
+* Reader's participation and not creator's participation.
+
+![image](https://github.com/user-attachments/assets/a3da1b15-ba17-443d-87b1-013f9bfa0b72)
+
+* Answer -> 2 [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/906455f5-149e-45cb-9443-87347d3e69e3)
+
+* Sentence placemet. [2022] [Example]
+* Yet -> change.
+* Option **3 and 4*** -> Positive.
+
+![image](https://github.com/user-attachments/assets/3e202bad-776a-42ff-afaf-e881505dbf89)
+
+* Answer -> 2 [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/cd009f1a-d844-45bd-8cd4-768bd51d1aeb)
 
 
 
@@ -1624,15 +1709,7 @@
 
 
 
-
-
-
-
-
-
-
-
-### Development
+#### Development
 
 ![image](https://github.com/user-attachments/assets/7cb57ea8-c659-4c20-bad4-97d62a446174)
 ![image](https://github.com/user-attachments/assets/f2ed69fc-17bf-43ee-825c-97bb62c8f277)
