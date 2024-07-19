@@ -1827,18 +1827,144 @@
 * Paragraph Comprehension Questions. [**IMPORTANT**]
 * Variation of Paragraph based questions.
 
+### Para Summary(PS)
 
+![image](https://github.com/user-attachments/assets/efc94bf0-a5a0-4ad1-8eff-8af163bb9126)
+![image](https://github.com/user-attachments/assets/ee0d6bba-bfba-44d6-9f48-1b7d99c0271e)
 
+* We are not looking for **perfect summary**.
 
+![image](https://github.com/user-attachments/assets/214dd409-51aa-4e3a-a5fe-ace01eeedd5e)
 
+* Short VS Long options.
 
+![image](https://github.com/user-attachments/assets/5c9daf87-ef61-40b2-8747-992cc0ae2f94)
+![image](https://github.com/user-attachments/assets/df651e0d-15b7-4601-9306-24d397c9fecb)
 
+* Para summary(PS). [2022] [Example]
+* Quantum physics -> Alien.
+* result -> effect.
+* sentient -> living. [Meaning]
+* cognizant -> consious -> Alien word. [Meaning]
+* 4 -> Very broad.
 
+![image](https://github.com/user-attachments/assets/d50f9790-3fdd-46c9-a390-e594941f5bd9)
 
+* Shorter/smaller option.
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again]
 
+![image](https://github.com/user-attachments/assets/06accfaf-28f7-4cc6-9151-287d682de510)
 
+* Para summary(PS). [2022] [Example]
+* Expeditious -> [Meaning]
+* Longer/larger option.
+* 2 -> Complete tone mismatch.
+* definitely, relied more -> extreme views. [2]
+* ideal form -> extreme views. [3]
+* 4 -> Alien.
 
+![image](https://github.com/user-attachments/assets/cbacdf1d-c6f8-47b8-8569-97e6683363df)
 
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/c2b1cae2-a569-46b5-a8f6-6901b30795dc)
+
+* Para summary(PS). [2022] [Example]
+* Reluctant -> not eager. [Meaning]
+* Efficacy ->  capacity or power to produce a desired effect. [Meaning]
+* Ecclesiastica -> religious. [Echo]
+
+![image](https://github.com/user-attachments/assets/6907a9ec-cc7f-4818-9d58-fb5b7a8edd49)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/dc8594f3-07eb-4cf9-8c5b-bb98ce7c25db)
+
+* Para summary(PS). [2022] [Example]
+* any -> extreme -> Author is also extreme in this para.
+* Read the passage slowly and throughly, so that we don't have to reference the para later on. Understand the **key-idea*** properly. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fc7efd50-2db5-45c2-b755-9863b9199c72)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] 
+
+![image](https://github.com/user-attachments/assets/a000e897-9b2f-4314-8aae-bc895d4d081a)
+
+1) No perfect summary. [Logic] [**VERY IMPORTANT**]
+2) Eliminate options.
+3) Read well.
+
+### Para Jumble(PJ)
+
+![image](https://github.com/user-attachments/assets/755ee1c7-328a-462c-a16f-cd7ebc141db8)
+
+* Echo -> nouns -> repeated.
+* Zoom -> Towards the end to figure out the whole story.
+
+![image](https://github.com/user-attachments/assets/217197e4-aee7-4488-9610-6b2403c5e4f7)
+
+* It is easier to find the **starting** sentence.
+* The **last** sentence need not be **concluding** anything. It can be but not alwaays. It is not necessarily a **conclusion** or concluding anything.
+
+![image](https://github.com/user-attachments/assets/a697a33b-24f6-492e-9862-c7cd4bb20d58)
+
+* Para Jumble(Pj). [2022] [Example]
+* **self** word started in statement **'3'**. So **3** is the starting statement. [Logic]
+* Echo -> self, cheer, cheerful.
+* expanded -> expansion.
+* Don't look for the **end**. Don't slot the **end**, slot the **beginning**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d7463783-546b-4699-ae59-2c2d1867c8a5)
+
+* Answer -> 3142. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] 
+
+![image](https://github.com/user-attachments/assets/c0d2a595-3ee6-41c7-ab38-01d0c3c33b88)
+
+* Para Jumble(Pj). [2022] [Example]
+* 1 or 2 is the starting statement.
+* 2 -> broad, 1 -> narrow.
+* **2** is the starting statement.
+* 3 and 4 are not starting statements because they have **this, clearly** words at the starting of the statemnt which means they need **antecedents** before them for **support**.
+* 1 -> 4 -> 3. [block]
+* **4** is a **more broader** statement than **3** that's why **4** came before **3**. [Logic]
+
+![image](https://github.com/user-attachments/assets/ccf33e21-e5cc-4e12-ac87-b2f0c3e9af82)
+
+* Answer -> 2143. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/c4cc87cb-b106-4a83-af4b-f4a01f33debe)
+
+* Para Jumble(Pj). [2022] [Example]
+* pronouns -> these.
+* bluetooth devices -> smart phones. [Echo]
+* 2 -> narrow -> details
+* 4 -> 3.
+* 1 -> 2.
+
+![image](https://github.com/user-attachments/assets/96ac8a7b-f7f3-4acb-99ef-ccf52cbeb765)
+
+* Answer -> 4312. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/b54a70cb-df73-4a50-8890-f7c7afa9a04b)
+
+* Para Jumble(Pj). [2022] [Example]
+
+![image](https://github.com/user-attachments/assets/d448755f-c35b-4b40-986c-bf6a5618dec6)
+
+* Answer -> 3214. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/6e6fb87e-71b6-4c99-bdd6-21ab716307c8)
+
+* Blocks:-
+
+1) Pronouns.
+2) Signals.
+3) Echo
+4) Zoom.
+
+### Odd sentence in a para
+
+* 12.
 
 
 
