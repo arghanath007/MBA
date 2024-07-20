@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)# VARC
+![image](https://github.com/user-attachments/assets/728c7593-25bc-487d-a5fc-780fb16c432d)![image](https://github.com/user-attachments/assets/09ae49a1-c0f4-4798-8baf-2992db9f1cf5)![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)# VARC
 
 # Rodha 
 
@@ -2146,6 +2146,97 @@
 
 * 3 [4].
 * Short options -> Idea of the passage.
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=53Q9j6YZy08%3D&
+* 3
+
+![image](https://github.com/user-attachments/assets/3cf28704-5948-4e0f-9551-d3859f79341e)
+![image](https://github.com/user-attachments/assets/4b54f942-e1a7-44a4-ac81-6f0572b150e3)
+![image](https://github.com/user-attachments/assets/3a5a47ed-8ff7-4924-8c90-a11fff823293)
+![image](https://github.com/user-attachments/assets/5f09bd6c-b3cf-4407-bad9-82a9a510e0a3)
+
+* 1, 4 -> Broad.
+* remain constant -> always believed. [Echo]
+* 1243. [1] [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/e4ffab26-2059-4869-afe0-5b0452819ab7)
+![image](https://github.com/user-attachments/assets/276ab2fe-7cb4-4796-814a-50c7b9e3fe03)
+![image](https://github.com/user-attachments/assets/babe1765-0b2f-4ac0-a793-354e6bbc47b5)
+![image](https://github.com/user-attachments/assets/b6e642b0-94ec-4f17-ba26-1df6ef7b7713)
+![image](https://github.com/user-attachments/assets/5aff7326-c744-40ab-aee4-f32e0b61b09b)
+
+* 1, 3 -> Negative.
+* 4123. [2] [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/c32dbed2-c456-4aa1-91bb-5b1cbf5fdeb2)
+![image](https://github.com/user-attachments/assets/e61946b9-799f-4999-a60c-3de79f1d2e64)
+![image](https://github.com/user-attachments/assets/fd644515-dd05-4e65-a2a4-597741214463)
+![image](https://github.com/user-attachments/assets/4af54f98-e42a-4270-a4a8-95fba0bd0374)
+
+* Pronoun -> this, that, it.
+* 3 -> 1.
+* 2 -> 4.
+* 2431. [3] [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/67398f1b-9e4e-4448-8f43-3060dbd8ad71)
+![image](https://github.com/user-attachments/assets/4f36012b-ed8e-418a-afd8-e5c610f951a8)
+![image](https://github.com/user-attachments/assets/1f5e5ffd-bd09-4075-be53-43d45c74e07e)
+
+* Pronouns -> these
+* Signal -> Since.
+* 1 -> Broad.
+* 4 -> narrow.
+* 3 -> 1. [Block]
+* 3, 1, 4 -> Related.
+
+![image](https://github.com/user-attachments/assets/4211a513-587c-4826-a6d2-b1676f66c847)
+![image](https://github.com/user-attachments/assets/a6c9da79-a012-4d6d-9186-eddc1fcb4107)
+
+* 3124. [4] [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=%20xrmX7fThB8%3D&
+* 4
+
+![image](https://github.com/user-attachments/assets/b921181c-e235-4b21-8a46-e6303c0bd703)
+![image](https://github.com/user-attachments/assets/e5c1b0cf-0285-4897-85ff-757359201b5a)
+![image](https://github.com/user-attachments/assets/09c6fabd-448d-4e21-b49a-feeb12ea1b58)
+![image](https://github.com/user-attachments/assets/101fc0ee-2455-4e92-9b8a-1052cb831f08)
+
+* 4 [1].
+
+![image](https://github.com/user-attachments/assets/9024de18-9545-4b57-9391-121dd8d50991)
+![image](https://github.com/user-attachments/assets/d8ec2538-9a60-4173-8298-5c55497daa8e)
+![image](https://github.com/user-attachments/assets/aaa8db4b-8059-4ebd-8bc6-545e065c75a2)
+![image](https://github.com/user-attachments/assets/4be6c4e9-32d3-4a50-8e52-8d2b9fc6ebb0)
+
+* 5 -> 3. [Block]
+* 1 -> Fear
+* 2,3,4,5 -> Revival.
+* 1 [2].
+
+![image](https://github.com/user-attachments/assets/49053372-a03e-446a-b212-d06c7e29a70e)
+![image](https://github.com/user-attachments/assets/f9b91523-24f2-410f-8aae-eeca2d1063fa)
+
+* 1 -> 4 -> 5. [Block]
+* not extrovert -> shy -> squeamish.
+* 3 -> Positive outcome -> Behavioural aspect. [Logic]
+* 1,2,4,5 -> Author's apprehension.
+* 3 [3]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/2bc03227-41e8-4c09-9e66-ef02a50ed64a)
+![image](https://github.com/user-attachments/assets/a86cf2b1-c9ef-4319-ab9e-7c8162f73c9b)
+![image](https://github.com/user-attachments/assets/cd43606f-64d5-4ee8-9203-2191dc181e51)
+![image](https://github.com/user-attachments/assets/b1d9261b-6b45-45cd-94b4-4c10eefb08c6)
+
+* 2 and 3 statements are contradicting each other. Both cannot be there. Either 2 or 3 statement is the odd sentence. [Logic]
+* 2 [4]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+
+
+
+
+
+
+
+
 
 
 
