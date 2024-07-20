@@ -2083,6 +2083,71 @@
 * If we get **5+** questions out of the **8** questions in **VA** then a lot of stress is removed from solving the **RC** questions. [**VERY VERY IMPORTANT**] [Logic] [Summary] [Remember]
 * Learning -> Zoom, Echo, pronoun, signals. [**VERY IMPORTANT**] [Logic] [Summary]
 
+### Practice
+
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=%208FaF9ecreU%3D&
+
+* 1
+
+![image](https://github.com/user-attachments/assets/199bf8a9-8338-428e-86ad-abed29f7b6c2)
+![image](https://github.com/user-attachments/assets/006354d0-2dec-4bea-8352-c948f6c01d7a)
+![image](https://github.com/user-attachments/assets/b93b4a21-64e8-4c98-8a05-fc8492cce135)
+
+* 1 [1]
+
+![image](https://github.com/user-attachments/assets/1b7e12d2-bb55-47d5-9c1c-2cd514aa82e1)
+![image](https://github.com/user-attachments/assets/00d5f1af-f4d4-45cc-8d32-fa251470fc6b)
+![image](https://github.com/user-attachments/assets/0f90c9ca-70ee-42ee-8895-8a25d25e9c6e)
+
+* 4 [2]
+
+![image](https://github.com/user-attachments/assets/d97fc7c7-57df-42eb-a588-75ee324c0de6)
+![image](https://github.com/user-attachments/assets/bd3517bf-214c-40e2-97bc-a02b5dad2e64)
+![image](https://github.com/user-attachments/assets/b015440b-1827-4754-bcda-ff75dd39554c)
+
+* 3 [3]
+* Zooming in worked.
+* incommensurable -> not having a common factor. [Meaning]
+
+![image](https://github.com/user-attachments/assets/c588b277-9260-438c-a406-37b143cb923f)
+![image](https://github.com/user-attachments/assets/37460e05-1a1d-48ca-b148-c9c4c8824957)
+![image](https://github.com/user-attachments/assets/23afe599-f9e7-4684-8e16-68d53716487e)
+
+* 3 [4]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=FQzkYo8OdYE%3D&
+
+* 2
+
+![image](https://github.com/user-attachments/assets/dc1ac34f-a41e-4dc6-953b-026e3ca2bdd0)
+![image](https://github.com/user-attachments/assets/6e25b582-80fd-4be4-919f-3963ae654a68)
+![image](https://github.com/user-attachments/assets/bc057aea-870e-4489-96c6-7afd6fc2ac16)
+
+* tacid -> implicit. [Meaning]
+* 4 [1] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/e743e776-0d13-4698-9bcb-25a2feeb0d06)
+![image](https://github.com/user-attachments/assets/958af303-24b7-48ff-b74e-5b0b7862c7c5)
+![image](https://github.com/user-attachments/assets/9342cd10-cae2-453a-bab7-443c2b0a2b1a)
+![image](https://github.com/user-attachments/assets/63a86d3c-7683-404c-9d19-df6da0bd3ae0)
+
+* 3 [2] [Got Wrong] [**IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/77e35244-3091-4a08-b53b-c24e51d751ad)
+![image](https://github.com/user-attachments/assets/e3f271d8-2c0f-4245-b69f-484d7ee2893f)
+![image](https://github.com/user-attachments/assets/fc06e26e-937e-428a-88ff-e4fe1b8dc31e)
+
+* 2 [3].
+* Covid -> behaviour of old people -> impacting wealth. [Idea]
+* Short options -> More side-tracking is there. [Logic] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/e6c92616-1277-49d2-a0e7-ee8f1e251f78)
+![image](https://github.com/user-attachments/assets/2ceae48e-40a8-4676-8187-188149b72152)
+![image](https://github.com/user-attachments/assets/9a086c4d-14bf-4eeb-9f90-1cda95a86c32)
+
+* 3 [4].
+* Short options -> Idea of the passage.
+
+
 
 
 
