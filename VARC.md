@@ -2228,6 +2228,63 @@
 
 * 2 and 3 statements are contradicting each other. Both cannot be there. Either 2 or 3 statement is the odd sentence. [Logic]
 * 2 [4]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=j9F8qTnvvfc%3D&userId=7649112
+* 5 -> Para Summary 1.
+
+![image](https://github.com/user-attachments/assets/ac0f1143-1374-4fcb-8993-7b07c9f06c7d)
+![image](https://github.com/user-attachments/assets/d6b497c6-60ea-429b-b226-8fd7e102de84)
+![image](https://github.com/user-attachments/assets/752c5713-bd28-4d39-84e6-9f74cff6d978)
+
+* 1 [1]
+
+![image](https://github.com/user-attachments/assets/23edb198-3568-4117-9cc7-51ec7213b60a)
+![image](https://github.com/user-attachments/assets/387a8a89-4417-4928-8682-6269068f60b2)
+![image](https://github.com/user-attachments/assets/5c80cdbd-7a5b-42fd-9730-09f02420bd74)
+![image](https://github.com/user-attachments/assets/10e0431e-8325-4062-ae01-9110fadcc4ec)
+
+* 3 [2] [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/88be894a-d469-48ff-bb8b-d7ff169ebad5)
+![image](https://github.com/user-attachments/assets/7cf1fc05-8007-4a25-b3bc-bda9fa21308f)
+![image](https://github.com/user-attachments/assets/8f7fadf6-fc1c-4660-af7b-5c121bd80321)
+![image](https://github.com/user-attachments/assets/4e6f42bf-ac68-4e52-af82-9bcc40aa4ec6)
+![image](https://github.com/user-attachments/assets/ef501b62-7349-4f88-8655-ac96bfe9176b)
+
+* 2 [3] [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lkVEeC%2FTNQE%3D&userId=7649112
+* 6 -> Para Summary -2.
+
+![image](https://github.com/user-attachments/assets/479d5dd3-2560-40d2-8c3d-364e105c7307)
+![image](https://github.com/user-attachments/assets/de838d06-84fe-4e30-ad9b-e0c74c83214c)
+![image](https://github.com/user-attachments/assets/6bed8526-3539-4da6-b4d5-9d786130eaaf)
+
+* 1 [1]. 
+* Short option -> Key ideas. [Logic] [**VERY IMPORTANT**]
+* Short option -> A lot of side-tracking is there.  [Logic] [**VERY IMPORTANT**]
+* 4 -> Not the main idea/point.
+
+![image](https://github.com/user-attachments/assets/9413c296-4c06-4f29-942c-16e7a2f22212)
+![image](https://github.com/user-attachments/assets/8250624c-933b-4928-92cb-1a0a160faa7e)
+![image](https://github.com/user-attachments/assets/00fbf8ec-0052-46b5-bd78-edad13271547)
+![image](https://github.com/user-attachments/assets/32d22c34-57c2-4315-8c39-b378f1984614)
+
+* 2 [2]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* It is a pain to find the **side tracks.
+
+![image](https://github.com/user-attachments/assets/e02d1522-f72d-4952-a297-996c6137d6ac)
+![image](https://github.com/user-attachments/assets/5447cc90-42fe-4f83-8965-2747f85f6d67)
+![image](https://github.com/user-attachments/assets/79b5c162-ac6f-43d7-b6a5-4c501db5d40b)
+![image](https://github.com/user-attachments/assets/b3ae92ac-1862-41cb-b4f0-f0f3ce0232d5)
+
+* 2 [3].
+* Imminent -> about to happen. [Meaning]
+* 3 -> Side-tracking.
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ujFrNpkcwFc%3D&userId=7649112
+* 7 -> Para Summary -3 
+
+
+
+
 
 
 
