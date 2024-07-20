@@ -2011,22 +2011,77 @@
 * Basic sense of **unity** is enough.
 * Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
 
+![image](https://github.com/user-attachments/assets/37f4ab44-0263-4b74-9090-ab38bcd53476)
 
+* Odd sentence(OS). [2021] [Example]
+* Along with **3**, the statements **1 and 2** will also come.
 
+![image](https://github.com/user-attachments/assets/9ea36d4b-3424-4c22-a2db-e245c78c114b)
+![image](https://github.com/user-attachments/assets/5b0b2840-6b8f-4d4f-804e-19a25eb7cc1c)
 
+* Answer -> 5. [Solution] [**VERY IMPORTANT**] [Example] [Try Again]
 
+![image](https://github.com/user-attachments/assets/ef6e3cc7-dbcf-4646-88ca-05565a17c1c3)
 
+* Sense of unity.
+* Learning. [**VERY IMPORTANT**] [Logic] [Summary]
 
+### Sentence Placement/ Para Completion(SP)
 
+![image](https://github.com/user-attachments/assets/6838bca8-018f-4035-9e36-efb991f1d4a3)
 
+* Para Completion -> Sentence Placement
+* We are not necessarily thinking of **selection** but we are thinking of **elimination**. [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/65b261c5-d62f-426c-9937-b00d245f3114)
+![image](https://github.com/user-attachments/assets/a9082e86-c06a-4a5b-97e5-8f79aec32129)
 
+* Sentence Placement(SP). [2023] [Example]
+* 3 -> Cultural -> Narrow.
+* Option **2**.
 
+![image](https://github.com/user-attachments/assets/30bcf526-48ab-4fba-8246-deb4a2a827c0)
 
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again]
 
+![image](https://github.com/user-attachments/assets/a695c182-cfdd-48d8-a92a-e8ecadd4e855)
 
+* Sentence Placement(SP). [2023] [Example]
+* They -> China, Japan, America.
 
+![image](https://github.com/user-attachments/assets/a31185d8-5cb7-4187-99ea-a1563d211c6f)
 
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again]
+
+![image](https://github.com/user-attachments/assets/82da09cb-4188-48bd-80dd-1e467a999dcd)
+
+* Sentence Placement(SP). [2023] [Example]
+* From there -> location reference. [Logic]
+
+![image](https://github.com/user-attachments/assets/b45cacc3-a187-4983-9cc1-56860d058600)
+![image](https://github.com/user-attachments/assets/0f19ae36-e601-4d23-9fee-46699647e4af)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again]
+
+![image](https://github.com/user-attachments/assets/56785158-9258-4e2b-a316-b28249a972f9)
+![image](https://github.com/user-attachments/assets/5f1978d7-c0c2-463d-9821-c787bc313acd)
+
+* Sentence Placement(SP). [2023] [Example]
+* Dualism -> the doctrine that reality consists of two basic opposing elements, often taken to be mind and matter (or mind and body), or good and evil. [Meaning]
+* frontier -> a wilderness at the edge of a settled area of a country. [Meaning]
+* Statement -> Narrow.
+* Para statement 1 -> Broad.
+* That's why option **1** is **not correct**.
+
+![image](https://github.com/user-attachments/assets/793ddf5d-9268-4bd1-ba49-91347f68b05c)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/19a26e3a-55d3-45a5-8475-d9a8720a8b10)
+![image](https://github.com/user-attachments/assets/383b5174-b751-4720-972f-3f92bbc8cc83)
+
+* If we get **5+** questions out of the **8** questions in **VA** then a lot of stress is removed from solving the **RC** questions. [**VERY VERY IMPORTANT**] [Logic] [Summary] [Remember]
+* Learning -> Zoom, Echo, pronoun, signals. [**VERY IMPORTANT**] [Logic] [Summary]
 
 
 
