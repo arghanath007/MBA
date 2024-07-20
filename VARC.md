@@ -1964,7 +1964,57 @@
 
 ### Odd sentence in a para
 
-* 12.
+![image](https://github.com/user-attachments/assets/27802027-94f5-4645-af77-e66e1de3f01a)
+![image](https://github.com/user-attachments/assets/38307feb-75c0-4313-bf35-e15f6742801d)
+
+* Discussion -> Unity.
+* Which sentence is breaking the **unity**.
+* If any of the sentences require an **antecedent** then that sentence cannot stand alone. So we have to find a **block** using that sentence.
+
+![image](https://github.com/user-attachments/assets/688e7322-8f7d-4a61-8d72-ff64e603d5c9)
+
+* Odd sentence(OS). [2021] [Example]
+* 2 -> 5 and 1. [Echo]
+* chinese -> They, their.
+
+![image](https://github.com/user-attachments/assets/c67156a7-1cc4-40d3-80ff-0858c85d2884)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/ff3ea402-3644-4d08-85a7-b811dae2b938)
+
+* Odd sentence(OS). [2021] [Example]
+* A typical example -> Needs support.
+* Skewed -> distorted -> problematic.
+* Technology -> Echo.
+* 5 -> 2
+* diverse social -> diversity of thought and representation.
+
+![image](https://github.com/user-attachments/assets/5fcc7ad9-3abc-4567-92b0-85fd7dfee96b)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/65405727-131e-487f-b32a-7893e7ea03fa)
+
+* Odd sentence(OS). [2021] [Example]
+* disquieting -> causing mental discomfort. [Meaning]
+* predicament -> a situation from which extrication is difficult especially an unpleasant or trying one. [Meaning]
+* theology -> he rational and systematic study of religion and its influences and of the nature of religious truth -> religion. [Meaning]
+* shrink -> raw back, as with fear or pain.[Meaning]
+* genetics -> Echo.
+* 2 -> 5
+* Issues around **genetic engineering** and enhancement.
+
+![image](https://github.com/user-attachments/assets/76f096d3-f2e8-47ec-8dfc-4766b35f6933)
+![image](https://github.com/user-attachments/assets/4f7e396b-5862-4886-978b-2221bfa55792)
+
+* Basic sense of **unity** is enough.
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+
+
+
+
 
 
 
