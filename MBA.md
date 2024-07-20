@@ -350,6 +350,87 @@
 
 * Non-CAT exams.
 
+# XAT
+
+* Link -> https://www.youtube.com/watch?v=z1EEC-FW3A0
+* colleges:-
+* XLRI Jamshedpur, Delhi and XIMB.
+* Highest package -> 75L
+* Exam date -> 7th Jan 2025. 
+
+![image](https://github.com/user-attachments/assets/400263e1-419a-4a69-8347-9c716ee19ee1)
+
+* XL program -> 200INR extra fill that also. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/54887f5b-3896-4ecd-92d2-dbe185e8709b)
+![image](https://github.com/user-attachments/assets/48f59726-a02b-4b98-aa34-9e2eed4175c2)
+
+* Exam pattern.
+* GK -> no negative marking.
+
+![image](https://github.com/user-attachments/assets/05b58e25-2fdd-4da8-9d75-b3584851e27d)
+
+* Papper pattern.
+* DM -> Decision Making -> Different topic than **CAT**.
+* Part III -> GK and essay writing -> 30mins.
+
+![image](https://github.com/user-attachments/assets/4d125351-d9e1-4a8a-8167-496449cf23e8)
+![image](https://github.com/user-attachments/assets/6309c36c-8f79-435a-9139-4c87a6b19078)
+
+* XAT GK question. [Examples] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9ad3b819-cd73-46a7-a95b-f2d916410a44)
+
+* XAT quant + DI question. [Examples] [**IMPORTANT**]
+* DI -> 3 sets.
+* Overall and sectional cutoff is there.
+
+![image](https://github.com/user-attachments/assets/2a73ee99-7041-4981-829e-ab2ea9309e72)
+
+* XAT 2024 analysis.
+* Decision making(DM). [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bb51c7e4-fbfb-401e-b32e-5fc83e210ac0)
+![image](https://github.com/user-attachments/assets/d5bcfc4b-0d16-458e-8bc1-10abc96caec5)
+
+* XAT.
+
+![image](https://github.com/user-attachments/assets/7e290edf-7026-483a-b72a-fbd2550b1120)
+
+* XAT results(Percentiles).
+
+![image](https://github.com/user-attachments/assets/c7ea23da-9f3e-4660-8b79-022abc13d5e2)
+
+* Clgs accepting XAT exam marks. 
+* Link -> https://www.youtube.com/watch?v=-a62VXJ3BjE
+
+![image](https://github.com/user-attachments/assets/444f10a1-65fd-4392-83ef-fd043feb7171)
+
+* Important dates.
+
+![image](https://github.com/user-attachments/assets/1436bfd1-25aa-4b3c-9975-d318821a7e1a)
+![image](https://github.com/user-attachments/assets/83539e0e-1331-4b23-9c55-6196b6f5e5cd)
+
+* XAT marking scheme. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ac7ad398-9dd1-4c6d-8704-cb8e05089a52)
+
+* Paper pattern.
+
+![image](https://github.com/user-attachments/assets/a1b87269-d4d6-4a13-82bc-5a8c6e07c1a7)
+
+* Cutoffs.
+
+![image](https://github.com/user-attachments/assets/e610ec30-5e1b-4877-a62b-b25f478da292)
+
+* XAT syllabus -> Quant, VA, DM. [**VERY IMPORTANT**]
+* Link -> https://www.youtube.com/watch?v=QB_Xgkr0UUM
+
+
+
+
+
+
 
 
 
