@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/728c7593-25bc-487d-a5fc-780fb16c432d)![image](https://github.com/user-attachments/assets/09ae49a1-c0f4-4798-8baf-2992db9f1cf5)![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)# VARC
+# VARC
 
 # Rodha 
 
@@ -2282,11 +2282,22 @@
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ujFrNpkcwFc%3D&userId=7649112
 * 7 -> Para Summary -3 
 
+![image](https://github.com/user-attachments/assets/ab150b84-d13c-436c-a989-acc6a63984b5)
+![image](https://github.com/user-attachments/assets/fe0956ad-7253-44ce-be00-c80e59f8786a)
+![image](https://github.com/user-attachments/assets/f54d7edb-14ea-4c84-ad01-df3b4d76e5fd)
+![image](https://github.com/user-attachments/assets/10f4cbd9-5987-4be0-b13e-f0099011bd29)
 
+* 3 [1]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* 1 -> It is not **aristotle**, it is **aristotelians**.
 
+![image](https://github.com/user-attachments/assets/08fbe51b-1a8b-4c9a-8ccc-bdb3e2f6a290)
+![image](https://github.com/user-attachments/assets/8175d92a-925a-457d-9fc3-6c4dcba0c4ba)
+![image](https://github.com/user-attachments/assets/c9f329db-77a4-4509-b5b5-22248315d0cf)
+![image](https://github.com/user-attachments/assets/60334fb2-d7db-497c-a638-27cfda27bb02)
 
+* 3 [2]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
 
-
+![image](https://github.com/user-attachments/assets/98bd7cca-794a-4a62-abe3-3f758d0120b6)
 
 
 
@@ -4435,3 +4446,4 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4e5e0ec8-5d9e-45ab-9ef2-91185a382141)![image](https://github.com/arghanath007/MBA/assets/54589605/4aff8912-e9f5-47fd-a847-91d3da232189)![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4ab5c-72c3-4f27-994a-03c0f3ca22e7)![image](https://github.com/arghanath007/MBA/assets/54589605/19e8db9e-a350-4a0f-bc12-f88ac8953a40)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/bb3f951c-80ce-449a-bc62-df642b501540)
+![image](https://github.com/user-attachments/assets/728c7593-25bc-487d-a5fc-780fb16c432d)![image](https://github.com/user-attachments/assets/09ae49a1-c0f4-4798-8baf-2992db9f1cf5)![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)
