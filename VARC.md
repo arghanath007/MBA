@@ -2298,9 +2298,97 @@
 * 3 [2]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
 
 ![image](https://github.com/user-attachments/assets/98bd7cca-794a-4a62-abe3-3f758d0120b6)
+![image](https://github.com/user-attachments/assets/215c9543-79b8-417a-a2df-0aa225696e8b)
+![image](https://github.com/user-attachments/assets/92670680-5253-4e43-83e3-8a7d00d6a6f0)
+![image](https://github.com/user-attachments/assets/3e55da99-dd43-4f89-911a-e7ffff3fd3a0)
 
+* 1 [3]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* Thankfully -> Author's personal opinion.
+* 8 -> Para Summary-4 
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=SyhFiFsiKgc%3D&userId=7649112
 
+![image](https://github.com/user-attachments/assets/da9968cc-e84f-4665-8a8c-ccbbe312371f)
+![image](https://github.com/user-attachments/assets/0e976e1c-1a64-4a39-afe8-72b6c1e47f70)
+![image](https://github.com/user-attachments/assets/26dfe5b1-10c7-4f6f-9391-d2d01d266d1d)
+![image](https://github.com/user-attachments/assets/b0dd16e0-ce13-4e06-80a2-2a57628a6896)
 
+* 1 [3]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+* Short options -> Side tracks -> Need to understand the passage well. [Logic] [**VERY IMPORTANT**]
+* 1 -> Something Missing.
+* 2 -> Something Missing.
+* 4 -> Not the main idea.
+
+![image](https://github.com/user-attachments/assets/62515287-c0a9-42c7-b33e-14fec178be1b)
+![image](https://github.com/user-attachments/assets/5a10c2ac-f831-4f99-83ba-53d8e9062461)
+
+* 1 [2]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+![image](https://github.com/user-attachments/assets/b1b77123-6c9b-4048-bb72-e528a27bd9dc)
+![image](https://github.com/user-attachments/assets/d3cdc4dc-6b97-4169-af51-a83e4dec5120)
+![image](https://github.com/user-attachments/assets/068898e9-3122-44b0-a583-e99ccd220b0b)
+
+* 2 [3]. [Got Wrong] [**VERY IMPORTANT**] [Try Again]
+
+* 9 -> Para Jumble-1 
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=I1dA6%20ZgEkA%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/f265ce24-6937-4a35-a623-3030b53327c3)
+![image](https://github.com/user-attachments/assets/1ae70b41-d824-48d8-8600-f16723689a92)
+![image](https://github.com/user-attachments/assets/a2821626-9894-4a05-805d-4b44ff9fe09a)
+![image](https://github.com/user-attachments/assets/ea1ddb23-c395-448e-80fd-535ba2cce9a0)
+
+* [1]. [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+* perennial -> lasting an indefinitely long time; suggesting self-renewal. [Meaning]
+* unusual book -> narrator.
+* they -> youngest sibling.
+* 1 -> 4 -> 2. [Block]
+* 1 -> Mystery statement.
+* 2 -> but -> Contrast.
+
+![image](https://github.com/user-attachments/assets/b655b166-6b4c-4e7b-b438-8ced345f4547)
+![image](https://github.com/user-attachments/assets/d4bf391e-66fa-4684-9bc5-dc8e66a50b56)
+![image](https://github.com/user-attachments/assets/f94de88b-9eca-4884-83ed-b650af921f7b)
+![image](https://github.com/user-attachments/assets/1ca3a5d0-96f8-4865-a1b2-029b1cc5ba36)
+
+* 3241 [2]. [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice] [Correct]
+* Many languages -> Broad.
+* English -> Narrow.
+
+![image](https://github.com/user-attachments/assets/471a6352-e181-4dc0-a225-1a236e3a6977)
+![image](https://github.com/user-attachments/assets/b6fa07c0-ce29-4805-ba87-d7f67feede64)
+![image](https://github.com/user-attachments/assets/b0dc293c-23d1-4d90-b220-4caa04e88d1c)
+![image](https://github.com/user-attachments/assets/cfa19f8d-b3d8-4ef3-b0fa-ad3756ffaff6)
+
+* 2143 [3]. [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice] [Correct]
+* 1 -> 4.
+* satisfaction -> pleasure. [Echo]
+* 10 -> Para Jumble-2
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lXohGNLo1RY%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/61e8d452-1b85-4958-aff0-df932c264058)
+![image](https://github.com/user-attachments/assets/03789123-9e33-4613-b9e0-6bd9098c6574)
+![image](https://github.com/user-attachments/assets/941d79d8-8899-4d6b-b173-f6acf90c953f)
+
+* 4231 [1]. [Correct] [**VERY IMPORTANT**] [Practice]
+* Signals -> But, and, since.
+* 3 -> 1
+* 4 -> Broad.
+
+![image](https://github.com/user-attachments/assets/23ed5a9b-e5ad-496c-bcdc-7c3d7df0a2fd)
+![image](https://github.com/user-attachments/assets/2d6f5054-507c-4515-80f5-52f179342de4)
+
+* 4231. [2] [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+
+![image](https://github.com/user-attachments/assets/6d9877c1-38ab-49df-ab8c-90c84f922772)
+![image](https://github.com/user-attachments/assets/bd360ece-15cf-48dd-805f-ba89e2892789)
+![image](https://github.com/user-attachments/assets/607a0856-095e-413d-8c90-7f9a4ef89057)
+![image](https://github.com/user-attachments/assets/7cb11f97-990f-4f6c-909f-1c63d12ce1ba)
+
+* 1423. [3] [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice] [Correct]
+* 2 -> 3.
+
+* 11 -> Para Jumble - 3
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=a3l2Uv3JLaA%3D&userId=7649112
 
 
 
