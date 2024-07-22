@@ -780,6 +780,129 @@
 
 ## Verbal Ability(VA) in CAT
 
+### Summary
+
+![image](https://github.com/user-attachments/assets/b40c6ad4-43e2-4d52-8bcd-33ed0405456c)
+![image](https://github.com/user-attachments/assets/7ca2114a-84af-4d59-8a26-6e97499ebc3f)
+![image](https://github.com/user-attachments/assets/662a34c2-6dd7-4194-8f70-f225bf404da2)
+
+* BEAST.
+* signal, pronouns, block.
+* Applications. [**VERY VERY IMPORTANT**] [summary] [Logic]
+
+![image](https://github.com/user-attachments/assets/fb94e24b-e338-49ff-adc9-519316796bff)
+![image](https://github.com/user-attachments/assets/2988e063-e179-4bf2-8e3d-82ad56ddcaea)
+
+* 1
+* Phil -> love.
+
+![image](https://github.com/user-attachments/assets/610220b2-0047-43fd-a002-ed21349b0139)
+![image](https://github.com/user-attachments/assets/ad898efb-b737-42f3-81ee-aab36fb8ce4e)
+![image](https://github.com/user-attachments/assets/ba02a108-75b9-4428-839c-dd66ab26dd5d)
+
+* Para summary.
+* Essence -> Idea.
+
+![image](https://github.com/user-attachments/assets/443028fb-c6d1-4211-839f-1f014ae91a00)
+![image](https://github.com/user-attachments/assets/ea83d789-c332-4342-ba23-62fa5703bda8)
+
+* 1
+* 1, 3 -> subliminal level -> wrong.
+* no awareness -> without their knowledge. [Echo]
+
+![image](https://github.com/user-attachments/assets/422156b9-9aa2-4ac7-8760-736c422af280)
+
+* Answer -> 2. [Correct] [Try again]
+
+![image](https://github.com/user-attachments/assets/b1876d7e-bcd5-4180-9af5-41b7e98e7cdc)
+![image](https://github.com/user-attachments/assets/b1f7d5ee-73a7-4531-bbd2-fad2e591b188)
+
+* 2.
+* 1 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/743fe5a6-5592-4f51-8fa3-ab320fb6dff8)
+
+* Answer -> 2. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/99cb1c5e-eddc-421d-acc5-f99853065e29)
+
+* 3
+* 1 -> Side-track.
+* 2 -> Tone.
+* Essential -> extreme.
+
+![image](https://github.com/user-attachments/assets/23267448-57b4-4100-b1d4-823261abbb46)
+![image](https://github.com/user-attachments/assets/0a8db3aa-cee1-4fdf-81b7-3ed18c3c1c2f)
+
+* Answer -> 4. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/c41d2901-5adb-416c-a50a-71d43f10e736)
+
+* 5.
+* 1 -> Side-track.
+* 3 -> Alien.
+
+![image](https://github.com/user-attachments/assets/e4cbc69b-21f6-48dd-97a7-11d410e6d0a2)
+
+* Answer -> 2. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/943d9a6b-1251-4372-893a-9b081c434f22)
+
+* Learning -> Para Summary(PS). [Summary] [Logic] [**VERY IMORTANT**]
+
+![image](https://github.com/user-attachments/assets/f91956d1-dfa2-4214-9d76-660ce969978c)
+
+* 6. [2019]
+
+![image](https://github.com/user-attachments/assets/ee7e0be6-20b1-4598-a7aa-1cfa55ca7eff)
+
+* Answer -> 2. [Got Wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/c5fab35f-0b8d-48d1-b0df-4885d6e2f7b5)
+
+* 7. [2020]
+* 2 -> Alien.
+* nearly a century -> long-standing view. [Echo]
+* 3 -> Side-track.
+* immutable -> cannot be changed ever. [Meaning]
+
+![image](https://github.com/user-attachments/assets/ed30caf7-fd35-46db-892c-7fe1449664f0)
+![image](https://github.com/user-attachments/assets/b9cf5b1e-38e4-4ffc-904d-2804cb0814c9)
+
+* Answer -> 1. [Got Wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/1a7af3f7-fcd7-4ea4-98a6-b96c119fddec)
+
+* 8. [2021]
+* impending -> Immediate. [Meaning]
+* 4 -> Alien.
+* mislead -> alien.
+
+![image](https://github.com/user-attachments/assets/44b161a2-440e-429c-9f47-ccf164010317)
+
+* Answer -> 1. [Got Wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/a8c02607-2aa8-4cee-bb0f-2117be763803)
+
+* 9. [2022]
+* 1 -> All -> extreme position -> Correct.
+* 2 -> Twisting the examples.
+* 3 -> Tone.
+* deride -> treat or speak of with contempt. [Meaning]
+
+![image](https://github.com/user-attachments/assets/2140e8b4-6548-4bf0-84de-3dd2c286aa37)
+
+* Answer -> 1. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/b8e850dc-60de-496d-84cc-50adbdcc15ef)
+
+* Learning -> Para Summary(PS). [Summary] [Logic] [**VERY IMORTANT**]
+
+
+
+
+### Verbal Ability(VA) in CAT
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/75310afd-42bd-49ed-98c2-4e1e0e3eb211)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/65f96232-abbd-4a9b-8932-bcb1eb86cff8)
 
