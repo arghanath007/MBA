@@ -2390,6 +2390,77 @@
 * 11 -> Para Jumble - 3
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=a3l2Uv3JLaA%3D&userId=7649112
 
+![image](https://github.com/user-attachments/assets/3a622468-83c8-4f3c-a14c-53752f77fa82)
+![image](https://github.com/user-attachments/assets/7b236a58-5e6a-4d8a-8f00-318097c9fa80)
+![image](https://github.com/user-attachments/assets/2b045791-1122-45e1-884c-ea094382817d)
+![image](https://github.com/user-attachments/assets/b6649be8-1719-4e03-8b83-3ecfb9899d3c)
+
+* 2134. [1] [Correct] [**VERY IMPORTANT**] [Practice]
+* 3 -> 4. [Block]
+* 2 -> 1. [Block]
+
+![image](https://github.com/user-attachments/assets/a152d55d-95d9-4c65-9a53-ea2fc01135c6)
+![image](https://github.com/user-attachments/assets/c3913229-eed5-46ff-8f76-e8c06969e14e)
+![image](https://github.com/user-attachments/assets/d9e6d106-9e6a-490f-9ec8-3a8e228940c1)
+![image](https://github.com/user-attachments/assets/ea238ea0-4697-42cd-a4f1-94ecac8bc9c7)
+
+* [2] [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+* 3 -> 2.
+* 1 -> 4
+
+![image](https://github.com/user-attachments/assets/a7ab3ef5-2b00-4678-9b15-2ff84a9ed758)
+![image](https://github.com/user-attachments/assets/e6c0381d-e563-405d-8f0b-dc76d9d0442a)
+![image](https://github.com/user-attachments/assets/42c14137-120e-493e-aada-a132f949d286)
+![image](https://github.com/user-attachments/assets/5bd7a940-8f62-41ef-bc5b-e08444379340)
+
+* 4231 [3] [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+* thrown -> kingdom -> country.
+* interest will not lie -> self-interest axiom.
+* axiom -> a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident. [Meaning]
+* 4 -> 2
+* 3 -> 1
+* 1 -> also -> adding on -> acting as support to **'3'**.
+* 12 -> Para Jumble -4
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=dsPn2HFHZ2Q%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/7a34a8f6-c232-4f72-b2c0-41a9145b063a)
+![image](https://github.com/user-attachments/assets/e6317643-b582-480a-a944-f2cea34b3285)
+![image](https://github.com/user-attachments/assets/b16f54b0-9894-42a7-963d-dfdfecadad15)
+![image](https://github.com/user-attachments/assets/5cb79374-ebe7-4505-b759-f89cc14d0e54)
+
+* [1]. [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+* Signal -> so.
+* so -> needs support.
+* 1 -> 4. [Block]
+* 3 -> Start statement.
+* currently -> today -> current. [Echo]
+* 2 -> specific -> narrows.
+* 3 -> generaal -> Broad.
+
+![image](https://github.com/user-attachments/assets/c9d5cd42-93c5-49f6-9828-ab8e444716cd)
+![image](https://github.com/user-attachments/assets/f7474a01-c7e8-40ed-bd04-3e96ab532fa5)
+![image](https://github.com/user-attachments/assets/fa0efdf4-eb57-4629-b143-750a2c6cd9c6)
+![image](https://github.com/user-attachments/assets/aad3ad18-dff8-4cc3-9f8f-d66cf8a79cf8)
+
+* [2]. [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+* pronouns -> here.
+* 4 -> 3.
+* 3 -> 1.
+* Zooming out.
+
+![image](https://github.com/user-attachments/assets/d0ffc3bd-571b-45dc-8ab8-22a3eb9f80f9)
+![image](https://github.com/user-attachments/assets/8147af60-8175-4e76-9c8c-c4a0e92a66ea)
+![image](https://github.com/user-attachments/assets/16e188d8-64fd-461a-bebb-c816b072fca7)
+![image](https://github.com/user-attachments/assets/f4e5152a-3453-4c64-a25e-264064a5f475)
+
+* [3]. [Got Wrong] [**VERY IMPORTANT**] [Try Again] [Practice]
+* pronouns -> it.
+* you -> it.
+* 2 -> 1
+* 3 -> it -> animalism.
+* 13 -> Odd Sentence-1
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=UkSp8nomTeA%3D&userId=7649112
+
 
 
 
