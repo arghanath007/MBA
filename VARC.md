@@ -1097,13 +1097,142 @@
 * Answer -> 1423. [Correct] [Practice] [**VERY IMORTANT**] [Try again] [Doubt]
 
 ![image](https://github.com/user-attachments/assets/ac1d7a95-1e17-48e2-bf90-cd6eebed8e01)
+![image](https://github.com/user-attachments/assets/c5f4d2ab-3d80-4bd4-9582-ebd62ecaf015)
+![image](https://github.com/user-attachments/assets/87e09bbd-7601-490f-8093-989d7a6b0b75)
 
+* Sentence -> Paragraph.
 
+![image](https://github.com/user-attachments/assets/0e50f436-fd4f-4aaa-a3a1-94afad9de779)
 
+* Process.
 
+![image](https://github.com/user-attachments/assets/b5004e20-9d5b-4bfc-9b3e-3ff6b8ca892e)
 
+* Purposse.
 
+![image](https://github.com/user-attachments/assets/1aa7a9c7-3f6e-4551-bb1e-9b01a56a0e42)
 
+* 1
+* Para Completion(PC).[2022]
+
+![image](https://github.com/user-attachments/assets/dbc0b556-e79f-4f40-87d5-fc1204cb3c4f)
+
+* Answer -> 2 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/060758b8-0975-40b7-bc9e-85d78fff6e18)
+
+* 2
+* Para Completion(PC).[2022]
+* pronoun -> he.
+
+![image](https://github.com/user-attachments/assets/5dffb81c-df3b-4f15-ae6a-0f4dc9676e7e)
+
+* Answer -> 3 [Got wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/2e3182ff-473e-4cc9-81c7-992f6d1b1819)
+
+* 3.
+* Para Completion(PC).[2022]
+* 2 -> Positive.
+* 3 -> Negative.
+
+![image](https://github.com/user-attachments/assets/34b159dd-d2ae-48f3-9594-ea4d18192bbc)
+
+* Answer -> 4 [Got wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/9aac4740-c6a3-449f-a4e2-354c690c3f3e)
+![image](https://github.com/user-attachments/assets/0b2876f8-246f-4fd1-bc1b-1f2b5eaf851e)
+
+* Learning -> Para Completion(PC). [Summary] [Logic] [**VERY IMORTANT**]
+
+![image](https://github.com/user-attachments/assets/5340ecb6-ff3e-4b8c-8c77-49d25b210611)
+
+* 4.
+* Para Completion(PC).[2022]
+
+![image](https://github.com/user-attachments/assets/ebbe19c2-64ed-4c70-9c59-50616733682d)
+![image](https://github.com/user-attachments/assets/642f2fe5-aaa2-4781-892f-d31e249941d4)
+
+* Answer -> 4 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/6ba41e61-c1a3-45b0-af33-313c86db5a8a)
+
+* 5.
+* Para Completion(PC).[2022]
+
+![image](https://github.com/user-attachments/assets/ee04a2e0-e1f5-47ca-bd00-5fa4d8ef0c3b)
+![image](https://github.com/user-attachments/assets/3b51b229-b6dc-419a-910d-7ca5f8fb4606)
+
+* Answer -> 2 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/6dd6f1b7-c87a-4573-86c8-9dd311ef498f)
+![image](https://github.com/user-attachments/assets/2c56d2e1-3ca0-410d-8fb6-30532c003883)
+
+* Odd sentence. [Logic]
+
+![image](https://github.com/user-attachments/assets/12a1ef94-2773-4397-b539-03f5391d64c7)
+![image](https://github.com/user-attachments/assets/5ae20086-522c-4cb8-8c54-8a597ff5cb6f)
+![image](https://github.com/user-attachments/assets/f637e417-57b3-4ba2-8cd3-539f9c59d5e2)
+![image](https://github.com/user-attachments/assets/d4a76f0e-9b26-4742-9b98-9f6ec1736dc3)
+![image](https://github.com/user-attachments/assets/c7c17da6-e0fd-465a-973e-a1a1a7ea268e)
+![image](https://github.com/user-attachments/assets/ade90b1a-d8e1-4db2-9aa6-2dd593ee3d1a)
+![image](https://github.com/user-attachments/assets/a0e11a3f-adec-4e44-8369-cb9da1a2a979)
+![image](https://github.com/user-attachments/assets/dffa2eee-15fd-4ea4-b77a-224e917ec385)
+![image](https://github.com/user-attachments/assets/ad8ea70b-c727-48d7-8b73-94665e38e211)
+
+* Odd sentence(OS). [2017]
+* babies -> baby -> child. [Echo]
+* Sign -> the signs.
+* study -> examine -> notice. [Echo]
+* 3 -> believe -> Alien.
+
+![image](https://github.com/user-attachments/assets/6a37b0e5-5407-4068-862c-0fe90125a2f5)
+![image](https://github.com/user-attachments/assets/d9d831f0-afc6-474e-b457-bfa49c499a3a)
+
+* Answer -> 3 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/3e5be3e4-d3ce-4429-b32a-fe2b5a0b16ac)
+
+* Odd sentence(OS). [2018]
+
+![image](https://github.com/user-attachments/assets/5b4e74bf-c631-4f61-bec7-c1fc60561000)
+
+* Answer -> 5 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/71c74bc4-5c76-483e-bd68-fd3768b2a428)
+
+* Odd sentence(OS). [2019]
+
+![image](https://github.com/user-attachments/assets/97b6fb11-4ea9-4661-b0d1-1b29797250f4)
+![image](https://github.com/user-attachments/assets/fcb7cad9-f6df-41e1-a033-65321e93f824)
+
+* Answer -> 1 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/1d77646e-857a-40fe-9790-3d04c941de6a)
+
+* Odd sentence(OS). [2020]
+
+![image](https://github.com/user-attachments/assets/31cc6284-46ee-4366-b080-c129d4d7506a)
+
+* Answer -> 2 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/e3bcce59-e974-4e3d-9963-f6afd01f3cc9)
+
+* Odd sentence(OS). [2021]
+* shrink -> decrease in size, range, or extent. [Meaning]
+
+![image](https://github.com/user-attachments/assets/92f22b41-0a6a-4086-a8a8-62fcc5dd1c32)
+
+* Answer -> 1 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/b9210b64-fcd3-4e65-b433-e6088fe22ad7)
+
+* Odd sentence(OS). [2021]
+
+![image](https://github.com/user-attachments/assets/10e67b5f-28ef-4237-bcd0-a72bc76a305a)
+![image](https://github.com/user-attachments/assets/00d0ff09-387e-4ce8-afff-847b5af178cf)
+
+* Answer -> 3 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
 
 
 
@@ -1137,24 +1266,25 @@
 
 * Pattern.
 
+![image](https://github.com/user-attachments/assets/3abc65b5-7fb5-41e0-9d17-82d992a1eaa7)
 
+* Para Completion(PC). 
+* Understanding, learnings. [**VERY IMORTANT**] [Summary]
 
+![image](https://github.com/user-attachments/assets/422c06ad-5278-41e9-9a41-ec86c1f2cf1a)
+![image](https://github.com/user-attachments/assets/559db8c4-f98b-48c3-891b-07ab3758617b)
 
+* Odd sentence(OS).
+* Understanding, learnings. [**VERY IMORTANT**] [Summary]
 
+![image](https://github.com/user-attachments/assets/11768120-d3e1-45b3-a0d6-3147a8e0f51e)
+![image](https://github.com/user-attachments/assets/386b607e-d54d-48c6-9376-16c18e8f4ebd)
+![image](https://github.com/user-attachments/assets/38504ef0-851f-4b6c-bc6b-981279c8857b)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Overall. [**VERY IMORTANT**] [Summary]
+* Unity -> Controlling idea.
+* Coherence -> Zooming in.
+* Cohesion -> Echo words, pronouns, signal wordds.
 
 ### Verbal Ability(VA) in CAT
 
