@@ -898,6 +898,261 @@
 
 * Learning -> Para Summary(PS). [Summary] [Logic] [**VERY IMORTANT**]
 
+![image](https://github.com/user-attachments/assets/d8552ca5-d934-4a7d-bd2a-454d0f4b233c)
+![image](https://github.com/user-attachments/assets/2a25b40d-a534-4fe3-bda7-4ec26ee9a891)
+![image](https://github.com/user-attachments/assets/bbc38ecb-b1b6-4bce-9530-ab0416801e70)
+
+* 10 [2017]
+* Colon(:) -> full stop(.) [**IMPORTANT**]
+* Unified/univerasal experiences -> Wrong.
+* Common humanity -> Wrong.
+
+![image](https://github.com/user-attachments/assets/fada1f90-0282-43b5-b1b7-4ae8e4e87d3c)
+
+* Answer -> 3. [Got Wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/cb57a143-d1c5-4244-bc74-44462b16c534)
+
+* 11.
+* 2 -> proved -> they didn't prove anything -> nobody proved -> Not correct. [Logic]
+* 4 -> Wrong.
+* Empirical -> derived from experiment and observation rather than theory. [Meaning]
+* statistical -> of or relating to statistics. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/6290c5ed-0f11-4a40-80ad-10545306b570)
+![image](https://github.com/user-attachments/assets/49003e39-65f1-43ed-a121-21fde9ddf8bc)
+
+* Answer -> 3. [Got Wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/3fd2b810-2ef4-4b23-a807-e9c1436ec976)
+
+* 12.
+* 2 -> Too broad.
+* astigmatic ->
+* erroneous ->
+* 3, 4 -> Not the main point -> Side-tracks.
+* T -> True statement. 
+
+![image](https://github.com/user-attachments/assets/fa3f937f-0dc5-41a9-a26b-6cab9fb8ce3a)
+![image](https://github.com/user-attachments/assets/27c67031-0b7a-4191-8ac0-30147f68fc98)
+
+* Answer -> 1. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/17066169-5ad0-429c-a427-7bc6e827b72a)
+
+* Learning -> Para Summary(PS). [Summary] [Logic] [**VERY IMORTANT**]
+
+![image](https://github.com/user-attachments/assets/055d8c94-6ad8-49b0-a210-a43db06d9a89)
+![image](https://github.com/user-attachments/assets/0aa75da6-cad7-449c-b5af-71992fc82def)
+![image](https://github.com/user-attachments/assets/93b86438-14db-4f17-af5a-c27e4697f0b6)
+![image](https://github.com/user-attachments/assets/0d1b1dba-d9c6-4b69-8bfa-f605639b1141)
+
+* 13 [2019]
+* mind-reading, print-reading -> Echo.
+* 2 -> start of mind-reading.
+* Got confused between **2 and 3**.  
+
+![image](https://github.com/user-attachments/assets/1c5f246b-674d-4cbd-886c-8edcae6b6981)
+![image](https://github.com/user-attachments/assets/b09a63f1-486b-406c-9694-21f193f814f5)
+
+* Answer -> 2341. [Got Wrong] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/c80a3dc1-306d-46de-b1f5-4db7bc53476d)
+
+* 14 [2019]
+* 3 -> Example.
+* 4 -> 1. [Block]
+* 2 -> 3. [Block]
+
+![image](https://github.com/user-attachments/assets/af9d4781-eee8-4908-ae07-790491302f72)
+![image](https://github.com/user-attachments/assets/043e07dc-d5d7-4d9d-bd59-9e819c2131c6)
+![image](https://github.com/user-attachments/assets/7df583b0-7dea-4b4c-91c4-9a68c9b7c1e3)
+
+* Answer -> 4123. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/7e8950d7-5614-4d22-96d1-35cee216677a)
+
+* 15 [2019]
+* 1 -> Negative(-).
+* 4 -> Positive(+).
+* Signal -> However.
+* 2 -> 1.
+
+![image](https://github.com/user-attachments/assets/8a8fc006-29cd-4d8a-9bf0-be2e7a4493c5)
+![image](https://github.com/user-attachments/assets/ede4241b-eb74-47c5-bb87-e2aeddcf05dc)
+
+* Answer -> 2143. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/220cd858-3dd3-4320-9375-0740f202e0f7)
+![image](https://github.com/user-attachments/assets/1b744325-be85-4590-b1a3-26646afd4375)
+
+* Negative(-) -> However(+) -> Positive(+).
+* Positive(+) -> However(-) -> Negative(-).
+* Positive(+) -> Moreover(+) -> Positive(+).
+* Negative(-) -> Moreover(-) -> Negative(-).
+* However -> Changing the **sign/tone** of the sentences -> Changes the **sign**. [Logic] [**VERY IMORTANT**]
+* Moreover -> Supporting the **tone** of the previous sentence. [Logic] [**VERY IMORTANT**]
+
+![image](https://github.com/user-attachments/assets/1517b08b-344a-4ce9-838b-57507d499727)
+![image](https://github.com/user-attachments/assets/5dc04bed-fd78-4731-b3bd-482cb105e065)
+![image](https://github.com/user-attachments/assets/54d6d22a-7e93-4cc8-af36-ccdd85d6aef0)
+
+* Zoom-in. [Default] [General]
+
+![image](https://github.com/user-attachments/assets/f0b7ae6d-3bf5-4806-a6af-2043ce387be7)
+![image](https://github.com/user-attachments/assets/75b49cfe-74f0-4cc0-b394-e75f72f39b7b)
+
+* 16 [2022]
+* 3 -> 1 -> 4
+* Pronoun -> us.
+* us -> me and my sister.
+* 4 -> that -> needs support.
+* Temporal sequence -> Time based sequence.  [**VERY IMORTANT**] [Logic]
+* Past -> 1,2,3.
+* Present -> 4.
+* 2 -> 3
+* 1 -> 4.
+* Cause -> 2,3.
+* Effect -> 1, 4.
+* So **4** is at the **end**. [Logic]
+
+![image](https://github.com/user-attachments/assets/24b6cf39-3c8d-4516-af18-43b6b372caf7)
+![image](https://github.com/user-attachments/assets/894e5a20-1bbc-48a6-8da8-db59dccb3df1)
+![image](https://github.com/user-attachments/assets/87fd91c3-fb24-49b6-81b3-cf599ca5cc21)
+![image](https://github.com/user-attachments/assets/3dc9fd6e-f9ea-48b5-acae-b41dcf4ca7ab)
+
+* Answer -> 2314. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/a652d5e3-c09d-4dd0-98ed-55168172e164)
+
+* 17 [2018]
+* eventually -> temporal sequence. [Logic] [**VERY IMORTANT**]
+* 1 -> 3.
+* 4 -> 2.
+
+![image](https://github.com/user-attachments/assets/a6d55d3c-7314-4fbb-ba05-ea57bf793f61)
+![image](https://github.com/user-attachments/assets/efb3919a-ecb3-4f95-b354-eda0e61c2e95)
+
+* Answer -> 4213. [Correct] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/04a858d2-4e5a-4ac6-8dd7-ed76897a8197)
+
+* 18 [2022]
+* 3 -> needs support.
+* 1 -> women cooking -> negative -> narrow
+* 2 -> food framing.
+* 2 -> 4.
+* 4 -> 3.
+* individual choice(1) -> individualized framing. [Echo]
+
+![image](https://github.com/user-attachments/assets/d6970eee-1318-4689-8785-26b384004ab3)
+![image](https://github.com/user-attachments/assets/51345f2d-e104-414c-9aa6-3cfd1a8ab040)
+![image](https://github.com/user-attachments/assets/f6169c85-2c4c-4b9f-b77a-969df613873a)
+
+* Answer -> 2431. [Got Wrong.] [Practice] [**VERY IMORTANT**] [Try again]
+
+![image](https://github.com/user-attachments/assets/7d557360-df83-455c-a40e-8ed24c3b03e7)
+![image](https://github.com/user-attachments/assets/44480615-66bb-49de-966f-69c218681294)
+![image](https://github.com/user-attachments/assets/dfd620f5-dd22-4eb7-b3d7-56a3be67d9f0)
+
+* Learning -> Para Summary(PS). [Summary] [Logic] [**VERY IMORTANT**]
+
+![image](https://github.com/user-attachments/assets/d04d99b9-f20b-4271-af42-dcb1f6241265)
+
+* 19 [2022]
+* 1 -> positive.
+* 3 -> 1.
+
+![image](https://github.com/user-attachments/assets/dd4afc80-78b7-48b8-9e67-4b7332d2ff17)
+![image](https://github.com/user-attachments/assets/2d80fabd-42be-4f45-a4b3-d3f1ca75ecfa)
+![image](https://github.com/user-attachments/assets/a0c0b2dc-82c3-44e8-82e3-a1dbd580d46e)
+
+* Answer -> 2431. [Got wrong] [Practice] [**VERY IMORTANT**] [Try again]
+* inhibited -> held back or restrained or prevented. [Meaning]
+
+![image](https://github.com/user-attachments/assets/3b2aa2d7-07cb-4a76-8c4c-b13f16c268b2)
+
+* 20 [2022]
+* 2 -> 1.
+* 4 -> 3.
+
+![image](https://github.com/user-attachments/assets/98bdbe88-6090-448d-aac7-785c700c156f)
+![image](https://github.com/user-attachments/assets/e6fc915f-8537-4bd9-bfda-cff2971521ff)
+![image](https://github.com/user-attachments/assets/963df42f-65ec-4a72-ae47-38eca565cb9e)
+
+* Answer -> 2143. [Correct] [Practice] [**VERY IMORTANT**] [Try again] [Have some confidence]
+
+![image](https://github.com/user-attachments/assets/a1b89164-9d90-4b03-bb89-7debba9409b7)
+![image](https://github.com/user-attachments/assets/0adc855c-b92e-41d4-ba0a-6860848c9b84)
+
+* 21 [2018]
+* 1 -> 4.
+* 2 -> 3.
+* 3 -> their -> swifts -> needs support.
+
+![image](https://github.com/user-attachments/assets/73ca4e48-3699-42f9-a7ec-6095966fd9c7)
+![image](https://github.com/user-attachments/assets/bc85d0b8-21ad-46bb-956a-f9e52dd847e8)
+![image](https://github.com/user-attachments/assets/2a23a5a8-64ce-4186-af85-a877ec4624bc)
+
+* Answer -> 1423. [Correct] [Practice] [**VERY IMORTANT**] [Try again] [Doubt]
+
+![image](https://github.com/user-attachments/assets/ac1d7a95-1e17-48e2-bf90-cd6eebed8e01)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/5e6a8f16-740a-4fc4-bb38-04ce2c308d10)
+![image](https://github.com/user-attachments/assets/85cf3e0b-ce02-44e9-9ef6-e26e50cdabfd)
+![image](https://github.com/user-attachments/assets/fa30dd9f-d5f2-4a01-85aa-cc7e1f006aba)
+
+* Understanding, learnings. [**VERY IMORTANT**] [Summary]
+
+![image](https://github.com/user-attachments/assets/1327876d-508c-4ac9-afb6-01ef15eab680)
+![image](https://github.com/user-attachments/assets/ce75331e-f448-4737-b85d-dbae0bea6b19)
+
+* KISS. [**VERY IMORTANT**] [Summary]
+* Start.
+* Zooming-in
+* Echo, pronoun, signal -> making the blocks.
+
+![image](https://github.com/user-attachments/assets/5c130a9e-c485-4ad5-b3fd-3b3f9973e9af)
+![image](https://github.com/user-attachments/assets/3dcd8df2-4485-4812-a103-283f28a103ed)
+
+* Marks.
+
+![image](https://github.com/user-attachments/assets/725ab590-f4c1-446e-a176-f36a46c623ea)
+
+* Pattern.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
