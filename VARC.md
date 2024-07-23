@@ -678,7 +678,9 @@
 * Module 2 -> Done
 * Module 3 -> Done
 * Module 4 -> Done
-* Module 5 -> Working on it.
+* Module 5 -> Done.
+* Module 6 -> Done.
+* Module 7 -> Working on it.
 
 ## RC discussion
 
