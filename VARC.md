@@ -2472,7 +2472,129 @@
 3) Echo
 4) Zoom.
 
-### Odd sentence in a para
+![image](https://github.com/user-attachments/assets/a0e9556e-8322-4965-8490-21c3f6c17587)
+![image](https://github.com/user-attachments/assets/ef80c862-8ddb-41a2-92f6-8799c01b30a5)
+![image](https://github.com/user-attachments/assets/4a17303e-871e-4287-b324-df472d1eff43)
+![image](https://github.com/user-attachments/assets/f8211894-97eb-4c76-8560-0e8e8b215051)
+
+* Para Jumble -1. [2021]
+* exhortation -> a communication intended to urge or persuade -> encouraging people. [Meaning]
+* sequester -> keep away from others -> to hide. [Meaning]
+* them, this -> pronouns.
+* response -> needs support(antecedent).
+* 4 -> 3.
+
+![image](https://github.com/user-attachments/assets/e199877a-ed0c-4497-82b4-9eea56eb514e)
+![image](https://github.com/user-attachments/assets/b384b41e-cd40-479b-b11f-73ae85f1dbc1)
+![image](https://github.com/user-attachments/assets/d4476079-e777-4b32-bcd7-6e84ae16d03d)
+![image](https://github.com/user-attachments/assets/30925678-b319-4c8d-9944-7162a12aa502)
+
+* Answer -> 2143. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/3f295aa1-245e-4dcd-8b6b-f41cab67bac8)
+
+* Para Jumble -2. [2021]
+* 2 -> 3 -> 4 -> fish. [Block]
+* 1 -> other animals.
+* signals -> however.
+* their -> fish.
+
+![image](https://github.com/user-attachments/assets/1a11f6a3-9991-4f85-8a1d-7b0f9efa46cd)
+![image](https://github.com/user-attachments/assets/48555dd4-0328-46b1-ad57-658e853e6fbe)
+![image](https://github.com/user-attachments/assets/733d7bdd-ffae-438f-b680-60e69f37824b)
+![image](https://github.com/user-attachments/assets/2b7bf1ca-a55a-4ed7-9952-62e00cbdc23f)
+
+* Answer -> 2341. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/31d8802f-9545-4bc0-b459-60da2c792868)
+
+* Para Jumble -3. [2021]
+* polarity -> two poles.
+* 4 -> 3. [Block]
+* 43 -> It is the starting only.
+
+![image](https://github.com/user-attachments/assets/bf9d8d88-3dbe-4cfe-930c-874ea4d6bcc2)
+![image](https://github.com/user-attachments/assets/8626715c-2062-4b9c-85ec-4888d71d1c6a)
+![image](https://github.com/user-attachments/assets/bfbc6880-7d50-4fba-9aa0-59bb65b43210)
+![image](https://github.com/user-attachments/assets/4921198a-d41e-4b13-9f1c-884041baaece)
+
+* Answer -> 4312. [Solution] [**VERY IMPORTANT**] [Example] [Practice] [Try Again] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/3d0b68cd-a1f5-44f6-bcd9-ec7b2954dd64)
+
+* Para Jumble -4. [2021]
+* transitory -> lasting a very short time. [Meaning]
+
+![image](https://github.com/user-attachments/assets/1b514079-e47a-494f-ac85-203978e607b9)
+![image](https://github.com/user-attachments/assets/f33663b4-7703-4252-ac4c-097b4b0865ef)
+![image](https://github.com/user-attachments/assets/e741b921-3b40-44aa-ae8d-38ab74b3f235)
+![image](https://github.com/user-attachments/assets/dfc1eeb6-e3f8-404b-a4ab-c5586a612745)
+
+* Answer -> 2143. [Solution] [**VERY IMPORTANT**] [Example] [Practice] [Try Again] [Correct]
+
+![image](https://github.com/user-attachments/assets/1603e87c-ee8a-4522-ac2f-90fb0155b121)
+
+* Para Jumble -5. [2021]
+* hegemonic -> exercising power or authority. [Meaning]
+* 2 -> 1, 3 -> 1. [Wrong]
+* today -> now. [Wrong] [Trap]
+* 4 -> 1. [block]
+* 4 -> 1 -> 3.
+* We cannot put '2' in the middle.
+* 2 -> Starting.
+* 2 -> general claim -> broad statement.
+* 1 -> 3.
+* past -> present -> future.
+
+![image](https://github.com/user-attachments/assets/156b18b8-65c1-4a0a-8301-0df8649e33e3)
+![image](https://github.com/user-attachments/assets/6e07b6e2-5453-4a1f-b5d5-8ca6170d73db)
+![image](https://github.com/user-attachments/assets/e1ba5bfc-fa57-45f5-9bf5-faf185f12fb3)
+![image](https://github.com/user-attachments/assets/a5e0c35f-6c74-4ee7-9c74-6c504b6240ec)
+![image](https://github.com/user-attachments/assets/bcd5a89e-1647-460c-94bb-469f257c78ac)
+
+* Answer -> 2413. [Solution] [**VERY IMPORTANT**] [Example] [Practice] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/b71ee3e3-dd7d-4b7c-8ae6-818e5dd99400)
+
+* Para Jumble -6. [2021]
+* 1 -> 4.
+* 3 -> broad -> broader than '2' -> starting statement.
+* 2 -> Broad -> general claim.
+* 4 -> Narrow.
+* 3 -> 2.
+* 1,4 -> Examples.
+* look forward -> future.
+
+![image](https://github.com/user-attachments/assets/8dd785c2-23c9-4f23-831a-57766945ac2c)
+![image](https://github.com/user-attachments/assets/5b748cb0-f46b-4f07-ba2d-fed21fb6dd9b)
+![image](https://github.com/user-attachments/assets/9a1ebfb1-cb78-4ad2-8571-2e7760c95d1b)
+
+* Answer -> 3214. [Solution] [**VERY IMPORTANT**] [Example] [Practice] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/7ed363c9-b37c-4758-ac2f-2bc88f7dd967)
+![image](https://github.com/user-attachments/assets/95e23cb4-b2d3-4cfa-b784-93c772267f55)
+
+* Zooming in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Odd Sentence in a para(OS)
 
 ![image](https://github.com/user-attachments/assets/27802027-94f5-4645-af77-e66e1de3f01a)
 ![image](https://github.com/user-attachments/assets/38307feb-75c0-4313-bf35-e15f6742801d)
