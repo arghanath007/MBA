@@ -2715,6 +2715,49 @@
 * If we get **5+** questions out of the **8** questions in **VA** then a lot of stress is removed from solving the **RC** questions. [**VERY VERY IMPORTANT**] [Logic] [Summary] [Remember]
 * Learning -> Zoom, Echo, pronoun, signals. [**VERY IMPORTANT**] [Logic] [Summary]
 
+![image](https://github.com/user-attachments/assets/689083bc-633b-4d55-b276-a1205290a7b1)
+![image](https://github.com/user-attachments/assets/b00ec109-379d-44af-990a-b015f376d1b1)
+
+* Eliminate the **options**. [**VERY IMPORTANT**] [Logic]
+* Find the **missing statement** first. [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/58133acb-98ab-4ef2-a7eb-13a20afbe6fa)
+![image](https://github.com/user-attachments/assets/f2cdb002-4f76-4d65-a1cb-cfa9651488a4)
+
+* Sentence Placement(SP) -1. [Example] [Practice]
+* Zooming in.
+
+![image](https://github.com/user-attachments/assets/043eb078-c3ff-4742-9228-3dad05643431)
+![image](https://github.com/user-attachments/assets/a3ff8bfa-d5a2-40c0-8791-aa5541e729a8)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/134a3112-2080-45ba-8fa3-7bc373984eeb)
+![image](https://github.com/user-attachments/assets/84dab95e-0243-4e2c-a924-2f56ab95eac3)
+
+* Sentence Placement(SP) -2. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/216ebced-7b8a-422f-a94f-4ccf4b95d11f)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Practice
 
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=%208FaF9ecreU%3D&
