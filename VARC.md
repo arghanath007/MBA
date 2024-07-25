@@ -1444,6 +1444,130 @@
 ![image](https://github.com/user-attachments/assets/faf62a42-c9db-490a-bdfb-adb089b4fde6)
 ![image](https://github.com/user-attachments/assets/42636b57-29a5-4c65-8286-9627bab4c298)
 
+### Discussion
+
+![image](https://github.com/user-attachments/assets/9f782c34-3ca3-4395-bfde-91fcc8923e47)
+![image](https://github.com/user-attachments/assets/98157fda-3698-405d-902f-409764f0d7f8)
+![image](https://github.com/user-attachments/assets/81cb4ac0-d594-4644-a88a-314f423951ca)
+![image](https://github.com/user-attachments/assets/f01c5ff2-b319-4755-8831-b7f1aec9be35)
+![image](https://github.com/user-attachments/assets/f6f16191-1280-49d1-8c67-046052ec9282)
+
+* Para Summary(PS)-1. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/e8b15a3b-58c8-4f0f-804a-90738b3e39ac)
+![image](https://github.com/user-attachments/assets/07bed1b3-6826-42b0-ab6b-3c259bdfe31c)
+![image](https://github.com/user-attachments/assets/20f61484-df6f-43bf-abcf-2d0e86194897)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Correct] [Try again]
+
+![image](https://github.com/user-attachments/assets/301e6dad-c675-489d-87a2-b5d1c4c86c3c)
+![image](https://github.com/user-attachments/assets/71d94114-c242-4aae-bfe8-a7840aa34ab7)
+
+* Not True -> False -> This is **incorrect logic/inference**. [Logic] [**VERY IMPORTANT**] [Summary]
+* Not True -> Cannnot be determined(CBD) -> Uncertain. [Logic] [**VERY IMPORTANT**] [Summary]
+
+![image](https://github.com/user-attachments/assets/79578afc-9761-4826-b3bf-d2440a3ae079)
+![image](https://github.com/user-attachments/assets/eee346a1-081a-4c48-985c-774df3dadddf)
+
+1) Contradiction -> False
+2) Broad -> Uncertain.
+3) No man -> Extreme -> Uncertain.
+4) Family -> Alien -> Uncertain.
+5) Today's -> Narrow -> Uncertain.
+6) Tone Issue -> Uncertain.
+
+![image](https://github.com/user-attachments/assets/4eb232ec-df3f-45b1-a561-b39b592e0751)
+![image](https://github.com/user-attachments/assets/fd653cd0-e0c8-4927-bf2f-1cecbbfc41d1)
+![image](https://github.com/user-attachments/assets/4f1351f8-8718-4eaa-a303-e5056c520e71)
+
+* RC passage- 1. [2021] [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/c4d6f316-b8fe-4b49-81d4-f9c12c059e99)
+![image](https://github.com/user-attachments/assets/2691df04-1aae-452e-bec3-c17a7888f241)
+![image](https://github.com/user-attachments/assets/a4c0e7e2-4354-42fe-9106-9cf3a8337a7e)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/01d592a8-a8ad-440c-bafb-f551c72ae05a)
+![image](https://github.com/user-attachments/assets/70cb6797-ad24-403f-a80c-b550645cb1a2)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/b661b832-6cca-4f8c-87c0-b4faf16cdbc0)
+![image](https://github.com/user-attachments/assets/97090627-69e1-4a6f-a85d-5f9c2fb1cf13)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Correct] [Try again]
+
+![image](https://github.com/user-attachments/assets/5970683f-f1b6-4a97-a33c-1155fde719cb)
+![image](https://github.com/user-attachments/assets/59b9c411-1ff9-486e-8034-02bea28a9573)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Correct] [Try again]
+
+![image](https://github.com/user-attachments/assets/d7211283-855a-496c-8dd1-1d950195fc8c)
+![image](https://github.com/user-attachments/assets/79f2ad34-a819-4257-ad3c-87c8729dbc8b)
+
+* RC passage- 2. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/d1e074ab-6793-40e4-a673-1c0ebc36d5d5)
+![image](https://github.com/user-attachments/assets/c1640ac6-8c0c-4597-b393-6c8d31e516e1)
+![image](https://github.com/user-attachments/assets/6e1bced1-e3aa-4d06-89cb-50d8a4d406ab)
+![image](https://github.com/user-attachments/assets/59c60cba-e0ee-4cff-be85-2bf13958142e)
+
+* 1, 4 -> Alien.
+* 3 -> Side-trac.
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/0a59880f-e997-460a-982f-7d6056c88721)
+![image](https://github.com/user-attachments/assets/cc9b82ae-93e2-4000-bccd-7da390d65525)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Correct] [Try again]
+
+![image](https://github.com/user-attachments/assets/486a0cfc-c2d9-4a4e-a32f-009ccbe683e4)
+![image](https://github.com/user-attachments/assets/224b1542-9ed5-416b-bfdf-e11b01e44421)
+
+* 4 -> Extreme.
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/32db656b-7323-4982-98e8-819bcca7492b)
+![image](https://github.com/user-attachments/assets/856c0b22-d89f-43e4-b91b-67acaa5bf575)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+![image](https://github.com/user-attachments/assets/c6d8a569-f1d1-48f7-89e6-4f52e9544160)
+![image](https://github.com/user-attachments/assets/73858c99-6fd2-4783-9151-482487f7e902)
+
+* 1 -> Alien.
+* 1,2, 4 -> Extreme.
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Got Wrong] [Try again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## VA questions
 
 ![image](https://github.com/user-attachments/assets/0e87320b-9a80-4d2d-8b9d-c81ac4026f66)
