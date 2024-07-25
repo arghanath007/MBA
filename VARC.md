@@ -2404,6 +2404,142 @@
 2) Eliminate options.
 3) Read well.
 
+#### Practice
+
+![image](https://github.com/user-attachments/assets/be02b9c5-abe5-489e-9c93-11679027d744)
+![image](https://github.com/user-attachments/assets/0894b36d-7dcf-4e66-8d88-5861a2760687)
+
+* Trick. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e19ea9dd-f7f5-43e8-a01f-7b69f7bfd00b)
+
+* Para summary(PS) -1. [2021] [Example]
+
+![image](https://github.com/user-attachments/assets/367a4a82-7112-46a0-89c3-6d156d1c611d)
+![image](https://github.com/user-attachments/assets/2726e7e2-76b6-4d88-bb7c-4046aca7dd3b)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/b0bbfa46-0c5d-4da2-9c85-10220495fb71)
+![image](https://github.com/user-attachments/assets/c815cf02-0cfb-42d0-806d-e603841a2550)
+![image](https://github.com/user-attachments/assets/602c6165-dbdd-45ec-833f-08684cbba4d2)
+
+* Para summary(PS) -2. [Example]
+
+![image](https://github.com/user-attachments/assets/3313a8ae-a21e-4f95-af75-a27536e8284f)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/34492193-2388-482d-8b93-24cf6927d0ac)
+
+* Para summary(PS) -3. [Example]
+
+![image](https://github.com/user-attachments/assets/f37f8758-954a-4353-bb70-1d46c0665bb7)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/8c78476e-7de4-428c-b253-1abc94d9038f)
+![image](https://github.com/user-attachments/assets/28a3a88d-e926-49e8-acb1-1dfb58824287)
+![image](https://github.com/user-attachments/assets/480b5f9a-b39b-412c-95f6-cf9370168eb8)
+
+1) There is no **perfect summary**. We should always look for a problem. [**VERY IMPORTANT**] [Logic] [Trick] [Summary]
+2) Alien.
+
+![image](https://github.com/user-attachments/assets/a7650e8c-b80e-4277-bb00-2762eb321509)
+
+* Para summary(PS) -4. [Example]
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong]
+* All 3 options are **fine**.
+
+![image](https://github.com/user-attachments/assets/3db6ec27-6ec1-4162-8946-5c7c0775123a)
+![image](https://github.com/user-attachments/assets/9be750ec-8f03-4ea8-ad2c-861cd3fd0244)
+![image](https://github.com/user-attachments/assets/996105d9-ddbf-4124-850b-05f03ee39b8a)
+![image](https://github.com/user-attachments/assets/c362a171-4ca4-433c-b9fd-7be38aa91e5b)
+
+* Para summary(PS) -5. [Example]
+* no notice -> extreme word.
+* prejudice -> a partiality that prevents objective consideration of an issue or situation. [Meaning]
+* shunning -> deliberately avoiding; keeping away from or preventing from happening. [Meaning]
+* Shunning -> avoid their faults. [Echo]
+* 2 -> hold.
+* 4 -> did not know them well -> Wrong.
+* 4 -> Tone mismatch.
+
+![image](https://github.com/user-attachments/assets/915b2a63-8b97-4415-8abe-c3fec281a74e)
+![image](https://github.com/user-attachments/assets/47adc74f-69be-45ce-bef4-65ab1fe7839e)
+![image](https://github.com/user-attachments/assets/5dacb28e-5560-485d-81e4-444196d52f7d)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice]
+
+![image](https://github.com/user-attachments/assets/4936fe09-3640-4537-b5b1-b7210e3df11b)
+
+* Para summary(PS) -5. [Example]
+* 1 -> extreme.
+
+![image](https://github.com/user-attachments/assets/13566aa9-dfa8-4f6f-aeb8-5a656fc28d33)
+![image](https://github.com/user-attachments/assets/f1e40f9f-056a-455d-9c16-e6faefb5f320)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice]
+
+![image](https://github.com/user-attachments/assets/adb23bcb-c37f-472e-8564-fdc158356eac)
+
+* Para summary(PS) -6. [Example]
+* 1 -> research -> wrong.
+
+![image](https://github.com/user-attachments/assets/69e5847b-a144-4243-9bb4-ab44bde9cace)
+![image](https://github.com/user-attachments/assets/ec1ab816-3674-4a6c-b9ae-5bd1444a9d80)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice]
+
+![image](https://github.com/user-attachments/assets/4e5d5bc3-5613-432e-ac2d-e5c5d7c057f9)
+
+* Para summary(PS) -7. [Example]
+
+![image](https://github.com/user-attachments/assets/fc7ae482-21fb-42c5-90e4-ccdb3175a145)
+![image](https://github.com/user-attachments/assets/469cc780-fc8d-4795-813e-3fe2fc1f6e31)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Para Jumble(PJ)
 
 ![image](https://github.com/user-attachments/assets/755ee1c7-328a-462c-a16f-cd7ebc141db8)
@@ -2741,22 +2877,106 @@
 
 * Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/738d9b03-278c-4a09-ba22-e66aff0382e2)
 
+* Sentence Placement(SP) -3. [Example] [Practice]
 
+![image](https://github.com/user-attachments/assets/3a51b79e-f07d-41dc-9567-dee33080ca3e)
+![image](https://github.com/user-attachments/assets/50ebbfe3-1346-4115-b290-8fb813bae5d4)
 
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/d26efb62-ce94-479e-8264-989d4448d7d3)
+![image](https://github.com/user-attachments/assets/8395e2ce-0741-4a28-9feb-6cb49c5ea99d)
 
+* Sentence Placement(SP) -4. [Example] [Practice]
+* such experiences -> We need to find the word **experience** in the passage.
+* 2 -> Understood -> Wrong. 
 
+![image](https://github.com/user-attachments/assets/189431d8-c9e7-40d7-9be1-a3f17163eb7f)
 
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5a43e46c-68af-4ca5-b455-c20f27358047)
+![image](https://github.com/user-attachments/assets/2c7d36ea-4f94-40d4-9fff-bf439e47647e)
 
+* Sentence Placement(SP) -5. [Example] [Practice]
+* Philosophy -> philosophical -> 4. [Block]
 
+![image](https://github.com/user-attachments/assets/e1b944cb-4ba3-4540-a8cc-19906cd98c9e)
+![image](https://github.com/user-attachments/assets/33ae855c-1f5c-4ff2-b429-5d5f727234af)
+![image](https://github.com/user-attachments/assets/3c9c4715-fe5d-4c85-94ad-bec1bbd831f0)
 
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/c3e88e4a-33ad-4b1d-9cad-e6686b30f217)
+![image](https://github.com/user-attachments/assets/fb765bf7-2e3e-4eac-9204-82e36f39c521)
+![image](https://github.com/user-attachments/assets/ea8c23ce-b404-4340-9491-a9f443ce595d)
 
+* Sentence Placement(SP) -6. [Example] [Practice]
+* sentient -> able to perceive or feel things.
 
+![image](https://github.com/user-attachments/assets/7719daf3-5321-4a9f-93ad-9ceb609bbaf2)
 
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5826cefe-e199-4ab0-a474-4ec84f9659f0)
+![image](https://github.com/user-attachments/assets/88c33b6b-14db-40f0-b8a4-12e95f86763c)
+
+* Sentence Placement(SP) -7. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/0e543122-5559-467a-b139-eb5447266276)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/13b8c7c8-4e7d-4dc6-81e1-9e3c299a9154)
+![image](https://github.com/user-attachments/assets/c0802b1b-726c-4953-9ca7-624aa74f4205)
+
+* Sentence Placement(SP) -8. [Example] [Practice]
+* ubiquitous -> being present everywhere at once. [Meaning]
+
+![image](https://github.com/user-attachments/assets/6b4c853c-5a82-4d0e-997c-c7d94376c66f)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/4b527ec5-22c6-46de-899f-eb9124149a56)
+![image](https://github.com/user-attachments/assets/d8229d5b-a524-4cce-a19b-5b761b408d37)
+![image](https://github.com/user-attachments/assets/dcf01753-87cd-4f55-9b2d-f35de7e73f8f)
+
+* Sentence Placement(SP) -9. [Example] [Practice]
+* on the other hand -> transition that is happening.
+
+![image](https://github.com/user-attachments/assets/dddc3ae9-5999-4bf6-b42a-0168f7ef9257)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/da59bef8-aa31-4890-9fed-e9f44cb8e59d)
+![image](https://github.com/user-attachments/assets/a187c824-0a9c-4c44-badb-46d6ffae0aa6)
+
+* Sentence Placement(SP) - 10. [Example] [Practice]
+* we -> human beings. [Echo]
+
+![image](https://github.com/user-attachments/assets/4a98ea08-c591-439f-b7a4-32d75dc1a80c)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/92273a94-68e0-4c40-9a44-71df7ded8313)
+![image](https://github.com/user-attachments/assets/242677c7-e316-4a09-9d8a-d897745b3471)
+
+* Sentence Placement(SP) - 11. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/36e76567-c793-4d1a-ac8f-50c4e44ff225)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/b2156209-ca52-438b-b557-2c70300021ff)
+![image](https://github.com/user-attachments/assets/9c22fea4-7489-4160-983d-f4c0b4f17cf7)
+
+* Sentence Placement(SP) - 12. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/e81ce193-cdcb-47f9-95be-c71b8471eb34)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
 ### Practice
 
