@@ -2978,6 +2978,91 @@
 
 * Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/b29585a8-e82e-4b73-860f-c8838261484d)
+
+* Sentence Placement(SP) - 13. [Example] [Practice]
+* Sentence -> Good opening statement.
+
+![image](https://github.com/user-attachments/assets/a9360707-28cb-43f9-b436-e496ac664a6a)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/f18fc813-3ca5-484b-ac69-22254a477c28)
+
+* Sentence Placement(SP) - 14. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/6bfae1bf-9603-44bb-bd48-656be965a174)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/9050c3fc-ab73-494e-a630-89a2c333ed1f)
+
+* Sentence Placement(SP) - 15. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/4eb4e3ac-6743-4299-9db5-72c9abdd80c7)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/b220510c-3062-4a75-8ea3-6c603b5b2ff3)
+
+* Sentence Placement(SP) - 16. [Example] [Practice]
+* Statement -> Broad.
+* 3 -> Too narrow.
+* 4 -> Therefore, in summary, in conclusion.
+
+![image](https://github.com/user-attachments/assets/6f857627-847a-4fa0-833b-77be348f5170)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/dec33ca9-991f-4a08-88c2-875c95ca5790)
+
+* Para Summary(PS) - 17. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/cb8e5aab-1f1c-4ea5-8322-ad96a9705847)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/837b7114-9f17-49b5-9a8c-6409d698cf76)
+
+* Para Summary(PS) - 18. [Example] [Practice]
+* 2 is better than 4.
+
+![image](https://github.com/user-attachments/assets/ef09a22e-ba9c-4a12-91a3-5db86e79b749)
+![image](https://github.com/user-attachments/assets/a411bb8d-1ce3-49ef-92f1-387195b57a73)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/4d6ced98-39b3-452b-ace4-a745e5d2ecc3)
+
+* Para Summary(PS) - 19. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/6caa3c69-21bb-4ea1-8502-2baa730fb9fc)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Practice
 
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=%208FaF9ecreU%3D&
