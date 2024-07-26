@@ -3164,6 +3164,207 @@
 
 * Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/8f3394dd-0c51-4dbe-841f-27f247e8ae88)
+![image](https://github.com/user-attachments/assets/d6f3be9a-8882-4806-8fc9-a88191e84372)
+
+* RC - 20. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/f9e1a85c-27cc-4246-95d4-3ec60cbca1f3)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/8a1905a2-ea46-4510-8949-b322240d8f4d)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/58375adb-88e2-4f1b-a525-88259d0d4ed3)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/2ef31b95-163b-477b-8339-0e17acf31a32)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/df9a0e5c-96b5-4b21-b757-5231e95a1750)
+
+* 3.
+
+![image](https://github.com/user-attachments/assets/ff768173-2ad8-46e3-a0f5-3a4e8308bba0)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/bac7bd98-b91a-46bd-8f94-e24a9e1a8c0f)
+
+* 4.
+
+![image](https://github.com/user-attachments/assets/daf6c511-e6c6-4d31-8599-b297c3bd266c)
+
+* 1,4 -> negative.
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/8a3fae78-7d09-4f11-a503-7629a4bc509a)
+![image](https://github.com/user-attachments/assets/a909bc18-4278-4971-a6de-4a360cebc0a9)
+
+* RC - 21. [Example] [Practice]
+* omnipotent -> having unlimited power. [Meaning]
+* omniscient -> infinitely wise. [Meaning]
+* pantheist -> someone who believes that God and the universe are the same. [Meaning]
+
+![image](https://github.com/user-attachments/assets/7985bd40-015a-4f97-8505-c15c5a16246d)
+
+* 1
+* 2 -> Alien.
+* 3 -> contribute -> Alien.
+
+![image](https://github.com/user-attachments/assets/627d1e20-95ac-4bb6-adf7-2b0807fcd179)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/5d62f575-3701-498e-b76d-9c0fc5e508c4)
+
+* 2.
+
+![image](https://github.com/user-attachments/assets/f9181157-f7bc-4612-b99b-2f2fbf17ca70)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/443da85b-34ff-4cae-957d-d32121389c84)
+
+* 3.
+
+![image](https://github.com/user-attachments/assets/3ef82312-6c2d-4bd8-9596-68e6a25e2664)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/7ad2d87f-b568-4525-8327-c367b7d07370)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/31eae801-0a7c-409a-98e1-7d1ffe187c5a)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/90835740-7cef-4aca-8777-119638446e1c)
+![image](https://github.com/user-attachments/assets/a16d1ebe-9e33-4201-8199-652de4c9df5e)
+
+* RC - 22. [Example] [Practice]
+* phil -> love.
+* Topophilia -> It refers to the feeling of affection or love towards a particular place or environment. [Meaning]
+* phobia -> an anxiety disorder characterized by extreme and irrational fear of simple things or social situations -> Fear. [Meaning]
+
+![image](https://github.com/user-attachments/assets/6e97afd2-e8b3-4fc9-a413-cacd8302bd6d)
+![image](https://github.com/user-attachments/assets/1cd784e1-8e08-4d04-a06e-b33953721e74)
+
+* 1
+* dread -> fearful expectation or anticipation -> causing fear or dread or terror. [Meaning]
+* 2 -> Alien.
+
+![image](https://github.com/user-attachments/assets/0017e9fc-7109-474d-be13-d4ad682c1f0d)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/6f7e85dc-ef6d-4310-ad3f-166f32346c35)
+
+* 2.
+
+![image](https://github.com/user-attachments/assets/a9894c1b-b78a-407a-99fd-214bc8a02567)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/34008191-096c-427b-8002-fbe4173403a8)
+
+* 3
+* 1 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/f7c9f788-dabc-4b29-972d-d928804403ec)
+![image](https://github.com/user-attachments/assets/7f59600d-d7dc-4660-81fa-82ee00f7ddd4)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/81a7b834-06e4-486c-b1f0-9e5a2915eaf6)
+
+* 4.
+* 1, 3 -> Alien.
+* 4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/04cd0460-6fca-43bc-9e1d-d2cf18273c19)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1104372c-56e7-4007-ae16-207597bed9aa)
+
+* 5.
+
+![image](https://github.com/user-attachments/assets/c936b327-39de-43bd-87bf-eb365faf39e0)
+![image](https://github.com/user-attachments/assets/ef6e5cdf-dfdc-4a4e-a9bb-a2a256601fee)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/9c7a823c-9d50-4676-b718-1eb87da8df16)
+
+* RC learning. [Summary] [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/2ad95526-c12d-432c-a75b-4b7dd73af3a0)
+
+* RC - 23. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/c4c8735d-ddfb-40ce-9efe-836d2557ecba)
+![image](https://github.com/user-attachments/assets/d33c7299-84fe-4ee7-a1db-a23df9904fda)
+
+* 1
+* 3 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/bf5da0f3-6f45-4997-b922-edd0661a2f31)
+![image](https://github.com/user-attachments/assets/c93e45d3-e517-49c0-8c23-65b0d5d6f8da)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e2f43ee2-f850-4f68-abcb-ffe34866f454)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/933aa133-3a9b-433a-8128-3130b3e98751)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1727cd4f-00fc-472a-84ad-32b4bddd868a)
+
+* 3
+* 1 -> Tone mis-match.
+
+![image](https://github.com/user-attachments/assets/eea38590-c867-4e76-ab27-90be49f24d34)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/2b2ea44f-c175-4073-8298-f1a4f73531db)
+
+* 4.
+
+![image](https://github.com/user-attachments/assets/0832a541-9fc4-40a9-bc35-26335cd4acd1)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/f8a09033-2ba3-4770-ab07-5421ca18fd9a)
+
+* 5
+
+![image](https://github.com/user-attachments/assets/c90270dd-dbf5-403e-8633-699a7ea65715)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Gt Wrongg] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5578,7 +5779,7 @@
 
 
 
-## Module 5 (Rc practice)
+## Module 5 (RC practice)
 
 * RC - 1
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=GE%2FELaBVl9g%3D$
