@@ -3350,26 +3350,50 @@
 
 ![image](https://github.com/user-attachments/assets/c90270dd-dbf5-403e-8633-699a7ea65715)
 
-* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Gt Wrongg] [Practice Again]
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/47a679b7-4bf2-449b-a549-b2ddec61451f)
+![image](https://github.com/user-attachments/assets/117dd0c0-a048-4cbd-bb08-57aa54d6d0ec)
 
+* RC - 24. [Example] [Practice]
 
+![image](https://github.com/user-attachments/assets/9f3e29c1-be1b-4f48-b1c0-27d40c14e544)
+![image](https://github.com/user-attachments/assets/12f5c0e4-5514-4036-b480-a4a2b21f3f73)
+![image](https://github.com/user-attachments/assets/89c9bbd2-2b72-4f5f-8e24-0c7def71e0ca)
 
+* 1
 
+![image](https://github.com/user-attachments/assets/d1b298a1-1e4c-4cc9-be0b-13dacc6f8655)
 
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/f595a239-9141-48a9-9cba-7ff847ec41d8)
 
+* 2
 
+![image](https://github.com/user-attachments/assets/0e3e5450-f612-4027-a925-ae97f313ec90)
+![image](https://github.com/user-attachments/assets/48f553fa-bb8f-4d0e-a174-37f197de4747)
 
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/afaf25a8-391c-4224-90e5-b474cb2b487e)
 
+* 3
 
+![image](https://github.com/user-attachments/assets/69ca51ac-3233-4cfe-8a98-938d6c6f1167)
 
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/8b9fe6fe-53ed-4266-8dd2-35d284814e2c)
 
+* 4
+* Contradiction -> opposition between two conflicting forces or ideas. [Meaning]
 
+![image](https://github.com/user-attachments/assets/28a7e93a-a3fd-4738-bfbe-5319daa3801e)
 
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/c4f4f417-6254-424c-9109-1102d96df469)
 
 
 
