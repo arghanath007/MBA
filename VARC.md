@@ -3394,12 +3394,213 @@
 * Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
 ![image](https://github.com/user-attachments/assets/c4f4f417-6254-424c-9109-1102d96df469)
+![image](https://github.com/user-attachments/assets/0e14a665-023e-4cf2-a8ce-594ee1991821)
+![image](https://github.com/user-attachments/assets/62e2ddd9-c1cb-4fe6-ade0-36455fa06b2b)
+
+* RC - 25. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/7a1f1cfb-e103-44f6-ab0c-aa733bd288cf)
+![image](https://github.com/user-attachments/assets/43ccccb6-7550-4a21-8ca1-ad5f08f8b971)
+![image](https://github.com/user-attachments/assets/bae0ee89-cb72-4893-a099-0b416e014b83)
+
+* 1
+* 1 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/29f06a95-2cf6-4569-9d5d-2c5c0ba16207)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d6e766ff-06ef-4922-9b0d-d53e06a513d1)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/3f8d4947-78a5-403e-a4d5-8d72e3adf568)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/04ae6f98-064c-4b37-b26e-ce0233522d04)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/975d2152-81e1-4ca3-bae1-d1a763e95f76)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/75a226a5-c0d0-4bc6-aa92-96c2213230b3)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/d066954c-bd07-4bba-bb9c-422785b42c34)
+![image](https://github.com/user-attachments/assets/35f0b9a1-19c8-4e72-b435-bcd087919604)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/bd3209b8-8c1d-4cde-941a-2453dddf7bd4)
+
+* RC - 26. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/f2b1ab05-a946-40c9-bbe3-d9b8f9d10d8b)
+![image](https://github.com/user-attachments/assets/53cc389a-d758-4e8c-b787-f3a046a762c3)
+
+* 1
+* 2,3,4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/9ca6bef1-022e-4809-b2ab-586043c10d0a)
+![image](https://github.com/user-attachments/assets/79975313-71ce-417c-992b-7cf64d0d20b5)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/838d8975-7488-4530-8854-f7dc070461dd)
+
+* 2
+* pagan -> a person who follows a polytheistic or pre-Christian religion (not a Christian or Muslim or Jew). [Meaning]
+* Pagan -> heathen. [Echo]
+* heathen -> a person who does not acknowledge your god. [Meaning]
+* fashionable -> being or in accordance with current social fashions. [Meaning]
+
+![image](https://github.com/user-attachments/assets/673d771a-f1ef-4473-b501-ed7602e66ade)
+![image](https://github.com/user-attachments/assets/ea8c4d02-69d6-4ed9-94c6-7ce0e87d91bf)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/89a041e3-d201-4748-bcb6-960b7782f709)
+
+* 3
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/baec65d2-de47-4034-ac0a-ac331407314d)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/e7e4d8f1-aadf-49f8-b0aa-12889f8d0efe)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/b95351d6-bc44-4c63-9994-d5012b8c3398)
+
+* 5
+* 2 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/4337ca9c-ae92-47d5-926f-20dda5443d44)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1e346576-3c70-489d-b603-e57c34085a82)
+![image](https://github.com/user-attachments/assets/11a84531-4bb4-40ad-af98-35f56bd6e6d1)
+![image](https://github.com/user-attachments/assets/d0c64c95-2ef9-40ed-b2bf-fc7261d248ad)
+![image](https://github.com/user-attachments/assets/bcf9438d-44a0-4f8f-a3ca-78dcdf6ee918)
+![image](https://github.com/user-attachments/assets/78d5f526-992f-4ca7-a893-99f60fa781b8)
+
+* Questions.
+
+![image](https://github.com/user-attachments/assets/428311d9-d913-4c78-87c3-3bb8ca61a4a9)
+![image](https://github.com/user-attachments/assets/6abda655-1cc9-463b-8644-29c855bb89a6)
+![image](https://github.com/user-attachments/assets/f35a7d74-c28f-46b0-bdad-213070f5e24d)
+
+* RC - 27. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/46aa88f5-dc74-489f-891e-09a39cb289fc)
+![image](https://github.com/user-attachments/assets/d8514370-9058-4f10-a436-5b6717f09748)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/68209e64-594d-4d64-b3bc-e94cbb6e2b3a)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/4d0e7c74-0ea9-48b2-8869-301c3f84269a)
+
+* 2
+* 2 -> extreme.
+
+![image](https://github.com/user-attachments/assets/4b323a4c-eb30-4ed5-a6c2-b19434c00223)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/2bb3ef35-bff7-491f-9a88-c5334b0faea9)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/d30e6fd0-e039-4442-9db6-6a5c20b85e3c)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/da75ba17-84c1-49fd-851b-4194245b62df)
+
+* 4
+* covenant -> a signed written agreement between two or more parties (nations) to perform some action. [Meaning]
+
+![image](https://github.com/user-attachments/assets/dd5a203f-f7a0-4d82-8ef1-f44d73961e0d)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/4c4c0680-46fa-4cb8-802e-1f4b0c76a4d7)
+
+* 5
+
+![image](https://github.com/user-attachments/assets/ae6e4eb9-76e9-4ce5-92ab-e7f5728f9203)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/4a83ea86-cc04-4b76-8609-8fb36b6b3b1e)
+![image](https://github.com/user-attachments/assets/c715346a-bf76-4362-85e3-03315b76c97f)
+
+* Philosophy.
+
+![image](https://github.com/user-attachments/assets/64259e7b-86e6-4753-b361-fa2d4a2bacb6)
+![image](https://github.com/user-attachments/assets/e4e439eb-2065-4b63-9fc8-593cdbe204f0)
+![image](https://github.com/user-attachments/assets/db3afb92-69a4-45dd-bf01-e6ca1b83daca)
+![image](https://github.com/user-attachments/assets/319d1191-6d62-4bd9-95a5-9aec5e119011)
+![image](https://github.com/user-attachments/assets/d2802478-f4bd-4f91-aabc-ee563c8f2db0)
 
 
+* RC - 28. [Example] [Practice] [2021]
+* ken -> range of what one can know or understand. [Meaning]
 
+![image](https://github.com/user-attachments/assets/7f7a3beb-288d-469c-8509-8490c4608ff7)
+![image](https://github.com/user-attachments/assets/2d0eaced-cd93-4b08-b55a-ea394fd22deb)
+![image](https://github.com/user-attachments/assets/0268afbd-adef-4ce0-9fc8-c180c016dc9d)
 
+* 1
+* 2 -> Side-track.
 
+![image](https://github.com/user-attachments/assets/aa5cbffc-5f2e-4c40-8730-4da3b8ef555e)
+![image](https://github.com/user-attachments/assets/a6811d42-66e5-46ac-b285-2917b4d79175)
 
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/6815b7d4-c1b7-4ce6-8742-1021c02dd208)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/129f719d-21e6-4e69-a74f-ae8de0e3b6b9)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/9338406a-0981-4d50-83b1-9afe0281be69)
+
+* 3
+* 2,3 -> Side-track
+
+![image](https://github.com/user-attachments/assets/c12751e8-3435-4013-a44a-f34dd2676615)
+![image](https://github.com/user-attachments/assets/f5877bba-90fd-4895-94e8-02fe02bc4550)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/da032038-a45b-4237-ac0e-e08bc86852db)
+
+* 4
+* 2 -> Extreme -> BEAST.
+
+![image](https://github.com/user-attachments/assets/1300232a-d19b-40bd-b2a2-d57ed08b68ed)
+![image](https://github.com/user-attachments/assets/01efb566-650d-444c-badd-bdb4bf9dbb46)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/88c5b8a6-19e4-4007-8dc7-29222a907553)
+![image](https://github.com/user-attachments/assets/b9dea3f7-de17-4cbd-94a3-6d8e069e1444)
+
+* Chunk -> Key Ideas -> BEAST. [Summary] [**VERY IMPORTANT**] [Logic]
 
 
 
