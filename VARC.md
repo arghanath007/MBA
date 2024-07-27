@@ -3690,6 +3690,64 @@
 
 * Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/82c4ce11-c204-4c3c-b4b6-0d212a2949c5)
+![image](https://github.com/user-attachments/assets/2a83e226-da8b-4adb-82bf-97ec04dd3837)
+![image](https://github.com/user-attachments/assets/25a48a27-6395-43ec-9d70-d2174ba44605)
+![image](https://github.com/user-attachments/assets/6cbb2eee-6a39-4bfd-99a3-1e954a1921c1)
+![image](https://github.com/user-attachments/assets/d79bd916-4742-401d-bffb-0b6d094bfcf2)
+![image](https://github.com/user-attachments/assets/8754bed2-b49c-4dee-90ca-7b8d34af9333)
+![image](https://github.com/user-attachments/assets/889c8654-e493-448b-a861-185c96c1db6f)
+
+* RC - 31. [Example] [Practice] [2019]
+
+![image](https://github.com/user-attachments/assets/339b6912-bbc5-487a-a0bc-d07323eb4d3b)
+![image](https://github.com/user-attachments/assets/17260e44-3af1-4b98-af32-40b7c7e190e3)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/b7e7adfd-8a5a-46f9-9e04-7609803a4343)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d57a77fd-a289-4615-a3c1-438caa6c2a28)
+
+* 2
+* paradoxically -> in a paradoxical manner. [Meaning]
+* 4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/4d94a617-607b-4fac-bf05-4cff0846f7c4)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/0c436b27-2270-44c9-83b0-1c212d02272a)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/91a4bb64-0dfc-40d5-895f-eba9114f8c09)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/f58df09e-96fe-4c7d-af71-bc79da446109)
+
+* 4
+* breed -> reproduction process.
+* 1,3,4 -> Helps.
+
+![image](https://github.com/user-attachments/assets/e1711135-978c-4412-83b8-e38c7cc5797f)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/b3141395-6159-4638-8fa1-418a130b8e3a)
+![image](https://github.com/user-attachments/assets/095399ec-140d-4ce6-aac6-978f7a70aae1)
+![image](https://github.com/user-attachments/assets/6bff9e17-74a6-46b8-a80d-17f14395b638)
+![image](https://github.com/user-attachments/assets/31f5ddbe-fc39-4b6b-8fe6-8a6f8fda2794)
+![image](https://github.com/user-attachments/assets/c791540d-ef61-4fc0-acf4-df777bf691ac)
+
+* RC - 32. [Example] [Practice] [2020]
+
+
+
+
 
 
 
