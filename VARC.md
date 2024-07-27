@@ -3649,21 +3649,46 @@
 
 * Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/bacc0026-21e8-4e5f-b6f1-aff6248d48cc)
+![image](https://github.com/user-attachments/assets/b6fb069b-6987-4140-ba3f-304d08fe8f87)
 
+* RC - 30. [Example] [Practice] [2022]
 
+![image](https://github.com/user-attachments/assets/a353b02f-4e47-4bd0-a241-048fead293e7)
 
+* 1
+* 1 -> Negative tone.
 
+![image](https://github.com/user-attachments/assets/eb677d10-e741-45c9-b59f-490052902d39)
 
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/8be8ef76-122c-4e01-b72c-994450468c52)
 
+* 2
+* not unlike -> similar.
 
+![image](https://github.com/user-attachments/assets/a0900cf2-6678-4bb5-b452-382327e7aedf)
 
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5222cd46-9c61-4766-8eba-427f9f8c1143)
 
+* 3
+* 2 -> Side-track.
 
+![image](https://github.com/user-attachments/assets/1242d1ae-5f5f-4219-98e5-c18c07166fd9)
 
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5ba27476-a6d9-4f6b-a952-9db2726ed566)
 
+* 4
+* 1 -> Extreme, side-track.
+
+![image](https://github.com/user-attachments/assets/5beb0a50-51e8-43bf-bc55-f94f60f68711)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
 
 
 
