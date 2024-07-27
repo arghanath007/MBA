@@ -1236,18 +1236,21 @@
 
 * Answer -> 3 [Correct] [Practice] [**VERY IMORTANT**] [Try again]
 
-
-
-
-
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/5e6a8f16-740a-4fc4-bb38-04ce2c308d10)
 ![image](https://github.com/user-attachments/assets/85cf3e0b-ce02-44e9-9ef6-e26e50cdabfd)
 ![image](https://github.com/user-attachments/assets/fa30dd9f-d5f2-4a01-85aa-cc7e1f006aba)
+![image](https://github.com/user-attachments/assets/58cc05af-8093-4db1-8d28-4bc2abacfbbb)
+![image](https://github.com/user-attachments/assets/4ec6dcfb-dd6f-43d1-949a-3d40fba82013)
+![image](https://github.com/user-attachments/assets/0f7d123c-22e8-488d-aede-9e17fc3ad3c0)
+![image](https://github.com/user-attachments/assets/0573cb53-e0ee-449a-a3c7-9bf464231633)
+![image](https://github.com/user-attachments/assets/8c728002-de81-4fab-8ea0-4cec5bd52365)
+![image](https://github.com/user-attachments/assets/075f3f48-7c8f-4cd1-9290-91170eea88bb)
+![image](https://github.com/user-attachments/assets/8e7515ce-10b5-48a5-a1bf-2ee478a09d17)
+![image](https://github.com/user-attachments/assets/f56979cd-5fee-411a-9945-216495dea366)
+![image](https://github.com/user-attachments/assets/ad5b91f9-4565-43b6-b23d-d1986fabe09c)
+![image](https://github.com/user-attachments/assets/36814591-aae1-4687-a5f5-b28d7e418c6c)
+
+
 
 * Understanding, learnings. [**VERY IMORTANT**] [Summary]
 
