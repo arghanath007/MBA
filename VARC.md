@@ -3553,7 +3553,6 @@
 ![image](https://github.com/user-attachments/assets/319d1191-6d62-4bd9-95a5-9aec5e119011)
 ![image](https://github.com/user-attachments/assets/d2802478-f4bd-4f91-aabc-ee563c8f2db0)
 
-
 * RC - 28. [Example] [Practice] [2021]
 * ken -> range of what one can know or understand. [Meaning]
 
@@ -3601,6 +3600,73 @@
 ![image](https://github.com/user-attachments/assets/b9dea3f7-de17-4cbd-94a3-6d8e069e1444)
 
 * Chunk -> Key Ideas -> BEAST. [Summary] [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/da12c70a-b012-4b1d-92f1-c7bb954af64f)
+
+* [Summary] [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/f9308e33-e38e-49a9-81f0-039dad249829)
+![image](https://github.com/user-attachments/assets/ec4f74be-4e3a-43c5-8bd0-f95297007baf)
+![image](https://github.com/user-attachments/assets/4d6bcdd8-3926-4376-be4d-b5f355b21fa6)
+
+* RC - 29. [Example] [Practice] [2022]
+
+![image](https://github.com/user-attachments/assets/2ff91d47-eee0-4cd7-bd89-d7120a259072)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/56439b52-42e6-4c58-9956-b015ebbcce90)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/77c2803d-0544-4487-b9ee-80f37bb9ae23)
+
+* 2
+* 1,2 -> Side-track.
+* 4 -> False.
+
+![image](https://github.com/user-attachments/assets/897dfd1a-9af5-481b-b10c-32f6104a2895)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/4b85a607-97a5-45c5-898a-29f969177c4d)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/0834e26c-262b-4faf-821a-90faa9282beb)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/780dd334-0b71-4670-a967-24fb74ffb1eb)
+
+* 4
+* 1 -> Not iniate.
+
+![image](https://github.com/user-attachments/assets/1dc04da8-f4e9-492a-ad35-ee5b879f8aaa)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
