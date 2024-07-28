@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/user-attachments/assets/5ec237a7-1658-48d8-adc4-05fb428c0e7b)# VARC
 
 # Rodha 
 
@@ -3744,13 +3744,208 @@
 ![image](https://github.com/user-attachments/assets/c791540d-ef61-4fc0-acf4-df777bf691ac)
 
 * RC - 32. [Example] [Practice] [2020]
+* Seem -> problematic. 
 
+![image](https://github.com/user-attachments/assets/d50557ef-e757-4fc0-b13e-c8d2f3004281)
+![image](https://github.com/user-attachments/assets/f52d6e87-458f-41f7-9e8c-12d2dd88afb0)
+![image](https://github.com/user-attachments/assets/38164df5-3042-434b-b92f-367d5f2c8823)
 
+* 1
+* 4 -> Extreme, tone mis-match.
 
+![image](https://github.com/user-attachments/assets/937371d5-3765-4776-bf92-578da0f7fa00)
+![image](https://github.com/user-attachments/assets/e5a78e01-c407-45f4-b44f-65cec4a980ae)
 
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/b63ce44f-4de1-4960-8e0f-59240d389b0e)
 
+* 2
 
+![image](https://github.com/user-attachments/assets/89c2c7f0-609c-414a-bcf3-6164b5f160e5)
+
+* If false -> Logic. [**VERY IMPORTANT**] [Logic]
+* If false -> strengthens/supports.
+* If True -> weakens.
+
+![image](https://github.com/user-attachments/assets/5eee6f3f-994c-4eac-914d-b436f7ae425e)
+![image](https://github.com/user-attachments/assets/5e1c8fca-5ea8-4fe0-af56-3036164c4389)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/35d8e177-8b65-40e4-9194-0b7cbde27d6e)
+
+* 3
+* 1 -> only -> extreme.
+* 2 -> efficiency -> alien.
+* 3 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/3ef5fc1b-3d7c-4542-ae57-96b0d1cc0e9e)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/95754faa-963c-480d-8231-e3eb8098c63f)
+
+* 4
+* 1 -> Extreme.
+* 4 -> most -> red flag -> BEAST -> trap.
+
+![image](https://github.com/user-attachments/assets/3c6dc85c-0595-4ab5-a3d9-cb4e059f385f)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/15e087cf-36b1-41f7-bac1-58c465a67f19)
+
+* 5
+
+![image](https://github.com/user-attachments/assets/1f8f0c80-36a3-4d72-bc81-a58286b1577c)
+![image](https://github.com/user-attachments/assets/166d63c4-2af1-4c66-b8a3-1582c098df22)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/675bb1bd-d524-458d-a345-5549b9618282)
+![image](https://github.com/user-attachments/assets/427e30cf-c9ac-4543-b229-bd2db4632a7a)
+![image](https://github.com/user-attachments/assets/096caad8-1ee8-4a54-9875-bc10394ac08d)
+![image](https://github.com/user-attachments/assets/ffe3d8e9-60f3-4420-869d-37114d65306b)
+
+* RC - 33. [Example] [Practice] [2021]
+
+![image](https://github.com/user-attachments/assets/cc8a7bcb-a683-4599-8aff-df56dfdc555d)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/1d4e2b00-b5e0-4a48-8efd-f42e2c1c4b0d)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/7a48f125-836f-4c90-9dae-9cb74abc02dc)
+
+* 2
+* 3 -> no difference -> Extreme.
+* 2 is better than 3.
+
+![image](https://github.com/user-attachments/assets/5034e0a1-ee92-467f-ab31-fa13d17b7d19)
+
+* Official answer -> 3. 
+
+![image](https://github.com/user-attachments/assets/8f1dbad2-4e66-4154-9bd0-7729a6f9dc90)
+![image](https://github.com/user-attachments/assets/1b5dbc99-54ce-4ba7-a4da-eb920339e38c)
+![image](https://github.com/user-attachments/assets/1b34840a-0ca3-4e4e-b9c1-c39bf97ad063)
+
+* Sir is saying answer is **'4'**.
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1c0de405-8f74-427e-a380-b6b07d6e012c)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/d26cbc4f-4727-4600-9165-e786067f9af8)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/dbbb3e24-959e-4957-afb5-01cabba43730)
+
+* 4 [5]
+* 1 -> Side-track
+* 2 -> integrative inference -> combining and coordinating diverse elements into a whole. [Meaning]
+
+![image](https://github.com/user-attachments/assets/ea94a13f-18ab-4684-94fa-63a7cd1cdd4d)
+![image](https://github.com/user-attachments/assets/3cbfcae5-74d5-47e5-807d-500bb55a73dd)
+![image](https://github.com/user-attachments/assets/57443ef8-2d1e-48bb-8678-79f221faf2f9)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/5fc43f9c-078a-4f25-a65c-fd249ab87d9e)
+![image](https://github.com/user-attachments/assets/eb0fd602-66a6-4256-83d3-d005a2f0f1ca)
+![image](https://github.com/user-attachments/assets/9ed753e0-a629-4130-beeb-1974b1fb6e8e)
+![image](https://github.com/user-attachments/assets/ccadfacf-f27d-4a45-8924-707488bc5aa1)
+
+* RC - 34. [Example] [Practice] [2022]
+
+![image](https://github.com/user-attachments/assets/1a30eb40-debc-4769-8f8d-701dd858ed97)
+![image](https://github.com/user-attachments/assets/185344e9-3554-46f1-870c-5638908303c9)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/18519fd9-d121-4956-b668-a5b94062dd19)
+![image](https://github.com/user-attachments/assets/0796c56f-5c41-48b8-a606-0d6d668bbe76)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/0daa3503-8698-453a-bef1-860aa5e77ee2)
+
+* 2
+* 3 -> green -> weakens -> wrong. [Logic]
+
+![image](https://github.com/user-attachments/assets/966c9591-b07b-496e-8f90-9d79605b3856)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/b8e4b038-94ee-447d-a78f-e37b5a7dbe20)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/41716684-c67a-4e8a-a292-c0e9c2e70ba3)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/49a1e5b4-eb77-4886-bfdb-7a7b6c5cbc0b)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/0b1ba545-907d-4803-b917-cc321d267357)
+![image](https://github.com/user-attachments/assets/3cf566e1-aa5c-4446-b474-26e41fd6355c)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/09ba63e8-98d1-4d4d-a57b-7df19cd4d5ba)
+![image](https://github.com/user-attachments/assets/d90325ff-0f55-47f3-b9e0-c2a87f2445f0)
+
+* Lost in Lingo.
+
+![image](https://github.com/user-attachments/assets/a997b5c4-ff55-4499-80ca-97fd51918eab)
+![image](https://github.com/user-attachments/assets/2b976949-a329-4c98-b748-591ae4919877)
+
+* RC - 34. [Example] [Practice] [2018]
+consternation -> fear resulting from the awareness of danger. [Meaning]
+
+![image](https://github.com/user-attachments/assets/0976209b-0f20-4514-a837-afc0a0d782f6)
+![image](https://github.com/user-attachments/assets/0ec2a5a8-bb98-4bac-8c3c-63ada39e5408)
+![image](https://github.com/user-attachments/assets/6df28e71-7300-47cb-aae4-6980f88d765b)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/cfa50cd6-7c09-4668-977a-7eebf60491fb)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/2d657e7c-73fd-43fd-a783-ad2083c6a98a)
+
+* 2
+* 2, 4 -> Tone mis-match
+* 3 -> best -> extreme. 
+
+![image](https://github.com/user-attachments/assets/c66a7bbb-ab42-4a41-848a-adaf33a2cd7e)
+![image](https://github.com/user-attachments/assets/e288264a-a2fe-47d1-8839-8830e940faef)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/067a0c2c-ed06-482f-bbe6-5f8fdcc2f531)
+
+* 3
+* 4 -> Trap.
+
+![image](https://github.com/user-attachments/assets/5611c5aa-c019-4d85-8272-5b368a5292bc)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/c65bc8fc-8561-4336-a3f3-11c45cfc0d52)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/2b3196cb-9558-4eb5-a050-892ee92b77e3)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
 
 
