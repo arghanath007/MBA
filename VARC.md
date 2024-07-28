@@ -3947,6 +3947,69 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/ed231c84-9249-40a8-9b79-fd9f006bb5e9)
+
+* RC - 34. [Example] [Practice] 
+
+![image](https://github.com/user-attachments/assets/a3a49a2b-972e-4d9a-a74c-bb28ddd3b981)
+![image](https://github.com/user-attachments/assets/f85129ba-1350-4486-a627-458f7cd0d7be)
+
+* 1
+* disagree -> negative.
+* except -> negative.
+
+![image](https://github.com/user-attachments/assets/a7391a34-b63a-45c0-83ec-23e7763af4ac)
+![image](https://github.com/user-attachments/assets/1121bd66-c897-4a9f-927d-011d9dd4b0e7)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/8f9d2f16-af5a-41f4-9bf7-5a95f5fd803a)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/347f7bc5-bb95-4dff-9b4b-0fa1cbdd7b3f)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/42624b43-6a54-4672-a29b-7c98e2ebc6d0)
+
+* 3
+* 3 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/8dee4eb9-0f30-47f2-a9d4-dc6e966dd25c)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e0f058f6-69fa-4c38-9aff-ea1d53fd088b)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/f8364bc6-1f1e-47f1-aefe-fc93fe20e10d)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+
+![image](https://github.com/user-attachments/assets/6b6c7bff-1375-4808-a448-be3311ccf86e)
+
+
+* Drill - 2.
+* RC - 35. [Example] [Practice] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
