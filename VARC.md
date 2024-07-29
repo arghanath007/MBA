@@ -4420,6 +4420,82 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/2c70604f-f6de-4234-b87c-89c0c5301538)
+
+* Para Jumble(Pj)-1
+* VA - 42. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/9cc39736-be1c-4dbc-adcd-46882c5e7d61)
+
+* Answer -> 1423. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/9a780f51-ea01-478b-a83e-fab1563e4d47)
+
+* Para Jumble(Pj)-2
+* VA - 43. [Example] [Practice]
+* Full name -> Surname.
+
+![image](https://github.com/user-attachments/assets/532dd0b1-b71a-4a1c-b203-7f274f209557)
+
+* Answer -> 2341. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/2a53eacc-4f1a-4f1c-9235-d64d0b0c4072)
+
+* Para Jumble(Pj)-3
+* VA - 44. [Example] [Practice]
+* 1 -> 2
+* Usually -> sometimes.
+
+![image](https://github.com/user-attachments/assets/f77b25dd-3aa3-4c4f-9dc2-fd948b4a80af)
+
+* Answer -> 3124. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/6fb83698-9afa-4ed9-9f1a-a1516ad08ddf)
+
+* Para Jumble(Pj)-4
+* VA - 45. [Example] [Practice]
+* 1 -> 2.
+* 2 -> 3.
+
+![image](https://github.com/user-attachments/assets/83137860-51c5-44da-979a-eb429ac36ae9)
+![image](https://github.com/user-attachments/assets/a936defb-40b0-438e-983f-8033ecf0965a)
+
+* Answer -> 4123. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/d60ffe8e-fa39-4086-8bd5-7c1c5f0172a1)
+![image](https://github.com/user-attachments/assets/bbda637d-3884-4952-920d-4d2b9ac68d3e)
+
+* Para Summary(PS)-1
+* VA - 45. [Example] [Practice]
+* 3 -> Alien.
+
+![image](https://github.com/user-attachments/assets/5ab3d175-c95a-462a-80fb-624f0ce711d1)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/75892119-41cb-48b5-8689-bb052b35de62)
+
+* Para Summary(PS)-2
+* VA - 46. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/77f8bfd9-76e1-46ea-ac3e-e37a164345f2)
+![image](https://github.com/user-attachments/assets/2c7ee6d9-628a-499f-837d-5293db39b8a6)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/1e635241-c863-42cf-b0a8-1c987ecd5ac7)
+
+* Para Summary(PS)-3
+* VA - 47. [Example] [Practice]
+* underlines -> draw a line or lines underneath to call attention -> ive extra weight to (a communication). [Meaning]
+* 2 -> stable -> BEAST.
+
+![image](https://github.com/user-attachments/assets/6122d361-c0dd-4c72-b6be-e074edeef9a5)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+
+
 
 
 
