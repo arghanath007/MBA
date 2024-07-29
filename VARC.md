@@ -4381,6 +4381,52 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/7a333552-04ad-4b84-9276-6ae7232a313a)
+
+* RC - 41. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/81bb5632-673d-41fa-a5de-bdf247fb16a8)
+![image](https://github.com/user-attachments/assets/5ee5fd55-31f3-4828-bc9e-f82c56102afb)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/e43fa171-7d7e-4a2e-9024-8b3f75b2b1af)
+![image](https://github.com/user-attachments/assets/2f2720d4-7f90-4ae2-9378-7999d4eecc37)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/86dd0cee-e854-47ca-b3b6-1cdad7b2fa8a)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/8166a918-df44-4244-968f-d7e98b6d0925)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/61290024-62d5-4b4a-81ca-c4f24bca3c16)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/ecb256b2-06d8-46c5-876f-f9f7d0d7e87a)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/76debc2f-bf56-4ff1-90e7-5a0ba8697be9)
+
+* 4
+* 4 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/73cc99df-274d-400f-a3f3-28eaa090dd40)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+
+
+
+
+
+
+
 
 
 
