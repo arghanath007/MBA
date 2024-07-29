@@ -4256,17 +4256,130 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/5999c3cc-84a8-4cad-8804-62dec2454e1f)
 
+* RC - 40. [Example] [Practice]
 
+![image](https://github.com/user-attachments/assets/1637d169-f999-4668-bc98-7da04bb4563f)
+![image](https://github.com/user-attachments/assets/29bf031a-6105-4968-bda1-ea38970a5ed3)
 
+* 1
+* 1, 2 -> side-track.
 
+![image](https://github.com/user-attachments/assets/264ec786-8a3b-4966-89ec-6eda4fabc623)
+![image](https://github.com/user-attachments/assets/c53ef89c-2584-486f-8f6e-4bf5fdf6791b)
 
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/783987fb-b482-45a9-99ee-cb5d43431b3b)
 
+* 2
+* not, except -> negative(-)
+* - * - -> positive(+)
+* 4 -> side-track.
 
+![image](https://github.com/user-attachments/assets/e67c9f0a-b5a4-4df2-a6e5-3c084b5aab91)
 
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/276bd78d-989a-4fdc-9726-85f83fa55623)
 
+* 3
+
+![image](https://github.com/user-attachments/assets/00b7ede9-c1ad-4957-a04a-f08572a2d3e6)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/9753e9d6-7da2-4577-876f-4c3a2eb017f0)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/4b5b19e9-9d26-4596-9708-7e6fa3e1c3ef)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/8b9a4f37-311a-4154-b5f6-a4b8c92226dc)
+
+* RC - 40. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/874b8cda-83e3-4ad0-b785-3368b97b3ce4)
+![image](https://github.com/user-attachments/assets/f335b78d-c287-44df-96b1-a6e8c4f6abce)
+
+* 1
+* tenet ->  a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct -> basic principle. [Meaning]
+
+![image](https://github.com/user-attachments/assets/afdefe41-f4f0-4b0d-b6a3-2134b604f58e)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/da572f26-b70e-4a81-a2a0-1f82509c9969)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/fca4b011-f0a6-46c5-a5fd-2d2f58f43ab2)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/101d1378-9d28-4559-8164-e6f75941de8d)
+
+* 3
+* none, except -> negative(-)
+* - * - -> positive(+)
+* 2 -> Side-track
+* 1, 4 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/0b330e27-9c0a-4298-b2bd-c10dbb5c45be)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/dcaa6dd6-55ee-40e2-bd66-8aada84740c9)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/aeea7106-d0ef-444e-94e6-7f05850b6e38)
+![image](https://github.com/user-attachments/assets/53773f9f-0617-4e3d-9635-66f4b474f709)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/eef005e5-d35e-443e-b0c9-e20cfc44885f)
+
+* RC - 41. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/5aa5dace-98f4-4b33-8269-1e31d7e69b24)
+![image](https://github.com/user-attachments/assets/0e57df3f-990a-405a-a4de-e837546f07f0)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/e429bc47-26f3-4b98-b047-fc6f770aacad)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/de242cc1-a798-4342-adc9-b06f6fa575d9)
+
+* 2
+* 2 -> unless -> necessary.
+
+![image](https://github.com/user-attachments/assets/6cf067d3-1d7f-4abc-9957-70ce046765a8)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/2fdfbbd1-0fad-41ed-b9d3-be2828b7cf5a)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/238b7391-8565-4955-a591-fcc61b22a63e)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/de149007-4a5e-415a-9eec-c2e48d04882e)
+
+* 4
+* implausible -> highly improbable ->  highly imaginative but unlikely. [Meaning]
+* improbable -> having a probability too low to inspire belief. [Meaning]
+
+![image](https://github.com/user-attachments/assets/a8acebec-dabb-4cff-904b-8e9e4baf4aff)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
 
 
