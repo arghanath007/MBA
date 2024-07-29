@@ -4216,6 +4216,47 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/56a3c2fe-6286-43f9-bfcb-916a9d1d7415)
+
+* RC - 39. [Example] [Practice]
+* burgeoning -> burgeon -> grow and flourish -> increasing/popular school of thought. [Meaning]
+
+![image](https://github.com/user-attachments/assets/0cc7c3b2-91af-4fe3-9eb5-bc415e983071)
+![image](https://github.com/user-attachments/assets/99ee104b-7fd4-49be-837a-e57f5519d170)
+
+* 1
+* 4 -> It is by truth school(TS) not by the critics of TS -> side-track.
+
+![image](https://github.com/user-attachments/assets/073ab1e1-d324-466f-b870-e6082097ad2f)
+![image](https://github.com/user-attachments/assets/eba49348-726d-4ae6-8db3-b50197004d38)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/4ab1403a-638c-4cc8-9769-c5f525b69629)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/6e50485b-251a-43a1-be95-7e6ba2b02c90)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/1e3f3f4f-b03f-4ce9-94ab-2886a2dd4f0e)
+
+* 3 
+
+![image](https://github.com/user-attachments/assets/4c7db298-6adb-4c11-82d7-58460469190c)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/46e3eeef-19eb-489c-b98c-a006318ba727)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/e137b13c-8756-4c87-ad21-ce6f6fc3a77f)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+
 
 
 
