@@ -3949,6 +3949,7 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 ![image](https://github.com/user-attachments/assets/ed231c84-9249-40a8-9b79-fd9f006bb5e9)
 
+* Drill - 1
 * RC - 34. [Example] [Practice] 
 
 ![image](https://github.com/user-attachments/assets/a3a49a2b-972e-4d9a-a74c-bb28ddd3b981)
@@ -3988,15 +3989,142 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
-
 ![image](https://github.com/user-attachments/assets/6b6c7bff-1375-4808-a448-be3311ccf86e)
-
 
 * Drill - 2.
 * RC - 35. [Example] [Practice] 
 
+![image](https://github.com/user-attachments/assets/89e8b746-c3dc-4b06-bff6-88e1e46ba590)
+![image](https://github.com/user-attachments/assets/34f49ca9-a0c9-4f67-ab6e-774be8ab5ffd)
 
+* 1
+* not -> negative.
+* Except -> negative.
+* - * - -> positive(+) -> author's support [Logic] [**VERY IMPORTANT**]
+* 1 -> Side-track -> Allen's view.        
 
+![image](https://github.com/user-attachments/assets/694d4de2-9294-48d5-824c-4e76eece67f7)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again]        
+
+![image](https://github.com/user-attachments/assets/eb685037-c864-4c0c-8459-2f2622001245)
+
+* 2
+* Question 2 -> purpose
+* 2 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/4dbcd01f-56d0-4852-ac3a-ac08c16c656f)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again]  
+
+![image](https://github.com/user-attachments/assets/fcb38a91-b64e-4332-ba6a-5a69fdb43cb9)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/a03a2603-9297-499e-98b5-bafd09b4a5db)
+![image](https://github.com/user-attachments/assets/54dda962-7602-4838-9015-ee23db9ffe37)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again]  
+
+![image](https://github.com/user-attachments/assets/c3d66153-ab3f-4055-bbb1-f91224df2973)
+
+* 4
+* 1 -> broad.
+* oeuvre -> the total output of a writer or artist (or a substantial part of it) -> work. [Meaning]
+
+![image](https://github.com/user-attachments/assets/92c67833-32fe-4cd0-8673-1337cad71473)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again]  
+
+![image](https://github.com/user-attachments/assets/ab3f32f3-6b30-465b-9154-015864220199)
+
+* Drill - 3.
+* RC - 35. [Example] [Practice] 
+
+![image](https://github.com/user-attachments/assets/924d9b39-31cd-4e27-81cd-d5b241bde7e7)
+![image](https://github.com/user-attachments/assets/5807904c-dfc0-4bc4-9c56-0b9961364ca6)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/5cce8925-bdc8-4b71-943a-333f7217c15c)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/2f239b80-711e-49da-8e00-31671b42ab66)
+
+* 2
+* 1 -> definitely -> extreme.
+* 2 -> tone mis-match.
+* 4 -> extreme, tone mis-match.
+
+![image](https://github.com/user-attachments/assets/e01a77ff-c2bb-471a-8da8-03f8ba84693f)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/9fcc75c6-1bb6-4dd4-8bc7-9fbf8f235441)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/424fe721-c192-41b1-b077-e0397c85e153)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/f7bb42e7-6e83-45a3-8e2f-ed06f95383ee)
+
+* 4
+* cannot -> negative.
+* Except -> negative.
+* - * - -> positive(+). [Logic] [**VERY IMPORTANT**] [Summary]
+
+![image](https://github.com/user-attachments/assets/862eeed6-823c-4d8d-a781-7d6061c0520f)
+![image](https://github.com/user-attachments/assets/dea9f57a-921d-4226-a182-b1a7055d2a30)
+![image](https://github.com/user-attachments/assets/0656a732-750a-4e0a-85c5-c2e670a2e459)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/dd1cd94f-6387-4ef3-af63-5d265d8f8e9a)
+
+* RC - 36. [Example] [Practice] 
+
+![image](https://github.com/user-attachments/assets/f1273bc1-027d-489d-a100-fee6bdfd31c6)
+![image](https://github.com/user-attachments/assets/fdec6b96-b7ae-4bc3-9976-8b4b34b5597c)
+
+* 1
+* every character -> extreme word.
+
+![image](https://github.com/user-attachments/assets/a0be8d65-1773-4e06-9cac-b6950a819cfc)
+![image](https://github.com/user-attachments/assets/aa915385-2140-433a-95be-06bf59be4b51)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/4c736142-4d6c-42df-87b1-b2e4edaf9865)
+
+* 2
+* Interpretation/application question.
+
+![image](https://github.com/user-attachments/assets/68c72f3d-4b00-48c7-95e8-02a239b5abfd)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/2c3d234c-197b-4061-8b1a-042c0cad9b04)
+
+* 3
+* not -> negative.
+* Except -> negative.
+* - * - -> +.
+
+![image](https://github.com/user-attachments/assets/0564e970-a212-4161-8a20-656340a67d6c)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/b71e4098-dc68-4953-80b0-612bf55761a9)
+
+* 4
+* 3,4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/22ed0e33-7589-4cac-bd86-cf35f287cfb0)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
 
 
