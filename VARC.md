@@ -4126,11 +4126,95 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/d4523ce0-9897-429b-8737-f31dc213a044)
 
+* RC - 37. [Example] [Practice] 
 
+![image](https://github.com/user-attachments/assets/4eff904e-46cc-4a45-a3fe-06e73ad5e8e9)
+![image](https://github.com/user-attachments/assets/cf03f08e-74fc-410c-99f5-ca432d77260f)
 
+* 1
+* 1, 3 -> Alien.
 
+![image](https://github.com/user-attachments/assets/ecf8851e-4ca8-4d47-b8ef-13d11db1a267)
 
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/c67896b8-9d63-457d-9231-187985b34c08)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/73acfb5e-6141-4b32-9938-d943302ced59)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/87fb8232-4f7b-422e-8d27-d9f987093a87)
+
+* 3
+* none -> negative
+* except -> negative.
+* - * - -> positive(+).
+
+![image](https://github.com/user-attachments/assets/f368637e-c1a2-4e26-8c46-1dd8c4b9575f)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/17b92b6b-aa66-414f-9c94-4844cc8f09c2)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/7cf908c3-ceb8-4372-8a53-1206bdba4b19)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/f79f485b-9d86-47a6-9570-999194e9e9f0)
+![image](https://github.com/user-attachments/assets/221e6013-1078-4c8f-bf32-6a8d6afba615)
+![image](https://github.com/user-attachments/assets/cd0ddc27-2045-4ed8-a265-f47677e136d7)
+![image](https://github.com/user-attachments/assets/f48ab28b-cb47-479b-8d94-3e8296142c32)
+
+* RC - 38. [Example] [Practice] 
+* epistemic -> of or relating to epistemology -> knowledge. [Meaning]
+* knowers -> someone who knows -> a person who knows or apprehends. [Meaning]
+* Lack of knowledge issue.
+* Differentiated knowers.
+* female epistemic issue.
+
+![image](https://github.com/user-attachments/assets/d27939e6-c3f9-4d60-95c4-e9becd04a8b7)
+![image](https://github.com/user-attachments/assets/92f471cd-55cd-42ac-82ee-54436389e2ed)
+![image](https://github.com/user-attachments/assets/940110dd-a582-4085-8a72-ab398050970f)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/aa272bce-438b-4e47-8f01-c8f0ff526515)
+![image](https://github.com/user-attachments/assets/099fce1a-044e-4423-8af0-674b67aa952c)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got Wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/89afbdad-a8f7-4cc1-b543-7c1cd9e586c3)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/5db85f43-708c-4460-ad57-76f64634fb90)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/1793aed4-0708-4004-9ef6-190880e2aacd)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/85a2bda3-641b-4aad-93a5-847f4b452d7b)
+![image](https://github.com/user-attachments/assets/a1417ecd-8427-435f-bd12-f61be44f89b6)
+
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/c4f9d60f-cc99-4b30-b639-bf24583ce283)
+
+* 4
+* 2 -> Example
+
+![image](https://github.com/user-attachments/assets/c134e24a-2219-41b2-9b5e-fef1fa4fcd1b)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
 
 
