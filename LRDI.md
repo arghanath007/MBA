@@ -79,17 +79,32 @@
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/fdacda84-7095-4b96-9446-f9727f42d154)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3b39421e-58f3-47cd-a187-1249c2b0c840)
+
+* when we have **6** coins.
+* so **6** is a loosing no for me(R).
+* Our motive/plan is to put the opponent(C) in the **loosing numbers**.[**VERY IMPORTAN**]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/5a361edf-978a-4c33-a73d-d0841b83f634)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3e28e703-7384-47e8-bce7-6cd0535f6c1f)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c4a4ecc0-ab91-4566-bbe5-ed9db6a21a9a)
 
 * For **7**, we will pick **1 coin** and we are left with **6 coins**. Chanchal will pick which ever no of coins be it **1, 2, 3 or 4**, we can pick **4, 3, 2, 1** no. of coins respectively so that there is **1 coin** left which she has to pick and thus **loose** the game. [Logic] [Explaination] [**VERY IMPORTANT**]
-* For **8** also it is **same** as **7** only. [Logic] [Explaination] [**VERY IMPORTANT**]
+* For **8** also it is **same** as **7** only. In **8** we will pick **2** coins so that the opponent lands on **6** which is the **loosing** number. [Logic] [Explaination] [**VERY IMPORTANT**]
 * **7 and 8** are **winning** nos for me.
+* We have to make th opponent pick the last **1** coin left at the end. [Logic] [Explaination] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bb26b41d-dec8-4e27-88a7-497602294389)
+
+* Both the players are playing intelligently. [Logic] [**IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/5ece50e8-a460-4145-9ad9-17a77213474e)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1cd53fb6-4254-491c-9f31-86b2c5976d02)
 
+* We want **9** as it is a **winning** number because on **9** we can pick **3** coins and the opponent will be at '6' which is a **losing** number. [Logic]
+* '10' is the same as '9'.
+* 10 - 4 -> 6
+* 11 - 4 -> 7 -> winning no.
+* 11 is a losing no.
 * **Trap** is on the **loosing nos**.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ba1f1fe4-09e0-42df-8ad8-f794326397d4)
