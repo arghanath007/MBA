@@ -18,7 +18,21 @@
 
 * LIDR -> Out of the **22** questions in the section, solve around **13, 14 to 15** questions and **leave** the rest of the questions. We have to solve them in **40mins** only. [Logic] [**VERY IMPORTANT**] [Strategy] [Planning]
 
+![image](https://github.com/user-attachments/assets/50bd823a-b484-4dd5-aceb-d521dc262b39)
+
+* We get 4 puzzles in LRDI and we have to solve it in 40mins. If we are able to solve **2** out of the **4** puzzles then we will easily get **99+ percentile**. [Logic] [Summary] [Strategy] [Planning]
+
+![image](https://github.com/user-attachments/assets/c915299a-7407-4c18-80cf-e53c503fb351)
+
+* Every puzzle normally has **5** questions.
+* 4 * 5 -> 20 questions
+* 20 * 3 -> 60 marks
+* We need to get around **30** marks(25 to 30) to get **99+ percentile**. [Strategy] [Planning]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/824ef548-3988-4915-a745-cb085c9ea36c)
+
+* We need to **correctly** pick the **2** easiest sets in LRDI and solve it.
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/396f1eb3-da2e-4247-bc56-5bbeb3f29d81)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/381e0bda-17b1-42dd-87aa-c35784cf0cc2)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/69981a3c-2d8e-4c89-bc8c-0e33a6863821)
