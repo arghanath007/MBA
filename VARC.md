@@ -4494,18 +4494,260 @@ consternation -> fear resulting from the awareness of danger. [Meaning]
 
 * Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/cddc364f-6440-4108-855a-5e3dc5d80167)
 
+* Sentence Placement(SP)-1
+* VA - 48. [Example] [Practice]
+* clock -> a few minutes. [Echo]
 
+![image](https://github.com/user-attachments/assets/a2ab4d14-d2fc-4916-a2a3-b8df49d82933)
 
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/3b2c3f3a-2ac7-428b-b7ed-f12d15aa7376)
 
+* Sentence Placement(SP)-2
+* VA - 49. [Example] [Practice]
+* such examples -> more examples.
+* this -> antecedent.
+* **'4'*** is a **block**.
 
+![image](https://github.com/user-attachments/assets/c54847d9-e0ba-432c-bacc-7c74e242f634)
 
+* Answer -> 3. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/35fc9088-ee57-4168-953d-9b7a9d80ae10)
 
+* Sentence Placement(SP)-3
+* VA - 50. [Example] [Practice]
+* statement -> transition.
+* statement -> negative(-).
+* Before the **statement**, the tone was **posivite(+)** and the ***but** word transitioned the tone into **negative(-)**.
+* ordeal -> negative(-)
+* signal -> but
+* 1 -> positive.
+* 2 -> negative.
+* rapture -> a state of being carried away by overwhelming emotion. [meaning]
 
+![image](https://github.com/user-attachments/assets/adf397ee-d650-422c-9c48-e2bf39dcd9d1)
 
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/324a510b-4dc1-48a5-b5e3-7d53d663da65)
+
+* Sentence Placement(SP)-4
+* VA - 51. [Example] [Practice]
+* signal -> In other words.
+* statement -> broad -> general statement.
+* 4 -> Broad -> general statement.
+* Narrow -> broad.
+
+![image](https://github.com/user-attachments/assets/c7e6f0fb-aecc-49e0-b1d8-6766c038482e)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/2e815c42-bef2-48db-8ac9-231a0b5a9cb9)
+
+* Para Jumble(Pj)-5
+* VA - 52. [Example] [Practice]
+* 2 -> 1.
+* 1 -> 4
+* 4 -> 3
+* children's book -> people.
+
+![image](https://github.com/user-attachments/assets/ba7a5aeb-2120-46bd-ab3f-0f26d11d53ae)
+
+* Answer -> 2143. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/890b1004-f13b-427a-9605-a324ef3da248)
+
+* Para Jumble(Pj)-6
+* VA - 53. [Example] [Practice]
+* Pronouns -> his,
+* signal -> this
+* transformation(3) -> transformation(2) [Echo]
+* 4 -> 3
+* 3 -> 2
+* 2 -> 1
+* 1 -> Explain the changes -> detail.
+* Zooming out -> broader principle.
+
+![image](https://github.com/user-attachments/assets/44d985eb-4c49-4e58-add4-6d4a4dfefa51)
+![image](https://github.com/user-attachments/assets/3aad0510-a6bd-447d-92e2-b81d2ada9dec)
+
+* Answer -> 4321. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/8608528a-6b77-4ef1-8321-083fe43db9be)
+
+* Para Jumble(Pj)-7
+* VA - 54. [Example] [Practice]
+* signal -> however.
+* 2 -> 3
+* 1 -> 4
+* overlook their potential for future change -> bias. [Echo]
+
+![image](https://github.com/user-attachments/assets/b1f28925-720d-4054-9bd1-02d760151071)
+![image](https://github.com/user-attachments/assets/cdeb1573-8757-4893-acee-bc654a064754)
+
+* Answer -> 2314. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] [Doubt]
+
+![image](https://github.com/user-attachments/assets/a959cd0c-e970-4a7f-898e-6e694d50e94f)
+
+* Para Jumble(Pj)-8
+* VA - 55. [Example] [Practice]
+* signal -> essentially -> in conclusion.
+* essentially -> a state of being carried away by overwhelming emotion. [Meaning]
+* 1 -> 2 -> 4. [Block]
+
+![image](https://github.com/user-attachments/assets/88352982-1f2a-4b30-8a5d-9e48300fb2b9)
+
+* Answer -> 1243. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] [Doubt]
+
+![image](https://github.com/user-attachments/assets/e716acf4-e829-492f-a8a3-03fb0a7e1d19)
+![image](https://github.com/user-attachments/assets/d7ddac03-be2a-4f3b-8739-f1fb580d83eb)
+
+* Para Jumble(Pj)-9
+* VA - 56. [Example] [Practice]
+* signal -> thus
+* pronoun -> this
+* 1 -> 4
+* 4 -> 3
+* 1 -> not a general claim -> supporting '2'.
+* 2 -> starting statement.
+
+![image](https://github.com/user-attachments/assets/022b2010-dea3-4b41-97aa-1ebec6c56e78)
+
+* Answer -> 2143. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] [Doubt]
+
+![image](https://github.com/user-attachments/assets/8e3b07cb-e9b9-471e-a11e-473c7ae07bb9)
+
+* Para Jumble(Pj)-10
+* VA - 57. [Example] [Practice]
+* in turn -> in proper order or sequence. [Meaning]
+* signal -> in turn.
+* 1 -> 2
+* 2 -> 3
+* 4 -> start
+
+![image](https://github.com/user-attachments/assets/aa2ae836-b044-4ba5-8dd3-2fc6cb761192)
+
+* Answer -> 2341. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again] [Doubt]
+
+![image](https://github.com/user-attachments/assets/f78bdcc3-81be-4b6a-8676-18f2d3c1700e)
+
+* Para Jumble(Pj)-11
+* VA - 58. [Example] [Practice]
+* signal -> however.
+* 1, 2 -> talking about the problem -> negative(-).
+* 3 -> positive(+).
+* 4 -> negative(-).
+* positive -> negative.
+* 3 -> 2
+* 2 -> 1
+
+![image](https://github.com/user-attachments/assets/27c53650-3cd6-4f1e-8a27-4fb55a5e23a4)
+
+* Answer -> 3214. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/5da9fbfc-2999-4b31-b074-23341f5a555a)
+
+* Para Jumble(Pj)-12
+* VA - 59. [Example] [Practice]
+* Echo -> scholars.
+* 1 -> neutral.
+* 2,4 -> negative(-) -> uneven effect, only increase.
+* Before '4', the statements are **positive**.
+* 4 -> transition -> creating a transition from positive to negative. [Logic]
+* 3 -> positive(+) -> easier.
+* 4 -> 2.
+* positive -> negative.
+
+![image](https://github.com/user-attachments/assets/fcef00fb-a611-4620-8aee-dd862ad7f6aa)
+
+* Answer -> 1342. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/3dcff49f-917a-4795-8435-e8920b21bb89)
+
+* Sentence Placement(SP)-5
+* VA - 60. [Example] [Practice]
+* statement -> broad.
+* 2 -> block.
+
+![image](https://github.com/user-attachments/assets/858f25c0-9126-4e80-afbe-e32d62e874f9)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/68e46b26-7385-457c-91af-88c3d964c31c)
+
+* Sentence Placement(SP)-6
+* VA - 61. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/fa63ccf6-344c-4902-815a-9c86fdb3b43c)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/9b384c71-a21a-453e-9153-3aac2add46c8)
+
+* Sentence Placement(SP)-7
+* VA - 62. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/e11a8782-250c-4f41-aeba-4e577d91ce21)
+![image](https://github.com/user-attachments/assets/ac2ba2d5-2283-4ba1-8b35-68afa54244dc)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/ae136423-c4d2-41cb-9dee-eb8b4e3e3d5e)
+
+* Sentence Placement(SP)-8
+* VA - 63. [Example] [Practice]
+* statement -> positive(+).
+
+x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a448e690a7b)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e6705ea7-53cf-43fc-b622-9d3392152512)
+![image](https://github.com/user-attachments/assets/ad4ecc5c-e084-4953-ad07-6293436dd2e9)
+
+* Para Summary(PS)-4
+* VA - 64. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/6de1b1e6-1ebd-4f18-a38b-06336a8a7522)
+
+* Answer -> 1. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/03c4f4e0-b8b8-45a5-8b64-af07fb84b28b)
+
+* Para Summary(PS)-5
+* VA - 65. [Example] [Practice]
+* strive -> shunning the faults. [Echo]
+* strive -> attempt by employing effort. [Meaning]
+* shunning -> deliberately avoiding; keeping away from or preventing from happening. [Meaning]
+* 2, 4 -> True -> Check which has better coverage.
+
+![image](https://github.com/user-attachments/assets/c4a1b9d8-fbf6-4704-8905-f477377d9214)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [got wrong] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/02744383-c9be-4779-9e25-63d6f726231b)
+
+* Para Summary(PS)-6
+* VA - 66. [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/f1f75407-4783-4d57-9beb-78cf6cf27519)
+![image](https://github.com/user-attachments/assets/e25abae8-0bb5-43ff-b788-4147bb85a8c7)
+
+* Answer -> 2. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/9e1323cc-4b9f-457e-a892-b6813bf9e9a8)
+
+* Para Summary(PS)-7
+* VA - 67. [Example] [Practice]
+* 1 -> forego intellect -> extreme.
+
+![image](https://github.com/user-attachments/assets/d471a4ee-a52d-4efa-8665-6ffe3e7304cd)
+
+* Answer -> 4. [Solution] [**VERY IMPORTANT**] [Example] [Try Again] [Correct] [Practice Again]
 
 
 
