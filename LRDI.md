@@ -107,45 +107,120 @@
 * 11 is a losing no.
 * **Trap** is on the **loosing nos**.
 
+![image](https://github.com/user-attachments/assets/ee9a0aa5-62a7-4727-b85a-1392e7bac862)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ba1f1fe4-09e0-42df-8ad8-f794326397d4)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f3ab4123-6af0-4b03-85e6-4ac802676769)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6bee590d-8a9f-453c-81cc-f1be33e7dc78)
+![image](https://github.com/user-attachments/assets/c0d54b2e-4e54-4594-8e38-2978874a63f8)
 
+* 1 + 4 -> 5
+* 2 + 3 -> 5
+* 3 + 2 -> 5
 * **5** is the no that is **controlling** the game. It is called as **controlling factor**. [**VERY IMPORTANT**] [Logic]
 * Min -> 1, Max -> 4
 * Controlling factor(CF) -> Min + Max -> 1 + 4 -> 5.  [**VERY IMPORTANT**] [Formula]
+* '1' was the losing no then the next losing no is '6' and the next is '11'.
+* 1 -> 6 -> 11 -> 16 -> 21. [losing no]
+* Difference of '5'.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6e0f3cac-025f-495f-8fce-9579de471069)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/63c98c2c-fce4-40df-a20b-bdfd6661a28e)
 
-* **1** was the **lossing no** after that it was **6** after that it was **11**. They are Lossing nos.
+* **1** was the **lossing no** after that it was **6** after that it was **11**. They are Losing nos.
 * After a **difference of '5'** we are getting **lossing nos**.
 * 11 -> 16 -> 21.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6f886bbb-461f-4c79-9406-726f0ade23e1)
+
+* 1 <= n <= 4.
+* '1' coin on the table.
+* 'A' will **never** win the game.
+* '6' coin on the table. 'A' will **never** win the game.
+* '11' coin on the table. 'A' will **never** win the game.
+* We have started the game on a **losing number**. We will never get out of the **trap**. [Logic] [**VERY IMPORTANT**]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/68b58955-ba0a-4f7a-a1d7-4c20a710077f)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/9bb52bb5-b0fc-45bd-9d79-78356b642fc4)
 
+* This is a **series**.
+* The gap is of **'5'**. So we write it as **5K**.
 * Lossing no series.
+* Every multiple of **'5' + 1**. [5* 1 + 1 -> 6]
 * Series -> 5K + 1.[Formula] [**VERY IMPORTANT**]
 * K = 1,2,3,4,5,6 ....
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c2974ea4-3155-4184-ba9d-c05104c017b9)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/7f184512-de8a-48b3-8d7b-92a22cc98ba5)
 
-* Table has **200** coins.
+* How many coins 'A' should pick to ensure his win? [Question]
+
+> The aim is to drop the opponent in the trap/losing numbers. [Logic] [**VERY IMPORTANT**]
+
+* Controlling factor(CF) -> min + max -> 1 + 4 -> 5.
+* Series -> 5K + 1. 
 * k = 39
 * 5K + 1 -> 5 * 39 + 1 -> 196.
+* Table has **200** coins. It is starting with **A**, so **A** will take **'4'** coins and **'B'** will have **196** coins left. As **196** is a **losing number** so the opponent will always lose. [Logic] [**VERY IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/cb6226d2-f2f4-4f22-aee3-e507a5f8894b)
+![image](https://github.com/user-attachments/assets/54b9a641-1c9f-4403-8db8-a1d8d744afa6)
 
 * Trap series -> loosing series.
 
+![image](https://github.com/user-attachments/assets/4ed559bb-331d-4309-b2a2-80c8658e6a04)
+
+* 1 <= n <= 9.
+* Last pick lost
+* Coins -> 1536
+* CF -> 1 + 9 -> 10
+* Series -> 10K + 1
+* k = 153
+* 153 * 10 + 1 -> 1531 [Closest losing number]
+* 1536 - 1531 -> 5
+
+![image](https://github.com/user-attachments/assets/cf22ee99-627c-47c1-9773-ea3bfa0309c9)
+
+* Answer -> 5.
+* 'A' should pick '5' coins to ensure his win. [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/de565bd5-7c83-4934-84d5-ad80b771fa35)
+
+* CF -> 1 + 5 -> 6.
+
+### 2. Last Pick Lose
+
+![image](https://github.com/user-attachments/assets/66e912d8-46bc-49e6-b415-5368c4923934)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/db826b95-2b7e-4211-bbea-fdf6d327fcd5)
 
-* 2 -> Losing nos.
+* If last coin is left, then that coin has to be picked up.
+* 2 <= n <= 5.
+* They are playing **alternately**.
+* Min. we have to pick **'2'** coins in normal situation.
+* So we have **'2'** consecutive losing numbers.
+* We don't want **'1 and 2'**. They are losing numbers.
 
+![image](https://github.com/user-attachments/assets/47de43ba-9f9c-4649-bf38-78304cdae9fa)
+
+* We would want to pick **'3'** because we can take '2' coins and the opponent is left with '1' coin only. So, we will **win**.
+* 3 -> winning no.
+* We want from **3 to 7** coins, these are winning numbers.
+* 7 - 5 -> 2 -> opponent will lose.
+
+![image](https://github.com/user-attachments/assets/5a1b914c-443d-4791-93e2-3d105f5519bb)
+
+* 8 - 5 -> 3 - 2 -> 1 [Losing no] [Opponent wins]
+* 8, 9 -> Losing nos.
+* 10 - 2 -> 8 - 5 -> 3 - 2 -> 1 [Winning no] 
+
+![image](https://github.com/user-attachments/assets/2e4f1bdd-0d6a-4e3e-a63a-270db673f4d2)
+
+* CF -> 2 + 5 -> 7.
+* 1 -> 8 -> 15
+* 2 -> 9 -> 16
+* '2' losing nos.
+* Series -> 7K + 1, 7K + 2
+
+![image](https://github.com/user-attachments/assets/8918968e-d643-4eac-bfc8-2b64177d76de)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/50fb97d3-fbb6-4c24-9cf7-6638b82690b2)
 
 * Example.
@@ -153,24 +228,49 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e947cdf8-f664-4c6b-8b4a-03429a616165)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/8e503bc5-628b-4c62-a323-b1ccfba4c6ee)
 
+* 3 <= n <= 8.
+* losing nos:-
+* 1 -> 12 -> 23
+* 2 -> 13 -> 24
+* 3 -> 14 -> 25
+* CF -> 3 + 8 -> 11.
+* Series -> 11K + 1, 11K + 2, 11K + 3.
 * Example.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/18cb2f6d-33ae-455f-8db3-929729663c85)
 
+* 4 <= n <= 9.
+* Coins -> 1263.
+* Last pick lost.
+* A picks 'x' coins to ensure his win. Find sum of all possible values of 'x'.
 * 2 [Question]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/00e857c6-47ec-40da-87e3-0100403a9857)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ac3e8f59-221e-4a5d-bc55-9aacc893c149)
+![image](https://github.com/user-attachments/assets/687e7421-3555-4469-889c-cd0cd7a00e29)
 
 * These are **lossing** nos only.
 * 13 * 97 -> 1261.
-* As **1263** is one of the **lossing** nos so **1263** is the **answer**.
-* We are starting from a **lossing/trap** no only.
+* As **1263** is one of the **lossing** nos only so **1263** is the **answer**.
+* We are starting from a **lossing/trap** no only. We will never win.
+* CF -> 4 + 9 -> 13.
+* Series: 13K + 1, 13K + 2, 13K + 3, 13K + 4 -> 1262, 1263, 1264, 1265.  
 * Answer -> 1263. [Solution] [Answer] [**VERY IMPORTANT**] 
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3e9a2195-85fe-457e-a58e-ac127fa9f122)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b74f97da-8b52-48a5-b79a-2b36b559859b)
+![image](https://github.com/user-attachments/assets/c34b6235-b778-4f94-94dc-dc43133422cd)
 
+* repeat the last question with 1272 coins.
+* 1272 - 1262 -> 10 [Trap]
+* 1272 - 1263 -> 9
+* 1272 - 1264 -> 8
+* 1272 - 1265 -> 7
+* Max. no. of coins we can pick is **'9'** and not **'10'**. **'10'** is a trap. 
+
+![image](https://github.com/user-attachments/assets/7af9a275-b940-49de-82a5-e6709ac97c47)
+
+* Total(x) -> 9 + 8 + 7 -> 24. [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again]
 * 3 [Question]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/0454c739-3994-45ae-a90e-840d2c1cb71a)
