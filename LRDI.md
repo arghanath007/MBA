@@ -687,7 +687,7 @@
 * HW
 * For next class.
 
-## Quant Puzzles Part(3)
+## Quant Puzzles Part -3
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/586aa824-6fc4-4ae4-a739-49fadfc17b86)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/214a9e4d-9ed1-42df-82a8-9556bd85d236)
