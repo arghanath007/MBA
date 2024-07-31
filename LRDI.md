@@ -304,63 +304,103 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/5f793ecc-4e42-4cc5-a5ea-e1b37e4bda1a)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d7b7f502-c131-4df7-a5c7-ab7076f43a95)
 
+* CF, losing no series. [Summary] [**VERY IMPORTANT**] [Logic]
 * Last Pick Lose(1).
 * Coin Game. [Last Class]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3b18005f-30d1-4d22-b0f9-9c626a6b2b64)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c3f1c48a-4d88-479b-bf73-74944d4e88a0)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/7a1e5789-8312-416a-8950-ce1e6265d774)
+![image](https://github.com/user-attachments/assets/7970f4da-336b-4ec6-b605-33e361a096bf)
+
+* Examples. [**IMPORTANT**]
 
 ### Last Pick Win (2)
 
-* 1<= n <=4
-* Alternately.
-* **1, 2, 3 and 4** are **winning** numbers.
-* **5** is a **losing** number.
-* **6, 7, 8 and 9** are **winning** numbers because we can take **1, 2, 3 and 4** coins respectively to end up with **'5'** coins which is a **losing** number.
-
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2fef3f1d-df37-4e84-a37b-a0aa0a9ac46a)
 
+* 1<= n <=4
+* Alternately.
+* We would want **1** coin to be left at the end. [Logic]
+* **1, 2, 3 and 4** are **winning** numbers because we can pick **1 to 4** coins at a time at the end and win the game.
+
+![image](https://github.com/user-attachments/assets/9ad84138-07c9-444f-b831-5fadcb5d23b2)
+
+* **5** is a **losing** number because if we pick **1 to 4** coins then the opponent will pick **4 to 1** coins respectively to win the game.
+* **6, 7, 8 and 9** are **winning** numbers because we can take **1, 2, 3 and 4** coins respectively so that the opponent ends up with **'5'** coins which is a **losing** number.
+* 6 - 1 -> 5.
+* 9 - 4 -> 5.
+
+![image](https://github.com/user-attachments/assets/40c0d6e5-ef10-4067-87d8-a4f907def65d)
+
 * **10** is the next **losing** number.
+* 10 - 4 -> 6 -> Winning no.
+* so the opponent will **win**.
+* We are losing the game in **multiples of '5'**.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a3f7ae25-9f80-4568-806c-efd51f4660fd)
 
+* Last pick loses. [Logic]
 * Losing no series.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/20b53b62-f6af-4026-aa02-7bfd278cbf26)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/7141f9d5-2b92-45c9-98d5-733729e1dfc7)
+![image](https://github.com/user-attachments/assets/024e9126-ed9b-42cc-95f0-bf9b6f41fdec)
 
 * Controlling factor(CF) -> Min + Max -> 1 + 4 -> 5.
-* If it is **last pick win** then the **losing no. series** is **5K**.
+* Losing No series -> 5K.
+* Any multiple of '5'.
+* If it is **last pick wins** then the **losing no. series** is **5K**. [**IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c89085ff-1583-487a-844c-c3f45bdb2cb2)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2dff2f23-6fa0-487f-a588-9151148c46da)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/7876d346-3047-4a87-aeed-25c59f1e813e)
 
-* Last Pick Win format.
+* Last Pick Win format. [**IMPORTANT**]
 * Alternatively.
 * 2<= n <=4.
 * If last coin is left on table, whoever chance it is, it needs to be picked. [Question]
-* **1, 2, 3 and 4** are **winning** numbers.
-* **5 and 6** are **losing** numbers because the min. coins we can take is **2**, so **5-2 -> 3** and **6-2 -> 4**, so the opponent can easily take those **'3' coins** and **'4'** coins respectively and win.
+* **1, 2, 3 and 4** are **winning** numbers because we can choose a max. of '4' coins at a time and a min. of '2' coins at a time. the table will be empty and we will **win** the game. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4a7e7077-f709-422e-b979-b2e8c243826c)
+
+* **5 and 6** are **losing** numbers because the min. coins we can take is **2**, so **5-2 -> 3** and **6-2 -> 4**, so the opponent can easily take those **'3' coins** and **'4'** coins respectively and win. It is same for max. coins i.e '4'.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3d58f419-5106-4860-a382-028b7db24133)
 
 * In **'1' chance** we can take a **max** of **'4' coins**. [**VERY IMPORTANT**]
 * We have to make sure that the **opponent** gets or falls on the **losing numbers(traps)** which are **5, 6, 11, 12, 13 and 14** as this is the **last pick wins** format. [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/831edc55-e06a-4671-8732-19cb44dce9b5)
+
+* For '7' we will pick '2' coins which is the min. and the opponent will come to '5' which is a losing number.
+* 8 - 2 -> 6
+* 9 - 3 -> 6
+* 10 - 4 -> 6
+* 7,8,9,10 -> Losing nos.
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/0fb8bbdd-9fc2-4899-8a2d-fcd30c4e4f32)
+
+* 11 - 4 -> 7
+* Opponent will win.
+* 11 -> losing number.
+* 12 - 4 -> 8
+* Opponent will win.
+* 12 -> losing number.
+* Trap -> losing number.
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/489295bd-4001-41d6-8788-60d91841efed)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/cb503c7c-42ad-4e53-9a3c-78257fa102db)
+![image](https://github.com/user-attachments/assets/c3ebb91d-35e9-4fe8-b79d-b83bdf5c91f5)
 
-* This is **last pick wins** format.
-* Losing no series -> 6K, 6K - 1.
+* This is **last pick wins** format. [**IMPORTANT**]
 * CF = 2 + 4 = 6.
-* From the **CF** we are going **backwards**.
+* Losing no series -> 6K, 6K - 1.
+* From the **CF** we are going **backwards**. [Logic]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f3789ea0-f1aa-4069-a738-afec41d3b62d)
 
-* If it was **last pick lose** format then after the **controlling factor(CF)** it would have been **+1, +2** like that.
+* If it was **last pick lose** format then after the **controlling factor(CF)** it would have been **+1, +2** like that. It would go **forward**. [Logic] [**IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b71ab453-15c5-430b-bfac-a7b48f096ecb)
 
@@ -370,7 +410,7 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4ef0a74b-d2b1-4441-b465-c182ae599cee)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/24176faf-b87b-4599-a967-c738bd691ed3)
 
-* Last pick win format.
+* Last pick win format. [**IMPORTANT**] [Example]
 * 3 <= n <= 8. [Example] [**IMPORTANT**]
 * CF -> 8 + 3 -> 11
 * Losing no series -> 11K, 11K - 1, 11K - 2. [Answer] [Solution]
@@ -407,17 +447,23 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6d4928c8-5082-4981-ba6d-3b9f5650abda)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b679443b-c7c7-4820-9c9a-db910451e910)
 
-* Answer -> 24
+* Answer -> 24 [Solution] [Example] [Practice] 
 * Option **A**.
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/5dcd99ed-2eec-43e1-b6a2-2e7edf613585)
+![image](https://github.com/user-attachments/assets/30ab570e-8a04-47da-874d-e4b976eb0fe3)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1d8dd295-9827-466e-b9e4-1921e8b5794b)
+![image](https://github.com/arghanath007/MBA/assets/54589605/5dcd99ed-2eec-43e1-b6a2-2e7edf613585)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6ab96bbb-b765-43d6-9f84-d928e8d56248)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b3967779-4295-4da1-a45a-1e3413c1069f)
 
+* CF -> 14.
 * 1512 is the **losing** no. This is the **trap**.
 
+![image](https://github.com/user-attachments/assets/92a91734-6fd6-4ac7-bf09-aeb646ec322d)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e0d62de5-ad3a-4317-b59f-0c0f4f8e0adc)
+
+* LRDI set - 1. [**VERY IMPORTANT**] 
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4f8ffceb-9af5-4b77-ad24-422854b1ca36)
 
 * 2 [Question] [Set 1] [CAT]
