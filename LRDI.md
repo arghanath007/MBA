@@ -467,8 +467,29 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4f8ffceb-9af5-4b77-ad24-422854b1ca36)
 
 * 2 [Question] [Set 1] [CAT]
+* Last pick loses format.
 * CF -> 4 + 6 -> 10.
-* Losing No series -> 10K + 1, 10K + 2, 10K + 3, 10K + 4.
+* Losing no. series -> 10K + 1, 10K + 2, 10K + 3, 10K + 4.
+
+![image](https://github.com/user-attachments/assets/81295d38-9d87-45b6-800c-3cde3eb42992)
+
+* 1.
+* Coins -> 15
+* Loss -> 1,2,3,4 -> 11,12,13,14 
+* We cannot pick from **1,2 and 3** because the min. is '4' only. [Logic]
+* Whatever **winner** picks that cannot be picked by the **loser**.
+* 15 - 4 -> 11
+* 11 - 4 -> 7, 11 - 5 -> 6, 11 - 6 -> 5
+* 7 - 4 -> 3, 7-6 -> 1
+* 6 - 4 -> 2, 6-6 -> 0
+* 5 - 4 -> 1, 5-5 -> 0
+* What Arjun cannot pick.
+
+![image](https://github.com/user-attachments/assets/bdc90ace-cf33-4856-b903-80c34d8fe22d)
+![image](https://github.com/user-attachments/assets/d74aa7be-1a6a-4abf-9a61-7505b07ec565)
+
+* Answer -> 4 [1] [Solution] [**VERY IMPORTANT**] [Practice]
+* Option **C**. 
 * The nos that are closest to **15**.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2f44763d-737b-480b-a55e-7f92ac2a9d30)
@@ -488,6 +509,18 @@
 * Answer -> 4
 * Option **C**. [1] [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b11e6d50-f3e5-4992-a9be-c57114698bdf)
+
+* 2
+* 10 * 10 -> 100
+* Losing no. series -> 101, 102, 103, 104
+* Arjun cannot win the game starting from a **Losing number**.
+
+![image](https://github.com/user-attachments/assets/39c8f407-af44-471a-8349-cd9a35e5ae99)
+
+* Answer -> 105 [2] [Solution] [**VERY IMPORTANT**] [Practice]
+* Option **D**. 
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/96fa4958-c0b2-44b3-8b28-087f0d984d10)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/537f0c40-6552-4393-b495-23252bc6fd70)
 
@@ -496,6 +529,24 @@
 * These **102, 103, 104** are losing nos, so **105** is the answer.
 * Answer -> 105
 * Option **D**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c47bec24-1651-449f-80ce-b66690491bf8)
+
+* 3
+* Max value of coins -> 8 < n < 20
+* range of coins we can pick -> 4 <= n <= 6
+* Losing No series -> 10K + 1, 10K + 2, 10K + 3, 10K + 4 -> 11, 12, 13, 14
+* 19 - 5 -> 14
+* 18 - 4 -> 14
+* 14 -> losing number.
+* We want the **max. value**, so it is '19'.
+
+![image](https://github.com/user-attachments/assets/0abdeba4-233f-4923-ba6c-a5ceb19ece46)
+![image](https://github.com/user-attachments/assets/34076067-6f6f-4783-b18d-6b8f37656bc8)
+![image](https://github.com/user-attachments/assets/f66a81b5-dd49-419a-9d2d-6165f4449b74)
+
+* Answer -> 19 [3] [Solution] [**VERY IMPORTANT**] [Practice]
+* Option **A**. 
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1c071956-5046-4203-87c5-d01b603550eb)
 
@@ -511,30 +562,70 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/319a9e7c-97a3-4633-a184-f5a73400e528)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f92bbe77-307f-4828-944b-257e6316571c)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/46808d4a-4f15-48ce-b796-bc4ab50a1183)
+![image](https://github.com/user-attachments/assets/929d0be7-79f6-4a8c-b33d-6a3d8d6ea09a)
 
 * 2 [Question]
+* Last pick loses. [**IMPORTANT**]
 * 2<= n <=6
-* Last pick loses format.
 * CF -> 2 + 6 -> 8
+
+![image](https://github.com/user-attachments/assets/a690de99-f031-40b1-b7de-eeae237ff6bb)
+
+* 1.
+* Coins -> 60
 * 8 * 7 -> 56
 * Losing no series -> 8K + 1, 8K + 2 -> 57, 58.
 * 60 - 2 -> 58.
 * 60 - 3 -> 57.
+* Opponent will be on a losing no and Kushal will find the game.
 * His -> Kushal's win.
+
+![image](https://github.com/user-attachments/assets/0437e4ed-58e9-46dd-8ffd-154eca48800f)
+
 * Answer -> either 2 or 3.
 * Option **D**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Read the question] [Got it wrong]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/67ab06bc-8471-45b7-89d0-9b987c6a29cf)
 
-* No matter how many coins kushal picks -> It means that kushal is on a losing number. [Explain] [Logic] [**IMPORTANT**]
+* No matter how many coins kushal picks -> It means that kushal is on a losing number -> Kushal gets a **losing/trap** number. It is kushal's time to pick no. of coins. Kushal's picking of coins doesn't matter, he is already on a **losing/trap** number. 
+ [Explain] [Logic] [**VERY IMPORTANT**]
+* Losing no series -> 8K + 1, 8K + 2 
 * 64 -> 8 * 8 -> Not a losing no.
 * Losing no series -> 8K + 1, 8K + 2 -> 65, 66
 * 54 -> 8 * 7 -> Not a losing no.
 * Losing no series -> 8K + 1, 8K + 2 -> 57, 58
-* 97 -> 8 * 12 -> 96 -> losing no.
+* 8 * 12 + 1 -> 97 -> losing no.
 * Losing no series -> 8K + 1, 8K + 2 -> 97, 98
+
+![image](https://github.com/user-attachments/assets/c4422264-77d8-4e13-b0dc-51c41cd15e3a)
+![image](https://github.com/user-attachments/assets/aa899a11-f27b-441a-9ca0-586d9e10ae07)
+
 * Answer -> 97
-* Option **C**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
+* Option **C**. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Try Again] [Practice]
+
+![image](https://github.com/user-attachments/assets/52ce1d89-0dfe-4d35-b3ed-1cb986729b4f)
+
+* 3.
+* We have to give a losing no. to kushal so that shreya wins.
+* Coins -> 38
+* 8 * 4 -> 32
+* Losing no series -> 33, 34.
+* 38 - 5 -> 33.
+* We are giving a losing number i.e 33 to kushal.
+* Coins -> 50
+* 8 * 6 -> 48
+* Losing no series -> 49, 50.
+* We can't start on a losing number. So 'B' is wrong.
+* Coins -> 77
+* 8 * 9 -> 72
+* Losing no series -> 73, 74.
+* 77 - 5 -> 72
+* We are giving a winning number i.e 72 to kushal.
+
+![image](https://github.com/user-attachments/assets/6d60adb5-fecb-4771-90d4-8747d98ee3a1)
+
+* Option **A**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Got it wrong] [Read Question]
+* Answer -> 38
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/585c6e0a-c245-45fd-8a56-d76c5362242c)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/91cfb9fa-1f63-4d70-a054-580d726b0402)
@@ -554,30 +645,47 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/683ca91c-e85d-4ff8-bca5-821374bf0ccc)
 
 * 2 [Question] [4 and 5]
-* Last pick wins format.
+* Last pick wins format. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/983bc00c-6864-4734-9dde-4c2577fa4923)
+
+* 4
 * 900 coins
 * CF -> 8
 * 112 * 8 -> 896
 * Losing nos -> 8K, 8K -1 -> 896, 895
 * 900 - 4 -> 896.
 * 900 - 5 -> 895.
+
+![image](https://github.com/user-attachments/assets/3ffe0074-21a7-42c1-bbde-76170811047a)
+
 * Answer -> either 4 or 5
 * Option **D**. [4] [Answer] [Solution] [**VERY IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a155bead-0c12-485e-b749-88bd8dd393fe)
 
-* 49 - 2 -> 47 -> 8 * 6 -> 48 -> Losing No
+* 49 - 2 -> 47 -> Losing No
+* 8 * 6 -> 48 
 * Losing nos -> 8K, 8K -1 -> 48, 47
-* 67 - 2 -> 65 -> 8 * 8 -> 64 -> Not a Losing No
+* 67 - 2 -> 65 -> Not a Losing No
+* 8 * 8 -> 64
 * Losing nos -> 8K, 8K -1 -> 64, 63
-* 101 - 2 -> 99 -> 8 * 12 -> 96 -> Not a Losing No
+* 101 - 2 -> 99 -> Not a Losing No
+* 8 * 12 -> 96
 * Losing nos -> 8K, 8K -1 -> 96, 95
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1ff04fec-66b2-4a06-8080-6ef710d426cc)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a50e838e-f967-41d8-93c2-cdebfc8cdbd9)
+![image](https://github.com/user-attachments/assets/c065fe87-b2d4-4288-9ad0-6ffcb5e0ecdb)
 
 * Answer -> 49
 * Option **A**. [5] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5d61bc94-8d52-4c1f-845f-ea41f28a2945)
+
+* 4
+* HW
+* For next class.
 
 ## Quant Puzzles Part(3)
 
