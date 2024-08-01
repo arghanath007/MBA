@@ -687,7 +687,7 @@
 * HW
 * For next class.
 
-## Quant Puzzles Part -3
+## Quant Puzzles Part - 3
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/586aa824-6fc4-4ae4-a739-49fadfc17b86)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/214a9e4d-9ed1-42df-82a8-9556bd85d236)
@@ -761,8 +761,8 @@
 
 ![image](https://github.com/user-attachments/assets/9079d292-1921-4eb1-b67f-be7a123faf1b)
 
-* Left side is **Powers of '2'**. [**IMPORTANT**]
-* Right side is **Power of '2' and minus '1'(-1)** -> 2 ^ n) - 1. [Formula] [**IMPORTANT**]
+* Left side is **Powers of '2'**. [**VERY IMPORTANT**] [Pattern]
+* Right side is **Power of '2' and minus '1'(-1)** -> 2 ^ n) - 1. [Formula] [Pattern][**VERY IMPORTANT**]
 * 2 ^ 4 -> 16
 * (2 ^ 5) - 1 -> 31
 * 16(2 ^ 4) -> 31((2 ^ 5) - 1). [n =4, Left =n, Right =(n+1)] [**IMPORTANT**]
@@ -832,81 +832,128 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a60b619b-5da9-4d1c-ad85-790561c2c331)
 
 * 2 [Question] [Set]
-* We need to **minimize** the **no. of weights** we are putting on the balance. [Logic] [**IMPORTANT**]
+* We need to **minimize** the **no. of weights** we are putting on the balance. That's asked in the **question**. [Logic] [**IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e0d46bb1-0962-42f8-bfd7-559bc5db13e7)
 
 * 3kg - 1kg -> 2kg.
-* We can use the **difference** in the **weights**.
+* 3 - 1 -> 2kg difference we have created.
+* We can use the **difference** in the **weights**. [Logic] [**VERY IMPORTANT**]
+* We have to put as **less weight** as possible.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ca0b6f15-0277-4614-a1d9-6a28f200f5d9)
 
-* If we have **1kg and 3kg** stones then we can weight upto **4kg**.
+* To measure '1kg' we will keep a '1kg' stone on one of the sides of the balance.
+* To measure '2kg' we will keep '3kg' on one side and '1kg' on the other side of the balance. So the difference(3-1 -> 2) is '2kgs'.
+* To measure '3kg' we will keep a '3kg' stone on one of the sides of the balance.
+* To measure '4kg' we will keep a '3kg and 1kg' stone on one of the sides of the balance. So the sum(3 + 1 -> 4) will be '4kgs'.
+* If we have **1kg and 3kg** stones then we can weight upto **4kgs**. [**IMPORTANT**]
+* Now we can't measure '5kg' stone.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/46e18d8e-ae8d-4331-94a7-8ff378f0b658)
 
-* If we have **9Kg** weight on one side and we put **1kg and 3kg** weights on the other side then the **differene** in the **weight** is **9 - 4 -> 5kg**. This is how we will get **5kg**. We do not need a **5kg** weight.
+* Instead of taking a '5kg' stone, we will take try to get the '5kg' by doing **difference** from both the sidess.
+* 3 + 1 -> 4kg.
+* 9 - 4 -> 5kg.
+* If we have **9Kg** weight on one side and we put **1kg and 3kg** weights on the other side then the **differene** in the **weight** is **9 - (3+1) -> 9 - 4 -> 5kg**. This is how we will get **5kg**. We do not need a **5kg** weight.
+* The difference is '9kg'.
+* With the '9kg' stone we can measure '5kgs'.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a2256c6a-cb99-49c7-a59a-a5e8e0d4289a)
 
-* To use **min** no. of **stones/weights**, we have to **maximize** the **value**. [Logic] [**IMPORTANT**]
+* To use **min./minimize** the no. of **stones/weights** then we have to **maximize** the **value** of the stones. [Logic] [**IMPORTANT**]
+* We have to put high value on the weights. We are maximizing the **weights**.
+* With the weights of '1,3 and 9' we can measure upto a max. sum of **13kgs**.
 * 9 + 3 + 1 -> 13kgs.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/764d5c7b-af51-47c2-8771-e96d45f7d3ce)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ac2ad942-bf10-450c-8408-9ad897297342)
 
-* 9 + 3 - 1 -> 11kgs.
+* Put '9 and 3' on one side and '1' on the other side, so the difference will be '11kgs'.
+* (9 + 3) - 1 -> 11kgs.
+* Put '9' on one side and '3' on the other side, so the difference will be '6kgs'.
 * 9 - 3 -> 6kgs.
+* Put '9 and 1' on one side and '3' on the other side, so the difference will be '7kgs'.
+* (9 + 1) - 3 -> 7kgs.
+* * Put '9, 3 and 1' on one side and the sum will be '13kgs'.
+* Max is '13kgs.
+* We now we need to measure '14kgs'.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ff7da0dd-8b02-419f-b9f3-3913f48bfd37)
 
 * 4 + 5 -> 9kgs.
-* 13 + 14 -> 27kgs
+* Instead of taking a '14kg' stone, we will take try to get the '14kg' by doing **difference** from both the sides. So we will take a '27kg' stone.
 * 27 - 13 -> 14kgs.
+* 13 + 14 -> 27kgs
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2d684439-48ed-427f-8d93-46301c23ffec)
 
-* 1 sided balance pattern -> Power of 2. [Logic] [Formula] [**VERY IMPORTANT**] [Practice Again]
-* 2 sided balance pattern -> Power of 3. [Logic] [Formula] [**VERY IMPORTANT**] [Practice Again]
+* 1 + 3 + 9 + 27 -> 40kgs.
+* Upto max. sum with '1,3,9,27' kg weights is '40kgs'. [**IMPORTANT**] 
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/8937ab29-bfc0-49c0-a52d-f7ee1ebf6f90)
+
+* 1 sided balance pattern -> Powers of 2. [Logic] [Formula] [**VERY IMPORTANT**] [Pattern] [Practice Again]
+* 2 sided balance pattern -> Powers of 3. [Logic] [Formula] [**VERY IMPORTANT**] [Practice Again] [Pattern]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/17bb0a70-d4f8-4e2d-b0e3-aeb7def07fd0)
 
-* 40 + 41 -> 81kgs.
+* We cannot measure '41kg'. In order to do we will do sum of '40 and 41', we will get '81kgs'. So we will take a weight of '81kgs' to measure '41kg'.
+* 81 - 40 -> 41kgs.
+* 40 + 41 -> 81kg.
+* 1 + 3 + 9 + 27 + 81 -> 121kgs.
+* Upto max. sum with '1,3,9,27,81' kg weights is '121kgs'. [**IMPORTANT**] 
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3367adab-2e93-42fd-bea3-604ba282f309)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/88fae6f8-90e3-47b5-b7f5-0b128770931b)
+
+* For '122kg' we would need '121 + 122 -> 243kg'.
+* 3 ^ 5 -> 243.
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/b5d4c28f-5136-4015-bdea-b8486e771a44)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d26b8842-7dac-494b-8a26-47d32fbb87a4)
+![image](https://github.com/user-attachments/assets/b8518c0a-4608-42d9-a2a0-3dfa7b5c65eb)
 
 * Pattern. [**VERY IMPORTANT**]
-* Left Side -> power of 3.
-* Right side -> ((3 ^ (n)) - 1)/2 [n -> 1,2,3,4,...]
+* Left Side -> power of 3. [**VERY IMPORTANT**] [Pattern]
+* Right side -> ((3 ^ (n+1)) - 1)/2 [n -> 1,2,3,4,...] [**VERY IMPORTANT**] [Pattern]
+* n = 5. [Example]
+* left side -> 3 ^ 5 -> 243
+* Right side -> (3 ^ (5 + 1) - 1)/2 -> ((3 ^ 6) - 1)/2 -> 728/2 -> 364.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3d773f71-3b34-43bd-8e3d-cc92a6a59363)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/c6635e3f-bbfe-41b3-a5d6-50d62437aa7f)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ae7c397b-63ac-403e-8b0c-bbedd1e0b807)
 
 * If we keep **729kgs** then we can measure upto **1093kgs**.
-* If we want to measure after **364kgs** then we will need from **3 ^ 0 to 3 ^ 6** which is **0 to 6 -> '7'** stones.
+* If we want to measure after **364kgs** then we will need from **'3 ^ 0' to '3 ^ 6'** which is **0 to 6 -> '7'** stones.
+
+* 1. [2]
 * 1kg to 1000kg
 * Power of 3 which is closer to 1000.
 * 3 ^ 6 -> 729
 * 3 ^ 7 -> 2187
 * So we want more than **3 ^ 6** but less than **3 ^ 7**. So we need atleast **3 ^ 6**. So it is from **3 ^ 0 to 3 ^ 6** which is **0 to 6 -> '7'** stones.
-* **3 ^ 0 to 3 ^ 6** -> 0 to 6 -> **'7'** stones
-* Answer -> 7 [Solution] [Answer] [**VERY IMPORTANT**]
+* **3 ^ 0 to 3 ^ 6** -> 0 to 6 -> **'7'** stones. [Logic]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/dd3b3c16-7f94-44b7-a155-b0553de5bfb0)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/7ab6a4a0-2549-44c6-9457-b4bfbb6bd26f)
-![image](https://github.com/arghanath007/MBA/assets/54589605/a74b4c18-2eb4-4d65-8f81-150407f5c67b)
-![image](https://github.com/arghanath007/MBA/assets/54589605/f4785293-6946-4716-874d-d0f111753bcd)
 
+* Answer -> 7 [2] [1] [Solution] [Answer] [**VERY IMPORTANT**]
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/a74b4c18-2eb4-4d65-8f81-150407f5c67b)
+
+* 2. [2]
 * 1kg to 2100kg
+* Power of 3 which is closer to 2100.
 * 3 ^ 7 -> 2187 -> We can measure upto **1093Kg**. We need till **2100kg**. [((3 ^ 7) - 1)/2 -> 1093kg]
 * 3 ^ 8 -> 6561 -> We can measure upto **3280**. Now we can measure till **2100kg**. [((3 ^ 8) - 1)/2 -> 3280kg]
 * So we want more than **3 ^ 7** but less than **3 ^ 8**. So we need atleast **3 ^ 7**. So it is from **3 ^ 0 to 3 ^ 7** which is **0 to 7 -> '8'** stones.
 * **3 ^ 0 to 3 ^ 7** -> 0 to 7 -> **'8'** stones
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/f4785293-6946-4716-874d-d0f111753bcd)
+![image](https://github.com/user-attachments/assets/00b983c9-0297-4e7f-b690-511025a55046)
+
 * Answer -> 8 [Solution] [Answer] [**VERY IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a9ab28ef-2325-46a1-b201-1ca48783c64e)
@@ -914,48 +961,259 @@
 * 4 [Question] [Set]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/75aa4ef6-8924-42cb-a6ea-ff45c1a3bd67)
+![image](https://github.com/user-attachments/assets/8b4afd11-8b52-4b45-894b-cffa4ddbf4ab)
+
+* 5 + 5 + 1 + 1 -> 12kgs.
+* We will create **13kg** with the help of **difference** from both the sides.
+* 12 + 13 -> 25
+* 25 - 12 -> 13.
+
+![image](https://github.com/user-attachments/assets/b1fca988-558a-4476-920d-288b2d78111d)
+
+* Upto max. sum we can do is -> 1 * 2 + 5 * 2 + 25 * 2 -> 62kgs.
+* We will create **63kg** with the help of **difference** from both the sides.
+* 62 + 63 -> 125
+* 125 - 62 -> 63.
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6b6b7ae4-9280-4f57-92ec-a2f8553c2f67)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/38c2b605-5b02-4ff2-a78f-ec4b60a8a5b4)
 
 * It is in the **power of '5'**. [Logic] [**VERY IMPORTANT**]
-* (125-1)/2 -> 62
-* (25-1)/2 -> 12
+* 125 -> (125-1)/2 -> 62. [Pattern] [**VERY IMPORTANT**]
+* 25 -> (25-1)/2 -> 12. [Pattern] [**VERY IMPORTANT**]
+* Upto max. sum we can do is -> 1 * 2 + 5 * 2 + 25 * 2 + 125 * 2 -> 312kgs.
 * It is from **0 to 3** which is **4**.
-* To measure upto **250kgs**, we need **4** stones.
+* To measure upto **250kgs**, we need **4** stones. 
 * Answer -> 4 [1] [Answer] [Solution] [**VERY IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ff9450a7-ad76-4ac7-9823-56c446df39eb)
-![image](https://github.com/arghanath007/MBA/assets/54589605/4b40a8ef-23a9-42b0-bce9-95e689979ba7)
-![image](https://github.com/arghanath007/MBA/assets/54589605/7ed8dc57-cf05-4de4-b2a0-39028bd42a94)
 
+* 2.
+* Measure -> 600kg.
+* 313 + 312 -> 625kg 
+* 625 - 312 -> 313kg
 * 5 ^ 4 -> 625
 * (625 - 1)/2 -> 312
 * 625 * 5 ->  5^5  -> 3125
-* (3125 - 1)/2 -> 1562.5 -> 1562
-* It is from **0 to 4** which is **5**
-* To measure upto **600kgs**, we need **5** stones.
-* Answer -> 5 [2] [Answer] [Solution] [**VERY IMPORTANT**]
+* (3125 - 1)/2 -> 1562
+* Upto max. sum we can do is -> 1 * 2 + 5 * 2 + 25 * 2 + 125 * 2 + 625 * 2 -> 1562kgs.
+* It is from **0 to 4** which is **5**.
+* To measure upto **600kgs**, we need **5** stones. 
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/645af39d-fef0-4539-9874-2d32564e3c08)
+![image](https://github.com/arghanath007/MBA/assets/54589605/4b40a8ef-23a9-42b0-bce9-95e689979ba7)
+![image](https://github.com/arghanath007/MBA/assets/54589605/7ed8dc57-cf05-4de4-b2a0-39028bd42a94)
+![image](https://github.com/user-attachments/assets/e234d82c-6ce0-4caa-b240-c26164feab04)
+
+* Answer -> 5 [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4fa6f14e-b2b0-45ca-aa3e-3add2359fc21)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/0a931295-9241-445e-849d-4161859f2a33)
 
 * 5 [Question] [Set] [Doubt]
+* We need to find some middle ground.
+* For the 7days of work, the carpenter wants '140g' of gold as payment. Which means for every day's work, we have to give him '20g' of gold.
+* 20 * 7 -> 140g.
+
+![image](https://github.com/user-attachments/assets/d42da3ba-475e-474e-b489-4e8bf1cda856)
+
+* On 1st day we had to cut '20g' from the gold biscuit and gave it to the carpenter for 1st day's work.
+
+![image](https://github.com/user-attachments/assets/ba09daf3-3645-4541-b8d5-6d7ca5d87cfb)
+
+* On 2nd day, the carpenter would return 1st day's '20g' of gold and we would cut a '40g' piece from the gold biscuit and gave it to the carpenter for 2nd day's work.
+* We are minimizing the no. of cuts.
+
+![image](https://github.com/user-attachments/assets/2d5bed2d-8544-49bb-9ce9-32fd48951631)
+
+* On 3rd day, we would return the '20g' of gold the carpenter returned to us on day '2'. So at the end of day '3' the carpenter is having '40 + 20 -> 60g' of gold. 
+
+ ![image](https://github.com/user-attachments/assets/ab579b6c-8ade-4a9e-b294-28a2e7ea9fb0)
+
+* On 4th day, the carpenter would return the '20g + 40g' of gold and we would give the carpenter the '80g' piece of gold for 4th day's work.
+* We didn't cut any pieces.
+
+![image](https://github.com/user-attachments/assets/e9b0a6c0-0e5e-4d6c-b84a-0cd20dfd86ae)
+
+* On 5th day, the carpenter already had the '80g' of gold from the previous day and we would give the carpenter the '20g' piece of gold for 5th day's work.
+* 80 + 20 -> 100g.
+
+![image](https://github.com/user-attachments/assets/acb433ab-20ac-461b-b533-8e9a5f3dd397)
+
+* On 6th day, the carpenter already had the '80 + 20g' of gold from the previous day, the carpenter would return the '20g' piece of gold and we would give the carpenter the '40g' piece of gold for 6th day's work.
+* 80 + 40 -> 120g.
+
+![image](https://github.com/user-attachments/assets/b65c7bd5-04bd-453b-a56f-1adbe227f827)
+
+* On 7th day, the carpenter already had the '80 + 40g' of gold from the previous day, we would give the carpenter the '20g' piece of gold for 7th day's work.
+* 80 + 40 + 20 -> 140g.
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2dc1ab8b-31f9-4769-bcdb-f87661129953)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/3622306b-0c9e-4387-a3d1-067f263edd50)
-![image](https://github.com/arghanath007/MBA/assets/54589605/84e1a595-cbf8-415e-ad22-74e19ecf2441)
-![image](https://github.com/arghanath007/MBA/assets/54589605/988ff2c6-3af4-47e6-b76b-10a2399539ea)
-![image](https://github.com/arghanath007/MBA/assets/54589605/1d387577-319e-482a-8a3e-055ae2c72c6e)
 
-* Answer -> [1]
-* (80 + 20)/140 -> 100/140-> 5/7 -> 5/7 -> 71.4 % 
-* Answer -> 71.4 % [2]
-* (20)/140 -> 1/7 -> 14.28 % 
-* Answer -> 71.4 % [3]
-* Answer -> 60g [4]
+* Explaination.
+* 1-Cut -> 20g.
+* 2-Cut -> 40g.
+* 140 - (20 + 40) -> 140 - 60 -> 80g
+* Remaining piece -> 80g
+* No. of gold biscuit pieces -> 20, 40, 80 -> 3. [1]
+
+![image](https://github.com/user-attachments/assets/0cbb1bb2-fe3e-4ee6-bb1e-59289703997c)
+
+* 1
+* Answer -> 3 [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/ab710c72-d098-4d82-a225-07bb420e355f)
+
+* 2
+* Lightest -> 20.
+* Heavest -> 80.
+* Weight -> 100
+* Total -> 140
+* % of weight -> 100/140 * 100% -> 71.4%.
+* Answer -> 71.4%. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/208d8edd-8e49-4297-9cda-5f311199932c)
+
+* 3
+* Gold given -> 20g.
+* % of weight -> 20/140 * 100% -> 14.28%%.
+* Answer -> 14.28%. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/f771480a-ca12-42e5-aebb-9728a91b80bd)
+
+* 4
+* Gold given -> 60g.
+* Answer -> 60g. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/32d2508c-fc65-4a11-a52c-b7064db785b8)
+
+* Explaination. [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/ae2948ba-24ea-47b0-b3eb-d33a9b72cebc)
 
 ## Puzzles (Part - 4)
+
+![image](https://github.com/user-attachments/assets/e3f8b3ce-cda7-437d-b453-c44832eeeb10)
+
+* 6 [Question] [Set] 
+
+### 1. Counting
+
+![image](https://github.com/user-attachments/assets/93a43305-9916-400a-99fd-d7f4d02a94f3)
+
+* nCr formula. [Formula] [**VERY IMPORTANT**]
+* Shortcut for counting.
+
+![image](https://github.com/user-attachments/assets/861599d0-61d8-4dc1-9f96-3c5e93fd92f4)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/a3d401a1-4e8a-4be1-8bef-9f1efea77ec5)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/ab2647f2-3a27-4038-b549-0ffeb7e2b965)
+![image](https://github.com/user-attachments/assets/885c93ec-e277-4eb2-83a3-a3de73ed3fa0)
+
+* Question.
+* We got '10' weights of flowers. Why '10'?
+* We have '5' different groups of flowers.
+* We are weighing the flowers in groups of '3'.
+* nCr -> 5C3 -> 10.
+
+![image](https://github.com/user-attachments/assets/ffadc83f-efac-4f13-aaa0-90a229cbfd4f)
+
+* Middle groups -> complex.
+
+![image](https://github.com/user-attachments/assets/7f046452-d542-499f-a6a3-e03dd6a30adf)
+![image](https://github.com/user-attachments/assets/b957789c-8296-41ce-ae82-b96a366b9922)
+
+* Each equation has '3' variables and we have '10' equations. So we will have '3 * 10 -> 30' variables.
+* We have '5' different variables which means '30/5 -> 6'. So each variable is getting repeated '6' times.
+* We want '5' equations.
+* 6 * 5 -> 30.
+* 1272.
+
+![image](https://github.com/user-attachments/assets/ae1de03c-6998-45d7-a53c-73674ac00126)
+
+* a + b + c + d + e = 212kg [Example]
+* if, a + b + c = 106
+* then, d + e = 212 - 106 = 106.
+
+![image](https://github.com/user-attachments/assets/517dd7ab-9fcd-46d7-880a-1370ddb61cdc)
+
+* a + b + d = 116.
+* a + b = 66
+* d = 116 - 66 -> 50kg.
+* d + e = 106
+* e = 106 - 50 = 56kg. 
+
+![image](https://github.com/user-attachments/assets/12f6b012-fa1c-47e6-8806-cb49eb6f9870)
+![image](https://github.com/user-attachments/assets/b3976f18-b77f-4772-9eba-f2edf607d8d1)
+
+* If the **middle** number is the **avg.** of the other '2' nos. then those nos. are in AP series. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/55e28601-5ba7-40ef-aaaa-819f03d5b534)
+
+* d =50, e= 56, c= 40, a= 30, b= 36.
+* We can see that **a,c and d** are in **AP** series.
+* a,c, d -> 30 40 50.
+* We know that tuberose is '40' because it is said in the **question** that tuberose is the avg. of tulips and hydrangeas. [Logic]
+* tuberose -> 40
+* We don't know if tulip is 30 or 50.
+* We don't know if hydrangeas is 30 or 50.
+* In the question, it is mentioned that hydrangeas is heavier than freesia but lighter than orchid. [Logic]
+
+![image](https://github.com/user-attachments/assets/ce91dd19-ff6e-46d6-9874-7f965cc8ea4f)
+![image](https://github.com/user-attachments/assets/5ee5f9bc-3ced-49b5-9fda-a0be0b902032)
+
+* hydrangeas cannot be '30kgs' because it is mentioned that hydrangeas is heavier than freesia but '30kg' is not heavier than any other flower.
+* So, the tupils is '30kgs' which is 'a'.
+* It also means that tulips cannot be '50kgs' so hydrangeas is '50kgs' which is 'd'.
+
+![image](https://github.com/user-attachments/assets/dff18410-fc85-4798-8a6c-891d0b3c90be)
+
+* As '56' is lighter than hydrangeas which is '50kgs' and it is mentioned that hydrangeas is lighter than orchid.
+* So, orchid is '56kgs' which is 'e'.
+* So the last freesia is '36kgs' which is 'b'.
+
+![image](https://github.com/user-attachments/assets/6675c6f9-d3fc-41fe-93eb-00eeb908501b)
+![image](https://github.com/user-attachments/assets/6670ba47-f59c-4055-9593-3bb80f1589ab)
+![image](https://github.com/user-attachments/assets/2693b312-9c69-44a5-833e-0368832ce113)
+![image](https://github.com/user-attachments/assets/540f2adb-eb4e-4b86-8981-f9cca2df365c)
+
+* 7 [Question] [Set] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
