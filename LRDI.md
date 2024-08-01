@@ -693,46 +693,61 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/214a9e4d-9ed1-42df-82a8-9556bd85d236)
 
 * 1 [Question] [Set]
-* Last pick loses.
+* Last pick loses. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1e025614-34f8-4cd3-94a3-ab11f9709ba9)
+
+* 1.
 * 684 coins
 * 114 * 6 -> 684
 * 113 * 6 -> 678
-* We are nos before **684** that's why we are using the multiple of **113** with **6** which gives **678** which is **smaller than 684**. [Logic] [Explain] [**VERY IMPORTANT**]
+* We want the nos which are **losing nos** before **684**.
+* **114** is giving **684** which is not what we want. We want nos before **684** that's why we are using the multiple of **113** with **6** which gives **678** which is **smaller than 684**. [Logic] [Explain] [**VERY IMPORTANT**]
 * 2,3 and 4 -> 2<= n <=4.
 * CF -> 2 + 4 -> 6
 * Losing no series -> 6K + 1, 6K + 2 -> 679, 680
 * We cannot do **5** as the max limit is **4** only.
-* 684 - 4 -> 680
-* Answer -> 4
-* Option **A**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Got it wrong]
+* 684 - 4 -> 680 -> losing nos
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a0ed4d1f-4a95-4334-8f88-39e745c32836)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/da543a07-081a-4fe5-8a1f-500ed0058cce)
 
-* Last pick loses.
+* Answer -> 4
+* Option **A**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice Again] [Got it wrong]
+
+![image](https://github.com/user-attachments/assets/d38dd337-a2c4-4dfe-8716-a54da1a2bdaa)
+
+* 2.
+* Last pick loses. [**IMPORTANT**]
 * 3,4,5,6,7 -> 3<= n <=7.
 * 1733 coins.
-* 173 * 10 -> 1730
 * CF -> 3 + 7 -> 10
+* 173 * 10 -> 1730
 * Losing no series -> 10K + 1, 10K + 2, 10K + 3 -> 1731, 1732, 1733.
-* We are starting on **losing no** only which is **1733** which means that **A** will **never win**. **A** is already on a **losing number**.
-* Answer -> Never win
-* Option **E**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
+* We are starting on a **losing no** only which is **1733 -> 10K + 3** which means that **A** will **never win**. **A** is already on a **losing number**. [Logic]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e1536ff3-b1aa-4353-99bb-a98f8d5fe437)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d0047137-04c1-460b-8719-95e29e5a65e1)
 
-* Last pick wins.
+* Answer -> Never win
+* Option **E**. [2] [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bbbce78b-8af8-4eae-b773-acceb61ea3a8)
+
+* 3.
+* Last pick wins. [**IMPORTANT**]
 * 7,8,9,10,11,12,13 -> 7<= n <=13.
 * 2440 coins.
 * CF -> 7 + 13 -> 20
 * 122 * 20 -> 2440 [20K]
-* Losing no series -> 20K, 20K-1, 20K-2, 20K-3, 20K-4, 20K-5, 20K-6,
-* We are starting on **losing no** only which is **2440** which means that **A** will **never win**. **A** is already on a **losing number**.
+* Losing no series -> 20K, 20K-1, 20K-2, 20K-3, 20K-4, 20K-5, 20K-6 -> 2440, 2439, 2438, 2437, 2436, 2435, 2434. 
+* We are starting on a **losing no** only which is **2440** which means that **A** will **never win**. **A** is already on a **losing number**.
+
+![image](https://github.com/arghanath007/MBA/assets/54589605/baa8286b-bb60-4cbd-b32a-2447a4f8700f)
+
 * Answer -> Never win
 * Option **E**. [3] [Answer] [Solution] [**VERY IMPORTANT**]
 
-![image](https://github.com/arghanath007/MBA/assets/54589605/baa8286b-bb60-4cbd-b32a-2447a4f8700f)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4d78cd1f-9965-4fbd-ab22-7b0b1c5a25f1)
 
 * 2 [Question] [Set] 
@@ -744,17 +759,47 @@
 
 * We can measure upto **7Kgs**.
 
+![image](https://github.com/user-attachments/assets/9079d292-1921-4eb1-b67f-be7a123faf1b)
+
+* Left side is **Powers of '2'**. [**IMPORTANT**]
+* Right side is **Power of '2' and minus '1'(-1)** -> 2 ^ n) - 1. [Formula] [**IMPORTANT**]
+* 2 ^ 4 -> 16
+* (2 ^ 5) - 1 -> 31
+* 16(2 ^ 4) -> 31((2 ^ 5) - 1). [n =4, Left =n, Right =(n+1)] [**IMPORTANT**]
+* We want to measure from **1kg to 1000kg**.
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ec6ad10a-8a91-475d-9579-a4a120ba9b39)
+
+* We took stones till **2 ^ 9 -> 512**.
+* (2 ^ 10) - 1 -> 1023
+* To measure upto **1023kgs** we need **10** different stones.
+* 2^10 -> 1024
+* 2^11 -> 2048
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/11396dc6-7dc2-4b3f-b4eb-3fcacb8a059a)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6833aa68-584a-438a-8863-aa5e8f28d8bc)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/193c24e8-a8b1-4324-a6ae-c571f93ddb2e)
 
-* Left side is **Powers of '2'**.
-* Right side is **Power of '2' and minus '1'(-1)**.
-* To measure upto **1023** we need **10** stones.
+* We need to find the **patterns** in the questions.
+* 2 ^ 0 to 2^9 -> 1 to 512kgs -> 9 + 1 -> 10 stones. [Logic]
+* 1kg to 1000kg -> 10 stones/weights.
 * Answer -> 10 [1] [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/5426c235-f675-4da8-bc55-ce1d89736f01)
+
+* 2 ^ 0 to 2^9 -> 10 stone -> We can measure **upto** a max. sum of **(2 ^ 10) - 1 -> 1023 kgs**.
+* If we want to measure any no. after **1023kgs** then we will need **11** stones. 
+
+![image](https://github.com/user-attachments/assets/f4c25946-c0af-41fe-b7f6-c3b6a795ad45)
+
+* With the '3' stones of '1,2 and 4' kgs we can measure **upto** a max. sum of **(2 ^ 4) - 1 -> 7 kgs**.
+* If we want to measure '8' kgs then we would definitely need '4' stones for the measurement of '8' kgs.
+
+![image](https://github.com/user-attachments/assets/732c68ed-351e-47d7-89d3-170a13532c9a)
+
+* With the '8' stones we can measure **upto** a max. sum of **(2 ^ 9) - 1 -> 511 kgs**.
+* For any no between 511 and 1023, we will need '9' stones. [**IMPORTANT**]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6f59e1ba-1a4e-4be6-8a11-8f711913f191)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a6866029-7ce0-49d6-9041-bdbd2c863a29)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/f8b8523f-736a-4ca9-aa78-5759f7a13192)
@@ -770,14 +815,23 @@
 * 2 ^ 0 to 2 ^ 10 -> (2^11) - 1 -> 2047 -> 11 stones. [0 to 10 -> 11]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/30a23020-c945-4215-b291-ceb6d06852d5)
+
+* 1 [Solved Above]
+* 1kg to 1000kg -> 10 stones/weights.
+* Answer -> 10 [1] [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
+
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1b880af3-c784-46d0-bb24-65edd5edece8)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4253c5fe-a81a-41c8-8b31-62bb8bea20df)
 
-* * Answer -> 11 [2] [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
+* So for the 1kg to 2000kg, we need from '2^0 to 2^10', we can measure **upto** a max. sum of **(2 ^ 11) - 1 -> 2047 kgs**. [**VERY IMPORTANT**] [Logic]
+* So we need **'11'** stones only for 2000kgs.
+* 2. [Solved Above]
+* 1kg to 2000kg -> 11 stones/weights.
+* Answer -> 11 [2] [Solution] [Answer] [**VERY IMPORTANT**] [Practice Again]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a60b619b-5da9-4d1c-ad85-790561c2c331)
 
-* 3 [Question] [Set]
+* 2 [Question] [Set]
 * We need to **minimize** the **no. of weights** we are putting on the balance. [Logic] [**IMPORTANT**]
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/e0d46bb1-0962-42f8-bfd7-559bc5db13e7)
