@@ -1182,19 +1182,42 @@
 ![image](https://github.com/user-attachments/assets/2693b312-9c69-44a5-833e-0368832ce113)
 ![image](https://github.com/user-attachments/assets/540f2adb-eb4e-4b86-8981-f9cca2df365c)
 
-* 7 [Question] [Set] 
+* 7 [Question] [Set]
+* With '1' cut we cannot give every number, so we will start thinking about **atleast '2' cuts**.
+* Within the whole interlocking of 'n', we are doing '2' random cuts.
+* If we are doing '2' cuts then we will get '2' rings of '1g' each. We will get '2' rings of '1g' each.
 
+![image](https://github.com/user-attachments/assets/47b01254-5286-4f3b-8825-7bdb39f06a4d)
 
+* With with '2', '1g' rings we can measure upto '2g'.
+* We cannot pay '3g'.
 
+![image](https://github.com/user-attachments/assets/f475d77b-c839-4403-aa69-ee9b40a360da)
 
+* To pay the '3g', we need a '3g' ring.
+* We did '2' cuts because we needed '2' cuts at a minimum but we don't know the location/position of the '2' cuts.
+* If we guranteed want a '3g' loop then the 1st cut will be at the 4th ring.
 
+![image](https://github.com/user-attachments/assets/45383d1e-ac5a-4e36-9dfd-cf23009f73d0)
 
+* If we do the cut at the 4th ring then we will get a '3g' ring and a '1g' ring. The other '1g' ring is there when we initially did the '2' cuts.
+* 1st cut -> 4th position.
+* With the '1g, 1g and 3g' rings, we can measure upto '5g'.
+* We cannot measure '6g'.
+* To pay the '6g', we need a '6g' ring.
+* We want a '6g' ring, so we will do our '2nd cut' at 11th position.
 
+![image](https://github.com/user-attachments/assets/4eaa6951-1ee8-439a-b803-5e7b33ef84f2)
+![image](https://github.com/user-attachments/assets/e25f01ac-8769-433f-8c3a-08382ba12e70)
 
+* So the initially assumed '2' cuts were the cuts at 4th and 11th positions. [**IMPORTANT**] [Logic] 
+* With the '1g, 1g, 3g and 6g' rings, we can measure upto '11g'.
+* We cannot do '12g'.
 
+![image](https://github.com/user-attachments/assets/dae018cf-479a-4ed7-9ad1-b4fdb377458b)
 
-
-
+* We would need a '12g' ring.
+* 
 
 
 
