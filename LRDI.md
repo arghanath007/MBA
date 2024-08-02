@@ -1319,6 +1319,94 @@
 
 * 8 [Question] [Set]
 
+![image](https://github.com/user-attachments/assets/6fbe7eeb-4447-4a33-a939-3e4f141179da)
+
+* 1
+
+![image](https://github.com/user-attachments/assets/b6ec9c35-c4c2-4f14-a973-f1c71bc0692b)
+
+* With '2' coins, we can easily tell which one is fake in '1' time only.
+* With '3' coins, we can easily tell which one is fake in '1' time only.
+* We have '213' gold coin.
+* We would want to eliminate max. fake gold coins as possible.
+
+![image](https://github.com/user-attachments/assets/f3a94893-6f91-4594-a0ff-1e88ac36f755)
+
+* If we do half-half(1/2) of the '213' coins, then we will get '106' coins on each side of the balance. We will be left with '106' coins to check for the fake coin.
+* If we do one-third(1/3) of the '213' coins, then we will get '71' coins on each side of the balance. We will be left with '71' coins to check for the fake coin.
+* 71 < 106.
+* So we will check **less** coins in one-third(1/3) than we do in half-half(1/2). That's why we are doing third(1/3) of the coins.
+
+![image](https://github.com/user-attachments/assets/f22a7959-4ed7-41e1-b1a4-f7d890caa474)
+
+* 71/ 3 -> 23, 24, 24.
+* We should be comparing 'B and C' only because they are of the 'same' weight.
+
+![image](https://github.com/user-attachments/assets/e5ba20cc-59fb-463c-bc35-c5dc730ad0b0)
+![image](https://github.com/user-attachments/assets/9ea6d5b7-4845-4449-bc70-22059aea765b)
+
+* After the 2nd weighing, we are able to eliminate either 23 or 24.
+* It won't make any difference if we take '23 or 24' coins.
+
+![image](https://github.com/user-attachments/assets/a66610a9-3921-48d6-8c8a-0822c0ab65bf)
+
+* From '23' we can get '8 or 7'.
+* From '24' we can get '8'.
+
+![image](https://github.com/user-attachments/assets/e193506a-ca32-4e6a-b7ff-a58ed5ec9e8c)
+![image](https://github.com/user-attachments/assets/2500814b-c3d3-477c-a012-c4d5bd8d067b)
+
+* 8 -> 3, 3, 2.
+* From '8' we will get '2 or 3'.
+* It is going to take '1' unit of time to measure us '2' coins or '3' coins. So it doesn't matter if we have '2 or 3' coins at the end. It is going to take '1' unit of time to measure them and find out which is **fake** coin.
+* Whichever we pick whether it is '23 or 24', it is going to take us the **same amount** of time. [Logic]
+
+![image](https://github.com/user-attachments/assets/a450ce6e-666b-4ce5-b1ba-9002d56de1d3)
+
+* For '4' coins, it is going to take us min. of '2' weights.
+* Always doing **one-third(1/3)** is the funda/logic here. [Logic] [**VERY IMPORTANT**]
+* Let's do it with **one-third(1/3)** weighing.
+
+![image](https://github.com/user-attachments/assets/97923dc0-4097-4bf5-97b8-9155ec01d5f6)
+![image](https://github.com/user-attachments/assets/33550497-b735-4290-99b8-71624ca4e012)
+![image](https://github.com/user-attachments/assets/ba690d7e-326d-4159-8374-659a8167989d)
+
+* 2nd weighing -> 24 -> 8,8,8
+* 3rd weighing -> 8 -> 3,3,2.
+* We would take the equal weights which is '3'.
+* We will see which is **fake**.
+* For 4th weighing we can either get '2 or 3'.
+* 4th weighing -> 2 or 3 -> Final fake coin found.
+
+![image](https://github.com/user-attachments/assets/28cf50ce-6cea-43e5-a87d-6307ce95ccf9)
+
+* It would  be '5' weighing, sir missed one weighing earlier. It is **fixed** below.
+* Explaination below.
+* Answer -> 5. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/10d834c7-93bc-4363-97e5-06d094a182ca)
+![image](https://github.com/user-attachments/assets/e92c58fc-ad2a-4667-a0f8-cac90848d783)
+![image](https://github.com/user-attachments/assets/1e86bc45-dff1-4637-aca1-2382ba1dfd5c)
+
+* Fixed explaination of '3'.
+
+![image](https://github.com/user-attachments/assets/a8aa3704-b576-4d39-b1ea-aa2031ba82b7)
+
+* For next class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
