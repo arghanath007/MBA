@@ -16,6 +16,10 @@
 ![image](https://github.com/user-attachments/assets/265d25e5-fe48-4896-91a8-c11d412e4edc)
 ![image](https://github.com/user-attachments/assets/8d83fbb2-0fea-4823-abb8-983e81e75379)
 
+* Need linkedln profile.
+* Need CV.
+* Need projects, experiences.
+* Always **up-skill** yourself. [**VERY IMPORTANT**]
 
 
 # Resources
