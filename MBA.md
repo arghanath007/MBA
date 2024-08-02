@@ -4,6 +4,20 @@
 
 * MBA exam
 
+## MBA Tips
+
+* MBA Tips
+
+![image](https://github.com/user-attachments/assets/592a3e0d-820b-438c-bce8-0fed9f7b50bf)
+![image](https://github.com/user-attachments/assets/6619f15e-a08e-4c76-b274-5163103c6921)
+![image](https://github.com/user-attachments/assets/4eeedc4e-e0c5-4da3-9d32-966c442237b3)
+![image](https://github.com/user-attachments/assets/05b2d53b-95f9-495f-8762-24d09d529bbd)
+![image](https://github.com/user-attachments/assets/221eaae2-866c-4822-9a80-23308857be46)
+![image](https://github.com/user-attachments/assets/265d25e5-fe48-4896-91a8-c11d412e4edc)
+![image](https://github.com/user-attachments/assets/8d83fbb2-0fea-4823-abb8-983e81e75379)
+
+
+
 # Resources
 
 * Free Resources -> https://docs.google.com/spreadsheets/d/121TJowkkWLeaPSAYp5Cokg0If9iwBtFDF6CZ5JWIYO0/edit?gid=0#gid=0
