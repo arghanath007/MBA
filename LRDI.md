@@ -1662,11 +1662,18 @@
 
 ## Puzzles (Part - 6)
 
+![image](https://github.com/user-attachments/assets/b83ce87e-8991-425c-9fba-f370404ca37c)
+![image](https://github.com/user-attachments/assets/9df29a38-e0a4-461b-a50d-202741f3cf17)
+![image](https://github.com/user-attachments/assets/559ed486-14c4-44c9-b904-8ce4d862d8e4)
 
+* 10 [Question] [Set]
 
+![image](https://github.com/user-attachments/assets/80a92644-793f-4414-a1b0-568a68935d51)
 
-
-
+* We have to keep an account for all of the characters/letters(A,B,C,D, ......). [**IMPORTANT**]
+* DE * 1 -> DE.
+* The nos. are from '0 to 9'.
+* Start -> 31mins 
 
 
 
