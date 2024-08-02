@@ -1513,6 +1513,156 @@
 
 ### Crypt Arithmetic
 
+* In the last 10yrs, we got these types of question, '4' times. Application is more.
+* Letters and numbers.
+* Letters are represented in single digit nos.
+
+![image](https://github.com/user-attachments/assets/46dc1627-17a1-4c9d-ac5e-ea783a21c6fb)
+![image](https://github.com/user-attachments/assets/4169fc84-a964-4c6e-af04-7b94c12a0d1e)
+
+* Examiner's mind:-
+* Question framing:-
+
+![image](https://github.com/user-attachments/assets/9c7aed92-7f91-4c2b-8c82-68d2f2234e32)
+
+* Approach -> We are searching for repeatation of letters. [Logic] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/16fcb0ef-3380-47fd-831f-a6c188af1d13)
+
+* '0' case is not possible.
+* '0' multiplied with '0' is '0' only. So '0' s not possible.
+* '1' multiplied with '1' is '1' only but the letters are different, so '1' is not possible.
+
+![image](https://github.com/user-attachments/assets/730e3824-2372-421a-991e-32f76c1f3f18)
+
+* '5' and '6' nos cases are possible.
+
+![image](https://github.com/user-attachments/assets/481569e3-c0ef-4a0d-9f4e-67b89f21e4ff)
+
+* (any odd no) * 5 -> ends with '5'.
+* We are taking **last digit**.
+* The nos/digit are from '0 to 9'.
+
+![image](https://github.com/user-attachments/assets/cf16a427-9b26-4ccb-a1fd-b7a68baacd2e)
+![image](https://github.com/user-attachments/assets/c79bf5c0-bd42-4ac0-9048-effaad2484f5)
+![image](https://github.com/user-attachments/assets/fa399c2d-6700-4de4-8621-4a890f2060fc)
+
+* (any even no) * 6 -> ends with even nos.
+* Attacking point:- [Logic] [**VERY IMPORTANT**] 
+
+1) A * A -> A(last digit)
+
+* 0 * 0 -> 0
+* 1 * 1 -> 1
+* 5 * 5 -> 5
+* 6 * 6 -> 6
+
+2) A * B -> B(last digit)
+
+* 3 * 5 -> 5
+* 9 * 5 -> 5
+* 6 * 2 -> 2
+* 6 * 8 -> 8
+
+![image](https://github.com/user-attachments/assets/d40c5851-8079-4965-bcb9-d66395270410)
+
+3) Multiplication ends in '1':-
+
+* The nos are different only then '1' is not possible.
+* 3 * 7 -> 1
+* 7 * 3 -> 1.
+
+![image](https://github.com/user-attachments/assets/9e5f9980-8c85-4e87-902f-e36533fb88cc)
+
+4) Addition -> Concentrate on the **leftmost** side.
+
+* The nos are from '0 to 9', so the max. carry for the sum of '2' nos is '1' only.
+* 9 + 9 -> '1' is carry.
+* Carry will be either '0 or 1'.
+
+![image](https://github.com/user-attachments/assets/69c7dd2a-e501-4724-a1ce-06dce34cb4fe)
+![image](https://github.com/user-attachments/assets/b8f88ddb-d979-43aa-8fcd-47de76d1957a)
+
+* B + 1 -> D
+* B < D
+* B and D are consecutive nos.
+
+![image](https://github.com/user-attachments/assets/3eb1336b-15cb-4afd-8eb3-c754c67c7b97)
+
+* 9 [Question] [Set]
+
+1) 4 digit nos is **reversed**.
+2) dcba is even number.
+
+* a = 2,4,6,8. 'a' cannot be '0'.
+
+3) No. is less than 2500.
+
+* 4 * 2500 = 10000.
+* It becomes a '5' digit number.
+* Number is greater than '1000'.
+* 1000 <= no < 2500.
+* 1st digit cannot be '0' as it is a 4-digit number.
+* As the no. is between 1000 and 2500, so 'a' can be either '1 or 2'.
+
+![image](https://github.com/user-attachments/assets/2a93897d-0d40-47db-8d61-de098e5fc3df)
+![image](https://github.com/user-attachments/assets/9e8e21c9-9c7a-4107-9c88-6e0cf1f77131)
+
+* 'a' can be even nos and 'a' can be '1 or 2'. Therefore, 
+* a = 2.
+* 4 * 2000 -> 8000 something or 9000 something.
+* d = 8 or 9.
+* 8 * 4 -> 2
+* 9 * 4 -> 6
+* 'd' is '8' only, because the last digit of the no. is 'a' which is '2' and we are getting '2' in the multiplication of **4 * d -> 2** when 'd = 8'. Therefore,
+* d = 8.
+
+![image](https://github.com/user-attachments/assets/9f478c5d-e9ab-4622-b1eb-2a50e554cb74)
+
+* 2250 * 4 -> 9000.
+* If the no cannot be '9000', then the no. must be less than '2250' only.
+
+![image](https://github.com/user-attachments/assets/d59083ae-b83b-49c8-af5f-589d358dbf18)
+
+* 8 * 4 -> 32.
+* '3' is carried to 'c'.
+* multiple of '4' will be **even** only.
+* 4 * c -> even.
+* 4 * c + 3 -> odd. [even + odd -> odd]
+* So 'b' is **odd**. 'b' has '3' possibilities, 'b' can be '0 or 1 or 2' because we know that the no. cannot be more than '2250', so the max. value of 'b' is '2' only.
+* As 'b' is **odd** and 'b' can be '0 or 1 or 2'. Therefore,
+* b = 1. [1 -> odd, 0,2 -> even]
+
+![image](https://github.com/user-attachments/assets/bb2e9037-4a24-4ba3-a5eb-b9293ff8599d)
+![image](https://github.com/user-attachments/assets/cb97a854-25b5-4efb-a776-9e37bb01593b)
+
+* 4 * C + 3 -> 1.
+* c = 2 or 7
+
+![image](https://github.com/user-attachments/assets/8a62583d-afa6-4122-bdb1-57c4e40d7ee6)
+
+* If 'c = 2' then,
+* 4 * 2 + 3 -> 11
+* 4 * 1 + 1 -> 5
+* c = 5
+* We are getting two different values of 'c' which are '2 and 5'. This is not possible, so 'c = 2' assumption is **wrong**. Therefore,
+* c = 7.
+* 4 * 7 + 3 = 31
+* 4 * 1 + 3 -> 7.
+* This time, we are getting same values of 'c' which is '7'. So this is **correct**, so 'c=7'.
+
+![image](https://github.com/user-attachments/assets/32bccbaf-da7a-4865-b84a-145d37a7a08a)
+
+* abcd -> 2178 * 4 -> 8712. [Logic] [**IMPORTANT**] [Example]
+
+![image](https://github.com/user-attachments/assets/5125b408-3028-41b2-a734-fa09ef2a4425)
+![image](https://github.com/user-attachments/assets/7bef8d8c-71b4-4307-a9b0-8b2962e8a113)
+
+* Explaination.
+
+## Puzzles (Part - 6)
+
+
 
 
 
