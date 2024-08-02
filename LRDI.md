@@ -1215,24 +1215,109 @@
 * We cannot do '12g'.
 
 ![image](https://github.com/user-attachments/assets/dae018cf-479a-4ed7-9ad1-b4fdb377458b)
+![image](https://github.com/user-attachments/assets/9e47df88-7fec-4da9-bfaa-03945406a300)
 
 * We would need a '12g' ring.
-* 
+* 2nd cut -> 11th position.
+* 11 + 12 -> 23
+* From 11 to 23, we would have the '12g' ring.
 
+![image](https://github.com/user-attachments/assets/1c112310-979c-4713-9c7c-01fced3c63a6)
+![image](https://github.com/user-attachments/assets/6d9fd9b9-cc0e-4615-8006-9631a8a5dda3)
 
+* We only have '23' size interlocking chain.
+* How many min. cuts we need to do? [Question]
 
+> '2' cuts. 4th and 11th position. [Answer]
 
+![image](https://github.com/user-attachments/assets/aa2a8ace-32d7-44fd-8c8f-189133454a1c)
+![image](https://github.com/user-attachments/assets/12e7cd89-a6af-4489-b210-942805aabfc6)
 
+* With the '2' cuts, we got these '5' sizes of rings, which are '1g, 1g, 3g, 6g, 12g'. We can measure upto '23g'.
 
+![image](https://github.com/user-attachments/assets/946cfc75-8f21-4ef1-9b9d-5c494304803f)
 
+* 1
+* Answer -> 2 cuts. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+* 2
+* No. of cuts -> 3.
+* We will get '3', '1g' rings from positions, which we don't know. This is **fixed**. [Logic] [**VERY IMPORTANT**]
+* We can measure upto '3g' but we cannot measure '4g'.
 
+![image](https://github.com/user-attachments/assets/79d0b50a-448c-41ed-a5e6-a427de590383)
 
+* We would need a '4g' ring. So the 1st cut was at the 5th position.
 
+![image](https://github.com/user-attachments/assets/2fc645a4-3a3c-4203-af32-d0e6d6de9002)
 
+* We now have '3 * 1g, 4g', so we can measure upto '7g'.
+* We cannot do '8g'. so we need a '8g' ring.
+* 6 + 8 -> 14g [6 to 13 length]
+* 2nd cut is at 14g.
 
+![image](https://github.com/user-attachments/assets/237f5c99-918d-4025-b8c0-c9b608e477d0)
+![image](https://github.com/user-attachments/assets/1a0da6c7-d7be-48eb-96cb-945b6046556e)
 
+* We now have '3 * 1g, 4g, 8g', so we can measure upto '15g'.
+* We cannot do '16g'. so we need a '16g' ring.
+* 15 + 16 -> 31g [15 to 30 length]
+* 3rd cut is at 31g.
 
+![image](https://github.com/user-attachments/assets/9038398e-4869-4ff1-8f48-613a11c1a6cb)
+![image](https://github.com/user-attachments/assets/54f3a0d3-d0af-4eeb-b3c8-b7edc5e0bf28)
+
+* We now have '3 * 1g, 4g, 8g, 16', so we can measure upto '31g'.
+* We cannot do '32g'. so we need a '32g' ring.
+
+![image](https://github.com/user-attachments/assets/1d1f2411-b968-4697-9949-c8c33541f8af)
+
+* 31 + 32 -> 63g [31 to 62 length]
+* With the '3' cuts we were able to go to measure any no. upto '63'.
+* Answer -> 63. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/126c0b5d-da39-40e1-9f19-5de7ff06b2d1)
+![image](https://github.com/user-attachments/assets/3e9e8726-311a-4834-95c8-c616e31e5d98)
+
+* '2' cuts -> 2 * 2 + 1 -> 5 parts in total.
+* '2' cuts, so we have '2', '1g' rings.
+* Keep doubling the values when we are not able to measure it. [Logic] [**VERY IMPORTANT**]
+* We were not able to measure '3g' so start from '3g' and keep doubling it. So double of '3g' is '6g'. Double of '6g' is '12g'.
+
+![image](https://github.com/user-attachments/assets/d40766f4-326e-4f7a-9da8-fc7bba25008b)
+
+* '3' cuts -> 3 * 2 + 1 -> 7 parts in total.
+* '3' cuts, so we have '3', '1g' rings.
+* Keep doubling the values when we are not able to measure it.  [Logic] [**VERY IMPORTANT**]
+* We were not able to measure '4g' so start from '4g' and keep doubling it. So double of '4g' is '8g'. Double of '8g' is '16g'. Double of '16g' is '32g'.
+
+* 3.
+* We have '4' cuts.
+* '4' cuts -> 4 * 2 + 1 -> 9 parts in total.
+* '4' cuts, so we have '4', '1g' rings.
+* Keep doubling the values when we are not able to measure it.  [Logic] [**VERY IMPORTANT**]
+* We were not able to measure '5g' so start from '5g' and keep doubling it. So double of '5g' is '10g'. Double of '10g' is '20g'. Double of '20g' is '40g'.
+* 9 parts -> 1,1,1,1,5,10,20,40,80 -> 159.
+
+![image](https://github.com/user-attachments/assets/9ce1a665-5a3d-4f6f-9c54-5f5252c0a27f)
+
+* Answer -> 159. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* 4
+* We have '5' cuts.
+* '5' cuts -> 5 * 2 + 1 -> 11 parts in total.
+* '5' cuts, so we have '5', '1g' rings.
+* Keep doubling the values when we are not able to measure it.  [Logic] [**VERY IMPORTANT**]
+* We were not able to measure '6g' so start from '6g' and keep doubling it. So double of '6g' is '12g'. Double of '12g' is '24g'. Double of '24g' is '48g'.
+* 11 parts -> 1,1,1,1,1,6,12,24,48,96,192 -> 383.
+
+![image](https://github.com/user-attachments/assets/132b1dd2-c70f-4b29-ae78-e7d4aea643cb)
+
+* Answer -> 383. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/40d4879d-caa1-48a0-a347-a6554bf70618)
+![image](https://github.com/user-attachments/assets/02b4a92f-badd-42c8-9552-3ce52ed1205f)
+
+* 8 [Question] [Set]
 
 
 
