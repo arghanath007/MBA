@@ -1394,6 +1394,130 @@
 
 * For next class.
 
+## Puzzles (Part - 5)
+
+![image](https://github.com/user-attachments/assets/1fc0b895-2ee9-4f3d-937a-c1e7925e7da6)
+
+* 1 -> Solved in last class. [Summary]
+
+![image](https://github.com/user-attachments/assets/b862681d-a071-4873-b1fd-a088d269310a)
+
+* It doesn't matter if we have a no. which is a multiple of '3' or not. We are able to find the fake coin in **equal weighing** only for both of them.
+
+![image](https://github.com/user-attachments/assets/d33619bc-b6a8-49d4-bf91-1dbb87c102c4)
+
+* 2
+
+![image](https://github.com/user-attachments/assets/d53fa82b-f66d-4d31-a4de-f268cec8df19)
+![image](https://github.com/user-attachments/assets/31bab568-7d52-40b2-9a98-327b3e2cf9aa)
+
+* We weighed, 'A and B' first and they were equal in weight. So we weighted 'A and C'. We have to identify if they are lighter or heavier.
+* So after '2' weighings, we have identified if they are lighter or heavier. 
+
+![image](https://github.com/user-attachments/assets/0d1d25b2-0f6d-4c82-ab5a-9873cee8b68e)
+![image](https://github.com/user-attachments/assets/a96f95fb-c1e7-4acb-9d66-b1b846a57d5d)
+
+* 'A' contains heavier coin.
+
+![image](https://github.com/user-attachments/assets/7ee35eaa-bc0c-4b83-a54d-b592940a40e2)
+
+* 'B' contains lighter coin.
+* In the cases, out of the '3', one of them would be either **heavier or lighter**  and the other two would be of **same/equal** size. [Logic]
+* One is a fake coin.
+
+![image](https://github.com/user-attachments/assets/98dbbfa2-4797-43c4-9e44-7563f512a6a4)
+
+* None of them are **same/equal**, this is **not possible**.
+* 2 groups have to be **same/equal**.
+
+![image](https://github.com/user-attachments/assets/897eb34d-5320-44af-b77a-e87e83b84d41)
+
+* After weighting '1 and 2', we have identified the '50' coin and have also identified whether they are heavier or lighter. [Logic]
+* 50 -> 17, 17, 16.
+* As we have identified whether they are heavier or lighter. So, to avoid the confusion, we would assume them to be 'lighter'. [Logic]
+
+![image](https://github.com/user-attachments/assets/eb054040-716e-40ef-bcce-28cff542ba49)
+![image](https://github.com/user-attachments/assets/1ac1a181-de23-45d3-86e8-b696db2b9176)
+
+* A < B -> 'A' has the fake lighter coin.
+* B < A -> 'B' has the fake lighter coin.
+* A = B -> 'C' has the fake lighter coin.
+* We can take either '17 or 16'. Either is correct.
+* 16 -> 5, 5, 6 -> A, B, C
+* A < B -> 'A' has the fake lighter coin.
+* B < A -> 'B' has the fake lighter coin.
+* A = B -> 'C' has the fake lighter coin.
+* 5 -> 2, 2, 1 -> A, B, C
+* A < B -> 'A' has the fake lighter coin.
+* B < A -> 'B' has the fake lighter coin.
+* A = B -> 'C' has the fake lighter coin.
+* 2 ->  1, 1
+* After '6' weighings we are able to find the fake coin which is heavier or lighter.  [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/32d7216e-5ac9-41dc-ba31-c2de0e881214)
+
+* Answer -> 6. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/681feb87-3be7-4afb-800e-79aaea307302)
+
+* 3
+* Least no. of trials -> optimize -> in '3' groups.
+* We think about **least/min.** no. of cases. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/663b6b75-d4ed-4247-a165-158ea5753a63)
+
+* 9 coins -> '2' weighings.
+
+![image](https://github.com/user-attachments/assets/2bb4133f-633f-48ab-92ef-3a97fef529fd)
+![image](https://github.com/user-attachments/assets/f63ef65b-4197-4729-aa7c-3b617edfde46)
+
+* 10 -> 3,3,4.
+* Max we can do is '3' in '1' weighing.
+* For '4' coins we need '2' weighings.
+* 10 coins -> 1 + 2 -> '3' weighings.
+
+![image](https://github.com/user-attachments/assets/ea9b7b8b-7c83-4b3d-9cc7-5b32d70c334a)
+![image](https://github.com/user-attachments/assets/2ddb351c-f520-4bc5-a795-539db1729db0)
+
+* 27 -> '3' weighings.
+
+![image](https://github.com/user-attachments/assets/8210ce1b-72b8-4114-9c61-167eb1f6706f)
+![image](https://github.com/user-attachments/assets/e6b878d5-f851-4c15-abd8-d2522f6c04b3)
+
+* It is going in the **pattern** of **power of '3'***. [pattern] [**VERY IMPORTANT**]
+* 3, 9, 27, 81 -> **power of '3'***.
+* Trials -> weighing.
+* For '4' weighings -> the min. is '28' coins.
+
+![image](https://github.com/user-attachments/assets/e4a519b9-e389-44d1-b704-981f3959cec0)
+
+* Answer -> 28. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/fb3ec38e-a4e1-4be1-8393-cbd5a7dcb733)
+![image](https://github.com/user-attachments/assets/3718a38b-4a87-480a-9938-553698b6c158)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/652e13a4-c8ac-4b23-81ab-d2710c1e42e9)
+![image](https://github.com/user-attachments/assets/19db990c-8f55-498f-a76f-24c6b1bd3af7)
+
+* By placing the coins 'A and B' which are '7g and 8g' respectively, kushal can easily see which is the real and which is the fake coin as he knows the weights of the real coins. [Logic]
+
+![image](https://github.com/user-attachments/assets/e45282a0-742c-46be-b0cf-c0d21414a1ab)
+![image](https://github.com/user-attachments/assets/9d4d6e4d-f11b-4efd-a242-d3edc9c504ee)
+![image](https://github.com/user-attachments/assets/f1832b02-3b6d-44a6-8748-0f72a3097f44)
+![image](https://github.com/user-attachments/assets/139d97f3-a0fd-454a-a4fd-616fdf317931)
+
+* We needed '7' weighings.
+* Answer -> 7. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+### Crypt Arithmetic
+
+
+
+
+
+
 
 
 
