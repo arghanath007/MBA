@@ -1918,8 +1918,9 @@
 ![image](https://github.com/user-attachments/assets/c58aa569-2970-4478-9591-6476802926b7)
 ![image](https://github.com/user-attachments/assets/8e0ae4e7-3244-4f73-9459-aae185130506)
 
+## Puzzles (Part - 7)
 
-
+![image](https://github.com/user-attachments/assets/023384f0-334f-47fa-a02e-a97fc7888880)
 
 
 
