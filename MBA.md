@@ -444,6 +444,37 @@
 * XAT syllabus -> Quant, VA, DM. [**VERY IMPORTANT**]
 * Link -> https://www.youtube.com/watch?v=QB_Xgkr0UUM
 
+# CAT
+
+![image](https://github.com/user-attachments/assets/592f66e0-f958-490f-aa61-f9579f32b1a9)
+![image](https://github.com/user-attachments/assets/5f4118cd-4469-415c-bbea-81aaff1c694a)
+
+* Dates.
+
+![image](https://github.com/user-attachments/assets/a76b68e5-37c5-420e-b316-16e80edf56f3)
+
+* 17 IIMS -> Free with CAT form only.
+* IIM Ahmedabad -> Agri bussiness management -> Tick this also.
+* Apply to all 2yr programs. 
+* IIM Kozhikode -> LSM program(new).
+* 4 IIMs -> New/baby -> Separate forms. [**IMPORTANT**]
+* IIM rohtak -> Fill this for now.
+* IIM Bombay -> Via CAT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
