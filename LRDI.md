@@ -1673,7 +1673,255 @@
 * We have to keep an account for all of the characters/letters(A,B,C,D, ......). [**IMPORTANT**]
 * DE * 1 -> DE.
 * The nos. are from '0 to 9'.
-* Start -> 31mins 
+* DE * A = DE
+* A = 1.
+  
+![image](https://github.com/user-attachments/assets/f8e77b0f-0833-4d05-9948-784913ba5949)
+
+* AFC -  DE = ID
+
+![image](https://github.com/user-attachments/assets/02311b36-0818-4e13-a3a0-9f3a523aef39)
+![image](https://github.com/user-attachments/assets/52c4ebfa-0500-4a2c-a963-87db163df07f)
+
+* 'G' is copied to the next line.
+* DE * B = ICD
+
+![image](https://github.com/user-attachments/assets/4f05913d-a3e8-4b7f-8069-1f997fce5a4e)
+
+* Positioning doesn't matter. It is given in a single line in CAT.
+* Everywhere put 'A = 1', we will get some idea.
+
+![image](https://github.com/user-attachments/assets/87243082-7226-453a-814d-cfaa1c09a3a1)
+
+* IDG -  ICD = FJ
+* 'H' is copied to the next line.
+* DE * C = FGA = FG1.
+* FJH - FG1 = JB
+
+![image](https://github.com/user-attachments/assets/a390936c-0078-4e6d-9cdd-a6c1badb4cf6)
+
+* Steps:-
+
+1) Find the repeatations:-
+
+* J - G = J
+* J - 0 = J [Hint] 
+* G = 0. [Hint] 
+* H - 1 = B
+* 'H and B' are consecutive numbers. [Hint] 
+
+![image](https://github.com/user-attachments/assets/fdc2e572-6361-4d08-8275-dd36aee9ed86)
+
+* Everywhere put 'G = 0', we will get some idea.
+* Find where should we attack next.
+
+![image](https://github.com/user-attachments/assets/bb99ea5e-92d5-489e-975b-efa24b5fc87c)
+
+2) If the multiplication of '2' different nos is '1' then the nos are either '3 and 7' or '7 and 1'.
+
+* 3 * 7 or 7 * 3 -> ends in '1'. 
+* 101 -> Prime no, not divisible by either '3 or 7'.
+* '201' is a multiple of '3'.
+* '301' is a multiple of '7'.
+* In the question, it is mentioned that all the letters are **unique nos**. [Logic]
+* So in '301', we can see that 'E and F' both are having '3' as their number, which is not distinct numbers. So '301' is **wrong**. 
+
+![image](https://github.com/user-attachments/assets/ee529440-9c83-4592-96e4-d9be53916a7f)
+
+* There is no point in thinking in terms of **multiplication of '3'** because we want a '2' digit no. for 'DE' and the nos are starting from '401'. [Logic]
+* 99 * 3 -> 297.
+* This is not possible.  
+
+![image](https://github.com/user-attachments/assets/63e1573d-d8db-4d89-87e1-e4860721b454)
+
+* We will not go beyond '701' because **99 * 7 -> 693**, so we need a higher multiplication than '7'. [Logic]
+* We can only get '1' at the end in '3 and 7' multiplication only. 
+
+![image](https://github.com/user-attachments/assets/f0513c09-4ba6-49a2-89f5-32a7821b3b26)
+![image](https://github.com/user-attachments/assets/f8adfa2e-00c4-41d3-aa17-96595e97be39)
+
+* 67 * 3 -> 201.
+* This is the only option.
+* D = 6.
+* E = 7.
+* C = 3.
+* F = 2.
+
+![image](https://github.com/user-attachments/assets/207a43d5-87f7-4e97-8f04-889dc5901ac3)
+
+* DE * B = ICD
+* 67 * B = I36
+* 67 * 8 = 536
+* B = 8.
+* I = 5.
+
+![image](https://github.com/user-attachments/assets/ac65b278-4310-4ffe-84ec-d4e57be9e9ef)
+
+* Explaination. [Solution] [Answer] [**VERY IMPORTANT**] [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/b6db2a6e-ac0a-4611-ba0e-fd51ccf27adf)
+![image](https://github.com/user-attachments/assets/e31a408c-0a25-4443-a98c-27b0d883eca8)
+
+* 11 [Question] [Set]
+* All of the letters represents distinct digits from 0 to 9.
+
+1) We will separate the numbers
+
+![image](https://github.com/user-attachments/assets/ce82d9bc-2411-4170-ab8a-fa0f836edf2b)
+
+2) We will separate the letters.
+
+![image](https://github.com/user-attachments/assets/b3af3314-bd31-416f-84c0-60e9e1568f24)
+
+3) Find the repeatation among the letters.
+
+* O + O -> E
+* 'E' is an **even** number.
+
+![image](https://github.com/user-attachments/assets/ddca976d-6bbc-4c9c-9102-78f5be9c41bb)
+![image](https://github.com/user-attachments/assets/3ecff90c-1c0b-44f0-8db5-efc7063fd719)
+![image](https://github.com/user-attachments/assets/8bb84a8f-2d2c-4cce-bd23-59ee3fda2c9c)
+
+* Question.
+
+![image](https://github.com/user-attachments/assets/e3deed06-5d5f-4452-84dd-6ac477e6df6e)
+
+* B * B = Y
+* B * O = O
+* B cannot be '0,1,5,6' because,
+* 0 * 0 = 0 
+* 1 * 1 = 1 
+* 5 * 5 = 5
+* 6 * 6 = 6
+* It means that 'B and Y' have the **same no**, which is not possible as it is stated in the question that all of the **letters** are of **distinct numbers**.   
+
+4) If 'A * A = A' then the nos which are possible are '0,1,5,6'. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9c4e5b7b-1031-47b1-a9b9-1702d392bb79)
+![image](https://github.com/user-attachments/assets/b4f23e56-77c2-4e25-a12c-14f5de67f309)
+
+* Odd * 5 = End in '5'.
+
+![image](https://github.com/user-attachments/assets/0ec7038f-33ae-458c-9363-6aea1ba0da25)
+
+* B * O = O
+* Odd * 5 = 5
+* Odd -> 3,7,9 [1,5 -> not included because of above reason. B cannot be '0,1,5,6']
+
+![image](https://github.com/user-attachments/assets/9d35954e-f2f7-4ad0-ad8d-645d68845246)
+![image](https://github.com/user-attachments/assets/453cec0f-e453-4492-b605-ea9025491ef6)
+
+* B  = 6
+* O = Even
+* This is not possible because we have seen in the previous logic that 'B' cannot be '0,1,5,6'. This is **wrong**.
+
+![image](https://github.com/user-attachments/assets/d9d18e46-7d51-4cea-88c1-0cb358fd74dd)
+
+* So, B = '3 or 7 or 9' and 'O = 5' is guranteed.
+* We will observe whenever there is **some repeatation**.
+
+![image](https://github.com/user-attachments/assets/5abe900e-8ff9-4bdc-80ca-706fb7b4531e)
+
+* From 'B * B = B', there is **no carry** to the **next part(O)** because the result of 'B * O = O' only and nothing extra added. So the no. which can be 'B' is '3' because 'B * B = 3 * 3 = 9' and **no carry** and with '4' we will get '4 * 4 = 2' and '1' as **carry**.
+
+![image](https://github.com/user-attachments/assets/b9391db6-29d2-4d60-9d46-b6840fea7910)
+![image](https://github.com/user-attachments/assets/b7d0f80e-1f24-4af4-b1fe-1829d1d65002)
+
+* B = 3.
+* Y = 9.
+* O = 5.
+* BOB = 353
+* 353 * 3 = 1059
+* M = 1.
+* E = 0.
+* 353 * 5 = 1765
+* I = 7.
+* L = 6.
+
+![image](https://github.com/user-attachments/assets/4d02e228-7ada-4a45-9265-c9df9094e8c8)
+![image](https://github.com/user-attachments/assets/2c2e406d-d583-4296-b54d-1930ecd04724)
+
+* 6 * even = always end in that **even** number. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/32a72e46-ea59-4409-8c2b-6feefeba3e69)
+![image](https://github.com/user-attachments/assets/533bcc4e-cd67-463f-b514-7272d271e486)
+
+* A * B = B.
+
+1) Odd * 5 = 5 [B = 5] [Logic] [**VERY IMPORTANT**] [Formula]
+2) 6 * Even = always end in that **even** number. [B = even] [Logic] [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/fef95dd8-6528-4c39-ba10-963008086793)
+![image](https://github.com/user-attachments/assets/15c035a3-53a9-419f-b217-aefc67e9488f)
+
+* 12 [Question] [Set]
+* Given I = 6, All letters represents distinct digits.
+
+![image](https://github.com/user-attachments/assets/9f46f273-ee24-4bdd-8eeb-c4237ee80e40)
+![image](https://github.com/user-attachments/assets/3fd00b94-0e35-46da-8717-5cf41f08850c)
+
+* B + B = T.
+* 'T' is an even number.
+* From 'S * I = I, S * B = B, S * F = F', we can clearly tell that 'S = 1'.
+* 1 * anything = anything.
+* S = 1.
+* I = 6.
+
+![image](https://github.com/user-attachments/assets/b34cdfc4-3385-4ef7-88aa-62e94a289400)
+
+* A * F = 1 [S = 1] [Attacking points]
+* 'A and F' can be either '3 and 7' or '7 and 3'.
+* A **larger number** always forms a **limit**. [Logic] [**VERY IMPORTANT**]
+* **Always** check for the **larger number**. There will be **less cases** because of the **limit**. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1e3bb97e-e72f-414d-9b13-4c18909dc41d)
+![image](https://github.com/user-attachments/assets/88554409-db34-4f3a-bc63-798499ff9a53)
+
+* Let's put '7' in place of 'F' and see if '7' fits or not.
+* GAS * 6 = 4 digit no starting with '7' -> It is 70000 and something.
+* This is not possible, so 'F= 7' is **wrong**.
+* So, 'F = 3'.
+* A = 7.
+* G71 * 6 = 3TB6
+* 7 * 6 = 42.
+* B = 2.
+* 4 + (G * 6) = 3T. 
+
+![image](https://github.com/user-attachments/assets/b4172902-41c7-4b3e-9046-fc5dbb027bf6)
+
+* G71 * 2 = 11T2
+* 7 * 2 =14
+* T = 4.
+* 4 + (G * 6) = 3T. [T = 4] [3T = 34]
+* 6G = 34 - 4
+* 6G = 30
+* G = 5.
+
+![image](https://github.com/user-attachments/assets/88ca05b7-4f3d-4a5a-a2b6-84531ccfb4ab)
+
+* S = T+T+F = 4* 2 + 3 = 11
+* I = carry '1' + 3 + 1 + 1 -> 6.
+* R = 11 + 7 = 18 = 8
+
+![image](https://github.com/user-attachments/assets/4d38ad0a-3992-4091-8d4f-6bb1a3ea1c53)
+![image](https://github.com/user-attachments/assets/b002ca9e-2952-45d9-b2d9-3c3ffd01b630)
+
+1) G = 5.
+2) A = 7.
+3) S = 11.
+4) B = 2.
+
+* Explaination. [Solution] [Answer] [**VERY IMPORTANT**] [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/e307f3d0-9e4c-4cea-99c1-246d6bdcb5dd)
+![image](https://github.com/user-attachments/assets/27acff3e-07bc-484f-bc4c-5ac835b0a6cf)
+![image](https://github.com/user-attachments/assets/c58aa569-2970-4478-9591-6476802926b7)
+![image](https://github.com/user-attachments/assets/8e0ae4e7-3244-4f73-9459-aae185130506)
+
+
+
+
+
 
 
 
