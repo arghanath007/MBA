@@ -1921,9 +1921,50 @@
 ## Puzzles (Part - 7)
 
 ![image](https://github.com/user-attachments/assets/023384f0-334f-47fa-a02e-a97fc7888880)
+![image](https://github.com/user-attachments/assets/56edfbc5-495d-446a-94fd-9dd652490d26)
 
+* 13 [Question] [Set]
+* Addition is happening.
+* Attack from the **leftmost** side.
+* Max. '4' digit can be '9999'
+* Max. '2' digit can be '99'
+* Max. '3' digit can be '999'
 
+![image](https://github.com/user-attachments/assets/162c8f14-feba-4fd6-a9de-877d3a3d4e10)
 
+* If 'M = 2' which means that it is '20000 and something' which is not possible as the addition of the max values will only give '10000 and something'. So,
+* M = 1.
+* The no. has to be '10000 and something'.
+
+![image](https://github.com/user-attachments/assets/87fcd7b7-ccc7-49be-8283-9904eb6e43ad)
+![image](https://github.com/user-attachments/assets/649c2687-e716-4a90-a839-de5b9992643c)
+
+* If we add '2' nos then the max. carry will be '+1' only.
+* 9 + 9 -> 18 -> '1' as carry.
+
+![image](https://github.com/user-attachments/assets/5f078226-5e21-413a-b049-151cdb1cc5da)
+
+* If 'R = 8' then '8 + 1 -> 9' and **no carry', so 'M' has no nos which is **not possible. So 'R = 8' is wrong.
+
+![image](https://github.com/user-attachments/assets/2277a0ca-f528-47f7-aec2-018f36ab63cc)
+![image](https://github.com/user-attachments/assets/df586fb6-b17c-41e0-b10d-67b3ef6cfd0c)
+
+* R = 9, then '9 + 1 -> 10', '1' is the carry and it sets 'M = 1' which is **correct**.
+* R = 9.
+* O = 0.
+
+![image](https://github.com/user-attachments/assets/63a620b8-f84f-4a94-9838-a9f6ad337914)
+![image](https://github.com/user-attachments/assets/fe1a2521-fc03-462b-b0d5-5507756a7448)
+
+* We want max. value for 'MONEY'.
+* If 'N = 8' then 'P + E = 8' and '+1' as carry. We have already usedd 'R = 9 and N = 8', so we can't use '9 and 8'. We have to use '7 and 6' which will us '7 + 6 -> 13' and carry of '+1' which we wanted.
+* Carry of '+5' is also not possible from the summation of '3' numbers(AMA).
+* So, 'N = 8' is not possible.
+
+![image](https://github.com/user-attachments/assets/8f7d7f84-166a-428e-ac53-6a38f7818a92)
+
+* If 'N = 7' then 'P + E = 17' which is not possible as '8 + 6 = 14' and then we have to do '+3' which is not possible from the summation of '3' numbers(AMA).  
+* So, 'N = 7' is not possible.
 
 
 
