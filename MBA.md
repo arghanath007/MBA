@@ -446,6 +446,8 @@
 
 # CAT
 
+* Link -> https://www.youtube.com/watch?v=NnR9Yk_RJwg
+
 ![image](https://github.com/user-attachments/assets/592f66e0-f958-490f-aa61-f9579f32b1a9)
 ![image](https://github.com/user-attachments/assets/5f4118cd-4469-415c-bbea-81aaff1c694a)
 
@@ -460,6 +462,54 @@
 * 4 IIMs -> New/baby -> Separate forms. [**IMPORTANT**]
 * IIM rohtak -> Fill this for now.
 * IIM Bombay -> Via CAT.
+
+![image](https://github.com/user-attachments/assets/1b746c94-a5e5-4d45-85dc-b4e4048f7975)
+
+* 2011.
+* OOC -> Odd One Out. 
+
+![image](https://github.com/user-attachments/assets/2e9f2e3f-fba0-41ae-927e-00ceae81bae4)
+
+* VARC.
+
+![image](https://github.com/user-attachments/assets/5e85574c-c25f-4111-9fe5-79f736356fa2)
+
+* DILR.
+
+![image](https://github.com/user-attachments/assets/427f3c03-3278-4939-bb22-42ebc0f4864f)
+![image](https://github.com/user-attachments/assets/943e5f6a-0b1b-46e7-b126-28a3a4bad877)
+
+* Quant.
+
+![image](https://github.com/user-attachments/assets/1bb5c26d-9d96-4320-bbde-f8d657a66278)
+
+* IIM Calcutta.
+
+![image](https://github.com/user-attachments/assets/1aa6f988-7e26-4d0a-85e0-8af7d2cdca0c)
+![image](https://github.com/user-attachments/assets/08d41aba-054d-4599-9370-f638c5a3f1c2)
+
+* [**VERY IMPORTANT**]
+* Link -> https://www.youtube.com/watch?v=Zg38f64Wgjc
+
+![image](https://github.com/user-attachments/assets/08bbffea-2217-4052-9f9d-dceef28bad08)
+![image](https://github.com/user-attachments/assets/c25254a2-d5f1-4213-8ead-c07fcfe84752)
+![image](https://github.com/user-attachments/assets/72271f4d-a398-4235-8875-ad1e71b6bc9d)
+![image](https://github.com/user-attachments/assets/3d6bb0f3-0459-49df-8deb-4b98cb8a10ab)
+![image](https://github.com/user-attachments/assets/3bec837d-b5df-4fc6-ab1f-fe70f6e29a82)
+
+* Exam.
+
+![image](https://github.com/user-attachments/assets/85f5bb34-5aa0-4e31-a087-3253fbd7e5d5)
+
+* Normalization.
+* https://www.youtube.com/watch?v=qLbRBPhed_c
+
+
+
+
+
+
+
 
 
 
