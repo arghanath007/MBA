@@ -1966,6 +1966,50 @@
 * If 'N = 7' then 'P + E = 17' which is not possible as '8 + 6 = 14' and then we have to do '+3' which is not possible from the summation of '3' numbers(AMA).  
 * So, 'N = 7' is not possible.
 
+![image](https://github.com/user-attachments/assets/43f82df4-f72f-48b3-a47d-e58a77cfa0df)
+
+* For, N = 6 then 'P = 8 and E = 7' and we are getting a carry of '+1'.
+* E + L = 10. 'E' is even.
+
+
+![image](https://github.com/user-attachments/assets/80449ebb-60d0-4d93-9005-e71d7f410236)
+
+* 'N = 6' is not possible as we are having issue in the '+1' carry.
+* 'P=7 and E = 8' and we knew that 'E' is an **even** number.
+
+![image](https://github.com/user-attachments/assets/577b18cb-52fc-4bd6-8e8d-2d86695794a4)
+![image](https://github.com/user-attachments/assets/cd1c3484-7204-4c42-91ed-bf8555b08a89)
+
+* 'E + L = 10' is guranteed. 'y' can be anything.
+* AMA -> 3 + 1 + 3 + '+1' = 8.
+* A =3.
+
+![image](https://github.com/user-attachments/assets/3f0b8656-0b6d-4543-969f-93414395e8a1)
+
+* We have not used '6' that's why 'Y = 6'.
+
+![image](https://github.com/user-attachments/assets/e6852fb5-f31f-41c3-9d31-5b2279722ad6)
+![image](https://github.com/user-attachments/assets/03dad24e-a75e-4fee-ba60-1d4232295d79)
+
+1) Y = 6
+2) N = 5
+3) 4
+4) Sum of digits = 10586 =  1 + 0 + 5 + 8 + 6 = 20.
+
+* Explaination. [Solution] [Answer] [**VERY IMPORTANT**] [Example] [Practice]
+
+![image](https://github.com/user-attachments/assets/d29606a5-3fa2-4bb2-ba1c-dfeed68c640a)
+
+* 14 [Question] [Set]
+* Start from 58mins.
+
+
+
+
+
+
+
+
 
 
 
