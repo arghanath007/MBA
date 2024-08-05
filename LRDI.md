@@ -2300,6 +2300,136 @@
 
 * Answer -> 90. [4] [Solution] [Answer] [**VERY IMPORTANT**] 
 
+![image](https://github.com/user-attachments/assets/abc3043e-900f-40c4-9390-e928df662efb)
+
+* 16 [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* Frequency.
+
+* Frequency(F) can be different. We don't know the frequency. We only know the dates when the doctors visited the zones. They know some of the dates only, they don't know the middle dates.
+* F = 8.
+* We don't know the actual frequency.
+* How we will find the frequency?
+* It is also mentioned in the question is that "none of the zones were visited on consecutive days" which means that the **frequency** is **not '1'**.
+* It is also mentioned that "each zone was visited atleast once in 7days which means that frequenncy is **greater than equal to '7'**.
+* F <= 7.  
+
+![image](https://github.com/user-attachments/assets/85dd2efb-ac9f-4c81-8dd9-9f0b90771755)
+![image](https://github.com/user-attachments/assets/48e81f71-1e2b-4dfc-908a-462f14cdf211)
+![image](https://github.com/user-attachments/assets/ae32216c-0b0d-4384-b5c9-417fa6a39f1f)
+
+* Zone A:-
+* 1st March to 2nd April -> 32 days.
+* 2nd April to 16 April -> 14 days.
+* Common factor for  '32 and 14' is '2'.
+* So the **possible frequency** is '2'.
+
+![image](https://github.com/user-attachments/assets/e3d94a61-5294-4337-9d70-db65636ab754)
+![image](https://github.com/user-attachments/assets/5878154a-aff0-4c1b-9f0a-a055a10cef57)
+
+* If the doctor is visiting in every '2' days then the doctor will come in 1st of March, 2nd of April and 16th of April.
+* We have to choose some frequency where all of the dates are merged. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9356d873-9d40-40fd-8419-fc04cca73412)
+
+* Dates -> 1st March to 9th March.
+* Possible frequencies(f) -> 8,4,2,1.
+* These(8,4,2,1) are all **factors of '8'**.
+
+![image](https://github.com/user-attachments/assets/156e39e3-75b7-4b34-9d38-c55a65ed7e98)
+
+* Dates -> 1st March to 9th March to 13th march.
+* Possible frequencies(f) -> 4,2,1.
+* In the 1st case(1st March to 9th March) we were only looking at **factors of '8'**.
+* In the 2nd case(1st March to 9th March to 13th march) we have to find the **common factors between '8 and 4'**.
+* We are finding the **common factors** between the **gaps**. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f627a71d-b311-413c-86f6-fffc4812585e)
+
+* 14 -> 2 * 7.
+* 32 -> 2 ^ 5.
+* Common factor(CF) between '14 and 32' is '2'.
+
+![image](https://github.com/user-attachments/assets/9146a0e6-ce51-4786-bf1f-65f5d988abda)
+
+* Frequency of '5'.
+
+![image](https://github.com/user-attachments/assets/91f09938-4307-4d75-acd9-bf7d98d5a50f)
+![image](https://github.com/user-attachments/assets/5e85f858-18d0-4e6a-8976-d3d0e525b75c)
+
+* In zone 'D', the Common factor(CF) are '2 and 13' but we want the frequencies to be **less than '7'**, f<=7. So '13' is rejected and the only frequency of zone 'D' is '2' only.
+
+![image](https://github.com/user-attachments/assets/b3444d29-dbc5-4527-835e-ec0ccbb01213)
+
+* We have broken down the **set**.
+
+![image](https://github.com/user-attachments/assets/0bfe1d73-1ca9-4fa8-a9d2-76eb40847444)
+
+* Option **B**.
+* Answer -> Three(3). [1] [Solution] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/2cd993d2-63c6-4426-9a95-3abaf81e5d2e)
+
+* Frequency of two zones is only **equal** as mentioned in the question. So 'A and D' zones have the same frequency of '2' then the frequency of zone 'E' cannot be '2'. Hence for **Q2** the frequency of zone 'E' is '4'.
+* 5th of march is **not the starting date** for zone 'E'. It is the date which the doctors have remembered.
+* The frequency is '4', so the date can be '1st of march' also.
+* It is no where mentioned that '5th of march' is the **starting date**. It is one of the dates that they remembered. [Logic]
+* Do not assume anything. [Logic] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/c1038636-d7ca-4cb1-b3e0-024030d5145d)
+
+* Zone 'E' -> '8' dates.
+* Option **C**.
+* Answer -> Eight(8). [2] [Solution] [Answer] [**VERY IMPORTANT**] 
+
+* Possibility of frequency in zone 'E' is either '2 or 4'. For max. no. of possibilities, we have to take frequency of zone 'E' as '2'. 
+* March -> 1st, 3rd, 5th to 29th, 31st -> 16 days.
+
+![image](https://github.com/user-attachments/assets/708df63c-b742-49ef-a9b0-fa6863f57523)
+
+* Option **D**.
+* Answer -> 16. [3] [Solution] [Answer] [**VERY IMPORTANT**] 
+* Zone 'D' -> 2
+* Zone 'C' -> 7
+
+![image](https://github.com/user-attachments/assets/f1035d64-764b-4d10-92e8-7fee41f4d3e2)
+
+* For 'C' we cannot go before '3rd' of march as the frequency is '7' and if we go before then we will go to feb month which we don't want.
+* We have only '1' officer.
+* The common days are '10th and 24th'. In these '2' dates, the officer can go to one of the places as we have '1' officer only as mentioned in the question.
+* D -> 15days
+* C -> 5days
+
+![image](https://github.com/user-attachments/assets/8dccbb1b-6b07-4bb6-ae8e-868c18256b6c)
+
+* Total -> 15 + 5 - 2 -> 18days.
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/4386c4a0-72ee-4827-a43e-e5913f06d390)
+![image](https://github.com/user-attachments/assets/e7041217-5d45-4819-93e8-722a5b8fbc86)
+
+* Answer -> 18. [4] [Solution] [Answer] [**VERY IMPORTANT**] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
