@@ -1971,7 +1971,6 @@
 * For, N = 6 then 'P = 8 and E = 7' and we are getting a carry of '+1'.
 * E + L = 10. 'E' is even.
 
-
 ![image](https://github.com/user-attachments/assets/80449ebb-60d0-4d93-9005-e71d7f410236)
 
 * 'N = 6' is not possible as we are having issue in the '+1' carry.
@@ -1999,17 +1998,307 @@
 * Explaination. [Solution] [Answer] [**VERY IMPORTANT**] [Example] [Practice]
 
 ![image](https://github.com/user-attachments/assets/d29606a5-3fa2-4bb2-ba1c-dfeed68c640a)
+![image](https://github.com/user-attachments/assets/d3b7ffff-57e8-4624-8e60-57894aa438c4)
 
 * 14 [Question] [Set]
-* Start from 58mins.
+* All letters represents distinct digits.
+* Division.
+* TTN * R = QTPA.
+* M - A = A
+* M = 2A or 0. 
 
+![image](https://github.com/user-attachments/assets/b185d6fd-59fb-4f1a-aecf-4ed54d383d71)
 
+* If 'M = 8, A = 4' then '8 - 4 = 4' there is no carry then 'P = 4' and '4 - 4 = 0'. So 'D = 0'.
 
+![image](https://github.com/user-attachments/assets/f80590b9-4d4a-4526-a47a-5ca471bc070b)
 
+* We have too many possibilities. So let's keep it on hold.
+* TTN * Q = PTPS.
 
+![image](https://github.com/user-attachments/assets/bf769c8b-0b96-4940-8be0-346d5643cd6a)
+![image](https://github.com/user-attachments/assets/35888c60-27bc-41ea-bbcd-91b436d26d5a)
 
+* If 'R - Q = 0'  is only possible when 'R and Q' are consequitive nos and 'R' is **greater than 'Q'**. 'R' had given carry of '+1' to the previous no(P) then both 'R and Q' are **equal** and we will get **zero(0)**.
+* Substraction of '2' different terms is '0' when '1' no. has given carry(+1) to another number.
 
+![image](https://github.com/user-attachments/assets/9ae31f27-8589-4b62-8d23-dabc53513a4d)
 
+* QD - PT.
+* 60 - 59.
+* '60' has given a carry to the previous no(A) then both 'QD = 59 = PT' are **equa** and we got **00**.
+* Difference is of '1' only.
+* 58 - 57, this is not possible because 'Q and P' will have no. '5' as their nos, which is not possible. So this is **wrong**.
+* It can be '90-89', '80-79', '70-69'.
+
+![image](https://github.com/user-attachments/assets/0993bd8c-2577-4d8f-85c7-0c4631d16b46)
+
+* We are pretty sure that,
+* D = 0.
+* T = 9.
+* Q - p = 1.
+
+![image](https://github.com/user-attachments/assets/e5cfb76f-b0e5-4dc2-b9ff-ef918b2eb369)
+
+* We are replacing 'D and T' and putting their numbers.
+* D - S = M
+* 0 - S = M
+* It has taken carry(+1) from 'A'.
+* A - 1 - P = p
+* A - 1 = 2P.
+* '2P' is always even.
+* 'A - 1' is **even** then 'A'  is **odd**.
+
+![image](https://github.com/user-attachments/assets/49a951d7-0ace-42f7-8d31-559e9b263d72)
+![image](https://github.com/user-attachments/assets/79fc8d9e-155f-4840-a880-dcfdfce0e2fa)
+
+* If 'Q = 2 and P = 1' then 'Q - p = 2 - 1 = 1' then, 'A - 1 = 2P, A - 1 = 2, A = 3'.
+* A = 3.
+* Q = 2.
+* P = 1.
+* R = Q + 1 = 2 + 1 = 3.
+* R = 3.
+* 'A and R' are having the **same** nos '3', so this is **not possible**.
+
+![image](https://github.com/user-attachments/assets/32670f7e-7cd8-4edd-9a05-c9ac7325c380)
+![image](https://github.com/user-attachments/assets/798e3a1a-8d39-4fff-ba6e-79fffa4f5285)
+
+* If 'Q = 3 and P = 2' then 'Q - p = 3 - 2 = 1' then, 'A - 1 = 2P, A - 1 = 2*2, A = 5'.
+* A = 5.
+* Q = 3.
+* P = 2.
+* R = Q + 1 = 3 + 1 = 4.
+* R = 4.
+* Now, this is **possible** because 'A and R' have distinct nos which are '5 and 4' respectively.
+
+![image](https://github.com/user-attachments/assets/f1c604d8-9dd6-4309-8bab-8ecc1e93f22f)
+![image](https://github.com/user-attachments/assets/5b2ce63c-4820-4a99-9a88-d2118cdd9a9d)
+
+* If 'Q = 4 and P = 3' then 'Q - p = 4 - 3 = 1' then, 'A - 1 = 2P, A - 1 = 2*3, A = 7'.
+* A = 7.
+* Q = 4.
+* P = 3.
+* R = Q + 1 = 4 + 1 = 5.
+* R = 5.
+* Now, this is **possible** because 'A and R' have distinct nos which are '7 and 5' respectively.
+* We had seen before that 'M - A = A', 'M = 2A' then 'M = 14'.
+* This is not possible because 'P - P = D' then 'D=0' and no carry given by 'P' to 'M'.
+* So 'A = 7' **not possible**.
+* 'M' cannot take carry.
+* A = 7 and 5 are not possible. So,
+* We have made some **mistake** doing it again.
+
+![image](https://github.com/user-attachments/assets/0857ba79-1fd3-44ec-9952-81d15d7b63ac)
+
+* D = 0.
+* T = 9.
+
+![image](https://github.com/user-attachments/assets/8ab32c51-dd78-4759-9087-eba544f240e7)
+
+* Q - P = 1.
+* R - Q = 1.
+* R = Q + 1.
+
+![image](https://github.com/user-attachments/assets/a4cae6f1-e2f4-4002-ad7d-54b2ca088b38)
+
+* D = 0 and S = 4.
+* We are taking a carry from 'A' and now 'D = 10' so '10 - 6 = 4'.
+
+![image](https://github.com/user-attachments/assets/3c8b075a-8107-466e-a923-891f35a83a89)
+
+* Initially 'A = 3 and P = 6'. After giving carry to 'D', 'A' is now '2'. 'A' is taking carry from 'D', so 'A = 12'. So '12 - 6 = 6'.
+
+![image](https://github.com/user-attachments/assets/ce3f4434-48b1-406c-80ae-d8ee48d78fc6)
+
+* Explaination. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/36bb2fa4-5881-4d85-97d7-3ce14015115c)
+![image](https://github.com/user-attachments/assets/44dcbd9d-a05a-4e06-81ce-41bc329c9bec)
+
+* 'A' gave carry of '1' to 'D' and then 'A' took carry of '1' from 'D' which is '+10'. When we take **carry**, '1' is not getting **added**, '10' is getting added. So,
+* A - 1 + 10 - P = p
+* A + 9 = 2P
+
+![image](https://github.com/user-attachments/assets/f8e20295-0efa-42a5-8432-7a3b638d913c)
+![image](https://github.com/user-attachments/assets/4e8ed3a0-b289-4f38-99a7-e5f64ebff0fb)
+
+* 'M' is not taking any carry from 'P'.
+* M - A = A
+* M = 2A
+* Q - P = 1.
+* A -> Any odd no.
+* Odd + Odd -> Even.
+* If 'A = 1' then 'P = 5' and 'Q = 6'.
+* R = Q + 1 = 7.
+* M = 2A = 2.
+
+![image](https://github.com/user-attachments/assets/4679f69e-2b69-415d-b353-c155aa0a04d0)
+![image](https://github.com/user-attachments/assets/e9ec495f-cf4a-4533-a719-f8d6766a462c)
+
+* If 'A = 3' then 'P = 6' and 'Q = 7'.
+* R = Q + 1 = 8.
+* M = 2A = 6.
+* 'M and P' have the same no which is '6' so this is not possible. So, 'A = 3' is **wrong**.
+
+![image](https://github.com/user-attachments/assets/c518da3b-b83a-488b-a596-a61be95cc898)
+
+* We cannot take 'A = 5' because then the no. for 'M' will be 'M = 10' which is not possible.
+
+![image](https://github.com/user-attachments/assets/1073f4fb-f961-4877-8214-4db5d5a9b4a8)
+![image](https://github.com/user-attachments/assets/f28866c2-4e3b-4248-941e-34d199b0f3aa)
+
+* A = 1.
+* P = 5.
+* Q = 6.
+* R = 7.
+* M = 2.
+
+* Replace the value of 'A' with '1'.
+* N * R = 1
+* Either '3 * 7' or '7 * 3'.
+* We know that R = 7.
+* N = 3.
+* 997 * 7 = 6951
+* 993 * 6 = 5958
+* S = 8.
+
+![image](https://github.com/user-attachments/assets/8c7c3e9b-0e0a-464b-89fb-02a713edc808)
+![image](https://github.com/user-attachments/assets/02f672ef-5cb0-46e0-95cd-4c59d3ac6f7b)
+
+* R - Q = 0.
+* It means that 'R' had given a carry(+1) to 'P'.
+* R = Q + 1. 
+* QD - PT = 00.
+* It means that 'D' had given a carry(+1) to 'A'. 'A' got carry of '1'.
+* Carry of '1' means that 'A' got '+10' added to them.
+* 'A' gave carry(+1) to 'D' as 'D = 0'.
+
+![image](https://github.com/user-attachments/assets/26e5bf29-9c47-43d0-836a-bdcc687434b4)
+
+## Puzzles (Part - 8)
+
+### 1. Factors
+
+![image](https://github.com/user-attachments/assets/cd82e137-51e5-49e7-b036-8e477aa9d11b)
+
+* Factors. [Formula] [**VERY IMPORTANT**] [Practice] [Example]
+* '8' factors.
+
+![image](https://github.com/user-attachments/assets/876139c5-c906-407f-9570-350444569079)
+
+* 1 * 1 -> 1.
+* 1 * 5 -> 5.
+* 2 * 1 -> 2.
+* 2 * 5 -> 10.
+* The '4' factors of '10'.
+
+![image](https://github.com/user-attachments/assets/5bf2456c-3524-4f3a-89c6-05cb835637a0)
+![image](https://github.com/user-attachments/assets/d43dfcbb-c956-47c6-a32d-96fd6d5afcf2)
+
+* Factors of a no -> (Power of the prime nos) + 1. [Formula] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/c7ccc736-8e8e-4c62-b25d-c99044d0da05)
+
+### 2. Perfect Square
+
+* Perfect Square -> It has **odd** no. of factors. [Formula] [**VERY IMPORTANT**]
+* 16 -> 1,2,4,8,16 -> 2 ^ 4 -> 4 + 1 -> 5 factors. [5 -> odd]
+
+![image](https://github.com/user-attachments/assets/21c7b691-9255-4c5f-887f-31b4f22d2a6d)
+
+* 16 -> Perfect Square.
+* 30 -> Not Perfect Square.
+
+![image](https://github.com/user-attachments/assets/b4f4dd92-ef57-4ff1-b91b-ab1c7ddac9ad)
+
+* Not perfect Square -> It has **even** no. of factors. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/596fefa7-9977-4988-aff8-ae7ca76a0717)
+
+* 15 [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* 1st person -> 1,2,3,4,5 ....,100 -> Touches all of the '100' bulbs.
+* 2nd person -> 2,4,6,8,...98,100 -> Touches **every other** bulb out of the '100' bulbs.
+* 3rd person -> 3,6,9,12, ...99 -> Touches **every 3rd** bulb out of the '100' bulbs.
+* 4th person -> 4,8,12,16 ...100 -> Touches **every 4th** bulb out of the '100' bulbs.
+
+![image](https://github.com/user-attachments/assets/8c0a4632-ff1d-42d4-92ad-e9b448ca2431)
+
+* This is about **factors**.
+* Bulb '8' can be touched by the people who have the **factors '8'**. [Logic]
+* 8 -> 1,2,4,8....
+
+![image](https://github.com/user-attachments/assets/0dbc4b70-ce1b-4e8b-8833-713824991f98)
+![image](https://github.com/user-attachments/assets/f68a899b-b3e6-4888-b02b-066f78f67eaa)
+![image](https://github.com/user-attachments/assets/b82b9515-c7ff-4e39-8596-994e6ba8e81f)
+
+* 20 -> 2 ^ 2 * 5 ^ 1 -> 3 * 2 -> 6 factors.
+* 90 -> 2 ^ 1 * 3 ^ 2 + 5 ^ 1 -> 2 * 3 * 2 -> 12 factors.
+
+![image](https://github.com/user-attachments/assets/93e06ae2-3993-4da9-b7cc-ba3ca345b9b1)
+![image](https://github.com/user-attachments/assets/7f61ea79-07fb-44af-b247-c381cb03bebc)
+
+* Answer -> 12. [1] [Solution] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/e1602ddd-965a-4ca1-b104-27e9c131a606)
+
+* 2.
+* Odd no. of factors of that bulb number -> Light is ON. [Logic] [**VERY IMPORTANT**] 
+* Even no. of factors of that bulb number -> Light is OFF. [Logic] [**VERY IMPORTANT**] 
+
+* Off -> 2, 3, 5, 6, 7, 8, 11
+* On -> 1, 4, 9, 16, 25, 36, 49, 64, 81, 100 -> 10 -> Perfect Squares. 
+* Answer -> 10. [2] [Solution] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/68290af8-9694-4baf-968d-87e0ffb2e155)
+![image](https://github.com/user-attachments/assets/acbd53a6-b549-4ebd-87fb-123d5112e476)
+
+* All perfect squares have **odd** no. of factors. [Logic] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/050d5cb2-a6fd-4f09-8b13-cf0266ab4d1f)
+![image](https://github.com/user-attachments/assets/42748f38-e8bc-458a-bb64-c210dbe319c5)
+![image](https://github.com/user-attachments/assets/6f02bd93-3063-47d8-aa07-a4f9bc182f7a)
+![image](https://github.com/user-attachments/assets/fecc710a-f1cb-4ae3-9c85-2d7f8b138db6)
+
+* 3.
+* If 100 bulbs were touched normally.
+* '10' bulbs changed state. '90' bulbs remained in **same** state.
+* In Question '3', after the '50th' person the operation is stopped.
+
+![image](https://github.com/user-attachments/assets/da8af63f-db6f-4ffd-853e-129cd4e73a66)
+
+* For the 1st 50 bulbs they worked normally only. So, the '7' perfect square bulbs before '50' were touched **odd** no. of times.
+* 64 -> 2 ^ 6 -> 7 -> odd
+* But we can't have the factor '64' as it is greater than '50'. So it is '6' factors now. As it is **even** so the state remained the **same**.
+* 81 -> 3 ^ 4 -> 5 -> odd
+* But we can't have the factor '81' as it is greater than '50'. So it is '4' factors now. As it is **even** so the state remained the **same**.
+* 100 -> 2 ^ 2 * 5 ^ 2 -> 9 -> odd
+* But we can't have the factor '100' as it is greater than '50'. So it is '8' factors now. As it is **even** so the state remained the **same**.
+* All of the **non-perfect squares** have **even** no. of factors. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d5bebbf9-e53f-46a6-972b-482a8dd189ff)
+
+* For '51', the factors were '1,3,17,51' which is '4' before and now we cannot use '51'. So the no. of factors is '3' which is **odd**. As it is **odd** so the state **changed**. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/16a44e19-ce69-4319-98d2-1845f7111899)
+![image](https://github.com/user-attachments/assets/50200044-b8e2-42ed-8003-fd3731dc2069)
+![image](https://github.com/user-attachments/assets/c2d3cef3-5e4c-485d-9229-71b01b777bb0)
+
+* No. of bulbs after '50' -> 50.
+* The perfect square nos after '50' are **even** so their state didn't change and there are '3' nos.
+* 50 - 3 -> 47.
+* After '50' -> 47.
+* Before '50' -> 7.
+* Total -> 47 + 7 -> 54 -> No. of bulb's states where changedd.
+* Answer -> 54. [3] [Solution] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/c48e004a-d80a-4ef8-b27e-5fb43ee8bda8)
+
+* 4.
+* Out of the '100' we know that '10' bulb's **state changed** and the remaining '90' bulb's state was **unchanged**.
+
+![image](https://github.com/user-attachments/assets/4392b298-a472-4828-9c80-4e65e32e7666)
+
+* Answer -> 90. [4] [Solution] [Answer] [**VERY IMPORTANT**] 
 
 
 
