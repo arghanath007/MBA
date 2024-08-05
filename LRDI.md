@@ -2409,23 +2409,40 @@
 
 * Answer -> 18. [4] [Solution] [Answer] [**VERY IMPORTANT**] 
 
+## Puzzles (Part - 9)
 
+![image](https://github.com/user-attachments/assets/697fceb4-538d-43b5-aade-1c2a690c0e59)
 
+* 16 [Question] [Set] [**VERY IMPORTANT**] [Practice]
 
+### 1. Median
 
+![image](https://github.com/user-attachments/assets/ac206a27-f0a6-472e-aa2d-7b83d07fb2eb)
 
+* Any series which is in **ascending order**.
+* Left to Right -> Ascending Order.
+* Right to Left -> Descending order.
+* **ascending or descending** order doesn't matter in **median**.
+* **Middle** no. is the **median**.
+* We have '7' nos -> 4th no. is the **median**.
 
+![image](https://github.com/user-attachments/assets/bc139f4f-ea7c-44b9-8afb-6d42fc540020)
 
+* '7' terms.
+* Middle Term(MT) = (1st + last term)/2 = (1 + 7)/2 = 4 = T4 term.
+* T4 = 12. [Answer]
 
+![image](https://github.com/user-attachments/assets/1a6eb63a-a193-40d4-99ac-4feeaa372529)
 
+* When we have **even** numbers.
+* Median = (t1 + t6)/2 = 3.5 = T3.5
+* T3.5 = (T3 + T4)/2 = (10 + 15)/2 = 12.5
+* Median = 12.5. [Answer]
 
+![image](https://github.com/user-attachments/assets/9c8eec9d-ca17-4c61-964c-9517c2cc4dc5)
+![image](https://github.com/user-attachments/assets/84bd341b-ea44-4fd6-a788-79d04d0f8cc5)
 
-
-
-
-
-
-
+* Start from 25mins.
 
 
 
