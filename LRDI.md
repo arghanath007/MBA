@@ -2593,14 +2593,19 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Century leap year -> Multiple of '100' and it is also a multiple of '400'. [Formula] [Logic] [**VERY IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/31c5086c-c625-44fe-93d7-a11041928d64)
+![image](https://github.com/user-attachments/assets/fa00553d-67a4-4e31-b370-b7a76acfcb3a)
+![image](https://github.com/user-attachments/assets/d736c418-978c-4e05-bb0a-dcf10840d12d)
 
+* Odd days. [Formula] [Concept] [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/45d4d907-61ea-47a9-a441-33688186a727)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/ac1c7236-956b-4b76-a983-00a620a63927)
 
-
-
-
+* Coding Method/Frame. [Formula] [Logic] [**VERY IMPORTANT**]
+* Remember them.
 
 
 
