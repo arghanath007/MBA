@@ -2441,8 +2441,181 @@
 
 ![image](https://github.com/user-attachments/assets/9c8eec9d-ca17-4c61-964c-9517c2cc4dc5)
 ![image](https://github.com/user-attachments/assets/84bd341b-ea44-4fd6-a788-79d04d0f8cc5)
+![image](https://github.com/user-attachments/assets/5fe0b8c9-c5a4-41be-84ee-9d9ea205885e)
 
-* Start from 25mins.
+* Approach is **important** in these type of questions.
+* How to **approach** these type of questions? [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/727425ac-fe3b-491f-a370-305078adb18e)
+![image](https://github.com/user-attachments/assets/3cce9505-397a-45b7-96c2-57367889ffdb)
+
+* 2 * 5 = 10.
+* We can either find the '64' nos or we can find the '36' removed numbers.
+* It is **important** that we learn/know about the **attacking points** in the **sets**.
+
+![image](https://github.com/user-attachments/assets/a30c5c12-b4d6-4d7c-8e1f-d8a612e01970)
+
+* Remove '36' numbers.
+* 1 to 100:-
+* Eliminate all of the multiples of '7' -> 7,14,21,28,....98 -> 14 nos.
+* 2 * 5 -> 10.
+* Eliminate all of the multiples of '2' -> 2,4,6,8,10,......, 100 -> 50 nos.
+* We have removed '50' multiples of '2'.
+* Can we remove '50' multiples? Do we have enough bandwidth?
+
+> We do **not**. We have to remove in total '36' numbers. If we remove all of '2's' multiples then '50' nos are removed which means this is **wrong**.
+
+![image](https://github.com/user-attachments/assets/f135035b-87d9-4ddd-bc88-134d8f376e6a)
+
+* Eliminate all of the multiples of '5' -> 5,10,15,20,....., 100 -> 20 nos.
+
+![image](https://github.com/user-attachments/assets/23152684-7baf-4a25-963c-ac11f6b6162a)
+![image](https://github.com/user-attachments/assets/c52dd355-fb71-4799-a061-33bea2ef7514)
+
+* In '330', it ended with a '0' at the end because in '22' there is a '2' and in '15' there is a '5'.
+* In '600', it ended with a '00' at the end because in '8' there is a '2^3' and in '75' there is a '5^2'.
+* 5 * 2 -> 10
+* (5 * 2) ^ 2 -> 10 ^ 2 -> 100.
+* Wherever there is a **pair** of '2 and 5' then the multiplication will end with a '0'. [**VERY IMPORTANT**] [Logic]
+
+![image](https://github.com/user-attachments/assets/22a9d594-8c29-4ac8-abf8-8ce6fc0022f8)
+![image](https://github.com/user-attachments/assets/e74c80b9-0ab4-43c8-a80e-476c50c853b2)
+
+* Multiples of '5 and 7' -> 35, 70.
+* '35 and 70' are both there in multiples of '5 and 7'. So, we are counting them '2' times.
+* So we will do '-2' from '20' then it will be **fine**.
+* We have eliminated '14 + 18 = 32' numbers. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fb5b2739-281e-4341-b211-dc01f9213197)
+
+* The largest prime number is '79'. The prime nos **greater than '79'** which are '83,89, 97' have **no use**. Just **remove** them. 
+
+![image](https://github.com/user-attachments/assets/cca3c21c-f717-4969-bf73-0849d02d5d44)
+
+* Prime numbers. [Logic] [Concept] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/f6d85c8b-d9b7-4f57-82e8-eedaec33290a)
+![image](https://github.com/user-attachments/assets/efc48133-61e8-4aae-8cd1-bb57f9a7a45b)
+
+* We eliminated '3' nos more.
+* '3' nos -> 83, 89, 97.
+* Total -> 32 + 3 -> 35.
+* We have eliminated '35' numbers.
+* Now we just need '1' more no. to completely remove all of the '36' numbers.
+
+![image](https://github.com/user-attachments/assets/3b18f9cd-fd5b-41be-95d1-a7768167fdfd)
+
+* We don't know the **factors** of 'P'.
+* The **median** of the '64' nos is '46.5'.
+* The **median** of the '32' largest nos is '70'.
+
+![image](https://github.com/user-attachments/assets/7557eb94-48a2-41c5-800d-10c2418276a2)
+
+* It is relatively easier to find the **median** of the '32' largest nos than compared to the **median** of the '64' numbers.
+* This is the **attacking** point.
+* In the '64' nos -> 99, 96, 94, 93, 92, 88, 82, 81, 79,78,76,74,73,72,71,69.
+* 100,95, 90, 85, 80,75,70 -> multiple of '5'.
+* 98, 91, 84,77 -> multiple of '7'.
+* 97, 89, 83 -> '79' was the largest prime number.
+
+![image](https://github.com/user-attachments/assets/fee19d22-49ae-4415-8295-82a8e3270695)
+![image](https://github.com/user-attachments/assets/64f750d4-2f28-4972-83d1-8cefc352f14f)
+
+* Median = (t1 + t16)/2 = t16.5. 
+* t16.5 = 70.
+* Avg. of t16 and t17 should come out as '70'. [Logic] [Concept] [**VERY IMPORTANT**]
+* T16 = 72.
+* T17 = 71
+* 72 + 71 / 2 = 71.5
+* We should have gotten '70' according to the question.
+* The last '1' no we are supposed to **remove**, it is among these '18' nos only. 
+* We want the **avg.** to be '70'.
+
+![image](https://github.com/user-attachments/assets/74b1612d-38e5-484f-bdbc-6ebd30f0a016)
+
+* Avg -> 71 + 69/2 = 70
+* We have to find out if the '1' no. we are removing is a **prime or non-prime** number.
+
+![image](https://github.com/user-attachments/assets/84e7994f-4c0f-468a-811e-239704588dd5)
+
+* From '1 to 100', we have a total of '25' prime numbers. [Logic] [Concept] [**VERY IMPORTANT**]
+* From '1 to 200', we have a total of '46' prime numbers. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/48fcb4ba-aebe-47e9-b89d-f8a07a9085b9)
+
+* We have removed '3' prime numbers. We have also removed '7 and 5'.
+* Left = 25 - 5 = 20 prime nos
+* P = 20 prime factors.
+* '20' is not a prime number.
+* Prime no. of prime factors -> It means that the '1' no. we have to remove, it is a **prime no** only. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/75ec9945-adb5-40c0-9ea7-f019e21c22e6)
+![image](https://github.com/user-attachments/assets/c79af796-5f5c-45c4-ae4b-56d4faa46bd0)
+
+P = 19 prime factors.
+We have '19' prime nos and '19' is also a **prime no** only.
+* 'P' had '20' prime factors. '20' is not a **prime no**.
+* So we cannot use the **prime no** statement for '20'.
+* '19' is a **prime no**
+* 'P' is a very big number. It has many factors. Out of those factors, how many of them are **prime factors**. It has '17' prime numbers.
+* '19' is a prime number.
+
+![image](https://github.com/user-attachments/assets/4595549b-cf61-43aa-8ade-0d7d55dcc231)
+
+* We have to remove '1' prime number.
+* '79' is the largest prime no but we cannot remove '79'. So the next prime nos are '73 and 71'.
+* Avg. of '69 and 71' is '70' only.
+* So, we will remove '73'.
+
+![image](https://github.com/user-attachments/assets/07b45894-d05e-42d0-81b9-7ef080b40b02)
+![image](https://github.com/user-attachments/assets/07982c6f-ebd1-4295-888e-d3022135ba99)
+
+* We got all of the '36' nos and hence '73' was the last no. to be removed. 
+
+![image](https://github.com/user-attachments/assets/e9684934-beac-4f55-8bcf-ccac8c923cce)
+![image](https://github.com/user-attachments/assets/14277485-5170-4835-ba7f-c11915c10353)
+
+* Sum = 99, 96, 94, 93, 92, 88, 87 = 649.
+* Answer -> 649. [1] [Solution] [Answer] [**VERY IMPORTANT**] 
+* Smallest nos -> 1,2,3,4,6,8,9,11,12,13,16,17,18,19,22,23,24,26,27,29,31,32,33,34 -> 420.
+* 1 + 24/2 -> 25/2 -> 12.5 -> t12 + t13/2 -> 17 + 18/2 -> 35/2 -> 17.5
+* Answer -> 17.5. [2] [Solution] [Answer] [**VERY IMPORTANT**] 
+* 1 to 100 -> 25 prime nos.
+* 1 to 100 on chessboard -> 25 - 6 -> 19.
+* Answer -> 19. [3] [Solution] [Answer] [**VERY IMPORTANT**] 
+* Sum of all the numbers on the chessboard. [4] [Doubt] [Help needed] [**VERY IMPORTANT**] [Practice]
+
+### 1. Calendars
+
+1) Leap Year:-
+
+* Non-century leap year -> Multiple of '4' but  not a multiple of '100'. [Formula] [Logic] [**VERY IMPORTANT**]
+* Century leap year -> Multiple of '100' and it is also a multiple of '400'. [Formula] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/31c5086c-c625-44fe-93d7-a11041928d64)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
