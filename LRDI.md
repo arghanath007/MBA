@@ -2663,9 +2663,55 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Wednesday is not correct.
 * It is not because of **leap year**.
 * '2004' is also a **leap year**.
-* We calculated for '6th of october' which means 'feb' month is already gone so there was no problem.
-* We calculated for '6th of feb' which means 'feb' month has not gone yet. '29th of feb' hasn't come yet and we are yet to cross that ddate.
+* We calculated for '6th of october' which means 'feb' month is already gone so there was no problem. [Logic] [**IMPORTANT**]
+* We calculated for '6th of feb' which means 'feb' month has not gone yet. '29th of feb' hasn't come yet and we are yet to cross that ddate. [Logic] [**IMPORTANT**]
 * Leap year is on '29th of feb'.
+* In these types of cases, we have to do **odd days - 1**. [Logic] [**IMPORTANT**]
+* This is for the **extra odd day** in the **leap years**.
+
+![image](https://github.com/user-attachments/assets/916c8513-5f7f-4f46-8da8-df88e1c33499)
+![image](https://github.com/user-attachments/assets/b719ef50-782c-4263-b5c4-6a1fe74eb50f)
+
+* 45 - 1 = 44
+* 44/7 = 2
+* 2 -> Tuesday. [Answer] [Solution] [Example] [**VERY IMPORTANT**] [Practice Again]
+* Till '29th of feb' for **leap years** we have to do '-1'. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/544d0411-0f5a-464b-bf49-1d053be9c942)
+
+* It has not crossed '29th of feb' as '2024' is a **leap year**. So, we have to do '-1'.
+* That's why we got **thusday**.
+* 4 -> Thusday. [Answer] [Solution] [Example] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/73db04ed-1d0e-4605-b136-711d274fb95e)
+
+* 4 -> Thusday. [Answer] [Solution] [Example] [**VERY IMPORTANT**] [Practice Again]
+
+* In '1' month the no. of days can be either '30 or 31' or '28 or 29' depending on the months.
+
+![image](https://github.com/user-attachments/assets/a1dff484-0a32-439a-96a0-2c63f2142d3d)
+
+* Tuesday
+* Saturday
+* Monday
+
+![image](https://github.com/user-attachments/assets/982b5ad1-6229-40ce-aa82-ce69a5f8b380)
+
+* Sunday.
+
+![image](https://github.com/user-attachments/assets/733f68b4-77ac-4bb4-a148-f9dc3bbfd1e5)
+![image](https://github.com/user-attachments/assets/7d3688f5-7b72-4297-bdcc-e09dffd1eead)
+
+* 31/7 -> 3 days.
+* 30/7 -> 2 days.
+* 1st Jan 2023 = 1st Oct 2023 = Sunday.
+* NLY -> Non Leap Year.
+* In any NLY, whatever date was in 'jan' that same is there in 'oct' month also. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fc8b52ef-3390-4f2c-87e0-d8858a13e965)
+![image](https://github.com/user-attachments/assets/c1f1b318-0fd9-4d18-8fee-882bd21ddb04)
+![image](https://github.com/user-attachments/assets/58346a6d-8975-4e2d-8d55-623d3beca609)
+
 
 
 
