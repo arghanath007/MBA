@@ -2607,9 +2607,13 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Coding Method/Frame. [Formula] [Logic] [**VERY IMPORTANT**]
 * Remember them.
 
+1) Write the remaining year.
+2) Leap Years. Divide the yrs by '4'.
+3) The date.
+4) The year's code.
+5) The month's code.
 
-
-
+* We will **add/sum** all of them.
 
 
 
