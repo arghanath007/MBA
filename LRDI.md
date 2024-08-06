@@ -2614,19 +2614,58 @@ We have '19' prime nos and '19' is also a **prime no** only.
 5) The month's code.
 
 * We will **add/sum** all of them.
+* We have to find the **odd days**.
+* We will divide the total no. of days by '7' to get the **odd days**.
 
+6) Find the code for the day.
 
+![image](https://github.com/user-attachments/assets/b3268214-8ecb-4706-b7e7-2ebfd8a797bc)
+![image](https://github.com/user-attachments/assets/13221b24-235e-4895-bef9-76e9251352ff)
 
+1) 48
+2) 48/4 -> 12
+3) 15
+4) 0
+5) 2
 
+* Total -> 77 odd days
+* 77/7 -> 0
+* 0 -> Sunday. [Answer] [Solution] [Example] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/54f50579-d7f1-4972-b2d2-7e1ea800f1da)
 
+1) 47
+2) 47/4 -> 11
+3) 26
+4) 0
+5) 0
 
+* Total -> 84 odd days
+* 84/7 -> 0
+* 0 -> Sunday. [Answer] [Solution] [Example] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/9b44f78d-c087-415e-82d1-a7b1b5edfd58)
+![image](https://github.com/user-attachments/assets/fb2c6d6b-aee5-4c22-a06c-c9286ad74835)
+![image](https://github.com/user-attachments/assets/3584c1a8-dd58-4e7e-98a5-cf79a6df0ef9)
 
+1) 4
+2) 4/4 -> 1
+3) 11
+4) Oct -> 0
+5) 2004 -> 6
 
+* Total -> 22 odd days
+* 22/7 -> 1
+* 1 -> Monday. [Answer] [Solution] [Example] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5e618b56-5146-46a4-8d80-b712baf54c0c)
 
-
+* Wednesday is not correct.
+* It is not because of **leap year**.
+* '2004' is also a **leap year**.
+* We calculated for '6th of october' which means 'feb' month is already gone so there was no problem.
+* We calculated for '6th of feb' which means 'feb' month has not gone yet. '29th of feb' hasn't come yet and we are yet to cross that ddate.
+* Leap year is on '29th of feb'.
 
 
 
