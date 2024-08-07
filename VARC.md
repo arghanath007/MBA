@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ec237a7-1658-48d8-adc4-05fb428c0e7b)# VARC
+# VARC
 
 # Rodha 
 
@@ -7275,4 +7275,7 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d9adb205-33e3-4f03-a399-a4c4562858e4)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/4e5e0ec8-5d9e-45ab-9ef2-91185a382141)![image](https://github.com/arghanath007/MBA/assets/54589605/4aff8912-e9f5-47fd-a847-91d3da232189)![image](https://github.com/arghanath007/MBA/assets/54589605/b8f4ab5c-72c3-4f27-994a-03c0f3ca22e7)![image](https://github.com/arghanath007/MBA/assets/54589605/19e8db9e-a350-4a0f-bc12-f88ac8953a40)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/bb3f951c-80ce-449a-bc62-df642b501540)
-![image](https://github.com/user-attachments/assets/728c7593-25bc-487d-a5fc-780fb16c432d)![image](https://github.com/user-attachments/assets/09ae49a1-c0f4-4798-8baf-2992db9f1cf5)![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)
+![image](https://github.com/user-attachments/assets/728c7593-25bc-487d-a5fc-780fb16c432d)
+![image](https://github.com/user-attachments/assets/09ae49a1-c0f4-4798-8baf-2992db9f1cf5)
+![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)
+![image](https://github.com/user-attachments/assets/5ec237a7-1658-48d8-adc4-05fb428c0e7b)
