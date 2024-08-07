@@ -2913,22 +2913,51 @@ We have '19' prime nos and '19' is also a **prime no** only.
 ![image](https://github.com/user-attachments/assets/74f3450c-bbc8-4c04-903b-2d63c2d6e92a)
 
 * 18. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/e3d53752-6164-4f1f-bbd1-b15765cddb52)
+
 * '1' is neither prime nor it is composite. [Formula]
 * Prime -> 2,3,5,7,11....
 * Composite nos -> All of the nos which are not prime numbers.
 * GP -> In a series, when the same no. is getting **multiplied**. In the example, 'r' is getting **multiplied** everytime.  [Formula]
-* AP -> In a series, when a **constant difference** is getting **added up** everytime. In the example, everytime '+3' is getting added to the numbers. [Formula]
+* AP -> In a series, when a **constant/same difference** is getting **added up/addition** is happening everytime. In the example, everytime '+3' is getting added to the numbers. [Formula]
 
+![image](https://github.com/user-attachments/assets/653dc8a2-c6f0-457b-8e40-846849954158)
 
+* 2-digit numbers.
+* In **multiplication**, we will have **more constrain** . There will be **more restrictions**.
+* There can be so many things in **AP**. There will be **many cases** in AP. I
+* AP is not the good way to start.
+* GP is the good way to start.
+* GP means **multiplication**. **Multiplication** will give us **more constrain/restrictions**.
+* In **GP** same no. is getting multiplied.
 
+![image](https://github.com/user-attachments/assets/d3aad2dd-6bb4-451d-b854-fbe127121f34)
+![image](https://github.com/user-attachments/assets/7d449622-b83e-434f-8bb8-e37d45d7fdfa)
 
+* '10' is the smallest '2' digit number.
+* We have to limit the nos. between '10 and 99'.
+* We have observed that 'r' cannot be **more than or equal to '2'**.
+* We can pretty sure that 'r' cannot be **equal to '1'**.
+* So, 'r' has to be **greater than '1' but less than '2'**.
+* These are points that we have to **observe** while **seeing/reading** the above given **set**. [**IMPORTANT**]
+* 'r < 1' doesn't make any sense.
+ 
+![image](https://github.com/user-attachments/assets/3b07e370-31e3-4558-8128-941069826fd9)
 
+* We will get the nos. exactly **same** whether we go from **left to right** or from **right to left**.
 
+![image](https://github.com/user-attachments/assets/ce585ab4-8843-4693-8f38-fd08a32ec786)
+![image](https://github.com/user-attachments/assets/093db269-42c4-4d86-a3bc-8f91c49fd89c)
+![image](https://github.com/user-attachments/assets/ec9f95ff-d9f8-49d5-9d32-97fb6714522e)
 
-
-
-
-
+* r = fraction.
+* As it is a **fraction**, so the denominator(D) will have a **crucial role**.
+* How do we pick the **denominator(D)**? [Question]
+* 1 < 4/3 < 2.
+* Everytime 'r' is getting **multiplied**.
+* 'a' is some **integer/numbers**.
+* For the no., (256a/81) to be an **integer**, 'a' has to be a **multiple of '81'**.
 
 
 
