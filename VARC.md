@@ -7248,6 +7248,90 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ![image](https://github.com/user-attachments/assets/6db56287-a625-4c35-97e5-b1742d01297a)
 ![image](https://github.com/user-attachments/assets/ba839772-de0c-41aa-b984-abbd80fba1cb)
 
+* RC - 5 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IQDKm4dzDbs%3D&
+
+![image](https://github.com/user-attachments/assets/3dbe65da-c96e-48aa-8759-00691c6933b6)
+![image](https://github.com/user-attachments/assets/5bb020eb-1e37-438c-aac1-c6438785790e)
+
+* 1
+* prerequisite -> something that is required in advance -> necessary condition. [Meaning]
+* egalitarian -> avoring social equality -> Equality. [Meaning]
+
+![image](https://github.com/user-attachments/assets/825e3d37-3ea9-4d5b-b957-0410b31e9ef8)
+![image](https://github.com/user-attachments/assets/94b0ed13-32c9-45b5-af49-a7e293abfe49)
+![image](https://github.com/user-attachments/assets/cee4e366-fc97-4059-afd9-82da7098fca1)
+
+* 1
+* 1,4 -> Tone mismatch.
+* 2 -> no, less -> negative.
+* no less excessive -> it is excessive.
+
+![image](https://github.com/user-attachments/assets/cdc26f7f-947e-4d02-bb73-598b522bfd6e)
+
+* Answer -> 3. [1] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/81b5783a-9e11-45ea-9954-ba78d3621b55)
+
+* 2
+* homogeneity ->  the quality of being similar or comparable in kind or nature -> equality. [Meaning]
+* 2-> Tone mismatch.
+
+![image](https://github.com/user-attachments/assets/3e866f2b-ed65-4b9a-8d0b-56be7f7754fb)
+![image](https://github.com/user-attachments/assets/f952f95d-9a5d-4e6b-a415-ebaca2789312)
+
+* Answer -> 1. [2] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9fd996c2-3300-48d3-94d7-320945b6e897)
+
+* 3
+* We have to pick the **trap/BEAST** option.
+
+![image](https://github.com/user-attachments/assets/f4578dc8-4652-48e6-89d8-7604a8c685ea)
+![image](https://github.com/user-attachments/assets/a1eea046-a6a0-463c-99d1-03396affe799)
+
+* Answer -> 2. [3] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7cf03e88-0e2a-418d-8816-49ca2ad4f948)
+
+* 4
+* autonomy -> immunity from arbitrary exercise of authority: political independence -> personal independence.
+* 3,4 -> Narrow/Alien.
+
+![image](https://github.com/user-attachments/assets/341a1da7-90a1-4b08-b95a-b1d673035657)
+![image](https://github.com/user-attachments/assets/137503ac-b3e0-46af-882e-954d57dc81cb)
+
+* Answer -> 1. [4] [Solution] [**VERY IMPORTANT**]
+
+* RC - 6 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=sarhCUFELxo%3D&
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Grammer
 
 * For other exams.
