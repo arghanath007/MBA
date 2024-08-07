@@ -2907,6 +2907,36 @@ We have '19' prime nos and '19' is also a **prime no** only.
 ![image](https://github.com/user-attachments/assets/071ce741-c98c-4513-805e-d6c6dbaade86)
 ![image](https://github.com/user-attachments/assets/9608f33a-f6ce-4f9b-b23d-0167d61b4e35)
 
+## Puzzles (Part - 11)
+
+![image](https://github.com/user-attachments/assets/d91ed528-9b5e-4680-aa3a-2d62164b4d3f)
+![image](https://github.com/user-attachments/assets/74f3450c-bbc8-4c04-903b-2d63c2d6e92a)
+
+* 18. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* '1' is neither prime nor it is composite. [Formula]
+* Prime -> 2,3,5,7,11....
+* Composite nos -> All of the nos which are not prime numbers.
+* GP -> In a series, when the same no. is getting **multiplied**. In the example, 'r' is getting **multiplied** everytime.  [Formula]
+* AP -> In a series, when a **constant difference** is getting **added up** everytime. In the example, everytime '+3' is getting added to the numbers. [Formula]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
