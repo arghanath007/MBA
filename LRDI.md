@@ -1,4 +1,4 @@
-# LRDI (Logical Reasoning and Data Interpretation)
+![image](https://github.com/user-attachments/assets/6401f42a-1542-49cf-838b-f43c4a129678)# LRDI (Logical Reasoning and Data Interpretation)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/fa795930-c8f8-49d9-abb4-b8308f1f66b6)
 
@@ -2712,7 +2712,200 @@ We have '19' prime nos and '19' is also a **prime no** only.
 ![image](https://github.com/user-attachments/assets/c1f1b318-0fd9-4d18-8fee-882bd21ddb04)
 ![image](https://github.com/user-attachments/assets/58346a6d-8975-4e2d-8d55-623d3beca609)
 
+## Puzzles (Part - 10)
 
+![image](https://github.com/user-attachments/assets/77919dfa-b3bb-4f67-a2ec-3bf1849871dd)
+
+* Summary. [**VERY IMPORTANT**] [Logic]
+* In non-leap year(NLY) the no. of days in feb is '28' and '28/7 = 0' days. That's why 1st feb and 1st of march are of the **same day**.
+* In leap year(LY) the no. of days in feb is '29' and '29/7 = 1' days then the 1st feb and 1st of march are of **different days**. If 1st feb was a **tuesday** the 1st of march will be a **wednesday**.
+
+![image](https://github.com/user-attachments/assets/c22daeea-b950-4c34-b971-687cb7781ae3)
+
+* leap year(LY) [Examples]
+
+![image](https://github.com/user-attachments/assets/96763c3c-69b6-4cec-ac9a-e692dae5c5cd)
+
+* 1st Jan = 1st April = 1st July = Mon. [**VERY IMPORTANT**] [Logic]
+* The whole month will be the **same**.
+* There will be repeatation of years when the total no. of odd days is a **multiple of '7'**. [Logic]
+* LY calendar will repeat only in leap years. [Logic]
+* '2024' calendar will only repeat in '2028, 2032, 2036'. They are all **leap years** only.
+* They will not repeat in **non-leap** years. [Logic]
+
+![image](https://github.com/user-attachments/assets/485bb8a1-7d20-4576-ae3f-fa8b0312247c)
+
+* LY -> 366days.
+* NLY -> 365days.
+
+![image](https://github.com/user-attachments/assets/e6a5229e-5dd7-494b-a9f4-ce5c0fe942c3)
+
+* 24,28,32 -> LY.
+
+![image](https://github.com/user-attachments/assets/b2cc0c77-c53a-4f93-b9f6-3f770b6c7bfd)
+![image](https://github.com/user-attachments/assets/1db6b881-19c0-4f2a-a2b0-fc27114d8530)
+
+* Every '4' consecutive years will have '5' odd days except when the **century year** is **not a leap year**. [**VERY IMPORTANT**] [Logic]
+* Century year is a leap year when it is **divisible by '400'**. [**VERY IMPORTANT**] [Logic]
+* We got a gap of '8' yrs. This is the max. gap. This is the **except**. Leave this exception. 
+
+![image](https://github.com/user-attachments/assets/8bbdfe2a-f9a2-456a-92c1-01e98ad42b5c)
+
+* Every consecutive '4yrs' we will have '5' odd days.
+* When the **odd no. of days** will be a **multiple of '7'** then the year will be **repeated**. [Logic]
+
+![image](https://github.com/user-attachments/assets/abbcf382-e1fa-4859-b4bf-e7c2a67cd20e)
+
+* 7 * 4yrs = 28yrs.
+* 7 * 5 odd days = 35 odd days.
+* 35/7 = 0 odd days.
+* It means that the year will be **repeated**.
+* 2024 + 28 -> 2052
+* 1st Jan 2052 -> Monday.
+
+![image](https://github.com/user-attachments/assets/04228a23-69e9-4517-8f16-04350b0e70a5)
+
+* 28yrs = 35 odd days -> '0' odd days. [Logic]  [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/9255486a-87c3-4044-b80d-41a13455b57c)
+
+* 4K -> Leap Year.  [**VERY IMPORTANT**] [Formula]
+* 2025 -> 4K + 1.
+* In '6' yrs we will have '7' odd days.
+* 2025 -> 1
+* 2026 -> 1
+* 2027 -> 1
+* 2028 -> 2
+* 2029 -> 1
+* 2030 -> 1
+* At the end of '31st dec 2030', we are having '7' odd days.
+* 7/7 = '0' odd days.
+
+![image](https://github.com/user-attachments/assets/d60e8a86-da89-42d5-b55c-7098e11ba083)
+![image](https://github.com/user-attachments/assets/3bf11884-6436-4466-ad0e-9cc7c490ebfe)
+
+* We will be not writing this much. We have to do it **mentally**.
+
+![image](https://github.com/user-attachments/assets/a3d5f6b5-ea6f-456d-a7db-56fcef3ce005)
+
+*  [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/4f108a8d-7178-4d2c-be48-ec2d357b2786)
+![image](https://github.com/user-attachments/assets/c7fb42a0-c22b-41ef-99ff-729a46d150db)
+![image](https://github.com/user-attachments/assets/b69c77d4-9101-4a9d-84f6-c5accfcf774a)
+
+* We cannot say that the calendar of '2026' is getting repeated because '2026' is a **NLY** and '2032' is a **LY**. There will be a difference of '1 day'.
+* Every day should be the **same**. 
+
+![image](https://github.com/user-attachments/assets/57176f6b-b6e4-44d1-8be7-f0b800ff1fda)
+![image](https://github.com/user-attachments/assets/0ed7b667-5771-4372-90d6-e28348076f8a)
+![image](https://github.com/user-attachments/assets/9b939179-2ff0-4f09-904c-c2992de49ba2)
+
+* '2037' is a **NLY**.
+* Now the calendar of '2026' is getting **repeated** in '2037' as both '2026 and 2037' are both **NLY** only. 
+
+![image](https://github.com/user-attachments/assets/92a3b824-9ce0-4153-9d95-595ee42d9af0)
+
+*  [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/932c9267-9a3f-4659-bc07-a3fcae9b8507)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/f8c13ddf-91ad-4dfa-b39a-3ef27f2028ff)
+![image](https://github.com/user-attachments/assets/e0109fdf-92e3-4dbc-a3e8-4c96e505b973)
+
+*  The above table is only valid when for every '4' yrs has '5' odd days. [**VERY IMPORTANT**] [Formula]
+* Otherwise the table is **not valid**. We have to calculate **manually**.
+
+![image](https://github.com/user-attachments/assets/0a39f1cb-4902-40e2-9fbd-8d75ad970c59)
+
+* 23 yrs = 23 odd days + 5 odd days = 28 odd days.
+* '5' extra days because of the '5' leap years in these '23yrs'.
+* 28/7 = 0 odd days.
+* 1/1/2024 -> Monday.
+* 1/1/2001 -> Monday.
+
+* How we will go 2000yrs back? [Question]
+
+* 100/4 = 25.
+* It won't be '25' because,
+* Every '4th yr' is a leap year but '100th yr' is not a leap year. [Logic] [**VERY IMPORTANT**]
+* '100' is not a leap year.
+* A **century yr** is a **leap year** when it is **divisible by '400'**. [Logic] [**VERY IMPORTANT**]
+* 125 - 1 = 124 odd days.
+* 124/7 = 5 odd days.
+* 1st 100yrs =  5 odd days.
+
+![image](https://github.com/user-attachments/assets/1a38a397-8940-4e49-96f6-0ab42baf68aa)
+![image](https://github.com/user-attachments/assets/299fba97-c171-4808-a9c1-dd097f220f60)
+
+* '400' is a **century leap year** as it is divisible by '400'. That why from '301 to 400' the no. of odd days was '6'.
+
+![image](https://github.com/user-attachments/assets/ad658ffb-9268-4981-b703-3a7f4df36b90)
+
+* 21/7 = '0' odd days. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6aa53fe6-28ae-4468-8c01-5ae8535c42ae)
+
+* In '400yrs' it is '0' odd days. So in '2000yrs' it is going to be '0' odd days also. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3fcb6ee0-41b5-450b-bcb1-52e8b36927da)
+
+* A century year cannot end with?  [Question]
+* 1/1/101 -> Start of the century year.
+* 31/12/100 -> End of the century year.
+
+![image](https://github.com/user-attachments/assets/b9cad98d-0063-460c-8421-2ea87cf767b1)
+
+* The above **pattern** will keep on **repeating**.
+* '400' is a century leap year divisible by '4', that's why it has '6' odd days.
+* The century years will end in **friday or wednesday or monday or sunday**. It will end it these '4' days only.
+
+![image](https://github.com/user-attachments/assets/ecce0965-6248-4880-ac2a-6ac8f2f26a28)
+![image](https://github.com/user-attachments/assets/5e598713-edd6-4bf9-8603-81f8b1148fe9)
+
+* Option **B**.
+* Answer -> Tuesday. [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/ec0dbab0-111c-4280-9fb5-f8cbdabb2b02)
+
+* 17 [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* 'X + 1' is a **leap year** but not a **century year** because it is mentioned in the question that 'X + 1' is divisible by '4' but not by '5'. It is a **non century year** which is a **leap year**. [Logic] [**VERY IMPORTANT**] 
+* 1st Jan 2023 -> Monday.
+* In a **NLY**, **january** is starting on a **monday** then which other month is starting on a **monday**?
+
+> October will be on a monday. We have learned it before. [**IMPORTANT**]
+* C1 -> October.
+
+![image](https://github.com/user-attachments/assets/61c9469e-08f8-4acd-9794-396c31b8590b)
+
+* NLY.
+* In 'C2' we will look for those months in the year of 'X' where the month starts with a **tuesday**.
+
+![image](https://github.com/user-attachments/assets/271665cf-15f3-4c28-8b25-acc0479e1e2d)
+
+* We have seen it earlier that the calendar of 'may' month is never repeated. We are seeing after **may**. [Logic]
+* C2 -> May
+* Answer -> October. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/732c7c03-3ae9-4307-af3b-88cd1daf6f11)
+![image](https://github.com/user-attachments/assets/f1e378e6-3a2a-45fd-80fc-baaadc33848f)
+
+* If 1st october of 'X + 1' is a wednesday. 
+* We have seen it earlier that the calendar of 'oct' month is never repeated. [Logic]
+* There is no other **tuesday**.
+* So, there is **no other entry**. 
+* It is **october** month only and no other month. [Answer]
+* Answer -> 1. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/139b29cc-ac0a-49a0-98d2-1b57779b3fdf)
+
+* Reest in next class.
+ 
+![image](https://github.com/user-attachments/assets/e1138937-71ed-48bf-b69e-a5bd01976a35)
+![image](https://github.com/user-attachments/assets/071ce741-c98c-4513-805e-d6c6dbaade86)
+![image](https://github.com/user-attachments/assets/9608f33a-f6ce-4f9b-b23d-0167d61b4e35)
 
 
 
