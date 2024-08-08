@@ -3221,10 +3221,55 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Sum = R + T = 420 + 240 = 660
 * Answer -> 660. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+## Puzzles, Matrix formation (Part - 12)
 
+![image](https://github.com/user-attachments/assets/6ca5930c-3a55-426f-afa4-77e157aa7753)
 
+* 21. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* We need to build a kind of **matrix** here. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/eac488e9-dc86-42c6-9c54-d3507f7ccdae)
 
+* In a **matrix** formation, don't fix anything **bliendly**. [Logic] [Fomula] [**VERY IMPORTANT**]
+* We have a '6 * 4' matrix which means we are filling '6 * 4 = 24' elements in the **matrix**.
+* Don't fix any of the **rows**. [Logic] [Fomula] [**VERY IMPORTANT**]
+* After reading all of the lines in the **question** then decide what to do. For which **row**, the **question** has the **max.** info. [Logic] [Fomula] [**VERY IMPORTANT**]
+* We have filled the wrong things and we are paying the penalty by wasting our time in solving it in a longer amount of time. [Logic] [Fomula] [**VERY IMPORTANT**]
+* From the **start**, we don't have to take anything to our **heads**. Based on what was written on the **question**, we have to **attack** accordingly. [Logic] [Fomula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9551c3a7-d5fa-4006-bb25-9e5f9b6c8281)
+![image](https://github.com/user-attachments/assets/aabfe467-e235-4921-b265-5eba2c30c391)
+
+* We have '6' people who belong to these '4' countries.
+* In any of the '2' countries there will be '2' people and in the other '2' countries there will be '1' people only.
+* These is same for **language** as well.
+* In any of the '2' languages there will be '2' people and in the other '2' languages there will be '1' people only.
+
+![image](https://github.com/user-attachments/assets/c218f3c5-e6af-47ea-948c-4ee8c029cd27)
+![image](https://github.com/user-attachments/assets/2114bd40-27fa-498f-8db9-82ea6a34943d)
+
+* Every line needs to be read in-depth.
+
+![image](https://github.com/user-attachments/assets/66fcc1dd-8204-4a3e-9154-68b355ba317c)
+
+* From the 2nd statement we can see that, 'Q' definitely doesn't work in company 'J'.
+* 'a, b and c' -> some country currently unknown.
+
+![image](https://github.com/user-attachments/assets/8b5f81f1-6a00-4122-8b78-bfd9b4f0dd29)
+
+* There are '2 a' and 'a' is **south africa** because it cannot be **france**. 'Q' is already from **france** as mentioned in the **question**. So if 'a' is **france** then there will be '3' people from **france**. So 'a' cannot be **france** and it is **south africa**.
+* a = **south africa(SA)**.
+* Now we have to find the connecting points with or from **south africa(SA)** to solve it **easier/faster**.
+* We found that **SA** people don't know **german**. So we put **german** as a **lang** for 'U'. 'R' already had a **lang**.
+
+![image](https://github.com/user-attachments/assets/f1d30561-6f62-4481-9c32-bdc21fb4799d)
+
+* As 'R' has **lang** as **polish** already and 'R' is from 'SA'. 'U' is also from 'SA' so 'U' cannot have **lang** as **polish**.
+* 'P' cannot have 'J' as company because 'J' company's people speak **german** but 'P' doesn't speak **german**.
+* 'Q' cannot have 'J' as it is mentioned in the question.
+* Finally, 'S' takes 'J' and the **lang** of 'S' is **german**.
+
+![image](https://github.com/user-attachments/assets/762eb473-04e4-4930-b2ec-72f27b7fb6f9)
 
 
 
