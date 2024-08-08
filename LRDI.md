@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6401f42a-1542-49cf-838b-f43c4a129678)# LRDI (Logical Reasoning and Data Interpretation)
+# LRDI (Logical Reasoning and Data Interpretation)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/fa795930-c8f8-49d9-abb4-b8308f1f66b6)
 
@@ -2957,8 +2957,94 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * 1 < 4/3 < 2.
 * Everytime 'r' is getting **multiplied**.
 * 'a' is some **integer/numbers**.
+* Every no. is a **integer/numbers**.
 * For the no., (256a/81) to be an **integer**, 'a' has to be a **multiple of '81'**.
 
+![image](https://github.com/user-attachments/assets/d4ced0c7-9d71-4bea-b6bc-e5a3eea84a5f)
+
+* Example.
+* The last no is a multiple of '256'.
+* This is not possible because as stated in the question that they are '2' digit numbers and '256' is a '3' digit number.
+* We have to keep the no. smaller.
+
+![image](https://github.com/user-attachments/assets/ac3100c5-6cbc-448d-9ec8-6a3c5a3d8764)
+
+* Our range is from '10 to 99'.
+
+![image](https://github.com/user-attachments/assets/9c8a96aa-2d99-42f2-9744-df471483f2cc)
+![image](https://github.com/user-attachments/assets/6d0dba60-be39-4b52-93a2-9a0befedc1ae)
+
+* The smallest fraction can be '3/2'.
+* The min. denominator can be '2' only as it is the smallest fraction. It cannot be smaller than '2'.
+* Everytime 'r = 3/2' is getting multiplied.
+* a = 16K -> multiple of '16'.
+* We cannot take multiple of '16' because with 'a = 16', we are getting '81' as the last number. So if we multiple of '16', then the last number will be **greater than '100'** which we don't want.
+* That's why we will put 'a = 16'.
+
+![image](https://github.com/user-attachments/assets/16141275-f7f2-4fff-a07f-7daf065ae829)
+![image](https://github.com/user-attachments/assets/1f657a95-5f62-4b6b-9588-cab87c9e1ea2)
+
+* We got those '5' nos in GP.
+* '6' nos are in AP.
+* 5 + 6 -> 11
+* Actually there was '9' numbers.
+* 11 - 9 = 2.
+* We will have '2' numbers which are common to AP and GP.
+* '7' of them will be composite.
+* So '2' nos will be prime numbers.
+* We have '0' prime numbers in those '5' GP numbers.
+
+![image](https://github.com/user-attachments/assets/f8ced5c4-7605-4feb-9567-675217afe296)
+
+* Prime no -> odd number.
+
+![image](https://github.com/user-attachments/assets/f1961af6-05f3-4896-a43c-8a1fb59037bc)
+
+* Common difference -> 8.
+* That '6' nos AP series is not possible because want '2' prime numbers as well.
+
+![image](https://github.com/user-attachments/assets/0dc3cb62-3d2e-451c-a555-7a5f5e8d242e)
+
+* Common difference -> 4.
+* That '6' nos AP series is not possible because all of the nos. are **even**. So no prime numbers as well.
+* We want a **Common difference(CD)** whose factors are **odd** numbers.
+* We wanted '2' common nos but '16 and 24' didn't work out. So we are trying '16 and 36'.
+
+![image](https://github.com/user-attachments/assets/154d7614-7806-4e74-b3ec-4f4811dc2a71)
+
+* Nos. in the AP series of '20' are all **even nos**. We want prime nos which are **odd numbers**.
+* Odd factor of '20' is '5'.
+* We got the '2' prime nos which we wanted and also got the '6' nos in the AP series.
+* '2' nos are common also.
+
+![image](https://github.com/user-attachments/assets/91d5df9e-86d5-469a-9885-d61841c766b3)
+
+* We only want '6' nos in AP, we wrote '7' nos before.
+* So, '46' is not in the AP series.
+
+![image](https://github.com/user-attachments/assets/106f7ab2-6d50-4fb9-9052-dd1d6e4004b6)
+![image](https://github.com/user-attachments/assets/76571a53-0548-4860-a968-82fbb059ca5d)
+
+* All of the '9' nos we wanted.
+
+![image](https://github.com/user-attachments/assets/c47b620c-1c83-45c1-9c47-df60f0919b1a)
+![image](https://github.com/user-attachments/assets/30a70ce5-dfa0-4e7e-ad61-9c717c88b0c3)
+
+* 30 -> 5, 15, 3 -> Factors of '3'.
+* Out of the '9' nos, '7' nos are **composite** which means that the rest of the '2' nos are **prime numbers**. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a9bf218f-bf29-4380-a7c5-48c114951a09)
+
+* Answer -> 81. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum = 330
+* Answer -> 330. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 31. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum = 211
+* Answer -> 211. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/e5f82fb8-a692-40e1-9328-02c648709b48)
+
+* 19. [Question] [Set] [**VERY IMPORTANT**] [Practice]
 
 
 
@@ -2980,8 +3066,6 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 
 
+## Misc
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/6401f42a-1542-49cf-838b-f43c4a129678)
