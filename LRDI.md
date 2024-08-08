@@ -3043,8 +3043,198 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 211. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 ![image](https://github.com/user-attachments/assets/e5f82fb8-a692-40e1-9328-02c648709b48)
+![image](https://github.com/user-attachments/assets/19b01e8f-cffa-4bd5-9de6-f08cf511bb50)
 
 * 19. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* We have to find the '10' digits of the password.
+
+![image](https://github.com/user-attachments/assets/f2b83666-be1a-4a3f-8689-c2ccb04f090a)
+![image](https://github.com/user-attachments/assets/08260417-9679-40e8-9df2-45be6a4e12e4)
+
+* Normally in **exam** situations how many **cases** should we **think off**. [Logic] [**IMPORTANT**]
+* Normally take around **4 to 5** cases max. during the **exam** situations. [Logic] [**IMPORTANT**]
+* Dont make the **cases** messy. Don't take only '1' case. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/64c7421c-a411-4c10-84f1-ce6aebc4fd5d)
+
+* It is mentioned in the question that '2 and 5' are adjacent to each other and '3' is along with '2 and 5'.
+* There is a '3' digit gap between '5 and 9'. 
+* '4' is between '7 and 9'.
+
+![image](https://github.com/user-attachments/assets/d1ec088e-e59a-4e31-a075-af77fd129092)
+![image](https://github.com/user-attachments/assets/db31098d-b9db-4812-ae93-42f36d775dcd)
+
+* It is mentioned in the question that '7' digit is at the 6th position of the password.
+* It means that both of the '1 and 2' cases above are **incorrect**.
+* If the starting is with '8 or 1' and the ending is with '2', that is not possible.
+* Ending with '2' is not possible so we are pretty such that ending with '1' is **correct**.
+
+![image](https://github.com/user-attachments/assets/16f01a21-cef8-4d42-b8c7-459c7fa03efb)
+
+* We are placing '7' at the 6th position of the password. '4' is between '7 and 9' so we have placed '4 and 9' in the different cases in different/opposite ways. 
+
+![image](https://github.com/user-attachments/assets/26adc520-fa29-46df-81bf-e14e33b0020f)
+
+* It is mentioned in the question that consequitive nos cannot be adjacent to each other. So in **blue color case** we can see that '1 and 2' are djacent to each other. So that case is **wrong**.
+* We will place '3' in the 9th position in 'case 3'.
+* We cannot take **blue color case**, we will only take **white color case**.
+
+![image](https://github.com/user-attachments/assets/63da0bb1-04cf-4468-84ce-3a0f7c2d25c8)
+
+* It is mentioned in the question that '6 and 0' are adjacent to each other.
+* We cannot keep '6' in the 3rd position in 'case 3' because in 4th positio we have '5', adjacent numbers. So we will keep '0' in the 3rd position in 'case 3'.
+
+![image](https://github.com/user-attachments/assets/bc6be7e1-ac3b-4bfe-b0c9-a1f9a6d38400)
+![image](https://github.com/user-attachments/assets/1eecf612-674e-4728-b898-6f48e094f34c)
+
+* '2,5 and 3' are in a group as mentioned in the question but in 'case 4' we can see that we cannot do the '2,5 and 3' group as mentioned in the question. So 'case 4' is **wrong**.
+
+![image](https://github.com/user-attachments/assets/46c0e46e-ed39-4140-9eda-7d2846b0d686)
+![image](https://github.com/user-attachments/assets/ceba4fe6-5536-478e-a0d6-10b302383b77)
+![image](https://github.com/user-attachments/assets/a2a3477e-5fce-47b4-81a0-ffe6e628e4ea)
+
+* We are left with only '2' cases.
+
+![image](https://github.com/user-attachments/assets/404e8349-0189-40d8-812e-f8f9d68a726f)
+
+* Cases -> 2
+* Answer -> 2. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum = 6 + 0 = 6.
+* Answer -> 6. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 2. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum = 8 + 4 = 12.
+* Answer -> 12. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/046bcaf9-2057-4bdb-ab48-f0c5d6b9367e)
+
+* 20. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/2831efcb-cf18-46c6-82ea-38110d4c180f)
+
+* Any groups we will take which has only '2' nos, the **avg** of those '2' nos in that groups will be an **integer** no only, as mentioned in the question.
+* It will happen when both the '2' nos in the group are either **odd or even**.
+
+![image](https://github.com/user-attachments/assets/219de3e4-f6a6-4793-8ec4-d51ead50772c)
+![image](https://github.com/user-attachments/assets/4fdbbab3-a9f9-4350-8425-328f6911f76d)
+![image](https://github.com/user-attachments/assets/b694023e-a35f-4b14-9332-c309b9340601)
+![image](https://github.com/user-attachments/assets/fbf6e696-292c-4a3a-b168-59ae420d23e4)
+
+* All the nos are **multiple of '6'(6k)**. If all of the nos are **multiple of '6'(6k)** then even if we divide the nos by '2,3,4,5 or 6', in any case, we will get **integer** nos only.
+
+![image](https://github.com/user-attachments/assets/76372d25-3311-47d1-ac6a-70cee13cf8f3)
+
+* 2,3,4,5,6 -> 60.
+* All of the nos are **multiple of '60'(60k)** only.
+* For the value of '60', in any of the cases we will get an **integer**.
+* The internal values are **multiple of '2,3,4,5 and 6'**.
+* We have to satisfy all of the **cases** all at **once**.
+
+![image](https://github.com/user-attachments/assets/6d60b3b0-7cc6-45ea-8ccc-1214c69bb268)
+![image](https://github.com/user-attachments/assets/fc6c1e9c-0879-42f8-8c86-0fba1f8eeb6c)
+
+* All of the **cases** in the above example will not give **integers** all at **once**.
+* Any '2' nos we will take and divide it by '2' will give us an **integer**.
+* Any '3' nos we will take and divide it by '3' will give us an **integer**.
+* Any '4' nos we will take and divide it by '4' will give us an **integer**.
+* Any '5' nos we will take and divide it by '5' will give us an **integer**.
+* Any '6' nos we will take and divide it by '6' will give us an **integer**.
+* LCM(2,3,4,5,6) -> 60. [Logic]
+
+![image](https://github.com/user-attachments/assets/744136d1-5e98-4a6e-a5b5-e722cee17ff7)
+![image](https://github.com/user-attachments/assets/59b4da86-3249-423e-9b2e-c237eb36fe88)
+![image](https://github.com/user-attachments/assets/ae35793b-3f48-4106-a021-067835d2cdeb)
+
+* If '2' nos are **multiples of '60'** then the difference between the '2' nos is also a **multiple of '60'**.
+* Then the difference between 'Q and R' is in the range of '160 to 195' which means the difference is '180' as it is a **multiple of '60'**.
+
+![image](https://github.com/user-attachments/assets/8580dfa4-2735-48ba-b3c6-156407610417)
+
+* We don't know the order of the difference between 'Q and R', whether it is 'Q - R' or it is 'R - Q'. 
+
+![image](https://github.com/user-attachments/assets/a154d6b9-0c0e-40aa-9c94-2623416ad3d6)
+
+* We know that 'Q > R' so it cannot be that 'R - Q = 180'. It is 'Q - R = 180'.
+* S = P + T.
+* S = 3x + T [P = 3x]
+
+![image](https://github.com/user-attachments/assets/0e8569a9-4333-42cc-ac50-d7f3d8884385)
+
+* Q - R = 180.
+* R = 5x - 180. [Q = 5x]
+
+![image](https://github.com/user-attachments/assets/0c7c77e9-adf7-4822-afac-9f98e3b98b89)
+![image](https://github.com/user-attachments/assets/b36ede39-0a65-4471-b096-8bd88f1426e3)
+
+* Final equation.
+* '3x, 4x, 5x' are multiple of '60K'.
+* '10x' is a multiple of '60K'. [10 -> 2,5]
+* 'T' is a multiple of '60K'.
+* '1440' is a multiple of '60K'.
+
+![image](https://github.com/user-attachments/assets/2f95b449-14e2-4b4a-a67d-2d25d06d5c7d)
+
+* 'x' is a multiple of '60K'.
+* 10x = 10 * 60k = 600k.
+* Thinking about **multiple of '600'**.
+* 600k = 600 * 1 =600.
+* 1440 - 600 = 840.
+* We cannot have individually **more than '800'** at once.
+* 840 > 800.
+* So, this is **not possible**.
+
+![image](https://github.com/user-attachments/assets/09d3b6cc-e73d-46ce-a3b3-b20cbf7d2cf9)
+
+* 600k = 600 * 2 1200.
+* 1440 - 1200 = 240.
+* 240 < 800.
+* So, this is **possible**.
+* 600 * 3 = 1800
+* 1800 > 1440.
+* So '1200' is the **only case** possible. 
+
+![image](https://github.com/user-attachments/assets/b13d9e33-5692-4909-bdf7-af4623f20672)
+
+* T = 240.
+* 10x = 1200
+* x = 120.
+* P = 3x = 360.
+* Q = 5x = 600.
+* R = 5x - 180 = 420.
+* S = 3x + T = 360 + 240 = 600.
+* T = T = 240.
+* U = 4x = 480.
+
+![image](https://github.com/user-attachments/assets/98296951-e1ff-4b2c-84ae-7129507c499d)
+
+* Without findig the value of 'T' we cannot find the value of 'x'.
+
+![image](https://github.com/user-attachments/assets/305cc692-5d8d-4ea6-98aa-5f3c58d10ee6)
+
+* Answer -> 360. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Highest = Q = 600
+* Lowest = T = 240
+* Difference = 600 - 240 = 360.
+* Answer -> 360. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* 2nd lowest = p = 360
+* 3rd lowest = R = 420
+* Answer -> 420. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum = R + T = 420 + 240 = 660
+* Answer -> 660. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
