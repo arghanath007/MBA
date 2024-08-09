@@ -2901,7 +2901,44 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/139b29cc-ac0a-49a0-98d2-1b57779b3fdf)
 
-* Reest in next class.
+* Rest in next class. [Update]
+* Solved below.
+
+![image](https://github.com/user-attachments/assets/02923d23-928a-4f28-8b17-f1d93a1013a0)
+
+* 'X + 1' -> LY.
+* X, 'X + 2', 'X + 3' -> NLY.
+* We know that in any 'NLY', the calendar of 'Jan and oct' are the **same** only.
+* 'X + 4' -> NLY.
+
+![image](https://github.com/user-attachments/assets/6e2f6629-05e7-40b9-8703-f8eb1d221e88)
+![image](https://github.com/user-attachments/assets/05adc3d6-5d32-44b7-bd3e-16138b34a15c)
+
+* Exactly '3' months -> The starting **date** of the '3' months are **exactly** the **same**.
+
+![image](https://github.com/user-attachments/assets/91447123-5536-49e1-830e-904a11e49604)
+
+* All '3' of the months start on **exactly** the **same** day.
+* 4yrs = 5days.
+
+![image](https://github.com/user-attachments/assets/3b5db18d-a384-4df3-b369-59293b674aa9)
+
+* It is for any **NLY**. The years we have taken is as an **example**. Take some random numbers.
+* As 1st of feb, march and nov are the **same** and we saw that **1st feb** is a **tuesday** so 1st of march and nov are also **tuesdays**. 
+
+![image](https://github.com/user-attachments/assets/374879f3-1cd8-48f8-b7d4-73ef5dbf2732)
+![image](https://github.com/user-attachments/assets/dbb2bc0c-5175-4857-af83-2d0c7aa17958)
+
+* C2 -> Tuesday.
+* Answer -> C2. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+
+
+
+
+
+
+
  
 ![image](https://github.com/user-attachments/assets/e1138937-71ed-48bf-b69e-a5bd01976a35)
 ![image](https://github.com/user-attachments/assets/071ce741-c98c-4513-805e-d6c6dbaade86)
@@ -3373,6 +3410,53 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/6a8f1e18-db8c-43c9-831a-8d90abb6dd8d)
 ![image](https://github.com/user-attachments/assets/211c628e-e66e-4c1a-be5d-5a6876c3eb73)
+![image](https://github.com/user-attachments/assets/f73d7745-c5e2-4767-80d0-ed650a95bb63)
+
+* The matrix is **filled**.
+
+![image](https://github.com/user-attachments/assets/37830992-178c-4388-a5c1-ff92c2301f50)
+
+* "All belongs to different categories".
+* Add in the **set**.
+
+![image](https://github.com/user-attachments/assets/3a30885d-78f5-40ae-80a8-e4fe977d0913)
+
+* Answer -> N. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 70000. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 70000. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> L. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> Hawk. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> M. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/c073da67-94dc-4e92-858d-d1266d861ac9)
+![image](https://github.com/user-attachments/assets/a6c505c3-f48b-4422-84e6-da7564a4849b)
+
+1) Ability to pick right questions.
+2) Problem solving skills.
+
+![image](https://github.com/user-attachments/assets/13a00233-50b9-42c9-b750-17650e6f1aeb)
+![image](https://github.com/user-attachments/assets/90b8e45e-7b13-40a0-bfce-f5c9a65479b1)
+![image](https://github.com/user-attachments/assets/c985ef85-bac1-416c-aa5e-640f189bff01)
+
+## Puzzles, Matrix formation (Part - 13)
+
+![image](https://github.com/user-attachments/assets/cf8c7378-99c1-4a4d-a60b-38e668d4a98d)
+![image](https://github.com/user-attachments/assets/1763649e-1d1d-42e7-babc-b9908756ba33)
+
+
+
+* 23. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
