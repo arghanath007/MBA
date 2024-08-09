@@ -3260,32 +3260,119 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * There are '2 a' and 'a' is **south africa** because it cannot be **france**. 'Q' is already from **france** as mentioned in the **question**. So if 'a' is **france** then there will be '3' people from **france**. So 'a' cannot be **france** and it is **south africa**.
 * a = **south africa(SA)**.
 * Now we have to find the connecting points with or from **south africa(SA)** to solve it **easier/faster**.
-* We found that **SA** people don't know **german**. So we put **german** as a **lang** for 'U'. 'R' already had a **lang**.
+* We found that **SA** people don't know **german**. So we cross out **german** as a **lang** for 'U'. 'R' already had a **lang**.
 
 ![image](https://github.com/user-attachments/assets/f1d30561-6f62-4481-9c32-bdc21fb4799d)
 
-* As 'R' has **lang** as **polish** already and 'R' is from 'SA'. 'U' is also from 'SA' so 'U' cannot have **lang** as **polish**.
+* As 'R' has **lang** as **polish** already and 'R' is from 'SA'. 'U' is also from 'SA' so 'U' cannot have **lang** as **polish** as it is mentioned in the question that **same country people cannot have the same language**.
 * 'P' cannot have 'J' as company because 'J' company's people speak **german** but 'P' doesn't speak **german**.
-* 'Q' cannot have 'J' as it is mentioned in the question.
+* 'Q' cannot have 'J' as it is mentioned in the question that 'Q' is not from the company 'J'.
+* 'U' cannot be from 'J' as 'U' cannot speak **german** and people from company 'J' can speak **german**.
+* Already 'Q' has **lang** as **german** and country as **france**. 'S' has **lang** as **german** already, so 'S' **cannot** have country as **france** as mentioned in the question that **same people having the same language cannot have same country**. 
 * Finally, 'S' takes 'J' and the **lang** of 'S' is **german**.
 
 ![image](https://github.com/user-attachments/assets/762eb473-04e4-4930-b2ec-72f27b7fb6f9)
+![image](https://github.com/user-attachments/assets/3424e39e-8586-47bc-aa46-8ea2e621670f)
 
+* We have filled '4' countries.
+* As 'S' cannot have 'france' so the only other option is **russia**.
+* So the **country** of **S** is **russia**.
+* We are left with 'P' only.
+* So the **country** of **P** is **france**.
+* We have already filled **german** as a **lang** for '2' people. We cannot do more.
+* We cannot fill **H -> English** in **Q and T**. We can in **P and U**.
+* We cannot fill **M -> polish** in **Q,T and U**. We can in **P** only.
+* So, **company** of 'P' is 'M' and the **lang** of 'P' is **polish**.
+* We can put **H -> English** at **U** only.
 
+![image](https://github.com/user-attachments/assets/170b249a-3a66-4c57-b2bc-f959d76c96d1)
 
+* All of the points are completed.
+* We need to **complete/finish** the table now.
 
+![image](https://github.com/user-attachments/assets/a87b86bc-5b37-407f-9c9b-5a0df4667531)
+![image](https://github.com/user-attachments/assets/e7139450-9165-4e59-b8be-05cc85fbc854)
 
+* Set solved.
 
+![image](https://github.com/user-attachments/assets/095feb1e-8094-41d3-8977-88da60779cfd)
+![image](https://github.com/user-attachments/assets/b0a156fa-5765-41fe-871d-5e89df51a46b)
+![image](https://github.com/user-attachments/assets/2604cdc8-24da-4319-b1c2-1a29fc8030a3)
 
+* 22. [Question] [Set] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/f9237309-7b19-400d-9a01-770682780d42)
 
+* **Other pilot** who flew to 10000 feet used an **eagle** jet.
+* 'L' didn't use an **eagle** jet.
+* Lowest -> 10000 swirls.
+* 70000/100 = 700.
+* Winner(Rank 1) = 700 + 500 = 1200 swirls.
+* 'M' is not 'Rank 1'.
 
+![image](https://github.com/user-attachments/assets/e56a0d8f-5b44-49db-8958-ab7615cf07f0)
+![image](https://github.com/user-attachments/assets/98190969-8986-4fd9-8d3d-0d53e7b1e6ce)
 
+* We are done with all of the points in the set.
+* It is mentioned in the question that 'J and K' are not the **winner**.
+* 'L' did the **lowest height** so it is also not the **winner**. Even if we give the highest no. of swirls which is '8' to 'L' then also the no. of swirls will be '800' only.
+* No. of swirls for the **winner** is '1200'. So 'L' is not a **winner**.
+* 'J, K, L, M' are not the **winner**. So 'N' is only left.
+* 'N' is the **winner**.
+* 'N' has '1200' swirls.
 
+![image](https://github.com/user-attachments/assets/8134524b-7383-40f3-a525-06874c685d6b)
+![image](https://github.com/user-attachments/assets/d7e0aaf0-c345-4d1b-8e4a-243442033761)
 
+* 70000 * 3 = 210000. 
+* '210000' is not divisible by '1200'.
+* 'M' does not have jet as **woodpicker**.
+* Only left are 'J, N and L' but 'N' is the **winner** so 'N' cannot be **woodpicker**.
+* We can fix **Eagle -> 10000** in 'J' only. We cannot put it anywhere else.
+* 'J' is **Eagle -> 10000**.
+* Only left is 'L'. So,
+* 'L' is the **woodpicker**.
+* If **woodpicker** is 'x' height then the **winner** is '3x' height.
+* x = 10000, winner = 3x = 30000.
+* 'N' height is '30000'.
 
+![image](https://github.com/user-attachments/assets/a32da49d-5817-4316-a2be-3af83e97fe00)
+![image](https://github.com/user-attachments/assets/7cb70a12-a122-4b80-9c56-d19045d1ea84)
 
+* 30000/100 = 300.
+* 1200/300 = 4.
+* '4' per 100 feet.
+* 'N' is a category 'C' pilot.
+* We know that the **winner** which is 'N' cannot have a **jet** of 'eagle or vulture'. So 'M' has a jet of **vulture** because 'J' has already taken **eagle**.
+* 'N' has a jet of **penguin**.
 
+![image](https://github.com/user-attachments/assets/42a1829f-6062-4c7b-9450-a47295646855)
+
+* 70000/100 = 700
+* 700/700 = 1 swirl per 100 feet -> category 'A'.
+
+![image](https://github.com/user-attachments/assets/3b355eb9-f403-40ec-b7cd-6451e357d926)
+
+* With '50000' we will get '2' as '2' can divide '50000'.
+* We are left with '2,6 and 8'.
+* 50000/100 = 500
+* 500 * 2 =1000 swirls.
+* 500 * 6 = 3000 swirlss.
+* 500 * 8 = 4000 swirlss.
+* '3000 and 4000' swirls are not possible because the winner had '1200' swirls.
+
+![image](https://github.com/user-attachments/assets/feac3bce-3224-4377-809e-b87d541b671f)
+
+* We are sure that with '50000' we can fit '2'. So it is of category 'B'.
+* We are left with '6 and 8'.
+
+![image](https://github.com/user-attachments/assets/7bd239a3-c46f-482c-bea2-bdd6bd0d314b)
+
+* We know that **woodpicker** has the **lowest no. of swirls**.  'M' is the **woodpicker**, so it would have the lowest no. of swirls which is '600'.
+* 'L' is '600'.
+
+![image](https://github.com/user-attachments/assets/6a8f1e18-db8c-43c9-831a-8d90abb6dd8d)
+![image](https://github.com/user-attachments/assets/211c628e-e66e-4c1a-be5d-5a6876c3eb73)
 
 
 
