@@ -2932,14 +2932,24 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * C2 -> Tuesday.
 * Answer -> C2. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/b442ac5f-1710-4569-acc7-2977d0e64083)
 
+* We know that 1st Jan of 'X' is a **monday**.
 
+![image](https://github.com/user-attachments/assets/82f6f4c8-186c-442a-93a1-4e6aab3b0ce3)
 
+* 1st May of 'X' -> Tuesday.
 
+![image](https://github.com/user-attachments/assets/8f9b72ab-73d0-4c94-8e22-6dc58ecf38af)
 
+* We were finding only which one was a **friday** as 'C5' is a **friday**.
 
+![image](https://github.com/user-attachments/assets/bcc0ff99-549d-4d11-a846-0c7010aeaaad)
+![image](https://github.com/user-attachments/assets/bb159a37-fe94-4393-8b7a-3ecd787271ed)
 
- 
+* Answer -> Option **B**. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Solved in video/pdf **13**.
+
 ![image](https://github.com/user-attachments/assets/e1138937-71ed-48bf-b69e-a5bd01976a35)
 ![image](https://github.com/user-attachments/assets/071ce741-c98c-4513-805e-d6c6dbaade86)
 ![image](https://github.com/user-attachments/assets/9608f33a-f6ce-4f9b-b23d-0167d61b4e35)
@@ -3442,10 +3452,57 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/cf8c7378-99c1-4a4d-a60b-38e668d4a98d)
 ![image](https://github.com/user-attachments/assets/1763649e-1d1d-42e7-babc-b9908756ba33)
-
-
+![image](https://github.com/user-attachments/assets/477f1add-b993-4b83-b5c3-510e519e2cf4)
+![image](https://github.com/user-attachments/assets/39dd7875-f527-4995-be4b-1cf839011a3b)
+![image](https://github.com/user-attachments/assets/c9fe37c3-d05f-472a-bf20-727aadca498c)
+![image](https://github.com/user-attachments/assets/f457121c-6c90-4b52-8d2a-16b8a2026808)
 
 * 23. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/1986bbb2-5151-4cdb-ba57-478862ff1a25)
+
+* Coding method. [Formula] [**VERY IMPORTANT**] [Remember]
+
+![image](https://github.com/user-attachments/assets/85b874fe-dd9b-496a-b143-25ad0a7c02e9)
+![image](https://github.com/user-attachments/assets/d1ace67a-bf40-4a49-9f71-75f4334c964c)
+
+* Getting the **dates**.
+
+![image](https://github.com/user-attachments/assets/12d197f9-36f2-41c4-85b5-18111a89f2cf)
+
+* 3/4 = 0 LY.
+* 21-03-99 -> 99+24+21+3+0 -> 147 -> 147/7 -> 0 -> sunday.
+* 13-11-07 -> 7+1+13+3+6 -> 30 -> 30/7 -> 2 -> Tuesday.
+* DOW -> Date Of Week.
+* From these we can immediately find the **age**.
+
+* Dec of 1995 + 27yrs -> Dec of 22.
+* We want till 1st of oct 22.
+* So '22-12-1995' is '26yrs and a few months' old.
+* Dec of 2007 + 15yrs -> Dec of 22.
+* We want till 1st of oct 22.
+* So '13-11-2007' is '14yrs and a few months' old.
+
+![image](https://github.com/user-attachments/assets/b4701aec-aba5-4a87-8460-fa934ce51291)
+
+* Weight of '6' people lie between '25kg to 70kg' -> It means that '25 and 70' are not included in the **weights** -> 26 <= weight <= 69. 
+
+![image](https://github.com/user-attachments/assets/95e8fe27-0e84-4f01-9af1-7b23126e2640)
+
+* Out of the '5' prime nos. greater than '67', we have to pick '4' of them.
+* Whichever combination of nos. we will choose, the **largest no** will be either '83 or 89'.
+* Sum = Avg * n. [n -> count/no. of numbers] [Formula] [**IMPORTANT**]
+* The sum of '6' nos has to be '402'. Out of the '6' nos, '4' nos have to be **prime nos greater than '67'** and the rest '2' are **prime nos less than '67'**.
+
+![image](https://github.com/user-attachments/assets/24c3bf75-06dc-42d4-bc02-27abbd667bd9)
+
+
+* Deviation. [concept]
+* We have to maintain an avg of '67'.
+* We want '2' nos whose avg. is '67' and one of the nos is '43'.
+* T
+
+
 
 
 
