@@ -3771,6 +3771,111 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ## Puzzles, Matrix formation (Part - 14)
 
+![image](https://github.com/user-attachments/assets/66351305-dabf-40a2-b8a1-33195a64f025)
+![image](https://github.com/user-attachments/assets/2fe7dc49-c33f-4005-8d23-979026be675a)
+
+* 25. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/c4151cf3-0a9e-472a-a20c-620274ed3822)
+
+* We don't know the **total no. of pirates**. We have to guess by the **no. of gold/silver coins**.
+* The order is from **youngest to oldest** for **gold coin**.
+* The order is from **oldest to youngest** for **silver coin**.
+
+![image](https://github.com/user-attachments/assets/abf493c0-22ee-4d25-a667-fa43099abfd0)
+
+* S - G = 56.
+* We have to find till which point the difference of gold and silver coin is **56**.
+* 20 - 10 = 10.
+* The difference is '10'.
+* 84 - 28 = 56.
+* Now the difference is '56'.
+
+![image](https://github.com/user-attachments/assets/8b575d32-ef6b-45cb-bd45-385572aa1a0d)
+![image](https://github.com/user-attachments/assets/2ee9a387-1a50-4896-91c1-e77ca606bba3)
+![image](https://github.com/user-attachments/assets/8b5ca326-f706-4769-b762-4de9a2a35252)
+
+* When the difference is '56' then we can say that the **gold and the silver** coins are **finished**.
+* So, we had a total of '8' pirates.
+
+![image](https://github.com/user-attachments/assets/9b36cc61-164e-4122-933e-4b01ae43131f)
+
+* When the difference between the **gold and the silver** coins is '56' which means that all of the **gold and the silver** coins are **gone** now. They are **finished/gone**.
+
+![image](https://github.com/user-attachments/assets/bf4f0cca-0709-453a-a99a-544ec81c84b0)
+
+* No. of pirates -> 8.
+* 8x + 24 = 148
+* x = 15. 
+* The **oldest pirate** got **'x + 7 = 15 + 7 = 22'** gold coins.
+* The **oldest pirate** got **'x = 15'** silver coins.
+* The **youngest pirate** got 'x = 15' gold coins. 
+* The **youngest pirate** got 'x + 28 = 15 + 28 = 43' silver coins. 
+* Oldest = Youngest.
+* 22G + 15S = 15G + 43G
+* 7G = 28S
+* G = 4S.
+* '1' gold coin is equal to '4' silver coins.
+
+![image](https://github.com/user-attachments/assets/981ee20d-7619-4d11-9b39-c81ef2afd48a)
+
+* We don't know the ratio of gold and silver coins. We calculated that for question '3' only. We have to find for question '4'.
+* '1' gold coin = 'y' silver coin.
+* The young pirate got '15' gold coins.
+* The young pirate got '43' silver coins.
+* '1' gold coin = 15y + 43
+* 'x + 1' -> 16.
+* 'x + 21' -> 15 + 21 -> 36.
+* '2' gold coin = 16y + 36.
+* 'x + 2' -> 17.
+* 'x + 15' -> 15 + 15 -> 30.
+* '3' gold coin = 17y + 30.
+
+![image](https://github.com/user-attachments/assets/8b23baa4-d357-450b-a9de-4bb12838e6b6)
+![image](https://github.com/user-attachments/assets/0a174818-5005-4212-82be-9faf257ee4ba)
+
+* We want the gold coin to silver coin **ratio**.
+* In the **question**, we have to find the **min. value of 'y'**.
+* It is written that the **total worth** of the **youngest person** is the **least/minimum**.
+
+![image](https://github.com/user-attachments/assets/01351d20-4541-4424-8017-e2bd0da12dab)
+![image](https://github.com/user-attachments/assets/c8e5a70a-f187-4c7d-aee3-ef069c665382)
+![image](https://github.com/user-attachments/assets/ce5cd34a-cb63-4997-bc25-336e05bc32b7)
+
+* We can see a **pattern** that 'y' is **decreasing**.
+* y> 7,6.5,6.
+* The min. value of 'y' is '8'.
+* 'y' is an integer greater than '7'.
+* We want a no. in 'y' which is going to satisfy all of the cases.
+
+![image](https://github.com/user-attachments/assets/e76669e1-bfa4-46b3-8c8e-d29de4c836c3)
+
+* Answer -> 8. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 15. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 4. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 8. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/0c123835-101e-422f-b245-95c54ca246b0)
+
+* 26. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* 1hr 3mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3785,6 +3890,10 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
  
 
+![image](https://github.com/user-attachments/assets/44742bb9-657f-4c82-bd33-6fc04e695b24)
+![image](https://github.com/user-attachments/assets/56f81239-8bb6-4786-989d-8a5374915562)
+![image](https://github.com/user-attachments/assets/01720082-82d6-499f-894f-4872e7c0a4cc)
+![image](https://github.com/user-attachments/assets/a5dbd121-d7a0-43c3-9d51-88a73b6b2f42)
 
 
 
