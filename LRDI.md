@@ -3657,8 +3657,119 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * '90,100,130, 140' are not in AP.
 
 * '4' values should be in AP.
-* With '47', the no. '53' will go as we need **multiples of '10'**.
-* With '73', the no. '47' will go as we need **multiples of '10'**.
+* With '47', the no. '53' will go as we need **multiples of '10'**. The sum is '100'.
+* With '73', the no. '47' will go as we need **multiples of '10'**. The sum is '120'.
+* With '67', the no. '43' will go as we need **multiples of '10'**. The sum is '110'.
+
+![image](https://github.com/user-attachments/assets/9733501a-e282-4b80-8a5a-d7badb042281)
+
+* '90,100, 130,140' are not in AP. This is **not possible**.
+* We want '4' nos to be in AP.
+
+![image](https://github.com/user-attachments/assets/4fb197b2-2b1b-4cf2-a939-21a8ee542111)
+![image](https://github.com/user-attachments/assets/60c98381-6926-4af1-b5f0-e3193fabbd25)
+
+* '100, 110 120,130' are in AP. This is **possible/correct**.
+* The **set** is **solved**.
+
+![image](https://github.com/user-attachments/assets/51ec49f3-b05a-46dc-9459-87a416a3a48e)
+![image](https://github.com/user-attachments/assets/759c445f-37d0-446e-9377-92b5afc32ab9)
+
+* 24. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/d83847c4-b8cb-4bd8-9318-02f019770461)
+![image](https://github.com/user-attachments/assets/75dde85c-f43c-4b9e-a0fd-1edde55aceae)
+
+* The difference of '10' is created because we have **consecutive natural numbers**.
+* From the '5' rows, we got a difference of '10' and every row has **different numbers**.
+* Sum of '5' things is '10'.
+* '5' different numbers is '10'
+
+![image](https://github.com/user-attachments/assets/9274b37e-8bf0-4ee1-b079-298490166d17)
+
+* The nos. are **consecutive natural numbers**.
+* '5' row's differece is given as '10'.
+* 1st row's difference -> 0.
+* 2nd row's difference -> 1.
+* 3rd row's difference -> 2.
+* 4th row's difference -> 3.
+* 5th row's difference -> 4.
+
+![image](https://github.com/user-attachments/assets/17aecffa-5ea0-46de-a165-35ede1bacbb3)
+![image](https://github.com/user-attachments/assets/e9389981-8993-4a50-8c99-6e3a32355167)
+![image](https://github.com/user-attachments/assets/4b971596-26b0-4405-8a2a-c98274b29cbe)
+
+* The **order** doesn't matter.
+* In the middle there is consecutive natural numbers.
+* Sum of lotus is '81'.
+* '15' slots means 15 consecutive natural numbers.
+* Sum is '81', so **1 slot** is not possible. The max. is upto '35'.
+
+![image](https://github.com/user-attachments/assets/caad4a82-eb9f-47bd-8dbf-a23547d722ef)
+
+* Every row has how many slots.
+* We cannot have consecutive numbers. If we have '3' nos in a row then the previous row cannnot have '2 or 4'.  If we have '3' nos in a row then the next row cannnot have '2 or 4'.
+* '2 or 4' are consecutive nos for '3'.
+* Lotus' sum is '81'.
+* 15 slots means '15' consecutive natural numbers.
+* If '21' is minimum then the max./last one is '35'. It cannot go beyond '35'.
+* Sum of some consecutive natural numbers is '81'. We don't know the count.
+* '1' slot is not possible because the max. no. is '35'.
+* '2' slot sum is '81'.
+* 40 + 41 = 81.
+* This is not possible as max. is '35'.
+* '2' slot is not possible because the max. no. is '35'.
+* 81/2 = 40.5 = 40 + 41.
+* 81/3 = 27 = 26 + 27 + 28.
+* 81/4 = 20.25 = 19 + 20 + 21 + 22 = 82
+* With '4' slots, '81' is not possible.
+
+![image](https://github.com/user-attachments/assets/442549f6-21bb-4816-b2d1-e3cb31622526)
+![image](https://github.com/user-attachments/assets/65264bee-656b-4685-9076-94c7d4bf4c3c)
+
+* We are sure that the no. of possibility is '1' only.
+* We got '3' slots.
+* So for the next, the no. of slots cannot be '2 or 4' as they are **consecutive** to '3'. 
+
+![image](https://github.com/user-attachments/assets/53bf8fd3-3cf4-4c63-804d-cc791a8337d6)
+
+* Let's try with either '1 or 5' case. We have to take one of them and move forward with it. We can't wait. We have to do both of them and see which one is **working** on our own.
+* We are starting with '5'.
+* If we have taken '5' in 'J' then we are left with '1' in 'R'.
+* If '1' in 'R' then we cannot have '2' in 'Lavender', we have '4' in 'Lavender'.
+* Finally we will have '2' in 'M'.
+
+![image](https://github.com/user-attachments/assets/c747d816-bea2-4c89-8abe-68dc63388a4d)
+
+* From the last no. in 'J' being '21' and the 1st no. in 'Lotus' being '26'. We have left some nos between '21 to 26'. Those nos we have written somewhere else.
+* As 'Lavender' has '4' slots so the above missing nos will come to 'Lavender' only.
+
+![image](https://github.com/user-attachments/assets/f0f775de-36c1-4279-86dd-45c3aa9de18e)
+![image](https://github.com/user-attachments/assets/fdb905ef-83a8-4bcc-907c-a2a0a3a42304)
+
+* 109 - (17 + 26 + 22) = 44/2 = 22.
+* 119 - (21 + 28 + 25) = 45/2 = 22.5 = 22 + 23.
+* 15 + 29 = 44.
+* We cannot have '15' because after '15', we have '17'. We don't have '16'. This is not possible.
+* So, instead of '15', we will put '16' here.
+
+![image](https://github.com/user-attachments/assets/5f8f7ece-957f-4212-b20b-a15f71f3e7cf)
+
+* '16' is also not possible.
+* 16 + 29 = 45.
+* 16 + 30 = 46.
+
+![image](https://github.com/user-attachments/assets/eb86aaf7-b67f-4952-8900-ed4f4255d8a4)
+![image](https://github.com/user-attachments/assets/028e443b-a968-4d1e-a037-6311177a67d1)
+
+* 29 + 15 = 44.
+* 29 + 16 = 45.
+* This is **possible**.
+* 15 -> 16 -> 17.
+
+![image](https://github.com/user-attachments/assets/4c6b6f75-6342-480d-8384-9bb2239ecefb)
+
+## Puzzles, Matrix formation (Part - 14)
 
 
 
@@ -3669,6 +3780,10 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 
 
+
+
+
+ 
 
 
 
