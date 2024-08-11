@@ -3485,36 +3485,180 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/b4701aec-aba5-4a87-8460-fa934ce51291)
 
-* Weight of '6' people lie between '25kg to 70kg' -> It means that '25 and 70' are not included in the **weights** -> 26 <= weight <= 69. 
+* Height of the '6' nos. is between '45 and 72' and they are **prime numbers**.
+* Possible Heights -> 47, 53,59, 61,67,71.
+* Weight of '6' people lie **between** '25kg to 70kg' -> It means that '25 and 70' are not included in the **weights** -> 26 <= weight <= 69.
 
+![image](https://github.com/user-attachments/assets/992a739c-46ea-43a3-a471-6d82ac927c59)
 ![image](https://github.com/user-attachments/assets/95e8fe27-0e84-4f01-9af1-7b23126e2640)
 
 * Out of the '5' prime nos. greater than '67', we have to pick '4' of them.
+* It is mentioned in the question that the **largest no** is **greater than twice the smallest number**.
+* 43 * 2 = 86 < 89.
+* 41 * 2 = 82 < 83.
+* Combinations -> 71,73,79,83 | 71,73,79,89.
 * Whichever combination of nos. we will choose, the **largest no** will be either '83 or 89'.
+* We have to make the **avg = 67**.
 * Sum = Avg * n. [n -> count/no. of numbers] [Formula] [**IMPORTANT**]
 * The sum of '6' nos has to be '402'. Out of the '6' nos, '4' nos have to be **prime nos greater than '67'** and the rest '2' are **prime nos less than '67'**.
+* We can do either of '2' things, take nos. and add them together to get '402' or we can do **Deviation**.
 
 ![image](https://github.com/user-attachments/assets/24c3bf75-06dc-42d4-bc02-27abbd667bd9)
 
-
-* Deviation. [concept]
+* Deviation. [concept] [**IMPORTANT**] [Formula]
 * We have to maintain an avg of '67'.
 * We want '2' nos whose avg. is '67' and one of the nos is '43'.
-* T
+* The total deviation is always **zero(0)**.
+* 67 - 43 = 24.
+* 67 + 24 = 91.
+* The avg. of '43 and 91' is '67' only.
 
+![image](https://github.com/user-attachments/assets/eb43d93a-42de-42b6-ac31-11b63f2e77e6)
+![image](https://github.com/user-attachments/assets/b66991f3-14ab-4ced-beb6-007867814795)
 
+* The other no. has to be '89' also.
+* The total deviation in the lower part is **+44** and the total deviation in the upper part is **-44**.
+* Total deviation = +44 + -44 = 0. [Example] [**IMPORTANT**] [Formula]
 
+![image](https://github.com/user-attachments/assets/f8811822-2fad-4cfb-8cf0-1d45ed42c910)
+![image](https://github.com/user-attachments/assets/ff44d8fa-5d4c-4814-b90e-ecc44920938d)
 
+* The **total deviation** of the avg. is **0** only. [Formula]
+* Positive and negative deviation.
+* The min. age is '12'.
+* The min. weight is '26'.
+* The min. of **age + weight** is '12 + 26 -> 38'.
+* All of the values(**age + weight**) will be greater than '38' only.
+* The least prime no. is '41'. We cannot go less than '41'.
 
+![image](https://github.com/user-attachments/assets/ee331e52-688e-4fce-abec-c3187ae9ed3f)
+![image](https://github.com/user-attachments/assets/b597d4ac-0a55-4a62-a894-d56209726f30)
 
+* As the lower part is '+44' then the upper part is '-44'.
+* 67 - 43 = 24
+* 44 - 24 = 20.
 
+![image](https://github.com/user-attachments/assets/b0ff9d39-9eaf-45ae-adcf-7f691f46d6c1)
 
+* The remaining no. should be '67 - 20 = 47'.
+* 67 - 18 = 49.
 
+![image](https://github.com/user-attachments/assets/7acc580b-1e52-47e7-96be-94aed6318ad0)
 
+* '49' is not a prime no, so **case 'II'** is **wrong**.
+* We are pretty sure now that if we take '89' at the bottom then we should take '43' at the top. This is **working**.
+* '41' is not possible as it is **not working** and we cannot go before '41' as '38' is the **minimum**.
 
+![image](https://github.com/user-attachments/assets/d51b9d20-b87d-4ce1-9f21-c016996e0e5b)
 
+* 67 - 43 = 24.
+* 48 - 24 = 24.
+* We will get '2', **43** on the top, which is **not possible**.
 
+![image](https://github.com/user-attachments/assets/cc260e92-17c5-439e-a98e-7f9ef8798a41)
 
+* Instead of '43' if we take '41' then also we will get the other no. as '67 - 22 = 45' and '45' is **not a prime no.**, so **case 'III'** is **wrong**.
+* '48 - 26 = 22'
+* Instead of '71 and 73', we takee '73 and 79' then also we will not get a **prime number**.
+
+![image](https://github.com/user-attachments/assets/464222ed-3d48-46c3-8e1d-681870180393)
+
+* Only '1' case is possible.
+* We will hold point '2' as we fully don't know the **names** yet.
+* Age + weight + height -> It is a multiple of '10'.
+* The '4' lower values are in AP.
+* The '2' higher values are **equal**.
+* Attack point '5'.
+* If one of the points in the question is not helping then move to the next point. In **exam situations**, keep reading the **questions** and try to answer the **questions** as well to get the **marks**. Always look at the **questions** also. [Formula] [**VERY IMPORTANT**]
+* '4 and 5' are attacking points.
+* 'A' is '10yrs' younger than 'L'.
+* 33 - 23 = 10yrs.
+* We have '2' possibilities which are 'tues -> wed -> thus' or 'wed -> thus -> fri'.
+* '14' is the 2nd youngest in the group.
+
+![image](https://github.com/user-attachments/assets/318fc3e8-0bd2-452b-badb-8c8d84e01b37)
+
+* 'Tues' is gone.
+* Now we have '1' possibility only 'wed -> thus -> fri' for '3' consecutive days.
+
+![image](https://github.com/user-attachments/assets/2ddb4694-522d-4d7b-98c7-6a063fadbf2d)
+
+* We now got the **names** in order.
+* Only '1' weight is a multiple of '5'.
+
+![image](https://github.com/user-attachments/assets/a947bf6b-ee2a-4de1-abd3-9aa61a5d3f39)
+
+* We want '3' nos. which are in the difference of '10'.
+* 79 + 71 = 8
+* 8 < 10.
+* If we take '43,47 and 71' then the difference is **more than '10'.
+* If we take '73, 79, 89' then the difference is **more than '10'.
+* So only '71,73 and 79' is possible.
+* We have blocked these '3' nos for those '3' people as we don't know the **order/arrangements** of the numbers. We can **shuffle**.
+
+![image](https://github.com/user-attachments/assets/9a196fb2-55e2-414d-9b99-bb456288ac6e)
+
+* The weights of 'L and P' are consecutive. So we are taking them as 'x and x+1' respectively.
+
+![image](https://github.com/user-attachments/assets/8d06d3a1-704d-4da2-a248-8ca72d17db49)
+
+* We have '3' nos, which are '71,73, 79'. Out of the '3' nos we are selecting '2' numbers.
+* 71 - 33 = 38.
+* 73 - 26 = 47.
+* They are not **consecutive** numbers**, we want **consecutive** numbers**. 
+* 79 - 33 = 46
+* 73 - 26 = 47.
+* They are **consecutive** numbers**.
+* Out of
+
+![image](https://github.com/user-attachments/assets/f2152d30-e760-43b9-98e0-0f91b8d73657)
+![image](https://github.com/user-attachments/assets/63cb6b87-4037-41bc-8d1d-acc8d608c4a3)
+
+* '46 and 47' are **consecutive** numbers**.
+* 71 - 19 = 52.
+* '1,2,5,6' points are done.
+* '3 and 4' are left.
+* Age + weight + height -> It is a multiple of '10'.
+* We have to make(x) maximum.
+* With '79' we will add '71 or 61' so that the **sum** is a multiple of '10'.
+* As '71 or 61' are ending with '1' so they will go with either '79 or 89'.
+
+![image](https://github.com/user-attachments/assets/bc66cf6d-16f1-4ef3-b7bd-c5f2f29fa7a7)
+
+* 79 + 71 -> 150
+* 79 + 61 -> 140.
+* 89 + 71 -> 160
+* 89 + 61 -> 150.
+* To get **same/equal** values, we have to do:-
+* 79 + 71 -> 150
+* 89 + 61 -> 150.
+* They need to be **same/equal**.
+
+![image](https://github.com/user-attachments/assets/43c3a62e-09f9-4425-ac3c-e3cdd90f68b1)
+
+* For '59' to be a **multiple of '10'** it has to be added with '71'.
+* 59 + 71 -> 130.
+* 89 - 23 = 66.
+
+![image](https://github.com/user-attachments/assets/49e6d719-ae87-4a32-9c73-f99ba518018e)
+
+* Height left -> 47, 53.
+* Weight left -> 43, 47.
+* The weights are **multiple of '5'**.
+* 43 - 12 = 31 -> not a **multiple of '5'**.
+* 47 - 14 = 33 -> not a **multiple of '5'**.
+* * The weights are not **multiple of '5'**.
+* 43 - 14 = 29 -> not a **multiple of '5'**.
+* 47 - 12 = 35 -> is a **multiple of '5'**.
+
+![image](https://github.com/user-attachments/assets/2dc14419-ba45-4eaa-88bb-506189633d88)
+![image](https://github.com/user-attachments/assets/4586aad8-9044-4c10-9576-69b7a3ecf0f8)
+
+* '90,100,130, 140' are not in AP.
+
+* '4' values should be in AP.
+* With '47', the no. '53' will go as we need **multiples of '10'**.
+* With '73', the no. '47' will go as we need **multiples of '10'**.
 
 
 
