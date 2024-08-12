@@ -3856,12 +3856,117 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 8. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 ![image](https://github.com/user-attachments/assets/0c123835-101e-422f-b245-95c54ca246b0)
+![image](https://github.com/user-attachments/assets/01da8333-5e6e-4814-b06e-fbd9fb04e2c7)
 
 * 26. [Question] [Set] [**VERY IMPORTANT**] [Practice]
-* 1hr 3mins.
 
+![image](https://github.com/user-attachments/assets/cff39f14-40de-49f4-a3e5-0a2e895b2cc3)
 
+* In 2006, 'A' had '240' points. 'A' has reached the **finals '80'** times in 2006.
+* 'A' has reached **'80' finals** and for reaching the finals, 'A' got a min. of '2' points for it everytime.
+* 80 * 2 = 160 -> min. amt. of points 'A' got.
+* 240 - 160 = 80
+* 80/2 = 40.
+* In '40' matches out of the '80' matches 'A' reaching the finals, 'A' won those '40' matches which gave 'A', **4** points each time for a **win**.
+* 40 * 4 = 160 -> Wins/Winner.
+* 80 - 40 = 40
+* 40 * 2 = 80 -> Lost/Runner up.
+* 160 + 80 = 240 -> Points gotten by 'A'.
+* 'A' got '40' wins(w) and got '40' losses(l).
 
+![image](https://github.com/user-attachments/assets/18ad8007-2aee-46d8-9810-7d3e4596c118)
+![image](https://github.com/user-attachments/assets/5360948f-6fb6-408d-80d3-286d05cc1898)
+
+* Method - 2(M - 2).
+* We can solve it using **equations** also.
+* x -> winner/won.
+* y -> loser/runner up.
+* x + y = 80 -> eq- 1
+* 4x + 2y = 240 -> eq- 2
+* (1) * 4
+* y = 40, x = 40.
+* We got the **same** values. 
+
+![image](https://github.com/user-attachments/assets/5e08cb0b-6eee-4c01-9d9a-fbffc56dac12)
+
+* It is mentioned in the question that the no. of times 'A' is a runner up in a given year, that no. of times 'A' is a winner in the previous year.
+* As 'A' is a runner up for '40' times in 2006 so 'A' is a winner for '40' times in 2005.
+* 40 * 4 -> 160 points
+* Total points -> 208.
+* 208 - 160 = 48 points for runner up
+* 48/2 = 24 matches.
+
+![image](https://github.com/user-attachments/assets/be4f9b65-1e8a-43db-8e78-949269ccf3fd)
+
+* Whatever was the runner up matches for 'A' in 2007 that is the **same** as the winner matches for 'A' in 2006.
+* 2007 runner up matches for 'A' -> 40.
+* 40 * 2 -> 80
+* Total points -> 320.
+* 320 - 80 = 240 points for winner.
+* 240/4 = 60 matches.
+* 2007 winner matches for 'A' -> 60.
+
+![image](https://github.com/user-attachments/assets/736b5e0f-7329-4cb8-b1f1-a99aca0bff90)
+
+* Whatever was the runner up matches for 'A' in 2008 that is the **same** as the winner matches for 'A' in 2007.
+* 2008 runner up matches for 'A' -> 60.
+* 60 * 2 -> 120
+* Total points -> 360.
+* 360 - 120 = 240 points for winner.
+* 240/4 = 60 matches.
+* 2008 winner matches for 'A' -> 60.
+
+![image](https://github.com/user-attachments/assets/b2632b81-6754-4720-a0a3-01eee317c7a6)
+![image](https://github.com/user-attachments/assets/c8a8744a-2621-437b-90c2-582dabfa0646)
+![image](https://github.com/user-attachments/assets/c88ee5d3-d33f-4927-a99f-c1b03665a080)
+
+* 'A' final appearance in 2005 -> 64
+* 64/2 -> 32
+* '32' is the no. of runner up appearance in 2005 for 'B'.
+* Total points -> 252.
+* 32 * 2 = 64
+* 252 - 64 = 188
+* 188/4 = 47.
+* '47' is the no. of winner appearance in 2005 for 'B'.
+* 47 + 32 -> 79 matches. 
+
+* 'A' final appearance in 2006 -> 80
+* 80/2 -> 40
+* '40' is the no. of runner up appearance in 2006 for 'B'.
+* Total points -> 312.
+* 40 * 2 = 80
+* 312 - 80 = 232
+* 232/4 = 58.
+* '58' is the no. of winner appearance in 2006 for 'B'.
+* 40 + 58 -> 98 matches. 
+
+![image](https://github.com/user-attachments/assets/aa0716a9-7809-4aa0-ab3d-b43b7438bc67)
+![image](https://github.com/user-attachments/assets/93f55c44-1801-435a-a3dc-ecc9100d9bf8)
+
+* It is **same** for '50 and 60'.
+
+![image](https://github.com/user-attachments/assets/1518f35d-6343-4be6-8c7b-8c0677528e03)
+
+* Total finals of 'A' -> 64 + 80 + 100 + 120 -> 364
+* Total finals of 'B' -> 79 + 98 + 119 + 161 -> 457.
+
+![image](https://github.com/user-attachments/assets/1457a7a3-4411-44b0-9ab8-5be7d79268db)
+![image](https://github.com/user-attachments/assets/e84da1a7-8686-463b-8c74-971fc40b3b05)
+
+* Total finals for 'A' in '05 and 06' -> 64 + 80 -> 144
+* Answer -> 144. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Total runner up for 'B' in '07 and 08' -> 50 + 60 -> 110
+* Answer -> 110. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Total finals for 'A' in '07' and total finals for 'B' in '08' -> 100 + 98 -> 198.
+* Answer -> 198. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Total winners for 'A' -> 40 * 2 + 60 * 2 -> 200.
+* Answer -> 200. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Difference -> 457 - 364 = 93
+* Answer -> 93. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/e7b2e5a3-7b6f-4f30-bca3-c13721215125)
+
+* 27 . [Question] [Set] [**VERY IMPORTANT**] [Practice]
 
 
 
