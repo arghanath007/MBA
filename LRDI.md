@@ -4039,6 +4039,155 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * They are asking what value cannot be in the  4th generation.
 * Answer -> 34. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+## Puzzles, Matrix formation (Part - 15)
+
+![image](https://github.com/user-attachments/assets/db672442-8ec8-497d-8584-51cedb04c8c0)
+
+* 28. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* The difference between 'S1 and S2' that is the **same difference** between 'S2 and S3'.
+* d -> The difference.
+* This is called as **AP**.
+
+![image](https://github.com/user-attachments/assets/fd2897bf-1d68-4048-aae8-420a0de09f28)
+
+* Sum of the nos. from '2 to 10'.
+* Sum in **AP** = n/2 * (a + l). [Formula] [**VERY IMPORTANT**]
+* n -> count of nos
+* a -> smallest no
+* l -> largest no
+* We have to distribute in '3' parts.
+* S1,S2,S3 -> They are in **AP**.
+* We will **assume** the nos. as **(a - d), a, (a + d)**.
+* Everytime 'd' is getting **added**. 
+
+![image](https://github.com/user-attachments/assets/d1e86536-691b-4991-b551-92c2241f21a3)
+![image](https://github.com/user-attachments/assets/d44bf2fa-d9a8-4f00-bb5e-23ef213429cd)
+
+* The advantage of everytime adding 'd' is that 'd' variable is getting **eliminated** and we are left with 'a' variable only.
+* a - d + a + a + d = 3a.
+* Sum = 3a.
+* We have divided the nos. from '2 to 10' into '3' parts and their **sum** is '54'.
+* The **sum** of the '3' parts should be '54' only.
+* S1 + S2 + S3 = 54.
+* 3a = 54
+* a = 18.
+* 18-d, 18, 18 +d.
+
+![image](https://github.com/user-attachments/assets/69faee59-f73f-4e95-8a26-9a9c0861cf3d)
+
+* '2' nos. among 'S1,S2,S3** are **prime numbers**.
+* Middle term is '18'.
+* Difference between S1 and S2 is a prime number.
+* d = 1
+* Difference between S1 and S2 is '1'. '1' is not a prime number.
+
+![image](https://github.com/user-attachments/assets/8cbf3043-b9d5-4889-849f-b1eb8697f059)
+
+* This is not possible.
+* d = 5.
+* 18 - 5 = 13.
+* 18 + 5 = 23.
+* Difference between S1 and S2 is '5'. '5' is a prime number.
+* 8 + 9 + 10 -> 27.
+* The next prime number after '23' is '29' but it is far away as the max. we can do is still '27'. So,
+* 13 -> 18 -> 23. [Final]
+* '13 and 23' are the '2' prime nos. which we wanted.
+
+![image](https://github.com/user-attachments/assets/5fa743fc-3076-4315-b211-7406862557b2)
+![image](https://github.com/user-attachments/assets/df3d48e0-827c-4526-88d8-ea2cf338e220)
+
+* Max. sum is '27' that's why we cannot do '29'.
+* We need to make the **cases** now.
+* We can fill them with nos. from '2 to 10'.
+* While taking the nos. always take the max. nos which is **available** and go from there. [Formula] [**VERY IMPORTANT**]
+* 10 + 7 + 6 -> 23.
+* 9 + 5 + 4 -> 18.
+* 2 + 3 + 8 -> 13.
+* Finding the **cases** which the nos. add up to total number. [Formula] [**VERY IMPORTANT**]
+* Before starting another **case** see if the previous combinations had more **options/combinations** which we can do.
+* We have no more cases with **10,7 and 6**.
+* With '10,5,8', we can have another case which is '9,7,2'. So we will do another case with '10,5,8'.
+
+![image](https://github.com/user-attachments/assets/b1dabbc1-9607-444d-a3d8-35a90f1f34d4)
+
+* We cannot do with '7' as we need '18 - 7 = 11' from the rest '2' digits which is not possible because '5' has been already before in '10,5,8' and if we do '7,6 and 4' then we get '17' but we want '18'. That's why it is not possible.
+
+![image](https://github.com/user-attachments/assets/fb3c38da-7026-46ce-a380-5fbef2057440)
+![image](https://github.com/user-attachments/assets/ca1f288b-3c68-48fe-81d5-1a748b5f278a)
+
+* We are done with the '10' cases. We will try cases with '9'.
+* We cannot do '10' in '13' because then we will need '1 and 2' along with '10' and we don't have '1'.
+* We cannot do any more cases with '9' because then we will need '9,7,7' which is **not possible**. 
+
+![image](https://github.com/user-attachments/assets/5fb223c4-8930-4098-b4d7-790ff9ab5952)
+![image](https://github.com/user-attachments/assets/049a09aa-e506-49e5-95a6-68f5bc102fb6)
+
+* Puzzle types with cases. [Question] [**IMPORTANT**] [Practice]
+* Case making is an **art**. [Formula]
+
+![image](https://github.com/user-attachments/assets/8fb5b578-ccc8-4e91-af55-5eee741acc0a)
+
+* S2 = 18, S3 = 23.
+* S2 + S1 = 41.
+* Answer -> 41. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/69c37915-e292-4642-ae7f-b1a339b75fef)
+
+* '8,9,10' nos have to be in **different boxes** only.
+* Cases -> 1.
+* We have to answer the question by looking at **case '1'**.
+* Answer -> Option **C**. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* We have to see which nos. of box '2' are in **AP**.
+
+![image](https://github.com/user-attachments/assets/fd491f19-88fd-413f-98f5-29fe7baa3a50)
+
+* 9 - 3 =6
+* 6 - 3 =3
+* difference is '3'.
+* 5 - 6 =1
+* 6 - 7 =1
+* difference is '1'.
+* In order to answer the question, we have to look at **case '2' and '5'** parallely.
+* Card '3' is in box '2' in case '2'.
+* Card '3' is not in box '2' in case '5'.
+* We don't know which case is **right**, so we cannot definitely say which is **True or False**.
+* Option *A** -> We don't know. So it is not definitely false.
+* For one of the options to be **definitely false**, it has to be **false** in both of the **cases**.
+* Option **B** -> We don't know. So it is not definitely false.
+* Option **C** -> We don't know. So it is not definitely false.
+* Answer -> Option **D**. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/f4c0d997-3cb9-4b0e-8f73-6e09b0575eae)
+![image](https://github.com/user-attachments/assets/4bb75e24-b792-4505-ba34-c8d5f8b4d785)
+
+* In order to answer the question, we have to look at **case '2', '3' and '6'** parallely.
+* '8' is present in all of the '3' cases for box '3'.
+* Answer -> Option **B** -> 8. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/88016ffc-043f-4e4d-851d-7b6f2aff4e03)
+
+* Solution.
+
+![image](https://github.com/user-attachments/assets/ed7eb50f-da2f-4f55-87fb-4d559ab55620)
+
+* 29. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
