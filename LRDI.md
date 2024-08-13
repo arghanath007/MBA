@@ -4169,28 +4169,192 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Solution.
 
 ![image](https://github.com/user-attachments/assets/ed7eb50f-da2f-4f55-87fb-4d559ab55620)
+![image](https://github.com/user-attachments/assets/d0dd2461-6036-4ce0-9779-3cef6099dfba)
+![image](https://github.com/user-attachments/assets/2d735232-1246-4ed6-90ac-102da6421fef)
 
+* "Prices has to be in integers" -> Add it in the above question.
 * 29. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* We can interpret from the question statement is that not all of the children are speaking the truth. People speaking **lies** is **atleast '1'**. We know that not all of them are speaking the **truth**.
+* We will try to **minimize** the **lie**. Min. value of **lie** is '1'. Atleast one(1) person is lying. Max. people are speaking the **truth** which means min. people are lying.
+* One of the children is atleast **lying** and that should be **exactly '1'**.
+* In the **set**, '5' people are telling the **truth** and '1' person is **lying**.
+* They have bought '5' items.
+* The children are saying the price of '4' items.
+* The no. of possible combinations possible are '5'.
+* We have '5' items and the people are sayig the price of '4' items only.
+* 5C4 -> 5.
+* We are assuming the prices of the '5' items as 'P1, P2, P3, P4 and P5'.
 
+![image](https://github.com/user-attachments/assets/7d2459bc-6f24-46c7-833e-73d55f3eb54e)
 
+* We don't have any problem with their ordering.
+* Any '4' item's price is '70'.
+* The **name and order** doesn't have any importance. We are taking '5' prices for the '5' items the people have bought.
+* We have a total of '6' people.
+* The combination of prices will be those '5' only. '6' is not possible.
+* We can generate a **new equation** by adding all of the **equations**. [Concept] [Formula] [**IMPORTANT**]
+* Whatever prices we will put, the total sum of the prices should be a **multiple of '4'(4K)**. This is a **big hint**. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/bec18ee8-bc41-47fa-a248-ad9fc29f4a29)
 
+* If we keep all of the prices of the items then we get '365' as the **sum**. All of the nos. are close only. Somehow or the other the nos. will be closer to '365'.
+* None of the sum of the '5' nos. can cross '365'.
+* The max. sum will be '365' as we have taken all of the '5' largest numbers.
+* The min. sum will be '360' as we have taken all of the '5' smallest numbers.
+* Between '360 and 365', there are '2' possibilities which are **multiples of '4'**. It is either '360 or 364'. No other possibilities there.
 
+![image](https://github.com/user-attachments/assets/3437d42b-de47-4861-ac2c-b5ce4bb42f2b)
 
+* We have to **decrease '1'** from the nos. of '365' to get '364'. We reduced the no. '71' to '70'.
+* We don't have any other possibilities.
+* 90 * 4 = 360. 
 
+![image](https://github.com/user-attachments/assets/fe967730-d3bd-4faa-9c2e-4900472ec055)
+![image](https://github.com/user-attachments/assets/fcb139dd-3d2b-43bf-afea-4a291c41c41d)
 
+* We have to calculate the prices of the individual values also.
+* We will compare **case '1'** with **case '1'** and **case '2'** with **case '2'**. [**IMPORTANT**]
+* **CASE '1'**:-
+* P1 to P4 = 70. (1)
+* P1 to P5 = 90
+* 70 + P5 = 90
+* P5 = 20
+* 71 + P4 = 90 (2)
+* P4 = 19.
+* 72 + P3 = 90 (3)
+* P3 = 18.
+* 73 + P2 = 90 (4)
+* P2 = 17.
+* 74 + P1 = 90 (5)
+* P1 = 16.
+* **CASE '2'**:-
+* P1 to P4 = 70. (1)
+* P1 to P5 = 91
+* 70 + P5 = 91
+* P5 = 21
+* 72 + P4 = 91 (2)
+* P4 = 19.
+* 73 + P3 = 91 (3)
+* P3 = 18.
+* 74 + P2 = 91 (4)
+* P2 = 17.
+* 75  + P1 = 91 (5)
+* P1 = 16.
 
+![image](https://github.com/user-attachments/assets/a0e1864d-2d07-4604-8e2f-013c651663ce)
 
+* We need to take both of the **cases** parallely.
+* In case '2', for 'P4 and P5' whose prices are '19 and 21' respectively **add** upto '40'.
+* We have to answer question '1' in terms of **case '2'**.
+* It means that **case '2'** is **correct**. **Case '2'** didn't have '71' as one of it's numbers. So whoever said '71' as the price had **lied**.
+* As **aboli** said '71' so she **lied**.F 
+* Answer -> Aboli. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* '18' is there in both of the cases. Case '1' has price as '90' and case '2' has price as '91'. It is ambigious/ambiguity there, we don't know fully.
+* Answer -> cannot be determined(CBD). [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* The highest in case '1' is '20' and in case '2' is '21'.
+* Answer -> 21. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/e7bf2b7a-64cf-473c-891d-8d48a95cc175)
 
+* The difference -> lowest no - highest no
+* The max. possible difference for case '1' is '20 - 16 = 4' and for case '2' is '21 - 16 = 5'.
+* The max. possible difference -> 5.
+* **Aboli** lied in **case '2'** as seen in **question '1'**.
 
+![image](https://github.com/user-attachments/assets/b66c222b-b4eb-4931-95c4-f9d21c8b6724)
+![image](https://github.com/user-attachments/assets/e9a0840c-c628-41c3-b0b7-4c12db5e148d)
 
+* Answer -> Aboli. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/c40d484d-f895-4e3d-a37f-0e52ca852abc)
+![image](https://github.com/user-attachments/assets/5c4cc0e1-7d86-4a9f-bd58-9a5cea91ab16)
+![image](https://github.com/user-attachments/assets/94f2f393-4db0-4a01-a431-ef3f7000edc3)
 
+* 30. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* 1 trillion = 1000 billion.
+* GDP never shrunk -> It was never negative. It was '>= 0'.
+* Till '2016', the GDP was **divisible by '100'**.
+* Growth rate is a **multiple of '5'** and the max. is '25%'.
+* Growth rate -> 0%,5%,10%,15%,20%,25%.
+* '0%' is also there because we need '6' nos and '0' is a **multiple of '5'**.
 
+![image](https://github.com/user-attachments/assets/ba54e81c-292f-40a2-87ad-489d6928f567)
 
+* Absolute growth -> absolute change -> value change.
+* Jatin's scam is the **earliest** -> '2013' is the **earliest** year.
+* Jatin's scam -> 2013.
+* Predicted growth rate -> 25%.
+* No reduction in growth rate -> 25%.
+* 2012 -> 2 trillion -> 2000 billion.
+* 2013 -> 25% of 2000 -> 2500 billion.
 
+![image](https://github.com/user-attachments/assets/b3b3f0cb-29f7-4e7b-80c4-532670ce70d1)
 
+* We know that till '2016', the GDP was divisible by '100'. So out of these '4' years, any '2' out of the '4' years were also divisible by '300' because if a no. is divisible by '100' then the no. is also divisible by '300'.
+* GDP was the **same** in '13 and 14' which means that growth rate is '0%' in '14'.
+
+![image](https://github.com/user-attachments/assets/9e74c100-c696-451c-a09d-f724448cfe1d)
+
+* All of the points of the question are done but the matrix is barely filled.
+* '2500' is not a multiple of '300'.
+* In '2' of the '4' yrs which were multiple of '100' the GDP is not a a multiple of '300'. So, in the remaining '2' yrs, we have to find th **growth rate** so that the GDP of '15 and 16' are multiples of '300'.
+* 2500 * 1.05 -> 2625 -> It is divisible by '3' but not by '300'.
+* 2500 * 1.2 -> 3000 -> It is divisible by '3' as well as '300'.
+* 2015 -> 3000 billion.
+* 3000 * 1.05 -> 3150 -> It is divisible by '3' but not by '300'.
+* 3000 * 1.15 -> 3450 -> It is divisible by '3' but not by '300'.
+* 3000 * 1.1 -> 3300 -> It is divisible by '3' as well as by '300'.
+* 2016 -> 3300 billion.
+
+![image](https://github.com/user-attachments/assets/3a645e38-bde5-4e01-9510-332db136bc70)
+![image](https://github.com/user-attachments/assets/0257e279-3be8-40db-8a2f-05377611bbfe)
+![image](https://github.com/user-attachments/assets/3d3fe74c-e5ae-4f48-8ab3-20963bfcc635)
+![image](https://github.com/user-attachments/assets/6c9f1a38-0e5a-4579-a192-25bcecff4b2c)
+
+* We don't know the **order** of **bhim and bikrant** scams. So we will keep them in shuffle.
+* They carried out their **scams** when the GDP was **divisible by '300'** which was in '15 and 16'.
+* If the GDP is not a **multiple of '100'** then it is not a **multiple by '300'** as well.
+
+![image](https://github.com/user-attachments/assets/3a5d496f-d9cd-4ca5-981c-8e553082e8ed)
+![image](https://github.com/user-attachments/assets/bc4f94cb-ec13-4950-906c-488787f1fe6f)
+
+* In '2' yrs, the **absolute growth** is the **same**.
+* 2012 -> 2000
+* 2013 -> 2500
+* **Absolute growth** from '12 to 13' is '500'.
+* 2014 -> 2500
+* 2015 -> 3000
+* **Absolute growth** from '13 to 14' is '500' also.
+* The above point is **done**.
+* Till now the **highest increase** of GDP is '500'.
+* We have '2' options, to do growth rate of '5% or 15%' to '3300'.
+
+![image](https://github.com/user-attachments/assets/022edd23-f9db-44b2-9405-0e6638004842)
+![image](https://github.com/user-attachments/assets/85444d00-fce5-4da0-bcf1-0bafa5331918)
+
+* 3300 * 5% * 15% -> 3985.
+* 3300 * 15% * 5% -> 3985.
+* In case of **rahul** the GDP increase should be more than '500'.
+
+![image](https://github.com/user-attachments/assets/2c086fb1-b377-41f1-afbe-8f13d2aa1d9f)
+
+* We are getting a GDP increase of '520' when we are doing '3300 * 5% * 15%'. So, this is **correct**.
+* First increase should be of '5%' and the second increase should be of '15%'.
+
+![image](https://github.com/user-attachments/assets/f8202f02-271a-4a74-bfc9-217d06ee2b75)
+
+* 3985 - 3465 = 520.
+* We are getting a  GDP increase of '520'.
+
+![image](https://github.com/user-attachments/assets/f6d79480-d864-4047-adf5-e4dc23b6b81f)
+![image](https://github.com/user-attachments/assets/c2f07ebe-ee85-4c3b-b132-4ae9c7386783)
+
+* **Set** is **solved**.
+* We cannot determine the **order** of **bhim and bikrant**. It is ambigious.
+
+![image](https://github.com/user-attachments/assets/095a3ebb-2cf4-4f1d-be53-82f69253036f)
+
+## Puzzles, Matrix formation (Part - 16)
 
 
 
