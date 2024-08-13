@@ -3968,14 +3968,76 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 * 27 . [Question] [Set] [**VERY IMPORTANT**] [Practice]
 
+* In question '1', the total no. of cubs is '50'.
+* We have to get the **sum** to '50'.
+* We have to be careful of what the nos. we are taking.
+* 4 * 2 = 8.
+* 4 * 3 = 12.
+* 8 < multiple of '4' < 12.
+* With '2 and 4', '8,9,10' are not adding up to '50'.
+* 2 -> 4 -> 8 -> 16 -> 32 = 62
+* 2 -> 4 -> 9 -> 18 -> 36 = 69
+* 2 -> 4 -> 10 -> 20 -> 36 = 72
+* 2 -> 4 -> 10 -> 30 = 46
 
+![image](https://github.com/user-attachments/assets/e94622c0-035e-49d9-ac54-aacaa2364d0a)
+![image](https://github.com/user-attachments/assets/cc628b56-d5c4-4924-9464-679f3964d2e0)
 
+* Double of '4' to triple of '4' -> 8 to 12.
+* We have to make the **sum = 50**.
+* We have to start from '2' as mentioned in the question.
+* 2 -> 4 -> 11 -> 33 = 50.
 
+![image](https://github.com/user-attachments/assets/9241310f-e56f-4a23-9ebd-91e4f3290d93)
 
+* 12 * 2 = 24
+* 12 * 3 = 36.
+* 24 < multiple of '12' < 36.
+* 2 -> 4 -> 12 -> 32 = 50.
+* We cannot go any further with '2 and 4'. As the triple of '4' is '12'.
 
+![image](https://github.com/user-attachments/assets/c4d5312f-dd94-48da-a017-373b7d6f45ef)
 
+* 2 * 2 = 4
+* 2 * 3 = 6.
+* 4 < multiple of '2' < 6.
+* 2 -> 5 -> 10 -> 30 = 47
+* 2 -> 5 -> 11 -> 32 = 50
+* 2 -> 5 -> 12 -> 31 = 50
+* 2 -> 5 -> 13 -> 30 = 50
+* 2 -> 5 -> 14 -> 29 = 50
 
+![image](https://github.com/user-attachments/assets/d6b2a87d-dabb-4cc9-8310-4f413be6c420)
 
+* 2 -> 5 -> 15 -> 28 = 50.
+* This is not possible because '28' is less than the **double of '15'**. It has to be atleast the **double of '15'**.
+* We cannot go any further with '2 and 5'. As the triple of '5' is '15'.
+* 2 -> 6 -> 12 -> 30 = 50.
+* 2 -> 6 -> 13 -> 29 = 50.
+* 2 -> 6 -> 14 -> 28 = 50.
+
+![image](https://github.com/user-attachments/assets/6f602932-ba96-43e6-8b2e-4e182e0bc4c8)
+![image](https://github.com/user-attachments/assets/3736bb2e-59bc-4e4a-8939-429751763744)
+![image](https://github.com/user-attachments/assets/d8bc5aec-4a28-497a-8c03-8fa47242c5d5)
+
+* 2 -> 6 -> 15 -> 27 = 50.
+* This is not possible because '27' is less than the **double of '15'**. It has to be atleast the **double of '15'**.
+* We cannot go any further with '2 and 6' because **triple of '2'** is 6'. The nos. are not going to be in the range of **atleast double of the previous no to the triple of the previous number**. This is the **end**.
+* We have a total of '9' cases.
+
+![image](https://github.com/user-attachments/assets/0b110934-8669-45ad-a4cb-1865681d8bb5)
+![image](https://github.com/user-attachments/assets/630b2edc-f5cd-4d00-9dd6-617fc4672c24)
+
+* Answer -> 9. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* n -> no. of generation.
+* Answer -> 9. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* n = 4.
+* After 4th generation, we are getting '50'.
+* n - 1 = 3.
+* They are asking what value cannot be in the  3rd generation.
+* Answer -> 15. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* They are asking what value cannot be in the  4th generation.
+* Answer -> 34. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 
 
