@@ -7304,24 +7304,83 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * Answer -> 1. [4] [Solution] [**VERY IMPORTANT**]
 
 * RC - 6 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
-* Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=sarhCUFELxo%3D&
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sarhCUFELxo%3D&
 
+![image](https://github.com/user-attachments/assets/c6dd8ff5-ab17-4e62-9710-612dbf98564e)
+![image](https://github.com/user-attachments/assets/14d03a3a-e091-41ec-ba07-c489bd703dc5)
 
+* delineate -> delineating -> represented accurately or precisely. [Meaning]
+* ubiquitous -> being present everywhere at once. [Meaning]
 
+![image](https://github.com/user-attachments/assets/0558e719-a705-4794-8fe6-1d3bcfd8b324)
+![image](https://github.com/user-attachments/assets/cc3fd80c-34a4-43e5-a9e4-ab072276c7ec)
+![image](https://github.com/user-attachments/assets/492dd85b-3ae8-498b-b860-74376bf11de2)
+![image](https://github.com/user-attachments/assets/008c5d0d-28d1-43e7-a7f7-43877cf1040f)
+![image](https://github.com/user-attachments/assets/08202234-a8c2-447d-acda-657b04f3f7f9)
 
+* negative * positive * negative -> positive -> supports the author.
 
+![image](https://github.com/user-attachments/assets/0c89797e-fd4d-48fd-92f9-515aa84babf0)
 
+* Broad definition is traumatic.
 
+![image](https://github.com/user-attachments/assets/de4707ca-accc-4c40-a387-a6cba5a648e8)
 
+* detriments -> least fit ->  damage or loss. [Meaning]
+* 2 -> Side-track.
+* 4 -> Tone-mismatch.
 
+![image](https://github.com/user-attachments/assets/0f7c2c0c-4535-4074-bb49-78584875fdfb)
+![image](https://github.com/user-attachments/assets/7529212a-bf91-4d21-86ca-c21bef0e5110)
 
+* 3 -> DSM -> Alien/twisted side-track.
 
+![image](https://github.com/user-attachments/assets/12649a25-0754-42c4-b564-1260d2ca0e92)
 
+* RC - 7 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=MJkHHfXUYQs%3D&
 
+213
 
+![image](https://github.com/user-attachments/assets/6e645f2a-4385-480d-87e4-a36d030475a6)
+![image](https://github.com/user-attachments/assets/3689e018-76ae-44b7-a371-2096cf9f2bbb)
+![image](https://github.com/user-attachments/assets/b4d3286a-779f-4e37-8fdf-1b87dedfe9d9)
+![image](https://github.com/user-attachments/assets/69815b4d-62a8-4d0f-85b0-21557b87d344)
+![image](https://github.com/user-attachments/assets/4e6b752e-61d9-44ac-a834-66e11a566a99)
+![image](https://github.com/user-attachments/assets/561f139c-6e0d-4578-818a-fb406a713136)
 
+* positive * negative -> negative.
+* 1 -> negative -> We have to pick the **BEAST**.
+* 4 -> alien.
 
+![image](https://github.com/user-attachments/assets/c6e41b64-a8e4-4a32-ae04-4e504414abc3)
+![image](https://github.com/user-attachments/assets/00224b73-477a-4772-8dfa-236734f1649a)
 
+* 3 -> Tone-mismatch.
+* 2 -> Alien.
+
+![image](https://github.com/user-attachments/assets/ed2ebf05-c403-41c6-b587-e8cae7ddc3d2)
+![image](https://github.com/user-attachments/assets/aff61f6f-8cd2-42df-b676-1982f82099b4)
+![image](https://github.com/user-attachments/assets/a11ee10c-66a8-4356-b983-616279c602a0)
+
+* negative * negative -> negative.
+* Which is **true** regarding britain.
+* 1 -> Not discussed in the passage.
+* 4 -> Side-track/Alien.
+
+![image](https://github.com/user-attachments/assets/f0f816aa-748c-4ace-9739-32e0f096c55c)
+![image](https://github.com/user-attachments/assets/9e936b09-92cc-44bc-a1c3-6ba8389bd67f)
+
+* Let this type of **questions** go during the exam. [**IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/3a681c8f-e846-4d07-a884-f075de7e0d07)
+![image](https://github.com/user-attachments/assets/c642d533-6c92-4119-aef6-577a283fc480)
+![image](https://github.com/user-attachments/assets/15624fe0-d50e-4cb2-865c-2bbd0fcb3cdc)
+
+* 4 -> Tone-mismatch.
+
+* RC - 8 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=W8zWfdN3dGI%3D&
 
 
 
