@@ -7382,6 +7382,99 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * RC - 8 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=W8zWfdN3dGI%3D&
 
+1143 -> 2
+
+![image](https://github.com/user-attachments/assets/fef426ff-6a1b-496c-b357-e192303c758b)
+![image](https://github.com/user-attachments/assets/29aa6047-0bc5-4845-8050-1d3647841535)
+
+* foraging -> the act of searching for food and provisions. [Meaning]
+
+![image](https://github.com/user-attachments/assets/1b6760df-4abc-43c1-a63a-db99f34b3248)
+![image](https://github.com/user-attachments/assets/932838d3-73d2-484c-ba36-c267421e9a16)
+![image](https://github.com/user-attachments/assets/22e9d069-1831-495c-bfda-30ab82b517bb)
+![image](https://github.com/user-attachments/assets/300d1576-6890-4920-b051-2cf649d59918)
+![image](https://github.com/user-attachments/assets/5ca91f4c-d0bd-4dc9-850d-253656126510)
+![image](https://github.com/user-attachments/assets/bf31bd01-1918-4f9f-9788-0242e6f34cfa)
+
+* Compliment -> wonderful, awesome. [Meaning]
+* Complement -> root word is **complete** -> supports the passage. [Meaning]
+* Finding food.
+
+![image](https://github.com/user-attachments/assets/9749bc22-b869-4ffc-bc0d-cf43822b5b7d)
+
+* Cannot be inferred -> Not True.
+* any -> extreme word.
+* 'any' would make it uncertain.
+
+![image](https://github.com/user-attachments/assets/2ce4bb4e-e7cc-45a2-8069-b652fffee8c7)
+
+* implications -> inferences. [Meaning]
+* Which option **aligns** with the passage.
+* auditory system -> sound.
+
+![image](https://github.com/user-attachments/assets/4ee9ed07-7619-49e2-b8a0-683328a23157)
+
+* Except -> Not True/Trap/BEAST.
+* dirty waters -> murky and visually obscure oceanic environments.
+* 1,2,4 -> True.
+* 3 -> We don't know -> Alien.
+
+![image](https://github.com/user-attachments/assets/48f6e2fd-026c-4401-a535-49fc8f7b8010)
+
+* RC - 9 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=2HLwiaYbN1c%3D&
+* 1443
+
+![image](https://github.com/user-attachments/assets/00b1f031-17ae-4265-9158-8372ba4994dc)
+![image](https://github.com/user-attachments/assets/e9976903-b5c6-49af-8997-18b33d9d6197)
+![image](https://github.com/user-attachments/assets/46c3de9a-1f36-4aca-9fd2-c872719da290)
+![image](https://github.com/user-attachments/assets/a9a12699-e2ff-4b05-a092-0d4bef84da58)
+
+* disadvantage except -> negative * negative -> positive.
+
+![image](https://github.com/user-attachments/assets/20f77d5f-a394-479c-8978-2c4c13d8c58c)
+![image](https://github.com/user-attachments/assets/daf0250f-7ba3-4e86-bbb8-c583b3c34220)
+![image](https://github.com/user-attachments/assets/4af0c646-363f-4d6b-8b50-7fb6d5185dcf)
+
+* Predictable -> supreme control -> sequential systems.
+* Unpredictable -> supreme adaptability -> swarm systems.
+
+![image](https://github.com/user-attachments/assets/fdff54fd-9242-4f7e-9699-f6a82f235a50)
+
+* 1 -> Side-track.
+* If we cannot **cross** or mark an option as **incorrect** then we shouldn't mark that option as **correct**. We should keep that **option** on **hold** and move to the **next options**. [Formula] [**VERY IMPORTANT**] [Practice]
+* 1,2 -> hold.
+* management system is there which is a decentralized system.
+* 4 -> no central hub.
+
+![image](https://github.com/user-attachments/assets/27573f41-c204-41a5-9cfc-f4f440fe904f)
+
+* 1 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/0535872d-ffde-4df7-a592-d5ffb98d0fd7)
+
+* None, except -> Negative. [Meaning]
+* Implied -> positive. [Meaning]
+* We have to see which is **True** based on the passage.
+* 1 -> contradiction -> connection is everything.
+* 1,2 -> contradiction.
+* 4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/4e67e9c9-813c-4ef6-855f-98c5d9959e3e)
+
+* Likely not a disadvantage -> Whichever is **not True**.
+* 3 -> contradictory -> logical contradiction.
+
+![image](https://github.com/user-attachments/assets/65184288-7c80-4b40-b2db-c9da35ab30e6)
+
+* foreseeable -> capable of being anticipated. [Meaning]
+* foreseeability -> The state or characteristic of being foreseeable; predictability -> predictable. [Meaning]
+
+* RC - 10 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=T078PttNwcs%3D&
+* 1443
+
+
 
 
 
