@@ -7558,14 +7558,76 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 
 * RC - 12 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=dtIHRnGrDIM%3D
-* 4431
+* 314
 
+![image](https://github.com/user-attachments/assets/45b771b5-c2bf-49be-aa0d-805f5c9bcd79)
+![image](https://github.com/user-attachments/assets/301bc1c7-3537-473f-86ca-ef89947921b5)
 
+* sanguine -> confidently optimistic and cheerful. [Meaning]
 
+![image](https://github.com/user-attachments/assets/6945a626-29b0-4df8-8a08-78ef7dbfa567)
 
+* vehement -> marked by extreme intensity of emotions or convictions; inclined to react violently; fervid. [Meaning]
 
+![image](https://github.com/user-attachments/assets/da2f724b-71f4-4046-ae8a-ce561fec64d1)
+![image](https://github.com/user-attachments/assets/8605ce7e-2c93-4bc8-becc-c34d8a3054fe)
+![image](https://github.com/user-attachments/assets/73aa8196-7872-4107-b4a0-c61d98b670e7)
+![image](https://github.com/user-attachments/assets/70c8a123-5efc-4286-8d46-3c207cc9800d)
+![image](https://github.com/user-attachments/assets/097c81ef-d7f2-42d8-929a-aafaeb5fc774)
 
+* 2 -> Contradiction.
+* 3 -> rejected -> extreme.
+* 4 -> Alien.
 
+![image](https://github.com/user-attachments/assets/db90b90f-09c8-4d73-b899-28431c567673)
+
+* Th autho is saying that the other side has got **some merit**.
+* 1 -> has some merit.
+
+![image](https://github.com/user-attachments/assets/9eaf3b2c-fd42-417d-b4f7-4c752caf3bb0)
+
+* 2,4 -> Extreme.
+
+![image](https://github.com/user-attachments/assets/be722bf1-5312-4f72-9c12-09654d043c4e)
+![image](https://github.com/user-attachments/assets/8878d0af-d816-4919-8997-69babe901c4c)
+
+* RC - 13 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=G9XD8SDxSu8%3D
+* 214
+
+![image](https://github.com/user-attachments/assets/3fb0d16d-fe28-4b49-86b3-994688f31274)
+![image](https://github.com/user-attachments/assets/0422b474-86f8-4710-b845-7913a8e43c88)
+![image](https://github.com/user-attachments/assets/db7f76fc-5625-48a9-9a33-de7a3b636cf3)
+![image](https://github.com/user-attachments/assets/3aafad7f-e8fc-41ad-8be4-c7300f5463de)
+![image](https://github.com/user-attachments/assets/aa790bd5-2418-4be8-886d-62ba742b0445)
+![image](https://github.com/user-attachments/assets/58b08f59-7b88-452f-b2ee-f06a9116961f)
+![image](https://github.com/user-attachments/assets/b7250c6f-f191-4dcd-b735-fd396ac663b9)
+![image](https://github.com/user-attachments/assets/5ff9a613-2e57-4baf-b9c9-97f1d1040b4a)
+
+* impediment -> something immaterial that interferes with or delays action or progress. [Meaning]
+
+![image](https://github.com/user-attachments/assets/96a392fb-7440-4be2-9efa-b4094bcd3475)
+![image](https://github.com/user-attachments/assets/235b267e-1422-4057-8843-68ff24fe6440)
+
+* 4 -> Side-tracking.
+
+![image](https://github.com/user-attachments/assets/5725feaf-d0e8-4d99-bbde-c11a904997d0)
+![image](https://github.com/user-attachments/assets/db1a14eb-cdfe-4e30-9419-5bf783225fa8)
+
+* 2,3 -> Example -> Side-tracking.
+
+![image](https://github.com/user-attachments/assets/ec3a17e7-2643-4f14-a5d2-8968c1c95e14)
+
+* 1 -> What people believe.
+* 2 -> Side-tracking.
+
+![image](https://github.com/user-attachments/assets/389b8c73-85e0-4b4e-8581-f16892fe9420)
+![image](https://github.com/user-attachments/assets/0cc2a4ae-bf5c-48d8-958c-959d39417728)
+
+* Don't loose **confidence**.
+* RC - 14 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=69OnkF%2FEy7U%3D
+* 214
 
 
 
@@ -7585,24 +7647,6 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ## Grammer
 
 * For other exams.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Misc
 
