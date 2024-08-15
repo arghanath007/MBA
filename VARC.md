@@ -7472,7 +7472,63 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 
 * RC - 10 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=T078PttNwcs%3D&
-* 1443
+* 4314
+
+![image](https://github.com/user-attachments/assets/fc763545-3ded-47ee-90bd-18aa3fef4435)
+![image](https://github.com/user-attachments/assets/fbf76b0b-1b66-4162-ba73-cc163c0eec88)
+![image](https://github.com/user-attachments/assets/d4217553-5852-49fd-8ae4-16a43eafb4fe)
+
+* chagrin -> cause to feel shame; hurt the pride of. [Meaning]
+
+![image](https://github.com/user-attachments/assets/9742b317-b259-42ac-ad73-ff13507ea8eb)
+![image](https://github.com/user-attachments/assets/20d4c60a-9fb6-47ab-932b-3103461e57f7)
+
+* democratization -> the action of making something democratic. [Meaning]
+* democratic -> characterized by or advocating or based upon the principles of democracy or social equality. [Meaning]
+
+![image](https://github.com/user-attachments/assets/4632c12a-e41d-405c-91d7-bf3756dd5ff5)
+
+* None, incorrect, example -> negative words. [Formula] [**VERY IMPORTANT**] 
+* negative * negative * negative = negative.
+* Find the **incorrect example/matching** from the **options**. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/75fcc730-4f2c-4123-9c09-bdc67fa68623)
+![image](https://github.com/user-attachments/assets/5c8b2600-aed0-4b75-9e2d-20215a71106b)
+
+* askance -> doubt/skeptism. [Meaning]
+* askance -> with suspicion or disapproval. [Meaning]
+* 2,3,4 -> Tone-mismatch
+
+![image](https://github.com/user-attachments/assets/2ff74408-147a-44f2-a8f1-512fb4dc3b02)
+![image](https://github.com/user-attachments/assets/481fd681-878d-41d9-beef-7ccd67f8e926)
+
+* Function Question.
+* It will have many side-tracks.
+* The question is asking **why** and **not what**.
+* History said they have **survived**.
+* eccentric -> conspicuously or grossly unconventional or unusual -> a person with an unusual or odd personality. [Meaning]
+* 1,3 -> side-track.
+* It is what author thinks are mentioned in the options.
+* The author thinks that they are **inferior** according to option '1'.
+* In the last passage we can see that the **people** think that the **new genre** is **inferior**.
+* Author wants to highlight that "history has been kinder to them".
+* The **option/tone** has to be **positive**.
+* Options are **tough**.
+
+![image](https://github.com/user-attachments/assets/d94062c5-d957-4b26-8a01-e6b80fe6da2d)
+
+* Innovation and experiments have been done by the publishers.
+* 2 -> hold.
+* 4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/07286a68-a3ac-4f1f-9133-4bece8c05926)
+
+* We have to find the **BEAST** option.
+* 1 -> Tone-mismatch.
+* Q1,Q3, Q4 -> Easy.
+* Q2 -> Hard.
+
+
 
 
 
