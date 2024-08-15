@@ -7528,6 +7528,48 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * Q1,Q3, Q4 -> Easy.
 * Q2 -> Hard.
 
+* RC - 11 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=fqdahSS79dQ%3D&
+* 4431
+
+![image](https://github.com/user-attachments/assets/535081fd-266c-45f7-a7c9-297441a3918c)
+![image](https://github.com/user-attachments/assets/84ff0339-0f09-49aa-bca2-e4acff39c4d0)
+
+* woolly ->  covered with dense often matted or curly -> vague/possibly empty. [Meaning]
+* predicate -> nvolve as a necessary condition or consequence; as in logic -> subject and predicate. [Meaning]
+
+![image](https://github.com/user-attachments/assets/3d4a2678-82b1-4e04-892b-93b584fe80aa)
+![image](https://github.com/user-attachments/assets/02943367-ae59-4fb5-bca4-7ad808231f3d)
+
+* Side-track has to be eliminated.
+* meaning of existance -> Example.
+
+![image](https://github.com/user-attachments/assets/f4240681-2894-4e87-a184-fd718c6bf4fb)
+
+* 4 -> Side track/tone-mismatch
+
+![image](https://github.com/user-attachments/assets/69b9611f-3bca-462f-bf07-ce02219d9a6b)
+![image](https://github.com/user-attachments/assets/c6aed426-33de-435b-b5ea-56413d7bfdef)
+![image](https://github.com/user-attachments/assets/0bddde58-689e-464f-b643-93f2ee285e8a)
+![image](https://github.com/user-attachments/assets/b8f6d199-cabf-4165-94e5-4731207deabd)
+![image](https://github.com/user-attachments/assets/9af03717-d404-4828-a059-da398410784f)
+![image](https://github.com/user-attachments/assets/dd62e88d-f90b-4e3e-93b7-bd59714bc766)
+![image](https://github.com/user-attachments/assets/3ad9be1e-ae67-4be3-85a5-882f5ff5cba1)
+
+* RC - 12 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=dtIHRnGrDIM%3D
+* 4431
+
+
+
+
+
+
+
+
+
+
+
 
 
 
