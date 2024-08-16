@@ -7627,7 +7627,100 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * Don't loose **confidence**.
 * RC - 14 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=69OnkF%2FEy7U%3D
-* 214
+* 3142
+
+![image](https://github.com/user-attachments/assets/130bbffb-d0a4-4325-8ec6-4e8d0225082f)
+![image](https://github.com/user-attachments/assets/26f03f03-fd44-46df-b40f-42ef2b280b6f)
+![image](https://github.com/user-attachments/assets/c30fc55b-45f7-47ac-902f-99b54e960833)
+![image](https://github.com/user-attachments/assets/e7262c96-b26f-44fd-90ac-5402e8cf503a)
+![image](https://github.com/user-attachments/assets/789df6fc-19f0-4d63-bd7b-c2409cd285a7)
+![image](https://github.com/user-attachments/assets/53fc1899-14f8-43e9-92f9-12553cd1c688)
+![image](https://github.com/user-attachments/assets/10559502-3f09-4f51-b518-5ba14cd9c605)
+![image](https://github.com/user-attachments/assets/2c5436cb-2f61-41ad-b06c-34635c88b5b5)
+
+* Whenever we see **extreme words** in a passage it is **important** to keep a note of those words. If an **extreme word** happens in the passage then an **extreme thing** can happen in the **options**. There is no deviation. Look at **extreme as a deviation**. Usually in the passage we don't find **extreme statements** but when we find **extreme statements** in the passage, we should be a **little careful** and **write them down or remember them**. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/1ff11b53-a0cf-4efb-aeec-e064862a15e3)
+![image](https://github.com/user-attachments/assets/774453c0-035b-44e7-a659-4894fed82aa3)
+![image](https://github.com/user-attachments/assets/7878eed4-091b-42e6-bed7-14a709459fbd)
+
+* 4 -> all humans -> extreme.
+* Paradolia is a universal experience -> extreme.
+* The passage has **extreme words**. So, option '4' is not the **odd sentence**.
+
+![image](https://github.com/user-attachments/assets/0600f58c-f4e7-4968-b3bc-98510ba789ca)
+![image](https://github.com/user-attachments/assets/0ee4b54e-2031-44a5-bb73-632e87596363)
+![image](https://github.com/user-attachments/assets/5545f904-b451-42f3-8a5c-127588169faf)
+
+* Close question.
+* 2,3 -> twisted side-track.
+
+![image](https://github.com/user-attachments/assets/74521a7d-3800-42b0-a68e-52a285d1c4c5)
+
+* RC - 15 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=4Mt3qgrH1sg%3D&
+* 3142
+
+![image](https://github.com/user-attachments/assets/daf85c26-3c5f-44ad-9bf4-9529a8ce6904)
+![image](https://github.com/user-attachments/assets/1e01322d-3c05-4712-bd69-719a3ce615d6)
+![image](https://github.com/user-attachments/assets/fa58ac1a-a942-4767-a733-23a60f7fe765)
+![image](https://github.com/user-attachments/assets/acf8d8cd-5e23-4e8a-940c-ec5c8627b877)
+![image](https://github.com/user-attachments/assets/669b048a-2932-43ea-90a4-253a73bc9d7f)
+
+* scramble -> move hurriedly. [Meaning]
+* evoke -> call forth (emotions, feelings, and responses). [Meaning]
+
+![image](https://github.com/user-attachments/assets/1dba370e-7db1-4045-b0e9-5176aca93ee1)
+![image](https://github.com/user-attachments/assets/1a9b756f-01b3-4ded-a220-fb9e88298e06)
+![image](https://github.com/user-attachments/assets/298b5161-2573-40c6-bb36-8d691d0ea313)
+![image](https://github.com/user-attachments/assets/6b119d47-0115-4535-9fe8-1d81e3da1613)
+
+* 3 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/66cd14bb-b214-4b0f-aac3-98d0de2446cb)
+
+* In order to -> The author is not talking about **what**, the author is talking about **why**. [Formula] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/1f05edc0-8aea-4a3a-ad82-d6b2f7e6be4d)
+
+* 4 -> Alien.
+
+![image](https://github.com/user-attachments/assets/2e846786-ea20-484d-bdf3-e8c22f1bd69a)
+
+* 1 -> Tone-mismatch.
+* RC - 16 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=4Mt3qgrH1sg%3D&
+* 3142
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
