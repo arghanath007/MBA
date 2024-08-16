@@ -7689,7 +7689,7 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 
 * 1 -> Tone-mismatch.
 * RC - 16 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
-* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=4Mt3qgrH1sg%3D&
+* Link ->   https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ZaDO%2FB4lrFc%3D&
 * 3142
 
 
