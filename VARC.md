@@ -7722,11 +7722,20 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * assumption -> necessary.
 * except -> negative.
 * 1 -> worthy -> tone-mismatch.
+* RC - 17 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->   https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=98JEdV5K%2FNY%3D&
+* 3142
 
+![image](https://github.com/user-attachments/assets/3ead85c4-bb8d-430a-b4fc-c0eb96855db0)
+![image](https://github.com/user-attachments/assets/95b425ba-dd86-4360-ba65-0604708538cd)
+![image](https://github.com/user-attachments/assets/262468e9-1289-4e42-9854-41e2e9b8666a)
+![image](https://github.com/user-attachments/assets/a9aa3d3f-144b-483a-b1b0-f11c1c743c41)
+![image](https://github.com/user-attachments/assets/4222a33f-ac26-4835-a667-dcbdc7a2a109)
+![image](https://github.com/user-attachments/assets/ae76eeae-b77e-4161-a73e-5ba3233a89f2)
+![image](https://github.com/user-attachments/assets/98fcd696-284b-45a8-a693-6d709c728d2b)
 
-
-
-
+* preordain -> foreordain or determine beforehand -> nothing is predetermined -> anyything is possible. [Meaning]
+* sovereign -> a nation's ruler or head of state usually by hereditary right. [Meaning]
 
 
 
