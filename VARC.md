@@ -7690,18 +7690,38 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * 1 -> Tone-mismatch.
 * RC - 16 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link ->   https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ZaDO%2FB4lrFc%3D&
-* 3142
+* 414
 
+![image](https://github.com/user-attachments/assets/d3c35813-f70d-45f3-a72c-fd4381435c60)
+![image](https://github.com/user-attachments/assets/b3dc549a-ab70-41f2-8d82-aad67ce5d13a)
+![image](https://github.com/user-attachments/assets/11fe21bc-f6f2-4ed4-8e59-99dcaddd1e91)
 
+* unwarranted -> lacking justification or authorization. [Meaning]
+* detrimental -> causing harm or injury -> causing or capable of causing harm. [Meaning]
+* untimely -> badly timed -> uncommonly early or before the expected time. [Meaning]
+* redundant -> more than is needed, desired, or required. [Meaning]
 
+![image](https://github.com/user-attachments/assets/6ca038c0-fa70-4103-a21e-7f37e72f3817)
+![image](https://github.com/user-attachments/assets/fcc80b26-e69d-4f37-bfa5-977551ac0732)
+![image](https://github.com/user-attachments/assets/e66f9853-9a13-4826-9e52-241394e799b9)
+![image](https://github.com/user-attachments/assets/dc5c879f-1d15-4683-af2d-1f32b0a83060)
+![image](https://github.com/user-attachments/assets/14ce7524-f002-4f5b-9e5f-00093ec2e35e)
+![image](https://github.com/user-attachments/assets/acd8ce52-6aa4-470e-bccb-6f376b2f9cb5)
 
+* untimely -> premature/early. [Meaning]
 
+![image](https://github.com/user-attachments/assets/b77a585d-ce42-465b-bfde-f5b566617d96)
+![image](https://github.com/user-attachments/assets/77ca79b5-ee0b-4e73-85d5-75515835db0d)
 
+* 4 -> cause -> rotten word.
+* 4 -> side-track.
+* cause, because -> important word.
 
+![image](https://github.com/user-attachments/assets/83b1c04e-23fc-4b78-bc53-0ea2faa9944a)
 
-
-
-
+* assumption -> necessary.
+* except -> negative.
+* 1 -> worthy -> tone-mismatch.
 
 
 
