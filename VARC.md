@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/user-attachments/assets/407ae9ec-e6d1-4a67-8928-14ca972c8296)# VARC
 
 # Rodha 
 
@@ -7734,13 +7734,64 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ![image](https://github.com/user-attachments/assets/ae76eeae-b77e-4161-a73e-5ba3233a89f2)
 ![image](https://github.com/user-attachments/assets/98fcd696-284b-45a8-a693-6d709c728d2b)
 
-* preordain -> foreordain or determine beforehand -> nothing is predetermined -> anyything is possible. [Meaning]
+* preordain -> foreordain or determine beforehand -> nothing is predetermined -> anyything is possible -> predetermined. [Meaning]
 * sovereign -> a nation's ruler or head of state usually by hereditary right. [Meaning]
 
+![image](https://github.com/user-attachments/assets/9fdbad21-e425-4844-b299-8d537cbb7b6e)
+![image](https://github.com/user-attachments/assets/fba8b88d-73b2-4dff-b0cd-1da72184fdab)
 
+* reverence -> amazing. [Meaning]
+* apathy -> I don't care attitude -> an absence of emotion or enthusiasm. [Meaning]
+* scepticism -> doubt about the truth of something. [Meaning]
 
+![image](https://github.com/user-attachments/assets/7f8444c7-16b3-40c1-a2cb-fd6116965d21)
+![image](https://github.com/user-attachments/assets/0af196ae-d865-40b5-8a64-8ef8ea1d883e)
 
+* 1 -> Twisted side-tracking.
+* Everything is possible.
 
+![image](https://github.com/user-attachments/assets/586f5b63-5532-4fe0-b03b-abf89370a29a)
+
+* Power is the imagination.
+* RC - 18 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->   https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=taXOro7CkpA%3D&
+* 3342
+
+![image](https://github.com/user-attachments/assets/e4f157c3-9549-4631-83ae-460e31b84c9f)
+![image](https://github.com/user-attachments/assets/ef497c40-a05e-478b-9ed9-984a397caf21)
+![image](https://github.com/user-attachments/assets/1b8291ed-982e-4a47-a9dd-123fc4ef1d1b)
+![image](https://github.com/user-attachments/assets/e56caa43-5939-4bcd-8913-05031c2cef1a)
+![image](https://github.com/user-attachments/assets/8227ad37-9d2b-4d8b-ae21-11cda15d196e)
+![image](https://github.com/user-attachments/assets/93e228eb-dbb2-44ab-a221-d15fc83a273d)
+
+* Mediated -> acting or brought about through an intervening agency. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b4eaab83-1f6c-4896-8514-d91879bc7408)
+
+* causally connected -> cause and effect connection. [Meaning]
+* causally -> in a causal fashion. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b48ba04c-f43e-494f-ab4a-08b90ff6d293)
+
+* Doubt.
+
+![image](https://github.com/user-attachments/assets/eaa7d061-d1f4-4da3-a40d-8122cda82630)
+
+* General -> integrationist.
+* Specific -> Isolationism.
+* 1,2,3 -> integrationist
+* 4 -> Isolationism.
+
+![image](https://github.com/user-attachments/assets/f0cc9e22-bd33-404c-8b5f-e57be358c24e)
+![image](https://github.com/user-attachments/assets/fb7a7d8a-9aae-47c5-934b-69665bba6c8d)
+
+* 2,3,4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/454cce84-c055-4d02-9102-79e33174af53)
+
+* 1 -> Isolationism.
+
+![image](https://github.com/user-attachments/assets/d604118e-6758-42a6-9911-264bf0e1a106)
 
 
 
