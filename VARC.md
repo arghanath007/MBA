@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/407ae9ec-e6d1-4a67-8928-14ca972c8296)# VARC
+# VARC
 
 # Rodha 
 
@@ -5170,8 +5170,68 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ![image](https://github.com/user-attachments/assets/47540d25-3cf1-4491-8051-115c981e4d5c)
 
 * 14 -> Odd Sentence-2
-* Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=ISHdrKn1krQ%3D&
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1krQ%3D&userId=7649112
 
+![image](https://github.com/user-attachments/assets/f5d421d4-76b0-4484-aafc-7d5647fbff23)
+![image](https://github.com/user-attachments/assets/d3508939-cd1f-4618-bfc0-365842e7cbbd)
+![image](https://github.com/user-attachments/assets/84ba2b5e-677b-47fa-bb4e-58d9363c8091)
+![image](https://github.com/user-attachments/assets/3c652cfc-fd24-4070-b286-0b0636a22c70)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/9cac2182-5cc3-4c3a-a7be-157dc83c4440)
+
+* If statement '1' comes in the bucket then another statement must also come to the bucket which is talking about the **problems/negatives** of **intermittent fasting**.
+* Statement '1' needs **support**, it cannot come **alone**.
+* Statement '2' also needs **support**, it cannot come **alone**.
+* Entire conversation is about **making money**. [Logic]
+* Online gurus, blogs, influencers, luuxury hotels, charlatans -> all are making money. [Logic]
+* 1 -> It is talking about one of the **problem** of **intermittent fasting**. [Logic]
+* For statement '1' to be **more seriously** there has to be **another statement**. 
+* The topic is talking about **charlatans**. [Logic]
+* Online gurus, blogs, influencers, luuxury hotels and retreats -> They are **charlatans**. [Logic]
+* The unity is about making **money** from **fasting**. [Logic]
+
+![image](https://github.com/user-attachments/assets/ccde71db-090a-45e8-862c-434810491f44)
+![image](https://github.com/user-attachments/assets/6b12b29f-ea6d-4e2a-9ea4-0d0cf63666cd)
+![image](https://github.com/user-attachments/assets/72b72f4c-50c6-4255-9cc5-2d7e7049a350)
+
+* 2,4 -> Negative about internet.
+* If statement '3' comes in then statement '1' also comes in.
+* 3 -> Positive about internet.
+* 5 -> Question.
+* 1 -> Answer.
+* 5 -> 1.
+* 1 -> 3
+* "we might never go online again"(2) -> giant moral panic(5).
+* 2 -> 5.
+* 4 -> It is talking about negatives. It is talking about a very specific real negative.
+* '4' is a better one than '2'.
+
+![image](https://github.com/user-attachments/assets/325b23e7-5035-4e77-89ee-36979534b25e)
+![image](https://github.com/user-attachments/assets/9f2ff88b-00bb-4cb5-bd9b-d47c9988605f)
+![image](https://github.com/user-attachments/assets/753ce140-f6c5-40cc-8b9d-0bf921ba0f9a)
+![image](https://github.com/user-attachments/assets/2c3a5289-45b4-46aa-9ace-1b02587e0c21)
+![image](https://github.com/user-attachments/assets/33a724f2-fae4-431d-beea-dfcd2644068b)
+
+* 1 -> Needs support.
+* Proliferation -> a rapid increase in number (especially a rapid increase in the number of deadly weapons) -> increased. [Meaning]
+* 2 -> 3.
+* disciplinary -> relating to discipline in behavior -> relating to a specific field of academic study. [Meaning]
+* ancestry -> the lineage of an individual. [Meaning]
+* heredity -> the biological process whereby genetic factors are transmitted from one generation to the next. [Meaning]
+* eugenics -> the study or promotion of methods of selecting for specific genetic qualities by controlled breeding. [Meaning]
+* We are talking about just kickstarting **genetic counselling programs**. [Logic]
+* 5 -> It is talking about **some history** of **disciplinary ancestry**.
+* Ethical and social movements(1) -> Statement '4'.
+* 4 -> 1.
+* 5 to 1 -> Doesn't make sense.
+* The bucket is talking about the emergence of **genetic counselling programs** and the **impact** that had **happened**. [Logic]
+* Disciplinary ancestry and disciplinary heritage -> This is a **trap** set by the **question setter**. [**IMPORTANT**]
+* We don't need statement '5'.
+
+![image](https://github.com/user-attachments/assets/fd39da4b-1765-4b82-a0eb-5fbe11c159aa)
 
 * 15 -> Odd Sentence-3
 * Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=JPC1orHjlpw%3D&
@@ -5194,6 +5254,147 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ![image](https://github.com/user-attachments/assets/32d9f4d1-4b43-4a84-9e49-379b37f44e60)
 ![image](https://github.com/user-attachments/assets/3102836c-d12e-4e64-bf76-4362fc5c9227)
 ![image](https://github.com/user-attachments/assets/5145f916-a6cf-4cb1-8b1c-2c2ac03c6855)
+
+* 16 -> Odd Sentence-4
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=3cnnsoTb88s%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/00c292f0-dd5d-40be-ae7a-99362a347e3d)
+![image](https://github.com/user-attachments/assets/e4791a32-e836-49d9-9409-2e81e72f62e5)
+![image](https://github.com/user-attachments/assets/495ffce6-eabe-413d-8c7b-d69fb13cee6e)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/869efef3-ebb3-42ae-a32a-2197fc4266e8)
+
+* Understanding of dreams and sleep.
+* 1 -> 2.
+* 4 -> 5.
+* 3 -> REM specific.
+
+![image](https://github.com/user-attachments/assets/229c24b1-df31-44f8-8bf6-0808b76eae35)
+![image](https://github.com/user-attachments/assets/8c713700-1ff7-4569-85fe-6b8ea5965853)
+![image](https://github.com/user-attachments/assets/8d9977de-50cc-45a0-b9e4-11bcb79602b1)
+![image](https://github.com/user-attachments/assets/4afa8e42-987c-4741-a110-d2867c65f33c)
+
+* 3 -> 4.
+* 1 -> 5.
+* 5 -> 4.
+
+![image](https://github.com/user-attachments/assets/3b8c752c-cee3-4431-9b7e-785801b71b1d)
+![image](https://github.com/user-attachments/assets/b8520f0c-8d43-4c78-8854-46d8bfdc34ca)
+![image](https://github.com/user-attachments/assets/1fee2e4a-78e6-4122-b5fe-a6ad74f00778)
+![image](https://github.com/user-attachments/assets/0c4e26ae-f17c-47d7-9d53-706607bd8cb4)
+![image](https://github.com/user-attachments/assets/866a2339-bd0a-4f26-9376-8069b68b58d1)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+* 1,2 -> Needs support.
+* 2 -> 3.
+* 4 -> 1.
+* If we have to keep '5' in the bucket then why is he performing to **jays**?
+* What has birds go to do with cruise ship magician? There is no context to this.
+* 5 -> No connection to the **other statements**.
+* aviary -> a building where birds are kept. [Meaning]
+
+* 17 -> Sentence Placement-1
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=X3Loy2bYa0w%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/6fe4eefb-de5e-4ac9-9fae-2212a35a43a4)
+![image](https://github.com/user-attachments/assets/98398fb5-0f1b-4412-8d9f-bdf4ff46804d)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/2b393c49-9621-49b3-a650-44dd89c1292c)
+![image](https://github.com/user-attachments/assets/212f8208-ece8-4fa1-ac30-2a072d6ae76f)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/cdd30cc7-a0ea-4198-b56e-8a0019cdd22b)
+![image](https://github.com/user-attachments/assets/0b7a767b-9795-47fa-8bde-317e025ae765)
+![image](https://github.com/user-attachments/assets/cbef7283-4895-4710-b57f-61f3b9a9e52c)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+* 4 -> At the very end -> No point in talking abouut early stuff at the end.
+* Doesn't make any sense.
+* that control of access -> control over the process. [Echo]
+
+* 18 -> Sentence Placement-2
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=p7zXzYu0ipM%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/4935dd4b-2d2b-457b-a088-095a9c23b17b)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/7e573d96-7c5c-4dd6-929a-cf7a01e17793)
+
+* visceral -> relating to or affecting the viscera -> inherent. [Meaning]
+* viscera -> internal organs collectively (especially those in the abdominal cavity). [Meaning]
+* viscus -> a main organ that is situated inside the body. [Meaning]
+* inherent -> existing as an essential constituent or characteristic. [Meaning]
+
+![image](https://github.com/user-attachments/assets/06b87fe9-62da-4df9-a465-8762baedf852)
+![image](https://github.com/user-attachments/assets/1ebc6db1-a156-43f6-b474-c8a6cff9095c)
+
+* Some situation is forcing the **author** to **write**.
+
+![image](https://github.com/user-attachments/assets/2476a1e8-c3d0-4314-8138-3940c0765e40)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+* **Thus** word in the sentence doesn't mean that we have to put the sentence at option '4' only. [Logic]
+* It needs an **antecedent**.
+* antecedent ->  a preceding occurrence or cause or event. [Meaning]
+* 4 -> Narrow.
+* So can't be at '4'.
+* Sentence -> tentative in nature.
+* 4 -> Solid in nature.
+* tentative -> unsettled in mind or opinion -> under terms not final or fully worked out or agreed upon. [Meaning]
+* tended to -> having a caretaker or other watcher -> cared for. [Meaning]
+
+![image](https://github.com/user-attachments/assets/c6efa1a0-86cc-4121-975b-321cd2130301)
+
+* 19 -> Sentence Placement-3
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=qfB7sUgorh0%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/238118a4-56f2-4cb3-bc7b-51d03dd63aae)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/d23a9bfb-5e34-4adf-8cce-61edb1be7ce4)
+
+* That is -> Clarifying something that is said before. [Logic]
+* 2 -> After example we cannot put clarification(sentence).
+* 4 -> Too specific/narrow.
+
+![image](https://github.com/user-attachments/assets/006f24c8-32a5-483e-8b04-2b8b5254754e)
+![image](https://github.com/user-attachments/assets/ce972ec9-0445-456f-b651-50a60398f382)
+
+* 3 -> Names are coming/seeing afterwards.
+* 3 -> Detail/justificaion of centrists taking notice.
+
+![image](https://github.com/user-attachments/assets/fc4fa3cd-baa7-4bd3-b472-40aaea509d7c)
+
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+* Sentence -> Broad.
+* Broad -> Narrow.
+* 1 -> Detail.
+* 2,3,4 -> Very Narrow.
+
+![image](https://github.com/user-attachments/assets/28a819bb-978c-4b59-8db8-35875b1027e1)
+![image](https://github.com/user-attachments/assets/e34d5128-023a-47f8-a858-795a1de02672)
+
+* 1 -> sentence -> Good conversation starter.
+* 20 -> Sentence Placement-4
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=A6KgGACXKGM%3D&userId=7649112
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7891,3 +8092,4 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 ![image](https://github.com/user-attachments/assets/09ae49a1-c0f4-4798-8baf-2992db9f1cf5)
 ![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)
 ![image](https://github.com/user-attachments/assets/5ec237a7-1658-48d8-adc4-05fb428c0e7b)
+![image](https://github.com/user-attachments/assets/407ae9ec-e6d1-4a67-8928-14ca972c8296)
