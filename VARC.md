@@ -5131,9 +5131,69 @@ x![image](https://github.com/user-attachments/assets/36c834f3-5db4-450d-8f47-2a4
 * 13 -> Odd Sentence-1
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=UkSp8nomTeA%3D&userId=7649112
 
+![image](https://github.com/user-attachments/assets/3f0e2696-68dc-4b64-8a0f-073a47df1328)
+
+* 3,4,5 -> History of aurora research.
+* Figure out **blocks** of ideas together. Things **echo**.
+* Be very careful with echo. In **wrong answer choices** we can get **echo**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e87f10e3-bd05-448e-8212-47541bd85f67)
+![image](https://github.com/user-attachments/assets/c922de10-0387-42e0-8f37-1c0b1d48d21b)
+![image](https://github.com/user-attachments/assets/c1afa5e9-6483-4803-99fa-32f81745b160)
+![image](https://github.com/user-attachments/assets/a947c1f0-efa9-4ce9-a0fd-5475db0d9d0c)
+
+* 3 -> philosophia -> philosophy.
+* 1,2,4,5 -> new professions.
+* wisdom or learning(2) -> professional educators(1) -> sage or expert(4).
+* **This new profession** is talking about the **above**.
+
+![image](https://github.com/user-attachments/assets/07166528-7591-4c68-b7a8-800a99f75e14)
+![image](https://github.com/user-attachments/assets/ffae80fe-4f01-46ae-bfe3-169cdbe0bda2)
+![image](https://github.com/user-attachments/assets/6aa689d6-4e38-4fab-8763-a99785371068)
+![image](https://github.com/user-attachments/assets/706a2bf3-0c9c-4c18-a957-36ebf7684e51)
+![image](https://github.com/user-attachments/assets/fa63f0a3-9019-4e6e-ab95-fd2f80fb0a96)
+
+* This was **easy**. Didn't read statement '2' properly.
+
+![image](https://github.com/user-attachments/assets/8275482a-6415-4df8-945f-f2563bd22c9d)
+![image](https://github.com/user-attachments/assets/3faa98c4-2492-4992-9819-c18fc3fba18c)
+
+* 3,4,5 -> Art is an **investment**.
+* 2 -> Art is **not** an **investment**.
+* 1 -> Asking a **question**.
+* The **question** is **answered** in **statement '4'**.
+
+![image](https://github.com/user-attachments/assets/6531e9f9-6d0e-468f-a06e-dc6b7a14f707)
+
+* 2 -> Tone-mismatch -> It is exactly opposite to every other conversation which is happening.
+
+![image](https://github.com/user-attachments/assets/47540d25-3cf1-4491-8051-115c981e4d5c)
+
+* 14 -> Odd Sentence-2
+* Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=ISHdrKn1krQ%3D&
 
 
+* 15 -> Odd Sentence-3
+* Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=JPC1orHjlpw%3D&
 
+![image](https://github.com/user-attachments/assets/3a265be6-166e-4dcd-8f3b-c303054221f6)
+![image](https://github.com/user-attachments/assets/a944188d-2026-483a-8f46-fd41398c63d8)
+![image](https://github.com/user-attachments/assets/27a6e08c-95f9-46e8-bf4b-0027e194b812)
+![image](https://github.com/user-attachments/assets/61fa8b67-e0e1-4c58-b579-9df6bc6514ee)
+
+* [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/aff1a9d6-75ff-49e1-a3dd-fe69e3269a55)
+![image](https://github.com/user-attachments/assets/b913aa4f-d470-45d7-9d28-1b291975d557)
+![image](https://github.com/user-attachments/assets/200a2adb-8c37-4516-9fd4-692ac99941ba)
+![image](https://github.com/user-attachments/assets/9f6f1683-8990-460a-a412-2b8bf70a3a68)
+
+* 1,3,4,5 -> Discussing problem.
+
+![image](https://github.com/user-attachments/assets/03533f3d-3427-414d-b4aa-c4276d1e0bbc)
+![image](https://github.com/user-attachments/assets/32d9f4d1-4b43-4a84-9e49-379b37f44e60)
+![image](https://github.com/user-attachments/assets/3102836c-d12e-4e64-bf76-4362fc5c9227)
+![image](https://github.com/user-attachments/assets/5145f916-a6cf-4cb1-8b1c-2c2ac03c6855)
 
 
 
