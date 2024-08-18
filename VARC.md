@@ -5385,15 +5385,33 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 * 20 -> Sentence Placement-4
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=A6KgGACXKGM%3D&userId=7649112
 
+![image](https://github.com/user-attachments/assets/532250c7-8d66-4396-bdba-a9d03a7b9c56)
 
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/dbc7c211-0777-4ec1-9c0b-2d188e04d856)
 
+* However -> signal word.
+* continuity over time -> ancient egypt.
 
+![image](https://github.com/user-attachments/assets/80bf533a-d198-438f-81a0-5b7bca93a718)
 
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/6bc51791-694a-4aa4-9591-140e4b29ab24)
 
+* 3 -> It -> Quantum field theory.
+* Reality -> Much broader.
+* Quantum field theory -> Much narrower than **Reality**.
+* Field -> Echo.
 
+![image](https://github.com/user-attachments/assets/b15c662f-cfca-49cd-9958-156c94b8b663)
 
+* [**VERY IMPORTANT**] [Practice Again] [Got Wrong]
+* Sentence -> Too specific/narrow.
+
+![image](https://github.com/user-attachments/assets/23639a10-4df7-4d25-bd0c-066f2c38472d)
+![image](https://github.com/user-attachments/assets/b4b62446-aac0-43c7-a66c-8d9e871321db)
 
 
 
