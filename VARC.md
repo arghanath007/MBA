@@ -7367,7 +7367,6 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ### Article 22
 
-
 * P1 -> 2, 3
 * P2 -> 5, 9 [Got wrong]
 * P3 -> 14, 16 [Got wrong]
@@ -7410,6 +7409,7 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 * Underlines -> give extra weight to (a communication) [**very important**]
 * sigma -> a symbol of disgrace or infamy [**very important**]
+* underlie -> lie underneath -> be or form the base for. [Meaning]
 
 ![image](https://github.com/user-attachments/assets/0c424b1e-1858-4090-b277-d42882c94a43)
 
@@ -7834,6 +7834,20 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 ![image](https://github.com/user-attachments/assets/9af03717-d404-4828-a059-da398410784f)
 ![image](https://github.com/user-attachments/assets/dd62e88d-f90b-4e3e-93b7-bd59714bc766)
 ![image](https://github.com/user-attachments/assets/3ad9be1e-ae67-4be3-85a5-882f5ff5cba1)
+![image](https://github.com/user-attachments/assets/a4258ae8-fd8d-4359-8376-f1ca5c79a1f6)
+![image](https://github.com/user-attachments/assets/24f545c2-11d5-49d6-86c7-91adb2aa5540)
+![image](https://github.com/user-attachments/assets/f7de8e5d-8841-472a-ba6f-ccf31f04d965)
+![image](https://github.com/user-attachments/assets/bb7f6f19-7686-47e3-834c-ff9f6cbbc603)
+![image](https://github.com/user-attachments/assets/d9c63d76-25b0-44b2-aa17-43bb2426db37)
+![image](https://github.com/user-attachments/assets/7648d436-4c78-488c-af98-98ca19061b19)
+![image](https://github.com/user-attachments/assets/4a5e81cd-b66d-4e82-8791-8c255142ae60)
+![image](https://github.com/user-attachments/assets/80fea43c-75fc-4da8-86a4-4600eb512ad7)
+![image](https://github.com/user-attachments/assets/94613ef4-634c-4f14-88c3-9092af5f0eb6)
+![image](https://github.com/user-attachments/assets/bd6ca524-0ab0-41a4-a0b6-91f99dbbdf08)
+![image](https://github.com/user-attachments/assets/444d3d34-281b-4cc5-b283-03dfb0c3f348)
+![image](https://github.com/user-attachments/assets/e024791b-2bb6-415a-957f-b0744ce060e9)
+![image](https://github.com/user-attachments/assets/72a8228e-94d3-44f2-97e9-0144d07c67c0)
+![image](https://github.com/user-attachments/assets/58b56c92-e056-4143-91d9-6296358dde91)
 
 * RC - 12 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=dtIHRnGrDIM%3D
@@ -8072,11 +8086,69 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ![image](https://github.com/user-attachments/assets/d604118e-6758-42a6-9911-264bf0e1a106)
 
+* RC - 19 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ph%2FBS3VFm0Y%3D&userId=7649112
+
+![image](https://github.com/user-attachments/assets/8f6a4354-fdd6-4656-a2da-ec68f416a4d9)
+![image](https://github.com/user-attachments/assets/e9d1abd0-b9f8-4dc2-81a3-7e77d4912e4f)
+![image](https://github.com/user-attachments/assets/57922799-87f8-45d2-9c89-4a67c0f07133)
+![image](https://github.com/user-attachments/assets/d09128e9-c187-4589-bf67-277507ba6008)
+![image](https://github.com/user-attachments/assets/7cc5e286-d87d-469a-8d13-92bb1138d7e5)
+![image](https://github.com/user-attachments/assets/a4730c99-ccdc-46c8-ad21-03da34e59458)
+![image](https://github.com/user-attachments/assets/1d3b1b54-6783-456d-bc0f-ea8876adc060)
+![image](https://github.com/user-attachments/assets/14d362ec-1d74-4c07-9ebf-6371a34e5321)
+![image](https://github.com/user-attachments/assets/f459d540-ca15-49f6-84e8-34a9e7bd1924)
+
+* Philosophy. [Explain]
+
+![image](https://github.com/user-attachments/assets/e0a85b6f-8c97-41ab-95ca-07dc21c9128e)
+![image](https://github.com/user-attachments/assets/16d2a1a6-d820-4b12-a3a1-83079221b5be)
+
+* Explaination. [**VERY IMPORTANT**] [Practice Again]
+* RC - 20 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=onOaU3zIJGs%3D$
+
+![image](https://github.com/user-attachments/assets/dcd2efad-02b8-4868-be27-1c4b4d2f5ce0)
+![image](https://github.com/user-attachments/assets/ce9afe28-e7b0-4c69-844d-b4caa86eaefa)
+![image](https://github.com/user-attachments/assets/91133fe7-8e78-4948-ba89-22ef7c6d5489)
+![image](https://github.com/user-attachments/assets/5f260aee-83ce-4889-929c-7096617dc00d)
+![image](https://github.com/user-attachments/assets/e2f14668-8093-4dbe-9633-26733c111c0a)
+![image](https://github.com/user-attachments/assets/8ce6c5b3-e617-415d-bf71-2c3462605cf4)
+![image](https://github.com/user-attachments/assets/0f27c599-5dd1-4766-96f0-06d61d22d76a)
+![image](https://github.com/user-attachments/assets/e28981ba-1045-49b2-9c5a-9c8640825437)
+![image](https://github.com/user-attachments/assets/02c4565e-0982-4dfb-bbbd-ae93ce6fbc24)
+![image](https://github.com/user-attachments/assets/413cc5a5-b919-4193-bb05-f74d17c2bcf5)
+![image](https://github.com/user-attachments/assets/8a622c33-a5a2-4a29-8d50-9537453d0f63)
+
+* theo -> god. [Meaning]
+* theocentric -> god centric -> God as the central interest and ultimate concern. [Meaning]
+* anthro -> human. [Meaning]
+* theocentric -> human centric -> Human as the central interest and ultimate concern. [Meaning]
+
+![image](https://github.com/user-attachments/assets/e2a2653b-c93a-4296-ba99-29c619507d6f)
+
+* Explaination. [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1542a04b-26e9-46cf-b821-a7007498998c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## IMPORTANt
 * Complete the rest of CAD RCs
-* Complete the rest of VA questionss.
 
 
 
