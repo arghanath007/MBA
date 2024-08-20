@@ -8335,12 +8335,48 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?
 * Link -> 
 https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=mRVGfdAGMm0%3D
 
+![image](https://github.com/user-attachments/assets/012e37d2-0676-4b48-84b6-9bbaf557d8d5)
+![image](https://github.com/user-attachments/assets/cdea72d6-adff-4e79-a319-80daacc4e671)
+![image](https://github.com/user-attachments/assets/200681cf-451d-4865-8fb9-e42bfd7a449d)
+![image](https://github.com/user-attachments/assets/4918ffe9-55e6-4903-a952-a82a275b4dee)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/5ccf06fc-1ca0-4c54-896b-65d60b9c639c)
+![image](https://github.com/user-attachments/assets/c4267475-731e-4bfd-91d8-1cf42739742c)
+![image](https://github.com/user-attachments/assets/6f58d1ab-956c-4bd1-996d-62a52ac60c00)
+![image](https://github.com/user-attachments/assets/ea2ce4fb-ef24-4296-a17c-7ef02afb7262)
+![image](https://github.com/user-attachments/assets/25c111fc-e37b-4fe9-91d0-97cf4d563c73)
+![image](https://github.com/user-attachments/assets/7338d388-f272-4b20-b628-f1aceab600c4)
+![image](https://github.com/user-attachments/assets/36129e17-f75d-47e1-ac00-920539f0f4b4)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 28 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=M%20YsHtHEOiU%3D
 
+![image](https://github.com/user-attachments/assets/27ace4d0-9eb8-4c03-a722-018f98b33162)
 
+* Not opening.
+* RC - 29 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=58urTMiyfPw%3D
 
+![image](https://github.com/user-attachments/assets/24ec4665-7be5-4309-81cb-a7d88ddbc9f4)
+![image](https://github.com/user-attachments/assets/c2c4b4bd-f062-45bf-97da-2dde4a9bbdf2)
+![image](https://github.com/user-attachments/assets/4517095b-a931-475a-a906-ec44d9ab655a)
+![image](https://github.com/user-attachments/assets/a83c6df0-383e-4d72-97c3-7a018e96c80a)
+![image](https://github.com/user-attachments/assets/e36007c2-8d46-44c4-a5a2-3e49f175c413)
+![image](https://github.com/user-attachments/assets/374a9fd9-079f-4d4d-9bc1-c043e45fa6dd)
+![image](https://github.com/user-attachments/assets/0a0b8533-497c-43f5-8fc2-538d07302b8b)
+![image](https://github.com/user-attachments/assets/974efa45-8383-46b1-826c-ffcfb8000dbb)
+![image](https://github.com/user-attachments/assets/a6149aed-3b79-4135-8774-281286a88c45)
+![image](https://github.com/user-attachments/assets/e4bddc49-66d1-4d69-9f37-4ddc91be0c1c)
+![image](https://github.com/user-attachments/assets/e48a4e74-e9e5-43e3-9e6c-f43705bcdcca)
+![image](https://github.com/user-attachments/assets/3fd09653-462d-4b83-ad04-e3cdaaf88274)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 30 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=owcd0btjLHU%3D
 
 
 
