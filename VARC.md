@@ -8254,6 +8254,56 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=60ElwKub
 * Link -> 
 https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ZyqtJLa5X%2F8%3D
 
+![image](https://github.com/user-attachments/assets/7a4a1956-4885-4c42-9ef4-7afdf4829306)
+![image](https://github.com/user-attachments/assets/afdfd38e-d2c1-4287-a664-095c311e5388)
+![image](https://github.com/user-attachments/assets/f985b540-2c78-40d3-a263-31966a29b423)
+![image](https://github.com/user-attachments/assets/0fcc91f9-54fb-4584-92ec-1db8379f5021)
+![image](https://github.com/user-attachments/assets/8885ed51-c850-4577-a8b7-d4c3d2d731a6)
+![image](https://github.com/user-attachments/assets/ec8bedb8-dede-45bd-906e-7d535cd5b593)
+![image](https://github.com/user-attachments/assets/20c571e3-0db6-4059-afc5-00c74227970a)
+![image](https://github.com/user-attachments/assets/e0a9cfc9-d5c5-49fe-901f-6bc545b7b097)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/8dcc58e2-8d81-4247-94c8-8073d3ecbba3)
+![image](https://github.com/user-attachments/assets/9d199c2b-481d-4063-bee8-ce22fe749664)
+![image](https://github.com/user-attachments/assets/eed89e37-58b1-4509-974c-1fc39b6dd51c)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/e4898e82-55af-4feb-8183-99b008eb7e5e)
+
+* RC - 23 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=%20%2FsvlbQFcv8%3D
+
+![image](https://github.com/user-attachments/assets/27ace4d0-9eb8-4c03-a722-018f98b33162)
+
+* Not opening.
+* RC - 24 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IkqReL3%2FuCw%3D
+
+![image](https://github.com/user-attachments/assets/2d2006fc-8f7b-4804-97f6-72d41c6ad7a2)
+![image](https://github.com/user-attachments/assets/43b21924-1296-4034-87b6-0a9dc97a1834)
+![image](https://github.com/user-attachments/assets/bd7e5612-0f1f-4828-86a7-d3ed2f14cf6c)
+![image](https://github.com/user-attachments/assets/a0fe988b-7366-44a4-8700-0363427a2099)
+![image](https://github.com/user-attachments/assets/ab6f7da5-6ae5-48d0-9540-89595276f850)
+![image](https://github.com/user-attachments/assets/597f928d-2cfe-4445-8452-2ee2c2fd4f20)
+
+* insolubility -> the quality of being insoluble and difficult to dissolve in liquid -> the property (of a problem or difficulty) that makes it impossible to solve. [Meaning]
+
+![image](https://github.com/user-attachments/assets/16841b90-eb94-42b0-ae58-e35558dcb243)
+![image](https://github.com/user-attachments/assets/886f4b89-9152-4c9b-a72e-8fb6aed275a5)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 6 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=d0LcsZUxaqA%3D
+
+
+
+
 
 
 
