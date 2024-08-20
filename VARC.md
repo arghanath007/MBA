@@ -8297,9 +8297,46 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IkqReL3%
 ![image](https://github.com/user-attachments/assets/886f4b89-9152-4c9b-a72e-8fb6aed275a5)
 
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
-* RC - 6 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 25 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> 
 https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=d0LcsZUxaqA%3D
+
+![image](https://github.com/user-attachments/assets/8f51425b-b03a-4d30-b238-4ce415b1743b)
+![image](https://github.com/user-attachments/assets/154f479d-c761-4ec0-9ec0-4fe44442b7a4)
+![image](https://github.com/user-attachments/assets/ef45b143-4a8c-4bd0-b642-75b59937e759)
+![image](https://github.com/user-attachments/assets/b07ebb18-959a-4010-bffa-906e77a4399d)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/dc01552e-fc78-4a97-9dc7-7f5098a925a8)
+![image](https://github.com/user-attachments/assets/5740ad68-d342-42b4-940e-2952fbeb2226)
+![image](https://github.com/user-attachments/assets/ac83f390-928e-4599-81f7-e383056fef6f)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/ce9e1b76-20ca-42a4-bc78-a915b9e58b6d)
+![image](https://github.com/user-attachments/assets/a30a834c-7ecd-45ef-9e6e-78ae766520d5)
+![image](https://github.com/user-attachments/assets/c8fcbe32-d193-4893-bc88-0de6d84539f0)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/19476ef0-348b-49a6-8538-e068201555f7)
+![image](https://github.com/user-attachments/assets/812738e4-0ea7-4967-9b4d-4b6c158382ea)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 26 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?
+
+![image](https://github.com/user-attachments/assets/27ace4d0-9eb8-4c03-a722-018f98b33162)
+
+* Not opening.
+* RC - 27 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=mRVGfdAGMm0%3D
+
+
+
 
 
 
