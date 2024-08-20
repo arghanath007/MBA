@@ -8131,13 +8131,128 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ![image](https://github.com/user-attachments/assets/1542a04b-26e9-46cf-b821-a7007498998c)
 
+* RC - 21 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=CpvHJ1ScisA%3D
 
+![image](https://github.com/user-attachments/assets/fba43ec9-1b25-4c30-b393-6b36f49112bf)
+![image](https://github.com/user-attachments/assets/6b086250-b7aa-4582-941f-b7535fb5b3e4)
 
+* hitherto -> until now. [Meaning]
+* vistas -> view. [Meaning]
+* placid -> peaceful. [Meaning]
 
+![image](https://github.com/user-attachments/assets/f3e32f9e-983a-4021-89a5-ccc57704fb93)
+![image](https://github.com/user-attachments/assets/23584915-387b-452c-99e4-8985130ed9f3)
 
+* serene -> not agitated; without losing self-possession -> completely clear and fine -> peaceful and calm. [Meaning]
 
+![image](https://github.com/user-attachments/assets/50e89544-be18-4eaa-aa55-0a1d8aa4d6f4)
 
+* 3 -> Side-track.
 
+![image](https://github.com/user-attachments/assets/d1f923f0-33cb-4c5f-9694-773b50e25677)
+
+* 1 -> cannot -> **extreme** word.
+* Passage -> Repeatation of ideas.
+
+![image](https://github.com/user-attachments/assets/8d11fb1a-28b7-4d6a-ab37-1cc75e6686c3)
+![image](https://github.com/user-attachments/assets/cec94ee8-56ea-414e-9396-7628b86c81bc)
+
+* subversion -> the act of subverting; as overthrowing or destroying a legally constituted government -> destroying someone's (or some group's) honesty or loyalty; undermining moral integrity. [Meaning]
+
+![image](https://github.com/user-attachments/assets/6c65ebe9-afe0-4528-ae99-7f51c0c73d0f)
+![image](https://github.com/user-attachments/assets/830dcbdc-ab71-4f62-b45c-51209b693482)
+
+* poignancy -> a quality that arouses emotions ->  a state of deeply felt distress or sorrow -> moving, touching. [Meaning]
+* incarcerated -> locked up in jail or prison. [Meaning]
+* paradox -> (logic) a statement that contradicts itself -> someone or something that seems to have contradictory qualities. [Meaning]
+* modicum -> smallest part of something -> a small or moderate or token amount. [Meaning]
+
+![image](https://github.com/user-attachments/assets/8ba29933-6860-4a95-888d-ef9174e50aaf)
+![image](https://github.com/user-attachments/assets/1b0ce1a9-a70a-4132-9d55-55f69ec2ba26)
+![image](https://github.com/user-attachments/assets/29167716-8afd-4765-9e0f-00f461ed151f)
+
+* Casual -> without or seeming to be without plan or method; offhand. [Meaning] [**IMPORTANT**]
+* Causal -> cause and effect. [Meaning] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a9c93fdc-f642-46e4-a948-8ce74dc53dbc)
+![image](https://github.com/user-attachments/assets/66103e52-6144-4921-855f-47d85e5ded46)
+![image](https://github.com/user-attachments/assets/54c3768e-5d9b-43c6-884d-2f29071366aa)
+
+* Transcendental -> outside of the laws of nature -> existing outside of or not in accordance with nature. [meaning]
+* 1 -> Alien.
+* 4 -> casual -> **Alien** word.
+* Answer -> Option **2**.
+
+![image](https://github.com/user-attachments/assets/ad32b095-eab6-47ce-a912-c2f1cb72dc46)
+![image](https://github.com/user-attachments/assets/ecd9f390-0ebd-4315-a5a8-d30fcc67ba68)
+![image](https://github.com/user-attachments/assets/dbbeb58e-eb93-4a6d-8772-6741c7639248)
+
+* 1,3 -> only -> **Extreme** word.
+* 4 -> must -> **Extreme** word.
+
+* RC - 22 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=w9AH%2Figsgyo%3D
+
+![image](https://github.com/user-attachments/assets/d705dcc0-88c2-4332-963a-f31a139baa0b)
+![image](https://github.com/user-attachments/assets/04cae445-90bb-47ed-b2b8-d77d26db47a6)
+![image](https://github.com/user-attachments/assets/9c91337d-65bd-442e-b90f-8210d304fe74)
+
+* anthropomorphic -> suggesting human characteristics for animals or inanimate things. [Meaning]
+
+![image](https://github.com/user-attachments/assets/04417231-45cd-45fc-bbe8-87116c901a0a)
+![image](https://github.com/user-attachments/assets/1ee02d54-be53-474f-9fbd-3842a17277ec)
+![image](https://github.com/user-attachments/assets/33d98902-2571-4e32-8fc0-0b63a73110b3)
+![image](https://github.com/user-attachments/assets/7ae88bb7-5f00-4120-907f-4cc1b9b02c09)
+![image](https://github.com/user-attachments/assets/8c45fca7-c3e7-4d30-af28-eb12db6a3dc5)
+![image](https://github.com/user-attachments/assets/3ec30e64-394b-416d-b6a1-259e4375599c)
+
+* symbolic -> relating to or using or proceeding by means of symbols. [Meaning]
+
+![image](https://github.com/user-attachments/assets/de5498bc-505f-4245-9ae5-8d39f690ab2f)
+![image](https://github.com/user-attachments/assets/3c872c8e-1000-4644-947f-04f38b624f40)
+![image](https://github.com/user-attachments/assets/b1dd6f54-a032-45dd-bbc8-0a80638d7e0b)
+
+* anthro -> about **humans**. [Meaning]
+* anthropology -> the social science that studies the origins and social relationships of human beings. [Meaning]
+* anthropomorphism -> the representation of objects (especially a god) as having human form or traits. [Meaning]
+* anthropocentric -> focused on human needs and values -> humans are at the **center**. [Meaning]
+* phil -> love. [Meaning]
+* losophy -> wisdom. [Meaning]
+* Philosophy -> love for wisdom. [Meaning]
+* philanthropy -> voluntary promotion of human welfare. [Meaning]
+* personification -> the act of attributing human characteristics to abstract ideas etc -> representing an abstract quality or idea as a person or creature. [Meaning]
+* veracious -> accurate data. [Meaning]
+* innocuous -> though looks very innocent. [Meaning]
+
+![image](https://github.com/user-attachments/assets/8ebc1c37-1b4c-47f1-85dd-a8d81be27400)
+![image](https://github.com/user-attachments/assets/87d6634f-8b98-4994-838f-4cbed9c274fa)
+
+* Not aligned.
+
+![image](https://github.com/user-attachments/assets/3817c86e-7ecd-4e21-9ecb-e8e38f8c0279)
+
+* 1 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/dfab0b2a-7225-4463-a273-be5ce6342e06)
+![image](https://github.com/user-attachments/assets/d19a9912-a739-45bd-9ece-d18640b22539)
+
+* benign -> kind in disposition or manner -> pleasant and beneficial in nature or influence -> harmless. [Meaning
+* RC - 22 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=60ElwKubtRQ%3D
+
+![image](https://github.com/user-attachments/assets/27ace4d0-9eb8-4c03-a722-018f98b33162)
+
+* Not opening.
+* Link -> https://myzone.careerlauncher.com/mba/online/TestValidator.jsp?qset=dIUZ1elUA14%3D
+
+![image](https://github.com/user-attachments/assets/27ace4d0-9eb8-4c03-a722-018f98b33162)
+
+* Not opening.
+* RC - 23 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ZyqtJLa5X%2F8%3D
 
 
 
