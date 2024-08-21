@@ -8419,7 +8419,111 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=M%20YsHt
 * 1 -> historical -> **rotten/alien** word.
 * 2,4 -> Side-track.
 
+* RC - 31 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=J%2FM%2FytK%2Fq6Q%3D
 
+![image](https://github.com/user-attachments/assets/d1a48679-e336-41c6-b837-5db86b042d57)
+![image](https://github.com/user-attachments/assets/a8823277-90bc-48ac-aff5-ea930993006b)
+![image](https://github.com/user-attachments/assets/bd48f98f-9e15-47cb-8069-9a148ce144db)
+![image](https://github.com/user-attachments/assets/5ae759e2-edb4-452e-892c-763d064bf9a1)
+![image](https://github.com/user-attachments/assets/c33722d8-d843-400a-b4bb-ac8ab2fe6654)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/def09c56-4f89-4dec-aad4-68dfe166aa69)
+![image](https://github.com/user-attachments/assets/8ec65eeb-f81c-4d66-99e1-c2881d865b6c)
+![image](https://github.com/user-attachments/assets/effa6544-bed6-411a-ae78-1ba7a13bec6c)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/d76d58d7-b47a-41f7-8967-0a61aa43d3cb)
+![image](https://github.com/user-attachments/assets/d346cc62-5cb1-49c8-8e83-4213abe771e2)
+![image](https://github.com/user-attachments/assets/126233f9-c8cf-44ba-b9b4-2b210e09e3af)
+![image](https://github.com/user-attachments/assets/3a61b108-a4d2-4fba-aa37-bb4d0b5f01ca)
+![image](https://github.com/user-attachments/assets/cd974804-dedc-4427-a132-baad0b413c93)
+![image](https://github.com/user-attachments/assets/308d8698-ffe4-464e-8e98-33a992b71c55)
+![image](https://github.com/user-attachments/assets/de2d41a1-af75-4c25-978f-42fc8643119f)
+![image](https://github.com/user-attachments/assets/d4f75466-a46e-49cd-8a31-c41bec8684ea)
+![image](https://github.com/user-attachments/assets/3e8fbc0f-c249-46a9-9370-16d46cf85c4f)
+
+* [**VERY IMPORTANT**] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/0409d0e9-3919-47d8-9e66-48bc3ffdca62)
+
+* 3 -> inherent -> **Extreme** word.
+* 3 -> Contradiction.
+
+![image](https://github.com/user-attachments/assets/af3437f6-9b5c-4401-8b47-220a41129072)
+
+* 3 -> Twisted side-track. [**VERY IMPORTANT**]
+* RC - 32 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=HUBsc513inM%3D
+
+![image](https://github.com/user-attachments/assets/27ace4d0-9eb8-4c03-a722-018f98b33162)
+
+* Not opening.
+* RC - 33 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sOgMviuVBeg%3D
+
+![image](https://github.com/user-attachments/assets/13b6a825-9efc-4eb3-94db-3309987d55ad)
+![image](https://github.com/user-attachments/assets/0e8f8642-4b85-4bd8-99ee-e3b4660a5b2f) 
+![image](https://github.com/user-attachments/assets/304d2057-975e-41d1-91b3-f17117dda2d1)
+![image](https://github.com/user-attachments/assets/33ebbea3-805e-44ca-9893-a3579f516977)
+![image](https://github.com/user-attachments/assets/2ba150ea-462c-4069-9971-cb8821f712ed)
+![image](https://github.com/user-attachments/assets/f4f25b57-0c83-4732-8808-1df1de73935d)
+![image](https://github.com/user-attachments/assets/8484305d-8bba-4f78-982a-d972cac2a2dd)
+
+* [**VERY IMPORTANT**] [TRY AGAIN]
+* qualitative -> involving distinctions based on qualities. [Meaning]
+* quantitative -> expressible as a quantity or relating to or susceptible of measurement. [Meaning]
+
+![image](https://github.com/user-attachments/assets/10420915-f7f2-46cc-8209-951899fe0c9e)
+![image](https://github.com/user-attachments/assets/72e39d9b-b028-4942-863d-090a0ca32779)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/43887d32-9354-4c46-b81a-c04d74e6316a)
+![image](https://github.com/user-attachments/assets/e5999792-63ea-42df-aeb5-5cae33bba2df)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/31af8f26-2a15-4436-83d6-171193d98dc3)
+
+* Renaissance -> Rebirth.
+* Signals -> But.
+* cartography -> Usually used for making **maps** -> It is given in quotes in the passage means that it is used as a **metaphor**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ba9a5429-f7ac-427d-bd05-602985bf920d)
+
+* Valid inference -> True. [**IMPORTANT**]
+* 3 -> Broad/Alien.
+* 4 -> Twisted side-tracking.
+* 4 -> minor role -> **Extreme** word.
+
+![image](https://github.com/user-attachments/assets/8add7d20-000b-4665-9f86-75dfe772d9c3)
+![image](https://github.com/user-attachments/assets/b0b651c5-e7d8-4530-9f10-cc86267c0868)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Reasonable inference -> True. [**IMPORTANT**]
+* Except -> False.
+* T * F -> F.
+* We are picking the **trap**. [**IMPORTANT**]
+* Don't assume **alien** always as a **trap**. Read the rest of the **options** first. [**IMPORTANT**]
+* **Individual experience** will be **qualitative research** only. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7b9cc261-2058-4208-b924-14626b3ed57f)
+
+* Inferred -> True. [**IMPORTANT**]
+* 3 -> Intentional -> Tone-mismatch.
+
+![image](https://github.com/user-attachments/assets/1960bc86-e95e-46ad-878a-e543bb4bc4d8)
+
+* 2 -> Twisted Side-track.
+* 2 -> Ignoring -> **Rotten** word.
+
+* RC - 34 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=jiqc4zkgh2M%3D
 
 
 
