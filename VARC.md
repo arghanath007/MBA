@@ -8525,6 +8525,8 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=M%20YsHt
 * Link -> 
 https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=jiqc4zkgh2M%3D
 
+![image](https://github.com/user-attachments/assets/0c9127e5-5178-4ec4-836d-9541eddc4a02)
+![image](https://github.com/user-attachments/assets/6741a9e5-67ea-4b04-80fa-605aa75559df)
 ![image](https://github.com/user-attachments/assets/d4227eea-d587-40a3-bbd2-405809ac30e4)
 ![image](https://github.com/user-attachments/assets/d6d7445c-5639-41ee-aa43-a7db0dc93308)
 ![image](https://github.com/user-attachments/assets/fda27cef-9fb6-4932-9706-59b50c7659c9)
@@ -8544,6 +8546,38 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=jiqc4zkg
 ![image](https://github.com/user-attachments/assets/43fea637-07cd-4295-aa4a-f8429f3966f1)
 
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Signal -> However.
+
+![image](https://github.com/user-attachments/assets/290e084b-cc51-4993-8746-d0c275043558)
+![image](https://github.com/user-attachments/assets/f21a9e75-9cb8-4d29-92b4-e0010268f1fa)
+
+* We are seeing which is not aligned from the passage.
+* 4 -> Not an **assumption**.
+
+![image](https://github.com/user-attachments/assets/f1cb4c06-6fef-4c80-bc7f-176c83f77833)
+
+* predisposed -> made susceptible. [Meaning]
+* apathetic ->  showing little or no emotion or animation -> marked by a lack of interest. [Meaning]
+
+![image](https://github.com/user-attachments/assets/0a6f5c16-269e-477d-8f71-e2a4500b14cb)
+
+* 1 -> Alien.
+* punitive -> inflicting punishment -> punishment. [Meaning]
+* 4 -> hardly any -> almost none -> very close to zero(0). [Meaning]
+
+![image](https://github.com/user-attachments/assets/c7c9425b-37e7-4aed-91aa-a9f8c442d164)
+
+* 4 -> Alien.
+
+
+
+
+
+
+
+
+
+
 
 
 
