@@ -8572,12 +8572,27 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=jiqc4zkg
 * Link -> 
 https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IZeMYCVhYC8%3D
 
+![image](https://github.com/user-attachments/assets/bda8bf15-701c-43ce-a3ea-c2c87d2eda4d)
+![image](https://github.com/user-attachments/assets/029f48e8-d103-43dc-b4de-d35fba0c28f5)
+![image](https://github.com/user-attachments/assets/a009d27f-b3b1-40c3-97d4-16ded437caf5)
+![image](https://github.com/user-attachments/assets/4e7fb771-aff5-4027-939c-96ec8a18f4f3)
+![image](https://github.com/user-attachments/assets/f5512967-c64e-4b49-8181-eb57fd81d529)
+![image](https://github.com/user-attachments/assets/b7ed2b1f-0a46-4a95-bdb8-9d7a1c1d1d78)
+![image](https://github.com/user-attachments/assets/c00442d5-37c2-4579-884a-25529a43a2ea)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* underscore -> give extra weight to (a communication) -> draw a line or lines underneath to call attention to ->  line drawn underneath (especially under written matter). [Meaning]
 
+![image](https://github.com/user-attachments/assets/684fe73e-8011-462d-af45-fde90406dd90)
+![image](https://github.com/user-attachments/assets/67f4d5a5-b6ef-4025-8b50-3272130338a1)
+![image](https://github.com/user-attachments/assets/dab9e5c5-f2ee-4902-b72d-ea3a9da616d9)
+![image](https://github.com/user-attachments/assets/471e6c39-bdb0-4198-bd5c-fe39aa9f54df)
+![image](https://github.com/user-attachments/assets/c3f17749-4778-424f-a957-598cdca9f365)
+![image](https://github.com/user-attachments/assets/69512cc1-28f2-4cdd-a9f7-5bb9b70761d3)
+![image](https://github.com/user-attachments/assets/91bfac7b-8aad-452d-9f3f-a64362ced3b9)
+![image](https://github.com/user-attachments/assets/bcb88670-a3a0-4dd4-97f8-c2bb9cb1e6af)
 
-
-
-
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
 
 
