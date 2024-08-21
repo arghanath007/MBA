@@ -8568,7 +8568,9 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=jiqc4zkg
 ![image](https://github.com/user-attachments/assets/c7c9425b-37e7-4aed-91aa-a9f8c442d164)
 
 * 4 -> Alien.
-
+* RC - 35 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IZeMYCVhYC8%3D
 
 
 
