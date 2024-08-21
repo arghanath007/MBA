@@ -8378,6 +8378,62 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=M%20YsHt
 * RC - 30 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=owcd0btjLHU%3D
 
+![image](https://github.com/user-attachments/assets/4cf1e70a-607b-48d8-9f97-cbd8b33a8ebd)
+![image](https://github.com/user-attachments/assets/f1e135bc-773c-4801-9eb4-371f9e1fb788)
+![image](https://github.com/user-attachments/assets/27cd3408-f71b-408a-9032-ba8af29ea4c8)
+![image](https://github.com/user-attachments/assets/75958862-b162-4044-9325-e409fda11bfa)
+![image](https://github.com/user-attachments/assets/cb862a0c-d405-42be-ad26-5392e068f2bd)
+![image](https://github.com/user-attachments/assets/45e8b6cd-6c48-471d-b8a9-53773d10ea89)
+![image](https://github.com/user-attachments/assets/ba1fd070-7cd4-4ebb-8882-0ae475b22853)
+![image](https://github.com/user-attachments/assets/48b4ab1d-7cf3-42ea-b2cc-bd6600709a3d)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/9b603731-a6e2-48cf-af7c-66616ec387e7)
+![image](https://github.com/user-attachments/assets/375d9ce8-f36b-421a-a619-4c191ff9080c)
+![image](https://github.com/user-attachments/assets/7fb8219c-ea10-4268-9ee3-a8e20fd0e078)
+![image](https://github.com/user-attachments/assets/0e15b4d7-c23a-4922-9ec8-b96c45ca61e0)
+![image](https://github.com/user-attachments/assets/679132da-7601-4f7a-9b72-950479742caa)
+![image](https://github.com/user-attachments/assets/0a3e6374-a123-40ea-8bf0-ecdb2712e627)
+
+* 1 -> Contradiction/Alien.
+* 2 -> Side-track.
+* 3 -> Alien.
+
+![image](https://github.com/user-attachments/assets/49b3a43d-11e6-4a65-a11f-e45c3d0c5dcc)
+
+* We have to act on the **trap**.
+* 2 -> Twisted Side-track.
+
+![image](https://github.com/user-attachments/assets/6b6043cb-9a4a-4ddb-8a8f-7673684560c3)
+
+* Inferred -> True.
+* Except -> False.
+* T * F = F.
+* 1 -> Primarily -> **Extreme** word.
+* 1 -> Definitive.
+
+![image](https://github.com/user-attachments/assets/589348b4-2ce4-4a0c-8440-8d280bd9a23a)
+
+* 1 -> It is not just about **historical modifications** but **why** it happened.
+* 1 -> historical -> **rotten/alien** word.
+* 2,4 -> Side-track.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
