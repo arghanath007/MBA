@@ -8597,6 +8597,8 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IZeMYCVh
 * Link -> 
 https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p28Wk%3D
 
+![image](https://github.com/user-attachments/assets/93778efc-4b51-4ba3-8c05-ef754bf30de7)
+![image](https://github.com/user-attachments/assets/086657d6-20c1-436e-ac9d-30d053681f7f)
 ![image](https://github.com/user-attachments/assets/3cfeff93-d8d1-44bb-9d86-7b86893ba942)
 ![image](https://github.com/user-attachments/assets/e2d1e01d-1ebe-492d-abef-9fc74cab828f)
 ![image](https://github.com/user-attachments/assets/49bd0fdd-85a8-4b1e-9bc8-8d5c37c44c6a)
@@ -8620,6 +8622,43 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/4344b127-0954-4003-b2b5-942ad8578704)
 
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/2103f7ad-a2c8-49b2-99d2-90c9792fa91f)
+
+* causally-> cause and effect. 
+
+![image](https://github.com/user-attachments/assets/28569b54-4a58-4a1c-88cd-ed4f88bc677d)
+
+* 1,2,4 -> Moral typecasting exists.
+
+![image](https://github.com/user-attachments/assets/bc7f1006-4dd1-4620-8bb4-2fe61f042d52)
+
+* Least depth -> weaken. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d8881d31-0bc7-4923-b2e5-a6c7fa15acc5)
+
+* poly -> multiple. [Meaning]
+* mono -> single. [Meaning]
+* theist/theists -> god -> one who believes in the existence of a god or gods. [Meaning]
+* positing -> claiming. [Meaning]
+
+![image](https://github.com/user-attachments/assets/94e601e8-9ba0-4e76-8943-ecf92106b230)
+![image](https://github.com/user-attachments/assets/a5d96f30-2968-4cd5-a82d-da97756c1087)
+
+* RC - 37 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=qGN7hYGDOys%3D
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
