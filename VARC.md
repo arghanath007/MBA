@@ -8593,7 +8593,9 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=IZeMYCVh
 ![image](https://github.com/user-attachments/assets/bcb88670-a3a0-4dd4-97f8-c2bb9cb1e6af)
 
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
-
+* RC - 36 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> 
+https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p28Wk%3D
 
 
 
