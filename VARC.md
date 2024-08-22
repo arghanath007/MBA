@@ -8715,7 +8715,7 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=JL1wtQbaZFs%3D
 
 ![image](https://github.com/user-attachments/assets/3625f101-9ce2-48e5-bcd4-caff23fa19fe)
-
+![image](https://github.com/user-attachments/assets/01485cec-4a78-4108-aeb0-efa597b3080f)
 ![image](https://github.com/user-attachments/assets/7a774953-89df-4285-b3c2-3a8a33d57efd)
 ![image](https://github.com/user-attachments/assets/110683ab-d0de-40f8-aab5-c69c5592f380)
 ![image](https://github.com/user-attachments/assets/64d3151d-f597-48e3-bec4-38e9512f0fb1)
@@ -8736,24 +8736,39 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/272c3e16-ae07-4ac4-8c9a-5095e5d465f7)
 ![image](https://github.com/user-attachments/assets/1f875187-b9cd-4d33-9987-9229456d1530)
 
+* anthro -> human. [Meaning]
+* anthropogenic -> human created. [Meaning]
+* presuppose -> assumes. [Meaning]
+* neoliberal -> having or showing belief in the need for economic growth in addition to traditional liberalistic values. [Meaning]
+* Signal -> Yet.
+* unsettle -> challenge. [Meaning]
+* Afro -> African people. [Meaning]
+* diaspora -> the dispersion or spreading of something that was originally localized (as a people or language or culture). [Meaning]
 
+![image](https://github.com/user-attachments/assets/17127fa6-c0e8-4ae0-8324-83960cff0224)
+![image](https://github.com/user-attachments/assets/3046a886-8cce-4016-a8be-60b065a148ce)
 
+* 1 -> Twisted side-track.
+* Intends -> purpose.
+* 4 -> Broad.
 
+![image](https://github.com/user-attachments/assets/ec48f348-86ee-47ad-aeb9-fe2995f1147c)
 
+* 1 -> Tone mismatch.
+* 2 -> Too narrow.
+* 4 -> Side-track.
 
+![image](https://github.com/user-attachments/assets/282800b5-bf6b-4e8c-ab30-f9db4450f53a)
 
+* 2,3 -> Suicide.
+* 4 -> Narrow.
 
+![image](https://github.com/user-attachments/assets/e7ae5c8d-5e34-4427-a7ac-ca836b0098c4)
 
-
-
-
-
-
-
-
-
-
-
+* 2 -> Narrow.
+* 3,4 -> Suicide.
+* RC - 39 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=GE%2FELaBVl9g%3D&
 
 
 
