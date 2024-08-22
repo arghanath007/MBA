@@ -8821,13 +8821,16 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 
 ![image](https://github.com/user-attachments/assets/de250036-3e8a-4736-b301-53124a151f27)
 ![image](https://github.com/user-attachments/assets/43541683-3a19-4912-a7f1-ca43689c2689)
+![image](https://github.com/user-attachments/assets/f15d7749-5b38-4988-9917-bcbc13e45913)
 
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * undermine -> weaken.
 * 1 -> irrelevant.
 * irrelevant -> having no bearing on or connection with the subject at issue. [Meaning]
 * 3 -> Absolutely attacks the **passage**.
-* 4 -> Correct but '3' is better.
+* 1,2,4 -> Seem to attack the passage. Put some doubt.
+* 1,2 -> Not really seem to attacks the **passage**.
+* **If True** -> In this **type of questions**, **keep reading**. Good idea to read all of the **options** before marking any of the options. [**VERY IMPORTANT**]
 
 
 
