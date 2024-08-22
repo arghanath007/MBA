@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/user-attachments/assets/1aee3bd8-6908-4228-b3d0-117c8f1b1cb0)# VARC
 
 # Rodha 
 
@@ -8832,13 +8832,45 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * 1,2 -> Not really seem to attacks the **passage**.
 * **If True** -> In this **type of questions**, **keep reading**. Good idea to read all of the **options** before marking any of the options. [**VERY IMPORTANT**]
 
+* RC - 40 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=mhfwDeI8v4U%3D&
 
+![image](https://github.com/user-attachments/assets/5b0d7b28-38f6-4386-ae73-c473c1eadcb5)
+![image](https://github.com/user-attachments/assets/8d8da8cb-6bb4-4d65-8157-e0408c334b14)
 
+* Ethology -> Animal Behaviour. [Meaning]
 
+![image](https://github.com/user-attachments/assets/baf01810-43b6-4096-a21d-cfb24539c279)
+![image](https://github.com/user-attachments/assets/11941e27-af05-4837-b27a-0751f74d8ff3)
+![image](https://github.com/user-attachments/assets/5668c6e2-e9f5-46d4-8c24-8d74857a5511)
+![image](https://github.com/user-attachments/assets/e7650f84-db45-45fc-975d-370d4ab49c6c)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/db42090a-c9b2-41ab-a6ab-de814fc403ac)
+![image](https://github.com/user-attachments/assets/62873a2a-1b65-4f98-8299-273a3436f79a)
+![image](https://github.com/user-attachments/assets/6089210d-0bc8-43bd-b351-7896c08aca99)
+![image](https://github.com/user-attachments/assets/3805dfea-bb72-42fc-a439-2a6255a47eaf)
+![image](https://github.com/user-attachments/assets/ceff7b98-f70d-46b8-a77e-75b8a3980ba6)
+![image](https://github.com/user-attachments/assets/625ed750-babe-48c3-852f-946d3d60f124)
+![image](https://github.com/user-attachments/assets/2283954f-13ef-4413-81db-c1f6ea37b672)
+![image](https://github.com/user-attachments/assets/48ba0a13-58fb-4116-acfd-bb9892c40c1c)
+![image](https://github.com/user-attachments/assets/63621b13-cfaa-4d50-99f0-89187c27d6c4)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Affiliative -> bonds/emotion based behaviour. [Meaning]
+* affiliate -> keep company with; hang out with. [Meaning]
+* affiliation -> the act of becoming formally connected or joined -> a social or business relationship. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/d4e991fa-af92-411d-9c71-0a19fa612f44)
+![image](https://github.com/user-attachments/assets/5836ebd0-eeb9-43b4-9ff7-720bae40584a)
+![image](https://github.com/user-attachments/assets/39da1457-ddba-4cf4-ab53-06af3f8d1b38)
+
+* 1,2,4 -> side-tracking.
+
+![image](https://github.com/user-attachments/assets/0eeda2a4-8fd3-4229-872b-5fb5d2810d01)
+![image](https://github.com/user-attachments/assets/b75838e3-10dc-4890-8a16-50434d2092d0)
+![image](https://github.com/user-attachments/assets/82428993-d9fe-4a5d-b6c2-a5d72982d4a4)
 
 
 
