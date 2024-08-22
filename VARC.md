@@ -8796,7 +8796,7 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * communal -> for or by a group rather than individuals -> relating to a small administrative district or community. [Meaning]
 * flux -> constant change -> a flow or discharge -> always changing.[Meaning]
 * Like forklore, philosophy is in a **flux**.
-* Atomistic ->
+* Atomistic -> 
 
 
 
