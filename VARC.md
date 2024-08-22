@@ -8770,6 +8770,39 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * RC - 39 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=GE%2FELaBVl9g%3D&
 
+![image](https://github.com/user-attachments/assets/eeac9ccb-bb69-4b06-a8f1-a095fdff7a87)
+![image](https://github.com/user-attachments/assets/6018faca-04da-4c7b-9e83-d1e5dc5b6805)
+![image](https://github.com/user-attachments/assets/a813be3f-c2da-4201-9e03-2456a7fe9249)
+![image](https://github.com/user-attachments/assets/2122da19-22f1-4874-9e76-63be322c1179)
+![image](https://github.com/user-attachments/assets/1d345d17-50ac-4a3b-a1f2-87d2c4379979)
+![image](https://github.com/user-attachments/assets/ef5191c7-d60e-4348-8693-c2b48f7e1d13)
+![image](https://github.com/user-attachments/assets/9c1d72c6-3c89-4783-8034-705f4e3efde0)
+![image](https://github.com/user-attachments/assets/b356e87e-36c4-4c27-9533-244c41cc352b)
+![image](https://github.com/user-attachments/assets/8300c3c5-caf9-4ebc-926a-3b615a7bf11c)
+![image](https://github.com/user-attachments/assets/6c811cf8-496e-48e3-9b32-9e144a2073e8)
+![image](https://github.com/user-attachments/assets/d288716e-98e1-4a51-8ec5-e0cadddd55bb)
+![image](https://github.com/user-attachments/assets/7cbffc1d-8c4d-44e8-a16f-4165198761a5)
+![image](https://github.com/user-attachments/assets/a0a0ef77-cb69-4f0c-bfaf-50e6e4b53647)
+![image](https://github.com/user-attachments/assets/06cd46e0-da46-4aa0-ad54-42d0440d8bcf)
+![image](https://github.com/user-attachments/assets/09522066-39a8-46c5-b05b-ab1947a6df65)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/e7408cec-5313-4469-b63e-146282c14846)
+![image](https://github.com/user-attachments/assets/2269601a-bcc2-4109-8608-2f79c7dfb2be)
+
+* Folklore -> wider view/viewpoint.
+* embellish -> add details to -> make more attractive by adding ornament, color, etc. [Meaning]
+* communal -> for or by a group rather than individuals -> relating to a small administrative district or community. [Meaning]
+* flux -> constant change -> a flow or discharge -> always changing.[Meaning]
+* Like forklore, philosophy is in a **flux**.
+* Atomistic ->
+
+
+
+
+
+
 
 
 
