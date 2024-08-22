@@ -8714,6 +8714,8 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * RC - 38 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=JL1wtQbaZFs%3D
 
+![image](https://github.com/user-attachments/assets/3625f101-9ce2-48e5-bcd4-caff23fa19fe)
+
 ![image](https://github.com/user-attachments/assets/7a774953-89df-4285-b3c2-3a8a33d57efd)
 ![image](https://github.com/user-attachments/assets/110683ab-d0de-40f8-aab5-c69c5592f380)
 ![image](https://github.com/user-attachments/assets/64d3151d-f597-48e3-bec4-38e9512f0fb1)
@@ -8733,6 +8735,28 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/bce3a796-f771-48ba-b03f-909ac4725ea7)
 ![image](https://github.com/user-attachments/assets/272c3e16-ae07-4ac4-8c9a-5095e5d465f7)
 ![image](https://github.com/user-attachments/assets/1f875187-b9cd-4d33-9987-9229456d1530)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
