@@ -8796,15 +8796,25 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * communal -> for or by a group rather than individuals -> relating to a small administrative district or community. [Meaning]
 * flux -> constant change -> a flow or discharge -> always changing.[Meaning]
 * Like forklore, philosophy is in a **flux**.
-* Atomistic -> 
+* Atomistic -> Individualistic. [Meaning]
+* Individualistic -> marked by or expressing individuality. [Meaning]
+
+![image](https://github.com/user-attachments/assets/ad50b5f2-11a6-48c1-9a2f-1f44d4ed82a0)
+![image](https://github.com/user-attachments/assets/0068fde1-4daa-4111-a462-b638039217ef)
+
+* 3,4 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/07d5f060-e44b-4a46-a935-242fdde3210d)
+
+* 1,3 -> Suicide.
+* 4 -> Twisteed side-track.
+* 4 -> needs -> **Extreme** word.
+* keyword/hero -> collaboration/collectivily.
+* 4 -> hero -> genious.
 
 
 
-
-
-
-
-
+* 4 -> Within folklore we will find philosophy.
 
 
 
