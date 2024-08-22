@@ -8648,19 +8648,71 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * RC - 37 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=qGN7hYGDOys%3D
 
+![image](https://github.com/user-attachments/assets/4d5c9231-3549-4ae7-bd05-30b4984131cb)
 
+* Author agreement question. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/41f71fa2-1a2e-4203-abe0-ebe4c65f0d89)
+![image](https://github.com/user-attachments/assets/7ada6143-a696-4f74-9bcf-65e6ffe285b0)
+![image](https://github.com/user-attachments/assets/e8050721-f79f-483a-9e62-b40792a1b6c8)
+![image](https://github.com/user-attachments/assets/579d0db4-117f-4d99-8d27-60c4c22767aa)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/9bc90f5e-0837-444e-8c6b-2e4a8a17b95d)
+![image](https://github.com/user-attachments/assets/19c37908-8af8-44fa-bcaa-873823cf5f57)
+![image](https://github.com/user-attachments/assets/473695cc-62e7-4f72-b315-19ef2dce10eb)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/78bd0220-788b-4b84-8e7c-22850c8f4468)
+![image](https://github.com/user-attachments/assets/7c22c478-a05d-4349-b5e0-24e2c7480365)
+![image](https://github.com/user-attachments/assets/6edb7dfb-dc40-4dfc-bceb-fcedacb00217)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/1b212b26-18e1-4803-bff6-f2977485a906)
+![image](https://github.com/user-attachments/assets/0d425c6c-a60c-4202-9f02-51ebce8af62d)
+![image](https://github.com/user-attachments/assets/666548ec-c339-4c2d-8b15-b0d0065e61bd)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* conservative -> resistant to change -> conforming to the standards and conventions of the middle class -> unimaginatively conventional -> a person who is reluctant to accept changes and new ideas -> having social or political views favoring conservatism. [Meaning]
+* 1st idea -> They are trying to make **time** independent outside of the **world**. Precision, not connected to anything in **nature**.
+* 1st idea -> More relational and connected to **nature**.
 
+![image](https://github.com/user-attachments/assets/368c166b-4b40-490a-8b69-4b9bf9c29fc6)
+![image](https://github.com/user-attachments/assets/d1a36830-bd21-44af-9847-ae99adaa9633)
 
+* Agree -> True. [**VERY IMPORTANT**] [Formula]
+* Disagree -> False/contradiction. [**VERY IMPORTANT**] [Formula]
+* Don't know -> BEAST -> uncertain. [**VERY IMPORTANT**] [Formula]
+* Likely Agree -> True. [**VERY IMPORTANT**] [Formula]
+* 1 -> Author will **disagree**.
+* 3 -> Author will **disagree** -> Contradiction.
+* 4 -> Side-track.
 
+![image](https://github.com/user-attachments/assets/bcf289bd-0417-4e7d-b747-def93d56dd84)
 
+* 1,2,3 -> Aligned with the passage -> **True** statement.
+* 4 -> Undesirable -> Tone-mismatch -> negative tone -> False.
+* The tone of 5th paragraph is pretty **positivee**.
+
+![image](https://github.com/user-attachments/assets/175d0f50-0e64-44fc-945d-0250b02d1506)
+
+* Except -> False. [**VERY IMPORTANT**] [Formula]
+* Time:- Nature -> Precision. 
+* Nature -> Observable phenomenon.
+* Precision -> detached concept.
+* 1 -> It is **opposite** to the passage -> Contradiction.
+
+![image](https://github.com/user-attachments/assets/7fa8cd3e-5621-4bf6-81b5-fabd912e3ca9)
+
+* least -> likely false -> Contradiction. [**VERY IMPORTANT**] [Formula]
+* 4 -> sceptical -> false. 
+* True -> Author will **agree**. [**VERY IMPORTANT**] [Formula]
+* False -> Author will **disagree**. [**VERY IMPORTANT**] [Formula]
+* RC - 38 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=JL1wtQbaZFs%3D
 
 
 
