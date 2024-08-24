@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/user-attachments/assets/04c22d27-6996-406a-bf3f-446776c94674)# VARC
 
 * Ability to read the passage -> Understand the **key-ideas** -> Nail the questions -> Move on. [**VERY VERY IMPORTANT**] [Formula] [Practice]
 
@@ -7208,6 +7208,10 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ![image](https://github.com/user-attachments/assets/509e304a-ae5d-4388-bc62-1fbe2077c122)
 
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=MkRvXQ6JKlg%3D&
+* [CAD-5]
+* Done again on RC - 42. [**VERY IMPORTANT**]
+
 ### Article 15
 
 * [**VERY IMPORTANT**] [Practice Again]
@@ -7486,8 +7490,9 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 ![image](https://github.com/user-attachments/assets/5c7b1519-9fee-4f21-a95a-251c8a7f6b62)
 ![image](https://github.com/user-attachments/assets/92ece9bd-43c3-456a-a18d-6a9afaf2750f)
 
-* RC - 3 [**VERY IMPORTANT**] [TRY AGAIN]
+* RC - 3 [**VERY IMPORTANT**] [TRY AGAIN][CAD-1]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sNsCNpUOx8o%3D$
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sNsCNpUOx8o%3D&
 
 ![image](https://github.com/user-attachments/assets/e1acb4e6-cc5a-4343-a4d1-70e8e8f96612)
 ![image](https://github.com/user-attachments/assets/a58ff314-c8e6-4e64-a99e-85e928bbbd33)
@@ -7515,8 +7520,9 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 ![image](https://github.com/user-attachments/assets/cedc07c7-9013-4d70-b1bb-1fd3221c1be7)
 ![image](https://github.com/user-attachments/assets/4f01b77a-6a38-40b3-9d5e-3828ef975e30)
 
-* RC - 4 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 4 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD-2]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=oQ02XlvP2gU%3D$
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=oQ02XlvP2gU%3D&
 
 ![image](https://github.com/user-attachments/assets/0822f996-89c1-4fb6-ba75-8fb633caeb8a)
 ![image](https://github.com/user-attachments/assets/2d0f45be-ed57-45fb-96b6-4aeae5bcc22b)
@@ -7586,7 +7592,9 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 * RC - 6 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sarhCUFELxo%3D&
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sarhCUFELxo%3D$
 
+![image](https://github.com/user-attachments/assets/50f0c12c-b3df-426f-bf3d-edde8df86676)
 ![image](https://github.com/user-attachments/assets/c6dd8ff5-ab17-4e62-9710-612dbf98564e)
 ![image](https://github.com/user-attachments/assets/14d03a3a-e091-41ec-ba07-c489bd703dc5)
 
@@ -8088,7 +8096,7 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ![image](https://github.com/user-attachments/assets/d604118e-6758-42a6-9911-264bf0e1a106)
 
-* RC - 19 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 19 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD -4]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ph%2FBS3VFm0Y%3D&userId=7649112
 
 ![image](https://github.com/user-attachments/assets/8f6a4354-fdd6-4656-a2da-ec68f416a4d9)
@@ -8107,7 +8115,7 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 ![image](https://github.com/user-attachments/assets/16d2a1a6-d820-4b12-a3a1-83079221b5be)
 
 * Explaination. [**VERY IMPORTANT**] [Practice Again]
-* RC - 20 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* RC - 20 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD-3]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=onOaU3zIJGs%3D$
 
 ![image](https://github.com/user-attachments/assets/dcd2efad-02b8-4868-be27-1c4b4d2f5ce0)
@@ -9036,10 +9044,46 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * 1 -> negative.
 * 3 -> positive.
 
-* RC - 42 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
-* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sarhCUFELxo%3D$
+* RC - 42 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD-5]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=MkRvXQ6JKlg%3D&
 
-![image](https://github.com/user-attachments/assets/50f0c12c-b3df-426f-bf3d-edde8df86676)
+![image](https://github.com/user-attachments/assets/1138f710-fc3a-4460-8126-ce8383add235)
+![image](https://github.com/user-attachments/assets/5aa5c910-e64e-4252-a8fe-764a43f9100a)
+![image](https://github.com/user-attachments/assets/818ab3f4-9cb6-4006-b680-b0c703ca1c7d)
+
+* Key ideas of each paragraph.
+
+![image](https://github.com/user-attachments/assets/cefa561b-0019-4b85-80ac-c924475495d5)
+![image](https://github.com/user-attachments/assets/2992fde6-5244-4af4-ac0a-19dcb93f2e6d)
+
+* Story of philosophy. [**IMPORTANT**]
+* epistemology -> the philosophical theory of knowledge. [Meaning]
+
+![image](https://github.com/user-attachments/assets/1957d4a4-f425-4010-b0c7-ba120bcc87d5)
+![image](https://github.com/user-attachments/assets/cff646dc-4d60-47c0-b151-abf340a001dd)
+![image](https://github.com/user-attachments/assets/2ced4ab8-fde7-4acb-ab52-57e0ae3b56a9)
+
+* dogma -> It cannot be changed -> No changing. [Meaning]
+* dogmatism -> Regularities. [Meaning]
+
+![image](https://github.com/user-attachments/assets/14cc5ee1-1cb4-4dce-bde5-6069f40a1905)
+![image](https://github.com/user-attachments/assets/ba3a1944-7088-4955-8dea-354ef1a0ece4)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN
+* RC - 43 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD-6]
+* Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=rOt8Hkyr6zc%3D&
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
