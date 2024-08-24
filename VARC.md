@@ -8872,13 +8872,77 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/b75838e3-10dc-4890-8a16-50434d2092d0)
 ![image](https://github.com/user-attachments/assets/82428993-d9fe-4a5d-b6c2-a5d72982d4a4)
 
+* RC - 41 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=xddCUdvh%20Fs%3D$
 
+![image](https://github.com/user-attachments/assets/c3350b33-aadf-4e59-82ee-cc0c40c4db1f)
+![image](https://github.com/user-attachments/assets/cf7355f2-fd3d-4454-b172-0f782d1840b3)
+![image](https://github.com/user-attachments/assets/8a9b1739-b9e3-4a70-a2d9-12c69c1242cb)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/857233c9-b251-4d49-b726-61598870fdfd)
+![image](https://github.com/user-attachments/assets/2f6218de-134b-4cbc-8d85-a7d793b0b1fb)
+![image](https://github.com/user-attachments/assets/430e89d2-3590-429c-96f7-9c7051276ba1)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/8ba8d3da-fc63-4302-99e9-591cb9b97e93)
+![image](https://github.com/user-attachments/assets/63d65594-5837-4938-8e7d-eb136292cedf)
+![image](https://github.com/user-attachments/assets/b88bf993-5ff8-4d29-90d1-9618787de677)
 
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
+![image](https://github.com/user-attachments/assets/5475bc17-89ef-438a-9114-c07a8cb60e8a)
+![image](https://github.com/user-attachments/assets/b5ec96ab-d255-4f76-8c04-d7b169b5c0b0)
+![image](https://github.com/user-attachments/assets/e40016bb-0020-4d16-98f9-58ff97bc2104)
+![image](https://github.com/user-attachments/assets/1900a004-b6c6-4696-900e-1bc96055271d)
+![image](https://github.com/user-attachments/assets/b1863cb2-caba-4447-a71a-4276baed49ed)
+![image](https://github.com/user-attachments/assets/e0f0d4c4-7bc2-4499-bbb2-ab408df3492b)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/c5ecf00c-bea3-426c-a1ae-dcdbe442c378)
+![image](https://github.com/user-attachments/assets/1fbd82c5-4458-4d97-b359-4007e7148071)
+![image](https://github.com/user-attachments/assets/f40493ca-3ca5-4144-afee-10e9e52d58aa)
+![image](https://github.com/user-attachments/assets/57920513-ba9b-4d91-9ee7-ed06b7d8cb27)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/096f5c42-118a-4b3e-bb58-e80e61864b6f)
+![image](https://github.com/user-attachments/assets/1dd21d9e-2b93-4051-91f3-e32aa625d293)
+![image](https://github.com/user-attachments/assets/71d4dc28-cb3d-48ff-b812-d0b77ae9f050)
+![image](https://github.com/user-attachments/assets/ed92d5a3-bbf2-4a61-a827-8d0b4aa25dce)
+![image](https://github.com/user-attachments/assets/28c6d046-17c6-4c94-b936-90794164d14e)
+![image](https://github.com/user-attachments/assets/fc20b49e-8556-47fa-af3e-2ea37d042426)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/9e26466c-4cfe-47ee-b460-ee5447e673e4)
+![image](https://github.com/user-attachments/assets/91f098fc-8a75-433a-a13d-cdfad2c8da41)
+![image](https://github.com/user-attachments/assets/cde2a2aa-0947-4b16-bc51-7ad170ef0015)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+
+![image](https://github.com/user-attachments/assets/a417c2e1-c316-49b9-9531-1abf0b0ebac6)
+![image](https://github.com/user-attachments/assets/fd685285-c612-4a3e-8d22-488616809ff6)
+![image](https://github.com/user-attachments/assets/03082669-8a50-4d90-a1d3-fe0f4e4d3e59)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Para Completion(PC).
+
+![image](https://github.com/user-attachments/assets/8b574c20-0086-4c6d-ace3-9de5e18dcb84)
+![image](https://github.com/user-attachments/assets/951531f8-5160-4ccb-b3bb-724a0de36af5)
+![image](https://github.com/user-attachments/assets/01ed8996-764f-4261-92c0-b9b2b1b3b43d)
+
+* Odd Sentence(OS).
+
+![image](https://github.com/user-attachments/assets/6c47658f-bcf2-4b95-862e-3d318f5c8297)
+![image](https://github.com/user-attachments/assets/72270141-9d04-4101-a8bf-9a713426fd2b)
+![image](https://github.com/user-attachments/assets/0b6d5870-a451-4cf5-95a3-0404e40c7fa9)
+
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Sentence Completion(SC).
 
 
 
