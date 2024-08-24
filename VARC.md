@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/1aee3bd8-6908-4228-b3d0-117c8f1b1cb0)# VARC
+# VARC
+
+* Ability to read the passage -> Understand the **key-ideas** -> Nail the questions -> Move on. [**VERY VERY IMPORTANT**] [Formula] [Practice]
 
 # Rodha 
 
@@ -8950,9 +8952,67 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * **1 to 4** questions.
 * Signal -> However.
 
+![image](https://github.com/user-attachments/assets/d3118f7d-fb42-4767-b9d5-7a88cd75fe5a)
+![image](https://github.com/user-attachments/assets/17727a5d-e65d-4d91-a375-89508a3ada0f)
 
+* 2 -> Tone mismatch.
+* 3,4 -> Side-track.
 
+![image](https://github.com/user-attachments/assets/ef35c8c5-da78-43bc-a36e-322046c7bcae)
 
+* 1,3 -> Narrow.
+* 2 -> Tone mismatch.
+
+![image](https://github.com/user-attachments/assets/e8e0135a-5a9b-4a15-a6e4-ee7703b160ba)
+![image](https://github.com/user-attachments/assets/19c75faa-0ebd-454c-a9b9-d52893d37f1f)
+
+* argument -> justification for a particular **conclusion**. [Meaning]
+* main argument ->  main conclusion, main point. [Meaning]
+* 2 -> Side-track.
+* 4 -> Tone mismatch.
+
+* Ability to read the passage -> Understand the **key-ideas** -> Nail the questions -> Move on. [**VERY VERY IMPORTANT**] [Formula] [Practice]
+
+![image](https://github.com/user-attachments/assets/b3b449be-5e27-4f9a-a51e-ad304c64701b)
+![image](https://github.com/user-attachments/assets/e88ef5a5-aadb-46cc-a56d-c14383221592)
+
+* **5 to 8** questions.
+
+![image](https://github.com/user-attachments/assets/4e7e3e43-c329-4ca7-842e-3d709c99202b)
+![image](https://github.com/user-attachments/assets/1a62cf33-c5ef-4112-998f-d36acf7c854e)
+
+* antithetical -> sharply contrasted in character or purpose. [Meaning]
+* efficacious -> marked by qualities giving the power to produce an intended effect. [Meaning]
+* 2 -> False -> Fighting against the passage.
+* 1,3,4 -> Is not fighting against the passage.
+
+![image](https://github.com/user-attachments/assets/2c1effb8-7b80-402a-b1f7-64d8b1607e3f)
+
+* Weaken -> False. [Meaning]
+* Which option is not aligned with the passage.
+* core argument(CB) -> analytic and intitutive thinkingg.
+* We have to attack **CB**.
+* 2 -> Supports -> Pushing the argument on a higher position.
+* 1 -> Doing nothing to the argument.
+* Innate -> inherent -> Born with it -> (of a talent) existing through inherited qualities. [Meaning]
+* inherent -> existing as an essential constituent or characteristic -> build-in. [Meaning]
+* 4 -> Irrelevant.
+* 1 -> relevant.
+* 2 -> Supports.
+* 3 -> Answer.
+
+![image](https://github.com/user-attachments/assets/d0856b7c-3328-4368-803e-c99e04dcb2db)
+![image](https://github.com/user-attachments/assets/282bfafe-ac23-4405-aca3-25729e61568c)
+
+* 3 -> Alien.
+
+![image](https://github.com/user-attachments/assets/c0b6bca4-929f-42dd-b8db-90abba5ba8ec)
+
+* 3 -> Side-track.
+
+![image](https://github.com/user-attachments/assets/a074a2ba-5bf2-4188-8455-c97afe338d38)
+
+* Elimination -> Flawed/not aligned with the passage. [**VERY VERY IMPORTANT**] [Formula] 
 
 
 
@@ -9010,3 +9070,4 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/3cad46b6-9309-47c4-9222-98a77c752b46)
 ![image](https://github.com/user-attachments/assets/5ec237a7-1658-48d8-adc4-05fb428c0e7b)
 ![image](https://github.com/user-attachments/assets/407ae9ec-e6d1-4a67-8928-14ca972c8296)
+![image](https://github.com/user-attachments/assets/1aee3bd8-6908-4228-b3d0-117c8f1b1cb0)
