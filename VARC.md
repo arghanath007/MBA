@@ -8944,7 +8944,7 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/0b6d5870-a451-4cf5-95a3-0404e40c7fa9)
 
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
-* Sentence Completion(SC).
+* Sentence Placement(SP).
 
 ![image](https://github.com/user-attachments/assets/62e9a0bb-964b-4bd4-a89d-7d5d901d50b4)
 ![image](https://github.com/user-attachments/assets/67071fe4-e18f-4986-99e7-2e5b476f38ad)
@@ -9011,22 +9011,35 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * 3 -> Side-track.
 
 ![image](https://github.com/user-attachments/assets/a074a2ba-5bf2-4188-8455-c97afe338d38)
+![image](https://github.com/user-attachments/assets/799fafb6-f4cd-463b-a95b-6512aa4f9c83)
 
 * Elimination -> Flawed/not aligned with the passage. [**VERY VERY IMPORTANT**] [Formula] 
+* 1 -> many concerns -> broad.
+* The passage is about history of argiculture and developement of humanity. [Logic]
+* 4 -> Narrow.
 
+![image](https://github.com/user-attachments/assets/b31f8de1-00c6-43c7-9b81-723d2ffc64eb)
+![image](https://github.com/user-attachments/assets/88a56cfa-8c34-4abe-a2cf-55c8dae570c8)
 
+* Echo -> nature, experience.
+* this.
+* 2 -> 1.
 
+![image](https://github.com/user-attachments/assets/6d35cd50-5cc8-43e0-aa26-4f6b61d1e110)
+![image](https://github.com/user-attachments/assets/aa0f2363-b37a-41aa-8071-c28184b44b13)
 
+* Answer -> 2.
 
+![image](https://github.com/user-attachments/assets/55e6c222-90ba-421d-8690-e86ce43eec7d)
 
+* But -> contrast.
+* 1 -> negative.
+* 3 -> positive.
 
+* RC - 42 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
+* Link ->  https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=sarhCUFELxo%3D$
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/50f0c12c-b3df-426f-bf3d-edde8df86676)
 
 
 
