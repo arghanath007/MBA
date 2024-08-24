@@ -8944,6 +8944,34 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * Sentence Completion(SC).
 
+![image](https://github.com/user-attachments/assets/62e9a0bb-964b-4bd4-a89d-7d5d901d50b4)
+![image](https://github.com/user-attachments/assets/67071fe4-e18f-4986-99e7-2e5b476f38ad)
+
+* **1 to 4** questions.
+* Signal -> However.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## IMPORTANt
