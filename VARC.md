@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/04c22d27-6996-406a-bf3f-446776c94674)# VARC
+# VARC
 
 * Ability to read the passage -> Understand the **key-ideas** -> Nail the questions -> Move on. [**VERY VERY IMPORTANT**] [Formula] [Practice]
 
@@ -9069,16 +9069,34 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/14cc5ee1-1cb4-4dce-bde5-6069f40a1905)
 ![image](https://github.com/user-attachments/assets/ba3a1944-7088-4955-8dea-354ef1a0ece4)
 
-* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 * RC - 43 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD-6]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=rOt8Hkyr6zc%3D&
 
+![image](https://github.com/user-attachments/assets/69798c78-7e50-41cd-8d3a-f90bdecb6976)
+![image](https://github.com/user-attachments/assets/7bcf9a29-5b6c-4eec-bdd5-d536dbd6aec4)
+![image](https://github.com/user-attachments/assets/6a6f75ab-02de-49a0-a48c-5876a4db3892)
+![image](https://github.com/user-attachments/assets/356c6565-4366-4dfe-a09a-bdca1ca99dad)
+![image](https://github.com/user-attachments/assets/3c4ea475-1553-4e1b-9f49-5aadd228dd8e)
+![image](https://github.com/user-attachments/assets/b570a52f-6357-47bd-bbca-aced62153877)
 
+* imperialism -> a policy of extending your rule over foreign countries. [Meaning]
+* flintstone -> pebbles of flint used in masonry construction. [Meaning]
+* flint -> a hard kind of stone; a form of silica more opaque than chalcedony. [Meaning]
+* guillotine -> instrument of execution that consists of a weighted blade between two vertical poles; used for beheading people. [Meaning]
+* peril ->  a state of danger involving risk. [Meaning]
+* disinterested -> None of my interested is involve -> I am very objective -> unaffected by self-interest. [Meaning]
+* uninterested -> Not interested -> not having or showing a sense of concern or curiosity. [Meaning]
+* statesman -> politicians. [Meaning]
 
+![image](https://github.com/user-attachments/assets/ddf88d38-a4be-40b9-8541-e5c5e651a5db)
+![image](https://github.com/user-attachments/assets/75bb14f8-206a-45eb-9dd2-69841a42ed7f)
+![image](https://github.com/user-attachments/assets/05238b30-1248-4e10-a032-6ab14edc173e)
+![image](https://github.com/user-attachments/assets/bcfd1923-be3e-4a45-a054-e020de6a8a86)
 
-
-
-
+* 5 -> Contradiction.
+* Answer -> 1.
+* [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN]
 
 
 
@@ -9128,3 +9146,4 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/5ec237a7-1658-48d8-adc4-05fb428c0e7b)
 ![image](https://github.com/user-attachments/assets/407ae9ec-e6d1-4a67-8928-14ca972c8296)
 ![image](https://github.com/user-attachments/assets/1aee3bd8-6908-4228-b3d0-117c8f1b1cb0)
+![image](https://github.com/user-attachments/assets/04c22d27-6996-406a-bf3f-446776c94674)
