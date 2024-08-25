@@ -35,7 +35,7 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/830681c0-2c76-458b-b7cf-6d4040224c11)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/df85c40c-ab36-4bdf-8576-ce3deab5d4fd)
 
-## Reading Comprehension(RC) (Part - 1)
+### Reading Comprehension(RC) (Part - 1)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/a517d065-e1e0-4e85-a391-bc8f7982dc9e)
 
@@ -92,7 +92,7 @@
 * Article 1.
 * Humour
 
-## Reading Comprehension(RC) (Part - 2)
+### Reading Comprehension(RC) (Part - 2)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/1dd391da-f667-465b-b0e4-0f0ae95db4c3)
 
@@ -213,7 +213,7 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/6c008fcf-b840-4fcd-a9ed-2084828edf2c)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/d05572b1-0b1d-4219-9511-0877c183ae72)
 
-## RC (Part - 3)
+### RC (Part - 3)
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/9d6b46c7-61c1-40e9-aab8-850d9d479122)
 
@@ -391,7 +391,7 @@
 
 ![image](https://github.com/arghanath007/MBA/assets/54589605/2aa51f00-9e03-4b55-bf7f-f05c7771f2d8)
 
-## RC (Part - 5)
+### RC (Part - 4)
 
 ![image](https://github.com/user-attachments/assets/c2fc3146-666f-44ce-9e41-f6b8943ee8fa)
 
@@ -468,7 +468,7 @@
 
 * Explaination. [**VERY IMPORTANT**]
 
-## RC (Part - 5)
+### RC (Part - 5)
 
 ![image](https://github.com/user-attachments/assets/e139b6cf-2ba7-4c94-a30d-d78146cfcaf8)
 
@@ -529,7 +529,7 @@
 ![image](https://github.com/user-attachments/assets/c494d540-f92a-4df0-856a-f5d51c0ffeed)
 ![image](https://github.com/user-attachments/assets/b1c51d82-4337-497d-bced-44272e2d264e)
 
-## RC (Part - 6)
+### RC (Part - 6)
 
 ![image](https://github.com/user-attachments/assets/c988891f-5007-4b13-877a-a8f7dde87a71)
 
@@ -597,7 +597,7 @@
 * Option **4** is an **out of context** option.
 * Option **3**. [Got wrong] [**VERY IMPORTANT**] 
 
-## RC (Part - 7)
+### RC (Part - 7)
 
 ![image](https://github.com/user-attachments/assets/bf036e3a-dcbd-4b03-8d1f-0fa0fb919a08)
 
