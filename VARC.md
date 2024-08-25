@@ -7413,11 +7413,64 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 9) c [Got wrong] 
 10) b [Got wrong] 
 
-* Underlines -> give extra weight to (a communication) [**very important**]
-* sigma -> a symbol of disgrace or infamy [**very important**]
-* underlie -> lie underneath -> be or form the base for. [Meaning]
+* Underlines -> give extra weight to (a communication) [**very important**] [Meaning]
+* sigma -> a symbol of disgrace or infamy [**very important**] [Meaning]
+* underlie -> lie underneath -> be or form the base for. [Meaning] 
 
 ![image](https://github.com/user-attachments/assets/0c424b1e-1858-4090-b277-d42882c94a43)
+![image](https://github.com/user-attachments/assets/b97446f8-850c-4aeb-a67b-ff71344433ea)
+
+* ethnography -> the branch of anthropology that provides scientific description of individual human societies. [Meaning]
+
+![image](https://github.com/user-attachments/assets/036d09e4-b251-496c-9347-a2593d7b5cba)
+![image](https://github.com/user-attachments/assets/182de40a-51f6-49fb-8d70-f2a21d40fcb8)
+![image](https://github.com/user-attachments/assets/f8500b32-76b0-47d6-a930-9c1d929119e4)
+![image](https://github.com/user-attachments/assets/231b4908-37b0-4165-8542-1536a7b3e8bb)
+
+### Article 24 (CAD -24)
+
+* relativism -> (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved. [Meaning]
+
+* P1 -> 3,4 [Got wrong]
+* P2 -> 8 [Got wrong]
+* P3 -> 10,14
+* P4 -> 15 [Got wrong] 
+* P5 -> 19 [Got wrong]
+* P6 -> 27,28,29
+
+1) a [Got wrong] 
+2) a
+3) b [Got wrong] [**important**]
+4) b 
+5) c
+6) b [Got wrong]
+7) c 
+
+* moot ->  of no legal significance (as having been previously decided) -> open to argument or debate. [Meaning]
+
+![image](https://github.com/user-attachments/assets/18032ae5-6e91-49cb-9f41-6d2780cac0f3)
+
+* Morality.
+
+![image](https://github.com/user-attachments/assets/b10e81ce-45dd-4a24-b2f5-370c8697ee7c)
+
+* apologist -> a person who argues to defend or justify some policy or institution. [Meaning]
+* virtue -> the quality of doing what is right and avoiding what is wrong. [Meaning]
+* vice -> a specific form of evildoing -> moral weakness. [Meaning]
+* Outlier is not the **norm**.
+
+![image](https://github.com/user-attachments/assets/92967953-76fa-4b3f-b4e6-66df6154bdc0)
+![image](https://github.com/user-attachments/assets/b40ce6de-30dc-414a-a4a7-6a750274b942)
+
+
+
+
+
+
+
+
+
+
 
 
 
