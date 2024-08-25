@@ -7487,6 +7487,45 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 * Art.
 
+### Article 26 (CAD -26)
+
+* P1 -> 3,6 [Got wrong]
+* P2 -> 7 [Got wrong]
+* P3 -> 16,21 [Got wrong]
+* P4 -> 25,29
+
+1) a [Got wrong]
+2) a [Got wrong]
+3) b [Got wrong] 
+4) b 
+5) b
+6) a 
+7) c [Got wrong]
+
+![image](https://github.com/user-attachments/assets/89f9db9d-ae75-492c-9c01-0ef98909c378)
+
+* Sartre -> French writer and existentialist philosopher (1905-1980). [Meaning]
+* condemn -> express strong disapproval of. [Meaning]
+
+![image](https://github.com/user-attachments/assets/41a6bea7-7f54-447d-8479-1c1ac584c5e2)
+
+### Article 27 (CAD -27)
+
+![image](https://github.com/user-attachments/assets/1aa24cc3-3c37-4723-b54f-d10935b96bf2)
+
+
+
+### Article 28 (CAD -28)
+
+
+
+
+
+
+
+
+
+
 
 
 
