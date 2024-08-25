@@ -9156,6 +9156,10 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 * RC - 46 [**VERY IMPORTANT**] [Got Wrong] [TRY AGAIN] [CAD-9]
 * Link -> https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=ZPHO%2FPjoS38%3D 
 
+![image](https://github.com/user-attachments/assets/c437a914-ad20-4a7d-8a9e-7ce764ed3b4f)
+![image](https://github.com/user-attachments/assets/21bf2dce-3859-4d79-b3fe-6e1930db4d13)
+![image](https://github.com/user-attachments/assets/5178a36a-cea3-4d3f-a1e3-2fec22059ed9)
+![image](https://github.com/user-attachments/assets/12a2380a-150f-4d31-ac4a-891490b42876)
 
 
 
