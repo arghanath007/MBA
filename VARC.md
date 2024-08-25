@@ -7462,13 +7462,30 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 ![image](https://github.com/user-attachments/assets/92967953-76fa-4b3f-b4e6-66df6154bdc0)
 ![image](https://github.com/user-attachments/assets/b40ce6de-30dc-414a-a4a7-6a750274b942)
 
+### Article 25 (CAD -25)
 
+* P1 -> 1,2 
+* P2 -> 6 
+* P3 -> 8,9 [Got wrong]
+* P4 -> 13 
+* P5 -> 17
+* P6 -> 21,22
 
+1) b 
+2) a [Got wrong]
+3) c 
+4) a [Got wrong]
+5) a
+6) b 
+7) a
+8) c 
 
+* assimilate -> make similar. [Meaning]
 
+![image](https://github.com/user-attachments/assets/152e042a-73f8-4603-9dd3-d6efa74cb671)
+![image](https://github.com/user-attachments/assets/54e7bc89-a3b5-4904-9269-d866be62ce12)
 
-
-
+* Art.
 
 
 
@@ -9257,3 +9274,4 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=Z9I8J8p2
 ![image](https://github.com/user-attachments/assets/407ae9ec-e6d1-4a67-8928-14ca972c8296)
 ![image](https://github.com/user-attachments/assets/1aee3bd8-6908-4228-b3d0-117c8f1b1cb0)
 ![image](https://github.com/user-attachments/assets/04c22d27-6996-406a-bf3f-446776c94674)
+![Uploading image.png…]()
