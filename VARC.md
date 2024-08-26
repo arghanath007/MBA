@@ -7513,7 +7513,18 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ![image](https://github.com/user-attachments/assets/1aa24cc3-3c37-4723-b54f-d10935b96bf2)
 
+* P1 -> 3,4 
+* P2 -> 6 
+* P3 -> 14 [Got wrong]
+* P4 -> 15,17 [Got wrong]
 
+1) a [Got wrong]
+2) b 
+3) c 
+4) a 
+5) c
+
+* Brief -> of short duration or distance. [Meaning]
 
 ### Article 28 (CAD -28)
 
