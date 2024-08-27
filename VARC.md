@@ -7528,7 +7528,16 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 
 ### Article 28 (CAD -28)
 
+* P1 -> 2,3 
+* P2 -> 9 
+* P3 -> 10,14 [Got wrong]
+* P4 -> 18 
 
+1) b
+2) a 
+3) c 
+4) a 
+5) b
 
 
 
