@@ -7573,6 +7573,58 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 * non -> nothing. [Meaning]
 * sine quo non -> Extreme word.
 
+### Article 31 (CAD -31)
+
+* P1 -> 2,3 
+* P2 -> 4 
+* P3 -> 9,13
+* P4 -> 14,16
+* P5 -> 20. [Got wrong]
+
+1) a 
+2) b [Got wrong]
+3) a
+4) b
+5) a [Got wrong]
+
+* foreground -> the part of a scene that is near the viewer. [Meaning]
+
+### Article 32 (CAD -32)
+
+* P1 -> 1,4 [Got wrong]
+* P2 -> 5,10 [Got wrong]
+* P3 -> 11 [Got wrong]
+* P4 -> 16 [Got wrong]
+* P5 -> 22. [Got wrong]
+* P6 -> 28,30. [Got wrong]
+
+1) b 
+2) a [Got wrong]
+3) b
+4) b
+5) b [Got wrong]
+6) c [Got wrong]
+
+
+* endear -> make attractive or lovable. [Meaning]
+
+
+### Article 33 (CAD -33)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
