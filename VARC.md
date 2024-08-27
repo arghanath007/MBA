@@ -7563,11 +7563,15 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 * appropriateness -> the quality of being specially suitable -> appropriate conduct; doing the right thing. [Meaning]
 * analogy -> drawing a comparison in order to show a similarity in some respect. [Meaning]
 
+### Article 30 (CAD -30)
 
+![image](https://github.com/user-attachments/assets/7749ce03-2efa-443b-8fdc-592919ec06e5)
 
-
-
-
+* paradigm ->  a standard or typical example -> the generally accepted perspective of a particular discipline at a given time.  [Meaning]
+* sine -> without. [Meaning]
+* quo -> which. [Meaning]
+* non -> nothing. [Meaning]
+* sine quo non -> Extreme word.
 
 
 
