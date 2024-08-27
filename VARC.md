@@ -7539,12 +7539,29 @@ https://myzone.careerlauncher.com/mba/online/NMATTestValidator.jsp?qset=lSHdrKn1
 4) a 
 5) b
 
+![image](https://github.com/user-attachments/assets/3507af9f-f086-4619-984f-aabf302bb705)
+![image](https://github.com/user-attachments/assets/93ebc032-7d12-4b59-8570-f5d3b1371077)
+
+* topology -> topographic study of a given place (especially the history of the place as indicated by its topography). [Meaning]
+* semantic -> of or relating to meaning or the study of meaning. [Meaning]
+* Author -> We need better definitions. [Logic]
+
+### Article 29 (CAD -29)
+
+* P1 -> 1,6, 15 [Got wrong]
+* P2 -> 19, 27 [Got wrong]
 
 
+1) 3 [Got wrong]
+2) 5 
+3) 1 [Got wrong] 
+4) 4 [Got wrong] 
+5) 5
 
-
-
-
+* apt -> being of striking appropriateness and pertinence. [Meaning]
+* pertinence -> relevance by virtue of being applicable to the matter at hand. [Meaning]
+* appropriateness -> the quality of being specially suitable -> appropriate conduct; doing the right thing. [Meaning]
+* analogy -> drawing a comparison in order to show a similarity in some respect. [Meaning]
 
 
 
