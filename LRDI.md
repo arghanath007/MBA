@@ -4441,11 +4441,170 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 32. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 * Answer -> 156. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/53ade11d-5212-45a7-a6db-16e746482deb)
+![image](https://github.com/user-attachments/assets/c4dd19e2-de8f-4ba2-86ef-423de72b5874)
+![image](https://github.com/user-attachments/assets/20909b9f-69c5-42f8-b6fd-15862ed29130)
 
+* 32. [Question] [Set] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/cfc99dcf-491d-4a83-9981-538ef9580596)
+![image](https://github.com/user-attachments/assets/143c2c95-bcb0-452d-8411-735d0866f14a)
 
+* It has **definite and indefinite** points.
+* **If** points are **indefinite/conditional** points. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* The **fixed** points are called as **definite** points. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* When there is a mix of **definite and indefinite** points then the 1st preference is given to **definite** points and then to **indefinite** points. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* Firstly, we are going to attack the **definite** points. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* We will need a **maxtrix**. 
 
+![image](https://github.com/user-attachments/assets/ceac578c-b0ae-40de-bd38-c6aeb08d2bd8)
+![image](https://github.com/user-attachments/assets/ce5e8ebd-7539-4011-a69f-7f693a2cfa71)
 
+* Don't fix any of the **parameters**. Do the noting down of points in different pages. Table in one page and notes in another page. Don't make it unreadable. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* Our **aim** is to fill the **table** as much as possible to the **maximum**. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* Do it **cleanly**. Don't make a **mess**. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* Read the **question and the puzzle** together only. Don't solve the **puzzle** blindly. [Formula] [**VERY VERY IMPORTANT**] [Practice]
+* First focus will be on **definite** points.
+* Let's leave '1 and 2' points as they are starting with **if** so they are **indefinite** points. We will not waste time on **them**.
+* 20 * 3 = 60.
+
+![image](https://github.com/user-attachments/assets/d1e0d276-993a-4fac-a346-9689afee68d5)
+
+* Avg. age = 161/7 = 23.
+* Avg. weight = 455/7 = 65.
+
+![image](https://github.com/user-attachments/assets/5a121f24-148e-400f-9060-9c626a5610ab)
+![image](https://github.com/user-attachments/assets/60d8f7d8-045b-4bac-afcf-8a5983d0cd9e)
+![image](https://github.com/user-attachments/assets/bfe935b5-c6bd-4023-ba64-c1fe4163bae6)
+![image](https://github.com/user-attachments/assets/2eff126c-6291-4dca-b6e3-8246063e8aee)
+
+* 54 -> 57 -> 60.
+* AP -> +3.
+* 57 -> 67 -> 77.
+* AP -> +10.
+* Patna -> 57 or 67.
+* Let's leave '7 and 8' points as they are starting with **if** so they are **indefinite** points.
+* Weight(W) - Age(A) >= 36.
+* A + W > 100.
+* '2' people have that 'A + W' greater than '100'.
+
+![image](https://github.com/user-attachments/assets/5a0f6e42-bc9f-45da-9e55-f64a7c11a27a)
+![image](https://github.com/user-attachments/assets/29116b74-4b3c-43f8-9581-ee5197926e2c)
+
+* Reading the **indefinite** points with **if** words now.
+* 1 -> True.
+* 'Kinshuk' is '54kgs'.
+* 'Windy' is '23yrs' old. So 'Navjot kaur' is not '23yrs' old which means that 'Abu Amin' is from 'bangalore'. 
+
+![image](https://github.com/user-attachments/assets/7ff4f1d4-d752-4897-9bfb-ba85199ea786)
+
+* Hold '7' as we don't know anything about it.
+* We know that 'Abu Amin' is from 'bangalore' which means that 'Pankhuri' is from 'patna'.
+* We know that the **weight** of the person from 'patna' is either '57 or 67'.
+* 1st 4 rows have their weights already fixed, so 'Pankhuri' cannot be placed there.
+
+![image](https://github.com/user-attachments/assets/d5e19d1d-84f5-4686-9e42-7fe5d4d0af72)
+
+* 'Pankhuri' is from patna.
+* 'Abu Amin' age and weight is the **maximum**.
+* 29 + 77 -> 106.
+* 'Abu Amin' -> A + W -> 106. 
+* 27 + 75 -> 102.
+* These are the only '2' possibilities. Other possibilities are **less than '100'**.
+
+![image](https://github.com/user-attachments/assets/f4a5b3ea-3f01-4960-a24e-daeccbbfec47)
+
+* So, 'chopra' age is '27'.
+* We know that bangalore weight is '77' so we can say that patna weight is '67'. We had '2' possibilities before.
+* Chandigarh is '57kg'. 
+
+![image](https://github.com/user-attachments/assets/af2a2da4-71da-490c-a382-376e3fa922d9)
+
+* We can place **Gandhi -> Surat** in one place only which is kinshuk. Others are partially or fully filled for **surname -> city**.
+
+![image](https://github.com/user-attachments/assets/e67726ee-0d65-4beb-8915-89030e875476)
+
+* As chopra is not from lucknow, so tiwari is only left without a city.
+* Tiwari is lucknow.
+* Chopra is Delhi.
+* Singh surname is left and pankhuri has no surname.
+* Pankhuri surname is Singh.
+
+![image](https://github.com/user-attachments/assets/39536236-bbfb-482d-9d4d-3a48731adaf0)
+
+* Ages left are '17,21 and 24'.
+* 54 - 21 -> 33 [No]
+* 54 - 17 -> 37 >= 36
+* 57 - 21 -> 36 >= 36
+* 57 - 24 -> 33 [No]
+* 67 - 24 -> 43 >= 36
+
+![image](https://github.com/user-attachments/assets/f9613229-b2de-49f0-b4e3-245e1e5bfb6c)
+![image](https://github.com/user-attachments/assets/c4dd19e2-de8f-4ba2-86ef-423de72b5874)
+![image](https://github.com/user-attachments/assets/2f751765-d180-4c89-9fdf-7c35fa333db9)
+
+* Answer -> 67. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> Surat. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> None of them. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum -> 21 + 57 -> 78
+* Answer -> 78. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Count -> Tiwari, chopra, kaur -> 3.
+* Answer -> 3. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Diff ages -> 24 - 17 -> 7
+* Diff weight -> 67 - 54 -> 13
+* Value -> 7 + 13 -> 20.
+* Answer -> 20. [6] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/fd05dcc3-65b9-4743-b198-97053ed8c609)
+![image](https://github.com/user-attachments/assets/ba675678-0651-4876-a5e2-2c66663a6049)
+
+* 33. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+* The people entering in a time slot cannot leave in that same time slot because the people cannot leave before '1hr'.
+* 183 - 132 -> 51
+* atmost -> maximum/maximize. [Formula] [**VERY IMPORTANT**]
+* 160 - 117 -> 43.
+* We have to try and hold the '51' people till the temple closes. [Logic]
+
+![image](https://github.com/user-attachments/assets/17f3b98a-711c-4ff5-9b66-87112a8f2fa2)
+
+* 157 - 43 -> 114
+* 148 - 114 -> 34.
+* 176 - 34 = 142
+* 120 - 142 -> -22
+* We have to take the '22' people from the '51' people.
+* 51 - 22 -> 29.
+* In the end we could only hold about '29' people.
+
+![image](https://github.com/user-attachments/assets/68bb35a0-fdd6-4d1d-99ce-01e848a643aa)
+
+* Answer -> 29. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Atleast -> minimum/minimize. [Formula] [**VERY IMPORTANT**]
+* We have to exist the people **faster**. The **min. no. of people** who are staying for **less than '2hrs'**.  
+* 183 - 132 -> 51
+* We are going to put '132' in the counting because those people came in '7AM' and left by '9AM' which is **less than '2hrs'**.  
+* 117 - 51 = 66
+* 160 - 66 -> 94
+* The '51' people can stay **more than '2hrs'**, so they are not counted.
+* The '66' people came between '8AM and 9AM' and left between '9AM and 10aM' which is **less than '2hrs'**. So they are **counted**.
+* 157 - 94 -> 63.
+* The '94' stayed for **more than '2hrs'**, so they are not counted. They came at '8AM' and exited after '10AM'.
+* 148 - 63 = 85.
+* The '63' people came between '9AM and 10AM' and left between '10AM and 11AM' which is **less than '2hrs'**. So they are **counted**.
+
+![image](https://github.com/user-attachments/assets/3d309dfe-14df-429f-b3a9-081362133d61)
+
+* 176 - 85 -> 91.
+* 120 - 91 = 29.
+* The '91' people came between '10AM and 11AM' and left between '11AM and 12AM' which is **less than '2hrs'**. So they are **counted**.
+
+![image](https://github.com/user-attachments/assets/35457187-e6c1-41fe-bf79-ae4791c3c4ee)
+
+* The '97' people entering the temple at '11AM' and they have to leave before '1PM' as the temple closes. That's why the '97' people have **less than '2hrs'**. So they are **counted**.
+
+![image](https://github.com/user-attachments/assets/b545e5e3-3715-450c-8085-127686b963cb)
+
+* Answer -> 449. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Rest in next class.
 
 
 
