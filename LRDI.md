@@ -4606,6 +4606,235 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 449. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 * Rest in next class.
 
+![image](https://github.com/user-attachments/assets/e2aef0fa-6716-4a9b-bb32-907c136fbe94)
+
+* Explaining **Question '2'** again.
+* Aim -> To hold people for greater than '2hrs'.
+* Out of the '183' people, '132' people left. So we are left with '51' people.
+
+![image](https://github.com/user-attachments/assets/d37d4fd9-0bf0-4b6d-84d6-387c8e01398f)
+![image](https://github.com/user-attachments/assets/75036dfd-32d5-4798-91b5-c269c49c85c2)
+
+* Method '2':-
+
+![image](https://github.com/user-attachments/assets/42eb20ac-bdef-464c-896e-c98b90cf37f3)
+![image](https://github.com/user-attachments/assets/14ccf7a6-1d16-4820-a1db-8fb1156049d8)
+
+* We have to **minimize** the **less than '2hrs'** people. It means that we can **maximize** the **greater than '2hrs'** people.
+* Maximize people -> 259.
+* Total -> 708.
+* Minimize people -> 708 - 259 -> 449.
+* greater than 2hrs -> 51, 94,85,29. 
+* 117 - 51 -> 66
+* 160-66 => 94.
+* 157 - 94 -> 63
+* 148 - 63 -> 85
+* 176 - 85 -> 91
+* 120 - 91 -> 29
+
+![image](https://github.com/user-attachments/assets/86b41477-4227-421c-b74b-788eea0070ce)
+
+* atmost -> maximize. [Formula] [**VERY IMPORTANT**]
+* 183 - 132 -> 51.
+* To **maximize** we will try and hold the '51' people.
+* 160 - 117 -> 43.
+* 157 - 43 -> 114.
+* We are able to hold all of the '51' people.
+
+![image](https://github.com/user-attachments/assets/cd1ee88a-2e5c-42bb-abaf-3cc36d191b8c)
+
+* Answer -> 51. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* x -> 449.
+* Entry -> 708.
+* Exit -> 582.
+* 708 - 582 -> 126
+* y -> 126.
+* **Entry and exit** should be **equal**.
+
+![image](https://github.com/user-attachments/assets/c76bd2e8-ec06-4859-9c73-2fc9c072988e)
+![image](https://github.com/user-attachments/assets/b54b5021-edff-45e9-aa44-f96cd2fe1985)
+![image](https://github.com/user-attachments/assets/57a801c5-c483-4666-bfcc-ccb759856640)
+
+* Answer -> 28%. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+## Puzzles, Matrix formation (Part - 17)
+
+![image](https://github.com/user-attachments/assets/f3588ac9-1b13-4d1a-aa5b-5f5c13e46f0d)
+![image](https://github.com/user-attachments/assets/21cec983-728a-42c2-ae03-5ffd9c4cce54)
+![image](https://github.com/user-attachments/assets/f1fad90e-e763-46ef-8f36-68d3dc78b75e)
+
+* 34. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+* 1 -> Either composite nor prime number. [Formula] [**VERY IMPORTANT**]
+* Prime -> 2,3,5,7,11
+* Composite -> Not prime -> 4,6,8,9,10.
+* For **odd cup no** -> Even no rank. [Logic] 
+* For **even cup no** -> Odd no rank. [Logic]
+* The sum of **cup no and rank** should not be a **composite number**.
+
+![image](https://github.com/user-attachments/assets/ca1b2544-85d3-4a75-b871-8902bcb64c05)
+![image](https://github.com/user-attachments/assets/2b7ca6f1-c893-47f8-8438-201c51685fbf)
+
+* 1 + 2 -> 3 -> Prime no
+* 1 + 4 -> 5 -> Prime no
+* 1 + 6 -> 7 -> Prime no
+* 1 + 8 -> 9 -> Composite no
+* '8' is not possible.
+
+* 2 + 1 -> 3 -> Prime no
+* 2 + 3 -> 5 -> Prime no
+* 2 + 5 -> 7 -> Prime no
+* 2 + 7 -> 9 -> Composite no
+* '7' is not possible.
+
+* 3 + 6 -> 9 -> Composite no
+* '6' is not possible.
+* 4 + 5 -> 9 -> Composite no
+* '5' is not possible.
+* 5 + 4 -> 9 -> Composite no
+* '4' is not possible.
+* 6 + 3 -> 9 -> Composite no
+* '3' is not possible.
+* 7 + 2 -> 9 -> Composite no
+* 7 + 8 -> 15 -> Composite no
+* '2,8' is not possible.
+* 8 + 1 -> 9 -> Composite no
+* 8 + 7 -> 15 -> Composite no
+* '1,7' is not possible.
+* There is no **fixed** attacking point.
+* In cup no '7 and 8', we have only '2' possibilities.
+
+![image](https://github.com/user-attachments/assets/f12cb1b2-3e63-4b68-a3da-4235fc548a23)
+
+* 1 -> Last/least possibility of rank -> 6.
+* 2 -> Last/least possibility of rank -> 5.
+* 4 -> Last/least possibility of rank -> 7.
+* In cup no '6', we cannot have '7 and 5' as they are present in '4 and 2' respectively. So the **rank of '6'** is '1' only.
+* Now, wherever there is **rank '1'** cut it.
+
+![image](https://github.com/user-attachments/assets/8c81aa5f-1455-4b0b-adf7-69c0b66f7dd8)
+
+* 8 -> Last/least possibility of rank -> 5.
+* 7 -> Last/least possibility of rank -> 6.
+* 3 -> Last/least possibility of rank -> 8.
+* In cup no '5', we cannot have '6 and 8' as they are present in '7 and 3' respectively. So the **rank of '5'** is '2' only.
+* Now, wherever there is **rank '2'** cut it.
+
+![image](https://github.com/user-attachments/assets/5392b664-1734-4740-a291-bfcc27c7287c)
+
+* Best rank of cup no '8' is **rank '3'**.
+* Rank of cup no '4' should be lower than cup no '4,5,8,'.
+* Cup no '4' rank -> '7'.
+
+![image](https://github.com/user-attachments/assets/52f52c38-ecab-4ac6-bb6e-5050e1b0eecd)
+![image](https://github.com/user-attachments/assets/b57cf8d1-1c60-4d50-b183-4b7463e46635)
+![image](https://github.com/user-attachments/assets/cbe3a7a3-0ae5-45c7-80ee-8355a54b6c81)
+
+* Cup nos '1 and 7' are only left.
+* Cup nos '1 and 7' have the same ranks which are '4 and 6'.
+* All letters represents distinct digits.
+
+![image](https://github.com/user-attachments/assets/ca1d09c9-26ee-47ed-93de-0ad79167f585)
+![image](https://github.com/user-attachments/assets/eebe7eeb-b3bd-44e8-b0fd-e56226b59d3c)
+
+* E + U -> I.
+* We are getting a carry of **+1** that's why the letters is changed.
+* E + 1 -> H.
+
+![image](https://github.com/user-attachments/assets/18f7ab2a-5ba9-417a-8cb9-7009576825f8)
+![image](https://github.com/user-attachments/assets/ddd33ed7-286a-4cf6-a374-74c6a240b700)
+![image](https://github.com/user-attachments/assets/a0854779-9d0a-4027-a44a-75815e047bb1)
+![image](https://github.com/user-attachments/assets/e2ad0db1-e6a1-4438-a9f4-467a818e85a9)
+
+* There can be a possibility that there is **no carry**.
+* 5 * (any odd no) -> 5. [Formula] [**VERY IMPORTANT**]
+* (any even no) * 6 -> that even number only. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/82a5a6da-7a49-4249-84be-5a7498004dc9)
+
+* T * P -> I
+* T * C -> I
+* We are getting 'I' twice.
+* T * P -> I
+* 5 * P -> I
+* If 'P' is odd then we would have gotten 'T' as the result instead of 'I' which means that 'P and C' are even.
+* 5 * (any even no) -> 0. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5fe389b3-68bf-4532-aeb3-e6404711b3d5)
+
+* T * P = I
+* T * C = I
+* T = 5, P = Even
+* 5 * even = 0.
+
+![image](https://github.com/user-attachments/assets/a117c3d9-61e1-4a8c-a4c0-248247d61a3d)
+![image](https://github.com/user-attachments/assets/84695dda-142c-4253-9552-fd7e1cdb2478)
+
+* I = 0, T = 5.
+* We are getting a carry of **+1**.
+* R + 1 = E.
+* E + 1 = H.
+* If 'R = 3' then 'E = 4' and 'H=5'.
+* 'R,E and H' are consecutive numbers.
+
+![image](https://github.com/user-attachments/assets/9c4ed939-a934-4f0b-bea4-8ac3907c81d0)
+
+* U + T = 10 + E [10 -> Carry]
+* U = 5 + E.
+* So 'U' cannot be '3'.
+* 'U' can be '7 or 9'.
+
+![image](https://github.com/user-attachments/assets/f50e512f-71e5-42c7-b08b-2fe9bcbde806)
+
+* 'E' can be either '4 or 2'.
+* If 'E = 4' then 'H=5' and 'R =3'. 'T=5' already we have taken so 'E =4' is **wrong**.
+
+![image](https://github.com/user-attachments/assets/933645a8-2eaa-4b00-99c3-1ad16fce7296)
+
+* 'E = 2 and U = 7'.
+* If 'E = 2' then 'H=3' and 'R =1'. This is **correct**.
+
+![image](https://github.com/user-attachments/assets/753fe807-2648-435c-8a7a-883b825be130)
+
+* HAT * U = EART
+* UA = R
+* 7A + 3  = 1.
+* 7 * 4 + 3 = 31 -> '3' is carry.
+* A = 4.
+
+![image](https://github.com/user-attachments/assets/6ec0108e-ca73-4fc0-b9ac-267b0a4a59e2)
+
+* 3 * 7 + 3 -> 24 [H = 3]
+* E = 2, A = 4.
+
+![image](https://github.com/user-attachments/assets/e10918e5-584d-478e-84eb-fd643b405abd)
+![image](https://github.com/user-attachments/assets/24a50ae3-72d3-4983-bb78-55bf35ad9e07)
+
+* EAP -> E
+* 2 + 4 + P -> 2
+* P = 6.
+* Carry of **+1** because of '12'.
+* E + U = I
+* 2 + 7 + 1 = 10 => Carry of **+1**.
+* E = H
+* 2 + 1 -> H -> 3.
+* H = 3.
+
+![image](https://github.com/user-attachments/assets/151b7047-63ba-42a8-ad33-b5fb69f8e038)
+![image](https://github.com/user-attachments/assets/f2399ad1-1400-468f-909d-9d5d39c118ee)
+![image](https://github.com/user-attachments/assets/e4a8ac52-4956-488b-97ca-5e584b4344c9)
+![image](https://github.com/user-attachments/assets/f7ac7745-c84d-4175-8cdb-c53c22a08af8)
+
+* Compared to '6', '5' is relatively an easier no. to do calculations.
+* U = 6 -> Fail.
+* Solved.
+
+
+
+
+
+
+
+
 
 
 
