@@ -4356,6 +4356,98 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ## Puzzles, Matrix formation (Part - 16)
 
+![image](https://github.com/user-attachments/assets/30a13748-003c-42e9-afaf-d314f6d7151e)
+![image](https://github.com/user-attachments/assets/ab01e0bf-be37-47ed-8532-7e1095c57265)
+
+* 31. [Question] [Set] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/dee5bd2a-98fc-43d9-9753-79d627945a73)
+
+* It is said that the age of the people is in their thirties which is from ** 30 to 39**.
+
+![image](https://github.com/user-attachments/assets/7e0a08d1-edad-476d-bed0-627d5d14a861)
+![image](https://github.com/user-attachments/assets/ff923ea7-55f3-471b-aafa-6e42175baedc)
+
+* '32' is not the youngest dieter.
+* So we are making '2' cases with '30 and 31' as the youngest dieter.
+
+![image](https://github.com/user-attachments/assets/fddbe5ae-da04-415a-bb34-651492aed0a5)
+
+* One of them is guranteed '32yrs' old.
+* The difference between the oldest and another is '3yrs'.
+* 37 - 3 = 34
+* 38 - 3 = 35. 
+
+![image](https://github.com/user-attachments/assets/56800b16-d5eb-43e0-bcd1-d6b0a19685aa)
+![image](https://github.com/user-attachments/assets/f1b89d3d-6f05-417d-817f-9db02ea299c3)
+
+* We are only getting '1' odd no. in the ages. Case '1' has '1' odd no. and case '2' has '2' odd nos. which are '31 and 35'.
+* So, eliminate **case '2'**. 
+* **Age** is done. Strike it out.
+
+![image](https://github.com/user-attachments/assets/74c164f9-7363-4091-97a1-cca7554f7ded)
+![image](https://github.com/user-attachments/assets/63c11d0b-faf7-4dbc-943e-5fdb5f9ab447)
+
+* We know one of the weight loss is '10%'.
+* lightest weight is '150'.
+* 5 * 10% -> 50
+* 16 * 10% -> 160
+* 14 * 10% -> 140
+* 12 * 10% -> 120
+* So, '50,140,120' weights are **not possible** because they are **less/lighter than '150'**. So only '160' is possible.
+* The last weight which we were missing we got it, which is '160'.
+
+![image](https://github.com/user-attachments/assets/cb5bdab4-aaa7-47fd-ad66-96329295b548)
+
+* We have got most of the info. Now we will focus on **filling**.
+* We need to find '2' weights whose difference is '1'.
+* 150 - 5 -> 145.
+* 160 - 16 = 144.
+* We cannot change the combinations.
+* As **divij** is heavier so his weight is '145'.
+
+![image](https://github.com/user-attachments/assets/6b64b40d-63e5-4751-ac38-31259975f312)
+
+* Munish is the clerk as clerk lost '12' pounds. It is not divij as divij lost '5' pounds. 'A and R' are not clerks.
+
+![image](https://github.com/user-attachments/assets/a92321fc-5569-4f53-b85c-28e9d31161fb)
+
+* 'A' is '160' and lost '16' pounds as others were already filled. So 'A' is the **accountant**.
+* 'R' has crossed '180' so '180' will be at 'M' and 'R' will have '170'.
+
+![image](https://github.com/user-attachments/assets/64fe3c43-5693-42ac-b430-ed8a71c4ce42)
+![image](https://github.com/user-attachments/assets/4f8b08bc-a6e2-40a5-b489-557b2decd3ba)
+
+* Youngest weight is '170' which is 'R' so 'R' is '30yrs' old.
+* The difference in age between the oldest and '180' pounds person is '3yrs'.
+* oldest -> 37yrs
+* 37 - 3 -> 34yrs.
+* '180' pounds person -> 34yrs.
+
+![image](https://github.com/user-attachments/assets/c1e3d5e1-5019-4e26-9ecc-2735fefdb4a7)
+
+* As 'D' lost '5' pounds so he is '37yrs' old.
+* As 'D' is the oldest so he is not the **typist**. So 'R' is the **typist**.
+* So, 'D' is **sales representative(SR)**.
+* 'A' is '32yrs' old.
+
+![image](https://github.com/user-attachments/assets/c537b0d4-7af4-4877-8baf-85e763034981)
+![image](https://github.com/user-attachments/assets/0f398302-24cb-4a44-9daa-d7f4c0595f85)
+
+* Solved.
+* Answer -> Rakhi(R). [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> Anu(A). [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> **sales representative(SR)**. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 32. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 156. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+
+
+
+
+
+
+
 
 
 
