@@ -4828,6 +4828,63 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * U = 6 -> Fail.
 * Solved.
 
+## Puzzles, Matrix formation (Part - 18)
+
+![image](https://github.com/user-attachments/assets/5a1984ab-5314-409f-bfcd-b7e6b2cbca01)
+
+* 35. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/13cbd8d2-7508-41e6-a3b9-b96d966d4bd0)
+
+* BKA -> 135
+* BKASV = 225
+* BKA + SV = 225
+* 135 + SV = 225
+* SV = 90.
+* 225 - 135 -> 90
+* S + V -> 90.
+* 132 - 90 -> 42
+* K = 42.
+* 138 - 90 -> 48.
+* A = 48.
+* Find an equation where both 'a and k' are there.
+* BKA -> 135
+* B + 42 + 48 -> 135
+* B -> 135 - 90
+* B -> 45.
+* ABV -> 133
+* V -> 133 - 93 -> 40.
+* KSB -> 137 -> 137 - 87 -> 50
+* S -> 50.
+
+![image](https://github.com/user-attachments/assets/6e0f530f-9c11-48e3-94f1-40f591a586df)
+![image](https://github.com/user-attachments/assets/5a22485a-12be-4bcf-b9d9-1d8f35b1e7a0)
+
+* Answer -> Vishal. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> Sanjay. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 1. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Max -> 50, Min -> 40
+* Max - Min -> 50 - 40 -> 10.
+* Answer -> 10. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/5b2a3b83-212b-48af-a746-7ca0bacd0544)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
