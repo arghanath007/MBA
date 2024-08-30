@@ -4963,26 +4963,97 @@ We have '19' prime nos and '19' is also a **prime no** only.
 ![image](https://github.com/user-attachments/assets/e6e0a88e-4d9d-4bf8-8aff-9c7f130fb45d)
 ![image](https://github.com/user-attachments/assets/f9a18611-eb66-4d9c-b3df-0b5f260a4214)
 
-* If the sum is '17' then we cannot get the individual digits. So case '1 and 2' are **wrong**.
+* If the sum is '17' then we cannot get the individual digits. So case '1 and 2' are **wrong**. According to point 'd'.
 * Sum of digits is **not '17'**. 
 * Sum of digits has to be '19'.
 
+![image](https://github.com/user-attachments/assets/e26b21f1-993f-4fde-a9fd-0baba71fcb42)
+![image](https://github.com/user-attachments/assets/6921996f-ce8c-4c48-a752-abc8e07edd89)
 
+* abcd -> 1729.
+* It is called as **ramanujan number**.
+* Answer -> 1. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 7. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 2. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 9. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/15de3d8c-d14b-4899-a990-abcda423c674)
 
+* 38. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/9203c5b5-d200-49c2-9eee-174a30641d27)
 
+* We don't know the **orders**. The orders are different for sure.
 
+![image](https://github.com/user-attachments/assets/fc02239a-87f0-4a5a-966d-b0426dc19f5b)
 
+* If 'H' is '5' then 'HALT' value should be a **multiple of '5'** but '72' is not a **multiple of '5'**. So 'H' is not '5'.
+* H = 1, R = 5. 
 
+![image](https://github.com/user-attachments/assets/9a4ad426-e04f-4e46-a035-bc8a0f14893f)
+![image](https://github.com/user-attachments/assets/1514e289-d9b9-461e-b7f5-07d585cc2e08)
 
+* L can be '12 or 9 or 6'.
+* If 'L' is '9' then 'LACE' value should be a **multiple of '9'** but '336' is not a **multiple of '9'**. So 'L' is not '9'.
+* For 'L' we are left with '12 or 6'.
 
+![image](https://github.com/user-attachments/assets/3287ce1d-ac1d-4c66-8c39-b9650c870b83)
 
+* 'C' is a new no. which hasn't come before yet.
+* '3' has already come in 'L' as '3' is a **multiple of '12'** so '3' cannot go to 'A or E'.
 
+![image](https://github.com/user-attachments/assets/85de4aee-8590-4c86-b58a-24fbf4eefb79)
+![image](https://github.com/user-attachments/assets/dde257d0-f127-4ed7-9b4a-0ad03262944a)
 
+* For 'A and E' we are left with '2 and 4'.
+* We are getting '2 ^ 5' or '5' 2's but we should get '4'.
+* 'L = 12' is not possible.
+* We are left with 'L = 6'. 
 
+![image](https://github.com/user-attachments/assets/c39acab2-12db-44ac-943a-276aaa2f036c)
 
+* 'A and T' can be either '3 or 4' or '4 or 3'.
+* EAT -> 234
+* A and T -> 3 and 4.
+* E = 2.
 
+![image](https://github.com/user-attachments/assets/6d119fdb-111b-4840-918b-10e17b96d4e8)
+
+* LACE -> 336
+* L -> 6, E -> 2
+* 'A' can be either '3 or 4'. 
+
+![image](https://github.com/user-attachments/assets/d949a695-13b2-45cc-9ae2-1debf496af2a)
+
+* The only '3' in '336' is taken by '6' in 'L'. So 'A = 3' is not possible.
+* A = 4.
+* C = 7.
+* T = 3.
+
+![image](https://github.com/user-attachments/assets/aeebb185-3a4a-41fd-ad59-c0a3451a9ea3)
+![image](https://github.com/user-attachments/assets/b3695459-b7e1-49cf-bfbc-2c752fcb03d5)
+![image](https://github.com/user-attachments/assets/f86a248a-48b2-4c3c-86d1-3fb7381b09ec)
+
+* REALLY -> 5 * 2 * 4 * 6 * 6 * Y -> Perfect Square.
+* Perfect Square -> Even power of the digits. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/430d673e-1be5-42cd-ba53-d05d86cd8371)
+![image](https://github.com/user-attachments/assets/455aa43f-f3da-4611-a6e4-920679f5fe87)
+
+* Y -> 10.
+* Answer -> 10. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* LATHE -> 6 * 4 * 3 * 1 * 2 -> 144.
+* Answer -> 144. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* HEART -> 1 * 2 * 4 * 5 * 3 -> 120
+* HEAT -> 1 * 2 * 4 * 3 -> 24
+* Difference -> 120 - 24 -> 96
+* Answer -> 96. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/db385990-d61b-43b6-84d1-d93212ddccf2)
+![image](https://github.com/user-attachments/assets/afe30289-e53e-4445-88fc-67515a41865f)
+
+* PYARELAL -> 968 * 5 * 2 * 6 * 4 * 6 -> 1393920. [PAY -> 968]
+* Answer -> 1393920. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 
 
