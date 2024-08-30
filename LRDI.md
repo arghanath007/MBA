@@ -4914,6 +4914,57 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * P1, P2 -> Prime number. 
 
 ![image](https://github.com/user-attachments/assets/041c860f-1c46-47ad-8c05-ebc8fa8691a2)
+![image](https://github.com/user-attachments/assets/6c92d8b0-c072-45b6-afdb-150df7c4f787)
+
+* digits -> 0 to 9.
+
+![image](https://github.com/user-attachments/assets/0e286b57-8896-49c1-91d2-b60195ab321b)
+![image](https://github.com/user-attachments/assets/6dda7427-f2aa-43c9-9f99-a14485ab307d)
+
+* '1' is one of the '4' digits otherwise the multiplication of '2' distinct digits as a prime number is not possible. [Attacking point]
+* If multiplication of '2' nos is a prime number then the '2' nos will be out of '7,5,2,3' numbers only.
+* It is confirmed that it cannot be '3 even and 1 odd'. '1' is already confirmed to be the odd number.
+* '7,5,2,3' numbers have many more odd numbers. We are getting many odd numbers.
+* We are pretty sure that we have '1 even and 3 odd' numbers.
+* Out of the '3' odd' numbers, we know that '1' is one of them.
+
+![image](https://github.com/user-attachments/assets/70ca309e-ab74-49a9-a4d7-eec7bfd8392a)
+![image](https://github.com/user-attachments/assets/3ec0cf2e-9ebf-457c-aad0-ffadde24231c)
+
+* It can be either with '2' or without '2'. We have to check with **cases**.
+* We don't want want to keep smaller nos., as the product of the '4' nos. is greater than '80'.
+
+![image](https://github.com/user-attachments/assets/6cc7fc69-6fde-490e-ad61-8aac040c14b9)
+
+* 4 + 1 + 7 + 3 -> 15 -> Sum is not a prime number that's why removing that.
+* With '4' we cannot take '9'.
+* We want '1' perfect square and '2' prime numbers.
+* 4 -> 2 ^ 2 -> perfect square
+* 1 * 7, 1 * 5 -> 7,5 -> prime numbers.
+
+![image](https://github.com/user-attachments/assets/2150599b-4d8d-4ded-b57b-b951c372a29d)
+![image](https://github.com/user-attachments/assets/7bd8ee06-c3eb-4ed6-a2e2-04ace856fefd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
