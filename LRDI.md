@@ -4869,31 +4869,51 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/5b2a3b83-212b-48af-a746-7ca0bacd0544)
 
+* 36. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/9c849b86-e137-42c1-90d9-97534cf07449)
 
+* (2 * n) + 1
+* 2 Cuts -> 2 * 2 + 1 -> 5 parts -> 1 + 1 + 3 + 6 + 12 -> 23.
+* 12 * 2 - 1 -> 23.
+* 3 Cuts -> 2 * 3 + 1 -> 7 parts -> 1 + 1 + 1 + 4 + 8 + 16 + 32 -> 63
+* 32 * 2 - 1 -> 63
+* 6 Cuts -> 2 * 6 + 1 -> 13 parts -> 6 * 1 + 7 + 14 + 28 + 56 + 112 + 224 + 448 -> 895.
+* 448 * 2 - 1 -> 896 - 1 -> 895.
+* Keep on **doubling**.
 
+![image](https://github.com/user-attachments/assets/8ce37e2c-0f0b-433e-931f-03b77e544b08)
+![image](https://github.com/user-attachments/assets/d769f49e-476f-4570-853c-881af093473a)
 
+* For upto '895', we need **6 cuts**.
+* Answer -> 6. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/eefccba1-d3d7-4324-ab4f-b0f7370507e8)
+![image](https://github.com/user-attachments/assets/d07652ed-733d-47a6-85a3-7a6de0dc70a8)
+![image](https://github.com/user-attachments/assets/7730ba76-e5ad-4b52-bd0e-1fce20a5656d)
 
+* 8 cuts -> 2 * 8 + 1 -> 17 parts -> 8 * 1 + 9 + 18 + 36 + 72 + 144 + 288 + 576 + 1152 + 2304 -> (2 * 2304) - 1 -> 4607.
+* Answer -> 4607. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/0511113e-30a1-4d2c-bf32-3f5908dc677c)
+![image](https://github.com/user-attachments/assets/2f4fb89c-ba36-4cc1-a2c2-4706248d64aa)
 
+* 37. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
+* Prime no. are generally odd numbers. Even prime no. is **2** only. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/3c9b82c7-49bf-4529-9334-a839bdc47833)
+![image](https://github.com/user-attachments/assets/f0506639-62cf-447c-80da-097a72becb37)
 
+* If 'a,b,c,d' are all odd nos, then the no. will be an even number and vice-versa. All '4' nos cannot be **even or odd**.
+* So, either '1' of the '4' nos is an even and rest are odd numbers or '1' of the '4' nos is an odd and the rest are even numbers.
 
+![image](https://github.com/user-attachments/assets/e36cab8d-b14a-47cc-906f-098fc6f4d799)
 
+* K -> Perfect Square.
+* P1, P2 -> Prime number. 
 
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/041c860f-1c46-47ad-8c05-ebc8fa8691a2)
 
 
 
