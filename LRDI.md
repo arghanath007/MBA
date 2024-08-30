@@ -4944,18 +4944,28 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/2150599b-4d8d-4ded-b57b-b951c372a29d)
 ![image](https://github.com/user-attachments/assets/7bd8ee06-c3eb-4ed6-a2e2-04ace856fefd)
+![image](https://github.com/user-attachments/assets/ba28bd31-d100-403b-a9a4-bc8368b3cd74)
 
+* 2,5 -> Prime nos.
+* 9 -> Perfect Square.
 
+![image](https://github.com/user-attachments/assets/03a356b0-c893-47e6-bb55-95a4845c7c6e)
 
+* 2,7 -> Prime nos.
+* 9 -> Perfect Square.
+* We got '3' cases from the conditions.
 
+![image](https://github.com/user-attachments/assets/acdc5b8b-8118-43ad-86e6-08f0c2e3e9c2)
 
+* 'a,b,c,e' points are meet. 'd and f' are left.
+* Sum(S) -> 17 or 19 -> '2' cases only.
 
+![image](https://github.com/user-attachments/assets/e6e0a88e-4d9d-4bf8-8aff-9c7f130fb45d)
+![image](https://github.com/user-attachments/assets/f9a18611-eb66-4d9c-b3df-0b5f260a4214)
 
-
-
-
-
-
+* If the sum is '17' then we cannot get the individual digits. So case '1 and 2' are **wrong**.
+* Sum of digits is **not '17'**. 
+* Sum of digits has to be '19'.
 
 
 
