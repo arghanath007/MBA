@@ -5094,12 +5094,65 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * T to X -> 579 - 366 -> 213.
 
 ![image](https://github.com/user-attachments/assets/468e10dc-1a24-4257-8af7-0b25aa6667bb)
+![image](https://github.com/user-attachments/assets/d2ac3650-28dc-40b0-a0bc-4fd6de8d8b30)
 
 * We can do it with 'P' also. [Another Way]
 * 'X' to 'Q' -> 49.
+* 'Q' to 'V' -> 674.
+* 'V' to 'T' -> 622 - 112 -> 510.
+* 'T' to 'X' -> 213.
+* 510 + 213 -> 723 > 674.
+* 'Q' is in between 'T and X'. 'Q' is to the left of 'X'.
+* 510 + 164 -> 674.
 
+![image](https://github.com/user-attachments/assets/e75f1187-1afc-4134-b23c-8a7b4d695d9b)
+![image](https://github.com/user-attachments/assets/b31dbdb9-e0e1-49a9-95ab-8b2ae2d6406c)
 
+* Row of 'X' has very big nos only.
+* Row of 'Q' has '237' with 'U'.
+* 'Q' to 'U' -> 237.
+* 'S' to 'U' -> 767.
+* 'S' to 'X' -> 91 + 275 + 213 -> 579.
+* 767 - 579 -> 188
+* 'U' is to the right of 'X'.
+* 'U' to 'X' -> 188.
 
+![image](https://github.com/user-attachments/assets/9bc4e589-87b5-4f57-9297-9a4098fb0e8d)
+
+* 'U' to 'R' -> 286.
+* 'X' to 'R' -> 474.
+* 'U' to 'X' -> 188.
+* 474 - 286 -> 188.
+* 'R' is to the right of 'U'.
+
+![image](https://github.com/user-attachments/assets/77297ecc-14fe-4923-a0eb-3d233e00988b)
+
+* 'R' to 'W' -> 210.
+* 'Q' to 'W' -> 733.
+* 'R' to 'R' -> 49 + 188 + 286 -> 523.
+* 733 - 523 -> 210
+* 'W' is to the right of 'R'.
+
+![image](https://github.com/user-attachments/assets/1af10a1a-6130-4b3c-ba15-d897fedc8bdc)
+
+* We are taking the **smallest** distances between the points. [Formula] [Logic] [**VERY IMPORTANT**]
+* 'V' to 'X' -> 144 + 91 + 275 + 213 -> 723
+* 'Q' to 'S' -> 91 + 275 + 213 -> 530.
+* Difference -> 723 - 530 -> 193.
+* Answer -> 193. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* 'Z' to 'R' -> 284. [For Q2 only]
+* 284 - 210 -> 74
+* 'W' to 'Z' -> 74.
+* 'P' to 'Z' -> 1023 + 286 + 210 + 74 -> 1593.
+* 'P' to 'U' -> 1023
+
+![image](https://github.com/user-attachments/assets/f3795daa-6192-4494-921b-1d1907044311)
+
+* Answer -> 1593. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* PQRSTU ->
+* 'P' to 'Q' -> 786
+* 'Q' to 'R' -> 523
+* 'R' to 'S' -> 
 
 
 
