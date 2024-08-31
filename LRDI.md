@@ -5055,6 +5055,58 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * PYARELAL -> 968 * 5 * 2 * 6 * 4 * 6 -> 1393920. [PAY -> 968]
 * Answer -> 1393920. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+## Puzzles, Matrix formation (Part - 19)
+
+![image](https://github.com/user-attachments/assets/985873cf-c82f-491d-a287-65194f56a10d)
+![image](https://github.com/user-attachments/assets/d8eea360-b229-4c32-9e05-3f186aa5388c)
+![image](https://github.com/user-attachments/assets/28b0d8fd-00e4-4c88-84fd-8cb1ba37e79a)
+
+* 39. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+* We first looked at row of 'P' to find the **smallest distance** which is 'V'.
+* Then we looked at column of 'V' to find the **smallest distance** which is 'S'.
+* Then we looked at row of 'S' to find the **smallest distance** which is 'Y'.
+* 'S' will be on the right side of 'V' because on the left side of 'V', we have 'P' which is the starting point.
+* The distance between 'S and Y' is '91kms' but we don't know if 'Y' will go to the **left or right** side of 'S'.
+* We have to do some **cross check**.
+* We have 'P and V'. We will try to **cross check** 'Y' using 'P or V'.
+* The distance between 'P and Y' is '347kms'.
+* 112 + 144 -> 256km
+* 256 + 91 -> 347km.
+* It means that 'Y' is to the right of 'S'.
+
+![image](https://github.com/user-attachments/assets/ffb6cfd7-10dd-494f-8652-693ca18a3ae3)
+
+* Trying to find connecting from 'Y'.
+* We don't know if 'T' which is '275' is on which side?
+* We have to cross-check using 'V' because 'T' is in the column of 'V'. We cannot do it with 'P' as 'T' is not there in 'P'.
+
+![image](https://github.com/user-attachments/assets/1681c801-408a-4309-aacf-573c43c21499)
+![image](https://github.com/user-attachments/assets/45f33697-ae44-4fe3-a3d5-9eda0f926ca5)
+
+* 144 + 91 -> 235km -> From 'V' to 'Y'.
+* V to T -> 510km.
+* 'T' should be to the right of 'Y'.
+* Y to T -> 275km.
+* T to X -> 213Km.
+* S to X -> 579Km.
+* S to T -> 91 + 275 -> 366.
+* 'X' is to the right of 'T'.
+* T to X -> 579 - 366 -> 213.
+
+![image](https://github.com/user-attachments/assets/468e10dc-1a24-4257-8af7-0b25aa6667bb)
+
+* We can do it with 'P' also. [Another Way]
+* 'X' to 'Q' -> 49.
+
+
+
+
+
+
+
+
+
+
 
 
  
