@@ -5149,10 +5149,21 @@ We have '19' prime nos and '19' is also a **prime no** only.
 ![image](https://github.com/user-attachments/assets/f3795daa-6192-4494-921b-1d1907044311)
 
 * Answer -> 1593. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
-* PQRSTU ->
+
+![image](https://github.com/user-attachments/assets/173cb3f5-d021-40a5-ba28-0790914c37b1)
+
 * 'P' to 'Q' -> 786
 * 'Q' to 'R' -> 523
-* 'R' to 'S' -> 
+* 'R' to 'S' -> 286 + 188 + 213 + 275 + 91 -> 1053
+* 'S' to 'T' -> 275 + 91 -> 366.
+* 'T' to 'U' -> 213 + 188 -> 401.
+* PQRSTU -> 786 + 523 + 1053 + 366 + 401 -> 3129
+* Answer -> 3129. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* 'U' to 'V' -> 674 + 49 + 188 -> 911. 
+* 'V' to 'Q' -> 674
+* Answer -> 911. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/15f19e6b-3df6-4965-b872-f719ba56cea0)
 
 
 
@@ -5160,6 +5171,24 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
  
