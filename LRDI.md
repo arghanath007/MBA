@@ -5164,8 +5164,16 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 911. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 ![image](https://github.com/user-attachments/assets/15f19e6b-3df6-4965-b872-f719ba56cea0)
+![image](https://github.com/user-attachments/assets/4e749732-64b5-46e2-85d3-448df53cfac8)
+![image](https://github.com/user-attachments/assets/1f5093a1-8b69-49be-90a1-561b744fe3a8)
 
+* 'U' to 'Y' -> 188 + 213 + 275 -> 676.
+* Answer -> 676. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/b7826627-46f9-4a59-8375-296a2f9d9c63)
+![image](https://github.com/user-attachments/assets/9b91bb32-cfb9-4800-b554-9f47c5e41171)
+
+* 40. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
 
 
