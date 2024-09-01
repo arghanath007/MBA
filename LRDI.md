@@ -5172,9 +5172,131 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 ![image](https://github.com/user-attachments/assets/b7826627-46f9-4a59-8375-296a2f9d9c63)
 ![image](https://github.com/user-attachments/assets/9b91bb32-cfb9-4800-b554-9f47c5e41171)
+ ![image](https://github.com/user-attachments/assets/2ba71d50-0274-413b-a135-3a56b36e02b1)
 
 * 40. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5ed05f6d-9a56-4da6-967e-003afd055d9e)
+![image](https://github.com/user-attachments/assets/3b5b5d17-855f-4e3c-b826-66f69a24ee38)
+
+* Denominator -> The value that is put as a bet.
+* Zero(0) goal -> Both outcome **1 and 2** are **correct**.
+* 1 -> 10.
+* Multiplying factor(MF) is '10'. 
+* 1 -> 5.
+* Multiplying factor(MF) is '5'. 
+* 3 -> 4.
+* Multiplying factor(MF) is '4/3'. 
+* 1 -> 2.
+* Multiplying factor(MF) is '2'. 
+* 1 -> 6.
+* Multiplying factor(MF) is '6'.
+* Roger already put '56000'.
+* For Zero(0) goals:- [1]
+* Rogar -> 10000 * 10 + 5000 * 5 -> 100000 + 25000 -> 125000
+* Net profit of Roger -> 125000 - 56000 -> 69000 
+* Mark already put '67000'.
+* Rogar -> 5000 * 10 + 15000 * 5 -> 50000 + 75000 -> 125000
+* Net profit of Mark -> 125000 - 67000 -> 58000 
+
+![image](https://github.com/user-attachments/assets/171bc029-ad78-4a82-a5b7-472ba4ecbe5f)
+
+* For One(1) goal:- [2]
+* Roger already put '56000'.
+* Rogar -> 5000 * 5 -> 25000
+* Net profit of Roger -> 25000 - 56000 -> -31000 [Negative 31000]
+* Mark already put '67000'.
+* Rogar -> 15000 * 5 -> 75000
+* Net profit of Mark -> 75000 - 67000 -> 8000 
+
+![image](https://github.com/user-attachments/assets/1a5876d8-058b-46ee-864a-9cc750f621d3)
+
+* Two(2) goals -> Only outcome **3**.
+* Odds -> 1/3 -> (3 + 1)/3 -> 4/3.
+* Rogar -> 24000 * 4/3 -> 32000
+* Net profit of Roger -> 32000 - 56000 -> -24000 [Negative 24000]
+* Mark -> 12000 * 4/3 -> 16000
+* Net profit of Mark -> 16000 - 67000 -> -51000 [Negative 51000]
+
+![image](https://github.com/user-attachments/assets/6b57c23f-b04f-44f9-9b3a-092ac855fbf9)
+
+* Three(3) goals -> Both outcome **3 and 4** are **correct**.
+* Rogar -> 24000 * 4/3 + 15000 * 2 -> 62000
+* Net profit of Roger -> 62000 - 56000 -> 6000
+* Mark -> 12000 * 4/3 + 30000 * 2 -> 76000
+* Net profit of Mark -> 76000 - 67000 -> 9000 
+
+![image](https://github.com/user-attachments/assets/3ebee76c-164d-4ae2-9c71-0998ab544b51)
+
+* More than three(3) goals -> Outcomes **3, 4 and 5** are **correct**.
+* Rogar -> 24000 * 4/3 + 15000 * 2 + 2000 * 6 -> 74000
+* Net profit of Roger -> 74000 - 56000 -> 18000
+* Mark -> 12000 * 4/3 + 30000 * 2 + 5000 * 6 -> 106000
+* Net profit of Mark -> 106000 - 67000 -> 39000 
+
+![image](https://github.com/user-attachments/assets/6f0f9db7-4676-4601-8c55-d0f228b64d2e)
+![image](https://github.com/user-attachments/assets/92fa0436-4ee5-4ab4-9cc8-e36c164b4a07)
+
+* Both are making profit in **zero goals, '3' goals and more than '3' goals**.
+* Answer -> 3. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> None or Zero(0). [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Mark's profit -> 39000 + 9000 + (-51000) + 8000 + 58000 -> 63000
+* '1' Goal:-
+* Roger loss -> 31000
+* Mark's profit -> 8000
+* Answer -> 8000. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Mark and roger's profit for '4' goals -> 18000 + 39000 -> 57000
+* Answer -> 57000. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/a766956d-f16c-4c2a-ac74-dc99d0be84f9)
+![image](https://github.com/user-attachments/assets/ba832740-b8b3-43aa-84b8-2b199659594f)
+
+* 41. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+* The value should be in **integers**.
+
+![image](https://github.com/user-attachments/assets/24b8187e-d489-4d3f-8af4-18f8a25919d9)
+![image](https://github.com/user-attachments/assets/8e18edd8-a7e5-40ec-b92d-506eb2bee595)
+
+* 50% increase -> 1/2 increase -> 1 + 1/2 -> 3/2
+* 25% increase -> 1/4 increase -> 1 + 1/4 -> 5/4
+* 16.67% increase -> 1/6 increase -> 1 + 1/6 -> 7/6
+* 12.50% increase -> 1/8 increase -> 1 + 1/8 -> 9/8
+* 10% increase -> 1/10 increase -> 11/10.
+* 33.33% increase -> 1/3 increase -> 4/3.
+* 20% increase -> 1/5 increase -> 6/5.
+
+![image](https://github.com/user-attachments/assets/e5691d8b-b8df-47c1-be09-e9b71c7d9b53)
+
+* We got the increase for the last '5yrs' which is '2018'.
+* 10395/3840 -> 693/256.
+* 'X' should be a multiple of '256' so that we will get an **integer**.
+
+![image](https://github.com/user-attachments/assets/e9cb6c38-ed15-4467-9ad1-5486cea48297)
+
+* We want every step's next number as **integer**.
+
+![image](https://github.com/user-attachments/assets/82e196a1-f947-4469-b5c9-31c49ad14f94)
+
+* In an yr where there is an **increase** of '10%'. Just before that, the no. which we want should be a **multiple of '10'**.
+* We cannot ensure this by cutting the fractions. That's not what we want.
+* Every year the no. should be an **integer**.
+* We don't know the **order**.
+* 3840 -> Multiple of '3'.
+* 3840 -> Multiple of '5', which means tht it is a multiple of 
+* 3840 * 1/3 -> integer.
+* 3840 * 1/5 -> integer.
+* 'x' is a multiple of '3840'.
+
+![image](https://github.com/user-attachments/assets/81e3484a-3c2c-4f5b-8e1e-50f26a95ddda)
+
+* Min. value of 2013 -> 'X'.
+* 'X' -> 3840.
+* We have to minimize the value of '2016'.
+* We will take the '3' min. percentage increase.
+
+![image](https://github.com/user-attachments/assets/dbba8c20-6130-4445-ab87-2b085822589a)
+
+* Next class.
 
 
 
@@ -5191,12 +5313,6 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 
 
-
-
-
-
-
- 
 
 
  
