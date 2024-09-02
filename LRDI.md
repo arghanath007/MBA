@@ -5344,16 +5344,58 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * We have to **multiple** all of them(denominators)** to ensure that we will get **integers** all of the time. [**IMPORTANT**]
 * **Multiplication** of all the denominators**. [**VERY IMPORTANT**] [Formula]
 
+![image](https://github.com/user-attachments/assets/6fd78a5b-1f92-4f98-a2cf-f04815abef10)
+![image](https://github.com/user-attachments/assets/05b7c0fc-08cb-491b-acfc-a7d7dddf21ce)
 
+* 2018 population -> 10395.
+* Whether we multiply with '4/3 or 6/5', we should get an **integer**.
+* We don't know the **order**.
+* '10395' is both divisible by '3 and 5'.
+* Whether we use '4/3 or 6/5' for the 1st or the 2nd time, we will get **integers** guranteed.
 
+![image](https://github.com/user-attachments/assets/fd270f17-76c1-4a51-b4a6-138ecae2c01c)
 
+* In '2020', the population should be a multiple of '16632'.
+* In 'Q2' we have to do **maximize**.
+* 2020 -> max '5' digit number.
+* 16632 * 6 -> 99792.
+* '99792' is the max. '5' digit number.
+* For 'k = 6', we got the max. value.
 
+![image](https://github.com/user-attachments/assets/d27ca3b2-85c1-4384-96ae-19c72c9b045d)
+![image](https://github.com/user-attachments/assets/efb88e4a-684e-448a-b670-8057eb1307da)
 
+* For max. value in '2014', we need to find the max. value in '2013'.
+* 2013 -> 3840.
+* Max. value of 2013 -> K = 6 -> 3840 * 6 -> 23040.
+* From '2013 to 18' we were flexible, we didn't have any **order**, we could use any one of them.
+* For maximizing we will take the max. percentage increase which is **50% -> 3/2**.
 
+![image](https://github.com/user-attachments/assets/de4fed57-8f61-4290-b637-64989d394914)
+![image](https://github.com/user-attachments/assets/8cfbebe7-6972-4de7-ad3a-7cda8119c02c)
 
+* Max. value in 2014 -> 23040 * 3/2 -> 34560.
+* Answer -> 34560. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/36348cf3-9bc7-4b75-915a-55f4f57d77ac)
 
+* For '2020' **without any conditions**, we saw only integers. The population should be a multiple of '16632'.
+* 16632 * 2 -> option 'a'.
+* 16632 * 8 -> option 'c'.
+* 16632 * 6 -> option 'd'.
+* Answer -> Option 'B'. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* In '2018', the population is '10395K'.
+* For '2019', we will have '2' cases as we don't know the **ordering** of the increments. 
 
+![image](https://github.com/user-attachments/assets/602c0a81-8d35-4051-a8fb-17b9d194469d)
+![image](https://github.com/user-attachments/assets/8db01cf5-2822-4492-83d2-bc9b38e50c7e)
+![image](https://github.com/user-attachments/assets/a9ccf5f5-78f7-4cf9-825a-1f40b16a88c4)
+![image](https://github.com/user-attachments/assets/c03b47d0-b67a-47ca-a003-d33972993c50)
+![image](https://github.com/user-attachments/assets/e9d81166-9e71-4f18-a4d1-9e4dbf5f67f9)
+
+* Option 'B and D' -> Multiple of '13860K'.
+* Option 'C' -> Multiple of '12474K'.
+* Answer -> Option 'A'. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 
 
