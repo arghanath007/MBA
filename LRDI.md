@@ -5540,6 +5540,89 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 * Quant.
 
+## Puzzles, Matrix formation (Part - 20)
+
+![image](https://github.com/user-attachments/assets/bc0718c4-df56-4648-bcc5-60c82e6bd910)
+![image](https://github.com/user-attachments/assets/61ae1b51-65a7-47d7-89a9-c2be777c42c8)
+
+* 43. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+
+* 57330 -> 
+* 5733 -> Sum of the digits is a multiple of '3 and 9'. It is a multiple of '7' as well.
+
+![image](https://github.com/user-attachments/assets/52e1e51c-8464-41d6-9267-76a2b66540fb)
+
+* Nowhere we will have the letters of 'c,u,l,t'.
+* P1,P2,P3 -> '3' prime nos.
+
+![image](https://github.com/user-attachments/assets/0501765a-9401-4c32-a32e-98ff2f3db3cf)
+
+* We have '3' vowels.
+* 'U' is not there.
+* Prime nos we have -> 2,3,5,7,13.
+* '3 or C' also cannot come.
+
+![image](https://github.com/user-attachments/assets/231c35de-a22b-4419-9fce-33fb7e086777)
+
+* 'P3' can be either '7 or 13'.
+* P1 -> 2
+* P2 -> 5
+* P3 -> 7 or 13.
+* If 'P3 = 7' then '2,5,7' is the only possibility.
+
+![image](https://github.com/user-attachments/assets/276175f2-4421-4a33-946e-b79cd193e2c6)
+
+* If we keep '7' as the largest prime no then '13' has to come which will make '13' the largest prime number. So, 'P3 = 7' is **not possible**.
+* 'P3 = 13'
+* 6th place -> Smallest perfect square.
+* 3 * 3 -> 3 ^ 2 -> 9 -> perfect square -> cannot be the smallest as '13' is the largest no and the middle nos. will not be satisfied . '4' is not possible as we have only '1' 2.
+* 6th place -> Smallest perfect square -> 1(A).
+* 5th place -> Largest prime no -> 13(M).
+
+![image](https://github.com/user-attachments/assets/2d7d4233-d801-4f45-8fe7-9480522f847c)
+
+* Possibiities of using '7' -> 7, 7*2=14, 7*3=21.
+* '21' is not possible as 'u =21' and we cannot use 'u'.
+* We can use '7' twice now, once with '7' and once with '14'.
+* The next prime no should be '7' only.
+* P2 -> 7(G).
+
+![image](https://github.com/user-attachments/assets/2686d5ff-2711-4028-94fc-0ef9b5cf73f8)
+
+* P1 -> Smallest prime no -> 5(E).
+* Prime nos -> p1, p2, p3 -> 5,7,13.
+* 3 * 3 -> 3 ^ 2 -> 9(I) -> another perfect square.
+* 2 * 7 -> 14(N) -> Highest Number.
+* ENIGMA.
+
+![image](https://github.com/user-attachments/assets/6fd148c9-8912-4c9d-a6c9-696b4ee3f6ce)
+![image](https://github.com/user-attachments/assets/2b783428-02ae-4aa6-9026-e64b71e61cbf)
+
+* Word -> ENIGMA.
+* Answer -> E. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> G. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Product -> N * I -> 14 * 9 -> 126
+* Answer -> 126. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Sum -> M + A -> 13 + 1 -> 14
+* Answer -> 14. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/5f33f1b7-145e-4d3e-8599-aff7d7b11e1b)
+
+* 44. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+* Start from **40mins**.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
