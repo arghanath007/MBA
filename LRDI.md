@@ -5298,9 +5298,80 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 * Next class.
 
+![image](https://github.com/user-attachments/assets/e153adc3-04fa-4ca1-8b72-2d5eeac61e61)
+
+* In any situation every value has to be an **integer**.
+* Q1 -> We have to minimize the total.
+* In any order, every yr value should be in **integer**.
+
+![image](https://github.com/user-attachments/assets/e3d37684-63dc-4f59-866c-7d6b9a125a28)
+
+* Don't cancel out.
+* We don't know the order. 
+
+![image](https://github.com/user-attachments/assets/eeccfaa5-f5d1-4cd1-9676-2931ab5b31fc)
+
+* Evey yr should be an **integer**. 
+* We have to differentiate between the '2013 to 2018' and '2019 to 2020' values. They are not to be **mixed**.
+* Order is **not important** here.
+
+![image](https://github.com/user-attachments/assets/2948aaff-9e62-425c-95df-a8bd82384144)
+![image](https://github.com/user-attachments/assets/f82a09f3-fa24-4edc-b647-28c79433a536)
+
+* 'x' should be a multiple of '3840'.
+* 2018 population is an **integer**.
+* We can ensure/maintain that all of the yrs are in integers when 'x' is a multiple of '3840'. 
+
+![image](https://github.com/user-attachments/assets/fd9e234a-a1a3-4090-9170-80eb59ae142c)
+
+* The min. value is '3840' where 'k = 1'.
+* We want to do minimization, so we will take the '3' least values which are **10, 12.5, 16.62**. 
+* Min. population -> 3840.
+* To maintain an integer in every yrs, the value is '3840'.
+
+![image](https://github.com/user-attachments/assets/adf83897-7982-4828-8a72-a291b7de94f7)
+
+* 3840 * (11/10) * (9/8) * (7/6)  = 5544.
+* Min. value of 2016 -> 5544.
+* Answer -> 5544. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/876c1208-5430-4174-9c2d-4544a59aad7b)
+![image](https://github.com/user-attachments/assets/46f379d8-70e1-480d-b166-611230415d20)
+![image](https://github.com/user-attachments/assets/829cd822-10f2-4fe4-8eaf-67405ff98230)
+
+* Using **LCM**, we cannot be 100% sure that we will get **integers** all of the time. [**IMPORTANT**]
+* We don't have to **cancel** them. [**IMPORTANT**]
+* We have to **multiple** all of them(denominators)** to ensure that we will get **integers** all of the time. [**IMPORTANT**]
+* **Multiplication** of all the denominators**. [**VERY IMPORTANT**] [Formula]
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Puzzles, Matrix formation (Part - 20)
+
+* 42. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
 
 
