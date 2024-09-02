@@ -5397,21 +5397,11 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Option 'C' -> Multiple of '12474K'.
 * Answer -> Option 'A'. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Puzzles, Matrix formation (Part - 20)
+
+![image](https://github.com/user-attachments/assets/da681e24-b935-44f3-abcc-9d0f9b0ebc56)
+![image](https://github.com/user-attachments/assets/cf75cf8e-3a52-44eb-920b-80f6a969af48)
+![image](https://github.com/user-attachments/assets/b147a498-0527-4138-96a8-6b26cbb50754)
 
 * 42. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
