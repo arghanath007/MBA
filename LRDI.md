@@ -5405,13 +5405,140 @@ We have '19' prime nos and '19' is also a **prime no** only.
 
 * 42. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/f2e44955-ad80-46bb-a6c1-2d29836df313)
 
+* 3 and 4 point are talking about **disease and population**.
+* Kerala -> 'a'.
+* TN and karnataka -> '3a'.
+* a = 100x.
+* 3x = 300x.
+* 300x * 10% -> 30x. [Point '8']
+* 1 Million -> 10 lakh. [Formula] [**VERY IMPORTANT**] [Point '6']
+* 100x * 5% -> 5x. [Point '8']
+* 5x * 50% -> 2.5x. [Point '8']
+* '1' person can have more than '1' disease, which is fine.
+* 95% people are fit, 5% have diseases only.
+* TN and karnataka patients can have only '1' disease. [Point '3']
+* Total Patients of TN -> a + b + c + d. [Point '3']
+* a + b + c + d = 30x. [Point '3']
+* Total Patients of karnataka -> x + y + z + w. [Point '3']
 
+![image](https://github.com/user-attachments/assets/505fae21-c041-4297-b881-08d4d465072d)
+![image](https://github.com/user-attachments/assets/01196636-e2ae-490c-8427-3e5b8daddba9)
 
+* The above is **not True** for AP, telengana and kerala.
+* There will be **overlapping** there(AP, telengana and kerala).
+* Dengue in kerala will be '5x' also as the total no. of patients in kerala is '5x'. It is according to point '3'.
+* All of the patients who have malaria or dengue, typhoid will also have dengue according to point '3'. That's why dengue is '5x'.
+* Total -> 300x + 400x + 300x + 100x -> 1100x.
+* 1100x * 2.5% -> 27.5x [Point '4']
 
+![image](https://github.com/user-attachments/assets/e2bb09ff-e216-4622-bcde-2191ae051290)
 
+* Jaundice value is the **max**. [Point '7']
+* Total patients in AP and telangana -> 30x - 10 lakh.
+* It is equal to total no. of typhoid patients. That's why total typhoid is '30x - 10 lakh'.  [Point '9']
+* As we had assumed jaundice as '100a' in karnataka so the other diseases are also '100a'. [Point '10']
 
+![image](https://github.com/user-attachments/assets/a47f5332-9b60-4d02-9f43-37c5b241bca5)
+![image](https://github.com/user-attachments/assets/bb02f808-f7ce-45ba-9339-b32591073d63)
 
+* We have to equate the equation.
+
+![image](https://github.com/user-attachments/assets/c79f9df1-2429-4af9-bc17-ff590b5f44b9)
+
+* x = 2 lakh.
+* The questions are asking the answers in **million** units.
+* 2 lakh -> 0.2 Million(mm).
+* 100x -> 20 Million.
+* 1100x -> 220 Million.
+* 300x -> 60 Million.
+* 400x -> 80 Million.
+* 30x -> 6 Million.
+* 30x - 10 lakh -> 6 - 1 -> 5 Million. [10 lakh -> 1 million]
+* 5x -> 1 Million.
+* 2.5x -> 0.5 Million.
+* 27.5x -> 5.5 Million.
+
+![image](https://github.com/user-attachments/assets/fd8a7a15-ffae-4325-9018-1b60808975e8)
+
+* Karnataka and TN has **unique cases**. They have **no overlapping**.
+
+![image](https://github.com/user-attachments/assets/e2416d2f-048e-4f41-9a4e-8bfec6424d81)
+
+* Dengue -> Malaria + 0.5M -> 5.5 + 0.5 -> 6M.
+* The total values for diseases are in AP. We know '3' of the values which are '5,5.5,6' and we know that jaundice value is max, so it is '6.5'.
+* The difference is '0.5'.
+* 6.5 - 0.5 -> 6M
+* Rest of them are **same** which is '100a'.
+* 6M/3 -> 2M.
+* 100a -> 2M.
+* Everywhere instead of '100a', put '2M'.
+
+![image](https://github.com/user-attachments/assets/07eb795e-e047-46e9-89a6-07a9d0e7a6e0)
+![image](https://github.com/user-attachments/assets/d0dee143-4a89-4d30-835d-dc3e5b5cc0c2)
+
+* 4 * 2M -> 8M
+* Total patients in Karnataka -> 8M.
+* Malaria in AP and telangana -> P
+* Malaria in Kerala -> 0.5P [Point '12']
+* People affected by Dengue or Typhoid in AP and telangana -> q. [Point '13']
+* 500000 -> 0.5M
+
+![image](https://github.com/user-attachments/assets/70498c10-0810-4384-8825-a58566082797)
+
+* Whatever values we are putting in the boxes should be a **multiple of 0.5M**.
+* Dengue will have to '6M' people only that we know already. We already got '3M'.
+* The rest of dengue which are TN and AP and telangana will add to '3M'.
+* Dengue aand typhoid of AP and telangana are **same/equal**.
+
+![image](https://github.com/user-attachments/assets/84edd9d0-6123-43c5-bb75-c5d7c2fefc3e)
+![image](https://github.com/user-attachments/assets/0383ea45-3b6c-455a-83bc-7ea5e63b4284)
+
+* q + 3-q = 3.
+* As dengue is '3-q' so typhoid is also '3-q'.
+* 3-q + 2 = 5.
+* 5-q = 5.
+* So, typhoid in TN is 'q'. 
+
+![image](https://github.com/user-attachments/assets/8f19f3cb-ca24-42bd-9e1e-2cda5708d03a)
+
+* We don't know the **values**.
+* Min. value of 'P' is '1' otherwise the '0.5P' will not be a multiple of '0.5'.
+
+![image](https://github.com/user-attachments/assets/72706bb7-4746-4354-90cd-8ede851b8291)
+![image](https://github.com/user-attachments/assets/51c322b0-314d-4622-a637-815a43d24b7b)
+![image](https://github.com/user-attachments/assets/bf3ce37b-021c-4e2d-9c3f-72c48e272501)
+
+* Let, 'P = 1'.
+* malaria in TN -> 2M
+* malaria in AP and telangana -> 1M
+* malaria in kerala -> 0.5M
+* Total dengue -> 6
+* Left -> 6 - (2 + 2) -> 2.
+* Dengue in TN -> q -> 2/2 -> 1M [q = 1]
+* Dengue in AP and telangana -> 3-q -> 3 - 1 -> 2M
+* Typhoid in TN -> q -> 2/2 -> 1M [q = 1]
+* Typhoid in AP and telangana -> 3-q -> 3 - 1 -> 2M
+
+![image](https://github.com/user-attachments/assets/a5f18357-c277-457a-954e-9007e2f8e079)
+![image](https://github.com/user-attachments/assets/b3217a54-346e-4ed4-bc42-f9b2c6b34ae4)
+
+* Answer -> 1M. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 2M. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 2M. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Answer -> 5.5M. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* Total -> 60 + 80 + 60 + 20 -> 220M.
+* Answer -> 220M. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/b44a5cf9-e032-4f48-a617-89186aecc77c)
+![image](https://github.com/user-attachments/assets/df6d17f7-d506-4b3a-995f-fe514f8d1290)
+
+* LRDI.
+
+![image](https://github.com/user-attachments/assets/1e1d3464-eb0d-40cc-b47d-02224646f6ed)
+
+* Quant.
 
 
 
