@@ -345,10 +345,11 @@
 
 ![image](https://github.com/user-attachments/assets/99e009ba-cecc-4210-9e9f-030142650c7f)
 ![image](https://github.com/user-attachments/assets/bd74715e-1bef-42d4-b671-40050f88ba3e)
+![image](https://github.com/user-attachments/assets/77c14b38-8423-46f3-bb15-08cd3ba01225)
 
-
-
-
+* 17.5% of 2334. 
+* 17.5% -> 10% + 5% + 2.5%
+* We are doing **half** each time.
 
 
 
