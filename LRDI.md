@@ -5692,8 +5692,99 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 16. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 ![image](https://github.com/user-attachments/assets/1914cd67-2c09-4d49-9bf5-996884304e00)
+![image](https://github.com/user-attachments/assets/566a7bc3-7d11-48e8-b55f-69481c33c77a)
+![image](https://github.com/user-attachments/assets/ff9646ca-5d47-4c3e-ad17-7ecd268668de)
+![image](https://github.com/user-attachments/assets/68ac958a-9099-4abe-a883-5406e373779f)
 
 * 45. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/99c2d54b-ab17-42da-9b46-b68ac1e6e693)
+![image](https://github.com/user-attachments/assets/80b106b3-3ff3-4f05-b733-1a9e9ee38831)
+
+* No. packets -> 3 + 2 + 1 + 3 + 4 -> 13.
+* 'D' is the packet which has the least no. of cigs within it.
+* We have to take the **worst case scenario** and proceed.
+* Least cigs in a packet -> 6.
+* Total -> 120.
+* Worst case -> 114.
+
+![image](https://github.com/user-attachments/assets/46b09d47-3718-45cb-a231-cc146143f5cb)
+![image](https://github.com/user-attachments/assets/564ee5b7-2c6f-41a2-aae1-7efe7dc43eb2)
+
+* In '114' cigs, we are **not sure** that we have gotten atleast '1' cig from each of the packets.
+* Till we have '115' cigs, we are **not sure** if we have gotten atleast '1' cig from each of the packets.
+* So '115' is the maximum cigs.
+* We have to find the **least no.** of cigs in a packet and go from that.
+* Till '114' it is possible that we don't have any 'p10' cigs.
+
+![image](https://github.com/user-attachments/assets/23942de6-4d2f-4ebc-ba6d-628cc1665da6)
+
+* On '115', we are **sure** that we will have 'p10' cigs.
+
+![image](https://github.com/user-attachments/assets/69eeb4da-06df-4b20-b56e-21e0bd71c9ad)
+![image](https://github.com/user-attachments/assets/ca663245-a8af-4282-946a-7ab3bbb01e4d)
+
+* Least cigs in a packet -> 6.
+* Worst case -> Total -least + 1 -> 120 - 6 + 1 -> 115. [Method '2']
+* Answer -> 115. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/46e4e6fd-e0c4-42e6-ac3e-dd2c21bcb570)
+
+* Least cigs from brands -> 18
+* 120 - 18 -> 102.
+* Till '102' it is a possibility that we don't get a cigs from the company 'C'.
+* Worst case -> Total -least + 1 -> 120 - 18 + 1 -> 103.
+* From '103' we are sure that we have atleast '1' cig from each of the cig brands.
+* Answer -> 103. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/d82170fd-7986-43ab-86d2-a20b611cc33e)
+
+* Total -> 120.
+* No. of packets -> 13.
+* Worst case -> From every packet, we will get '1' less cig. [**IMPORTANT**]
+* 120 - (13 * 1) -> 107
+* Till '107' cigs none of the packets are complete.
+* 107 + 1 -> 108th.
+* '108th' cig will complete any one of the cig packets that are missing only '1' cig from them to complete the packet. It will complete any one of the packets. [**IMPORTANT**]
+* In '108th' cig, whatever cig brand we get, we are sure that we will have atleast '1' full packet with original content.  [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5b21be27-7ed3-4333-a13c-b3686b7c40ea)
+
+* Answer -> 108. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/5e1b04ab-30e9-4e54-bb04-5a3be022f4a7)
+![image](https://github.com/user-attachments/assets/fac33c1f-908d-4e33-9f7e-12eff301f548)
+
+* We will make sure that none of the brands are **completed**. We will keep them '1' off or '1' cig less from **completion**.
+* Worst case -> 29 + 23 + 17 + 23 + 23 -> 115 [Method '1']
+* 115 + 1 -> 116.
+* No. of brands -> 5
+* Worst case -> 120 - (5 * 1) + 1 -> 116 [Method '2']
+* Till '115' cigs none of the packets are complete.
+* '116th' cig will complete any one of the cig brands that are missing only '1' cig from them. It will complete any one or atleast one of the brands. [**IMPORTANT**]
+* '116th' cig will complete any one of the brands only.
+* Answer -> 116. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/5ba2300f-5730-4a7f-9939-747f1a7915bb)
+
+* M -> 30
+* Worst case -> 120 - 30 + 1 -> 91.
+* Till '90' we are **not sure** if we have atleast '1' cig from 'M'.
+* From '91' we are **sure** that we have atleast '1' cig from 'M'.
+
+![image](https://github.com/user-attachments/assets/379e896f-ee91-401c-ad60-68cc68e61211)
+![image](https://github.com/user-attachments/assets/dc1f34a9-f735-452a-be02-34d76b9adb1f)
+
+* Answer -> 91. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+
+
+
+
+
+
+
+
 
 
 
