@@ -5607,16 +5607,93 @@ We have '19' prime nos and '19' is also a **prime no** only.
 * Answer -> 14. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
 ![image](https://github.com/user-attachments/assets/5f33f1b7-145e-4d3e-8599-aff7d7b11e1b)
+![image](https://github.com/user-attachments/assets/bff55346-591a-4702-a031-b18167dcd8fa)
+![image](https://github.com/user-attachments/assets/a869fe8d-7257-479e-b20f-3ffe3bbada04)
 
 * 44. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
-* Start from **40mins**.
+* Worst Case scenario. [Concept]
+* Ensure -> Definitely. [Meaning]
+* No. of gloves -> 2 * (12 * 3) -> 72.
 
+![image](https://github.com/user-attachments/assets/bb2d7322-51f0-4613-a42a-a0d127a648cb)
 
+* Left Hand(LH) -> 3 * 12 -> 36
+* Right Hand(RH) -> 1 -> Could be any one of the colors.
+* 36 + 1 -> 37th glove.
+* We can tell with certainity that '37th' glove will have atleast one left hand and atleast one right hand glove.
+* We cannot do this with '36th' glove as all of the 36 gloves can be at the left hand or all at the right hand.
 
+![image](https://github.com/user-attachments/assets/0b6a0c49-9dd5-4c7c-867d-cba58f1c51cb)
+![image](https://github.com/user-attachments/assets/f64d3c16-934c-4096-bb04-a0554f4a0261)
 
+* It is the **answer** of **Q3**, sir misunderstood **Q1**.
+* Answer -> 37. [3] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* 1 -> Blue
+* 2 -> Gray
+* 3 -> black
+* 4 -> Any color among the above '3' colors.
+* Then we will have a pair of gloves of the same color.
+* Even if we have '2' gloves of the same color for the left or right hand then also it is a **pair**. [**IMPORTANT**]
+* Nothing is mentioned about **hands**.
 
+![image](https://github.com/user-attachments/assets/66fab91d-b268-450e-aaff-b964b711a415)
+![image](https://github.com/user-attachments/assets/9355ad5e-8f9b-42e0-8d35-61404e49401b)
 
+* Answer -> 4. [1] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
 
+![image](https://github.com/user-attachments/assets/fb52561b-7ca7-4be2-9d70-46a90e2c5251)
+![image](https://github.com/user-attachments/assets/b8f079c1-24e4-4677-aaef-3bb08e2d9827)
+
+* 1st 24 gloves -> blue.
+* Next 24 gloves -> gray.
+* Total -> 48.
+* 49th glove -> black.
+* We are sure that we are getting atleast '1' of all of the color of gloves.
+* Answer -> 49. [2] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/bda078f1-9498-47b0-966b-dd6c88e7e765)
+
+* **Q4** is similar to **Q3** only.
+* 12 black -> LH
+* 12 blue -> LH
+* 12 gray -> LH
+* total -> 36
+* 37th glove can be any of the above '3' colors and we will have a matching pair of gloves of the same color.
+* Answer -> 37. [4] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/8011f343-acba-4c47-b41b-02a0f4c928d4)
+![image](https://github.com/user-attachments/assets/d75751ea-ab8a-4001-a76c-35f842903373)
+
+* **Q6** -> Atleast '6' gloves of each color. [Question] [**VERY IMPORTANT**]
+* 24 -> Black
+* 24 -> blue
+* total -> 48
+* Next '6' -> gray
+* total -> 48 + 6 -> 54.
+
+![image](https://github.com/user-attachments/assets/52f2b7b8-42eb-4d93-8d25-9892298d06b6)
+ ![image](https://github.com/user-attachments/assets/2f35798c-f227-4e17-a3a6-e115a648b41e)
+
+* Answer -> 54. [6] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+* 53 -> 24(black), 24(grey), 5(blue) -> atleast '6' gloves for each is not possible.
+* To **ensure** atleast '6' gloves for each, we need '54' gloves.
+
+![image](https://github.com/user-attachments/assets/0518a1e1-1ced-454a-b1f0-22c3040bf14e)
+![image](https://github.com/user-attachments/assets/50b51da4-f9e3-41a7-a8f6-64fe8f8955d0)
+
+* We have to think from the **worst case scenario**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d244c132-0a81-43a3-9a14-baf02a98ec45)
+
+* 5 -> Blue
+* 5 -> Green
+* 5 -> Black
+* 16th glove -> Can be any of the above '3' colors, then we will have '6' gloves of any '1' color.
+* Answer -> 16. [5] [Solution] [Answer] [**VERY IMPORTANT**] [practice]
+
+![image](https://github.com/user-attachments/assets/1914cd67-2c09-4d49-9bf5-996884304e00)
+
+* 45. [Question] [Set] [**VERY IMPORTANT**] [Practice Again]
 
 
 
