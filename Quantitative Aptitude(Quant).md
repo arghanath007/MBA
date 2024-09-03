@@ -312,10 +312,91 @@
 ![image](https://github.com/arghanath007/MBA/assets/54589605/0321b805-ec98-44a8-854b-dc740294b1e5)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/ae8bc373-3ef3-4c96-8d02-57ae6d81395b)
 ![image](https://github.com/arghanath007/MBA/assets/54589605/954b88c6-9283-4ccf-bab7-1a666615211d)
+![image](https://github.com/user-attachments/assets/02f9281f-b524-42b7-9cb1-ab872605b9dd)
 
 * Answer -> 0.27 [Answer] [Solution] [**IMPORTANT**]
+* 1/4 -> 25%.
+
+![image](https://github.com/user-attachments/assets/721b8f0b-891d-4f8b-bbda-4295278a0af4)
+![image](https://github.com/user-attachments/assets/ae45c011-048f-49c8-b10e-53c405bdd75d)
+
+* 233/864
+* 864 * 1/4 -> 216
+* 216 + 17 -> 233
+* 216/864 -> 1/4 -> 25%.
+* 17/864 -> 1.96% -> ~ 2%.
+* 1% of 864 -> 8.64
+* 2% of 864 -> 17.28
+* 233/864 -> 216/864 + 17/864 -> 25% + 2% -> 27% -> 0.27.
 
 ## Speed Maths (3)
+
+![image](https://github.com/user-attachments/assets/a7d5ad7f-50b8-4f85-82ea-b064d2000131)
+
+* 803 * 3 -> 2409.
+* 803/2408 -> 33.33%
+* 14/2408 -> 0.6%
+* 33.33% - 0.6% -> 32.7% -> 32.7/100 -> 0.327.
+
+![image](https://github.com/user-attachments/assets/897baed4-3b46-4996-be07-63d87377b2c4)
+![image](https://github.com/user-attachments/assets/e06bd5d7-ae6b-47b7-b72e-f8ca72abbb13)
+
+* Try to do it upto '1-decimal' place.
+
+![image](https://github.com/user-attachments/assets/99e009ba-cecc-4210-9e9f-030142650c7f)
+![image](https://github.com/user-attachments/assets/bd74715e-1bef-42d4-b671-40050f88ba3e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
