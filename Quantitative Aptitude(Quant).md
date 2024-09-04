@@ -564,7 +564,166 @@
 * y = 6.
 * 14 * 8 -> 112 -> ~108.
 * 1/8 -> 0.12
-* Always calculate the nearest perfect cube.
+* Always calculate the nearest perfect cube. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/24fafcd4-a771-409c-9445-ea04f5ebc04a)
+![image](https://github.com/user-attachments/assets/5b6e90d3-a2b5-4c46-ab19-d00ddb7ba3e8)
+
+* 8 ^ 3 -> 512
+* dx -> 512 - 451 -> 61
+* y -> 8.
+* 61/192 -> 0.33 -> ~0.31 or ~0.32 [61 * 3 -> 183]
+* As, 192 > 183.
+
+![image](https://github.com/user-attachments/assets/8374e36f-bc23-4304-9407-c1494334d95a)
+
+* dy/(3 * (x ^ 2)) -> This formula doesn't work very well with **very small values**. [Formula] [**VERY IMPORTANT**]
+* We need to **increase** the no. so that we can easily calculate cube root of it. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d3d9fb26-a4d7-4c19-bad9-26d6fa518b50)
+![image](https://github.com/user-attachments/assets/fe601ec0-2c4b-442e-86c0-b0980392024e)
+![image](https://github.com/user-attachments/assets/d545d4db-6532-4432-bfa1-c88d6288c388)
+
+* 12 ^ 3 -> 1728
+* dx -> 1728 -1700 -> 28.
+* y -> 12.
+* 28 * 15 -> 420
+* 28/432 -> ~1/15 -> 6.66 -> 0.06
+
+![image](https://github.com/user-attachments/assets/79a8cdd9-d74c-4645-8a3b-fd5f18860fe0)
+
+* Example
+
+![image](https://github.com/user-attachments/assets/0d3f9a1b-1f18-4fee-a25d-ffec27b5e3da)
+![image](https://github.com/user-attachments/assets/d19f8a1d-d466-48aa-a411-0a62e64c672e)
+
+* 12 ^ 3 -> 1728
+* dx -> 1728 - 1620 -> 108
+* y -> 12
+* y - dx/3 * y ^ 2 -> 12 - 108/432 -> 12 - 1/4 -> 12 - 0.25 -> 11.75
+* 11.75/10 -> 1.175
+
+![image](https://github.com/user-attachments/assets/2c8c2e21-f9e1-4604-9927-c5b8dd9fc4cd)
+![image](https://github.com/user-attachments/assets/78347f70-a624-4ac4-bdbf-1900a443c9fa)
+
+* r = 17.5%. [Answer] 
+
+### Square Root
+
+![image](https://github.com/user-attachments/assets/9567299a-70f4-41f7-9e3a-2b2610aa76d5)
+
+* **STEPS**:- [Formula] [**VERY IMPORTANT**]
+
+1) Find the nearest perfect square.
+2) Find the decimal part using **(dx/(2 * y))**.
+
+![image](https://github.com/user-attachments/assets/a032e92b-4d7f-4d78-b56d-82bafc9e51a3)
+![image](https://github.com/user-attachments/assets/1f86007b-3b33-4248-b7c8-bd4b720d8793)
+
+* 14 ^ 2 -> 196
+* dx -> 201 - 196 -> 5.
+* y = 14
+* y + dx/2y -> 14 + 5/28 -> 14 + 1/5 -> 14+ 0.18 -> 14.18. [1/5 -> 0.2, 1/6 -> 0.166]
+* Somewhere in the middle of '1/5 and 1/6'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
