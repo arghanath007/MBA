@@ -514,7 +514,17 @@
 
 ## Speed Maths (4)
 
+### Cube Root
 
+![image](https://github.com/user-attachments/assets/d1673052-e24c-4248-83b0-71991f911457)
+
+* cube root(1000) -> 10.
+* cube root(10000) -> cube root(10) * cube root(1000) -> 2.1 * 10 -> 21 -> ~22.
+
+![image](https://github.com/user-attachments/assets/a5419308-4ae8-4f5e-9beb-dac5741ea7e6)
+
+* cube root(70000) -> cube root(70) * cube root(1000) -> 4.1 * 10 -> 41 -> ~42.
+* 4 ^ 3 -> 64
 
 
 
