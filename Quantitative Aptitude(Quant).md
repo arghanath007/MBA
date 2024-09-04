@@ -526,17 +526,45 @@
 * cube root(70000) -> cube root(70) * cube root(1000) -> 4.1 * 10 -> 41 -> ~42.
 * 4 ^ 3 -> 64
 
+![image](https://github.com/user-attachments/assets/6b39fb37-e4c4-46f1-bfe8-9cf690f276a2)
 
+* cube root(351232) -> cube root(351) * cube root(1232) -> 7.1 * 10 -> 71 -> ~72.
+* 7 ^ 3 -> 343.
 
+![image](https://github.com/user-attachments/assets/d226381d-ef2b-43e8-b65a-249bada59afe)
+![image](https://github.com/user-attachments/assets/032f1392-6a8b-4d26-87bf-ff52644f4269)
 
+* This is the **decimal part** of any **cube root**. [Formula] [**VERY IMPORTANT**]
+* **STEPS**:-
 
+1) Find the nearest perfect cube.
+2) Find the decimal part using **(dx/(3 * (y ^ 2)))**.
 
+![image](https://github.com/user-attachments/assets/4f1496f9-ab21-4c13-9599-468ab0c9d61b)
+![image](https://github.com/user-attachments/assets/33db4bd6-2903-45fd-8daf-b6d073efd225)
 
+* Number -> 71.
+* Nearest perfect cube -> 4 ^ 3 -> 64.
+* dx -> The difference -> The number - nearest perfect cube. [Formula] [**VERY IMPORTANT**]
+* dx -> 71 - 64 -> 7. [Formula] [**VERY IMPORTANT**]
+* dx = 7.
+* y -> nearest perfect cube number -> 4. [Formula] [**VERY IMPORTANT**]
+* y = 4.
 
+![image](https://github.com/user-attachments/assets/13a3a50d-8124-4f1e-bdff-092ba445f262)
+![image](https://github.com/user-attachments/assets/c7f56dd1-c781-4c07-aed0-76bb4ed07e5e)
 
+* 4 + 7/48 -> 4 + ~1/7 -> 4 + 0.14 -> 4.14. [Answer]
 
+![image](https://github.com/user-attachments/assets/0a3a24ed-15a0-4b77-892c-bd78ef608212)
+![image](https://github.com/user-attachments/assets/dc19838a-ec4a-41d8-9bea-c1e2fcea20e9)
 
-
+* 6 ^ 3 -> 216.
+* dx = 216 - 202 -> 14
+* y = 6.
+* 14 * 8 -> 112 -> ~108.
+* 1/8 -> 0.12
+* Always calculate the nearest perfect cube.
 
 
 
