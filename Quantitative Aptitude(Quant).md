@@ -350,33 +350,144 @@
 * 17.5% of 2334. 
 * 17.5% -> 10% + 5% + 2.5%
 * We are doing **half** each time.
+* 10% of 2334 -> 233.4 -> 233. 
+* 5% of 2334 -> 116.7 -> 117.
+* 2.5% of 2334 -> 58.
+* 233 + 117 + 58 -> 408
+* 10% of 2334 -> 233.4. 
+* 20% of 2334 -> 233.4 * 2 -> 466.8.
+* 10%/4 -> 2.5%.
+* 233.4/4 -> (233.4/2)/2 -> 117/2 -> 58.
 
+![image](https://github.com/user-attachments/assets/97d48633-3626-4bc1-8b60-48f50144ccfd)
 
+* 17.5% -> 20% - 2.5% -> 466.8 - 58 -> ~ 408.
 
+![image](https://github.com/user-attachments/assets/396eb83c-9003-4cbe-a8b8-84deb419ff80)
 
+* 1% -> 36
+* 3.5% -> 3 * 1% + 0.5% -> 108 + 18 -> 126.
 
+![image](https://github.com/user-attachments/assets/dffa6769-bb28-425c-822c-40cc14911d9e)
+![image](https://github.com/user-attachments/assets/26a1b0f5-fae6-4aa0-8f48-8f024ffc0371)
 
+* 1% -> 36.44
+* 3.5% -> 3 * 1% + 0.5% -> 108 + 18 + 2 -> ~128.
+* 0.44 * 3.5 -> 0.44 * 3 + 0.44 * 0.5 -> 1.32 + 0.22 -> 1.54 -> take it as '+1 or +2'. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/7a590589-0778-455b-b049-b222f04e993c)
+![image](https://github.com/user-attachments/assets/d9aecf7e-2b12-42cc-82e2-54f709c9a388)
 
+* Decimal part will create trouble. Leave the decimal part. Do it later after the calculations are.  [Formula] [**VERY IMPORTANT**]
+* If we take the decimal part also then it is going to create **delay** and slow down the calculation. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/8ea60140-1e1a-4cb5-9c49-61efd506acfe)
 
+* 76.7 * 3 -> 76 * 3 + 0.7 * 3 -> 228 + 2 -> 230.
 
+![image](https://github.com/user-attachments/assets/686ba77e-cd77-4aef-8050-440cab5e1e52)
+![image](https://github.com/user-attachments/assets/0b42cf6d-5e76-450d-8da4-b8e6e69f8139)
+![image](https://github.com/user-attachments/assets/b57f31c1-0d4b-4dd7-a0f6-99bdf22058c6)
+![image](https://github.com/user-attachments/assets/4e93a956-12b9-4611-bc47-e5c05e999483)
+![image](https://github.com/user-attachments/assets/c73e8664-1423-43ad-a2c4-d9b651209565)
 
+* Special values rather than random values.
 
+![image](https://github.com/user-attachments/assets/0f7343fe-2781-4c2a-81b1-d5f05e1ba649)
+![image](https://github.com/user-attachments/assets/0d8c9060-124d-4cf4-ba95-95783ffaa7c7)
+![image](https://github.com/user-attachments/assets/fb937cfb-2839-49ad-99f9-2b29b31903d8)
+![image](https://github.com/user-attachments/assets/38a4cc29-b06d-43b7-a84b-68c280ec399c)
 
+* 12.5 -> 1/8 [Formula] [**VERY IMPORTANT**]
+* 12.5 * 3 -> 37.5 [Formula] [**VERY IMPORTANT**]
+* 37.5 -> 3 * 1/8 -> 3/8.
+* 12.5 * 5 -> 62.5 [Formula] [**VERY IMPORTANT**]
+* 62.5 -> 5 * 1/8 -> 5/8.
+* 12.5 * 7 -> 87.5 [Formula] [**VERY IMPORTANT**]
+* 87.5 -> 7 * 1/8 -> 7/8.
+* **Special fraction values** above.
 
+![image](https://github.com/user-attachments/assets/50a0ee66-edf3-4a0d-8b00-208f0ff46b35)
 
+* 1/16 -> 6.25%. [Formula] [**VERY IMPORTANT**]
+* 3 * 1/16 -> 3/16 -> 6.25 * 3 -> 18.75%.
 
+![image](https://github.com/user-attachments/assets/96153a52-c425-4021-8806-f9d26c16f222)
+![image](https://github.com/user-attachments/assets/15333232-2ced-4d8b-a9d0-0cd961a3a6ca)
 
+* 1/11 -> 9.09. [Formula] [**VERY IMPORTANT**]
+* 2 * 1/11 -> 2/11 -> 2 * 9.09 -> 18.18%
 
+![image](https://github.com/user-attachments/assets/f6ee2163-adf3-4ae1-aacc-0b811ac66a43)
+![image](https://github.com/user-attachments/assets/cb0986a9-eb5b-4176-8ee5-8a6263342c22)
+![image](https://github.com/user-attachments/assets/25a0d188-d5f6-4e5f-baa4-69b734e430e2)
 
+* 1/12 -> 8.33% [Formula] [**VERY IMPORTANT**]
+* 10 * 1/12 -> 10/12 -> 5/6 -> 10 * 8.33 -> 83.33%
+* 10/12 -> 5/6 -> 83.33%.
 
+![image](https://github.com/user-attachments/assets/75c063e0-b7ba-4e5e-87ad-09eecd4ddf21)
 
+### Multiplying factor
 
+* f -> fractional value.
 
+![image](https://github.com/user-attachments/assets/bd1fabff-7197-4e2a-b151-7e7e53529ec5)
+![image](https://github.com/user-attachments/assets/dc0df28f-3b55-4208-83b8-17be9ce4b3c4)
 
+* x -> 25% decrease.
 
+![image](https://github.com/user-attachments/assets/06934f31-c3b3-4b75-8885-9ad4b29f8037)
+![image](https://github.com/user-attachments/assets/2f6b8936-9d4b-44cc-a8aa-fa91f2277819)
 
+* x -> 20% increase.
+
+![image](https://github.com/user-attachments/assets/e9ecc670-ee2d-48de-9f89-0c6ab649e23a)
+![image](https://github.com/user-attachments/assets/13a7e724-771c-4ba2-9ac7-b6deb6ddc9e7)
+![image](https://github.com/user-attachments/assets/cdb7dbab-2678-410a-b10f-b33aba0dcf24)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/e479dcc9-11a5-4af3-b756-ac7ccae4ba62)
+![image](https://github.com/user-attachments/assets/07c74fe3-a8ed-4496-a55b-488d4976f940)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/51c1ecb0-279e-46e5-8751-d0ace6603c26)
+![image](https://github.com/user-attachments/assets/6945a236-9446-4a5d-9552-b6b8aaf80a0d)
+
+* 1/6 -> 16.66% decrease.
+* MF -> 1 - 1/6 -> 5/6.
+
+![image](https://github.com/user-attachments/assets/c82dfea0-b2a9-4f75-b44c-8d6ea704b317)
+![image](https://github.com/user-attachments/assets/6104bee2-8d46-4e3a-9bbd-dbd41200f96a)
+![image](https://github.com/user-attachments/assets/2c7fd04a-a5d1-4257-b31b-c696fd4a70d6)
+
+* FV -> Final value.
+* IV -> Initial value.
+* % change = ((FV - IV)/IV) * 100%. [Formula] [**VERY IMPORTANT**]
+* Change = FV - IV. [Formula] [**VERY IMPORTANT**]
+* -42.12% -> 42.12% decrease.
+
+![image](https://github.com/user-attachments/assets/8c8671aa-e053-4b50-99aa-e10b42077179)
+![image](https://github.com/user-attachments/assets/5d1c0ec6-f816-4f51-88c3-56af7d6dfb34)
+![image](https://github.com/user-attachments/assets/79533362-ba36-4ad5-a707-2f948d9eb463)
+![image](https://github.com/user-attachments/assets/769ddd89-a2bc-4357-bce1-c0e28ebf05b2)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/451bbbd2-1a03-4839-919f-59603705c622)
+![image](https://github.com/user-attachments/assets/7b576eeb-17c3-4c94-8adc-7caf78365a3f)
+
+* Practice for **2-digit** numbers. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b5e84608-7544-4e57-a0a0-7d1d153040b5)
+![image](https://github.com/user-attachments/assets/75c2cbd3-2656-4449-8e6d-2c28550039e6)
+![image](https://github.com/user-attachments/assets/2e5625cb-85b9-4309-aadd-56f4622ed6c2)
+![image](https://github.com/user-attachments/assets/747a3960-8029-49d3-945e-ce4d9d0affe3)
+
+* Example. [NMAT]
+* Start breaking the nos. in **our mind**. It will be easier to **solve** them.
 
 
 
