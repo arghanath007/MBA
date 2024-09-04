@@ -489,10 +489,54 @@
 * Example. [NMAT]
 * Start breaking the nos. in **our mind**. It will be easier to **solve** them.
 
+![image](https://github.com/user-attachments/assets/29c90b6e-b13b-4ed7-9e03-7df2add1a63a)
+![image](https://github.com/user-attachments/assets/ba05cc5d-f22b-4f47-b7f4-02380d3e47d8)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/fda6a22a-681a-46e1-bd6a-252e93c56f0a)
+
+* Successive.
+
+![image](https://github.com/user-attachments/assets/4b561468-885e-490a-b420-29ebff7845bd)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/9700586c-c0fa-49fc-8418-13ecc882dbb4)
+![image](https://github.com/user-attachments/assets/1a176a5c-53ad-42ac-9a29-e3ecd46a445c)
+
+* When the nos. are **easy** then take **100**. For **special values** don't start with **100**.
+* At the starting assume the no. as '1 or x'.
+* 1 -> 48/48. [Let]
+
+![image](https://github.com/user-attachments/assets/d4e4d2c5-2a84-4e5d-8bdc-7f0b513e486d)
+![image](https://github.com/user-attachments/assets/46d7b45a-84b0-47b4-8327-ff5876cf6942)
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b7ef4fe6-cd57-4eb7-a5bd-29ff6d9b8909)
+![image](https://github.com/user-attachments/assets/9bc4a408-6322-4c4f-b9cc-f6a87225daf2)
+![image](https://github.com/user-attachments/assets/0d7d1add-9a29-494f-88a3-4b1ed043676e)
+![image](https://github.com/user-attachments/assets/db3fd32f-0f40-4758-9cfb-a70ff910ddd2)
+![image](https://github.com/user-attachments/assets/2db45c68-62ff-4b84-b794-9c2419dfc433)
+![image](https://github.com/user-attachments/assets/5fb3644e-8428-4116-91c5-bc102c222dd3)
+![image](https://github.com/user-attachments/assets/41f465b2-da68-45bb-b72f-0be7d1868b56)
+![image](https://github.com/user-attachments/assets/03c8eac6-3eef-4052-bfe3-57fee9e434a0)
+![image](https://github.com/user-attachments/assets/d898a042-d4a7-4ca5-a2a8-3e3902eaf6b9)
 
 
 
