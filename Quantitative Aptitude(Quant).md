@@ -626,15 +626,30 @@
 * y + dx/2y -> 14 + 5/28 -> 14 + 1/5 -> 14+ 0.18 -> 14.18. [1/5 -> 0.2, 1/6 -> 0.166]
 * Somewhere in the middle of '1/5 and 1/6'.
 
+![image](https://github.com/user-attachments/assets/391a314d-f57a-4844-8bd4-114869676859)
+![image](https://github.com/user-attachments/assets/7e7c42e4-ac15-42b9-898a-9df6511c9fc0)
 
+* 16 * 16 -> 256
+* dx = 265 - 256 = 9
+* y = 16.
+* 9/27 -> 1/3 -> 0.33
+* 9/36 -> 1/4 -> 0.25
+* Somewhere in the middle of '1/3 and 1/4'.
+* Answer -> ~4.1
 
+![image](https://github.com/user-attachments/assets/9d2f8103-dc16-44fa-85cb-294d42c6350a)
+![image](https://github.com/user-attachments/assets/08099f17-1771-45e9-ba9b-54c940add586)
 
+* 33 ^ 2 -> 1089.
+* 2/33 -> ~1/16 -> 0.06
+* 70 ^ 2 -> 4900.
+* 72 ^ 2 -> 5184.
 
+![image](https://github.com/user-attachments/assets/d015e8e4-6e50-48b0-88a3-8f82bcf738c6)
 
-
-
-
-
+* For very small values. [Formula] [**VERY IMPORTANT**]
+* Linear approximation. [1]
+* Nearest perfect square.
 
 
 
