@@ -649,8 +649,9 @@
 
 * For very small values. [Formula] [**VERY IMPORTANT**]
 * Linear approximation. [1]
-* Nearest perfect square.
+* Nearest perfect square. [2]
 
+![image](https://github.com/user-attachments/assets/73b5a76d-b098-4c8b-bf11-a0d0815ab7c2)
 
 
 
