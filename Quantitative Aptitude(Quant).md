@@ -652,16 +652,31 @@
 * Nearest perfect square. [2]
 
 ![image](https://github.com/user-attachments/assets/73b5a76d-b098-4c8b-bf11-a0d0815ab7c2)
+![image](https://github.com/user-attachments/assets/f1a84e44-ebed-47ff-b961-8b37a62a11b0)
 
+* We are assuming the '3' nos. as **same** for easier calculations.
+* 8^3 -> 512
+* 492723 -> ~80.
+* All the '3' nos. are around '80'.
 
+![image](https://github.com/user-attachments/assets/e02060d1-11e3-4526-8298-ce1b6db36f65)
 
+* If the multiples have a '5' then the product should have '5' at the **end** which it doesn't so it cannot be '75'.
 
+![image](https://github.com/user-attachments/assets/6a2fd1da-af87-4abe-80e9-480473d4f7a5)
 
+* If all of the '3' nos are greater than '80' or '80' plus then the product should have been greater than '8^3 -> 512' which it(492 < 512) doesn't. So all the '3' nos. are not greater than '80'. All '3' nos are not more than '80'. '81, 83 and 85' is not possible.
 
+![image](https://github.com/user-attachments/assets/409cc85d-17e4-4aa7-8f59-094308977bb3)
 
+1) 7 * 9 * 1 -> 63 -> ending in '3' -> This is working.
+2) 9 * 1 * 3 -> 27 -> ending in '7' -> This is not working.
 
+![image](https://github.com/user-attachments/assets/7d2383d5-7920-4e53-91d9-8eaf4e1a4354)
+![image](https://github.com/user-attachments/assets/965e2d91-5ef1-4e5b-9dae-a0661aac548e)
+![image](https://github.com/user-attachments/assets/34fbd34f-6279-4ae5-bfad-0772dd767b7d)
 
-
+* Option **B**. [**VERY IMPORTANT**] [Practice Again]
 
 
 
