@@ -682,11 +682,15 @@
 
 ## Speed Maths (5)
 
+![image](https://github.com/user-attachments/assets/c0fac02b-2871-4137-9aa2-83fac903d40e)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/ed640e67-1641-4925-bf81-9ddd08dcace4)
 
+* Examples.
 
-
+![image](https://github.com/user-attachments/assets/79011b1f-62fd-4c12-8dd0-30d33e4eab4a)
 
 
 
