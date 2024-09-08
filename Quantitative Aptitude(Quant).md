@@ -678,7 +678,9 @@
 
 * Option **B**. [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/4e950674-f149-4e0e-9478-3a77d6df7568)
 
+## Speed Maths (5)
 
 
 
@@ -769,6 +771,32 @@
 
 
 
+
+
+
+
+## Quant Practice Questions
+
+![image](https://github.com/user-attachments/assets/1cd46295-f43f-456e-a606-4ce53b0e4c6b)
+![image](https://github.com/user-attachments/assets/56183a68-4883-40e2-9cc5-f8e3133231c4)
+![image](https://github.com/user-attachments/assets/81bbfd91-a1b3-4a85-b1c2-7e3c5bb37db5)
+![image](https://github.com/user-attachments/assets/30f598f3-36a9-426d-8984-e4d2b3ba695c)
+![image](https://github.com/user-attachments/assets/b27cab65-19ed-4998-98a8-8f9d9ec23e18)
+![image](https://github.com/user-attachments/assets/7476061a-fa7a-4bb2-ad69-029cdcf6fb58)
+![image](https://github.com/user-attachments/assets/95a095e9-d33c-4b8e-b952-d9c4ba760320)
+![image](https://github.com/user-attachments/assets/9ffaf1fe-9cb7-4eed-9825-fc88ee7fe733)
+![image](https://github.com/user-attachments/assets/7235f000-e036-4a56-942b-26b0f78a1a29)
+![image](https://github.com/user-attachments/assets/ea6fc9e6-e975-4fdb-8718-6c7393da51a4)
+![image](https://github.com/user-attachments/assets/f8c1f942-9107-47f8-b442-7842d004ac8c)
+![image](https://github.com/user-attachments/assets/4ce590b2-92cb-4285-9ddf-1f2494156932)
+![image](https://github.com/user-attachments/assets/c0314b96-57f9-40e7-954e-6de3e9fe2ad4)
+![image](https://github.com/user-attachments/assets/007a6bb2-8d5c-4486-91c8-799040ecce37)
+![image](https://github.com/user-attachments/assets/726448ec-6fd7-4d9c-a611-529d4b83f293)
+![image](https://github.com/user-attachments/assets/86b2aafb-0d4f-4418-b3a2-dac66f6d6911)
+![image](https://github.com/user-attachments/assets/4623f80c-113c-4a84-80a5-7b47370ff233)
+![image](https://github.com/user-attachments/assets/99206806-2e53-466e-bb99-68a9c7bbf574)
+![image](https://github.com/user-attachments/assets/2658cc2e-7c3d-407b-86d1-1d7ccdb6ec1f)
+![image](https://github.com/user-attachments/assets/66a18a38-468b-4e1d-b586-1785063a11af)
 
 
 
