@@ -691,14 +691,20 @@
 * Examples.
 
 ![image](https://github.com/user-attachments/assets/79011b1f-62fd-4c12-8dd0-30d33e4eab4a)
+![image](https://github.com/user-attachments/assets/c078b0c3-dfae-4a75-b267-4955098312c7)
+![image](https://github.com/user-attachments/assets/ea52b7eb-6154-4765-9f30-8dcc23eac73f)
 
+* '300' doesn't fall under **any power of 10**. [**IMPORTANT**]
+* Temporary base -> 300.
+* After convert the temporary base of '300' to '100'.
 
+![image](https://github.com/user-attachments/assets/5294bda5-f51a-48c7-bb2b-0ad453a8f5ef)
 
+* Example. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/08b38ba6-775b-4709-ae5b-bcc5f34694c5)
 
-
-
-
+* Example. [**IMPORTANT**]
 
 
 
