@@ -706,13 +706,30 @@
 
 * Example. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/8539247b-defd-4b40-b03e-6f28bebbfde5)
+![image](https://github.com/user-attachments/assets/4cd22c8a-8da4-4659-ac26-fd6bb371f82a)
+![image](https://github.com/user-attachments/assets/cdc75778-cb70-4379-a1c4-264faacd7952)
 
+* Example. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ebbc0677-47be-46e6-8c4f-42a41f291c1b)
+![image](https://github.com/user-attachments/assets/2d82b1ca-a041-4c2a-8753-cea855e6734f)
+![image](https://github.com/user-attachments/assets/01238dd5-ab34-4596-a563-ff5665bf74bc)
+![image](https://github.com/user-attachments/assets/bf120fcf-b887-4453-91e4-66e5c18e82b7)
+![image](https://github.com/user-attachments/assets/7da9f24b-6848-4f83-8de7-00f329ad2a1c)
 
+* Method **1**.
 
+![image](https://github.com/user-attachments/assets/78c95886-b6be-49dd-898a-c6c2fa358e74)
 
+* 106 - 1 -> 105
+* (1 * 100) - 72 -> 28.
+* 10528.
+* Method **2**.
 
-
+![image](https://github.com/user-attachments/assets/c46d907c-2645-43fe-ba17-6437b7680b11)
+![image](https://github.com/user-attachments/assets/a98f3dd3-281e-482f-8c58-fb4fe193d72b)
+![image](https://github.com/user-attachments/assets/425adcd3-4d98-46d5-84df-fba0956bb87a)
 
 
 
