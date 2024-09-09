@@ -786,6 +786,11 @@
 
 ## Percentages and Profit Loss(1) [5]
 
+![image](https://github.com/user-attachments/assets/4ea7d4e8-c38b-4b77-892d-bc2284067349)
+![image](https://github.com/user-attachments/assets/5cebb705-d5c2-4961-be07-ae420cac68cd)
+![image](https://github.com/user-attachments/assets/b2780b2c-0941-4135-af27-208acc4a15ea)
+
+* Examples.
 
 
 
@@ -818,8 +823,8 @@
 
 
 
-
-
+![image](https://github.com/user-attachments/assets/1a9f8c5d-0d87-41d2-a386-86642929fcd9)
+![image](https://github.com/user-attachments/assets/7f51fd07-5b6b-432c-aeec-690f28f2e731)
 
 
 ## Quant Practice Questions
