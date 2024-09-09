@@ -731,40 +731,60 @@
 ![image](https://github.com/user-attachments/assets/a98f3dd3-281e-482f-8c58-fb4fe193d72b)
 ![image](https://github.com/user-attachments/assets/425adcd3-4d98-46d5-84df-fba0956bb87a)
 
+### Fraction Comparison
 
+![image](https://github.com/user-attachments/assets/4f611107-c522-48ec-9e63-de3b2e929731)
 
+* Rule **1** -> 1/(something) form. [Formula] [**VERY IMPORTANT**]
+* Example.
 
+![image](https://github.com/user-attachments/assets/af47e007-d772-4dc2-b6f7-a9cea7f43caa)
 
+* Rule **1** didn't work here. So, we will use Rule **2**.
+* Rule **2** -> Reverse/Reciprocal. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/93fac242-639c-459a-987a-8ee079a152b0)
+![image](https://github.com/user-attachments/assets/b0eeec59-251e-4e82-8da4-71696b6b6a61)
 
+* After **reverse/reciprocal** we got the **left side** as **greater**.
+* Originally the **right side** was **greater**.
+* Example.
 
+![image](https://github.com/user-attachments/assets/fcbc4925-8f15-4227-83e0-6e8037c696c5)
+![image](https://github.com/user-attachments/assets/3afece9d-ab4a-4394-bac2-7fecea70f78b)
 
+* Take common of **3** out and then **compare**.
+* In reciprocal whichever is the **smallest**, it is the **largest** originally and vice-versa.
+* 2nd smallest -> 2nd largest
+* largest -> smallest.
 
+![image](https://github.com/user-attachments/assets/253638e5-7191-4237-8868-172932a13ae0)
 
+* Example. [**VERY IMPORTANT**] [Practice]
 
+### Put Up and Pull Down
 
+![image](https://github.com/user-attachments/assets/4ef67b4b-1019-4526-86c8-721cf7f2ebc6)
+![image](https://github.com/user-attachments/assets/1ac173a8-4696-4cb4-9466-bbf4320e104c)
 
+* Pull Up -> Small + bigger -> resulting fraction will be **greater**. [Formula] [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/471e03e8-bb76-4ff9-89ca-aa44869d9d3e)
+![image](https://github.com/user-attachments/assets/ba9f8a75-c053-4819-a491-a50a6830a771)
 
+* bigger than 1/2.
+* 1/2 < 1 -> Smaller
+* Pull Down -> bigger + smaller -> resulting fraction will be **smaller**. [Formula] [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/7cff39b9-0462-4ff8-b148-7c3160df6c66)
+![image](https://github.com/user-attachments/assets/811393a9-159e-4988-8cd6-df80fab56331)
 
+* 22/21 > 1 -> Bigger.
+* Pull Up -> Small + bigger -> resulting fraction will be **greater**. [Formula] [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/760a6776-1828-45a8-a292-de3f040d3319)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Percentages and Profit Loss(1) [5]
 
 
 
