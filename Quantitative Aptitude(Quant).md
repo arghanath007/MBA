@@ -1082,31 +1082,68 @@
 * 'P, Q and R' got '119.7%' increase.
 * Answer -> Option **D** -> 119.7%. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
 
+## Percentages and Profit Loss(3) [8]
 
+![image](https://github.com/user-attachments/assets/ba39f60b-c9f5-45e5-97ef-642554d1f061)
+![image](https://github.com/user-attachments/assets/0ede34b5-52f6-46cb-9b20-e53445e097dd)
+![image](https://github.com/user-attachments/assets/e8334bcb-7c5d-4e35-b25a-4398661389c8)
 
+* '2' times successive change.
 
+![image](https://github.com/user-attachments/assets/2dfa1e66-8d1a-453b-8abf-4d0f1fd23303)
+![image](https://github.com/user-attachments/assets/a3cc73b4-a16d-489c-be7c-749a3ae9739b)
 
+* 4x = 20, x = 5. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+* 10 -> 12 -> 20% increase.
+* 10 -> 14 -> 40% increase.
+* If multiplication has '2' terms then we are **increasing '2' times**. 
+* If multiplication has '3' terms then we are **increasing '3' times**.
+* '12 and 14' are closer to '10'.
 
+![image](https://github.com/user-attachments/assets/ba67f802-ec24-493c-a77b-2728c8e644f8)
+![image](https://github.com/user-attachments/assets/2d674805-5614-4323-afc1-8998bd29adb8)
+![image](https://github.com/user-attachments/assets/1c4b2f9b-5b7d-4123-ba2e-384244e0bf15)
+![image](https://github.com/user-attachments/assets/865b98d7-c4c6-45d2-b52f-9329a2ae3947)
+![image](https://github.com/user-attachments/assets/1d23ad53-e931-403e-b500-78c6906f3bb4)
+![image](https://github.com/user-attachments/assets/33b6d6b3-d9b3-4dba-aba9-e8d738395945)
 
+* Let the initial consumption be **y**.
+* Old price -> 10
+* New price -> 10 * 21/100 -> 10 - 2.1 -> 7.9
+* Example.
 
+![image](https://github.com/user-attachments/assets/d784f2ce-1459-4ec5-9767-cebeda04c70a)
 
+* '1' thing is **constant** and we have to attack that **constant** only.
+* Total before -> 5x.
+* Total after 30 matches -> 5x + 30.
+* As pak's success rate came down to '30%' so India's success rate went up to '70%'. 
+* India wins before -> 2x
+* Pak wins -> 3x
+* India wins after 30 matches -> 2x + 30.
+* Total matches played between Ind and Pak -> 5x + 30.
 
+![image](https://github.com/user-attachments/assets/2bbee3bc-68cc-463c-930f-2a98f5378637)
+![image](https://github.com/user-attachments/assets/adf09f79-a5a3-4034-9278-c30e6717541b)
 
+* x = 6.
+* Total matches(T) -> 60. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/e20cc386-bfb3-4408-98ff-6da626796c48)
+![image](https://github.com/user-attachments/assets/958469c7-1ce6-41c4-ac03-8ad641085fc0)
+![image](https://github.com/user-attachments/assets/e8f55713-6b86-4ea8-ac66-178465bd3bbc)
 
+* Method **2**.
 
+![image](https://github.com/user-attachments/assets/206357ca-8a54-4edf-8762-76d23e131543)
+![image](https://github.com/user-attachments/assets/20bdd292-331a-40bd-980d-f3616a4a328d)
 
+* **Pak** is **constant** right now as they are in **18** only as they haven't won anymore matches yet.
+* Pak's success rate decreased by '50%' because of lossig '30' consecutive matches.
+* 50% -> 30 matches.
+* 100% -> 60 matches.
 
-
-
-
-
-
-
-
-
-
-
+* Start from 1hr 24mins.
 
 
 
