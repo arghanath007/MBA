@@ -784,7 +784,7 @@
 
 ![image](https://github.com/user-attachments/assets/760a6776-1828-45a8-a292-de3f040d3319)
 
-## Percentages and Profit Loss(1) [5]
+## Percentages and Profit Loss(1) [6]
 
 ![image](https://github.com/user-attachments/assets/4ea7d4e8-c38b-4b77-892d-bc2284067349)
 ![image](https://github.com/user-attachments/assets/5cebb705-d5c2-4961-be07-ae420cac68cd)
@@ -846,37 +846,73 @@
 * Example.
 
 ![image](https://github.com/user-attachments/assets/f75f7076-3d9e-4ebd-a0fc-7ecc3dd27897)
+![image](https://github.com/user-attachments/assets/1f27600f-f237-43a0-815b-abdcaeea4dd5)
+![image](https://github.com/user-attachments/assets/e72d402c-939c-41aa-ba36-cdd3bec1b2b1)
+![image](https://github.com/user-attachments/assets/c736ab73-931e-4878-86b0-ee639f5971f2)
 
+* 16 + 3 -> 19.
+* 11 + 3 -> 14.
+* 7 - 3 -> 4.
+* Cancel them in **cross**. [Method **2**]
+* Finally do **multiplication**.
 
+![image](https://github.com/user-attachments/assets/6d033443-e772-4b7e-91be-ab7a485821ba)
 
+* Method **1**.
 
+![image](https://github.com/user-attachments/assets/dd873665-c5d7-4ee5-a7ae-73531c0013b4)
 
+* 3 + 1 -> 4.
+* 16 + 9 -> 25.
+* 12 + 7 -> 19.
+* Method **2**.
 
+![image](https://github.com/user-attachments/assets/7a54ecb0-f1bf-4234-ae22-8881b8a756fa)
 
+* Word Problem -> Disintregate -> Structure.
+* We are assuming **A's value** to be '100'.
+* 366.6% -> Special % value.
+* For **Special % value** we do not assume '100', we assume '1' instead.
+* We are assuming 'A + B + D' to be '100'. 
 
+![image](https://github.com/user-attachments/assets/62908fe2-d8e1-4730-acd8-473e3517eb90)
+![image](https://github.com/user-attachments/assets/ba990763-4ef0-44ea-91da-d010344e0283)
 
+* We are trying to make '7,14 and 28' the **same**.
+* 3 * 2 -> 6, 11 * 2 -> 22.
+* 6 + 22 -> 28.
+* We are getting '28' still.
+* 2 * 4 -> 8, 5 * 4 -> 20.
+* 8 + 20 -> 28.
+* They are not harming the **fractions**.
 
+![image](https://github.com/user-attachments/assets/22ec09f9-70a5-4560-a0ee-c775622813c2)
 
+* The value of '28' is '56L'.
+* 28U -> 56L
+* 1U -> 2L.
+* A -> 5.
+* B -> 6.
+* C -> 8.
+* 5 + 6 + 8 -> 19
+* 28 - 19 -> 9
+* D -> 9U -> 9 * 2 -> 18L.
 
+![image](https://github.com/user-attachments/assets/304d46aa-37bd-4a1e-8d9d-6a3d3e3e4cc8)
+![image](https://github.com/user-attachments/assets/9be89023-a763-4745-9a02-928c1dc5b258)
 
+* Example. [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/82af59bf-c8c0-43ce-97bf-af0e50bd337c)
 
+## Percentages and Profit Loss(2) [7]
 
+![image](https://github.com/user-attachments/assets/240cb374-e8cf-4ee5-85b8-19f9b8156728)
+![image](https://github.com/user-attachments/assets/5cec76a0-87e1-4736-84f2-ef0b734f9635)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Expenditure = Price * Consumption.
+* Expenditure is **constant** here.
+* 'P' is **inversely proportional** to 'C'.
 
 
 
