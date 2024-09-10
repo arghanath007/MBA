@@ -979,6 +979,118 @@
 
 ![image](https://github.com/user-attachments/assets/e006c040-209b-42f0-92b8-d2dbac676a48)
 
+* If the price of **wheat** is **5** then the price of **rice** is **1**.
+
+![image](https://github.com/user-attachments/assets/456fad75-3ad2-4a27-9a6b-28cca0e757d5)
+
+* 70 * 5 -> 350
+* 25 * 5 -> 125
+* (5 * 5) * 9 -> 225
+* 125 + 225 -> 350.
+* 25 * 20/100 -> 30% increase.
+* 30 * 9 -> 270.
+* 125 - 80 -> 45.
+* 45/125 * 100 -> 36% decrease. 
+
+![image](https://github.com/user-attachments/assets/51b0ad15-d648-462d-ae7e-4e086900b5a4)
+
+* Answer -> Option **A** -> 36% [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/dd032657-bcd3-402c-8016-f9d2530136e3)
+
+* Another way, **answer** is the **same** only.
+
+![image](https://github.com/user-attachments/assets/0673122e-25fd-45bc-ae87-8537066682e4)
+
+* No importance in actual number.
+
+![image](https://github.com/user-attachments/assets/86de4763-d7e3-4a17-8974-146cfd44aac6)
+
+* '46000' is '10%' of '4.6L'.
+* 100 * 10/100 -> 110.
+* 110 * 10/100 -> 120.
+
+![image](https://github.com/user-attachments/assets/f8af0c19-5e72-4d0b-adb4-8a4546c7192e)
+![image](https://github.com/user-attachments/assets/24bb9267-f5a4-4a1b-a9ac-3c8e94e102bc)
+
+* Answer -> Option **B** -> 51% [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/9beff271-7125-4013-a584-e0d234796ac6)
+
+* On an **average**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/be36135a-c83f-4c06-84f8-5abbab4abf70)
+
+* Fresh fruits(FF) have 90% water then it has 10% pulp.
+* Dry fruits(DF) have 20% water then it has 80% pulp.
+* The **pulp** on both the sides is the **same**.
+* We have equated the **constant part** and attacked it. **Constant part** should be our **attacking point**. [Formula] [**VERY IMPORTANT**]
+* Answer -> 22.5kg [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/8a85a4d9-3a74-45a9-af8b-685435c69c20)
+![image](https://github.com/user-attachments/assets/ec0c7499-c40e-4d18-8a4e-79f1f6c806b1)
+
+* We have 'x' gram of **Watermelon**.
+* Watermelon have 85% water then it has 15% pulp.
+* 30gm water is part of the total weight of the **watermelon**.
+* Weight of Watermelon -> x - 30.
+* Watermelon have 80% water then it has 20% pulp.
+* Answer -> 120g. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/a8a70d52-61df-4f0b-b34b-469f6d11e84b)
+
+* Answer -> 4yrs 6months. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/8f9f19a6-9010-48d9-b831-36431948b03a)
+![image](https://github.com/user-attachments/assets/ec5cd009-8013-4bc7-9840-f0021d71131f)
+
+* Answer -> 5yrs 9months. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/df9681e6-b048-4c1e-aa96-b2b6aa9d37be)
+![image](https://github.com/user-attachments/assets/375a448d-2244-41db-a074-d8ee730572f1)
+
+* Initial consumption -> **x** litres.
+* Old price -> 110
+* New price -> 128.33
+
+![image](https://github.com/user-attachments/assets/3220f05d-2561-4b02-9528-3ef2e72bc88c)
+
+* CBD -> Cannot Be Determined.
+
+![image](https://github.com/user-attachments/assets/9ea379b4-cd66-40d3-90e6-288c5ae3a47d)
+
+* Situation **1**.
+
+![image](https://github.com/user-attachments/assets/ecd27cf8-a52b-4d62-aee5-b525cc954fd2)
+![image](https://github.com/user-attachments/assets/5bd21ab7-5e75-4eee-9658-924fed9175f5)
+
+* Situation **2**.
+* We cannot directly calculate the %age change. That's why it is **CBD**.
+* 'p,q and r' are all **variables**. The **increase** should be the **same** in all of the **3** then only we can find 'x'.
+
+![image](https://github.com/user-attachments/assets/521b5339-49df-4785-802f-5ec82f440fb4)
+![image](https://github.com/user-attachments/assets/1599d89f-005d-42d5-85d4-68a23350ce2d)
+![image](https://github.com/user-attachments/assets/9a8e860f-c842-4407-a7c1-065229595438)
+![image](https://github.com/user-attachments/assets/5ce67fe5-7eb2-426f-b1b7-29eb8170b11e)
+![image](https://github.com/user-attachments/assets/47011a0f-73dd-45b4-8505-6ba01946baaf)
+
+* '4,5,6' do not have any role as they are **constants**.
+
+![image](https://github.com/user-attachments/assets/4fec7772-ef7b-42ac-a471-578042094004)
+![image](https://github.com/user-attachments/assets/ec22c68b-fee5-44ce-9ec0-9d78d7de4ef2)
+
+* 'P, Q and R' got '119.7%' increase.
+* Answer -> Option **D** -> 119.7%. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+
+
+
+
+
+
+
+
+
 
 
 
