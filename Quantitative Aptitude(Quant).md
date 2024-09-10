@@ -910,12 +910,74 @@
 ![image](https://github.com/user-attachments/assets/240cb374-e8cf-4ee5-85b8-19f9b8156728)
 ![image](https://github.com/user-attachments/assets/5cec76a0-87e1-4736-84f2-ef0b734f9635)
 
-* Expenditure = Price * Consumption.
+* Expenditure = Price * Consumption. [Formula] [**VERY IMPORTANT**]
 * Expenditure is **constant** here.
 * 'P' is **inversely proportional** to 'C'.
+* If there are '2' quantities then one of them will **increase by n/d** and the other will **decrease by n/(d + n)**. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/418484a1-b020-47f6-af7b-c399d9341d14)
+![image](https://github.com/user-attachments/assets/624e3018-5678-4327-a2d0-e519eb10cf20)
+![image](https://github.com/user-attachments/assets/d2589e43-62fc-487c-bf32-7fce7f3efd79)
+![image](https://github.com/user-attachments/assets/4ed8aa62-01f5-42e6-b015-9d55676439a2)
+![image](https://github.com/user-attachments/assets/8c1b0a56-49e7-4816-bf30-0e3b058ce08b)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/c5310d64-7cf0-487c-916b-fec4d7f0ee8f)
+![image](https://github.com/user-attachments/assets/80f59bc0-4573-43f3-9e52-aa29bf26036d)
+![image](https://github.com/user-attachments/assets/e90c7ee2-ed1a-45a5-9981-8b010184fc41)
+
+* length(l), breath(b).
+* Rectangle -> Area constant. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/db002c99-70d7-4f31-b61d-b98c642b27af)
+![image](https://github.com/user-attachments/assets/9f2818aa-91fb-4c9d-af4d-e9019667050a)
+
+* 'B and C' are **inverely proportional**.
+
+![image](https://github.com/user-attachments/assets/07f6fc9b-d4f5-4762-a275-533e87d4c080)
+![image](https://github.com/user-attachments/assets/d0093093-0b05-409b-b605-4ae82eff6072)
+
+* %change in area -> 56% increase.
+
+![image](https://github.com/user-attachments/assets/03d30f3a-2749-4f16-a9cb-dba3b592217b)
+
+* The **successive change** is the **multiplying factor** only.
+* The **order** is **not important**.
+
+![image](https://github.com/user-attachments/assets/4437b241-bdb7-4944-afed-13a425029c51)
+
+* The no. of terms in multiplication that many times we will do **successive change**.  [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/11925c3a-62b0-4461-9ded-fed700bf5602)
+![image](https://github.com/user-attachments/assets/d5711ca8-28f0-4e99-8575-56123e9f1eee)
+
+* 8% increase.
+
+![image](https://github.com/user-attachments/assets/a826a950-d8dd-42e4-afa0-315af0e7ab70)
+
+* Volume of Cuboid -> l * b * h. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c99244d8-7ee3-4922-9839-80c7d6a6584c)
+![image](https://github.com/user-attachments/assets/fb0e066f-2707-4d53-9074-9e20d166c000)
+
+* Successive % change -> '2' terms applicable. [Formula] [**VERY IMPORTANT**]
+* Successive change -> a + b + (a * b)/100. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cf78b794-b53a-4468-a05b-924f5eaffee5)
+![image](https://github.com/user-attachments/assets/ff7cb3ea-58dd-4220-ae96-a68ef441c90b)
+![image](https://github.com/user-attachments/assets/51385b96-1ecb-4838-815a-b0d1090dbf1e)
+
+* On the 1st day, he came home with **y/2** oranges.
+* Spoil -> 1/10
+* Not spoiled -> 1 - 1/10 -> 9/10.
+* y/2 * 9/10 * 1/2 -> 9y/40.
+* On the 2nd day, he came home with **9y/40** oranges.
+* He **started** with **32000**. [Example] [**VERY IMPORTANT**] [Practice]
+* In such **above cases** start with **y** only. Don't assume anything. [Formula] [**VERY IMPORTANT**]
+* At the end we will get **integer** only. All of the fractions will be cut by the **end**.
+
+![image](https://github.com/user-attachments/assets/e006c040-209b-42f0-92b8-d2dbac676a48)
 
 
 
