@@ -792,6 +792,60 @@
 
 * Examples.
 
+![image](https://github.com/user-attachments/assets/1db06720-0987-460f-9f11-0cb2fb4d685d)
+![image](https://github.com/user-attachments/assets/0f8864ee-a7f2-4108-89f5-fc7860a5be82)
+![image](https://github.com/user-attachments/assets/592aca7a-0633-4f7f-8c2e-df613e96f00d)
+
+* Examples.
+
+![image](https://github.com/user-attachments/assets/2ebc5080-8a7d-4583-b62f-990c31e0f104)
+![image](https://github.com/user-attachments/assets/11c8e688-8adc-4bfa-9baa-f1e4377d2d2c)
+![image](https://github.com/user-attachments/assets/8df17acd-e101-44cb-9fc6-48c3572ac36b)
+
+* Less -> n/(d + n).  [Formula] [**VERY IMPORTANT**]
+* More -> n/d.  [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9bd59730-3bbd-4411-99c0-0ed03f7c6ab3)
+![image](https://github.com/user-attachments/assets/15e5c87d-69de-432d-b3b1-b908bf77ae51)
+![image](https://github.com/user-attachments/assets/651c22e5-03ed-40a9-aeca-9b6437319612)
+![image](https://github.com/user-attachments/assets/4ee447a3-21e4-4a95-95dd-bda173a047ec)
+
+* Always make the **arrows**. Write the names **later**. [Formula] [**VERY IMPORTANT**]
+* Observational formula.
+
+![image](https://github.com/user-attachments/assets/5180a76e-a8a7-4b75-a8bb-efa798acaab8)
+![image](https://github.com/user-attachments/assets/9bf0d63c-d942-4996-97c5-26bd95e4d678)
+![image](https://github.com/user-attachments/assets/0e1714c1-7767-4fff-874a-52ccdcd20661)
+![image](https://github.com/user-attachments/assets/dc52c672-110c-4450-a28b-2a81d96fa012)
+![image](https://github.com/user-attachments/assets/01f5e847-71ff-4425-88a0-c9055efd0aaf)
+![image](https://github.com/user-attachments/assets/a154341c-1150-41f0-ae8d-a7cc28289bf4)
+![image](https://github.com/user-attachments/assets/590e3d29-b336-495a-a9d9-345674ff6a4f)
+![image](https://github.com/user-attachments/assets/ebead5aa-fbb9-43d5-a6df-a83347194faa)
+
+* A -> 1 -> 19 times -> 1 * 19 -> 19.
+* B -> 6 -> 2.5 times -> 6 * 2.5 -> 15.
+* 19 - 15 = 4.
+* We can assume some **values** for **Q2**.
+* 500% [1] [Answer] [**VERY IMPORTANT**] [Practice]
+* 26.4% [2] [Answer] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/f88542be-3d90-4ba9-ba73-d1e058c2cfd7)
+![image](https://github.com/user-attachments/assets/7ad9f5ab-008d-47e8-9102-098777c2f36e)
+![image](https://github.com/user-attachments/assets/865a4db5-ced5-4a0a-b332-aaae89f01304)
+
+* 30 - 23 -> 7.
+* Initial value will be **B** now.
+* 120 - 21 -> 99.
+
+![image](https://github.com/user-attachments/assets/b25fe67e-ea8d-46ff-8c1b-c9757341c0b5)
+
+* Assume **B** as any multiple of **30** for easier calculations and cutting.
+
+![image](https://github.com/user-attachments/assets/528c7572-ff1b-4f60-ac3f-6513b01f9f7f)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/f75f7076-3d9e-4ebd-a0fc-7ecc3dd27897)
 
 
 
@@ -822,6 +876,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Important
 
 ![image](https://github.com/user-attachments/assets/1a9f8c5d-0d87-41d2-a386-86642929fcd9)
 ![image](https://github.com/user-attachments/assets/7f51fd07-5b6b-432c-aeec-690f28f2e731)
