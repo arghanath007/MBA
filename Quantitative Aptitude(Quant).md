@@ -1143,7 +1143,94 @@
 * 50% -> 30 matches.
 * 100% -> 60 matches.
 
-* Start from 1hr 24mins.
+![image](https://github.com/user-attachments/assets/ad4d0029-2db8-42cf-86b7-95f5a70f4ea2)
+
+* 0 - 9 -> 9 digits
+* 10 - 99 -> 99 - 10 + 1 -> 90 nos -> 90 * 2 -> 180 digits.
+* 30 * 3 -> 90 digits
+* 22/2 -> 11 nos
+* 9 + 11 -> 20 nos
+
+![image](https://github.com/user-attachments/assets/8f0dd1c2-729d-45d6-becc-7facba1f91e0)
+![image](https://github.com/user-attachments/assets/e3008889-1ccd-437d-8f10-caa6b7051121)
+
+* m = 20. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+### Geometric Progression(GP)
+
+![image](https://github.com/user-attachments/assets/1fc45887-d9f6-4e05-aeef-39068eced341)
+
+* Everytime same no. is getting multiplied. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4d3fa541-a3d5-4876-8622-4fdfa8db7f3b)
+![image](https://github.com/user-attachments/assets/8ef2bb83-9fdf-45a2-876f-d7531048a98f)
+
+* Questions.
+
+![image](https://github.com/user-attachments/assets/5a3b6efa-6eb8-4ba2-8691-ade6e2470aac)
+
+* 5/9 -> 0.55
+* 1/18 -> 0.055
+* 1/9 -> 0.11
+* If 'A + B' marks is '36' then 'C' marks is '25'.
+* 36 * 11/36 -> 11
+* 36 - 11 -> 25.
+
+![image](https://github.com/user-attachments/assets/a3856799-12fe-466a-8eed-87ece1bce41d)
+![image](https://github.com/user-attachments/assets/5e8d32d1-2f81-45ba-8c7a-4fbb6a1f9109)
+
+* **r** cannot be **negative**. **Negative** is not possible.
+* Marks cannot be **negative**.
+* r = 5/4.
+* In **ratio**, the term is not changed. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2b525748-0df1-46e2-b109-04efb06de884)
+
+* Multiplying all of them with '64'.
+
+![image](https://github.com/user-attachments/assets/77e50272-13f0-477e-9c74-4705332a52a0)
+
+* 125a - 80a -> 45a.
+
+![image](https://github.com/user-attachments/assets/b42fb14f-96d5-4280-9550-6cc315ab7dcd)
+
+* All of the marks should be in **integer**.
+* We know that 'A' is 'a' which means it is an **integer**.
+
+![image](https://github.com/user-attachments/assets/a6befdbf-c132-4aae-aacf-0f70a03f3be8)
+![image](https://github.com/user-attachments/assets/e1f0a51d-a623-4a62-bd03-9a1ea6794e55)
+![image](https://github.com/user-attachments/assets/84c4706b-101f-4aca-b285-3c4d9c2ddf69)
+
+* 'a = 1' only possible.
+* Maths paper total marks is 150.
+* If 'a = 2' then 'D = 125a -> 125 * 2 -> 250' and '250 > 150' which is **not possible** in maths paper. So 'a = 2' is **not possible**.
+* Now, 'a = 1' only.
+* 64 * 1 + 80 * 1 + 100 * 1 + 125 * 1 -> 369. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
