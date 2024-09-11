@@ -1338,19 +1338,49 @@
 
 * T = 2,50,000. [Solution] [Answer] [VERY IMPORTANT]
 
+* 1/8 -> 12.5%
+* 1/6 -> 16.66%
+* 1/6 decreas.
+* 1 - 1/6 -> 5/6 
 
+![image](https://github.com/user-attachments/assets/08f8d103-56c0-48d6-a636-5a4851832f49)
+![image](https://github.com/user-attachments/assets/e8cd15bc-e26a-4630-a815-2743908f8684)
 
+* 1600 - y - y -> 1600 - 2y.
+* 1750 - x - x -> 1750 - 2x.
+* Vote margin.
+* Twice or '2' times because it was '100%' more.
 
+![image](https://github.com/user-attachments/assets/72ffe8f7-b3ae-4856-a0f0-50892a4281a4)
+![image](https://github.com/user-attachments/assets/8354c9de-b0f5-4756-b322-6cc67637d5d0)
+![image](https://github.com/user-attachments/assets/33bdfe44-f068-49d4-9df7-3c1c860e4ee3)
+![image](https://github.com/user-attachments/assets/7625ed90-6ee8-489c-98fd-73b47d859248)
 
+* [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+### Profit and Loss
 
+![image](https://github.com/user-attachments/assets/2db84f7b-5c8b-4950-bced-11ac6aee5d01)
+![image](https://github.com/user-attachments/assets/53594519-c02b-4e60-bcba-a8d7d495bb20)
 
+* Cost Price(CP) [Formula] [**VERY IMPORTANT**]
+* Markup Price(MP)
+* Discount(D)
+* Selling Price(SP)
+* Profit(P).
+* 1 + 2/3 -> 5/3
+* Markup Price(MP) % -> 66.66%
 
+![image](https://github.com/user-attachments/assets/5c7b3e32-6440-4ede-882b-8eac6b82126b)
 
+* [Formula] [**VERY IMPORTANT**]
+* MP% -> 66.66%
+* D% -> 15%
 
+![image](https://github.com/user-attachments/assets/1711ea9a-72f8-4c71-bf21-2df9cf2928ea)
 
-
-
+* Successive change.  [Formula] [**VERY IMPORTANT**]
+* Successive change -> a + b + (ab)/100
 
 
 
