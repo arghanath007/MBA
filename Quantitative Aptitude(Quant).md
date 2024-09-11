@@ -1299,8 +1299,62 @@
 * Difference -> 75 - 12 -> 63. [Solution] [Answer] [VERY IMPORTANT]
 
 ![image](https://github.com/user-attachments/assets/39fbd86d-d9c8-42b5-926c-756d9a2ac307)
+![image](https://github.com/user-attachments/assets/39891729-78da-4259-a60c-40f9089b0cd2)
+![image](https://github.com/user-attachments/assets/e68a9f0c-9d3f-413e-acf9-dfd07fea3d08)
+![image](https://github.com/user-attachments/assets/cc601750-80f2-46e0-b663-e4955f69ab8f)
 
 * Total -> 100x.
+* Voted -> 96x
+* Not voted -> 4x.
+* Vote margin -> 156.
+* Total vote -> 100x -> 6.25 * 100 -> 625.
+* Not voted -> 4x -> 4 * 6.25 -> 25.
+* 25 * 60/100 -> 15
+* 25 * 40/100 -> 10
+* Answer -> 10. [Solution] [Answer] [VERY IMPORTANT]
+
+![image](https://github.com/user-attachments/assets/3b85d23d-bd04-46cd-8bb4-83600ef76d21)
+
+* Total -> 100x.
+
+![image](https://github.com/user-attachments/assets/af6dff44-106a-4efb-844f-e5f39575a95c)
+![image](https://github.com/user-attachments/assets/4f4d7f96-3ed0-4aee-b944-2af6bc34436c)
+![image](https://github.com/user-attachments/assets/9ac18285-4b9b-466f-85e1-f0d45eeab4e9)
+![image](https://github.com/user-attachments/assets/d6956a27-c49f-46af-ba0c-99816f0cbe56)
+
+* Answer -> option **A** -> 2640000. [Solution] [Answer] [VERY IMPORTANT]
+
+![image](https://github.com/user-attachments/assets/dfded2ad-4383-44a5-84a9-4ebcc543b53a)
+
+* We should take 'C' as the reference.
+* Total %age -> 100%.
+* A - C = 48% - 20% -> 28%.
+* Total(T)
+* 28% of T = 70000
+
+![image](https://github.com/user-attachments/assets/ac9b1fc1-9c8c-4e70-968a-1449610dd995)
+![image](https://github.com/user-attachments/assets/c25ffd76-9542-45e8-9b01-4b464cb1a818)
+![image](https://github.com/user-attachments/assets/bb293dba-5b11-4123-a9b5-502248808682)
+
+* T = 2,50,000. [Solution] [Answer] [VERY IMPORTANT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
