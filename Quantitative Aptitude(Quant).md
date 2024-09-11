@@ -1382,6 +1382,40 @@
 * Successive change.  [Formula] [**VERY IMPORTANT**]
 * Successive change -> a + b + (ab)/100
 
+![image](https://github.com/user-attachments/assets/14f4174e-36eb-4b0d-9a53-56f4c1e9bd83)
+![image](https://github.com/user-attachments/assets/cabe5102-76cf-4c50-8226-22d80288d227)
+![image](https://github.com/user-attachments/assets/33843939-f724-4792-9615-97abe085fd18)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/af85f248-38dc-4360-8bb3-7fbad5b2170a)
+
+* Example. [Method **1**]
+
+![image](https://github.com/user-attachments/assets/537cfa35-fc4b-44ff-bb1a-fab24aa290ce)
+
+* Method **2**.
+* We get **discount** based on **MP**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3b75c404-1b30-44ae-956b-e57759ba3f08)
+![image](https://github.com/user-attachments/assets/00df98cb-8d88-448b-806f-2a165ed6d0f8)
+
+* Example. 
+
+![image](https://github.com/user-attachments/assets/5664e95a-05b2-49a2-983d-fd830e8b3822)
+
+* markedup price %
+* 17 - 12 -> 5.
+
+![image](https://github.com/user-attachments/assets/cd388183-9153-4714-9d50-836ba5353568)
+
+## Percentages and Profit Loss(5) [10]
+
+
+
+
+
+
 
 
 
