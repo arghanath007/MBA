@@ -1207,16 +1207,100 @@
 * Now, 'a = 1' only.
 * 64 * 1 + 80 * 1 + 100 * 1 + 125 * 1 -> 369. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/8a728d03-b1fd-4420-a7b1-1fe37ff9af63)
 
+* In **election** type of questions, **%ages** are used frequently. [Formula] [**VERY IMPORTANT**]
+* Taking voters in **100x** is better so that we do not get the values in **fractions**. [Formula] [**VERY IMPORTANT**]
+* 54 - 46 -> 8%
+* Margin -> Difference. [Meaning]
+* Total(T) -> 72x.
 
+![image](https://github.com/user-attachments/assets/84cdb579-6bee-4e65-bb34-10808678693c)
+![image](https://github.com/user-attachments/assets/61907550-b6e3-496e-8e79-4c65fbefd345)
 
+* Answer -> 43750. [Answer] [Example] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/664a970c-403a-4984-bd9f-87fab10367c0)
+![image](https://github.com/user-attachments/assets/c5c9cfe3-a24b-4a26-bbed-cfc5d10b7fbe)
+![image](https://github.com/user-attachments/assets/daec17ba-61bd-434d-b223-7ba94c12a489)
+![image](https://github.com/user-attachments/assets/9d76a10f-e615-4057-b806-31b2f1b6f9aa)
+![image](https://github.com/user-attachments/assets/ff279829-66a1-4fbc-9a9a-1b9e1698001f)
 
+* Initial -> 100x
+* Race **1**:-
+* **B** won(w).
+* 25% of 100x -> 25x
+* 5% of 100x -> 5x
+* 25 - 5 -> 20x.
+* 100 + 20 -> 120x.
 
+![image](https://github.com/user-attachments/assets/170a18ce-3882-4660-9c17-6cda9ea33ffe)
 
+* Initial -> 120x
+* Race **2**:-
+* **A** won(w).
+* 15% - 5% -> 10%
+* 10% of 120 -> 12x.
+* 120 + 12 -> 132x.
 
+![image](https://github.com/user-attachments/assets/575fae09-9b38-471e-b83a-0b256a5809df)
 
+* Initial -> 132x
+* Race **3**:-
+* **B** won(w).
+* 25% - 5% -> 20%
+* 20% of 132 -> 26.4x.
+* 132 + 26.4 -> 158.4x.
 
+![image](https://github.com/user-attachments/assets/cb84345d-0f76-47fa-99a5-6dd917b8fe35)
+![image](https://github.com/user-attachments/assets/66d4d0a9-decc-498e-a1f9-c8e38f4fed80)
+
+* Race **4**:-
+* 10% - 5% -> 5%.
+* 158.4 * 5/100 -> 166.32x
+* 166.32x = 16632
+* x = 100.
+* initial -> 100x -> 10000.
+* Answer -> Option **B** -> 10000. [Solution] [Answer] [VERY IMPORTANT]
+* Race 2 -> 132x -> 13200.
+* Answer -> Option **A** -> 13200. [Solution] [Answer] [VERY IMPORTANT]
+* 1 to 2 -> 120 - 100 -> 20
+* 2 to 3 -> 158.4 - 132 -> 26.4
+* 3 to 4 -> 166.32 - 158.4 -> 7.92
+* Answer -> Option **C** -> Race **3**. [Solution] [Answer] [VERY IMPORTANT]
+
+![image](https://github.com/user-attachments/assets/183a5b24-69a7-48d3-af06-8ab6061cb67e)
+![image](https://github.com/user-attachments/assets/1d1ca114-590a-4898-9592-5f86fcb14a35)
+![image](https://github.com/user-attachments/assets/3bbb3eef-7a2d-4671-9623-2476bfcd8632)
+![image](https://github.com/user-attachments/assets/554cbf7e-774c-44dc-b78a-1eb46c654ac9)
+
+## Percentages and Profit Loss(4) [9]
+
+![image](https://github.com/user-attachments/assets/ca174058-24f6-4d32-b2b5-dcb7b8c34328)
+
+* % change -> 30/N.
+
+![image](https://github.com/user-attachments/assets/4d149d43-4444-4752-a1d0-ee4c67c41365)
+
+* We have to solve the **equation**.
+
+![image](https://github.com/user-attachments/assets/b03a4b2b-aa65-4e9d-ba60-e388468d8707)
+![image](https://github.com/user-attachments/assets/f667c6af-1b92-4873-802e-ae62dd45b225)
+![image](https://github.com/user-attachments/assets/a1362910-18e9-404a-96a0-824e34b78c17)
+
+* Multiplying factor(MF).
+* The top and bottom '100' are getting **cut**.
+
+![image](https://github.com/user-attachments/assets/aaa218eb-4b38-4005-aea7-1e143f327389)
+![image](https://github.com/user-attachments/assets/54db764c-91a6-47ad-be78-f11502c7fef9)
+![image](https://github.com/user-attachments/assets/7a7d2fd6-ed80-4b89-a412-c71882d1dbfc)
+![image](https://github.com/user-attachments/assets/42f20762-bab8-4cf6-8c6b-027dcfcf644f)
+
+* Difference -> 75 - 12 -> 63. [Solution] [Answer] [VERY IMPORTANT]
+
+![image](https://github.com/user-attachments/assets/39fbd86d-d9c8-42b5-926c-756d9a2ac307)
+
+* Total -> 100x.
 
 
 
