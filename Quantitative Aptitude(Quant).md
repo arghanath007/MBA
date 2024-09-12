@@ -1411,19 +1411,33 @@
 
 ## Percentages and Profit Loss(5) [10]
 
+![image](https://github.com/user-attachments/assets/0c6dcf5b-bfda-40df-aa33-c802c3438846)
+![image](https://github.com/user-attachments/assets/1e85ed90-43ae-43ee-a14d-a660f573e890)
+![image](https://github.com/user-attachments/assets/e33e1f9a-3273-4725-b49f-88a1a6fd6358)
+![image](https://github.com/user-attachments/assets/748b5189-cc8c-42aa-9d36-9253bbb05e35)
 
+* We are **multiplying with '5'** to get the **MP%** easily.
 
+* 3/8 -> 37.5%
+* 1 - 3/8 -> 5/8.
 
+![image](https://github.com/user-attachments/assets/8bc82c26-f807-4768-b57e-78ac26aa2540)
+![image](https://github.com/user-attachments/assets/21c150b9-5b5e-40f8-ad2c-8d95d93fffa9)
 
+* Discount -> 21 units.
+* Profit -> 8 unit.
+* The difference between **discount and profit** is **97.50**.
+* Difference -> 21 - 8 -> 13.
 
+![image](https://github.com/user-attachments/assets/5f863143-d5f6-4a28-a2fc-b7d8e00e0ff5)
+![image](https://github.com/user-attachments/assets/421abaf7-6cdf-4f48-9039-724d6b23fd5d)
+![image](https://github.com/user-attachments/assets/56796202-945e-4416-877d-80f3c8c49a34)
 
+* [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/3269f1ab-cf77-4690-b31f-2635481e3391)
 
-
-
-
-
-
+* Profit(P) = 7.
 
 
 
