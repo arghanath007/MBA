@@ -1559,6 +1559,131 @@
 
 ## Percentages and Profit Loss(6) [11]
 
+* Multiplying factor(MF) form:-
+* Denominator -> on sold quantity. [Formula] [**VERY IMPORTANT**]
+* [OR]
+* 1/10 decrease -> n/n+d -> n=1, d=9 [Formula] [**VERY IMPORTANT**]
+* increase -> n/d -> 1/9. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/15e2af0b-394e-46ac-8020-748282acb792)
+![image](https://github.com/user-attachments/assets/046ca9d3-7dc0-48d9-9f1a-1276ae469f44)
+![image](https://github.com/user-attachments/assets/22afaf99-e4ee-451d-be86-bab3728d073a)
+
+* We will combine all of the **events**.
+
+![image](https://github.com/user-attachments/assets/167a33b4-3fc8-4805-82dd-1011b0a08c27)
+![image](https://github.com/user-attachments/assets/4a7cd501-bf4d-4238-9ef3-bca5a44acd59)
+![image](https://github.com/user-attachments/assets/6d8167f4-8482-4f47-bf86-4ebbd5e87c87)
+
+* Multiplying factor(MF) -> Chain of events. [Formula] [**VERY IMPORTANT**]
+* SP -> 9
+* CP -> 5
+* P -> 9 - 5 -> 4.
+* p% -> 80%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/846743d0-f65d-4a05-b13d-0a4f47b6a24f)
+![image](https://github.com/user-attachments/assets/e505c747-aaa5-4edc-84b1-6abccae2857b)
+
+* The price of rice is '100' and we are selling that same rice for '180'. We are making a profit of '80%'.
+
+![image](https://github.com/user-attachments/assets/371c1531-464f-4447-95b1-ed0d4f222147)
+![image](https://github.com/user-attachments/assets/96094220-d64e-4346-9d9b-7ac38fb506d5)
+
+* The shopkeeper wanted to buy '1000g' but he cheated and bought '1000 + 250 -> 1250g'.
+* 250g -> free.
+* The shopkeeper will charge money for these extra/free 250g. So the shopkeeper is having a **profit** of '1/4'.
+* MF -> 1/4 -> 1 + 1/4 -> 5/4.
+
+![image](https://github.com/user-attachments/assets/8490884a-20c3-47b4-a689-2499817ab4d9)
+
+* We have to think in terms of the view of **shopkeeper** as we are solving for **shopkeeper**. [Formula] [**VERY IMPORTANT**]
+* Cost(C).
+
+![image](https://github.com/user-attachments/assets/b11f8e73-c95b-4b3f-8063-072929997615)
+![image](https://github.com/user-attachments/assets/4314a636-16b1-416b-8efc-af57ea32b2ac)
+
+* Instead of giving '1000g' to the customer, it is givng '875g' to the customer.
+
+![image](https://github.com/user-attachments/assets/a63e403b-3b27-4013-b980-ec74a7eb16c3)
+
+* P = 125.
+* on sold quantity -> 875g.
+
+![image](https://github.com/user-attachments/assets/24e1c705-7b1d-4fd2-89b2-e3734b16d9da)
+![image](https://github.com/user-attachments/assets/853c6865-47d0-4aa4-9b42-d8db17464416)
+
+* **2** different methods to get the **same result**. [Formula] [**VERY IMPORTANT**]
+* On giving '1250g', the wholesaller lost '250g'.
+
+![image](https://github.com/user-attachments/assets/9aea2152-8bce-4a3d-9c2e-6b66a14bb929)
+
+* MF -> 1/7 -> 1 + 1/7 -> 8/7.
+
+![image](https://github.com/user-attachments/assets/8772168e-a2ed-4e07-9877-7c71ab4679e0)
+![image](https://github.com/user-attachments/assets/864c91ce-9ae4-49f0-baea-66d591a8b177)
+
+* 30% less weight.
+* Customer -> 30% decrease -> 3/10 -> n/(n + d) -> n = 3, d = 7.
+* Shopkeeper -> n/d -> 3/7 increase.
+* MF -> 3/7 increase -> 1 + 3/7 -> 10/7.
+
+![image](https://github.com/user-attachments/assets/8b3dd92a-a2eb-482c-977a-0f47bc391e9c)
+![image](https://github.com/user-attachments/assets/cd1d9a03-d1e6-4c71-8164-1bbb130202d1)
+
+* Profit -> 104%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1fbcdeaf-8d35-4dd6-9be6-99eb9dafd78d)
+
+* When some store is giving **free items** it meanss it is in **loss**. [Formula] [**VERY IMPORTANT**]
+* Total items -> 3 + 8 -> 11.
+* Loss -> 3.
+* Loss -> 3/11.
+* On selling '11' items, it is taking a loss of '3' items. That's why it is '3/11'.
+* Denominator -> 11 -> on sold quantity.
+* MF -> 3/11 decrease -> 1 - 3/11 -> 8/11.
+* 16.66% increase -> 1/6 increase
+* MF -> 1/6 increase -> 1 + 1/6 -> 7/6.
+
+![image](https://github.com/user-attachments/assets/7ecda6f8-6b66-41b7-b586-9c555804a911)
+![image](https://github.com/user-attachments/assets/4112829f-b4e9-4822-9d37-5e5691082699)
+
+* CP -> 33
+* SP -> 28
+* L -> 33 - 28 -> 5
+* L% -> L/CP * 100. [Formula] [**VERY IMPORTANT**]
+* L% -> 15.15%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/1f4ff642-0400-44e4-8701-fbdf0cd97955)
+
+* MF -> 20% increase -> 1 + 1/5 -> 6/5.
+* 100/900 -> 1/9 increase
+* MF -> 1/9 increase -> 1 + 1/9 -> 10/9.
+* 20/100 decrease -> 1/5
+* MF -> 1/5 decrease -> 1 - 1/5 -> 4/5.
+
+![image](https://github.com/user-attachments/assets/d5687053-577a-47fe-b631-346d0b33c426)
+![image](https://github.com/user-attachments/assets/44784429-5668-4638-bad2-33055ed5fd67)
+
+* CP -> 15
+* SP -> 16
+* P -> 16 - 15 -> 1.
+* p% -> 6.67%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/71fc18d3-42ec-4859-8686-e400222a5c53)
+![image](https://github.com/user-attachments/assets/905e6169-6229-48f3-84ed-167fa253e2a9)
+![image](https://github.com/user-attachments/assets/d11ed39b-ced2-4e76-a53b-eb8e8c9398b2)
+
+* 20% impurity -> Trader asking money for it -> That' why it is **Profit** for the trader.
+* MF -> 20% increase -> 1/5 -> 1 + 1/5 -> 6/5.
+* 1000 - 800 -> 200 profit for trader.
+* MF -> 200/800 -> 1/4 increase -> 1 + 1/4 -> 5/4.
+* MF -> 10% decrease -> 1 - 1/10 -> 9/10.
+* CP -> 20
+* SP -> 27
+* P -> 27 - 20 -> 7
+* P% -> 35%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+
 
 
 
