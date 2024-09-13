@@ -1437,7 +1437,102 @@
 
 ![image](https://github.com/user-attachments/assets/3269f1ab-cf77-4690-b31f-2635481e3391)
 
-* Profit(P) = 7.
+* Profit(P) = 46 - 39 = 7.
+* For discount%, we need **MP**.
+* From the '7/9' ratio we can see that if the profit is '9' then the discount is '7'.
+* Our profit is not '9'.
+* Profit is '9' and we want a multiple of '7'. To make it a multiple of '7', we are multiplying with '7'.
+
+![image](https://github.com/user-attachments/assets/70cb955c-4f13-4a4a-9342-b19d828fc9fc)
+
+* The difference between '39 and 46', multiply it with '9'.
+* 39 * 9 -> 351
+* 46 * 9 -> 414
+* 414 - 351 -> 63.
+* Profit is now '63'. So the discount is '49'.
+* SP -> 414
+* D -> 49
+* MP -> 414 + 49 -> 463
+
+![image](https://github.com/user-attachments/assets/62dc0bc2-8136-4246-b061-ec24c43b01ad)
+
+* [1] [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d60e7e08-2c36-4a40-92f1-a8c2698d7a99)
+![image](https://github.com/user-attachments/assets/26547640-1139-4e0e-83e8-e59dd59c52a7)
+
+* 463 - 351 -> 112.
+* MP% = 112/351 * 100 -> 32%.
+* P% -> 18%
+* Difference -> 32 - 18 -> 14%. [2] [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/b17d6e60-e9d5-4f37-9b3e-fb86d27a12d2)
+![image](https://github.com/user-attachments/assets/1a8893eb-4201-4fb8-a396-e87f006bfa6b)
+
+* We have **P = 2**.
+* We want **P = 4** then discount is '3'.
+
+![image](https://github.com/user-attachments/assets/79b85213-d66e-424e-9d36-e58cc2f1bfcb)
+
+* D% -> 14.28%
+* P% -> 28.56%
+* Difference -> 28.56 - 14.28 -> 14.28%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d42f3347-8a41-4252-91ed-ceb91ebc5042)
+![image](https://github.com/user-attachments/assets/68674b37-cda3-4965-ad45-d44b79cad5e1)
+![image](https://github.com/user-attachments/assets/9d8bd153-fc8d-4d19-a944-0cd1ef706fc7)
+
+* Successive change of MP% and D% = Profit%/loss%. [Formula] [**VERY IMPORTANT**] [Example]
+  
+![image](https://github.com/user-attachments/assets/46e5ef75-1223-462e-9fa6-1cc7244093d7)
+
+* a = x = 200%.
+* b = x/4 = 50%.
+
+![image](https://github.com/user-attachments/assets/b106a95d-87ed-47f7-b697-cd6ba9a63881)
+![image](https://github.com/user-attachments/assets/18e0e16a-1077-4e93-92d8-b9d06bf19024)
+![image](https://github.com/user-attachments/assets/ba64cfb0-7456-4fa1-b692-d7715e88c3cc)
+![image](https://github.com/user-attachments/assets/d76a9a23-93a7-4946-945b-9a298e165e1e)
+
+* CP -> 100
+* SP -> 133.33
+* P -> 133.33 - 100 -> 33.33
+* P% -> 33.33/100 * 100 -> 33.33% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/2859506b-81eb-493f-ba4f-51aa61458760)
+![image](https://github.com/user-attachments/assets/54592806-90b9-4f69-90b1-d10e9082d36e)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/fd2296b8-8753-43c7-a60a-5ea6c32c73e9)
+![image](https://github.com/user-attachments/assets/f4828d15-f6f0-4906-b80f-bd12e44b5270)
+
+* Now the **discount%** is the **same**.
+* We don't know with which the ratios are **cut**, so we are taking the cut as **x**.
+* They are not in **rupees**, they are all in **percentages**.
+
+![image](https://github.com/user-attachments/assets/2cd03420-2f59-4147-8574-297abbb667e4)
+![image](https://github.com/user-attachments/assets/28c010a0-5768-4cf5-87d9-637d0c3ee169)
+![image](https://github.com/user-attachments/assets/dd5dcff7-b416-478a-8dcc-40322a1363d4)
+![image](https://github.com/user-attachments/assets/68297052-512e-4a60-b0a7-429612d4b2cb)
+
+* P = 7
+* CP = 25
+* SP = 25 + 7 -> 32.
+
+![image](https://github.com/user-attachments/assets/c4be57a7-b7f2-4024-9d84-1c4bd56cfb5a)
+![image](https://github.com/user-attachments/assets/1f1b1c53-9ff3-4857-b2c0-0d59130e12ed)
+
+* CP -> 25 * 560 -> 14000. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+
+
+
+
+
+
+
+
 
 
 
