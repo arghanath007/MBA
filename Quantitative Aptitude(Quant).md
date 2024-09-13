@@ -1525,6 +1525,69 @@
 
 * CP -> 25 * 560 -> 14000. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/543943e2-f38c-4a0c-b0f6-241b1fa226f7)
+![image](https://github.com/user-attachments/assets/ca850fb1-b34f-433c-86c6-1a0ff39f1fe6)
+
+* **2** methods used to get the **same result**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4b021df2-1800-4721-9822-018207c5b06c)
+
+* For percentages, we will use **on sold quantity** for the **denominator**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/72c7def7-62fb-49e8-bd68-042753f5ff7f)
+![image](https://github.com/user-attachments/assets/78726d9a-9fbf-48f3-b950-12bc9a73a37c)
+
+* P -> 40 - 35 -> 5.
+* SP -> 35.
+* Method **3**.
+
+![image](https://github.com/user-attachments/assets/57880bb9-9de1-4077-8c04-6e38f078203f)
+
+* Denominator -> on sold quantity.
+
+![image](https://github.com/user-attachments/assets/8f3c9cb1-341c-4042-bc10-7b07672409d2)
+![image](https://github.com/user-attachments/assets/7d840ded-f73d-4eec-ab69-bcd68a1ff6f8)
+![image](https://github.com/user-attachments/assets/d52b7946-009a-4fff-bd8e-3877748270c9)
+
+* Customer Loss -> 250/1000 -> 1/4 -> 25%. [Formula] [**VERY IMPORTANT**] [Example]
+
+![image](https://github.com/user-attachments/assets/577a22a1-9a52-4a83-bf10-68f682d64dcf)
+![image](https://github.com/user-attachments/assets/d426331c-44b2-4b76-9f49-adf47f16c011)
+![image](https://github.com/user-attachments/assets/e6caa194-2385-4f79-a63e-8f05fe7b31e1)
+
+* [Formula] [**VERY IMPORTANT**] [Example]
+
+## Percentages and Profit Loss(6) [11]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
