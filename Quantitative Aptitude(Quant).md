@@ -1821,6 +1821,125 @@
 
 ## Percentages and Profit Loss(7) [12]
 
+* Purchase Price -> CP.
+* SP  = CP + P. [Formula] [**VERY IMPORTANT**]
+* P = 1.
+* CP = 8.
+* CP + SP = 17.
+* SP = 17 - 8 = 9
+* SP -> 9.
+* 1/10 decrease -> n/n+d -> n=1,d=9
+* n/d -> 1/9 increase.
+* MP -> 10.
+
+![image](https://github.com/user-attachments/assets/f6baff67-3564-484e-a800-56584b4bec0a)
+![image](https://github.com/user-attachments/assets/755ddef7-bce3-4999-9bb6-b1a982010c75)
+
+* CP -> 8
+* MP -> 10
+* MP price -> 10 - 8 -> 2
+* MP% -> 2/8 * 100 -> 25%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/6a7dcc58-418c-4be3-b5d6-926f9c6ca02e)
+![image](https://github.com/user-attachments/assets/be57a312-8f22-4583-9522-07c4323f22dd)
+![image](https://github.com/user-attachments/assets/0d356b39-f87b-4bdd-aeea-5fdbf6a0e6a4)
+![image](https://github.com/user-attachments/assets/8d4b837c-6fe6-480e-9b6d-31a91f7e20fd)
+![image](https://github.com/user-attachments/assets/fc5c6372-c3a8-442b-b7d7-2fcc87286cd2)
+![image](https://github.com/user-attachments/assets/4475df2e-863b-4cf0-aeda-f5fe382c34d9)
+
+* Discount(D) -> MP - SP. [Formula] [**VERY IMPORTANT**]
+* Profit(P) -> SP - CP. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0993cac8-0ecc-4389-a4e1-a9212a277a64)
+
+* All we need is the relationship between 'b and c'.
+
+![image](https://github.com/user-attachments/assets/fb60be96-1c71-4efd-afec-4fa3b60d15e7)
+![image](https://github.com/user-attachments/assets/4573e6c4-f360-4d49-99a0-a847efeb3e51)
+
+* P% -> 100%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/0e64f2f2-20d9-49e5-b1a8-d995bcaaf5dd)
+
+* S -> SP of '1' apple.
+* C -> CP of '1' apple.
+* D -> Discount on '1' apple.
+* 5 * 7 -> 35.
+* We are taking '35x' so that we can avoid the **fractions**.
+* 5S = 35x
+* S = 7x.
+* 7C = 35x
+* C = 5x.
+* 5D = 35x
+* D = 7x.
+* MP -> SP + D -> 7x + 7x -> 14x.
+
+![image](https://github.com/user-attachments/assets/c0006561-0e5c-43d4-9c66-9b68958b027f)
+![image](https://github.com/user-attachments/assets/7e1e5bcf-b560-47e7-883f-148a65fbb11e)
+
+* MP - CP -> 14 - 5 -> 9x.
+* MP% -> 9x/5x * 100 -> 180%.
+
+![image](https://github.com/user-attachments/assets/9229a00c-4da9-4863-8f37-a2f8acd7e4e0)
+![image](https://github.com/user-attachments/assets/63a45e57-4e2b-46cc-b50a-493452fb3a2e)
+![image](https://github.com/user-attachments/assets/24a3b58a-20a2-48ec-83e8-42e63978e723)
+![image](https://github.com/user-attachments/assets/9ed703b5-d883-4fc2-8702-f19de1f7edbb)
+
+* We are calculating for '20' apples now.
+* Discount = 50x.
+* SP -> 7x * 20 -> 140x.
+* CP -> 5x * 20 -> 100x.
+* P -> 140 - 100 -> 40x.
+* P% -> 40x/100x * 100 -> 40%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/3cd47ba7-82aa-4b90-9ad5-0b20efe6a774)
+![image](https://github.com/user-attachments/assets/6d0430ba-fa2c-4c4f-8ef3-debd6115fae8)
+
+* New MP -> SP + D -> 140x + 50x -> 190x.
+* Also find new discount%. [Question] [VERY IMPORTANT] 
+
+![image](https://github.com/user-attachments/assets/199e1a25-eab7-416d-a120-02b856792020)
+
+* 20% increase -> Profit for the customer pandu
+* 20% increase -> 1/5 -> n/d -> n = 1, d = 5.
+* n/n+d -> 1/6 -> 1/6 decrease -> Loss for the shop owner ramu.
+
+![image](https://github.com/user-attachments/assets/805cee7d-7bb6-475c-bf85-dee56a2763bd)
+![image](https://github.com/user-attachments/assets/816d1035-b43d-4dd5-a217-9e60bc5bda15)
+![image](https://github.com/user-attachments/assets/c165fb0a-9032-449c-9393-97279acc2ce0)
+
+* We don't know the no., so we are writing 'mf' in place of it.
+* MF -> 1/10 decrease -> 1 - 1/10 -> 9/10.
+* MF -> 1/6 decrease -> 1 - 1/6 -> 5/6.
+* 20% profit -> 1/5
+* P -> 6 - 5 -> 1.
+* CP/SP -> 5/6.
+* S = 6C/5.
+
+![image](https://github.com/user-attachments/assets/637db6f4-ec85-4384-9082-d19bc716bd9b)
+![image](https://github.com/user-attachments/assets/d3756758-f184-4292-aeeb-7d6a036f1b84)
+![image](https://github.com/user-attachments/assets/6dc05c1a-ac8c-4363-ac95-5bc03f888181)
+![image](https://github.com/user-attachments/assets/8eed9926-3d82-49f8-a3f6-9e4f8cd64f32)
+
+* mf = 8/5
+* mf = 1 + something = 8/5
+* 1 + x = 8/5
+* x = 3/5
+* 3/5 = 60%.
+* If it is 60% increase then it is '3/5' increase.
+* 60% -> 3/5 -> 1 + 3/5 -> 8/5.
+* Increase -> 60%. [Method **1**] [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e1d5c64a-ed54-459a-9a12-51cc33d0fc74)
+![image](https://github.com/user-attachments/assets/8bf5dad6-7546-4d11-a389-452ab252c7bb)
+![image](https://github.com/user-attachments/assets/a37cca5a-131f-453b-9da6-26fd766ed31c)
+
+* 6/5 -> 1.2.
+* mf = 8/5
+* 1 + 3/5 = 8/5.
+* Increase -> 3/5 -> 60%. [Method **2**] [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+* Start from 1hr 28min.
 
 
 
@@ -1860,21 +1979,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/238ae640-1024-4ef2-b8df-eddf3fb5187a)
+![image](https://github.com/user-attachments/assets/0d658c15-b397-4376-a3ed-b8cf601635e2)
 
 
 # Important
