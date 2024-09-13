@@ -1683,6 +1683,147 @@
 * P -> 27 - 20 -> 7
 * P% -> 35%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/cd0ca49e-c40c-40e0-ad81-6b6087701ed1)
+![image](https://github.com/user-attachments/assets/6457927c-83cf-4a1c-a562-4cfdd8bb6e30)
+![image](https://github.com/user-attachments/assets/528f3913-2e1c-4489-aca8-3d32cc855337)
+![image](https://github.com/user-attachments/assets/d50b4c7c-28b0-4a7b-ab30-77a41be39d3a)
+
+* We have to find for the **shopkeeper**.
+* him -> shopkeeper.
+* Whoever is giving the **discount** it is their **loss**.
+* Wholeseller is giving the **discount**, so it is their **loss**.
+* 1/8 -> 12.5%
+* 1/8 decrease -> n/n+d -> n = 1, d = 7
+* n/d -> 1/7 increase.
+
+![image](https://github.com/user-attachments/assets/ba7b678c-31fd-498b-8976-f1694c37ea4d)
+
+* MF -> 10% decrease -> 1 - 1/10 -> 9/10.
+* Impurities -> free -> The shopkeeper is going to charge money for it.
+* MF -> 10% increase -> 1 + 1/10 -> 11/10.
+* 1/15 -> 6.66%
+* Shopkeeper gave the **discount**, so it is their **loss**. So no need for **conversion**.
+* MF -> 1/15 decrease -> 1 - 1/15 -> 14/15.
+
+![image](https://github.com/user-attachments/assets/d37a173f-2bed-4e97-be55-f260e496ce78)
+![image](https://github.com/user-attachments/assets/73cd350b-a416-423e-beec-8039e8ef663b)
+
+* Customer has a loss of 20%.
+
+![image](https://github.com/user-attachments/assets/530a38b0-0e52-45e6-ad01-26ac3545cc58)
+![image](https://github.com/user-attachments/assets/3c44b5b0-3e91-412a-8df0-ce5937533633)
+
+* MF -> 1/11 decrease -> 1 - 1/11 -> 10/11.
+* Denominator -> on sold quantity -> 1100g.
+
+![image](https://github.com/user-attachments/assets/4e4cda5a-a4ed-4051-af0d-930326df6647)
+![image](https://github.com/user-attachments/assets/767ac2dc-4739-4d6b-8a40-3de127d5aef3)
+![image](https://github.com/user-attachments/assets/e06bb43b-c75c-456c-a3e0-7705325ca641)
+![image](https://github.com/user-attachments/assets/5113ae6e-db07-40aa-b734-e2b66f6390b8)
+![image](https://github.com/user-attachments/assets/d7ed92e3-23a7-404d-b78e-15d7138839fb)
+
+* CP -> 25
+* SP -> 24
+* L = 25 - 24 -> 1.
+* L% -> 1/25 * 100 -> 4%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+* Loss% -> 100 - 96 -> 4%
+
+![image](https://github.com/user-attachments/assets/31d0b873-0247-48fe-ba38-4693f918731c)
+
+* 100 - 90 -> 10.
+* 10/90 -> 1/9.
+* MF -> 1/9 increase -> 1 + 1/9 -> 10/9.
+* If it expands then the shopkeeper has to give more to the customer. So it is a **loss** for the shopkeeper. Customer got the **profit**.
+
+![image](https://github.com/user-attachments/assets/5276bca4-ae33-417b-858f-eef31f4a4de2)
+
+* Customer -> 20% increase -> 1/5 -> n/d -> n =  1, d = 5.
+* shopkeeper -> 20% decrease -> n/n+d -> 1/6 decrease.
+* MF -> 1/6 decrease -> 1 - 1/6 -> 5/6.
+* MF -> 10% increase -> 1 + 1/10 -> 11/10.
+* Trader buys from an wholeseller who uses an 80cm scale.
+* Trade has a **loss** from the wholeseller.
+* CP -> 100
+* SP -> 80
+* L -> 100 - 80 -> 20.
+* L -> 20/100 -> 1/5 decrease to trader.
+* 1/5 -> n/n+d -> n = 1, d=4
+* n/d -> 1/4 increase to wholeseller.
+
+![image](https://github.com/user-attachments/assets/2d7d3638-c227-4fbb-9229-07d58f5de04c)
+![image](https://github.com/user-attachments/assets/0752c080-be83-45d6-b431-0e2df3caa830)
+
+* The wholeseller cheated the trader so he had a **profit** of '1/4' and the trader had a **loss** of '1/5'.
+* MF -> 1/5 decrease -> 1 - 1/5 -> 4/5.
+
+![image](https://github.com/user-attachments/assets/b0d90ff9-26c2-446e-8638-18dd161ef5a8)
+![image](https://github.com/user-attachments/assets/4c638c4a-66db-4764-8926-b2c4abf64991)
+
+* CP -> 27
+* SP -> 22
+* L -> 27 - 22 -> 5
+* L%  -> 5/27 * 100 -> 18.51% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/429893cc-4c92-4fd9-8573-a22825a45008)
+![image](https://github.com/user-attachments/assets/0d99b6d8-5922-42fa-92e2-1577a26859c7)
+
+* Questions.
+
+![image](https://github.com/user-attachments/assets/a2beb45e-b0f8-493f-946b-f54e57a63f56)
+
+* Let initial weight -> 100g. [Method **1**]
+* Profit -> 120 - 80 -> 40g.
+* Denominator -> on sold quantity -> 80g.
+* P% -> 40/80 -> 1/2 -> 50%.
+
+![image](https://github.com/user-attachments/assets/b477d125-ef47-450f-ab3b-e0ed607079e0)
+![image](https://github.com/user-attachments/assets/f0c970a4-ab98-4e41-a0c9-3b092a30eb64)
+
+* Shopkeeper has a profit of **20%**. [Method **2**]
+* MF -> 20% increase -> 1 + 1/5 -> 6/5.
+* Customer has a loss of **20%**.
+* 20% -> 1/5 decrease -> n/n+d -> n = 1, d = 4
+* n/d -> 1/4 increase for shopkeeper.
+* Shopkeeper has a profit of **1/4 or 25%**.
+* MF -> 1/4 increase -> 1 + 1/4 -> 5/4.
+* CP -> 2
+* SP -> 3
+* P -> 3 - 2 -> 1
+* P% -> 1/2 * 100 -> 50%.
+
+![image](https://github.com/user-attachments/assets/fe2f7d9d-d46c-46c3-9b38-5968b649b1a2)
+
+* Let initial weight -> 100g.
+* Indicated Weight -> 100g.
+
+![image](https://github.com/user-attachments/assets/d9229b54-b307-4376-87d7-a471326848c3)
+![image](https://github.com/user-attachments/assets/ca96294a-8cb3-4b32-9980-165121271494)
+
+* [Method **1**]
+
+![image](https://github.com/user-attachments/assets/b33b3893-eda0-47bc-9f35-54e41d8dedb4)
+![image](https://github.com/user-attachments/assets/4736a242-3b37-4d6d-ae8b-b51cd498c958)
+![image](https://github.com/user-attachments/assets/4bbb6bd5-8541-4442-88d8-8475375f84c9)
+
+* [Method **2**]
+* We are giving '800g' to the **customer**.
+* How much should we add to the '800g' so that it is back at '1000g'.
+* We need to add '200g'.
+* '200g' is '1/4 or 25%' of '800g'.
+* 200/800 -> 1/4 -> 25%.
+* 20% decrease -> n/n+d -> 1/5 -> n = 1, d = 4
+* n/d -> 1/4 or 25% increase.
+* If **1/5 decrease**, less is given, then add '1/4' to make it original.
+
+![image](https://github.com/user-attachments/assets/8721d15b-2e6b-4a44-923a-69c7434f61e9)
+![image](https://github.com/user-attachments/assets/ea6ddcf5-e3c7-42dd-98ef-02d9ccacdd5c)
+![image](https://github.com/user-attachments/assets/fb449978-9574-41a8-af10-c19c024e7fe5)
+
+## Percentages and Profit Loss(7) [12]
+
+
+
+
 
 
 
