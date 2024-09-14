@@ -2266,6 +2266,187 @@
 * C = 350
 * SP => C + 98 -> 350 + 98 -> 448. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/6740ab9c-f291-4ca8-a514-1097f4a27561)
+
+* CP of tablet -> x
+* CP of mobile -> y.
+
+![image](https://github.com/user-attachments/assets/d816df25-f620-40b0-98cc-b527ac609008)
+![image](https://github.com/user-attachments/assets/5750a5d8-89d0-437e-8beb-cf835e959967)
+![image](https://github.com/user-attachments/assets/5c784589-b5a7-4d52-a737-2f8e42b21116)
+
+* CP of mobile -> y -> 8000. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/054b5008-b11c-4da2-99d7-75dd1444a3f0)
+![image](https://github.com/user-attachments/assets/57ec45fc-8ae9-4c24-a0ba-9ce275e43aca)
+
+* B = 100. [Let]
+* A -> 80% of B -> 180.
+* C -> 40% of A ->
+* 40% -> 2/5 -> 1 - 2/5 -> 3/5
+* A/C -> 3/5 -> 3 * 6/5 * 6 -> 180/300.
+* C = 300. 
+
+![image](https://github.com/user-attachments/assets/b1e7a6f6-bf8d-41f4-b11e-d7d6fba3b3b1)
+
+* C = 100. [Let]
+* A -> 10% of C -> 90.
+
+![image](https://github.com/user-attachments/assets/71252eb5-5916-4d26-898b-b55ae7b416fc)
+
+* C = 100. [Let]
+* A -> 10% of C -> 90.
+
+![image](https://github.com/user-attachments/assets/ae78b78a-2792-4903-951d-0c5f25955a9b)
+
+* B -> 20% of A -> 75. [Method **1**]
+* B/A -> 100/120 -> 5/6 -> 5 * 15/6 * 15 -> 75/90. [Method **2**]
+
+![image](https://github.com/user-attachments/assets/4bd00ce5-40e2-49eb-8840-4d48f0a22a99)
+![image](https://github.com/user-attachments/assets/4b865a93-8f5a-441b-9c78-1979c3e0ef7e)
+![image](https://github.com/user-attachments/assets/da32c460-64f8-4fc7-8969-edf62b73c2bd)
+
+* Dividing
+* We don't know the 'SP' of 'B'. So our attacking points would be 'A and C. [Logic]
+* Profit on A(PA) -> SP - CP -> 9x - 9k.
+* Loss on C(LC) -> CP - SP -> 15k - 10x.
+* PA -> 18.
+* LC -> 20.
+* We will get a relation between 'k and x'.
+
+![image](https://github.com/user-attachments/assets/645f3e8e-950a-414e-83ee-13df01da0ca5)
+![image](https://github.com/user-attachments/assets/a534a384-4c80-4fbc-ae38-a1a78c619105)
+
+* We have turned it into a single variable 'y'.
+* k = 4y.
+* x = 5y.
+
+![image](https://github.com/user-attachments/assets/eecfdbc7-ffb1-4ca3-8663-11b547747b27)
+![image](https://github.com/user-attachments/assets/3e7c10f8-e04f-4d54-8a94-dfc058e639cb)
+
+* Profit of 'A' -> SP - CP -> 45y - 36y -> 9y.
+
+![image](https://github.com/user-attachments/assets/8a57e8de-848d-472a-b601-ca066ad8095b)
+
+* If the Profit of 'A' is '18' then the Profit of 'B' is '15'.
+* If the Profit of 'A' is '9' then the Profit of 'B' is '7.5'.
+
+![image](https://github.com/user-attachments/assets/6ea03b7f-13ba-4952-b9e9-2eb6c8300f8f)
+
+* PB/CB -> 7.5y/20y -> 3/8. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/5f8ed4f3-c07d-4efe-9729-3d0397e6959a)
+![image](https://github.com/user-attachments/assets/2ace67e0-67c9-419d-8b07-1d22f4694b07)
+
+* Let's assume some values for **CP and MP**.
+* CP = 300. [Let]
+* MP = 500. [Let]
+
+![image](https://github.com/user-attachments/assets/c5c4f614-0ba1-423e-91e8-4ba84a8797f3)
+![image](https://github.com/user-attachments/assets/d0fb7214-4862-42ed-b9e9-512079bb7b48)
+
+* CP -> 35% of 300 -> 405
+* P% -> 20%
+* SP -> 20% off 405 -> 486
+* D -> MP - SP -> 500 - 486 -> 14
+* D% -> D/MP * 100 -> 14/500 * 100 -> 2.8% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/f35834b4-2e5c-4d8c-8cfd-5f05f1e4e2a3)
+
+* MF -> 60% increase -> 1 + 3/5 -> 8/5.
+* MF -> 12.5% decrease -> 1 - 1/8 -> 7/8.
+* 1/8 -> 12.5%
+* 1/7 -> 14.28%
+* 2/7 -> 28.56%
+* Shopkeeper cheated the wholeseller by '28.56%'. Direct **profit** of shopkeeper.
+* MF -> 28.56% increase -> 1 + 2/7 -> 9/7.
+
+![image](https://github.com/user-attachments/assets/708a242d-eb5c-4a22-bb5a-9a2334ac9157)
+![image](https://github.com/user-attachments/assets/a1128e92-470e-4576-aeee-4d650dce025e)
+
+* We have to solve from the point of view of **shopkeeper**.
+* Shopkeeper cheated the customer by '18.75%'. Direct **loss** of customer.
+* 3/16 -> 18.75% 
+* Customer -> 3/16 decrease -> n/n+d -> n = 3, d = 13.
+* Shopkeeper -> n/d increase -> 3/13 increase.
+* MF -> 3/13 increase -> 1 + 3/13 -> 16/13.
+* In total the Shopkeeper gave '18 + 2 -> 20' articles to the customer. So the Shopkeeper had a loss of '2' articles for the '20' articles.
+* 2/20 -> 1/10 loss.
+* MF -> 1/10 decrease -> 1 - 1/10 -> 9/10.
+
+![image](https://github.com/user-attachments/assets/3ae7559a-0a4e-42be-8abd-e2c893e11042)
+![image](https://github.com/user-attachments/assets/abb59e85-aac6-4f89-86d0-cdff14ea9d6c)
+![image](https://github.com/user-attachments/assets/3b2a0e82-74ef-4927-bdc8-066b9229e3e6)
+
+* CP = 325
+* SP -> 648
+* P -> 648 - 325 -> 323
+* P% -> 323/325 * 100 -> 99.3% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+## Percentages and Profit Loss(9) [14]
+
+![image](https://github.com/user-attachments/assets/69bf63e4-ed59-48b7-a371-880a4f6d5a7a)
+
+* SP of '1' T-shirt -> a.
+* SP of '1' cargo pant -> b.
+* 32 T-shirt -> 12 cargo pants.
+* Total SP -> 32a + 12b.
+* Amit Paid -> 32a.
+* Discount -> Whatever is given for **free**.
+* MP -> 32a + 12b.
+* Total SP is acting as 'MP' in **this question**. [Logic]
+
+![image](https://github.com/user-attachments/assets/6b50931a-0f7a-4dc6-9fcc-5e74e79ea913)
+![image](https://github.com/user-attachments/assets/80b1e80c-0e02-4f51-b26f-8d484aecc37b)
+![image](https://github.com/user-attachments/assets/fb8c8455-d4f4-42ee-8368-89ff1c1677ff)
+
+* D% -> 20% -> 1/5.
+* a/b = 3/2.
+* a = 3b = 3y.
+* b = 2a = 2y.
+* Abhay -> 50b-> 50 * 2y -> 100y.
+* 10 cargo pants -> 4 T-shirts.
+* 50 cargo pants -> 20 T-shirts.
+* Abhay -> 100y + 20a -> 100y + 20 * 3y -> 100 + 60 -> 160.
+
+![image](https://github.com/user-attachments/assets/b37f4eed-8c86-4d9f-abfa-3e5fcccf36bf)
+
+* The shopkeeper gave '160g' worth of stuff to abhay.
+* Abhay paid -> 50 cargo paints -> 50 * 2y -> 100y.
+
+![image](https://github.com/user-attachments/assets/9e1d58dd-b465-4746-9b6e-ca90f017958a)
+![image](https://github.com/user-attachments/assets/8d5cf66f-080b-4f41-a392-d10c2eb01698)
+
+* CP/MP -> 160
+* SP -> 100
+* D -> 160 - 100 -> 60%.
+* D% -> D/MP * 100. [Formula] [**VERY IMPORTANT**]
+* D% -> 60/160 * 100 -> 37.5 [Solution] [Answer] [VERY VERY IMPORTANT] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
