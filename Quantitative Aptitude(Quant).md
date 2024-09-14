@@ -1939,9 +1939,77 @@
 * 1 + 3/5 = 8/5.
 * Increase -> 3/5 -> 60%. [Method **2**] [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
-* Start from 1hr 28min.
+![image](https://github.com/user-attachments/assets/d90edd9b-cf8d-41e2-83dc-da122ea97120)
 
+* Instead of taking the no. as 'x', take the no. as a multiple of '4 and 5'.
+* 4 * 5 -> 20x.
+* As the options are given in percentages so take the no. as '20' only without **x**.
 
+![image](https://github.com/user-attachments/assets/e3ca0c4c-3011-4ec5-ab8d-f389e44e5deb)
+
+* Assuming 20kg of rice.
+* CP of 1kg of rice -> Rs 100.
+* 5kg -> 5 * 100 -> Rs 500.
+* SP -> Rs 650
+
+![image](https://github.com/user-attachments/assets/449e2241-9fec-4ca8-ab9c-63b1ff27be74)
+
+* Remaining -> 20 - (5 + 9) -> 20 - 14 -> 6kg.
+
+![image](https://github.com/user-attachments/assets/8ba797f8-d79d-464d-87c5-5eed92fea1fa)
+
+* 650 + 810 -> 1460
+* 2160 - 1460 -> 700.
+* So the last one's total is '700'.
+* 1/6 = 16.66%
+
+![image](https://github.com/user-attachments/assets/87d7e7e2-066b-4dcd-a95e-9a07d8e74f60)
+
+* MF -> 1/6 decrease -> 1 - 1/6 -> 5/6.
+
+![image](https://github.com/user-attachments/assets/954aa966-7481-42c7-840e-fb321f727615)
+![image](https://github.com/user-attachments/assets/ed4a570e-75f5-4455-a204-902fc2d1a728)
+
+* 7/5 = 7/5 - 1 -> 2/5 -> 40%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d350091c-a33e-4ee1-9958-bd0286282d05)
+
+* Everytime '+10' discount is happening.
+* CP of 'n' shirts -> 600n
+
+![image](https://github.com/user-attachments/assets/5d95b5d7-0b2b-4baf-8ebf-424f6713ba7d)
+![image](https://github.com/user-attachments/assets/a8fbbbe7-34da-48a9-a07e-97e82d092d8c)
+![image](https://github.com/user-attachments/assets/0b278835-aeb1-45b6-90ad-453b07db8a25)
+
+* Sum of 'n' terms of AP -> n/2 * (a + l). [Formula] [**VERY IMPORTANT**]
+* n -> no. of terms
+* a -> 1st term
+* l -> Last term.
+
+![image](https://github.com/user-attachments/assets/a457b59f-e36d-41b6-9a45-b6a55de28ed7)
+![image](https://github.com/user-attachments/assets/41f21300-30d2-46da-88ca-3d71c575a5e1)
+![image](https://github.com/user-attachments/assets/0131fef8-af9f-46d4-9fec-61190abba715)
+
+* 'nth' term of AP **OR** last term of AP -> a + (n - 1) * d. [Formula] [**VERY VERY IMPORTANT**]
+* l -> a + (n - 1) * d. [Formula] [**VERY VERY IMPORTANT**]
+* d -> common difference.
+
+![image](https://github.com/user-attachments/assets/38a2285d-0c3c-46d2-8afd-cf9683771141)
+![image](https://github.com/user-attachments/assets/c9718d8c-eff2-4236-a843-120ca480b635)
+
+* a = 20.
+* d = 10.
+
+![image](https://github.com/user-attachments/assets/3b84b3e7-af98-4169-8fee-9017edf2c14b)
+
+* For **overall profit**, SP > CP. [Formula] [**VERY VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/16fe295e-2bc9-4e18-a7a7-fbc30d984f5a)
+![image](https://github.com/user-attachments/assets/3d2dc8e3-9b9b-4fbf-ace0-18ec49004bda)
+
+* Max. value of 'n' for overall profit is **76**. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/9873f6f6-4ef1-4496-8466-7fd2ffde558d)
 
 
 
