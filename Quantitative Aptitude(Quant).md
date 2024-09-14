@@ -2070,6 +2070,208 @@
 
 ![image](https://github.com/user-attachments/assets/f39cff1e-5260-4208-afd6-4d1cb6968f9f)
 
+## Percentages and Profit Loss(8) [13]
+
+![image](https://github.com/user-attachments/assets/11942e5e-687d-4a5d-96ec-481395d9f00a)
+![image](https://github.com/user-attachments/assets/345625e1-929d-4d44-9dda-745244bc2c96)
+
+* Count -> 9 + 6 -> 15.
+* Overall P% -> 10% increase.
+* P% = P/CP = 10% = 1/10
+* P = 1.
+* CP = 10.
+
+![image](https://github.com/user-attachments/assets/0eab73e4-b0af-4a00-8b2f-718ceb79ca88)
+![image](https://github.com/user-attachments/assets/d5fea77b-020d-4c71-a7a2-893ccd12e8cf)
+
+* 15 phones -> 6600
+* 1 phone -> 6600/15 -> 440
+* 10 phones -> 440 * 10 -> 4400.
+* A mobile phone -> '1' mobile phone.
+* CP of '1' mobile phone -> 4400. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/c929ae71-9b10-4f6f-827c-f57e36e13eff)
+![image](https://github.com/user-attachments/assets/55793afd-b3a4-45de-8a77-43bc1ce23a74)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/59c8d749-2838-417f-8da7-2847d3f13187)
+
+* 40% -> 2/5
+* D/SP = 2/5
+* SP = 5
+* D = 5 + 2 -> 7
+* If 'CP' is '1' then 'MP' is '3'.
+
+![image](https://github.com/user-attachments/assets/7456b65e-afea-4620-a921-f9c88387db0d)
+
+* Whatever **discount(D)** we give on MP, we get SP. [Formula] [**VERY IMPORTANT**]
+* Whatever **profit(P)** we get from the CP, we get SP. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e88d918e-0de9-46e5-bee1-c66ea24c9038)
+![image](https://github.com/user-attachments/assets/0ea0c066-4071-4dc9-9671-a3588d2ee837)
+
+* MP - CP = D + P. [Formula] [**VERY IMPORTANT**]
+* They are **same/equal**.
+
+![image](https://github.com/user-attachments/assets/6e0b71a2-be89-4bb7-bf28-6d6d1798980b)
+
+* D = 7, P = 5
+* D + P -> 7 + 5 -> 12.
+* MP - CP => 3 - 1 -> 2.
+* It needs to be '12' also.
+* We will multiply with '6' to make the '2' into a '12'.
+
+![image](https://github.com/user-attachments/assets/561fe168-2527-4bc0-8e8e-822892138124)
+
+* CP -> 1 * 6 -> 6.
+* MP -> 2 * 6 -> 12.
+* SP -> 18 - 7 -> 11.
+
+![image](https://github.com/user-attachments/assets/e4880e53-a23e-4309-b49a-8983234ec5e7)
+![image](https://github.com/user-attachments/assets/a450e300-cbb0-49b0-894b-226dd838061f)
+![image](https://github.com/user-attachments/assets/d3182c45-821f-40bd-b124-8bb0d763dd2c)
+
+* P => 11 - 6 => 5.
+* P% -> 5/6 * 100 -> 83.33% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/526e092c-75fd-4157-84a6-341ee399e9be)
+
+* CP -> 100x.
+* 20% profit
+* SP -> 100x * 20/100 -> 100x + 20x -> 120x.
+* SP of music CDs -> 35% of 120 -> 42x.
+
+![image](https://github.com/user-attachments/assets/b531f6f7-82b3-4e41-ac39-6718fd0cb0ce)
+
+* P% -> 40% -> 2/5. [Formula] [**VERY IMPORTANT**]
+* P/C -> 2/5. [Formula] [**VERY IMPORTANT**]
+* CP -> 5. [Formula] [**VERY IMPORTANT**]
+* P -> 2. [Formula] [**VERY IMPORTANT**] 
+* SP -> CP + P -> 5 + 2 -> 7. [Formula] [**VERY IMPORTANT**]
+* SP = 7x
+* 7 -> 42x.
+* 1 -> 6x.
+* 5 -> 30x.
+* CP of music -> 30x.
+* SP of Books -> 50% of 42x -> 63x.
+
+![image](https://github.com/user-attachments/assets/4300ae69-2b01-4007-a93f-2658878a4f51)
+![image](https://github.com/user-attachments/assets/5560f10f-ccfe-48fd-a93f-15a7fa284aea)
+
+* 25% -> 1/4
+* P/CP -> 1/4
+* P -> 1
+* CP -> 4
+* SP -> 5.
+* 5 -> 63x
+* 1 -> 12.6x
+* 4 -> 50.4x
+* CP of books -> 50.4x
+* CP of DVDs => 100x - (30 + 50.4) -> 100x - 80.4 -> 19.6x
+* SP of DVDs => 120x - (42 + 63) -> 120x - 105 -> 15x.
+* L -> 19.6 - 15 -> 4.6
+
+![image](https://github.com/user-attachments/assets/58d7e9fd-6e7b-48fa-83a4-3b5adc09d88c)
+![image](https://github.com/user-attachments/assets/20258b69-074c-42a9-bbfc-e7d2b71bcd22)
+![image](https://github.com/user-attachments/assets/2552d2f0-321e-455b-8869-e10e8fb8476e)
+
+* L% -> 4.6/19.6 * 100 -> 23.4% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+* All of the problem was **solved** with the help of **SP**.
+* Weighted Average -> Quantity. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3302786a-c3c5-4253-98f4-fdd9bb86ea7d)
+![image](https://github.com/user-attachments/assets/882c901b-0f0a-45a4-a4f9-cd84cb7cf90a)
+
+* Calculations. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/573ea59e-03ed-4eb5-a611-f099f4e3adbc)
+
+* Total SP -> 100x. [Assume]
+* SP of music CDs -> 35% of 100x -> 35x.
+* SP of books -> 50% increase of 35x -> 52.5x
+* SP of DVDs -> 100 - (35 + 52.5) -> 12.5x
+
+![image](https://github.com/user-attachments/assets/e11f63e8-c13b-4d81-8f6f-b5d0deb2f089)
+
+* CP of music CDs -> 35x/1.4 -> 25x [40% -> 1.4]
+* CP of books -> 52.5x/1.25 -> 42x [25% -> 1.25]
+
+![image](https://github.com/user-attachments/assets/56b02737-3266-42c3-858c-44aacfb5a4e2)
+![image](https://github.com/user-attachments/assets/f8e9faef-b3b3-4c42-beda-98054f7a3249)
+
+* CP of DVDs -> 50% loss -> 12.5x * 2 -> 25x.
+* 50% loss -> Double to get the CP of DVDs.
+
+![image](https://github.com/user-attachments/assets/a9402b38-8ec5-4288-83b5-a449f6226102)
+![image](https://github.com/user-attachments/assets/20d7f84d-652e-4828-b586-86b3db9ea34f)
+
+* Total CP -> 92x.
+* Total SP -> 100x.
+* P -> 100x - 92x -> 8x.
+* P% -> 8x/92x * 100 -> 8.69% -> ~8.7% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+* 1/23 -> 4.35%
+
+![image](https://github.com/user-attachments/assets/509e413a-c907-4abf-9fc6-5b7aeb42f2e1)
+![image](https://github.com/user-attachments/assets/fc6e9734-4faf-4d41-8084-7ea586fa2f27)
+
+* We will use **weighted avg** here.
+* 24 - 6 -> 18.
+* 18/2 -> 9.
+* 18 - 9 -> 9.
+* Total quantity -> 24 -> 6 + 9 + 9.
+* Combined/Overall Profit value -> 15%.
+
+![image](https://github.com/user-attachments/assets/71c6256b-0ac6-4a0f-bf24-e39d456801d9)
+![image](https://github.com/user-attachments/assets/0ede44c5-b655-4bb7-b215-81877edbe647)
+
+* x -> -8% -> 8% loss.
+* CP -> 100 [Let]
+* L% -> 8%
+* L -> 8.
+* SP -> 100 - 8 -> 92.
+* C/S -> 100/92 -> 25/23.
+
+![image](https://github.com/user-attachments/assets/6d610473-2922-4a68-9e38-d922b4031387)
+![image](https://github.com/user-attachments/assets/ccf99bdc-467f-48a6-8163-b57f8476f462)
+![image](https://github.com/user-attachments/assets/5b3907ed-6046-446e-9bed-148b88c32905)
+
+* SP -> 276
+* 23 units -> 276
+* 1 unit -> 12
+* 25 units -> 300.
+* '1' bottle is '300' then '24' bottle is '7200'.
+* Total cost -> 7200. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d448c168-7b6b-4f7e-a3a0-a598f830ca02)
+
+* 112 + 98 -> 210.
+* D + P = CP - MP. [Logic]
+* The difference between 'CP and MP' is the 'MP%' only.
+
+![image](https://github.com/user-attachments/assets/b6435f4c-e32c-46fc-9d56-ee4016c63550)
+
+* MP% -> Change - initial value -> C + 210 - C -> 210
+* CP -> C.
+* MP -> C + 210.
+* D% -> D/MP -> 112/(C + 210).
+
+![image](https://github.com/user-attachments/assets/8b57db16-6562-42f1-adb2-c3ee70bbaf5a)
+
+* **Dividing** the equations '1 and 2'.
+
+![image](https://github.com/user-attachments/assets/0e3600a7-a3fe-465a-a82e-bc623562659c)
+![image](https://github.com/user-attachments/assets/a34083ba-947d-4ee0-b89a-7e008dac17ee)
+
+* C = 350
+* SP => C + 98 -> 350 + 98 -> 448. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+
+
+
+
+
+
 
 
 
