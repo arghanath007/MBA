@@ -2010,6 +2010,65 @@
 * Max. value of 'n' for overall profit is **76**. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
 ![image](https://github.com/user-attachments/assets/9873f6f6-4ef1-4496-8466-7fd2ffde558d)
+![image](https://github.com/user-attachments/assets/c229d79a-1666-4f53-bcdc-57fa257e0226)
+![image](https://github.com/user-attachments/assets/1276e59a-c30b-4e42-9d91-9acc42634ddb)
+
+* SP -> 5
+* P -> 2
+* CP -> SP - P -> 5 - 2 -> 3.
+* MF -> 80% increase -> 1 + 4/5 -> 9/5.
+* Discount -> mf. [Let]
+* mf = 25/27 decrease
+* MF -> 25/27 decrease -> 1 - 25/27 -> 2/27.
+
+![image](https://github.com/user-attachments/assets/5a8913f0-1b72-419f-9589-504d666bdb11)
+
+* 2/27 -> 7.4% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+* 1/27 -> 3.7%
+
+![image](https://github.com/user-attachments/assets/23cad9d7-d651-442f-83b7-f9b22d47751b)
+![image](https://github.com/user-attachments/assets/7ca8fc1e-fc54-4be7-888c-321eabcf767c)
+
+* Weighted  Average. [Formula] [**VERY VERY IMPORTANT**]
+* MF -> 1/6 decrease to shopkeeper -> 1 - 1/6 -> 5/6.
+* MF -> 20% increase -> 1 + 1/5 -> 6/5.
+* MF -> 8% decrease -> 1 - 2/25 -> 23/25.
+* MF -> 5% decrease -> 1 - 1/20 -> 19/20.
+
+![image](https://github.com/user-attachments/assets/c18a2f98-c4ee-4d7f-82ed-7d9727fd1356)
+![image](https://github.com/user-attachments/assets/28305f9c-f616-4530-abba-7cc211cd830b)
+![image](https://github.com/user-attachments/assets/ce3dd954-7fba-48f2-aab8-fdd954fbf0ea)
+
+* CP -> 25 -> 25 * 4 -> 100.
+* SP -> 23 -> 23 * 4 -> 92.
+* L -> 25 - 23 -> 2
+* L% -> 2/25 * 100 -> 8% -> For all customers.
+
+![image](https://github.com/user-attachments/assets/7886a2e5-a8f1-49d5-ba17-cb51a4de5455)
+![image](https://github.com/user-attachments/assets/05f7f552-326a-4086-98c7-01b50f2559f3)
+
+* CP -> 500 -> 500/5 -> 100
+* SP -> 437 -> 437/5 -> 87.4
+* L -> 100 - 87.4 -> 12.6
+* L% -> 12.6/100 * 100 -> 12.6% -> For loyal customers.
+
+![image](https://github.com/user-attachments/assets/89ae4019-cc81-4d3a-becd-25374484159d)
+
+* Non-loyal customers -> all customers.
+* Total Quantity -> 5 + 4 -> 9.
+* We are using the formula of **weighted average**.
+
+![image](https://github.com/user-attachments/assets/d55c8066-923d-4ac6-ba78-4cbb8818bbec)
+![image](https://github.com/user-attachments/assets/338a46c0-c961-4f08-addc-1c4aafc03c3b)
+![image](https://github.com/user-attachments/assets/bdc50922-114b-4cfa-bcd0-8093d5b7208e)
+
+* Overall profit/loss -> 10.55% loss. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/48643f76-0802-418c-b9ee-3359503470b4)
+
+* They will put **negative** in the **options**. [Formula] [**VERY VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f39cff1e-5260-4208-afd6-4d1cb6968f9f)
 
 
 
@@ -2020,41 +2079,15 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/238ae640-1024-4ef2-b8df-eddf3fb5187a)
-![image](https://github.com/user-attachments/assets/0d658c15-b397-4376-a3ed-b8cf601635e2)
 
 
 # Important
 
 ![image](https://github.com/user-attachments/assets/1a9f8c5d-0d87-41d2-a386-86642929fcd9)
 ![image](https://github.com/user-attachments/assets/7f51fd07-5b6b-432c-aeec-690f28f2e731)
+![image](https://github.com/user-attachments/assets/238ae640-1024-4ef2-b8df-eddf3fb5187a)
+![image](https://github.com/user-attachments/assets/0d658c15-b397-4376-a3ed-b8cf601635e2)
+![image](https://github.com/user-attachments/assets/12d50399-be09-4113-90c2-df6fc336855d)
 
 
 ## Quant Practice Questions
