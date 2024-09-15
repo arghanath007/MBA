@@ -2499,6 +2499,126 @@
 * P -> 112.5 - 100 -> 12.5
 * P% -> 12.5/100 * 100 -> 12.5% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/7a92f314-ff70-445c-bf23-50252868e303)
+
+* CP of 40kg Ice-cream -> 100 [Let]
+* MP -> 24% of 100 -> 124.
+* 10kg -> 10/40 -> 1/4
+* As we are calculating for **overall profit**. So we will find the profit.
+* 10% discount on 124 -> 111.6
+* P% -> (111.6 - 100)/100 * 100 -> 11.6%.
+
+![image](https://github.com/user-attachments/assets/22877d3d-a2a9-4820-a84b-9256c00a738d)
+![image](https://github.com/user-attachments/assets/bf125959-e181-4eaf-9594-beca5ebd6776)
+
+* 5kg -> 5/40 -> 1/8
+* 5kg ice-cream is totally wasted. So it is a **loss** of '100%'.
+* Left -> 40 - 10 * 2 - 5 -> 40 - 25 -> 15kgs.
+* 15kg -> 15/40 -> 3/8
+
+![image](https://github.com/user-attachments/assets/44741dd9-d7fc-42c6-a968-92f3f125a6da)
+![image](https://github.com/user-attachments/assets/66138652-33ea-4c8f-9d98-75445af29c5b)
+
+* Actually it is **weighted average** question only. [Formula] [**VERY IMPORTANT**]
+* If there is **no discount** on the **MP** then that **MP** becomes the **SP** of the **seller/shopkeeper**. [Formula] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/b89905b8-b3da-48b9-b26f-d6641f53a863)
+![image](https://github.com/user-attachments/assets/2380c27d-8194-45d6-8e94-b9432b182ca0)
+![image](https://github.com/user-attachments/assets/c31a2583-b671-4a70-8ece-36fa5ac370e4)
+
+* y = ~63%.
+* Old MP -> 124
+* New MP -> 63% of 100 -> 163.
+* Change -> 163 - 124 -> 39
+* a% -> %age change -> 39/124 * 100 -> 31.4% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/f36338fa-7e6d-498f-8ab8-c1faacb4d24b)
+
+* CP -> 100. [Let]
+* MP -> 20% of 100 -> 120.
+* Overall profit -> 30%
+* 10kg -> 10/70 -> 1/7.
+* SP -> 20% of 120 -> 96.
+* L -> 100 - 96 -> 4%. 
+* 20kg -> 20/70 -> 2/7.
+
+![image](https://github.com/user-attachments/assets/8bb97e81-676c-47a0-b972-a892cf8f1bfe)
+
+* 6kg which is wasted is a **loss** of '100%'.
+* Remaining -> 70 - 10 - 20 - 6 -> 70 - 36 -> 34kgs.
+* 34kg -> 34/70.
+ 
+![image](https://github.com/user-attachments/assets/8f6befcd-fbe8-4a2b-a236-2db65cccc904)
+![image](https://github.com/user-attachments/assets/2357c27f-f7c7-4fd1-a24e-408d513b5c80)
+
+* Profit% -> y%. [Let]
+
+![image](https://github.com/user-attachments/assets/f71dad48-6f38-4fa5-8c7e-a69f148029cb)
+![image](https://github.com/user-attachments/assets/74726ed7-d7fb-40ae-bc6c-b89a44950042)
+
+* Old CP -> 100.
+* Old MP -> 120.
+* New CP -> 100.
+* P% -> y -> 75.8%
+* New MP -> 75.8% of 100 -> 175.8
+* Difference -> 175.8 - 120 -> 55.8
+* a% -> 55.8/120 * 100 -> ~47%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/0479e097-66de-4817-bcec-775890a8274e)
+
+* Weighted Average.
+
+![image](https://github.com/user-attachments/assets/01a23366-cbaa-4d37-a86f-b3df0989802a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
