@@ -2423,16 +2423,31 @@
 * D% -> D/MP * 100. [Formula] [**VERY IMPORTANT**]
 * D% -> 60/160 * 100 -> 37.5 [Solution] [Answer] [VERY VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/cb6385e9-f829-444d-b10f-9ceb85e72481)
+![image](https://github.com/user-attachments/assets/d7f4bfe2-05e3-47a8-ac7a-ff9cf8280f8d)
+![image](https://github.com/user-attachments/assets/b35d6356-c6e2-4c99-877f-088d046496d4)
 
+* x = 10.
+* k = 112.
+* k = 100 + P%. [Let]
+* P% = 12%. [Solution] [Answer] [VERY VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/ade68d0b-0971-4485-9650-8f4d7cead3fb)
 
+* We have both **quantity and percentage**, so we can apply **weighted average** here. [Formula] [**VERY IMPORTANT**]
+* P -> 16
+* P% -> 16/48 -> 1/3 -> 33.33%
+* Overall profit -> 20%.
 
+![image](https://github.com/user-attachments/assets/0835d47d-fb0b-4c47-92dc-ae1d53a04a50)
 
+* Complete Loss of '1' mango -> 100% decrease -> -100%. [Formula] [**VERY IMPORTANT**]
+* Quantity -> 4 + 1 + 5 -> 10.
 
+![image](https://github.com/user-attachments/assets/74887431-95c4-4dac-801d-4eb72e2fcdc6)
+![image](https://github.com/user-attachments/assets/b3b4f878-f874-426b-95cf-4619aee3c924)
 
-
-
-
+* x = 33.33% [Method **1**] [Solution] [Answer] [VERY VERY IMPORTANT] [Practice Again]
 
 
 
@@ -2471,6 +2486,15 @@
 ![image](https://github.com/user-attachments/assets/238ae640-1024-4ef2-b8df-eddf3fb5187a)
 ![image](https://github.com/user-attachments/assets/0d658c15-b397-4376-a3ed-b8cf601635e2)
 ![image](https://github.com/user-attachments/assets/12d50399-be09-4113-90c2-df6fc336855d)
+![image](https://github.com/user-attachments/assets/b084bb2f-b2db-41bf-a499-8ffad14e905a)
+![image](https://github.com/user-attachments/assets/f0ee97cc-c774-41d7-9453-ba5f93b6cbdf)
+![image](https://github.com/user-attachments/assets/3cb187e6-bd3a-4c5e-9c85-b183d17317b6)
+![image](https://github.com/user-attachments/assets/0e867a77-4967-45eb-9235-27eb11c43cf8)
+![image](https://github.com/user-attachments/assets/19b9758e-3cf1-423f-8236-73896c4bc8e5)
+![image](https://github.com/user-attachments/assets/5cac8e47-ce01-4c0e-838e-669bfffe2d5f)
+![image](https://github.com/user-attachments/assets/7c5b397c-d964-4dad-a3db-b86fb837db82)
+![image](https://github.com/user-attachments/assets/491bd19a-2315-4e7b-ab85-df3ffba5dd06)
+![image](https://github.com/user-attachments/assets/cd6167a6-674c-4afd-8100-c23bdeefb8da)
 
 
 ## Quant Practice Questions
