@@ -136,10 +136,97 @@
 ![image](https://github.com/user-attachments/assets/b0aca403-4d07-4ae6-989d-55b8a551c72b)
 ![image](https://github.com/user-attachments/assets/83aaf84a-77d0-40e0-b33d-1303a8bc2f66)
 ![image](https://github.com/user-attachments/assets/425b0a5e-83c9-4016-bf90-f75eed544e10)
+![image](https://github.com/user-attachments/assets/e99ba3a8-3506-43d6-855b-8c933df296ac)
+![image](https://github.com/user-attachments/assets/3c2146f2-db4b-4ef9-88db-5a069f01d65c)
+![image](https://github.com/user-attachments/assets/6065f99b-067c-47e6-88c5-4d870c1a999e)
 
+* Hit and Trial method.
 
+![image](https://github.com/user-attachments/assets/e28bb1b4-90eb-4c4d-b441-90dd3ce14dcf)
+![image](https://github.com/user-attachments/assets/91ece0cb-49e1-4f2c-8db4-6b8831be8910)
 
+* Boys -> 100. [Let]
+* 40% of 100 -> 40 Girls
+* 100 - 40 -> 60 Boys.
+* 3B -> 5G
+* 66.66% -> 2/3
+* MF -> 66.66% increase -> 1 + 2/3 -> 5/3. 
+* 60/3 -> 20 times
+* Total boys -> 60.
+* 5G * 20 -> 100 girls.
+* 100 - 40 -> 60 girls more.
+* There are '100' girls in total and '60' boys in total.
+* Total students -> 100 + 60 -> 160.
+* Actual boys -> 100.
+* 1/8 -> 12.5%
+* 5/8 -> 62.5%
 
+![image](https://github.com/user-attachments/assets/6a76f979-5273-437a-818e-16db3d652192)
+![image](https://github.com/user-attachments/assets/bd7036eb-e024-49b6-8f76-33b81f1b9e4e)
+![image](https://github.com/user-attachments/assets/c00cc5a2-db98-4ea4-9c99-bc8d88228a4c)
+
+* Diff -> 3  - 2 -> 1.
+* 1/3 -> 33.33%
+
+![image](https://github.com/user-attachments/assets/e7ec5c05-3e25-49ce-a31d-ceac47db3663)
+![image](https://github.com/user-attachments/assets/364eb070-59d6-44f2-a1bd-12dfa6006e6b)
+![image](https://github.com/user-attachments/assets/4ff4c538-f11b-4471-9d24-5b303bf652e8)
+
+* 1/8 -> 12.5%
+* a% of 120 -> 12.5% of 120 -> 1/8 * 120 -> 15.
+
+![image](https://github.com/user-attachments/assets/6584e494-caf3-4bda-abfa-92511f254a51)
+![image](https://github.com/user-attachments/assets/a9de3905-ae0b-4cca-b4f0-30e2169fdb39)
+![image](https://github.com/user-attachments/assets/882fe2d9-617c-40b1-87bf-08b86a0414ac)
+
+* Monthly income -> 100. [Let]
+* Saves -> 44
+* Expense -> 100 - 44 -> 56.
+* 62.5% -> 5/8
+* MF -> 62.5% increase -> 1 + 5/8 -> 13/8.
+* Income -> 100.
+* New Expense -> 91.
+* New Savings -> 100 - 91 -> 9.
+* His actual savings -> 14400.
+* 14400/9 -> 1600.
+* Income -> 100 * 1600 -> 160000.
+
+![image](https://github.com/user-attachments/assets/4a18802f-4884-49d8-848a-9d718ca4d641)
+![image](https://github.com/user-attachments/assets/f16c1f84-a6a7-400c-aef0-3622bea9ebf6)
+
+* Divide by 'PQ' on both the sides.
+* k/90 = 1/30
+
+![image](https://github.com/user-attachments/assets/d6465c37-eeda-458a-89b0-b5258b6bc775)
+![image](https://github.com/user-attachments/assets/01565431-b495-4acd-a38b-60f188d7df62)
+
+* MF -> 50% increase -> 1 + 1/2 -> 3/2.
+* Percentage Point -> Absolute increase.
+* Total votes -> 100%
+
+![image](https://github.com/user-attachments/assets/fda196e9-713a-416d-b359-520a10c9d869)
+![image](https://github.com/user-attachments/assets/e3c31f40-6028-4db2-8737-91755c6b562a)
+![image](https://github.com/user-attachments/assets/9c29e500-b138-4d96-b252-34c730d68d1b)
+![image](https://github.com/user-attachments/assets/aeb1f4ca-8d5f-4fbd-9856-d06c28d31611)
+
+* No. of voters -> x.
+* Not casted votes -> 9.09% -> 1/11x.
+* Casted votes -> 1 - 1/11 -> 10/11x.
+* Not valid votes -> 11.11% -> 1/9x.
+* Valid votes -> 1 - 1/9 -> 8/9x.
+* Loser -> 33.5%
+* Winner -> 100 - 33.5 -> 66.5%
+* Diff -> 66.5 - 33.5 -> 33%. [Margin of the winner]
+* 8/9 * 10x/11 -> Valid and casted votes.
+* Doubt. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f9041867-9201-4619-b061-123ef1f365f0)
+![image](https://github.com/user-attachments/assets/2d1aad34-bf29-46c9-974c-8d10b70f6766)
+![image](https://github.com/user-attachments/assets/9d53e346-ce29-41b0-bc5c-b019640c631c)
+
+* MF -> 1/4 increase -> 1 + 1/4 -> 5/4.
+* MF -> 1/2 increase -> 1 + 1/2 -> 3/2.
+* MF -> 100% increase -> 1 + 1 -> 2.
 
 
 
