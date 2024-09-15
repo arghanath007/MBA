@@ -70,7 +70,7 @@
 
 ![image](https://github.com/user-attachments/assets/8ab12783-4fe6-4a8a-b85d-f706c07b8501)
 
-* We are comparing with the value of 'A', so the value of 'A' should be in the **denominator** part.
+* We are comparing with the value of 'A', so the value of 'A' should be in the **denominator** part. [Formula] [VERY IMPORTANT]
 * Less -> Loss.
 * Option **D**.
 
@@ -92,6 +92,57 @@
 ![image](https://github.com/user-attachments/assets/ac116c6e-0242-43ac-bc46-1f2ea6faa152)
 
 * Option **D**.
+
+![image](https://github.com/user-attachments/assets/839f4e3a-3928-48e1-94cf-2c71447b5905)
+![image](https://github.com/user-attachments/assets/8d4472c3-71e3-41ed-8f1c-309558edaef7)
+![image](https://github.com/user-attachments/assets/2659203c-6e33-4ba5-8eb6-d6ee73c15ea9)
+
+* 37.5% -> 3/8
+* MF -> 3/8 increase -> 1 + 3/8 -> 11/8.
+* A/B -> 11/8.
+* We are comparing with the value of 'A', so the value of 'A' should be in the **denominator** part. [Formula] [VERY IMPORTANT]
+* So 'A' is in the **denominator** part. [Formula] [VERY IMPORTANT]
+* Diff -> 11 - 8 -> 3.
+* 1/11 -> 9.09%
+* 3/11 -> 27.27% less
+* **Less**  because the numerator is less than the denominator. [Formula] [VERY IMPORTANT]
+
+![image](https://github.com/user-attachments/assets/aaf58141-a0c4-4953-9a30-58171699836b)
+
+* 1/9 -> 11.11%
+* 4/9 -> 44.44%
+* MF -> 4/9 decrease -> 1 - 4/9 -> 5/9.
+* We are comparing with the value of 'P', so the value of 'P' should be in the **denominator** part. [Formula] [VERY IMPORTANT]
+* So 'P' is in the **denominator** part.
+* Diff -> 9 - 5 -> 4.
+* 4/5 -> 80% higher.
+* **Higher**  because the numerator(9) is greater than the denominator(5). [Formula] [VERY IMPORTANT]
+
+![image](https://github.com/user-attachments/assets/20f17252-7dff-4944-aef7-034df97617af)
+
+* 1/13 -> 7.69%
+* 2/13 -> 15.38%
+* MF -> 2/13 increase -> 1 + 2/13 -> 15/13.
+* We are comparing with the value of 'A', so the value of 'A' should be in the **denominator** part. [Formula] [VERY IMPORTANT]
+* So 'A' is in the **denominator** part.
+
+![image](https://github.com/user-attachments/assets/96aae909-f0e3-41a8-900e-cfeea712ea33)
+
+* 5.85% -> 1/17.
+* 11.7% -> 2/17. 
+
+![image](https://github.com/user-attachments/assets/5171e6f4-9010-43ae-92d5-665a8210601a)
+![image](https://github.com/user-attachments/assets/94f6000d-26a9-4282-8a31-54b57ccb4d3f)
+![image](https://github.com/user-attachments/assets/b0aca403-4d07-4ae6-989d-55b8a551c72b)
+![image](https://github.com/user-attachments/assets/83aaf84a-77d0-40e0-b33d-1303a8bc2f66)
+![image](https://github.com/user-attachments/assets/425b0a5e-83c9-4016-bf90-f75eed544e10)
+
+
+
+
+
+
+
 
 
 
