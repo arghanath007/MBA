@@ -2449,25 +2449,55 @@
 
 * x = 33.33% [Method **1**] [Solution] [Answer] [VERY VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/311eb515-515a-44c2-9c8d-4d7c567d7f99)
 
+* [Method **2**]
 
+![image](https://github.com/user-attachments/assets/42ca43cf-022c-416b-a860-e32ddbe7dadf)
 
+* MP% and D% is successive change -> P%/L%. [Formula] [**VERY IMPORTANT**]
+* Formula -> a + b + ab/100. [Formula] [**VERY IMPORTANT**]
+* b = -2x.
+* As it is a **discount**.
+* P% in the 1st case -> 2x - 2(x ^ 2)/25. [Dev]
+* P% in the 2nd case -> 2x - 3(x ^ 2)/100. [Chandu]
+* The difference of both the profits is '180'.
+* P% -> P/CP
+* P =  P% * CP.
+* CP -> 1600
+* P = 180.
 
+![image](https://github.com/user-attachments/assets/8da40587-e0a8-4aaa-8dc5-3bab542e729a)
+![image](https://github.com/user-attachments/assets/e2a6262c-2102-4304-bb48-66d79dced6fd)
+![image](https://github.com/user-attachments/assets/a534af7b-06cc-476a-ad44-6b3e5ed49819)
+![image](https://github.com/user-attachments/assets/f0e17461-77e6-44d8-bd07-3a3c75a5ecab)
+![image](https://github.com/user-attachments/assets/453344c1-25bc-4262-8fa9-3400640511bb)
 
+* x = 15%. [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/568e36c9-41d7-453c-9b0f-7c34b0aa5de8)
+![image](https://github.com/user-attachments/assets/2421501c-5527-4adf-a57c-5805431d7823)
 
+* If 'CP = 5' then 'SP = 7'.
+* If 'SP = 7' then 'D = 3'.
+* MP => SP + D -> 7 + 3 -> 10. [Formula] [**VERY IMPORTANT**]
+* MP% = (10 - 5)/5 * 100 -> 100%.
+* New MP% -> 100/2 -> 50%.
+* D% -> D/MP -> 3/10 * 100 -> 30%
+* New D% -> 30% - 5% -> 25%.
 
+![image](https://github.com/user-attachments/assets/a134e860-4d55-46c7-9004-4a4b0cec9af2)
+![image](https://github.com/user-attachments/assets/e797a346-6453-4bdc-a629-934629a5f99b)
 
+* CP -> 100 [Let]
+* MP -> 50% of 100 -> 150.
+* SP -> 25% of 150 -> 112.5
 
+![image](https://github.com/user-attachments/assets/4d8bd5e8-6501-418a-bdde-8ad2fa58610b)
+![image](https://github.com/user-attachments/assets/8f667256-83d3-492d-8d7c-90901710a83e)
 
-
-
-
-
-
-
-
-
+* P -> 112.5 - 100 -> 12.5
+* P% -> 12.5/100 * 100 -> 12.5% [Solution] [Answer] [VERY IMPORTANT] [Practice Again]
 
 
 
