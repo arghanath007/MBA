@@ -228,15 +228,79 @@
 * MF -> 1/2 increase -> 1 + 1/2 -> 3/2.
 * MF -> 100% increase -> 1 + 1 -> 2.
 
+![image](https://github.com/user-attachments/assets/6b6969ea-072a-4b2f-87ba-49925dbd42f4)
+![image](https://github.com/user-attachments/assets/a205839a-55bf-4ce6-aa51-95d0e843a703)
 
+* MF -> 33.33% decrease -> 1 - 1/3 -> 2/3.
+* If the no. of people who **like** both the games is '3' then the no. of people who **do not like** both the games is '2'.
+* Do not like both the games -> 2x. 
+* Do like both the games -> 3x. 
 
+![image](https://github.com/user-attachments/assets/62f4af2b-c496-418e-a79f-c8bf9721009e)
+![image](https://github.com/user-attachments/assets/f24e584c-c2f0-494a-bf81-88de34f52c63)
+![image](https://github.com/user-attachments/assets/eee98393-c54d-4b94-ba2c-3c7ad5fe540e)
+![image](https://github.com/user-attachments/assets/794420a8-7d68-44fb-bf82-0d4f0f02f133)
 
+* Like exactly '1' game -> 90 - 3x, 100 - 3x -> 70 + 60 -> 130.
+* The pulp is going to remain the **same**. It is going to **remain constant**.
+* 3/8 -> 37.5%
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/56d7c8ee-0cd9-4f18-a1eb-09301317b397)
 
+* [**VERY IMPORTANT**] [Formula]
 
+![image](https://github.com/user-attachments/assets/6b7b40ed-52d3-4e4f-9f2d-52b344345c61)
+![image](https://github.com/user-attachments/assets/d5f327f7-65ca-44ad-88ff-7d536481f9ea)
 
+* Initial price -> k. [Let]
+* MF -> 1/6 increase -> 1 + 1/6 -> 7/6.
+* MF -> 1/15 decrease -> 1 - 1/15 -> 14/15.
+* MF -> 5/8 increase -> 1 + 5/8 -> 13/8.
+* MF -> 3/16 decrease -> 1 - 3/16 -> 13/16.
+* MF -> 9/8 increase -> 1 + 9/8 -> 17/8.
 
+![image](https://github.com/user-attachments/assets/12550135-84ca-42cd-83aa-fc92754eb764)
+![image](https://github.com/user-attachments/assets/2b7e9616-503e-48b5-9cc0-72dca52676e9)
 
+* 37.5% -> 3/8.
+* Remaining matches -> 100x.
+* x = 0.6
+* 100x -> 100 * 0.6 -> 60.
+* 80% of 60 -> 48
+* Won -> 18 + 48 -> 66
+
+![image](https://github.com/user-attachments/assets/906f8c96-d3fe-4a7e-acdf-209782011f6c)
+
+* 6.25% -> 1/16.
+* 97.37 -> 15/16.
+
+![image](https://github.com/user-attachments/assets/a6ccdeac-df9c-4a5f-ac33-c1a3d22d660b)
+![image](https://github.com/user-attachments/assets/9e6eab4e-663c-4eef-908b-991ef1df1b52)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/b3b5fbec-e585-4cec-8d70-74ff6ddd7bcd)
+
+* 37.5% -> 3/8
+* MF -> 31.66% increase -> 1 + 19/60 -> 79/60.
+* Total food production in 2023 -> 'k'. [Let]
+
+![image](https://github.com/user-attachments/assets/b87da818-bebb-4330-b1ac-d13b75dd09a9)
+![image](https://github.com/user-attachments/assets/dcca7870-4e36-4f78-8040-5ff9d8321c52)
+
+* k = 400.
+
+![image](https://github.com/user-attachments/assets/48753c7e-cda3-47a2-a28a-409e7746d67b)
+![image](https://github.com/user-attachments/assets/ed4802ce-f22c-492c-83cc-b117a1b02134)
+![image](https://github.com/user-attachments/assets/52b2f1a0-05f8-4415-b9ca-8bf98e086a8b)
+![image](https://github.com/user-attachments/assets/7d4bebee-a6d2-479a-9dc3-523b7613a278)
+![image](https://github.com/user-attachments/assets/78cbe2cb-6bc8-464a-aa0b-a895621a129a)
+![image](https://github.com/user-attachments/assets/a7b1ebd6-4ae3-40d7-97a1-b3b849b4fc09)
+
+* 23 + 8 -> 31.
+* 58.33% -> 7/12
+* 43.75% -> 7/16
 
 
 
