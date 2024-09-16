@@ -302,6 +302,80 @@
 * 58.33% -> 7/12
 * 43.75% -> 7/16
 
+![image](https://github.com/user-attachments/assets/a42106df-25ab-45bf-8347-7deb279f9ded)
+![image](https://github.com/user-attachments/assets/19ed4cb1-6190-4ad3-ad47-b51b360d2319)
+
+* Eligible voters/voters -> 100x.
+
+![image](https://github.com/user-attachments/assets/39fe73c5-eb86-4a96-9892-cb7df643beb7)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d84d275c-bc10-441b-a36d-8a009ecce17f)
+
+* 9.09% -> 1/11
+* MF -> 1/11 increase -> 1 + 1/11 -> 12/11.
+* 8.33% -> 1/12
+* MF -> 1/12 increase -> 1 + 1/12 -> 13/12.
+* 12.5% -> 1/8
+* MF -> 1/8 decrease -> 1 - 1/8 -> 7/8.
+
+![image](https://github.com/user-attachments/assets/986e27e7-4ca0-424b-9223-d46e6deba576)
+![image](https://github.com/user-attachments/assets/174dcdc9-d6b3-4d11-844f-516f0a4e542b)
+![image](https://github.com/user-attachments/assets/9206233b-0ad0-422c-919d-3d1636c8214e)
+
+* MF -> 10% increase -> 1 + 1/10 -> 11/10.
+* 121 - 100 -> 21 -> 21% increase. [Method **1**]
+
+![image](https://github.com/user-attachments/assets/759b5e45-4c9d-4961-aa95-a9e7b9b1f536)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e0cd14b5-83b8-4438-bfdd-b0e31702b1cd)
+![image](https://github.com/user-attachments/assets/67be88e4-8724-4c1a-848d-7b8be0992c32)
+
+* Win -> For > Against.
+* Lost -> For < Against.
+
+![image](https://github.com/user-attachments/assets/3a2f478b-6c1c-40ea-9615-409b8f39bbe1)
+![image](https://github.com/user-attachments/assets/f99a369c-804a-4b1d-a20e-09cbc8f5da3f)
+![image](https://github.com/user-attachments/assets/9d7badf9-ef69-4a55-b380-7c89a1443a29)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/a5af3bae-1848-4af7-a145-c4045bfefaf3)
+
+* We have to find the min. value of 'x'.
+* No. of engineers -> 40 + x.
+
+![image](https://github.com/user-attachments/assets/2883c613-26d6-4c1d-ba56-cd5ebb94a8d6)
+![image](https://github.com/user-attachments/assets/424761e0-09c4-4732-9785-214be6b0b2e1)
+
+* x = 27.
+
+![image](https://github.com/user-attachments/assets/b71c8673-fba1-4485-b4af-b6adb33fb615)
+![image](https://github.com/user-attachments/assets/70921e81-b0d0-4e36-a4f1-14eddae32462)
+![image](https://github.com/user-attachments/assets/63ecdfed-45db-4636-b88e-d323d56b5c7b)
+
+* Time to solve '1Q' -> t.
+* Total time -> 75t.
+* 75 - 60 -> 15t.
+* 48 - 15 -> 33t.
+* We want the total time to be '60t'.
+* If the time of reading is decreasing then the speed of reading should increase as it is inversely proportional or reciprocal.
+
+![image](https://github.com/user-attachments/assets/736cfc31-5470-44ae-bf03-4ec370666782)
+![image](https://github.com/user-attachments/assets/74a53572-1b42-41b6-85c4-d347181b59fa)
+![image](https://github.com/user-attachments/assets/39c5b960-ee91-42ba-befa-0eb67d41b7f6)
+
+* A + C = 8100.
+* B = 3600
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/4ac8829d-4b88-41e2-948b-ee6b89243e52)
+![image](https://github.com/user-attachments/assets/85400bed-751a-434a-a784-e490e0f360a5)
+
+
 
 
 
