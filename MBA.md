@@ -517,25 +517,62 @@
 * Normalization.
 * https://www.youtube.com/watch?v=qLbRBPhed_c
 
+# SNAP
 
+* Link -> https://www.youtube.com/watch?v=OBUJexGXqeU
 
+![image](https://github.com/user-attachments/assets/2ff6e89b-6be5-485a-b083-e3a7f6398c85)
+![image](https://github.com/user-attachments/assets/41f1ec1e-268a-4b95-ba70-d06074e79823)
+![image](https://github.com/user-attachments/assets/cb0f6ee6-085c-48ac-824d-a702ec95350d)
 
+* Syllabus.
 
+![image](https://github.com/user-attachments/assets/d4351032-0f4a-4976-9feb-26ffbca2712c)
+![image](https://github.com/user-attachments/assets/c248be5e-1f80-4077-835b-fd46ea142d24)
+![image](https://github.com/user-attachments/assets/c5ed66fb-d125-4b57-bfb2-319b21315475)
+![image](https://github.com/user-attachments/assets/3a442eb7-8ef3-47df-bfb3-8d6632dcf82f)
 
+* SNAP topics that are different from CAT. [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/62467958-ef6f-459f-99bd-8b3c0854c265)
 
+* GMAT official guides.
 
+1) Synonymes/Antonymes
+2) Idioms.
+3) Critical Reasoning -> GMAT level.
+4) Blood Relations.
+5) QA -> Trigonometry, log, probability, algebra.
 
+* [**VERY VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e158793e-1244-47dd-b296-5288409c828d)
+![image](https://github.com/user-attachments/assets/e8fd33df-f881-4511-9ced-85a8110f5fec)
+![image](https://github.com/user-attachments/assets/5665665b-f274-45d0-a501-64b97bfd7088)
+![image](https://github.com/user-attachments/assets/2d066596-30b9-4f60-b42b-c4c16006148b)
+![image](https://github.com/user-attachments/assets/faf085f5-f2fc-474c-af9f-ea553df5ad92)
+![image](https://github.com/user-attachments/assets/61539447-d8a6-45d1-bdf9-ebacfe0d36ca)
 
+* Dates.
 
+![image](https://github.com/user-attachments/assets/cf1602fb-29fd-42ba-b28e-e073869e3eba)
+![image](https://github.com/user-attachments/assets/a430f923-47db-4f65-8106-d74684a88111)
 
+* LR -> Clocks, calendar, cubes.
+* Critical Reasoning -> 4 to 5 questions.
 
+![image](https://github.com/user-attachments/assets/037eca4d-88f4-40e7-90f7-030ed71474f9)
+![image](https://github.com/user-attachments/assets/b44a1f1b-e6d0-4ac7-96db-104af0a70f55)
+![image](https://github.com/user-attachments/assets/2514c769-e8f6-4c1f-b75e-9c12b9e2b217)
+![image](https://github.com/user-attachments/assets/0769da00-3cde-42d9-8c06-803b81026167)
 
+* Colleges.
 
+![image](https://github.com/user-attachments/assets/dfdf5b3a-9df0-4a80-afa8-49aaa039c54b)
 
+* Syllabus.
 
-
+![image](https://github.com/user-attachments/assets/197dfe5a-371d-470c-9f05-2d65d193c2f2)
 
 
 
