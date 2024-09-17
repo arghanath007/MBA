@@ -402,10 +402,12 @@
 * k -> 1200000
 * Total annual salee -> 1200000 + 600000 -> 1800000.
 
+![image](https://github.com/user-attachments/assets/5ab9c6e9-838e-4dba-b527-3186cb94126a)
+![image](https://github.com/user-attachments/assets/dbf94526-1910-4127-9094-af2b2e6d5f5f)
+![image](https://github.com/user-attachments/assets/eb995007-7a88-43ad-813b-30a1fe257783)
 
-* 1hr 23mins.
-
-
+* **N = 27**, is not possible because first we decreease 'N' by '72' which makes 'N' into a **negative number**.
+* Sum of digits -> 1 + 9 + 2 -> 12.
 
 
 
