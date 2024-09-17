@@ -1,4 +1,4 @@
-# Quant Practice Questions
+![image](https://github.com/user-attachments/assets/5d1b5ea3-77f0-4703-9b16-32afb15a99b9)# Quant Practice Questions
 
 ![image](https://github.com/user-attachments/assets/800827f1-7d64-4ff9-a188-a1b76260bd2e)
 ![image](https://github.com/user-attachments/assets/3db75966-0c2f-4654-9d31-bc737270ec66)
@@ -374,8 +374,36 @@
 
 ![image](https://github.com/user-attachments/assets/4ac8829d-4b88-41e2-948b-ee6b89243e52)
 ![image](https://github.com/user-attachments/assets/85400bed-751a-434a-a784-e490e0f360a5)
+![image](https://github.com/user-attachments/assets/cb2136de-57b1-48aa-a703-6b46100b738c)
+![image](https://github.com/user-attachments/assets/bdffc156-24f1-4952-a403-db7acdbbb549)
+![image](https://github.com/user-attachments/assets/0f864833-0000-4a04-9bc5-d05e80d75fce)
 
-* 1hr 11mins.
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/0b63ecbf-bea5-4484-98c4-accca8518ff4)
+
+* 12.5% -> 1/8
+* 16.66% -> 1/6
+* 28.57% -> 2/7
+* 31.25% -> 5/16
+* MF 1/8 decrease -> 7/8.
+* MF 1/6 decrease -> 5/6.
+* MF 2/7 decrease -> 5/7.
+* MF 5/16 decrease -> 11/16.
+
+![image](https://github.com/user-attachments/assets/f8fcce81-c5b8-4455-8d6f-349f38a887c6)
+![image](https://github.com/user-attachments/assets/807551a4-1176-467b-911c-e7dce2663f39)
+![image](https://github.com/user-attachments/assets/68f55a28-28bf-4d9c-8100-f862c6acb157)
+
+* Total income -> 35000 * 12 -> 420000.
+* Total income without commission -> 18000 * 12 -> 216000.
+* Commission income -> 420000 - 216000 -> 204000
+* Extra sales done over 6L -> K.
+* k -> 1200000
+* Total annual salee -> 1200000 + 600000 -> 1800000.
+
+
+* 1hr 23mins.
 
 
 
