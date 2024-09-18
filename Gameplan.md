@@ -66,6 +66,70 @@
 ![image](https://github.com/user-attachments/assets/f06c6b96-e114-43cd-ba4d-df711efbbb4e)
 ![image](https://github.com/user-attachments/assets/9f63b7ac-ba1a-4c20-b6b0-caa9c899cdc4)
 ![image](https://github.com/user-attachments/assets/eca0f323-9001-48fe-ae86-e447a712f5f3)
+![image](https://github.com/user-attachments/assets/cfdc3cb0-08c6-4dc8-b7ec-213eb5c496f6)
+![image](https://github.com/user-attachments/assets/5d691dc4-a61b-4966-888e-d21143436c2d)
+![image](https://github.com/user-attachments/assets/631dd6c2-ca2d-4540-924b-6a2c4beaa368)
+![image](https://github.com/user-attachments/assets/5383c524-e1da-4e60-a6da-fda0c8d7d6eb)
+![image](https://github.com/user-attachments/assets/ae622f9f-2461-4ec5-9a9b-8f7475e54c48)
+![image](https://github.com/user-attachments/assets/025e3351-74d8-4272-9435-76507574fcbc)
+![image](https://github.com/user-attachments/assets/f53fbb89-d876-4884-aad2-a9f89f6e5f4f)
+![image](https://github.com/user-attachments/assets/24f80277-b6a2-4eb6-8a96-0e680699c51f)
+![image](https://github.com/user-attachments/assets/3b6e948b-24e3-4c06-8114-829662db5f0d)
+![image](https://github.com/user-attachments/assets/8c4a8706-f494-4358-bbd3-8f210fec7707)
+![image](https://github.com/user-attachments/assets/4a759987-04d3-47af-8763-ba584d5878ad)
+![image](https://github.com/user-attachments/assets/62c22de0-b82a-43e9-ae7b-08c5142bc0c5)
+![image](https://github.com/user-attachments/assets/5792720f-0107-4325-888c-7286ae50349f)
+![image](https://github.com/user-attachments/assets/650fb718-3088-4443-942b-1f602943589b)
+![image](https://github.com/user-attachments/assets/3588f66d-3c74-4a03-8c42-2b241c00d52c)
+
+* Quant.
+
+![image](https://github.com/user-attachments/assets/3a57b6e7-45f6-4c4e-a496-913a5a5e7c66)
+
+* LRDI.
+
+![image](https://github.com/user-attachments/assets/743a6b1b-62bd-4d05-a9cf-170f8c84f3e1)
+![image](https://github.com/user-attachments/assets/394d69b4-0274-4f4c-a7a2-6ab29dbb8f42)
+![image](https://github.com/user-attachments/assets/0acb0b77-0749-4555-b9d5-fb7904597bb6)
+![image](https://github.com/user-attachments/assets/de7028a4-34f6-422a-a23b-9ee89568ca49)
+
+* Rodha YT channel for **topics**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
