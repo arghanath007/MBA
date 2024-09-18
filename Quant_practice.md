@@ -573,6 +573,141 @@
 
 ![image](https://github.com/user-attachments/assets/1ab426c7-66b5-498f-ad2f-b0f5f6569f55)
 ![image](https://github.com/user-attachments/assets/9375cc6e-8db6-4f87-97bd-dfa9d49ebf10)
+![image](https://github.com/user-attachments/assets/6cf6ef4b-1e7e-4fb6-a25c-90e7aa3fe586)
+![image](https://github.com/user-attachments/assets/707236e2-2587-40bc-b906-91c17e296b61)
+![image](https://github.com/user-attachments/assets/233f9c47-a203-49e5-a29e-4edcebc3c050)
+![image](https://github.com/user-attachments/assets/cec17cea-f134-45ff-a872-96aa1fbb9251)
+![image](https://github.com/user-attachments/assets/75f2d68f-3714-499f-b921-89842adf02a1)
+
+* A + D -> 4 + 7 -> 11.
+* B + C -> 7 [Left]
+* C -> 4 [C to B]
+* 'B and C' are at 'B'
+* Left -> 7 - 4 -> 3
+* We have '3' distance left, so both 'B and C' will travel '1.5' distance.
+* C -> 4 + 1.5 -> 5.5
+* B -> 1.5
+* B + C -> 5.5 + 1.5 -> 7.
+* x = 5.5 - 1.5 -> 4.
+
+![image](https://github.com/user-attachments/assets/c06d5f7b-a687-4c1f-b14f-4744b781c650)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/06758a47-0c7b-48da-8b15-93599562dfd5)
+
+* 3x + 9 = 0
+* x = -3
+* 2x - 2 = 0
+* x = 1
+
+![image](https://github.com/user-attachments/assets/f2f39543-c6f2-49d1-b1bf-68addf0bd294)
+
+* The coefficient is going to cause **problems**. [Formula]  [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9fcbdcae-cb7b-446c-acd0-3f0065155450)
+
+* 1 + 3 -> 4.
+* CDE -> We have '3' people and the distance for each people is '4' -> 3 * 4 -> 12.
+* AB -> We have '2' people and the distance for each people is '4' -> 2 * 4 -> 8.
+* We want distance of '10'.
+
+![image](https://github.com/user-attachments/assets/56d69698-0b87-493e-a950-d6aed6769f7e)
+
+* It is going to be beyond '8' and in between '8 and 12'. It cannot be beyond '12' as it will be more than '12+' which is greater than '10'. Beyond '12' is not possible.
+
+![image](https://github.com/user-attachments/assets/6793d56b-cc8a-431e-922a-3ef3c95340b6)
+![image](https://github.com/user-attachments/assets/9e03031f-d6c1-46b3-aef4-e06d128396df)
+![image](https://github.com/user-attachments/assets/93ad8a86-f8fe-41bd-9616-15e2ff4d5745)
+
+* A + C -> 4
+* B + D -> 4
+* Left -> 10 - 8 -> 2.
+* E -> 2
+* -3 + 2 -> -1.
+* If 'x= -1':-
+* |-3 + 9| + |-2 -2| -> 6 + 4 -> 10.
+* x = -1 [Answer]
+
+![image](https://github.com/user-attachments/assets/51e6c815-fc2a-492e-bdbc-82521143e8fe)
+![image](https://github.com/user-attachments/assets/47afbc86-4a9c-4149-bf5e-08c1032823c8)
+
+* A + B -> 8.
+* Left -> 10 - 8 -> 2.
+* A + B + C + D + E -> 2.
+* 2/5 -> 0.4.
+* -3 -0.4 -> -3.4
+* x = -3.4 [Answer]
+* Possible values of 'x' -> -1 - 3.4 -> -4.4 [Answer]
+
+![image](https://github.com/user-attachments/assets/8e6b6aa5-b7c4-4fd3-8959-9cd33ac978bc)
+
+* [Concept] [**IMPORTANT**] [Formula]
+* 2x + 8 = 0
+* x = -4.
+* 3x - 6 =0
+* x = 2.
+* Coefficient '2' -> AB
+* Coefficient '3' -> CDE
+* Distance -> 4 + 2 -> 6.
+* AB -> 2 * 6 -> 12.
+* CDE -> 3 * 6 -> 8.
+* Min -> 12. 
+
+![image](https://github.com/user-attachments/assets/c5e2840d-0abb-43e6-8758-0e5747b09f6f)
+
+* Min. will be at 'CDE' house which is of distance '12'.
+* Only 'AB' are leaving the house.
+* If everyone(ABCDE) are leaving the house then the distance will be **more**.
+
+![image](https://github.com/user-attachments/assets/b8eda532-8497-4083-a989-bd5772adbd0a)
+
+* Min -> 12. [Answer] [Method **1**]
+
+![image](https://github.com/user-attachments/assets/8e9384d6-cc59-45d9-a1aa-e4f85e53ef99)
+![image](https://github.com/user-attachments/assets/83b60d82-bbf8-4944-a2fd-c5742bd54c83)
+![image](https://github.com/user-attachments/assets/d8e82701-2d99-4429-8ec1-86ff54e8920d)
+
+* Mid point -> 2
+* x = 2 [Put]
+* 2x + 8 + 3x - 6 -> 4 + 8 + 6 - 6 -> 12.
+* Min -> 12. [Answer] [Method **2**]
+
+![image](https://github.com/user-attachments/assets/cff5891d-d4d3-4ede-a3cf-ea26ae9b4ed5)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/d7762561-7593-4000-8c61-1edd6011f523)
+
+* x - 1 = 0
+* x = 1
+* 2x - 1 = 0
+* x = 1/2
+* Total terms -> (n * (n + 1))/2 -> 55. [n = 10]
+* Odd terms -> '1' middle term
+* Middle term -> (1 + 55)/2 -> 56/2 -> 28th term.
+* 10 + 9 + 8 -> 27th terms
+* 28th term -> 1/7
+* Answer -> 1/7 [Answer]
+* We will count from **right to left**.
+
+![image](https://github.com/user-attachments/assets/dc1a4839-7a71-4590-8ffb-ad79f25d32e4)
+![image](https://github.com/user-attachments/assets/7fa41ec6-e6ff-4c63-addd-1e6adc632dd1)
+
+* When we will get '28'.
+ 
+![image](https://github.com/user-attachments/assets/2e9a6af5-40d4-4235-a3a3-df1f2b01b3db)
+![image](https://github.com/user-attachments/assets/bfb3e972-9c74-4247-a892-fdb59ade7df8)
+![image](https://github.com/user-attachments/assets/61383c77-dd79-4446-afa4-067fa1b6fedd)
+![image](https://github.com/user-attachments/assets/2d41bdda-0c3d-406f-8d31-572ac8e01169)
+
+* 2485 + 71 -> 2556.
+* 2525 will fall under '71th' term.
+* Answer -> 1/71 [Answer] [**VERY IMPORTANT**] [Practice Again] [Formula]
+
+### Modulus Inequality
+
+* 1hr 52mins.
 
 
 
