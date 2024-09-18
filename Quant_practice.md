@@ -538,16 +538,41 @@
 * X = 6 -> 4 + 2 + 0 + 4 -> 10. [Example]
 * X = 5 -> 3 + 1 + 1 + 5 -> 10.
 
+![image](https://github.com/user-attachments/assets/e974184e-5ea0-42f8-aeed-6eea631c9bd5)
 
+* [Question]
+* Origin -> Negative to Positive.
+* |x + 4| -> -4.
+* The sum of the '4' origins is '18' only.
+* If everyone meets at 'A' place -> 4 + 7 + 4 + 4 + 4 + 4 - 4 -> 23
+* If everyone meets at 'B' place -> 7 + 4 + 0 + 4 -> 15
+* If everyone meets at 'C' place -> 3 + 0 + 4 + 4 + 4 -> 15
+* If everyone meets at 'D' place -> 0 + 3 + 7 + 7 + 4 -> 21
+* The value of the **middle points** will be the **same**. [**IMPORTANT**]
+* If we go beyond 'D' then it will be '21+' or more than '21'. So the answer is not there also as we want '18'.
 
+![image](https://github.com/user-attachments/assets/63887ff6-8eda-45b3-8055-d23167ec727d)
+![image](https://github.com/user-attachments/assets/f409c295-fccd-41ed-8f0f-0ff1aa8439f4)
 
+* If we go beyond 'A' then it will be '23+' or more than '23'. So the answer is not there also as we want '18'.
+* If 'B and C' are '15' which means that between 'B and C', we will get '15' only as seen in the **last/previous** question. So the answer is not there also as we want '18'.
 
+![image](https://github.com/user-attachments/assets/8dedcf96-14ec-41fa-a4cd-7368b3f3ea16)
+![image](https://github.com/user-attachments/assets/3587a2e1-0edf-456c-a55d-eb24762c8b9d)
 
+* We will get '18' between 'A and B' which is from '23 to 15' and we will get '18' between 'C and D' which is from '15 to 21'
+* A + D -> 4 + 7 -> 11.
+* We have to get the sum as '18'.
+* We have to get 'B + C = 7'.
+* 'B' went to 'C' -> 7 - 4 -> 3.
+* We have '3' distance left, so both 'B and C' will travel '1.5' distance.
+* B -> 4 + 1.5 -> 5.5
+* C -> 1.5
+* B + C -> 5.5 + 1.5 -> 7.
+* x = 5.5
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/1ab426c7-66b5-498f-ad2f-b0f5f6569f55)
+![image](https://github.com/user-attachments/assets/9375cc6e-8db6-4f87-97bd-dfa9d49ebf10)
 
 
 
