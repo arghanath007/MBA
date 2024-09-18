@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d1b5ea3-77f0-4703-9b16-32afb15a99b9)# Quant Practice Questions
+# Quant Practice Questions
 
 ![image](https://github.com/user-attachments/assets/800827f1-7d64-4ff9-a188-a1b76260bd2e)
 ![image](https://github.com/user-attachments/assets/3db75966-0c2f-4654-9d31-bc737270ec66)
@@ -421,6 +421,7 @@
 
 
 
+## Misc
 
-
+![image](https://github.com/user-attachments/assets/5d1b5ea3-77f0-4703-9b16-32afb15a99b9)
 
