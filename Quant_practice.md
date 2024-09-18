@@ -416,6 +416,158 @@
 
 
 
+# Booster
+
+## Algebra
+
+### Modulus(1)
+
+![image](https://github.com/user-attachments/assets/0e295a2e-1ac0-44ec-b016-da840d317b68)
+![image](https://github.com/user-attachments/assets/e7a40d0b-4521-4e90-97d0-810d691da5ba)
+
+* [Revision] [Summary] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ef827945-3b3b-4811-92ad-5744b62deec1)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/37f4045a-92fd-4518-a2f5-78fdbf218d41)
+![image](https://github.com/user-attachments/assets/189743f9-bd9d-4430-8a0c-1e1f0ef6dc17)
+
+* Every **mod** has an **origin**.
+* Whenever the inner value of **mod** is **'0'** then that is called as the **origin of the mod**.
+* x = 3 -> Origin of mod.
+* 3 + 10 -> 13
+* 3 - 10 -> -7
+* |x - a| = k. [Distance Approach]
+* a -> origin of the mod.
+* x = -k OR +k.
+
+![image](https://github.com/user-attachments/assets/9c0d97f4-2772-409f-ba92-b6535952626d)
+![image](https://github.com/user-attachments/assets/3d53bf6f-8453-4995-95d6-b52be21405ee)
+![image](https://github.com/user-attachments/assets/3cd8d2a4-0350-440c-bae4-cb696bb6f026)
+
+* As there are '2' modulus so we will have '2' origins.
+* |x - 5| -> 5
+* |x - 15| -> 15
+* 15 - 5 -> 10.
+* Combined distance -> 20.
+* (A + B)'s Combined distance -> 10.
+
+![image](https://github.com/user-attachments/assets/54f448b0-1b70-4ffb-bc35-cae6e4f8230d)
+
+* For the Combined distance to be '20', 'A and B' has to meet **outside**.
+* If 'A' goes to 'B' -> Distance is '10'.
+* If 'B' goes to 'A' -> Distance is '10'.
+* We want a **common point** because in both the mods, the **origin** is the **same(x)**.
+* **common point** -> A and B -> 5 each.
+* A -> 10 -> 5 -> 15
+* B -> 0 -> 5 -> 5
+* A + B -> 15 + 5 -> 20. [Ans]
+* 20 - 5 -> 15
+* 20 - 15 -> 5.
+
+![image](https://github.com/user-attachments/assets/eb61b250-18b8-4be6-a08b-de5e3a706c5e)
+
+* x = 20. [Answer]
+
+![image](https://github.com/user-attachments/assets/bda2be13-da31-41f0-8fb3-6a7a57a43cab)
+![image](https://github.com/user-attachments/assets/b936cf74-1c1d-467e-93f8-91cff76c9973)
+![image](https://github.com/user-attachments/assets/7aee907f-7d4a-41a2-9b51-0324240298bd)
+
+* B -> 10 -> -5 -> 10 + (-5) -> 5.
+* A -> 0 -> -5 -> 0 + (-5) -> -5.
+* A + B -> 5 + (-5) -> 0. [Ans]
+* x = 0. [Answer]
+
+![image](https://github.com/user-attachments/assets/b859ba89-5a2d-4590-96cc-a0cc272c43c1)
+![image](https://github.com/user-attachments/assets/da8b5b97-a354-4e92-a1ac-ff5cf54d0d19)
+![image](https://github.com/user-attachments/assets/93022686-a69c-4183-a2a3-a1afbbf903dc)
+
+* **Mod** cannot be **negative**.
+
+![image](https://github.com/user-attachments/assets/3ddcf8f1-14cb-4898-a122-9879f62ee3ef)
+![image](https://github.com/user-attachments/assets/7013f0c7-7238-40ff-b42f-7cd20fd50f5f)
+
+* -2 - 18 -> -20 -> 20 units.
+* We need a min. of '20' units.
+* 19 < 20 -> So, **no solution**. [Answer]
+
+![image](https://github.com/user-attachments/assets/8054c18e-c8c5-452a-8237-879b649898c1)
+![image](https://github.com/user-attachments/assets/d216ad12-27d2-45aa-a966-0bd9d56feb16)
+![image](https://github.com/user-attachments/assets/bb6c883d-934a-4d8e-833a-0adbd433afcd)
+
+* We have to keep the **total distance as minimum**. [Logic]
+* All of them(A,B and C) will meet at B's house. That distance will be minimum.
+* min -> |5 - 2| + |5-5| + |5 - 10| -> 3 + 0 + 5 -> 8.  [Answer]
+
+![image](https://github.com/user-attachments/assets/872ef57c-23f9-4c50-8ae7-49b5e7cd1bf1)
+
+* [Question]
+* 32 terms -> even nos
+* Middle of even -> 32/2, (32/2) + 1 -> 16th, 17th terms. -> 64, 68.
+
+![image](https://github.com/user-attachments/assets/b192b52c-58e7-41cc-a75a-c49289207bb7)
+
+* X = 64,65,66,67,68 -> We will get the **same** value.
+* Sum of all values -> 64 + 65 + 66 + 67 + 68 -> 330 [Answer]
+* Option **E**.
+
+![image](https://github.com/user-attachments/assets/bfd43a5f-bcba-46a8-af1a-b009f0d92598)
+![image](https://github.com/user-attachments/assets/de5a5142-3d81-405c-85ec-3aa360567001)
+![image](https://github.com/user-attachments/assets/4dc9c056-fe99-40b0-b013-c6f0aab73b65)
+
+* The **total distance** will be the **same**. [Logic]
+
+![image](https://github.com/user-attachments/assets/02bf8dba-9996-4a0a-83d4-ab7896e01a8b)
+
+* '5' terms -> odd.
+* Middle term of odd -> '3'. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/57d4680c-ddea-4bbe-a545-9438eb282801)
+
+* '4' terms -> Even.
+* Middle term of even -> 4/2, (4/2) + 1 -> 2nd, 3rd terms. [Formula] [**VERY IMPORTANT**]
+* Even -> '2' middle term.
+* The **total distance** will lie between the middle of the '2' middle terms. Everywhere the distance will be the **same** and as it is **middle term**, so the distance will be the **minimum**.  [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3e0cdcc4-0672-4685-b122-d452f131ba6d)
+![image](https://github.com/user-attachments/assets/823aeaa1-3872-4630-be9a-e08a1ef5e1fb)
+![image](https://github.com/user-attachments/assets/6d5190e6-3cc7-4099-ba9e-51c389b73e65)
+
+* X = 6 -> 4 + 2 + 0 + 4 -> 10. [Example]
+* X = 5 -> 3 + 1 + 1 + 5 -> 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
