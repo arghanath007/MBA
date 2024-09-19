@@ -418,7 +418,7 @@
 
 # Booster
 
-## Algebra
+## Algebra(1)
 
 ### Modulus(1)
 
@@ -804,6 +804,91 @@
 ![image](https://github.com/user-attachments/assets/28b81849-f294-4a80-90df-41e3b1a100a4)
 
 * Value -> 89. [Answer] [**VERY IMPORTANT**] [Practice Again]
+
+## Algebra(2)
+
+### Inequalities(1)
+
+![image](https://github.com/user-attachments/assets/a2e04296-1837-4060-b76f-abaf9c158853)
+
+* Any Even Power -> Always positive -> >=0. [**VERY IMPORTANT**] [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/f3fc9b20-a0b7-4b93-9422-56730c30ec0d)
+
+* The **sign** gets **reversed**. The greater than sign becomes a less than sign as we multiplied with '-2'.
+
+![image](https://github.com/user-attachments/assets/2637dce1-bd92-4c8c-a1b9-adee61a0f3fc)
+![image](https://github.com/user-attachments/assets/95268a02-15ed-4abd-9f66-8842382f8dda)
+
+* This is for **multiple and divide** only, when we are taking some value be it '2, -2 or x' across the inequality, we have to be **100% sure** that it is a **positive or negative** value, cannot be an **ambigious value**. [**VERY IMPORTANT**] [Formula] [Concept]
+* Positive -> No sign change.
+* Negative -> Sign change.
+
+![image](https://github.com/user-attachments/assets/88ac08b6-091e-4f01-91db-38d1f4826162)
+
+* Separate the **even powers** first. [Example]
+* Any even power will always be positive. We can freely send them across the **inequality** without any problem.
+* **Zero(0)** multipled by any positive no. is **Zero(0)**. **Zero(0)** divided by any positive no. is also **Zero(0)**.
+
+![image](https://github.com/user-attachments/assets/617b60ae-abe0-48a1-896b-c45f75b45fc1)
+
+* We have to be **careful** about the terms which had **even powers** and are **completely vanished** which is **(x - 2)** here.
+* We will give special treatment to **(x - 2)**.
+* Critical point of **(x - 2)**:-
+* x - 2 = 0
+* x = 2.
+* (x - 2) ^ 100 -> 0>=0 -> This is always **True**.
+
+![image](https://github.com/user-attachments/assets/db41e845-619c-4495-a442-ce00b120df3e)
+![image](https://github.com/user-attachments/assets/695376f8-eb23-4c9e-a033-a3b5cfb63339)
+
+* (x - 7) ^ 2 -> Always positive.
+* x - 5 = 0
+* x = 5
+* x + 2 = 0
+* x = - 2
+* x - 7 = 0
+* x = 7.
+
+![image](https://github.com/user-attachments/assets/a53f78bf-e324-4352-8453-9705492f3698)
+
+* (x - 5)(x + 2)(x - 7) [x = 7]
+* 2 * 9 * 2 -> 36 -> Positive value.
+* We will move from **left to right**.
+
+![image](https://github.com/user-attachments/assets/85d02686-2ad2-4c8c-a3f9-4822d543d719)
+
+* Denominator cannot be '0'. '7' should not be included in the **answer**.
+* 'x = 2' included in the answer.
+* [] -> Included.
+* () -> Not included -> small brackets.
+* Infinity -> small bracket,'()' always.
+
+![image](https://github.com/user-attachments/assets/655ffe36-1a43-4848-8c54-92f44f58cc4d)
+![image](https://github.com/user-attachments/assets/9b3c819b-f8dc-4224-a561-fc365b9a953e)
+
+* [-2,5] -> '2' is included in this **range**.
+
+![image](https://github.com/user-attachments/assets/ec14f510-e355-43f3-b17a-a50c94859561)
+![image](https://github.com/user-attachments/assets/15f05d9c-6dd6-4266-a410-f2bff4482bb7)
+![image](https://github.com/user-attachments/assets/ee233c44-1f51-4ce3-a81d-18da957d0951)
+
+* If it was **greater than** instead of **greater than equals to**.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
 
 
 
