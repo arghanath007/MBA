@@ -1049,6 +1049,7 @@
 * Union -> Combination.
 
 ![image](https://github.com/user-attachments/assets/7734922a-660a-495d-b8d3-bbace770fae6)
+![image](https://github.com/user-attachments/assets/b53773e1-1078-4e24-b775-6e2d8460ce60)
 
 * (2, 4] -> 3,4. 
 * No. of single digit positive integers -> 1, 3, 4 -> '3' values. [Answer] [Solution] [**VERY IMPORTANT**]
@@ -1071,7 +1072,58 @@
 
 ![image](https://github.com/user-attachments/assets/9a252c94-7293-4eb0-a89d-5d8d3a406090)
 
-* Start from 1hr 36mins.
+* [Question]
+* Multiple Mod question.
+* Multiple Mod -> Solve the question using **range wise** -> We need the **critical points** of the mods. [Logic] [Concept] [**IMPORTANT**] [Formula]
+* **Critical points** of the mods -> Equate the mod to '0'. [Logic] [Concept] [**IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/bd703671-1362-4d79-b61e-6cc0e1ca72f6)
+![image](https://github.com/user-attachments/assets/25b1d146-c21d-4f5a-9e35-680d04327c8a)
+
+* We have '2' critical points.
+* We got '3' ranges.
+* Put 'x = -4' in main equation.
+* 2 ^ (|x+2|) -> Becomes negative.
+* |2 ^ (x + 1) - 1| -> Becomes negative.
+* Both of the **mod** became **negative**.
+* We are opening both of the **mods** with **negative** sign.
+
+![image](https://github.com/user-attachments/assets/df129487-2f11-41aa-bfc1-8b3923554680)
+![image](https://github.com/user-attachments/assets/49957a96-7be9-49b0-8b0a-9dfd199f9f30)
+![image](https://github.com/user-attachments/assets/5586aafd-05d3-42c0-8249-dddbf554e4a8)
+
+* case **1** -> x = -3.
+
+![image](https://github.com/user-attachments/assets/4a66e3ed-bb5b-417b-8f37-f40eda602e9e)
+
+* We have already taken the equality(=) side of '-2' in **case '1** so don't take it in **case '2'**.
+* Put 'x = -1.5' in main equation.
+* 2 ^ (|x+2|) -> Becomes positive.
+* |2 ^ (x + 1) - 1| -> Becomes negative.
+
+![image](https://github.com/user-attachments/assets/c5e5f0d3-69a6-454f-9a02-de5c42afb54e)
+
+* case **2** -> x = -1.
+
+![image](https://github.com/user-attachments/assets/976af46c-77fe-4299-8124-4c61a8549866)
+
+* We can take any value of 'x'.
+* Put 'x = 5' in main equation.
+* 2 ^ (|x+2|) -> Becomes positive.
+* |2 ^ (x + 1) - 1| -> Becomes positive.
+
+![image](https://github.com/user-attachments/assets/33b2f657-1ba2-4273-ac80-ce8b3aec15bc)
+![image](https://github.com/user-attachments/assets/5cabe9f0-751e-44d9-8bb5-ea8025829950)
+
+* **True** for all values of 'x'.
+* case **3** -> x = -1.
+* We have solved '3' different/separate cases. That's why we will do **union** here.
+
+
+
+
+
+
 
 
 
