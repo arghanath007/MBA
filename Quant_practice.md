@@ -875,6 +875,203 @@
 
 * If it was **greater than** instead of **greater than equals to**.
 
+![image](https://github.com/user-attachments/assets/d5be8972-3ba8-428b-8a0c-c1ca7c60a728)
+
+* (x - 2) ^ 100 -> Always positive -> So we can easily remove it.
+* We have to check the critical point of **(x - 2)**, if it should be included in the answer or not.
+* x - 2 = 0
+* x = 2
+* x - 2 >= 0 -> 2 - 2 >= 0 -> 0 >= 0.
+* It is **True**.
+* So in the **answer** we should put **x = 2**.
+
+![image](https://github.com/user-attachments/assets/977e7579-d554-488c-b171-e48678329c8b)
+
+* Answer -> 'x' is greater than equal to '3' -> 3 to infinity.
+* 2 -> Single term -> Written using **Curly brackets**.  [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/dd50b1d0-ef2c-4740-abde-52887f72e166)
+
+* 0 > 0 -> False
+* x - 3 > 0
+* x = 3.
+* Answer -> 'x' is greater than '3' -> 3 to infinity.  [**VERY IMPORTANT**] [Formula]
+* >= -> Greater than Equal to -> Curly brackets
+* > -> Greater than -> Small brackets.
+
+ ![image](https://github.com/user-attachments/assets/71806bfb-9dff-4eba-8a93-78baa0effb55)
+
+* Quadratic Graph.
+
+![image](https://github.com/user-attachments/assets/84a38632-00c5-4854-aec1-2c4272b28c1c)
+
+* [Example]
+
+![image](https://github.com/user-attachments/assets/d4e8081a-81b2-45d4-b48d-4cea586e9ebf)
+
+1) 2 real and distinct roots.
+
+![image](https://github.com/user-attachments/assets/1b588c7c-a2e2-4bdc-b3e2-77d5c141cd8a)
+![image](https://github.com/user-attachments/assets/b2eb432f-6163-4ae4-b1aa-a6f2fc56b4aa)
+
+2) Under-root value is **negative**. Roots are **imaginary**. For no value of 'x' we can **cut or merge** it. Graph will never cut x-axis.
+
+* The 'y' is always **positive**. This is **important** for quadratic.
+* y > 0.
+* The graph is always **positive**.
+
+![image](https://github.com/user-attachments/assets/8040ff8b-a0fd-41e1-a7c1-69bad3744bb9)
+
+3) D = 0.
+
+* Roots are equal.
+
+4) D = perfect square. Roots are rational.
+
+* **STEPS**:-
+
+1) Whenever we see a **quadratic** always check it's **'D'** value.
+
+![image](https://github.com/user-attachments/assets/c156ec33-49b5-4264-9247-f0fc332c4c7c)
+
+* D = b ^ 2 - 4ac. [Formula] [**VERY IMPORTANT**]
+* D < 0 -> Roots are imaginary.
+* y > 0 -> It is always positive for any value.
+
+![image](https://github.com/user-attachments/assets/d7c349b0-7742-4be0-b505-dbdaadad98e4)
+![image](https://github.com/user-attachments/assets/1eae457f-2caa-4876-bc3f-66fb01f8c467)
+![image](https://github.com/user-attachments/assets/cbcf656e-2337-4a8b-8b81-caf5ac3c6542)
+
+* x ^ 2 - 2x + 2 -> D < 0 so y > 0 -> positive -> remove it.
+* (x - 2) ^ 10 -> even power -> positive -> remove it.
+* x > 2 [Answer] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/633fe8f3-b293-4f5c-acd4-86098b52d3b9)
+
+* [Question]
+* x^2 - 4 -> We don't know whether it is positive or negative.
+
+![image](https://github.com/user-attachments/assets/9af0590f-4156-4df8-b6e9-9aae9a4d5a4a)
+![image](https://github.com/user-attachments/assets/51976830-7224-4043-b033-52f63fef69e9)
+
+* (x + 2) ^ 2, (x - 2) ^ 2 -> Even powers -> Both are positive -> remove them.
+* 2x - 5 = 0
+* x = 2.5
+* x * (2x - 5)(x + 2)(x - 2) -> It is in the form of **(x - a) * (x - b)**. [Formula] [**VERY IMPORTANT**]
+* So we will start from **right side** and we will put **positive** on the 1st part and then alternately put **positive and negative** on the next parts. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2d72b029-cec5-4ec6-bd9e-b46cd8367fc4)
+
+* We know that in the **denominator** part of the question we have **x ^ 2 - 4** and specifically **x ^ 2**, so if we put **x = 2** then the denominator will be **'0'**. [Logic]
+* x ^ 2 - 4 -> 2 ^ 2 - 4 -> 0.
+* So **x = 2** should be **excluded** from the **answer**. We will put **small bracket** for '2' in the **answer**. [Logic]
+
+![image](https://github.com/user-attachments/assets/12065238-dd2a-4d71-8849-14f866be0067)
+![image](https://github.com/user-attachments/assets/7864bd19-aecb-475d-a728-739c7a331044)
+
+* 1st inequality.
+
+![image](https://github.com/user-attachments/assets/24647ab6-be89-41c9-afd6-ce3560ea1cd5)
+![image](https://github.com/user-attachments/assets/5b9e5387-35df-4cc3-bf39-7d6a94a95dbf)
+![image](https://github.com/user-attachments/assets/aa0b79fd-1816-4938-8b22-879b26169fdf)
+![image](https://github.com/user-attachments/assets/a23dfb0f-b6d4-45da-86c3-67b7aa02586a)
+
+* Multiplying with '-1' on both the sides to remove the negative sign on 'x'.
+
+![image](https://github.com/user-attachments/assets/8b0496f2-6fbe-4f05-b797-6d7795c559a1)
+![image](https://github.com/user-attachments/assets/bc97f8f0-0545-4eb7-be5d-5bc15a862ead)
+
+* Both are positive so remove them.
+* We cannot take '-2' also otherwise the denominator will be **zero(0)**.
+* We cannot take '2' also otherwise the denominator will be **zero(0)**.
+
+![image](https://github.com/user-attachments/assets/6831dd1d-ce2b-4682-8cc7-936e84c9ff4f)
+
+* [Formula] [**VERY IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/b10d5373-1e28-48e2-be14-38ba0cb92e4f)
+![image](https://github.com/user-attachments/assets/01c40f0a-b399-40c1-b379-44d483d7880a)
+![image](https://github.com/user-attachments/assets/e68f24b2-ea59-462e-b021-c3c8cec71074)
+
+* What to do now?
+* We have to take **common/intersection** between the '2' above answers.
+* We are solving '1' equation only. We are not making '2' different cases. We have '1' case only.
+* 'X' is **same** only.
+
+![image](https://github.com/user-attachments/assets/5834fe1f-9d8f-4ff0-af22-4a5a806ca961)
+![image](https://github.com/user-attachments/assets/8092f180-1144-42ad-a90e-3b94620aa59c)
+![image](https://github.com/user-attachments/assets/13d18238-37f4-4e67-b2d3-4be50bd498a3)
+
+* Wherever **white and green** lines are **common** on the straight timeline. [Concept] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6508e9b7-a2ac-4fc9-ab24-049c91fcd9dd)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/f39ff4f2-d8e0-4ce4-a9c0-005d7623d913)
+
+* Multiplying with '-1' on both the sides to change the sign of 'x'.
+* Factorizing the **numerator** with '4 - 1 -> 3'.
+
+![image](https://github.com/user-attachments/assets/b9240f69-2460-4a0b-a5db-9472a83d13a7)
+![image](https://github.com/user-attachments/assets/261c0a8b-7280-4b6c-a9cc-20a38b23ff65)
+![image](https://github.com/user-attachments/assets/f4cff0e6-a3e7-4aae-abbe-bf19f9b0e2a2)
+
+* (X + 2) ^ 2, (X - 2) ^ 2 -> Even powers -> always positive -> remove them.
+* We want **less than** which are **negative** cases. [Logic] [**IMPORTANT**] [Formula]
+* We cannot have '-2 and 2' in the denominator.
+
+![image](https://github.com/user-attachments/assets/1728ed9a-0758-4571-8151-a41dbf3ec16d)
+
+* 1st inequalities.
+
+![image](https://github.com/user-attachments/assets/dcff3a2f-6d39-4743-be57-f002ee9f88d7)
+![image](https://github.com/user-attachments/assets/bf8d4262-1da0-4190-ad7d-ea4d3e71cd61)
+![image](https://github.com/user-attachments/assets/5c7d9ce5-d589-4c29-88fb-2032e69c0d0e)
+
+* We want **less than** which are **negative** cases. [Logic] [**IMPORTANT**] [Formula]
+* We cannot have '-2 and 2' in the denominator.
+* Less than equal to(<=) -> Square brackets. [Logic] [**IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/2cd0a391-9b8f-4354-8a73-56c98e98228e)
+
+* 1st answer.
+
+![image](https://github.com/user-attachments/assets/f8bf1c2b-b5e4-4045-a480-41383fbe654a)
+
+* 2nd answer.
+* We will do **union**.
+* We will do from **left to right**.
+* We are now combining both of the '2' cases.
+
+![image](https://github.com/user-attachments/assets/02d02f1c-3fdc-4faa-81e1-13b74667aca2)
+
+* Union -> Combination.
+
+![image](https://github.com/user-attachments/assets/7734922a-660a-495d-b8d3-bbace770fae6)
+
+* (2, 4] -> 3,4. 
+* No. of single digit positive integers -> 1, 3, 4 -> '3' values. [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/96eee67d-653a-4f78-9c5f-832e2b0b56a8)
+
+* In the **last question**, we had only '1'case of 'x'. We itself made '2' cases but the question had only '1' case. There was no '2' cases.
+* The algebric equation is saying that at the **same** time it should be **less than equal to '1'** and it should be **greater than equal to '-1'**.
+* It is the case of **AND** which means **intersection** which means taking **common**. [Logic] [**IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/40790fa6-6342-4440-bf12-8d29221aa017)
+![image](https://github.com/user-attachments/assets/3bacbda5-ea3d-443d-adb3-caee7da696f7)
+![image](https://github.com/user-attachments/assets/52021027-ad52-4d76-8ae6-2b69db15ef63)
+
+* In the **current question** we have **OR** which means that the 'x' is either **greater than equal to 'k'** or **'x' is less than equal to '-k'. Both the cases are **different**, they are **not same/together**. [Logic] [**IMPORTANT**] [Formula]
+* Both 'x = 3 or x = -3' both are being **satisified**. [Logic] [**IMPORTANT**] [Formula]
+* Both are satisfying differently. There is nothing common/same between the '2'.
+* OR -> Union. [Logic] [**IMPORTANT**] [Formula]
+* Both are **separate cases**. Both are **independent**. [Logic] [**IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/9a252c94-7293-4eb0-a89d-5d8d3a406090)
+
+* Start from 1hr 36mins.
 
 
 
@@ -882,7 +1079,6 @@
 
 
 
- 
 
 
 
@@ -923,6 +1119,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Important
+
+![image](https://github.com/user-attachments/assets/966ff721-2357-48c8-8934-4fbca31859ab)
 
 
 ## Misc
