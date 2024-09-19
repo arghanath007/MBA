@@ -707,7 +707,114 @@
 
 ### Modulus Inequality
 
-* 1hr 52mins.
+![image](https://github.com/user-attachments/assets/8cb128b1-890d-4085-b540-a901b3b8df84)
+![image](https://github.com/user-attachments/assets/d01b7954-0725-4003-af25-01e504bbb071)
+
+* Modulus less -> inbetween/middle range. [Concept] [**VERY IMPORTANT**] [Formula]
+* Modulus greater -> outside range.
+
+![image](https://github.com/user-attachments/assets/18f209b4-f6cf-44a8-850c-bc0f0ae24f5e)
+![image](https://github.com/user-attachments/assets/28ddf1fc-b067-4f71-bf93-58aa3c4c88b8)
+
+* How we can **maximize** the '2' differences.
+
+![image](https://github.com/user-attachments/assets/ff7b511a-1f7f-471e-b753-78d92dd40a46)
+
+* a -> max value.
+* b -> min value.
+* max - min -> max value. [**VERY IMPORTANT**] [Formula]
+* max value of 'x' -> 12.
+* We will not take negative value in 'y' because within mod the negative value becomes positive.
+* min value of 'y' -> 0.
+
+![image](https://github.com/user-attachments/assets/bd0ecfe8-3018-416e-b919-929410ea7709)
+![image](https://github.com/user-attachments/assets/35758e12-94eb-45db-9ae4-ebbe142ddbff)
+![image](https://github.com/user-attachments/assets/7da0dc47-f7d1-479d-9d16-c7e6ef043836)
+
+* 36 > 32.
+* Max -> 36 [Answer]
+* For **minimum/minimize** we will do something else.
+
+![image](https://github.com/user-attachments/assets/c14c1404-2bd4-4e15-a2c8-f9fd2a0e735a)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/230b4f53-d129-4b3f-b728-41ba59a8131f)
+
+* We cannot do **factorization** here. We have to use **quadratic equation**. [Formula] [**VERY IMPORTANT**]
+* 5.5 and 0.5 > -1/2
+* We have to **cross check** always. It is **important**.
+* So we can take '2' values here.
+
+![image](https://github.com/user-attachments/assets/2967efc3-dec3-45bd-b987-04317df10e8d)
+
+* Then, we have taken '1' value here. [Example]
+
+![image](https://github.com/user-attachments/assets/856dcff6-39a0-4384-9682-d54cc00e8e70)
+
+* Both are **real values** only.
+
+![image](https://github.com/user-attachments/assets/b7c3eab5-30fe-4521-bedb-6e3b7350e26b)
+![image](https://github.com/user-attachments/assets/8c5e63af-064d-444a-9382-49c2ab4778e8)
+
+* Values of 'x' -> 3 [Answer]
+
+![image](https://github.com/user-attachments/assets/e06eed01-2ace-453c-bc34-c2e8306e78e4)
+![image](https://github.com/user-attachments/assets/2cd49654-5d5e-4a86-9eda-be62630d08c8)
+
+* [Question]
+* This falls under **perfect squares**. We have to make them into **squares**. [Concept] [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9ecaac49-b95a-458a-919f-f8d1fcd9f068)
+![image](https://github.com/user-attachments/assets/63107d9c-6496-4600-a95d-934715e5f3c8)
+
+* [Concept] [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a887f6b7-311a-4541-88c7-59345448850a)
+![image](https://github.com/user-attachments/assets/8e6ae7cb-b49c-4ee8-a9bb-94310bea4648)
+![image](https://github.com/user-attachments/assets/d0fcba40-7c73-47ac-b13a-30d9d06fe605)
+
+* a = x.
+* b = 1/2.
+
+![image](https://github.com/user-attachments/assets/5161b201-3177-42e3-a945-a13afe4bff4d)
+![image](https://github.com/user-attachments/assets/df32cd1c-0d0b-4e91-b2fb-c93ce93e9e54)
+
+* a = y.
+* 2yb = 8y/5
+* b = 4/5.
+
+![image](https://github.com/user-attachments/assets/3d336b06-f9dc-4fc3-a978-83ca1ea5077e)
+![image](https://github.com/user-attachments/assets/9860fba2-5464-4c0b-8f87-f66163c41fcc)
+
+* a = z.
+* 2zb = 7z/5
+* b = 7/10.
+
+![image](https://github.com/user-attachments/assets/8d4a95c6-d257-403a-a79c-9fb08e68cd0d)
+![image](https://github.com/user-attachments/assets/a37ad0e1-e173-43b8-b8fa-fd73b9dc17c6)
+![image](https://github.com/user-attachments/assets/ea9da30d-88f7-4b1b-8631-b841b70de2b0)
+
+* All '3' are now **perfect squares**.
+* We know that any **perfect squares** is always **greater than '0'**. It can **never be negative**. [Concept] [Formula] [**VERY IMPORTANT**]
+* Power of '2' of a negative no. is always a positive no. also.
+* Each of the '3' nos. will be **equal to '0'**.
+
+![image](https://github.com/user-attachments/assets/e21a16c6-3695-42b0-b896-ce1e472854ea)
+![image](https://github.com/user-attachments/assets/28b81849-f294-4a80-90df-41e3b1a100a4)
+
+* Value -> 89. [Answer] [**VERY IMPORTANT**] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
