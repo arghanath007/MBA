@@ -1173,12 +1173,17 @@
 * From the question, we have to find **maxima or minima**.
 
 ![image](https://github.com/user-attachments/assets/a38378fb-d2f5-4072-8f99-488cff2d2de7)
+![image](https://github.com/user-attachments/assets/3b724b90-0dac-40ec-9694-21cfc1386357)
 
+* Inequality -> >=, <= -> maxima or minima comes.
+* If the above '3' hints are there in the **question** then we can say that the **question** is about **AM and GM**. 
 
+![image](https://github.com/user-attachments/assets/18a56973-2ed7-4322-b5fb-9d353e00b9b5)
+![image](https://github.com/user-attachments/assets/01b008f5-337a-4ec1-a415-eb970a42c2b8)
+![image](https://github.com/user-attachments/assets/564bef70-dea9-423b-a93c-118ed72cc125)
 
-
-
-
+* Find 'a and b'.
+* We have found wrong values of 'a and b' because we want in the form of **multiplication** as given in the **question**. 
 
 
 
