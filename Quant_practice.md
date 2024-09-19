@@ -1141,7 +1141,13 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/4e119a46-af6c-49ed-8b21-7671b70f8c98)
+![image](https://github.com/user-attachments/assets/5c77a49a-7498-4767-830f-458876020609)
+
+* Inequality. [Formula] [**VERY IMPORTANT**] [Concept]
 * For all the positive real nos -> Arithmetic mean(AM) >= Geometric mean(GM) >= Harmonic mean(HM) -> It is **always True**.
+* Equality sign holds -> only for equal numbers.
+* We are sure that the **nos. are not equal** -> AM > GM > HM -> remove those **equality signs**. 
 
 
 
