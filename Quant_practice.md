@@ -1148,19 +1148,31 @@
 * For all the positive real nos -> Arithmetic mean(AM) >= Geometric mean(GM) >= Harmonic mean(HM) -> It is **always True**.
 * Equality sign holds -> only for equal numbers.
 * We are sure that the **nos. are not equal** -> AM > GM > HM -> remove those **equality signs**. 
+* AM -> Sum -> add. [Concept] [Formula]
+* GM -> Product -> multiply. [Concept] [Formula]
 
+![image](https://github.com/user-attachments/assets/8fee540a-3802-449c-8c60-60460c1687a1)
 
+* [Question] 
+* x,y > 0 -> It means 'x and y' are positive numbers.
+* **HINTS**:-
 
+1) AM and GM. 
 
+* (x ^ 3) * (y ^ 2) -> Product.
+* 2x + 3y -> Sum.
+* AM -> Sum -> add.
+* GM -> Product -> multiply.
 
+2) Are they positive real numbers?
 
+* It is mentioned in the question.
 
+3) Inequality means that it is either **maximum** given and we have to find **minimum** or vice-versa.
 
+* From the question, we have to find **maxima or minima**.
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/a38378fb-d2f5-4072-8f99-488cff2d2de7)
 
 
 
