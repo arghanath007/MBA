@@ -1185,11 +1185,18 @@
 * Find 'a and b'.
 * We have found wrong values of 'a and b' because we want in the form of **multiplication** as given in the **question**. 
 
+![image](https://github.com/user-attachments/assets/1eaa9267-f881-4cce-a47f-330c737c3739)
+![image](https://github.com/user-attachments/assets/9349aaa9-79c2-4a87-9837-46f96e6507a9)
+![image](https://github.com/user-attachments/assets/0250fdcc-e940-4558-9d53-9b5e9409e52c)
 
+* 'ab' is going to be **max** when 'a and b' values are **close to equal or are equal**. For  **equal** case.
 
+![image](https://github.com/user-attachments/assets/c42cf867-8d96-4c71-a49f-62cccd2e4cd5)
 
+* We got '5' numbers.
 
-
+![image](https://github.com/user-attachments/assets/fc22db0f-3525-47c5-8b35-afa855cca990)
+![image](https://github.com/user-attachments/assets/cd6415e8-6589-4fe0-a5d8-73d0111e78f9)
 
 
 
