@@ -1109,6 +1109,7 @@
 
 * We can take any value of 'x'.
 * Put 'x = 5' in main equation.
+* We can simpy remove the **mods**.
 * 2 ^ (|x+2|) -> Becomes positive.
 * |2 ^ (x + 1) - 1| -> Becomes positive.
 
@@ -1116,17 +1117,31 @@
 ![image](https://github.com/user-attachments/assets/5cabe9f0-751e-44d9-8bb5-ea8025829950)
 
 * **True** for all values of 'x'.
-* case **3** -> x = -1.
-* We have solved '3' different/separate cases. That's why we will do **union** here.
+* We have solved '3' different/separate cases. That's why we will do **union** here. 
+* They don't have any **connection**. They are **OR** cases.
+* x = -3 and x = -1.
+* Both will satisfy individually.
 
+![image](https://github.com/user-attachments/assets/30f3b2bb-8cfb-49c4-91d7-b43f3e0c964c)
 
+* In **case '1'** for 'x <= -2' we got 'x = -3'.
+* In **case '2'** for '-2 < x < -1' we got 'x = -1'.
+* It is problem in **case '2'**. We are getting a **contradiction/conflict*** in **case '2'**. It means that it is **not acceptable**.
+* We have to always cross check the **cases**.
+* In **case '3'** it is **True** for all values of 'x' where 'x >= -1'.
 
+![image](https://github.com/user-attachments/assets/64f2b378-a872-4298-ac8e-d1aa37011acd)
+![image](https://github.com/user-attachments/assets/7ccb579a-fb60-4c43-8e0a-17aad7e37ef5)
+![image](https://github.com/user-attachments/assets/7d1ba99d-c6db-4dda-b4d9-65c08d9e7419)
 
+* Single value -> Curly brackets -> -3.
+* [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/bdf46079-355c-408c-8adb-5775f80f6144)
 
+* [Question]
 
-
-
+* For all the positive real nos -> Arithmetic mean(AM) >= Geometric mean(GM) >= Harmonic mean(HM) -> It is **always True**.
 
 
 
