@@ -1155,7 +1155,7 @@
 
 * [Question] 
 * x,y > 0 -> It means 'x and y' are positive numbers.
-* **HINTS**:-
+* **HINTS**:- [**VERY IMPORTANT**] [Concept] [Formula]
 
 1) AM and GM. 
 
@@ -1170,7 +1170,7 @@
 
 3) Inequality means that it is either **maximum** given and we have to find **minimum** or vice-versa.
 
-* From the question, we have to find **maxima or minima**.
+* From the question, we have to find either **maxima or minima**. [**IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/a38378fb-d2f5-4072-8f99-488cff2d2de7)
 ![image](https://github.com/user-attachments/assets/3b724b90-0dac-40ec-9694-21cfc1386357)
@@ -1197,25 +1197,57 @@
 
 ![image](https://github.com/user-attachments/assets/fc22db0f-3525-47c5-8b35-afa855cca990)
 ![image](https://github.com/user-attachments/assets/cd6415e8-6589-4fe0-a5d8-73d0111e78f9)
+![image](https://github.com/user-attachments/assets/f64e7290-1b60-4d34-8479-aa7ef30c6807)
+![image](https://github.com/user-attachments/assets/11954308-a9f1-4a9e-a462-dc41f81971c3)
+![image](https://github.com/user-attachments/assets/4d55b66a-8b6c-45a7-9762-8f8af2f8b4be)
 
+* Taking **power of '5'** on both the sides.
 
+![image](https://github.com/user-attachments/assets/6ce83e6d-c60d-4ea1-8e7d-753f956e50bd)
+![image](https://github.com/user-attachments/assets/8d9129f0-7057-4003-8a08-b3d6cf330ca1)
+![image](https://github.com/user-attachments/assets/b55213fe-f7aa-4657-9b89-d0f663f097fe)
 
+* The **max** value of **(x ^ 3) * (y ^ 2)** is **1536**. [Answer] [Solution]
 
+![image](https://github.com/user-attachments/assets/7cfbc733-d259-4613-a6bf-556e174683f4)
+![image](https://github.com/user-attachments/assets/77163524-ce2b-4d03-bb8a-20c756c5a47a)
+![image](https://github.com/user-attachments/assets/0a696cfa-9d91-45cb-bb05-05885f33cd89)
 
+* [Question]
+* x ^ 2 -> x ^ 4
+* x ^ 2 * x ^ 2 -> x ^ 4.
+* y ^ 4 -> y ^ 12
+* y ^ 4 * y ^ 4 * y ^ 4-> y ^ 12.
+* **Sum** should remain the **same**.
 
+![image](https://github.com/user-attachments/assets/38d4f2fa-3a8d-4baa-991f-d52ad9532fac)
 
+* Add all '5' of them.
 
+![image](https://github.com/user-attachments/assets/cfd49203-f071-48a6-aa29-92eb92067f35)
+![image](https://github.com/user-attachments/assets/bfa495c3-5f88-45bd-a3fe-2fe621261568)
 
+* Taking **power of '5'** on both the sides.
 
+![image](https://github.com/user-attachments/assets/340e9ac8-4727-4d43-89ae-15609dd9e627)
+![image](https://github.com/user-attachments/assets/2170f6ae-a726-410d-98ca-7d333b0b1c60)
+![image](https://github.com/user-attachments/assets/774442c9-5dc3-480d-b4cd-bcfbf2c4d2a9)
 
+* The **max** value of **25 * (x ^ 4) * (y ^ 12)** is **1728**. [Answer] [Solution]
 
+![image](https://github.com/user-attachments/assets/b8315f95-d786-4168-8b6a-5c841544c07b)
+![image](https://github.com/user-attachments/assets/aef1a9cf-116b-4753-9978-7a60b5ad9adb)
 
+* If plus sign(+) then distance approach.
 
+![image](https://github.com/user-attachments/assets/b4d79e4f-ebcf-4908-afea-a73b5b8becf2)
+![image](https://github.com/user-attachments/assets/608a5931-cca3-49b1-993e-ba850b9f3520)
 
+* If minus sign(-) then range-wise approach.
+* minus sign(-) -> Cannot apply distant approach.
 
-
-
-
+![image](https://github.com/user-attachments/assets/61dffd6f-b092-49c8-a329-4999cbecefa0)
+![image](https://github.com/user-attachments/assets/f7f8533b-0b4b-4017-a72c-25d876dc9d7d)
 
 
 
