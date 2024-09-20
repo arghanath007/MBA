@@ -65,6 +65,34 @@
 * VA.
 * Para Summary(PS).
 
+# Practice Questions
+
+![image](https://github.com/user-attachments/assets/c4b2bd0a-5a23-4ab1-9b6b-3e2274ac2eac)
+![image](https://github.com/user-attachments/assets/e42b527c-1fc6-4be9-a629-a5c141a591d0)
+![image](https://github.com/user-attachments/assets/109e2519-bb0d-42aa-b2b3-701adece6ec9)
+![image](https://github.com/user-attachments/assets/9850b4fa-a99a-44f5-b785-26acc75863e5)
+
+* Option **1**.
+* constructive -> beneficial/better
+* Cohesive -> not divergent -> issues connected together.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
