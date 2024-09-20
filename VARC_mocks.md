@@ -72,9 +72,60 @@
 ![image](https://github.com/user-attachments/assets/109e2519-bb0d-42aa-b2b3-701adece6ec9)
 ![image](https://github.com/user-attachments/assets/9850b4fa-a99a-44f5-b785-26acc75863e5)
 
-* Option **1**.
 * constructive -> beneficial/better
 * Cohesive -> not divergent -> issues connected together.
+
+![image](https://github.com/user-attachments/assets/17187612-33f6-408b-a44c-1989a093bb52)
+
+* Option **3**.
+
+![image](https://github.com/user-attachments/assets/1e71035c-2b19-46e4-8495-fbffb7cca410)
+
+* inaccurate -> negative.
+* None -> negative.
+* except -> negative.
+* negative * negative * negative -> negative.
+* We have to find someething that is inaccurate.
+* 1,2,4 -> accurate
+* Option **3**.
+
+![image](https://github.com/user-attachments/assets/ed2a5366-0d49-411e-bcc0-7b71ec17c529)
+![image](https://github.com/user-attachments/assets/2e86c3f2-e014-4e50-a886-546353b35bb7)
+
+* Option **4**.
+
+![image](https://github.com/user-attachments/assets/7e6f5e65-18bf-40bc-b9b9-2f75c8911933)
+
+* Option **2**.
+* 3,4 -> Tone mismatch.
+
+![image](https://github.com/user-attachments/assets/a3600244-2203-4d68-ae11-c36a337addef)
+
+* positivism -> a quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness -> the form of empiricism that bases all knowledge on perceptual experience (not on intuition or revelation). [Meaning]
+
+![image](https://github.com/user-attachments/assets/775e997b-012f-4483-a427-b20057ef770c)
+
+* epistemology -> knowledge -> the philosophical theory of knowledge. [Meaning]
+* disinterested -> much more objective -> my interest is not there. [Meaning]
+* uninterested -> I don't care. [Meaning]
+
+![image](https://github.com/user-attachments/assets/ce90f343-ad09-4314-925a-4310a92be26c)
+![image](https://github.com/user-attachments/assets/4db5a67b-d159-4185-b655-384bf25fdac6)
+
+* Endorsed -> Supported by. [Meaning]
+* 3 -> Tone-mismatch.
+* Option **2**.
+
+![image](https://github.com/user-attachments/assets/90a79c74-c7d2-46f7-9de0-ad8b27aac4a8)
+![image](https://github.com/user-attachments/assets/a18ce1c8-c81b-4fb5-ac94-187b1784d53b)
+
+* Weaken and Support. [Meaning] [**VERY IMPORTANT**]
+* Underline, underlay -> Support
+
+
+
+
+
 
 
 
