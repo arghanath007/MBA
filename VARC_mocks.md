@@ -122,13 +122,18 @@
 * Weaken and Support. [Meaning] [**VERY IMPORTANT**]
 * Underline, underlay -> Support
 
+![image](https://github.com/user-attachments/assets/1f30ee79-fbcd-4d6e-b210-00112ab7d02a)
 
+* Option **3**.
 
+![image](https://github.com/user-attachments/assets/29155450-10b7-44be-be31-7f2947e34064)
 
+* Option **1**.
 
+![image](https://github.com/user-attachments/assets/85ec1d4b-c5ec-43c1-8739-f5d940e548cb)
+![image](https://github.com/user-attachments/assets/f43d40d0-b0bb-4ccc-a9a8-7097c618d514)
 
-
-
+* Option **4**.
 
 
 
