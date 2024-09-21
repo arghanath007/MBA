@@ -574,13 +574,17 @@
 * Syllabus.
 
 ![image](https://github.com/user-attachments/assets/197dfe5a-371d-470c-9f05-2d65d193c2f2)
+![image](https://github.com/user-attachments/assets/5b4c5235-5369-460d-a806-57883c73b25c)
+![image](https://github.com/user-attachments/assets/d8147617-8a94-432b-8922-dfe6b83bf19e)
 
+* Clgs. 
 
+![image](https://github.com/user-attachments/assets/5c1de67a-a8ae-4037-9dc5-777b18d5103c)
+![image](https://github.com/user-attachments/assets/5a01ddfe-68ae-4c89-9f41-657a1c286e63)
 
+* Snap topic.
 
-
-
-
+![image](https://github.com/user-attachments/assets/12242ba7-9130-4488-b23e-2cc2504d776a)
 
 
 
