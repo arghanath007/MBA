@@ -188,6 +188,64 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/dd4c0508-7ff7-4948-a2b5-3afb916919e2)
+
+* Assem loss in maths -> 40% of 12a -> 4.8a
+* Assem loss in social studies -> 40% of 20a -> 8a
+
+![image](https://github.com/user-attachments/assets/7534d124-bc83-4aa7-b591-fc45054fa312)
+![image](https://github.com/user-attachments/assets/c3815967-d82b-4ad5-8422-514a15495855)
+![image](https://github.com/user-attachments/assets/1593e2fa-756a-48d4-99f4-9c6adeb0e593)
+
+* Total -> Scored + lost.
+
+![image](https://github.com/user-attachments/assets/09b20ab5-9845-4553-ad58-a581ac4f167d)
+
+* As : Ay : Sa -> 5 : 2 : 1
+* a = 5, b = 2, c = 1
+* Sa -> 100 * 5 -> 500.
+* Ay -> 100 * 2 -> 200.
+* As -> 100 * 1 -> 100.
+
+![image](https://github.com/user-attachments/assets/c5d3b72f-a479-4b94-bbec-4981338c48e3)
+![image](https://github.com/user-attachments/assets/65c8e769-87f8-427b-b276-19f1696a6ca8)
+
+* Answer -> 20%. [1] [Answer] [Solution]
+
+![image](https://github.com/user-attachments/assets/fe4e63d5-176d-403c-af54-09b4949394d9)
+
+* Ayan lost in science -> 10% of 9b -> 0.9b
+
+![image](https://github.com/user-attachments/assets/241b66bc-227b-4a95-bcfe-7403811cae0c)
+![image](https://github.com/user-attachments/assets/a00d2160-9492-4e5d-81de-7350863d9f2b)
+
+* Answer -> 0.6%. [2] [Answer] [Solution]
+
+![image](https://github.com/user-attachments/assets/379e43db-ea5d-4a67-9507-846197a24626)
+
+* Atleast -> minimum/minimize.
+* 12 * 1.5 -> 18
+* 25 * 1.5 -> 37.5
+
+![image](https://github.com/user-attachments/assets/98ca8690-cb96-4fa8-9286-51f19c6067b7)
+![image](https://github.com/user-attachments/assets/c6977ca9-0f05-455a-8970-0567981c1c55)
+![image](https://github.com/user-attachments/assets/5e8919b5-02f4-4cf8-9682-68507c53d509)
+
+* Answer -> 37.5%. [3] [Answer] [Solution]
+
+![image](https://github.com/user-attachments/assets/353cd288-8bf5-49c3-9580-8b20584697d9)
+
+* Ayan lost marks in eng due to Q -> 36% of 6b = 45
+* b = 125/6
+* cannot be more than -> maximum/maximize.
+* Samantha lost marks in maths due to T -> 20% of 4c -> 
+
+![image](https://github.com/user-attachments/assets/b54a3f00-bbb3-4586-852e-20b5ec23ef96)
+![image](https://github.com/user-attachments/assets/264b7fe1-e5b2-4423-9aa8-986620e69867)
+
+* Answer -> 40. [4] [Answer] [Solution]
+
+
 
 
 
