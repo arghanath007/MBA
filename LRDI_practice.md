@@ -31,6 +31,7 @@
 * Tata pickup -> 5.25 * 4 -> 21
 * Tata mileage -> 4 * 4 -> 16
 
+* Start from '30mins'.
 
 
 
