@@ -261,6 +261,48 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/9a4c7ee2-863f-40fd-801a-4aa9231c5f0e)
+
+* Same alphabet -> Same value. [Concept] [Logic] [**VERY IMPORTANT**]
+* Different alphabet -> Different value. [Concept] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7b17b06a-4436-42eb-b1b7-12ff3220060f)
+![image](https://github.com/user-attachments/assets/f87899a1-3111-42c6-b2bb-41d25fe19640)
+![image](https://github.com/user-attachments/assets/0cc9e070-6a31-45f4-8e21-d9839ad62989)
+
+* 3 * 4 -> 12.
+* E -> 4.
+* 1 + 3 * D = E -> 1 + 3 * D = 4 -> D = 3/3 -> D = 1.
+* D -> 1.
+* 3C = 1.
+* 3 * 7 -> 21 -> '2' is carry and we write down '1'.
+* C -> 7.
+* 2 + 3B = 7 -> 3B -> 5
+* 3 * 5 -> 15 -> '1' is carry and we write down '5'.
+* B -> 5.
+* 1 + 3A = 5 -> 3A -> 4
+* 3 * 8 -> 24 -> '2' is carry and we write down '4'.
+* A -> 8.
+* 2 * 3 + 2 -> 8.
+
+![image](https://github.com/user-attachments/assets/51fbe6f6-ca00-4910-b861-41660f27022a)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/04695bfa-9780-41c9-a464-131f7b71d7d9)
+
+* 3 * 5 + 2 -> 17 -> '1' is carry and we put down '7'.
+
+![image](https://github.com/user-attachments/assets/280e214e-c660-4f62-977a-cf66ea09b5fc)
+![image](https://github.com/user-attachments/assets/acc70fd3-8775-4170-bac4-69d17eb35287)
+![image](https://github.com/user-attachments/assets/b41fd992-4178-4c36-9c92-3a7698ee607a)
+![image](https://github.com/user-attachments/assets/0e90451b-ad94-4d1f-a8fb-6f6672331a15)
+
+* [Question]
+
+
+
+
 
 
 
