@@ -299,7 +299,10 @@
 ![image](https://github.com/user-attachments/assets/0e90451b-ad94-4d1f-a8fb-6f6672331a15)
 
 * [Question]
-
+* A -> 1 or 2.
+* 3 * 4 -> 12 -> It will become a '5' digit no. which we don't want. 'A' value can't me more than '2'.
+* 4 * something -> Even no -> Can't be '1'.
+* A -> 2.
 
 
 
