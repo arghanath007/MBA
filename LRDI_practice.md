@@ -245,6 +245,39 @@
 
 * Answer -> 40. [4] [Answer] [Solution]
 
+## Alphanumeric Puzzles(2)
+
+![image](https://github.com/user-attachments/assets/95724c23-ff9c-4109-86dc-1d5b8bb7909a)
+
+* Rule 1 -> Same alphabet -> Same number
+* Rule 1 -> Same alphabet -> Same number
+
+* If we add '2' nos then the max. carry forward is '1' which is from, 9 + 9 -> 18 -> carry of '1'.
+* There will be either carry forward of '1' or no carry forward at all.
+
+![image](https://github.com/user-attachments/assets/0549f5fb-e262-4bf6-8456-b018966c8613)
+![image](https://github.com/user-attachments/assets/0c607a08-c81d-4459-b760-92485ab7dea4)
+![image](https://github.com/user-attachments/assets/f4f5700e-6407-4683-9916-81c671017585)
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
