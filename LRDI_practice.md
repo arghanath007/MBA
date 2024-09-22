@@ -301,22 +301,60 @@
 * [Question]
 * A -> 1 or 2.
 * 3 * 4 -> 12 -> It will become a '5' digit no. which we don't want. 'A' value can't me more than '2'.
-* 4 * something -> Even no -> Can't be '1'.
+* 4 * something -> Even no. only -> Can't be '1'.
+* 4 * D -> 2.
 * A -> 2.
+* 4D -> 2
+* 4 * 3 -> 12 -> '1' is carry and we put down '2'.
+* 4 * 8 -> 32 -> '3' is carry and we put down '2'.
+* D -> 3 or 8.
 
+![image](https://github.com/user-attachments/assets/6fa2ef7c-30bb-4907-95b5-e9d92def08b8)
+![image](https://github.com/user-attachments/assets/7a90d7e9-e257-4802-b2a4-1f299a15c490)
 
+* 4 * A -> D
+* 4 * 2 -> 8.
+* 4 * 2  + 1 -> 9.
+* 'D' can be '8' or max. to max. can be '9' with carry from previous. So 'D = 3' is not possible. 'D' has to be '8'.
+* D -> 8.
+* Carry of '3' to 'C'.
+* As we are adding '3' to 'C' so we can say that 'B' is **odd**.
+* B -> odd.
+* 4B -> C.
+* There was no carry forward as we got 'D = 8' only. So, 'B' can be either '0 or 1 or 2', it cannot be more that '2' like in 'A'.
+* As we have already used '2' in 'A' and we cannot repeat it. As 'B' is odd so 'B = 1'.
 
+![image](https://github.com/user-attachments/assets/0b4c0397-d694-40ae-b45f-0106c101a99a)
 
+* B -> 1. [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* 4C + 3 -> 1
+* 4 * 2 -> 8
+* 8 + 3 -> 11 -> '1' is carry and we put down '1'.
+* 4 * 7 -> 28
+* 28 + 3 -> 31 -> '3' is carry and we put down '1'.
+* C -> 2 or 7.
+* Have already used '2'. So,
+* C -> 7.
 
+![image](https://github.com/user-attachments/assets/3160a8f0-45b8-4fbe-b25e-75a461613584)
+![image](https://github.com/user-attachments/assets/32a639f2-da57-4929-8a0e-340f7f3c9a66)
 
+* Complete.[Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/3b201539-42d1-4b61-88c0-ab87072301cb)
+![image](https://github.com/user-attachments/assets/e0276d37-7940-4f30-90e4-9f80293d7d2e)
 
+* EN + EN -> 00 -> Double '0'. [Not for CAT]
 
+![image](https://github.com/user-attachments/assets/91415089-f7eb-4d70-ac5e-b22bdec39017)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/f5bf5d5c-8951-40a9-a5c2-e6604b7699cc)
+![image](https://github.com/user-attachments/assets/19f774c4-b79c-4d10-bb57-30848a86685c)
 
-
-
+* [Question]
+* Max. carry forward is '1'.
 
 
 
