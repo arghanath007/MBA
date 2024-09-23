@@ -354,8 +354,95 @@
 ![image](https://github.com/user-attachments/assets/19f774c4-b79c-4d10-bb57-30848a86685c)
 
 * [Question]
+
+![image](https://github.com/user-attachments/assets/96e56f8b-4572-4e11-b748-0c969de7cb50)
+
 * Max. carry forward is '1'.
-* start from 1hr 17mins.
+* c = d + 1.
+* a + b = d -> without carry forward.
+* D + E = C -> d + e = d + 1 -> e = 1.
+* E -> 1. [No carry forward]
+* f + f = b -> 2f = b.
+* b -> Even number -> Adding of '2' nos. is even only.
+* If 'B = 2' case:
+* A = 3 -> because '1 and 2' are taken.
+
+![image](https://github.com/user-attachments/assets/7c875b5d-4ddb-4ce9-9811-dab6248f763a)
+![image](https://github.com/user-attachments/assets/c7d55a72-5c91-4e3c-9c5a-b3183c31f1af)
+
+* A + B = D -> 2 + 3 -> 5.
+* D = 5.
+* Case **1** -> This case is **not possible** because 'F' has to be either '2 or 6' for 'B = 2' but both '2 and 6' are taken already.
+* Case **2** -> This case is also **not possible** similar to case **1**.
+
+![image](https://github.com/user-attachments/assets/6cc4d0f7-f4e3-4bde-b028-be6d97c2c934)
+
+* We need 'F = 2  or 7' for 'B = 4 and A = 2'.
+
+![image](https://github.com/user-attachments/assets/80aea901-c2e4-47aa-bdea-26f0e0a36b7c)
+![image](https://github.com/user-attachments/assets/892c1ca4-7f09-42ad-8f13-c1d094cf0422)
+
+* G + H + 1 -> 8.
+* 8 + 9 + 1 -> 18 -> '1' is carry and '8' we put down.
+* '8' is already taken in 'c'. So this is also **not possible**.
+
+![image](https://github.com/user-attachments/assets/5363a456-b33b-41d8-bc40-200246ea96ee)
+![image](https://github.com/user-attachments/assets/d9233532-7a9c-4042-ab5f-0be33d9c2269)
+
+* Nos. left -> 0,3,4,9.
+* g + h + 1 -> 8.
+* 3 + 4 + 1 -> 8.
+* G -> 3/4.
+* H -> 4/3
+* 6 + 7 -> H.
+* H -> 13 -> '1' is carry and '3' we put down.
+* H -> 3
+* G -> 4.
+
+![image](https://github.com/user-attachments/assets/54782302-f963-4dcc-becd-2212cd2dc080)
+![image](https://github.com/user-attachments/assets/2f0248f9-4900-4331-bc7b-a37baad565f3)
+![image](https://github.com/user-attachments/assets/1462f4eb-08bf-4ae4-a102-61be0b50b54e)
+
+* Answer -> 4. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 3. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 2. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 7. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 1. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Obtained by calculator -> 4
+* Shown by calculator -> 7
+
+![image](https://github.com/user-attachments/assets/655a5f08-8322-4413-bae3-085795ba2ed0)
+![image](https://github.com/user-attachments/assets/42bddda1-53ed-467c-aa17-b58083569d28)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/1303d383-fed6-45e9-97a3-57999fd2972b)
+
+* P6 -> Sh/L
+* P1/P3 -> Sh/L
+* P10 -> R/G
+* P7 -> R/G
+* P8 -> H
+* We know 'H' is closer to 'G'.
+* P10 -> R
+* P7 -> G
+
+![image](https://github.com/user-attachments/assets/70e456e5-2ce5-4a08-934e-74d162268cd0)
+![image](https://github.com/user-attachments/assets/6525433b-52a9-4272-8e3f-526d32ad3835)
+![image](https://github.com/user-attachments/assets/92c1329e-3b93-4942-91e4-714d2321f7ba)
+
+* Example.
+* P4 -> D.
+* P6 -> not L -> Sh.
+
+![image](https://github.com/user-attachments/assets/73263c5f-d002-4b36-88b7-295889c2d5eb)
+![image](https://github.com/user-attachments/assets/78977162-6325-48ea-a9db-e68c6891efdf)
+![image](https://github.com/user-attachments/assets/1e61bbc2-75c5-456b-9afd-8cfb0393d4ee)
+
+
+
+
+
 
 
 
