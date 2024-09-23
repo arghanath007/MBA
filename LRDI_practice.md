@@ -586,6 +586,60 @@
 * 2 to 12 candidates in 'B' -> Got less than '1/6' only -> They lose their security deposits.
 * Answer -> 11 -> option **E**. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+* 1/6 -> 16.66%
+* 10% < 16.66%.
+* 4th candidate of 'D' gets less than '1/6'.
+* 4th to 8th -> gets less than '1/6'.
+
+![image](https://github.com/user-attachments/assets/3c139533-76dd-4c32-8f85-4cffeebeabe2)
+
+* 4th to 8th sum is '35%'. We don't know if it is the winner or not.
+* Winner in 'D' got '5%' more than runner up in 'D'.
+* 1st + 2nd -> 65%
+* 1st -> 35%
+* 2nd -> 30% -> 37500.
+
+![image](https://github.com/user-attachments/assets/9b0d1907-2708-4583-afdf-7df0e87b9237)
+![image](https://github.com/user-attachments/assets/6d99947d-ce05-43c0-b3b6-01ad9ee11954)
+
+* '2' cases are possible. 
+
+![image](https://github.com/user-attachments/assets/a9fccc9a-629e-4d63-8dc1-abbd01a0468d)
+![image](https://github.com/user-attachments/assets/75c9b2aa-99a0-4ef6-aaa6-bdeb19d201b8)
+
+* 65% -> 1/6 of 125K -> ~21K
+* 3rd person of 'D' -> 30k.
+* 30k > 1/6 -> 30k > 21k.
+* both are contradicting each other. So case **1** is rejected.
+* Only case **2** is possible.
+
+![image](https://github.com/user-attachments/assets/358aa357-bd22-4c40-bea8-fd3a4272fef0)
+![image](https://github.com/user-attachments/assets/2f399ed5-c0af-4a65-90c9-160a1d0ab89e)
+
+* y -> 4/5 -> 0.8x%
+
+![image](https://github.com/user-attachments/assets/e0b4960b-c47b-4464-9c47-49cb3c3a519f)
+![image](https://github.com/user-attachments/assets/1d496113-d545-45fb-b651-0ca31cd9d4e0)
+![image](https://github.com/user-attachments/assets/3a0f34f1-93ee-4bf5-ae46-85c1ecf12a0f)
+
+* Answer -> 175000 -> option **A**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
