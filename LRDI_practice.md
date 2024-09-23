@@ -441,8 +441,11 @@
 
 ## Data Arrangements(3)
 
+![image](https://github.com/user-attachments/assets/b3fd5785-baf6-42ff-9557-5b7c6de25847)
+![image](https://github.com/user-attachments/assets/3932e291-8c8a-48ca-91e8-3bf8a401fa01)
+![image](https://github.com/user-attachments/assets/bcf97753-3902-4aa4-8630-8952d5a31b14)
 
-
+* [Question]
 
 
 
