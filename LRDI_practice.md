@@ -447,50 +447,144 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/ac05c470-2d2d-4a24-9ea9-b80f145de91b)
+![image](https://github.com/user-attachments/assets/14a2d4fb-738e-479f-aac7-a447fc8ae399)
+![image](https://github.com/user-attachments/assets/e17cb067-407e-4b84-a128-5cc6f168f954)
 
+* Jayanth's surname -> not 'gupta' or 'sharma'.
 
+![image](https://github.com/user-attachments/assets/ea86c0da-4131-4ecf-bc79-16752ae5327f)
 
+* Parvindar's surname is either gupta' or 'sharma' as they also taught on a monday.
 
+![image](https://github.com/user-attachments/assets/9ebb44ab-2d2b-43be-8aa9-21533347d2a5)
+![image](https://github.com/user-attachments/assets/24434bd9-e449-4554-85b8-deebe4e7b258)
 
+* '1' facult can teach for a max. of '6hrs'. Parvindar taught for all '6' days of the week so he taught for '1hr' every day.
+* Operation management(OM).
+* 6hrs -> 3days -> 3 * 2 = 6 -> 2hrs every day.
 
+![image](https://github.com/user-attachments/assets/538c7f84-d630-4d38-b314-a65a52a34e57)
 
+* 6hrs -> 1 + 2 + 3.
 
+![image](https://github.com/user-attachments/assets/b077063f-7830-41ca-b588-6d0f4b04fe89)
 
+* Wed + Fri + Sat -> avg of 8hrs -> 8 * 3 -> 24hrs.
+* 24 -> 7 + 8 + 9 'OR' 8 + 7 + 9.
+* Sat -> 9hrs fixed.
+* Mon -> 3 * 1 -> 3hrs fixed.
 
+![image](https://github.com/user-attachments/assets/8b067228-6d71-41ab-bd02-9975626ec2ee)
 
+* Max -> 9
+* Min -> 3
+* 3 to 9 distinct numbers -> We need '6' nos. because of 6 days.
+* '6' faculty taught for '6hrs' each -> 6 * 6 -> 36hrs total.
+* Used -> 7 + 8 + 9 + 3 -> 27
+* Left -> 36 - 27 -> 9hrs.
+* Tues + Thus -> 9hrs.
+* Tues > Thus [Point '9']
+* 5 + 4 -> 9.
+* 6 + 3 -> 9 -> '3' is already occupied so we cannnot use that. 
+* 7 + 2 -> 9 -> '7' is already occupied so we cannnot use that. 
+* 8 + 1 -> 9 -> '8' is already occupied so we cannnot use that. 
 
+![image](https://github.com/user-attachments/assets/97d664a5-8cb3-48ff-aca6-14e74a2f94d4)
 
+* Tues -> 5.
+* Thus -> 4.
+* Wed -> 7 or 8.
+* Fri -> 7 or 8.
+* They can shuffle between '7 and 8hrs'.
 
+![image](https://github.com/user-attachments/assets/0fc1c1dd-3b17-47fd-9cff-530a881b9ad9)
+![image](https://github.com/user-attachments/assets/3ab216dd-ace6-4747-b419-0c5c281b601a)
 
+* Marketing faculty -> Wed + Fri + Sat -> 6hrs
+* Wed - Fri -> 2.
+* 1/3 or 3/1.
+* Marketing faculty taught for '2hrs' on friday. 
+* 5days for 6hrs -> 1 + 1 + 1 + 1 + 2 -> 6hrs.
 
+![image](https://github.com/user-attachments/assets/5b09fb43-87ea-414d-ba5c-479e4619aa32)
+![image](https://github.com/user-attachments/assets/7d09a7f1-4e71-4ada-b25e-905cf38f028d)
+![image](https://github.com/user-attachments/assets/ef8847c1-0016-4bd9-9cef-26c1fbf0b77d)
+![image](https://github.com/user-attachments/assets/013b413a-496e-47ea-83dc-e2805fd0c5b8)
+![image](https://github.com/user-attachments/assets/5a42a983-6d99-4d52-84a3-8257b7c511aa)
 
+* Keshav -> on '4' days.
+* Min. no. of days -> For '2' days with '3hrs' each.
 
+![image](https://github.com/user-attachments/assets/8cf7fa6a-15ca-437f-acfc-c47cbeba32ac)
+![image](https://github.com/user-attachments/assets/354b747b-5398-4586-9c9c-3196c0e1145b)
+![image](https://github.com/user-attachments/assets/e5c65fa7-8647-4603-81fb-e28291fb8946)
 
+* Jayant -> 6hrs -> We got '1 + 2 = 3hrs' -> We are left with '3hrs' for 2days -> '1 + 2 = 3hrs'.
+* Jayant cannot go with jaiswal as stated in point '13', starting letter of name and surname cannot be the same.
 
+![image](https://github.com/user-attachments/assets/ecf9202b-caa6-45af-a92c-cf5cabd1f7bb)
 
+* Answer -> 4. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> CBD -> option **D**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/c2da8c3f-84f2-4150-8f15-463e61f30fff)
 
+* Anand -> marketing -> friday -> 2hrs.
 
+![image](https://github.com/user-attachments/assets/bc477598-8023-443e-b63e-530915e32331)
 
+* Thus -> 4hrs -> 1hr by Jay, 1hr by Par, 1hr by kesh.
+* That's why we cannot put neha in thusday.
+* Thus and monday are done.
+* Neha  -> tues, wed, fri -> 2hrs every day.
+* Fri -> 2 + 2 + 3 + 1 -> 8hrs
+* Wed -> 7hrs.
 
+![image](https://github.com/user-attachments/assets/05a401d4-f1da-4f4f-9f96-ccf70b477836)
 
+* Tues -> 5hrs -> 2 + 3  * 1 -> 5hrs.
+* Wed -> 7hrs -> 2 + 1 + 2 -> 5hrs -> 7 - 5 -> 2hrs left -> anand '1hr' and keshav '1hr' -> 5 + 2 * 1 -> 7hrs.
 
+![image](https://github.com/user-attachments/assets/e2181045-59f1-4442-a0b6-6e133d60592b)
 
+* Sat -> 9hrs -> 3 + 1 + 3 -> 7hrs -> 9 - 7 -> 2hrs left -> keshav '2hrs' -> 7 + 2 -> 9hrs.
 
+![image](https://github.com/user-attachments/assets/46937949-aee6-4507-9a13-eac672849ffd)
+![image](https://github.com/user-attachments/assets/9bdd27a6-1e0d-4539-bd34-a68202ced831)
+![image](https://github.com/user-attachments/assets/5fceed5f-d2e7-473d-a56b-577599fbf169)
+![image](https://github.com/user-attachments/assets/80d259fa-8477-48e2-a392-b826c2cd322a)
+![image](https://github.com/user-attachments/assets/04908293-9b6a-4af3-bb54-53cb5ebaf22f)
 
+* Answer -> Tues, wed, fri -> option **B**. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 2. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **C**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/dcdf580d-38e2-4ac6-b3d5-8a29c13e936e)
+![image](https://github.com/user-attachments/assets/1be74875-2f9c-4a76-9781-7adc8ce37b62)
+![image](https://github.com/user-attachments/assets/1ddd5f84-25f9-486c-9446-62f3447ead05)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/bd8645fe-c3e8-4927-b945-58f93f13a1b6)
 
+* 95000 - 10000 -> 85000
 
+![image](https://github.com/user-attachments/assets/772e6b68-a088-440a-8fdc-15c411a6d00b)
 
+* These guys are not loosing their security deposits.
 
+![image](https://github.com/user-attachments/assets/150ddc62-3819-470c-8582-d77090a5a3ad)
+![image](https://github.com/user-attachments/assets/d3a2d10d-ba85-420d-b97f-07df88905dff)
 
+* These guys have lost their security deposits.
+* Answer -> 9% -> option **E**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/857ec658-e997-4e21-b598-7f7bed7dab93)
 
-
-
-
+* The winner in constituency 'B' has '48750' votes but it is less than the '1/6' votes. He will not lose his security deposits because he is the winner and only the defeated candidates, lose their security deposits.
+* 2 to 12 candidates in 'B' -> Got less than '1/6' only -> They lose their security deposits.
+* Answer -> 11 -> option **E**. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
 
 
