@@ -624,18 +624,26 @@
 
 * Answer -> 175000 -> option **A**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/31f9474f-7d4d-4dc8-9a9a-3f769ed3afe3)
 
+* Divide by '1000' on numerator and denominator.
 
+![image](https://github.com/user-attachments/assets/5c3de3cb-d989-4f98-8430-ad22da2befc6)
+![image](https://github.com/user-attachments/assets/c67dd9d1-113d-422f-ba3d-0c1a03aa8a93)
 
+* Choose the option which is just smaller than '24'.
+* Answer -> 23.9% -> option **C**. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/731cc98e-69dc-4de3-9b28-3d2c833e88f4)
+![image](https://github.com/user-attachments/assets/e0a4d156-e756-4a3f-b1f6-a653c9c264a7)
 
+* Min. criteria.
+* Min. distribution.
+* This is the only possibility and no other possibility.
 
+![image](https://github.com/user-attachments/assets/1b662e7d-6b09-4e8d-8066-1d774f61fbe1)
 
-
-
-
-
-
+* Answer option **A**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
 
 
