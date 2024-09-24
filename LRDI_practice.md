@@ -1041,35 +1041,99 @@
 ![image](https://github.com/user-attachments/assets/e784aa1b-e1d1-4964-8435-08cadb8de5eb)
 
 * Total sum of money -> 60.
+* s,e,m -> Sum is '26'.
+* 60 - 34 -> 26.
 
+![image](https://github.com/user-attachments/assets/355cd4bb-84f0-4578-95d7-617acba5a5d9)
+![image](https://github.com/user-attachments/assets/b6f4daf4-da56-4bb8-97e2-d4dd447c9b7b)
 
+* '3' nos in GP that add upto '26'.
+* '1' is not a prime number.
 
+![image](https://github.com/user-attachments/assets/68ef4f47-e555-49ff-8aad-79a2c301a698)
 
+* Startig with '1' and common different of '2,3,4 and 5'. For '5' the sum was greater than '26' so not possible.
 
+![image](https://github.com/user-attachments/assets/8bec4abf-016f-4f8b-8568-372594d3e489)
 
+* Sum is greater than '26' so not possible.
+* We have got only '1' case.
+* '3' nos. in GP whose sum is '26' -> 2,6,18.
+* L -> middle -> 6.
+* E -> middle -> 6.
 
+![image](https://github.com/user-attachments/assets/c3f07b3e-3767-4ece-a322-a0e2351358ca)
+![image](https://github.com/user-attachments/assets/8afd93a8-fdca-4376-82c5-d73a7949b47b)
 
+* Sum of '34' in marbles should be coming from '3' different prime numbers.
+* Only common possibility is that 'j = 2 and s = 2'. It is because '6' is already with 'l' and '18' is not a prime numbers.
 
+![image](https://github.com/user-attachments/assets/ba30b26a-fb3d-402c-b199-ee7d4f352b93)
 
+* Sum of '3' prime numbers -> 34.
+* One of the '3' prime numbers is '2'.
 
+![image](https://github.com/user-attachments/assets/9869795c-5f05-4530-a961-e44852536420)
+![image](https://github.com/user-attachments/assets/3040931a-a0b1-457f-924c-71042a5813e2)
 
+* We got '2' combination of numbers.
+* '2' is with 'j'. We need '3 and 29' or '13 and 19' for 'm and e'.
 
+![image](https://github.com/user-attachments/assets/48a8c4f4-2640-4d16-9aa3-48fd00e06704)
 
+* m = l + e -> 29 = 6 + 3 -> not possible.
+* m = l + e -> 19 = 6 + 13 -> possible.
 
+![image](https://github.com/user-attachments/assets/50ac56fd-752a-42c8-9ea4-bd35a3f5f766)
 
+* No. of marbles is covered.
 
+![image](https://github.com/user-attachments/assets/6a96d2bb-c5ef-462a-b632-4e6b278643bd)
 
+* We got '2' combination of numbers.
+* **Harmonic progression(HP)** is the **reciprocal** of **AP**. [**VERY IMPORTANT**] [Formula]
+* AP -> 2,3,5
+* HP -> 1/2, 1/3, 1/5.
 
+![image](https://github.com/user-attachments/assets/954c536e-cc72-4868-a63c-78087ff1e594)
+![image](https://github.com/user-attachments/assets/5cbda684-8956-4258-a552-119224d82baa)
 
+* middle term -> 3.
+* 2,3,6 -> They are in HP.
 
+![image](https://github.com/user-attachments/assets/2dae89b2-5c7a-46cf-86fe-1e0fab3c887a)
+![image](https://github.com/user-attachments/assets/1a0c6cba-2b91-4456-bece-105c478f32ef)
 
+* middle term -> 6.
+* 2,6,13 -> They are not in HP -> This case is ruled out.
+* If 'B = 2, L = 3' then 'J = 29'.
 
+![image](https://github.com/user-attachments/assets/4a1d8bae-26a8-4824-a4b5-6a098513af40)
 
+* Mark -> 6yrs old -> Starts with the min. amt. of money.
+* If 'M = 2' then 'S = 18'.
+* 'E' is occupying '6'. 
 
+![image](https://github.com/user-attachments/assets/1f676a3d-cae7-46c0-bc73-34faa3d18f11)
 
+* 'E' total -> 8 + 13 + 6 -> 27.
+* 'B' total -> 18 + 12 + 2 -> 32.
+* 'S' total -> 14 + 18 + 2 -> 34.
+* 'L' total -> 10 + 3 + 6 -> 19.
+* 'M' total -> 1 + 19 + 6 -> 27.
 
+![image](https://github.com/user-attachments/assets/ed1d9d14-636b-40aa-b7ee-ccfb7eae6a9b)
+![image](https://github.com/user-attachments/assets/ba229bbd-106e-4bb6-9e0c-fd9901920fde)
 
+* 'm' has the same total as 'e'.
 
+![image](https://github.com/user-attachments/assets/0531ae8b-c8fd-47d3-ad41-88f0e6345018)
+
+* Answer -> 2. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
+* Answer -> 29. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
+* Answer -> 19. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
+* Answer -> 3. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
+* Answer -> option **4** -> Mark. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
 
 
 
