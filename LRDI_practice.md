@@ -652,6 +652,49 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/51d8e8ee-ecfc-417e-8650-00fb2e91aa73)
+
+* 1st round -> 6 candidates -> '1' president + '5' candidates.
+* 2nd and 3rd rounds -> 5 candidates.
+* Total points -> 21 + 15 * 2 -> 51.
+* 7 -> 2 + 4 + 1.
+
+![image](https://github.com/user-attachments/assets/7688d99b-148a-431b-8183-6c791431fb68)
+![image](https://github.com/user-attachments/assets/02e4486c-d638-42e4-8c6d-29b3188dd576)
+
+* Answer -> option **1** -> 2,4,1. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* '3' of them have the same points -> x. [Let]
+* President value -> p. [Let]
+* 7 + 11 + 3x + p = 51 -> 3x + p = 33.
+
+![image](https://github.com/user-attachments/assets/71f7ceaf-42d8-4e53-aed4-b8b92475b3d1)
+
+* if 'p = 3' then 3x = 30 -> x = 10.
+* if 'p = 6' then 3x = 27 -> x = 9.
+
+![image](https://github.com/user-attachments/assets/f02da4c8-8a49-48fc-a393-18c9c32118ee)
+
+* case **1** -> x = 10.
+* case **2** -> x = 9.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
