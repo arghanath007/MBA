@@ -972,7 +972,105 @@
 * Answer -> 3. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] [Doubt]
 * Answer -> 70. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
 
-* Start from test **4**.
+![image](https://github.com/user-attachments/assets/306f8109-02fa-43b1-90a1-d6fa725328c9)
+
+* [Question]
+* Age  for all '6' of them add upto '60'.
+* marbles for all '6' of them add upto '60'.
+* money for all '6' of them add upto '60'.
+
+![image](https://github.com/user-attachments/assets/12817008-11aa-456e-b4df-1a69cb36cd9a)
+
+### AP
+* 4 - 2 -> 2
+* 6 - 4 -> 2
+* 8 - 6 -> 2.
+* 2 -> common difference(d).
+
+![image](https://github.com/user-attachments/assets/16b9224f-9381-47ee-8321-480a1ba65777)
+![image](https://github.com/user-attachments/assets/c05b2cfb-17b4-49f8-9454-309acfc9f664)
+
+* It is always a good idea to minimize the no. of variables.
+
+![image](https://github.com/user-attachments/assets/9c02502a-3bb7-45e7-9401-c33321cef906)
+![image](https://github.com/user-attachments/assets/852cd54f-3d82-43dd-b6e3-9986d10ca15d)
+
+* No. of terms -> odd(3,5) -> common difference(d) is **d** and start with the value of 'a'.
+* No. of terms -> even(4) -> common difference(d) is **2d** and start with the value of '(a - d)'.
+
+* 5 -> odd.
+* d = 2. [Given]
+
+![image](https://github.com/user-attachments/assets/ad564227-9e1b-4c86-ab5d-6b0a89d0ec65)
+![image](https://github.com/user-attachments/assets/3b44f6de-e324-44ce-b655-88e44127622d)
+
+* Larry = Jeff = a.
+* Sum of the ages of everyone -> 60.
+
+![image](https://github.com/user-attachments/assets/029e0953-3ee3-4dd8-b57d-163600358c9f)
+![image](https://github.com/user-attachments/assets/24db1226-dc5b-4c4e-9da1-2c90e3326a6c)
+
+* a = 10.
+
+![image](https://github.com/user-attachments/assets/67922bc6-2d5a-4791-940e-22c93534f0ae)
+![image](https://github.com/user-attachments/assets/a3a63bc2-884f-455a-9eb7-237a84c80a31)
+
+* L -> middle term.
+
+### GP
+
+![image](https://github.com/user-attachments/assets/c789537e-bbea-4032-854a-1e59bcf8e590)
+![image](https://github.com/user-attachments/assets/5972a2ca-1d1e-44de-94a8-6df4ac80576b)
+
+* Common ratio(r).
+
+![image](https://github.com/user-attachments/assets/724a0020-f676-48e9-8662-da3357f54f91)
+
+* E -> middle term.
+
+![image](https://github.com/user-attachments/assets/f710e870-0bc6-4504-8bd8-f0a64a0fa592)
+![image](https://github.com/user-attachments/assets/e381ad85-e9d5-4759-992e-bbab91065070)
+![image](https://github.com/user-attachments/assets/53c9c547-5b62-4f2b-b002-373bc43b52cc)
+
+* All '3' of them are prime nos -> M,E,S -> All of their sum is '34'.
+* All '3' of them are prime nos -> J,L,B -> All of their sum is '34'.
+* Total no. of marbles -> 60.
+* J,L,B -> Sum is '26'.
+* 60 - 34 -> 26.
+
+![image](https://github.com/user-attachments/assets/e784aa1b-e1d1-4964-8435-08cadb8de5eb)
+
+* Total sum of money -> 60.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
