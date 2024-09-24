@@ -670,7 +670,7 @@
 
 
 
-## Practice Tests
+## Practice Tests 
 
 ![image](https://github.com/user-attachments/assets/0a482ca8-7c94-45a4-b024-dda4fad9eaaa)
 
@@ -731,6 +731,87 @@
 
 * Answer -> option **D**. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 * Answer -> option **C** -> 4. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/1bb30ccb-a6ed-470f-ace9-5c0b54c3f154)
+![image](https://github.com/user-attachments/assets/9b971a6d-3ce6-4206-94a6-8fec5d49cf0b)
+![image](https://github.com/user-attachments/assets/3ec156f0-1052-477e-90cf-d0d7414ecfa7)
+
+* [Question]
+* Odd(O) + Odd(O) -> Even(E). [Formula] [**IMPORTANT**]
+* Even(E) + Even(E) -> Even(E). [Formula] [**IMPORTANT**]
+* 1st column -> 1 -> Odd no. case.
+* 2nd column -> 1/3/5.
+* 1st column -> 2 -> Even no. case.
+* 2nd column -> 2/4/6.
+
+![image](https://github.com/user-attachments/assets/457d1f14-9a28-4d42-80ca-30cc4a0b68a6)
+![image](https://github.com/user-attachments/assets/79ac8a5a-7e12-45cf-9c79-c6580e5979f6)
+
+* As 'w = 3' so 'MC' cannot have '3' then 'u = 6' is also not possible.
+* For 'w' in desert it can be '5 or 6' but 'w' in 'MC' is '3' which is an odd no. so we have to keep an odd no. for 'w' in desert which is '5'.
+* So 'u' cannot have a '5' in desert which means that 'v' cannot have a '2' in 'MC'. 'u' is left with '4' only. So, 'u = 4'.
+
+![image](https://github.com/user-attachments/assets/8a9d0413-d3a0-41c7-a6bc-a064b33a6b23)
+![image](https://github.com/user-attachments/assets/32ddc2e9-04ae-4752-9d9b-906c24edaf81)
+
+* 'x' can have '1 or 2' but 'v' already has '1' in 'MC'. So 'x = 2'.
+
+![image](https://github.com/user-attachments/assets/8bc0429b-116c-40a4-96f4-53d76de4e521)
+![image](https://github.com/user-attachments/assets/e22c298c-d183-436f-b12a-5a8ca555c4d6)
+
+* As 'x = 2' which is an even no. so 'x' in desert has to be an even no. only. So it can be '2/4/6'. '4' is already taken by 'u' in desert. If 'x = 6' then that is the best possible value in deserts then how is "x's score less than that of 'S' in desserts" is possible? from point **4**. So 'x = 6' is not possible. Then,
+* x = 2.
+
+![image](https://github.com/user-attachments/assets/d3886073-798e-46dd-9bac-457a2a69cc34)
+![image](https://github.com/user-attachments/assets/b6e7517a-feeb-493a-8f24-58b9f2e5adf1)
+
+* Possible values of 's' -> 1,3,6.
+* 'S' has to have more than 'x' in desert so 's = 1' is not possible. 's' can be either '3 or 6'.
+
+![image](https://github.com/user-attachments/assets/80fca904-424c-456f-bb77-c823aba70991)
+![image](https://github.com/user-attachments/assets/bcda3b2c-e074-4fec-a362-c88b6c03e12a)
+![image](https://github.com/user-attachments/assets/dea5155f-b2a3-44a6-8349-246c743aae55)
+![image](https://github.com/user-attachments/assets/57f84647-109c-48a0-a6cc-57149fbdfbc3)
+![image](https://github.com/user-attachments/assets/a24d67e0-0e3f-43eb-bc8c-dc2b69d3290c)
+
+* U -> 4 or 6.
+* 'u' cannot have '4' because if we keep 'u = 4' then we are left with '5 or 6' for 's and t'.
+* In both the cases 's' will have a higher score than 'u'. This is going to violate the condition of point **5**. 'u = 4' is not possible. So,
+* u = 6.
+
+![image](https://github.com/user-attachments/assets/d457ab52-6527-458d-8687-8f66b5f0a825)
+
+* We have '2' possibilities for 't and v' when it comes to '1 and 3'.
+
+![image](https://github.com/user-attachments/assets/33c7f264-4e05-43cd-b56c-5596338164ff)
+![image](https://github.com/user-attachments/assets/bef3db18-e604-4232-bc46-43bf83e2df37)
+
+* '6' is not possible for 'u' in starters.
+* 'u = 5' in starters.
+* For 'x' -> E + E + O -> O.
+
+![image](https://github.com/user-attachments/assets/316e6e55-2dd3-4308-bc64-4c4baac555a0)
+![image](https://github.com/user-attachments/assets/3e7e8267-114d-4fdd-b7b9-0678330869da)
+
+* 't' cannot be '1'. 't' has to be '3'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
