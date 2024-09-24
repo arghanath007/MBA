@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5e53bb14-28f4-40a5-997b-727b1a446994)# LRDI practice
+# LRDI practice
 
 ## IMPORTANT
 
@@ -645,10 +645,12 @@
 
 * Answer -> option **A**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+## Alphanumeric Puzzles(4)
 
+![image](https://github.com/user-attachments/assets/7ae60e9e-bdcd-4ef9-8339-776e2974d415)
+![image](https://github.com/user-attachments/assets/07102eda-1514-431a-92f5-ab388c727970)
 
-
-
+* [Question]
 
 
 
@@ -1140,3 +1142,7 @@
 
 
 
+
+## Misc
+
+![image](https://github.com/user-attachments/assets/5e53bb14-28f4-40a5-997b-727b1a446994)
