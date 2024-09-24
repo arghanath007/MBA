@@ -643,7 +643,7 @@
 
 ![image](https://github.com/user-attachments/assets/1b662e7d-6b09-4e8d-8066-1d774f61fbe1)
 
-* Answer option **A**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **A**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
 
 
@@ -659,6 +659,78 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Practice Tests
+
+![image](https://github.com/user-attachments/assets/0a482ca8-7c94-45a4-b024-dda4fad9eaaa)
+
+* [Question]
+* Have chutney -> 3
+* Not having chutney -> 3
+* Total -> '2' are odds and '4' are even.
+* '2' odds -> Not having chutney.
+* '3' Not having chutney -> '2' odds and '1' even in total.
+
+![image](https://github.com/user-attachments/assets/df840a9f-190d-4ba3-8be3-359f1e9c3368)
+
+* If we take '2' for ankur in vada then we have to take '4' for sajal in samosa but that is not possible because '4' is already taken by ankur in samosa. This is **not possible**.
+*  We take '0' for ankur in vada and '2' for sajal in samosa. This is the **only possibility**.
+
+![image](https://github.com/user-attachments/assets/42b8c24d-9143-4c44-9a5d-2c11434c30fc)
+![image](https://github.com/user-attachments/assets/764a0ddf-9313-4abb-8147-8391945a0258)
+
+* We have found '1' even no. not having chutney, so the rest even no. are having chutney.
+* If someone eats '1' vada then pawan will eat '2' samosa. This is not possible because '2' is already taken in samosa. 
+* If someone eats '2' vada then pawan will eat '4' samosa. This is not possible because '4' is already taken in samosa. 
+* If someone eats '3' vada then pawan will eat '6' samosa. This is possible because '6' is not taken in samosa. 
+
+![image](https://github.com/user-attachments/assets/0a058a52-9989-48d4-a789-5819c2571a1a)
+
+* We don't know who is having '3' vada but we know that pawan is having '6' samosas.
+
+![image](https://github.com/user-attachments/assets/8d0f0074-ed74-49af-9d9e-c82b7a60e7b0)
+
+* We know that with '5' samosa, '3' vada is going to go.
+* 5 + 3 -> 8.
+* We are left with '3' samosa and it can go with either '2 or 3'.
+* We also need '2' odd numbers.
+* Pawan cannot have '3' vada then it will be '6 + 3 -> 9' which is the max but rishi wants the maximum.
+* Pawan cannot have '2' vada as well then it will be '6 + 2 -> 8' which is equal to the max i.e '8' but rishi wants the maximum. We cannot have '2' maximums. 
+* Pawan can have '1' vada then it will be '6 + 1 -> 7'. This is **odd** as well. So **no chutney** for pawan. [2nd odd no.]
+ 
+![image](https://github.com/user-attachments/assets/b387897e-2f45-4c5e-9f6a-6a1e60c5ee82)
+![image](https://github.com/user-attachments/assets/f1746093-ad3d-4539-8c1f-79fab9182da6)
+![image](https://github.com/user-attachments/assets/6bdc1b36-45ff-4454-b98d-4dc90d1ce61b)
+
+* Rishi -> max -> 5 + 3 -> 8.
+* Different between vada and samosa, who eat chuutney:-
+* Sajal -> 4 - 2 -> 2.
+* Ankur -> 4 - 0 -> 4.
+* Rishi -> 5 - 3 -> 2.
+
+![image](https://github.com/user-attachments/assets/4cff51a3-363e-4db0-aacb-ee37a1afdae1)
+
+* Answer -> option **A** -> 8. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **C** -> 4. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **B**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+* Rishi & Om -> 8 + 6 -> 14.
+* Om & ankur -> 6 + 4 -> 10.
+* Pawan & Sajal -> 7 + 6 -> 13.
+* Rishi & Pawan -> 8 + 7 -> 15.
+
+* Answer -> option **D**. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **C** -> 4. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
 
 
