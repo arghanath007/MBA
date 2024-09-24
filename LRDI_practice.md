@@ -918,25 +918,59 @@
 ![image](https://github.com/user-attachments/assets/88f8fa46-fe25-463f-9c76-c48ce279c2dd)
 
 * 'w and u' -> appear on alternate months.
+* 'w' has to come in the month of april as there are no dates/months left.
+* If 'u' is in april then 'w' cannot come in april as there are no dates/months left. So, 'u' cannot be in april.
+* u -> 30th of june.
+* w -> april.
+* v -> april.
 
+![image](https://github.com/user-attachments/assets/e8eb4b9a-9c36-4020-879f-7cbc4aeba659)
+![image](https://github.com/user-attachments/assets/90b4d2ed-5524-435a-bb75-f21227091a4c)
+![image](https://github.com/user-attachments/assets/748c6890-23cd-4563-a961-e7903e884cbc)
+![image](https://github.com/user-attachments/assets/3dcd7989-dc8f-474f-9927-888b92b02c2a)
 
+* t -> 71.
+* v -> 4 + t -> 4 + 71 -> 75
+* v -> 75.
+* total of april -> 125.
+* w -> 29th of april -> 125 - 75 -> 50.
 
+![image](https://github.com/user-attachments/assets/6dbc6c70-08f3-4e5b-addd-aa5113a67be6)
+![image](https://github.com/user-attachments/assets/84ac729f-c00f-4e3f-abb8-ae38cd8011f1)
 
+* R -> 31 days in dec -> should be a prime number.
+* 'r' is between '71 to 79'.
+* '73' is the only prime number between '71 to 79'.
+* r -> 73.
 
+![image](https://github.com/user-attachments/assets/68696241-02b8-4ee7-94c6-b36de30b66b7)
 
+* 's' is between 't and r' which is between '71 to 73'.
+* s -> 72.
+* 67 -> prime number.
+* Q -> 31 days in dec -> should be a prime number -> 67.
+* u -> 60.
 
+![image](https://github.com/user-attachments/assets/cad47ab9-dd22-460f-9643-c3db6db95fdd)
+![image](https://github.com/user-attachments/assets/4e327820-a5d0-4075-bbe7-fcebe9b18029)
+![image](https://github.com/user-attachments/assets/2fdbdf72-846d-4677-b1a7-17f1afaee2fc)
+![image](https://github.com/user-attachments/assets/d97ad1af-080e-4e12-a920-452ad37e8712)
 
+* w,y,r,s ->
+* w,y,s -> non-prime nos
+* r -> prime no -> odd one out.
+* x -> 66
+* After 'x' -> y,q,r -> 70,67,73 -> '3' people marks > x i.e > 66.
 
+![image](https://github.com/user-attachments/assets/b99564d8-01a0-4957-9c3b-a20f7cb7d075)
+![image](https://github.com/user-attachments/assets/be15c8f7-d1bd-4c5c-a68a-97860744b904)
+![image](https://github.com/user-attachments/assets/ed3a43b4-e7ec-4aaf-b7b1-01306eacc0c3)
 
-
-
-
-
-
-
-
-
-
+* Answer -> S. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 75. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> R -> option **3**. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 3. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] [Doubt]
+* Answer -> 70. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
 
 
 
