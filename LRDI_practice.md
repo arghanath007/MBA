@@ -677,23 +677,43 @@
 * case **1** -> x = 10.
 * case **2** -> x = 9.
 
+![image](https://github.com/user-attachments/assets/35f109bc-0973-4574-a45c-631d69cc744f)
+![image](https://github.com/user-attachments/assets/0eace066-66bf-4677-9553-c7e2cf50074a)
+![image](https://github.com/user-attachments/assets/6002c29e-c890-46b9-a4e1-a37c61f3378c)
 
+* That case not possible.
 
+![image](https://github.com/user-attachments/assets/9a4eea66-e691-409c-97e1-396464e84eb0)
+![image](https://github.com/user-attachments/assets/2aeae823-3277-496f-b01f-f73a31aca980)
 
+* Answer -> option **3** -> 6. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **2**. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/700c9be1-c37d-4003-8a1a-717b2cbb18ce)
+![image](https://github.com/user-attachments/assets/45075112-b679-4a59-95e7-940106dcbe22)
 
+* [Question]
+* 1 and 3 -> It was there that's why it came out.
 
+![image](https://github.com/user-attachments/assets/6185ffce-5a9f-4914-98cb-b15174f1bf18)
+![image](https://github.com/user-attachments/assets/c108ad22-36bb-45d7-9fb8-e430e4a653be)
+![image](https://github.com/user-attachments/assets/efb602cc-8949-4a40-8598-549505b678b4)
 
+* For every switch we are getting '2' drinks. So, in every row there should be '2' right and in every column there should be '2' right.
+* In 1st row we have '3' crosses and '1' correct, so the left row 'lemon tea' should be correct as well.
 
+![image](https://github.com/user-attachments/assets/c522121e-697d-45dd-b485-e4a1e421b830)
+![image](https://github.com/user-attachments/assets/aa29e9c2-14e8-4abf-ade9-9d093a92bd95)
+![image](https://github.com/user-attachments/assets/ebd14e48-e212-48d6-9194-5a8f0c2a485a)
+![image](https://github.com/user-attachments/assets/89ec69a8-999c-4c09-a73b-c426c29f9e17)
+![image](https://github.com/user-attachments/assets/aea38ca0-fc82-4d07-99ee-310f90174e62)
 
+* [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/9107d2cd-15a2-4cea-8631-ae5db343d1df)
 
-
-
-
-
-
-
+* [Question]
+* Start from 1hr 11mins.
 
 
 
