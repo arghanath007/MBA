@@ -851,17 +851,34 @@
 * Slots -> 5months * 2dates -> 10.
 * Q and R -> same month exam.
 * Pri -> Prime nos.
+* '3' people between 'u and v'.
 
+![image](https://github.com/user-attachments/assets/1f0ccb56-29dc-4e00-80f5-5b14d31b90e1)
 
+* '4' people between 'p and q'.
+* '3' people between 'r and s'.
+* T and S -> consecutive months.
 
+![image](https://github.com/user-attachments/assets/d9bf53af-2664-4bf5-8590-b0abd27f9d60)
+![image](https://github.com/user-attachments/assets/cbe0641e-cd78-4111-a73f-0bc7cc0f1559)
 
+* April sum/total -> 125.
+* Curly brackets -> One of them/either of the values.
+* Square brackets -> sum/total.
+* p -> x -> y.
+* 'y' is appearing after 'x'.
 
+![image](https://github.com/user-attachments/assets/5476ab9e-9435-4ad9-a2b6-1bd675f60ca2)
+![image](https://github.com/user-attachments/assets/aa66d3e8-c8f8-4e1a-90f2-fe2ec387685c)
 
+* p = 79 -> pri -> prime number.
+* If we put 'p' on 28th of dec or 29th of dec then we cannot put 'x and y' which come after 'p'. We cannot put 'p' there.
+* 'p' will be on 28th of may or 29th of may.
 
+![image](https://github.com/user-attachments/assets/d2efaa32-3df8-4c7e-836d-2dba93f71014)
+![image](https://github.com/user-attachments/assets/4d75f20a-ac01-4b57-a972-0636d2e2b025)
 
-
-
-
+* Q and R gave exam on consecutive days -> they have to be on the same month.
 
 
 
