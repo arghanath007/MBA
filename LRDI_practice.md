@@ -844,6 +844,35 @@
 * Answer -> True. [4.2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 * Answer -> option **3**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/2aef8b32-89d3-4f54-98ce-0416aa21d2c1)
+![image](https://github.com/user-attachments/assets/e0518834-ce3c-4692-946d-fc24fcc2337b)
+
+* [Question]
+* Slots -> 5months * 2dates -> 10.
+* Q and R -> same month exam.
+* Pri -> Prime nos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
