@@ -1,4 +1,4 @@
-# LRDI practice
+![image](https://github.com/user-attachments/assets/5e53bb14-28f4-40a5-997b-727b1a446994)# LRDI practice
 
 ## IMPORTANT
 
@@ -879,6 +879,50 @@
 ![image](https://github.com/user-attachments/assets/4d75f20a-ac01-4b57-a972-0636d2e2b025)
 
 * Q and R gave exam on consecutive days -> they have to be on the same month.
+
+![image](https://github.com/user-attachments/assets/10a132e5-0fbc-4105-9366-9dd3065196d3)
+![image](https://github.com/user-attachments/assets/5da3bc50-67bd-4430-9abf-fb8a9d4b6c69)
+
+* From 30th of nov where 'R' is, if we got '3' places up to place 's', there is already 'p' present, so this case is not possible.
+
+![image](https://github.com/user-attachments/assets/6476e473-3da4-4fe0-bc34-61db92e8ab27)
+![image](https://github.com/user-attachments/assets/34d0b4d7-5324-45a6-b765-e2ace65ec760)
+![image](https://github.com/user-attachments/assets/5e6a5a7c-31ca-4fed-9ec2-437a080b835d)
+
+* p = 79. [Given]
+* t = 71.
+
+![image](https://github.com/user-attachments/assets/4a8e96db-8925-4a75-a339-107467ad91f9)
+![image](https://github.com/user-attachments/assets/6e533092-ccf9-4d1e-824d-a42993a53aa1)
+
+* This 'u and v' position is not possible.
+
+![image](https://github.com/user-attachments/assets/abff4e46-4999-420d-9b59-99b9a488261d)
+
+* This 'u and v' position is not possible.
+
+![image](https://github.com/user-attachments/assets/1016d196-f236-432f-aa87-844e85674608)
+![image](https://github.com/user-attachments/assets/e5b7d6dc-9130-441d-9a62-009a889fe53e)
+
+* This is the only possibility for 'u and v' position/place.
+
+![image](https://github.com/user-attachments/assets/3f9c6f1c-1597-40d2-8627-62bc3d86d006)
+
+* Below 'p' there is only '2' vacant slots. We need to place 'x and y' after 'p'. We will use those '2' slots to do so.
+
+![image](https://github.com/user-attachments/assets/624e1c76-7dad-4f8f-a4a3-29d52586d773)
+
+* x -> 66 -> even.
+* y -> 70.
+
+![image](https://github.com/user-attachments/assets/88f8fa46-fe25-463f-9c76-c48ce279c2dd)
+
+* 'w and u' -> appear on alternate months.
+
+
+
+
+
 
 
 
