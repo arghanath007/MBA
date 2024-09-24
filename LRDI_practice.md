@@ -792,28 +792,57 @@
 
 ![image](https://github.com/user-attachments/assets/316e6e55-2dd3-4308-bc64-4c4baac555a0)
 ![image](https://github.com/user-attachments/assets/3e7e8267-114d-4fdd-b7b9-0678330869da)
+![image](https://github.com/user-attachments/assets/e0059ca4-2d97-4109-8919-0154532383a4)
 
-* 't' cannot be '1'. 't' has to be '3'.
+* 't' cannot be '1'. 't' has to be '3' in desert.
+* 'v' has to be '1' in desert.
 
+![image](https://github.com/user-attachments/assets/3be9c3ef-90d4-4379-accc-ea20798b6ada)
+![image](https://github.com/user-attachments/assets/1eb2baf1-b48b-4107-8e81-d0c921c3e387)
+![image](https://github.com/user-attachments/assets/8b1954f8-e2ab-486e-90ab-678f5df6b7e9)
+![image](https://github.com/user-attachments/assets/be2d14b7-ed72-4f18-96d1-f858ab05a332)
 
+* V -> 1 + 1 + 3 -> 5
+* x -> 2 + 2  + 1 -> 5.
+* Overall score of everyone should be **distinct** but we are gettinng '2' 5s. So this is not possible.
 
+![image](https://github.com/user-attachments/assets/5a16c01c-db6e-423c-bbaa-1af3ff74ad0a)
+![image](https://github.com/user-attachments/assets/228d3878-0df1-46b4-b535-752c5b479b2b)
 
+* Possible combinations.
+* '1' combination -> Highlighted by Yellow.
+* '2nd' combination -> Highlighted by Green.
 
+![image](https://github.com/user-attachments/assets/15f15aa8-3d11-427e-ad99-e922996a5456)
 
+* S -> Yellow -> 6 + 4 -> 10.
+* S -> Green -> 3 + 5 -> 8.
+* U -> 4 + 6 -> 10.
+* Not always.
 
+![image](https://github.com/user-attachments/assets/dee1f852-1427-43ef-b538-f8a14d53a907)
 
+* can be True -> Possibility.  [Formula] [**IMPORTANT**]
+* is/are False -> 100% guranteed.  [Formula] [**IMPORTANT**]
+* T -> Green -> 6 * 2 + 4 -> 16.
 
+![image](https://github.com/user-attachments/assets/9e22e5ed-6396-4b0b-a4e4-ee68370051b8)
 
+* option **3** -> 'u' is always the highest?
+* It is always True?
 
+> **No**. 'u' has a fixed score of '15'. With green 'T' is the highest and with yellow 'S' is the highest. 
 
+![image](https://github.com/user-attachments/assets/96a9773f-644d-45f0-b97d-1368f4070c57)
+![image](https://github.com/user-attachments/assets/58ca2c6d-5860-4a51-aeb0-0a1353bc17a5)
 
-
-
-
-
-
-
-
+* Answer -> 15. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> 18. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> True. [3.1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> False. [3.2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> True. [4.1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> True. [4.2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **3**. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
 
 
