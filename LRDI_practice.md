@@ -767,10 +767,11 @@
 * Answer -> option **b** -> 7. [11] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 * Answer -> option **b** -> 2. [12] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
 
+## Alphanumeric Puzzles(5)
 
+![image](https://github.com/user-attachments/assets/223eb3c4-7f0e-416b-979f-e10eb8642ae8)
 
-
-
+* [Question]
 
 
 
