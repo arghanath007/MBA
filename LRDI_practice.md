@@ -713,7 +713,63 @@
 ![image](https://github.com/user-attachments/assets/9107d2cd-15a2-4cea-8631-ae5db343d1df)
 
 * [Question]
-* Start from 1hr 11mins.
+* Sahil is saving doubts that the answer is in it's 30s.
+
+![image](https://github.com/user-attachments/assets/f9ac9794-ac3f-41fd-b371-9ddc9a309401)
+![image](https://github.com/user-attachments/assets/07bfd6dc-39f3-4089-a261-8ae8d6984435)
+
+* We are asking the last statement means that we are left with '2' nos and one of them is in 30s and the other is not in 30s. 
+
+![image](https://github.com/user-attachments/assets/d1a43d63-43d9-4fef-88cb-2a04af20f493)
+![image](https://github.com/user-attachments/assets/024b474b-d7ad-4ea5-acbf-afd784dd4a07)
+
+* Girl's response -> no, yes, yes.
+* Is multiple of '4'(4k) -> girl's response of 'No' is incorrect because none of the nos. are in 30s.
+
+![image](https://github.com/user-attachments/assets/9792babb-331f-4bb5-bc49-18f8fcaf137d)
+![image](https://github.com/user-attachments/assets/e4363f03-f3e7-4943-bcd6-3d5c3ef979de)
+
+* In **exam**, check using the **options**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c7de8a53-8f90-4923-8935-8a9f1169fba7)
+
+* Answer -> option **c**. [10] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/242beca7-cb9d-418e-a907-89f2537b02a8)
+![image](https://github.com/user-attachments/assets/b76125bd-3b9f-49c7-bd28-dfe189bc1f98)
+
+* Greater than 50, not a multiple of '4' -> 81.
+* Answer -> option **c**. [9] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/a9e3a3f3-2ef6-418e-bba2-93210a691efb)
+
+* [Question]
+* For any team:-
+* Win(w), Loss(l), matches missed(m)
+* w -> x.
+* l -> y.
+* m -> y.
+* This is true for bhopal also because bhopal sat out the first game and lost their last game.
+* For bhopal -> no. of matches lost = no. of matches missed -> l = m = y.
+
+![image](https://github.com/user-attachments/assets/68028709-6189-40c7-ae1f-09ba0d80e0ed)
+![image](https://github.com/user-attachments/assets/b4ebf9ba-b592-4496-b221-d2f6d2032d8b)
+![image](https://github.com/user-attachments/assets/4ad27b2e-c7c0-4ef7-b0f6-490af5990302)
+![image](https://github.com/user-attachments/assets/3557f81f-00c4-47a1-aa08-eb3d5220cbce)
+
+*  Sum of all of the wins from all the teams -> 11.
+*  Tournament has '11' matches -> '11' matches won.
+* no. of matches won by each of the teams -> 1,3,7 -> 1 + 3 + 7 -> 11.
+* 1 + 5 + 5 -> 11.
+* 3 + 4 + 4 -> 11.
+* 7  + 2 + 2 -> 11.
+
+* Answer -> option **b** -> 7. [11] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **b** -> 2. [12] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+
+
+
 
 
 
