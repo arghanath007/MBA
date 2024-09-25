@@ -137,25 +137,55 @@
 
 ## VARC practice(Rodha)
 
+![image](https://github.com/user-attachments/assets/908bfb39-5fc7-4eb3-a8f5-f90719626de4)
+![image](https://github.com/user-attachments/assets/f0a3edcb-dbf5-40b2-9927-669946598f17)
 
+* Odd-one out sentence. [Question]
+* Answer -> 4. [Answer] [Solution] [VERY IMPORTANT] [Practice]
+* 4 -> individual decision making -> problamatic word.
 
+![image](https://github.com/user-attachments/assets/417e5f9b-d26e-4197-9fcf-117c9cfd0df2)
+![image](https://github.com/user-attachments/assets/2845ebe6-36ff-4713-9970-b03cbc152e0e)
 
+* Separate '4th' from the rest of the statements.
 
+![image](https://github.com/user-attachments/assets/369f31ae-dcb7-439d-8e7b-849563f66e3d)
+![image](https://github.com/user-attachments/assets/cce0fc1e-366d-4a0b-b9be-80cfc1ec6665)
 
+* Para-Jumble(PJ). [Question]
 
+![image](https://github.com/user-attachments/assets/9d46c1ac-2322-410e-91fb-280a6c1a15a2)
 
+* Answer -> AECBD. [Answer] [Solution] [VERY IMPORTANT] [Practice]
+* 'a' -> used for **genetic** statements. [Formula] [VERY IMPORTANT]
+* 'the' -> used for **specific** statements. [Formula] [VERY IMPORTANT]  
 
+![image](https://github.com/user-attachments/assets/e82632d2-6589-4bb0-99a9-a65dcd106301)
 
+* Para-Jumble(PJ). [Question]
 
+![image](https://github.com/user-attachments/assets/29c8d7b1-fcde-4bde-9a9c-bafe1e415e44)
+![image](https://github.com/user-attachments/assets/29b0f680-382c-4dc6-a60c-73e63601d337)
+![image](https://github.com/user-attachments/assets/0bc4dcbd-ffcd-4b50-b256-1aea1312ba27)
 
+* unexceptionable -> final/definitive. [Meaning]
+* multiplication -> multiple/many. [Meaning]
+* Answer -> ACBED. [Answer] [Solution] [VERY IMPORTANT] [Practice]
 
+![image](https://github.com/user-attachments/assets/8cc8bf52-863c-4a04-875a-c84bec19d93a)
 
+* Para-Summary(PS). [Question]
 
+![image](https://github.com/user-attachments/assets/99916bd3-0c64-4ff0-b8ed-4e4c21e6c21f)
+![image](https://github.com/user-attachments/assets/1d22d77d-f961-4826-8825-cef7fd0b4a52)
 
+* Answer -> option **c**. [Answer] [Solution] [VERY IMPORTANT] [Practice]
+* essence -> main idea.
+* perfect -> no room for error -> extreme/problemetic wordds.
 
+![image](https://github.com/user-attachments/assets/cb676132-4fb1-421f-9886-f20b431b76af)
 
-
-
+* Para-Jumble(PJ). [Question]
 
 
 
