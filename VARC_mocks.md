@@ -185,7 +185,66 @@
 
 ![image](https://github.com/user-attachments/assets/cb676132-4fb1-421f-9886-f20b431b76af)
 
-* Para-Jumble(PJ). [Question]
+* Odd-one out sentence. [Question]
+
+![image](https://github.com/user-attachments/assets/a62b44e3-0392-424d-8199-7c60807d9e00)
+
+* Answer -> option **2**. [Answer] [Solution] [VERY IMPORTANT] [Practice]
+
+![image](https://github.com/user-attachments/assets/69eac46d-43a1-41f5-a56f-cfe9eb2617f6)
+![image](https://github.com/user-attachments/assets/84b00f98-9837-44cd-9c34-9cea1d898b17)
+![image](https://github.com/user-attachments/assets/946c1ac1-3618-49b8-8d86-71c3c9575821)
+
+* Passage -> Book.
+* option **2** -> map.
+* the work -> specific work.
+
+![image](https://github.com/user-attachments/assets/ac89cca2-1cf8-427e-9556-2af1ba9417bc)
+
+* RC. [Question]
+
+![image](https://github.com/user-attachments/assets/99fd496e-ebde-4157-99ef-7d17664c37a9)
+![image](https://github.com/user-attachments/assets/5bf72154-cd1a-4835-b510-8c3b655df579)
+
+* 1 -> B. [VERY IMPORTANT] [Question] [Practice Again]
+* contemplative -> deeply or seriously thoughtful. [Meaning]
+* delirious -> experiencing delirium -> marked by uncontrolled excitement or emotion -> out of one's mind. [Meaning]
+* delirious -> extreme word.
+
+![image](https://github.com/user-attachments/assets/5d588110-0ac8-414a-a361-04211bc92257)
+![image](https://github.com/user-attachments/assets/b84b9b5f-e198-48ca-b1a7-93c0f1a8d93a)
+
+* Logic or evidence based.
+
+![image](https://github.com/user-attachments/assets/a04d2341-67d2-4453-865a-5198936b095d)
+
+* 2 -> D. [VERY IMPORTANT] [Question] [Practice Again]
+* novel -> 'nova' meaning new -> new idea -> fictional story. [VERY IMPORTANT] [Formula]
+* newspaper -> generally written in report style, third-person narrative -> generally reports **facts**. [VERY IMPORTANT] [Formula]
+* A book on economics -> alot of them are fictional books which is a different thing. [VERY IMPORTANT] [Formula]
+* A travelogue -> People writing about their travelling stories/journeys. [VERY IMPORTANT] [Formula]
+
+![image](https://github.com/user-attachments/assets/bc9bf890-4a79-4c4d-8bd5-739544ee960e)
+
+* Contemplative/contemplation -> deep thoughts. [Meaning]
+
+![image](https://github.com/user-attachments/assets/3d4120e1-b29c-4c92-9bea-d6c3f5d3cf28)
+
+* could -> most likely based on logic and evidence -> the best answer -> not the possible answer. [VERY IMPORTANT] [Formula]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
