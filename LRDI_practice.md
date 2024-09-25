@@ -773,6 +773,146 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/58eaf8cc-b0c0-4837-bbe0-7dbc18d98aeb)
+
+* There are only '2' possibilities where it will be either '1,1,1' or '2,1,0'.
+* '1,1,1' -> '3' teams have won once(1) each.
+* '2,1,0' -> '1' team wins twice(2), '1' team wins once(1), '1' team wins none(0).
+* Hockey score -> No. of goals.
+* '1,1,1' -> This is not a option because the highest total score is done by the team who has lost the most but in '1,1,1' nobody has lost the most, everyone has won only once(1).
+
+![image](https://github.com/user-attachments/assets/bf6b17e0-0b28-4d55-a7e3-3efcbc66e66c)
+![image](https://github.com/user-attachments/assets/76d0b352-9aa7-4a4f-a90b-5232381f54a9)
+![image](https://github.com/user-attachments/assets/93005c89-743b-42f4-a340-d92698b505b9)
+![image](https://github.com/user-attachments/assets/a4ab3668-647a-41e9-a30b-60fd50171cd1)
+
+* Answer -> option **b** -> 2. [2] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **c**. [1] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/bad7675a-9e67-4111-a728-0f804b7a7d23)
+![image](https://github.com/user-attachments/assets/0f2ed676-1a31-4032-8b99-c485fd8706fa)
+![image](https://github.com/user-attachments/assets/b43dc84d-8912-4c7f-8bc8-1bdc952d7a4b)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/597ead5c-6850-4eb3-a849-b2a80c88944c)
+![image](https://github.com/user-attachments/assets/a15582a6-6b0d-4e92-8bf1-acd3b8e88642)
+
+* We can swap between 'A and S' who will be carrying back the torch and get the same time.
+* Answer -> option **2** -> 20mins. [3] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **3**. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+* Answer -> option **2** -> 2. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/d69e3f6e-eb58-4f3b-bcc0-add7d4ec986a)
+
+* Same above question but with '5' people. [Question]
+
+![image](https://github.com/user-attachments/assets/c296f278-32d2-4a08-97f6-e6e6985997f5)
+![image](https://github.com/user-attachments/assets/86ed3728-88cf-495b-8e5d-c3bfbd942da0)
+
+* Answer -> 30mins. [Answer] [Solution] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/317c11b9-ac45-4760-9f1d-65ce0a9cd012)
+
+* '6' people.
+
+![image](https://github.com/user-attachments/assets/8ad216ff-25d3-4970-b4e4-0ebe6003f836)
+![image](https://github.com/user-attachments/assets/b976df0a-d187-4111-8c74-9249599b296d)
+
+* '4' combinations.
+
+![image](https://github.com/user-attachments/assets/955cff43-4f2f-48ae-aead-f2f12c831cb8)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/547c79a9-a9b9-4c10-8aff-bb42d4f42170)
+
+* We have to minimize the total.
+
+![image](https://github.com/user-attachments/assets/973559f4-0fdc-4ef0-9645-30afdf35606f)
+![image](https://github.com/user-attachments/assets/153a30e1-caf4-4802-a2ba-7dd1c56b5ba5)
+![image](https://github.com/user-attachments/assets/76cf18b2-9492-4530-be13-80000ee359ac)
+
+* Total -> a + b + c -> union/sum. [Formula] [**VERY IMPORTANT**]
+* Exactly one(1) -> a -> counted once(1). [Formula] [**VERY IMPORTANT**]
+* Exactly two(2) -> b -> counted twice(2). [Formula] [**VERY IMPORTANT**]
+* Exactly three(3) -> c -> counted thrice(3). [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5cc5bb73-2d9d-4980-8b08-319c46c32c8f)
+
+* c = 0.
+* We have to make minimum -> a + b + c. 
+* We have to make minimum -> a + b. [c = 0] 
+
+![image](https://github.com/user-attachments/assets/7fbcab68-eebb-4d40-a057-0a05cdc69881)
+![image](https://github.com/user-attachments/assets/4474a831-ea90-4db2-bac4-a573c125b87e)
+![image](https://github.com/user-attachments/assets/2cbe1c55-41a7-49da-bda6-574bb7a4484c)
+![image](https://github.com/user-attachments/assets/5f521f54-a15f-4254-9110-6bde223cb6ec)
+
+* a = 1, b = 167.
+* 1 + 167 -> 168.
+
+![image](https://github.com/user-attachments/assets/f7b8d222-54e7-4e44-a3bb-a58aea6b1316)
+
+* a = 1, b = 212.
+* 1 + 212 -> 213.
+
+![image](https://github.com/user-attachments/assets/a51db5cc-fcb8-4f9d-a9d4-d014837f5993)
+
+* a = 1, b = 137.
+* 1 + 137 -> 138.
+
+![image](https://github.com/user-attachments/assets/b1a8eb65-645b-423d-ae83-493ddd911959)
+
+* a = 1, b = 82.
+* 1 + 82 -> 83.
+
+![image](https://github.com/user-attachments/assets/60289899-15d7-4ac1-9318-9840a9ff0d7e)
+
+* Total -> 168 + 213 + 138 + 83 -> 602.
+* These are the min. values in each group -> 168 + 213 + 138 + 83 
+* Should be take '602 or 600'?
+
+> We taking '602'.
+
+![image](https://github.com/user-attachments/assets/c50a589b-f733-4b38-8c21-188760c8a7e5)
+
+* If the addition total was '598' then we would have taken the '600' as the **answer**. [Concept] [Logic]
+
+![image](https://github.com/user-attachments/assets/9cca4ab6-bcf2-45bf-b940-23c8f12c9708)
+
+* U -> Union.
+* Acting U Dancing -> 160 U 75 -> worst case scenario -> 75 -> can't be more than '75'.
+* 120 U 105 -> worst case scenario -> 105 -> can't be more than '105'.
+* 60 U 90 -> worst case scenario -> 60 -> can't be more than '60'.
+* 60 U 30 -> worst case scenario -> 30 -> can't be more than '30'.
+* 75 + 105 + 60 + 30 -> 270.
+
+![image](https://github.com/user-attachments/assets/46649459-af55-4cee-9f78-be24fc8c1416)
+
+* 160 - 75 -> 85.
+* 85/160 * 100 -> 53.125%
+
+![image](https://github.com/user-attachments/assets/8a197ea6-d51e-430f-9fae-a56c2420054f)
+
+* Option **D** -> CBD.
+
+![image](https://github.com/user-attachments/assets/560ccf5f-d578-434a-b4ac-5dcd7c4a4d5a)
+![image](https://github.com/user-attachments/assets/698da44a-9a6e-4622-bc30-4e0f1bda7d90)
+![image](https://github.com/user-attachments/assets/0ea8b2d8-d262-442e-bd8f-ea2e466a805f)
+
+* [Question]
+* For next class.
+
+
+
+
+
+
+
+
+
+
 
 
 
