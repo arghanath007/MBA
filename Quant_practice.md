@@ -1350,17 +1350,44 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/965e6edc-8f8e-4b3a-8aa7-55258589eaf9)
 
+* Some combination of addition or substraction of 'a and b' will give us 'x + 1'. [Logic] [Concept] [Formula]
+* a + b -> Not coming.
+* |a - b| -> |b - a| -> They will remain the **same**.
 
+![image](https://github.com/user-attachments/assets/7f20ae39-6e5f-4502-8406-81032e4ae8a4)
 
+* When will it be **True**.
+* Always check for '0,2 and 3'.
+* Working for '0'.
+* Now check for '2 and 3'.
+* a = 2, b = 3.
 
+![image](https://github.com/user-attachments/assets/f8f442ad-ecbc-49eb-ba30-9a47e202b117)
 
+* |b| -> |-3| -> 3.
+* |a| -> |2| -> 2.
+* |a + b| -> |2 - (-3)| -> |2 + 3| -> 5.
+* |a| + |b| -> 2 + 3 -> 5.
+* |a| + |b| = |a + b| -> 5 = 5.
+* The expression, |a| + |b| = |a + b|, is **True** when one of the values is positive and one of the values is negative.  [Logic] [Concept] [Formula]
 
+![image](https://github.com/user-attachments/assets/dae825cc-2565-486f-83f7-5d6755535fc4)
 
+* a * b <= 0.  [Logic] [Concept] [Formula]
+* It will always be **True**.
 
+![image](https://github.com/user-attachments/assets/2e55b6e9-26e5-47fe-9642-8daf6a876752)
 
+* x <= 0.
+* We want negative values.
+* Both '-4 and -3' are included because we have 'less than equal to(<=)' and there is no problems/issues with **denominator**. All are in **numerator**.
 
+![image](https://github.com/user-attachments/assets/91b04dfd-4321-41a1-b003-da8da9361340)
+![image](https://github.com/user-attachments/assets/9b902e30-e10e-4507-8a3b-7abd21575d31)
 
+* No. of positive integers -> '1 and 2' -> '2' integers. [Answer] [Solution] [**VERY IMPORTANT**]
 
 
 
