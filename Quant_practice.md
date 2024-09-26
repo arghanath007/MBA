@@ -1249,6 +1249,119 @@
 ![image](https://github.com/user-attachments/assets/61dffd6f-b092-49c8-a329-4999cbecefa0)
 ![image](https://github.com/user-attachments/assets/f7f8533b-0b4b-4017-a72c-25d876dc9d7d)
 
+## Algebra(3)
+
+![image](https://github.com/user-attachments/assets/fe24327e-dc46-4c98-b2f7-3b98a2a2b8a5)
+![image](https://github.com/user-attachments/assets/5f13a0ab-b93b-49dd-9e6a-686de5ebf951)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/e6a2a585-3fcf-45ff-9e01-f203bd9e7993)
+
+* **HINTS** for 'AM and GM':-  [Logic] [Concept] [Formula]
+
+1) We have to find max/min in the questions.
+2) The variable in the question is a positive real number.
+3) Sum/product -> Enough to apply 'AM and GM'.
+* AM -> Sum
+* Min -> some kind of constant value/number.
+* In 'GM' we are trying so that no variable exists -> 'x' gets cancelled while multiplication. [Logic] [Concept] [Formula]
+* Upper part has 'x^3' and the lower part has 'x'. We need to make the lower part have 'x^3' as well. [Logic] [Concept] [Formula]
+* x^3/ x^3 = 1.
+
+![image](https://github.com/user-attachments/assets/cf988bc5-323d-4492-bd5f-6c2f31515355)
+
+* a,b,c,d -> positive real numbers.
+* AM >= GM.
+
+![image](https://github.com/user-attachments/assets/3597b48a-0544-4791-8807-b50d9a190b94)
+![image](https://github.com/user-attachments/assets/9620e6e8-5edb-4d8b-a4e6-f4cc597eb94f)
+![image](https://github.com/user-attachments/assets/307dd876-d08f-4c06-83e8-e0cefa7ca093)
+
+* Min. value is always greater than equal to.
+* Min. value -> 2. [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9474a25e-2a7f-4a82-bd7b-8b3f411a860e)
+
+* [Question]
+* We are getting '(1 + x)' everywhere.
+* '(1 + x)' -> t. [let]
+
+![image](https://github.com/user-attachments/assets/45c70757-b51b-457f-bd12-dc032c41c6c6)
+
+* 13 -> constant term.
+* We cannot minimize constant terms.
+
+![image](https://github.com/user-attachments/assets/6b591e29-7582-45a1-b6e7-b553f6d5dc9e)
+
+* Reciprocal term -> on multiplication, 't' term will be cancelled.
+
+![image](https://github.com/user-attachments/assets/6ac71361-55e2-464d-8b35-a36def8d8538)
+![image](https://github.com/user-attachments/assets/504dbe80-add9-4e6a-96c2-938d641fd598)
+
+* Min. value -> 12 + 13 -> 25. [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/70631c23-dbae-4952-b875-3476b98b8b54)
+
+* [Question] [**VERY IMPORTANT**] [Practice Again] 
+
+![image](https://github.com/user-attachments/assets/8af5924c-6a66-48eb-bb79-548a48ccf879)
+![image](https://github.com/user-attachments/assets/97d879a4-d873-48bf-88c8-95e66a6042ec)
+
+* The expression **can/cannot** take how many no. of integer values then **inequality** will come guranteed.
+
+![image](https://github.com/user-attachments/assets/a1b72b40-fc75-40a4-9612-e70a8697ebd3)
+![image](https://github.com/user-attachments/assets/163f4e3c-09c5-43c9-b35a-7ac831b29753)
+
+*  How many integer values 'x' cannot take?
+
+> 'x' cannot take '1,2,3,4,5'.
+
+![image](https://github.com/user-attachments/assets/c39d33a6-6cf1-4e48-b4a1-8ee04f5439d2)
+
+* We have to bring inequalities(>,<,>=,<=) in the answer.
+* 'x and y' -> positive values. [Given]
+
+![image](https://github.com/user-attachments/assets/7eadb370-7637-4f81-83e0-6612e7d8c86d)
+
+* We have to bring inequality here.
+* Inequality -> AM >= GM.
+
+![image](https://github.com/user-attachments/assets/db4ec3e6-5c77-4ffb-8f10-7e2c1d640108)
+
+* We have to take another 'xy' in the bottom then only 'x and y' will get cancelled.
+* We don't want to effect the **sum**. Sum should remain the **same**.
+
+![image](https://github.com/user-attachments/assets/55b5da92-5633-4073-8084-ca6304189c24)
+![image](https://github.com/user-attachments/assets/51db0085-c82f-42e7-8465-d00a559c0d92)
+![image](https://github.com/user-attachments/assets/5f68deb6-48db-47c2-b997-45640e268a72)
+
+* We know the whole expression is positive because 'x and y' are positive as given in the **question**. [Logic] [Concept] [Formula]
+* non-negative integers -> positive integers including **zero(0)**. [Logic] [Concept] [Formula]
+* **zero(0)** -> non-negative integer as well as non-positive integer. [Logic] [Concept] [Formula]
+
+![image](https://github.com/user-attachments/assets/78902fcd-92fa-46e7-87ae-dc6cd0527df5)
+![image](https://github.com/user-attachments/assets/9e8fc9fc-b9ff-473b-a933-d51e776fbf76)
+
+* The expression cannot take '0' for sure because of 'x and y(x,y > 0)' being positive numbers.
+* non-negative integers -> 0 to 8 -> '9' values it cannot take. [Answer] [Solution] [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
