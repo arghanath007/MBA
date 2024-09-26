@@ -1387,7 +1387,7 @@
 ![image](https://github.com/user-attachments/assets/91b04dfd-4321-41a1-b003-da8da9361340)
 ![image](https://github.com/user-attachments/assets/9b902e30-e10e-4507-8a3b-7abd21575d31)
 
-* No. of positive integers -> '1 and 2' -> '2' integers. [Answer] [Solution] [**VERY IMPORTANT**]
+* No. of positive integers -> '1 and 2' -> '2' integers. c
 
 ![image](https://github.com/user-attachments/assets/d4a1e58b-c4df-45ab-b3d2-fe759f7a4c30)
 
@@ -1435,8 +1435,60 @@
 * '5' cases because we have '5' ranges.
 
 ![image](https://github.com/user-attachments/assets/2f618687-e888-4309-af24-a740da2df1f0)
+![image](https://github.com/user-attachments/assets/2abbb124-304c-4523-a181-20482af2d27e)
 
 * [Question]
+* a = x ^ 3 + 1.
+* b = x ^ 2 + x.
+
+![image](https://github.com/user-attachments/assets/f1ea7a83-ba3b-4abc-96d1-e957e21e9e2b)
+
+* Either both 'a and b' are positive or both 'a and b' are negative. [Logic] [Concept] [Formula]
+* Both negative -> then also the product is positive. [Logic] [Concept] [Formula]
+* a * b >=0. [Logic] [Concept] [Formula]
+* Same sign -> product is greater than equal to(>=0). [Logic] [Concept] [Formula]
+
+![image](https://github.com/user-attachments/assets/546ab4d2-fa08-493e-bbac-266258b7e68b)
+![image](https://github.com/user-attachments/assets/4d2dbd14-dbbd-4e17-908f-af57f3f7e476)
+
+* [Formula] [**VERY IMPORTANT**]
+* Whenever in **inequality**, we see **quadratic** always check for 'd'.
+* d = b ^ 2 - 4ac. [Formula] [**VERY IMPORTANT**]
+* b = -1, c = 1, a = 1.
+* d = 1 - 4 = -3
+* d < 0 -> 'd' is negative -> graph is always **positive**.
+
+![image](https://github.com/user-attachments/assets/e537a38e-3c8e-49fd-8c32-70d1ef834f55)
+
+* (x ^ 2 - x + 1) -> always positive for any value of 'x'.
+* (x ^ 2 - x + 1) = 0.
+
+![image](https://github.com/user-attachments/assets/e67b1c39-2fca-4b58-9208-c99e5926b262)
+
+* (x + 1) ^ 2 -> Even power -> always positive.
+* (x + 1) ^ 2 = 0.
+
+![image](https://github.com/user-attachments/assets/78b3c4dc-a0a6-4a59-8c53-f9d13963a6dd)
+
+* x + 1 = 0
+* x = -1.
+* x * (x + 1) ^ 2 >=0 -> -1 * (0) >=0 -> 0 >= 0.
+* 'x = -1' will be included in the **answer**.
+* x >= 0 -> 0 to infinity -> 'x = -1' is a single value which is included.
+
+![image](https://github.com/user-attachments/assets/1eea295b-0080-4994-8019-1c6365280907)
+
+* single value representation-> {-1}.
+* non-positive integers -> negative integers -> -1,0 -> '2' integers.
+
+![image](https://github.com/user-attachments/assets/098e4aa4-337d-44d9-af54-b12eb378247a)
+
+* Answer -> 2. [Answer] [Solution] [**VERY IMPORTANT**]
+
+* 1hr 45mins.
+
+
+
 
 
 
