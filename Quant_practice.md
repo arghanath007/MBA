@@ -1389,6 +1389,62 @@
 
 * No. of positive integers -> '1 and 2' -> '2' integers. [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/d4a1e58b-c4df-45ab-b3d2-fe759f7a4c30)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/e551e61d-c3f8-4b8f-9ee1-4d48a24482ad)
+
+* a - b = 3.
+* |3| = 3.
+* |-3| = 3.
+
+![image](https://github.com/user-attachments/assets/fd31b056-df58-4875-8062-712a5a5710ab)
+
+* One of them is positive and one of them is negative.
+* a * b <= 0.
+
+![image](https://github.com/user-attachments/assets/13c53007-095f-4669-a14f-743d75e064b5)
+![image](https://github.com/user-attachments/assets/c2050aeb-697a-41cd-8bb9-7e3d63d4e8b1)
+![image](https://github.com/user-attachments/assets/bd32cd1b-ad61-4e79-a62a-81c02ec39865)
+
+* We want negatives. [Method **1**]
+
+![image](https://github.com/user-attachments/assets/4ec6e573-90b3-4df8-9045-73ff15b3a044)
+![image](https://github.com/user-attachments/assets/95c9719b-be3d-44ea-a84b-f860ab9a1148)
+
+* [Method **2**]
+
+![image](https://github.com/user-attachments/assets/3e510407-22e3-432e-890b-a77ab3b3d0a6)
+
+* Square rooting both sides.
+* 'x' can take negative as well as positive values or both.
+* sqrt(x) -> |x|.
+* sqrt(a) -> |a|.
+
+![image](https://github.com/user-attachments/assets/92c36d77-4e98-410e-970b-f0f635e44886)
+![image](https://github.com/user-attachments/assets/6c82cf09-fd8d-473e-a151-fd4e97cc1ee8)
+
+* x = 2 -> 'x' is between '-2 and 2' and 'x' is greater than(>=) '2'..
+* x = 2 -> It is the only value.
+
+![image](https://github.com/user-attachments/assets/86d7ed95-237c-44a8-bbac-3ba6c1fc8b76)
+![image](https://github.com/user-attachments/assets/5a93d6a5-34be-4dcb-81f8-5ac934d97487)
+
+* '1' mod becomes positive and '1' mod becomes negative.
+* '5' cases because we have '5' ranges.
+
+![image](https://github.com/user-attachments/assets/2f618687-e888-4309-af24-a740da2df1f0)
+
+* [Question]
+
+
+
+
+
+
+
+
 
 
 
