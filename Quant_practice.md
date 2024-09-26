@@ -1346,8 +1346,9 @@
 * The expression cannot take '0' for sure because of 'x and y(x,y > 0)' being positive numbers.
 * non-negative integers -> 0 to 8 -> '9' values it cannot take. [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1e809a74-7ce8-42a2-88df-0ebb4c0cdc2a)
 
-
+* [Question]
 
 
 
