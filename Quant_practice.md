@@ -1485,21 +1485,33 @@
 
 * Answer -> 2. [Answer] [Solution] [**VERY IMPORTANT**]
 
-* 1hr 45mins.
+![image](https://github.com/user-attachments/assets/f7500b0d-8f0e-438a-b808-9dc406a9a84c)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/95373f9e-dcf7-44ae-b163-4027e1013a59)
+![image](https://github.com/user-attachments/assets/e8ddfbe6-6f04-4240-83d4-5c3ca21d2340)
+![image](https://github.com/user-attachments/assets/88eab7ed-1865-436b-90d6-dcb20f942bf0)
+![image](https://github.com/user-attachments/assets/b5e89f32-b67b-485d-8414-b32699becf64)
+![image](https://github.com/user-attachments/assets/b4a72857-c965-454b-a2ea-493dd0ca92fc)
+![image](https://github.com/user-attachments/assets/ff998d98-44d5-4309-8b36-57d7ce186ea9)
 
+* The distance cab be at a max. of '50'.
 
+![image](https://github.com/user-attachments/assets/aab5b9a8-13b0-4317-ac88-9e5714d41f12)
+![image](https://github.com/user-attachments/assets/6fbe9d94-da70-46fd-80cf-5ae7a2fe3b0b)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/e5189c0f-2de5-494e-aace-1a1dd7c23fed)
+![image](https://github.com/user-attachments/assets/a7adfc66-7601-41c2-81d8-537bc4675290)
 
+* '2' cases -> y = -2, y = -4.
 
+![image](https://github.com/user-attachments/assets/4d3fe108-baba-4f3f-b0a5-616f6de5e62d)
+![image](https://github.com/user-attachments/assets/844068c4-9224-4412-ad71-4ec98246b191)
 
-
-
-
-
-
+* 4 + 2 + 2 + 2 -> 10.
 
 
 
