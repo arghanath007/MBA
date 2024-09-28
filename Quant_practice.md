@@ -1513,6 +1513,91 @@
 
 * 4 + 2 + 2 + 2 -> 10.
 
+## Practice Questions
+
+![image](https://github.com/user-attachments/assets/b5a05087-5542-42b8-b664-e1bb05eac470)
+
+* 4 + 6 -> 10.
+
+![image](https://github.com/user-attachments/assets/242d8f57-f0fd-456e-ac9e-8e7eb025f70b)
+
+* Loss -> 44% -> 44
+* SP -> 100 - 44 -> 56.
+
+![image](https://github.com/user-attachments/assets/7ec7674c-4d41-4f5d-a3df-3edbb55df2f5)
+
+* Discount -> 42% -> 42.
+* 100 - 42 -> 58
+
+![image](https://github.com/user-attachments/assets/300c2ad0-fd4b-44ca-b4b0-86e49e8feb4c)
+![image](https://github.com/user-attachments/assets/83277790-5f05-4a9c-a7c8-d89c2092693f)
+![image](https://github.com/user-attachments/assets/3790874c-eeb3-4808-a985-ce743aa55e76)
+![image](https://github.com/user-attachments/assets/256b463c-be0d-4b51-a704-cdcefef31aa3)
+![image](https://github.com/user-attachments/assets/7c80e17d-280a-4b0e-bc2a-dcd41f8b5b84)
+![image](https://github.com/user-attachments/assets/f29d0876-0a7f-4896-98ed-73655b368691)
+![image](https://github.com/user-attachments/assets/d1eb3562-f910-4d6d-b935-414e4cdc1d98)
+![image](https://github.com/user-attachments/assets/a768f1a4-1c11-4965-8de4-6270a11117a9)
+
+* 416 - 180 -> 236.
+
+![image](https://github.com/user-attachments/assets/321bd788-a277-4c96-96bf-f831001fd88a)
+
+* Method **1**.
+
+![image](https://github.com/user-attachments/assets/1002e184-791e-47e9-a04f-772caf01bb17)
+![image](https://github.com/user-attachments/assets/02f8fe00-e91f-4529-a585-a77518633951)
+
+* Method **2**.
+
+![image](https://github.com/user-attachments/assets/18d42533-bc77-44b5-9bb5-186ade72038b)
+![image](https://github.com/user-attachments/assets/a99710c6-9223-4027-9173-9da41a19c97e)
+![image](https://github.com/user-attachments/assets/55b26c8a-2e2c-4708-a357-f0426d4eb37a)
+![image](https://github.com/user-attachments/assets/dbdf1a7d-e4a0-4e4d-8fdc-e4d63bfc97b9)
+
+* 25 - 6 -> 19.
+* If left hand side is an integer then the right hand side is also an integer.
+
+![image](https://github.com/user-attachments/assets/7807e004-66f6-480c-98fd-8cb553dd7555)
+
+* MP = SP + D -> 8 + 6 -> 14.
+* 14 - 5 -> 9.
+* 180 - 80 -> 100%.
+* 33.33% -> 1/3
+* MF -> 1 - 1/3 -> 2/3.
+
+![image](https://github.com/user-attachments/assets/3ed0e7b8-e2f9-4258-9bc0-1f5b86cc813a)
+![image](https://github.com/user-attachments/assets/d6eb1d8f-d6c2-41d2-94be-2082b22df6aa)
+![image](https://github.com/user-attachments/assets/34c63f3a-3765-47ce-83b4-fc7152c576da)
+![image](https://github.com/user-attachments/assets/dc1034ca-8751-4819-bd79-3a4f666ac891)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
