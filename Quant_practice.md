@@ -1576,12 +1576,21 @@
 ![image](https://github.com/user-attachments/assets/01901bf3-5abd-4492-9c9f-c51295beb901)
 ![image](https://github.com/user-attachments/assets/0737304e-a4a6-431e-9756-52cbc82eed30)
 ![image](https://github.com/user-attachments/assets/884b4327-06d7-4937-b58f-ac95a36b1eef)
+![image](https://github.com/user-attachments/assets/9a920792-e0ee-47f6-aeb9-52306990e345)
+![image](https://github.com/user-attachments/assets/9b5066dc-1c9d-4589-a1c6-42ed7fc1ebc3)
+![image](https://github.com/user-attachments/assets/cf1d0040-dda3-4b93-9089-c0c67463f761)
+![image](https://github.com/user-attachments/assets/144a83f4-dfa8-4376-bfb8-0400e77223b2)
 
+* k = x/100.
 
+![image](https://github.com/user-attachments/assets/c77c580c-fd20-483a-a576-ee0cfecc9c7e)
+![image](https://github.com/user-attachments/assets/36fa75f2-05e6-4e7c-a79c-48d387c7fbd5)
+![image](https://github.com/user-attachments/assets/028b8dd3-e432-4d2a-8cdb-f3b11f91a1eb)
 
+* Profit -> 130 - 100 -> 30. 
 
-
-
+![image](https://github.com/user-attachments/assets/0dc8ca6d-610a-4e42-9fd4-d80f6a79dfbc)
+![image](https://github.com/user-attachments/assets/ac8d26c2-ad5d-432c-95a1-021ed9165e23)
 
 
 
