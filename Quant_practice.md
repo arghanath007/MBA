@@ -1641,15 +1641,31 @@
 
 * Answer -> 9. [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/36c30a0c-ffbd-4379-af70-84893ebbf9bc)
 
+* We will check 'd' first.
+* D = b ^ 2 - 4ac
+* b = 3, a = 1, c = 6
+* D = 9 - 24 = -15 <0.
+* For any quadratic eqution -> D < 0 -> It means that it is always **positive**. [Formula] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/70d7b3f0-b186-4660-849e-b4175d36d8f2)
 
+* b = 12, a = 1, c = 51
+* D = 144 - 204 = -60 <0.
+* D < 0 -> Cannot be factorised -> Roots are imaginary.
 
+![image](https://github.com/user-attachments/assets/dcb83ce8-8d70-4ce9-b51f-e872b12a1551)
 
+* Taking root on both the sides.
+* x > 3 or x < -3.
 
+![image](https://github.com/user-attachments/assets/3a6a7248-3c18-40ea-b37e-b9c4d736eaed)
+![image](https://github.com/user-attachments/assets/7bf1698a-8dc6-44c4-9718-6ed4f17589b1)
+![image](https://github.com/user-attachments/assets/d2661c39-cfbc-4b3c-8054-e19a44c11806)
+![image](https://github.com/user-attachments/assets/3a8860b9-7f2c-40fd-bdff-a9e614398497)
 
-
-
+* Answer -> 7. [Answer] [Solution] [**VERY IMPORTANT**]
 
 
 
