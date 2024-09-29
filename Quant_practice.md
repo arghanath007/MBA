@@ -1571,9 +1571,64 @@
 
 ![image](https://github.com/user-attachments/assets/630af634-7e6a-438a-a309-39dc45056e07)
 
-* Symmetic or cyclic equation -> Equation should have '3' variables -> 'a' is replaced by 'b' is replaced by 'c' is replaced by 'a' -> No change in equation.
-* Symmetic equation -> variales are equal -> we get **extrema** of the equation.
-* **Extrema** -> maxima or minima of the equation.
+* Symmetic or cyclic equation -> Equation should have '3' variables -> 'a' is replaced by 'b' is replaced by 'c' is replaced by 'a' -> No change in equation. [Formula] [**VERY IMPORTANT**] [Practice]
+* Symmetic equation -> variales are equal -> we get **extrema** of the equation. [Formula] [**VERY IMPORTANT**] [Practice]
+* **Extrema** -> maxima or minima of the equation. [Formula] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/8b212d8a-5d05-49ae-bdb1-283a7561a45c)
+![image](https://github.com/user-attachments/assets/290666f4-dd8b-4bf3-a380-4d86c7de91d7)
+![image](https://github.com/user-attachments/assets/3db3673e-9ae3-49a6-82e7-b87d1efc5dba)
+
+* We have to make them **equal**.
+* Method **3**. [Formula] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/1b73129d-5b76-4137-865d-83c61b6b3bb0)
+
+* (a + 1/a) form. [Formula] [**VERY IMPORTANT**] [Practice]
+* (a + 1/a) >= 2 -> Always if it is a positive value. [Formula] [**VERY IMPORTANT**] [Practice]
+* a -> positive no
+
+![image](https://github.com/user-attachments/assets/04497533-17be-4a6c-96aa-0ecda59cbdba)
+
+* m < 9 -> It doesn't have any importance in the question, so that '9 - m' is positive.
+
+![image](https://github.com/user-attachments/assets/d2343014-46a3-4228-98e2-393da1b9ae24)
+
+* We will get answer as '2' only.
+* Min -> 2. [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bca9c47c-db00-4973-bc9b-182fba79e573)
+![image](https://github.com/user-attachments/assets/e16117a8-87f8-477b-a06b-a09bdd3e8b75)
+
+* a -> negaitve no
+* (a + 1/a) <= -2 -> Always if it is a negaitve value. [Formula] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/ff822aa7-df65-48cf-ba32-262156771c53)
+
+* When we want to **maximize a fraction** then we will minimize the **denominator(Dr)**. [Formula] [**VERY IMPORTANT**] [Practice]
+* Dr -> minimize.
+
+![image](https://github.com/user-attachments/assets/8e110ee4-0e52-4938-a3db-fb4a649ef162)
+![image](https://github.com/user-attachments/assets/530119d5-b074-41bd-9157-da3565df3b37)
+
+* Min -> 2.
+* Max -> 1/(sqrt(2)). [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0077828f-fc62-474c-8751-77f93b61a1e6)
+![image](https://github.com/user-attachments/assets/87cb9906-9b16-4e11-a83c-dde5c7abade1)
+
+* We are applying the 'AM and GM' on 'x ^ 2'.
+* Even if 'x' is a negative no. then also 'x ^ 2' is a positive number. [Formula] [**VERY IMPORTANT**] [Practice]
+
+
+* Start from 1hr 3mins.
+
+
+
+
+
+
+
 
 
 
@@ -1607,6 +1662,7 @@
 ## YT 
 
 ![image](https://github.com/user-attachments/assets/8ea879d9-716e-468e-b714-a9b921704e9d)
+![image](https://github.com/user-attachments/assets/a6b9d9df-909d-4025-85f2-82d040339209)
 
 
 
