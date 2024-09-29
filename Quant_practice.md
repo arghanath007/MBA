@@ -1513,6 +1513,29 @@
 
 * 4 + 2 + 2 + 2 -> 10.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Practice Questions
 
 ![image](https://github.com/user-attachments/assets/b5a05087-5542-42b8-b664-e1bb05eac470)
