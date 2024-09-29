@@ -1513,6 +1513,30 @@
 
 * 4 + 2 + 2 + 2 -> 10.
 
+## Algebra(4)
+
+![image](https://github.com/user-attachments/assets/c8198e76-d320-4380-aead-2a516fc5346d)
+
+* [Question]
+* Squaring both sides -> Mod(||) will be **removed**. [Formula] [**VERY IMPORTANT**] [Practice]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
