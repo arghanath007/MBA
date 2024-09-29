@@ -1620,8 +1620,43 @@
 * We are applying the 'AM and GM' on 'x ^ 2'.
 * Even if 'x' is a negative no. then also 'x ^ 2' is a positive number. [Formula] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/26b38487-4985-4ee1-88e7-84e8a14547b0)
+![image](https://github.com/user-attachments/assets/5b73cc72-2ab5-4fa4-9147-f8ea608d3790)
+![image](https://github.com/user-attachments/assets/85ed3364-d5c3-4557-b2dc-f429443f4050)
 
-* Start from 1hr 3mins.
+* [Question] 
+* 5 -> We have to minimize.
+
+![image](https://github.com/user-attachments/assets/04ddfe00-0053-4449-95cf-8b6e7d8f303e)
+![image](https://github.com/user-attachments/assets/858679ad-26f3-4949-b4bc-4cfb51920f20)
+![image](https://github.com/user-attachments/assets/30465030-539e-4ccb-b4f5-6b13d196e776)
+![image](https://github.com/user-attachments/assets/03059927-1a78-4346-a6ad-cd8b9d12883a)
+
+* We had to do **minimize**.
+* Any perfect square is **greater than equal to '0'(>=0)**. [Formula] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/db0ff959-bd33-4330-9b68-e2e637b490df)
+![image](https://github.com/user-attachments/assets/dc450292-dafe-411b-9fe0-a9a0c943be15)
+![image](https://github.com/user-attachments/assets/ad1d44b5-f238-42c5-983e-57b2b0992bfe)
+
+* Answer -> 9. [Answer] [Solution] [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
