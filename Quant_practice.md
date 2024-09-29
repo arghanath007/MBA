@@ -1518,18 +1518,35 @@
 ![image](https://github.com/user-attachments/assets/c8198e76-d320-4380-aead-2a516fc5346d)
 
 * [Question]
+
+![image](https://github.com/user-attachments/assets/66e70f9c-131d-428a-992a-141c91ae2d0e)
+
 * Squaring both sides -> Mod(||) will be **removed**. [Formula] [**VERY IMPORTANT**] [Practice]
 
+![image](https://github.com/user-attachments/assets/9486a745-a35b-4b41-99bc-25bb939cba54)
+![image](https://github.com/user-attachments/assets/fb5c8c3f-3ca0-498e-911c-adc2e94cf406)
+![image](https://github.com/user-attachments/assets/5539e450-dc9a-4440-a835-046b883f0f0b)
 
+* Observe the quadratic with 'D' first.
 
+![image](https://github.com/user-attachments/assets/0f6460ea-e567-496d-bdc2-f204aee3a169)
 
+* b = -4, a = 2, c = 2.
+* D < 0 -> This means the function is always **positive**.
+* So we can remove it.
 
+![image](https://github.com/user-attachments/assets/75e642b7-8cf1-4a33-b302-197236923418)
+![image](https://github.com/user-attachments/assets/7bfc86da-6424-4cba-b7a3-adee5359e21a)
 
+* Answer -> -7 to 0 -> 8. [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e4a9785e-cf81-4377-bb05-55b340a2f768)
 
+* Squaring both sides.
 
+![image](https://github.com/user-attachments/assets/f0436baf-0474-4fbe-9c91-b9efaf2068ac)
 
-
+* 24mins.
 
 
 
