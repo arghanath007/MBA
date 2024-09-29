@@ -1545,8 +1545,35 @@
 * Squaring both sides.
 
 ![image](https://github.com/user-attachments/assets/f0436baf-0474-4fbe-9c91-b9efaf2068ac)
+![image](https://github.com/user-attachments/assets/7b08c6cb-768c-45ba-90a0-1ef6934075f4)
+![image](https://github.com/user-attachments/assets/da4ffb08-f664-4a22-9804-bedf4aed0976)
 
-* 24mins.
+* We are doing 'AM and GM'.
+
+![image](https://github.com/user-attachments/assets/51cea8a7-070a-4a53-a487-89d1fde232a2)
+
+* We are multiplying '1 and 2' equations.
+
+![image](https://github.com/user-attachments/assets/e02d422f-0d0c-4d2d-9e14-604e315b1ea6)
+![image](https://github.com/user-attachments/assets/ff1b5d54-93e2-4549-b633-5e05ee52dfdf)
+![image](https://github.com/user-attachments/assets/d57f05de-a616-4aac-ad9a-0cbc99ffd0cb)
+
+* Min -> 4.5 [Answer] [Solution] [**VERY IMPORTANT**]
+* We want '2' terms.
+
+![image](https://github.com/user-attachments/assets/f05c53e6-ff84-42c2-bed1-459cd2e4a125)
+
+* Method **1**.
+
+![image](https://github.com/user-attachments/assets/02349d5d-be4d-449c-9e81-8718b75096ed)
+
+* Method **2**.
+
+![image](https://github.com/user-attachments/assets/630af634-7e6a-438a-a309-39dc45056e07)
+
+* Symmetic or cyclic equation -> Equation should have '3' variables -> 'a' is replaced by 'b' is replaced by 'c' is replaced by 'a' -> No change in equation.
+* Symmetic equation -> variales are equal -> we get **extrema** of the equation.
+* **Extrema** -> maxima or minima of the equation.
 
 
 
@@ -1572,6 +1599,14 @@
 
 
 
+
+
+
+
+
+## YT 
+
+![image](https://github.com/user-attachments/assets/8ea879d9-716e-468e-b714-a9b921704e9d)
 
 
 
