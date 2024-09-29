@@ -135,7 +135,7 @@
 
 * Option **4**.
 
-## VARC practice(Rodha)
+## VARC practice (1) (Rodha)
 
 ![image](https://github.com/user-attachments/assets/908bfb39-5fc7-4eb3-a8f5-f90719626de4)
 ![image](https://github.com/user-attachments/assets/f0a3edcb-dbf5-40b2-9927-669946598f17)
@@ -232,14 +232,93 @@
 
 * could -> most likely based on logic and evidence -> the best answer -> not the possible answer. [VERY IMPORTANT] [Formula]
 
+## VARC practice (2)
 
+* Tone of the author.
 
+![image](https://github.com/user-attachments/assets/6c418b19-eba2-4814-88ab-e43533f610bd)
 
+* Smart, sarcastic.
 
+![image](https://github.com/user-attachments/assets/edf13878-1b91-498a-9b82-13e5feb90c3b)
 
+* irritated, frustated.
 
+![image](https://github.com/user-attachments/assets/587859d8-a76a-46de-a0e6-8bc900e13fea)
 
+* Sympathetic, empathetic.
 
+![image](https://github.com/user-attachments/assets/9b2e8889-09af-4324-bd48-a3bee39cb37c)
+
+* Tone questions -> Vocab questions. [Logic] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2d6d25b9-db6f-43f0-a8da-acc8a8eda934)
+
+* Sad, feeling disappointed, dejected.
+
+![image](https://github.com/user-attachments/assets/3459f30c-adb5-4af6-b850-c85f1e0b094e)
+
+* Sarcastic.
+
+![image](https://github.com/user-attachments/assets/63b84016-7d17-4636-a66d-87f03dc9f262)
+
+* Threatening.
+
+![image](https://github.com/user-attachments/assets/8a687ac2-95d4-454c-97a3-1040db15c710)
+
+* style -> tone -> attitude. [Logic] [**VERY IMPORTANT**]
+
+* Positive tone, negative tone, neutral tone. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/14b19be4-5945-4a8c-afd1-e8c202d34378)
+
+* melancholy -> a constitutional tendency to be gloomy and depressed -> a feeling of thoughtful sadness -> lonely. [Meaning]
+* reflective -> deeply or seriously thoughtful -> deep analysis of an issue, sit down and ask questions. [Meaning]
+
+![image](https://github.com/user-attachments/assets/483a11b3-a63f-4a84-8b3e-d50ae42137e9)
+
+* We need **context** for understanding the **tone**. [Meaning]
+
+![image](https://github.com/user-attachments/assets/98333217-55e6-4794-8658-145827b93b94)
+
+* poignant -> keenly distressing to the mind or feelings -> sad, tragic, pensive. [Meaning]
+* self-pity -> a feeling of sorrow (often self-indulgent) over your own sufferings. [Meaning]
+
+![image](https://github.com/user-attachments/assets/9e864fa8-e346-4579-90c0-812238ecb364)
+![image](https://github.com/user-attachments/assets/287b1d39-8b75-4581-bdb7-58fc2201df4d)
+
+* option **B**.
+* Playing/using the victim card.
+
+![image](https://github.com/user-attachments/assets/5af62700-7c38-4bd9-8f21-7fdb71065561)
+
+* Intensity and degree of word use. [Logic] [**VERY IMPORTANT**]
+* You close the door -> You slamed the door.
+* The intensity of the word has been increased.
+* Killed -> factual statement.
+* executed -> intentional.
+* butchered/crucified -> brutality.
+
+![image](https://github.com/user-attachments/assets/0f7048eb-08bc-45dc-98a2-2c02755aa26c)
+
+* option **A**.
+* qualified -> conditional.
+* Approbation -> official recognition or approval -> official approval -> praise. [Meaning]
+* Qualified Approbation-> conditional praise -> left handed complement/praise. [Meaning]
+* fervent -> characterized by intense emotion -> passionate. [Meaning]
+* advocacy ->  active support of an idea or cause etc.; especially the act of pleading or arguing for something -> lecture/support about something. [Meaning]
+* fervent advocacy -> passionate support. [Meaning]
+* passionate -> having or expressing strong emotions. [Meaning]
+
+![image](https://github.com/user-attachments/assets/4849da7a-3279-4cf3-90b9-13d30a365109)
+![image](https://github.com/user-attachments/assets/5f3b9e59-9ac8-4d8c-9770-ccbc9d7fbb80)
+![image](https://github.com/user-attachments/assets/a26145e7-b051-4678-91f2-10f7663e4653)
+
+* regard -> the condition of being honored (esteemed or respected or well regarded). [Meaning]
+
+![image](https://github.com/user-attachments/assets/c470a770-c5e2-4103-a82f-7b5f07237be6)
+
+* Start from 43mins.
 
 
 
