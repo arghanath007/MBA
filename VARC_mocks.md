@@ -317,8 +317,55 @@
 * regard -> the condition of being honored (esteemed or respected or well regarded). [Meaning]
 
 ![image](https://github.com/user-attachments/assets/c470a770-c5e2-4103-a82f-7b5f07237be6)
+![image](https://github.com/user-attachments/assets/4009e442-e713-4d6f-aaba-92c06698dd1e)
+![image](https://github.com/user-attachments/assets/4ce8924f-d41c-4c23-a415-7f202cf2395c)
 
-* Start from 43mins.
+* option **D**.
+* wary -> careful, cautious.
+* concern -> worry.
+* skepticism -> being doubtful. [Meaning]
+
+![image](https://github.com/user-attachments/assets/9c480d40-1d03-4fd1-b5c2-2c0a4908e07e)
+![image](https://github.com/user-attachments/assets/d6726b40-54a1-4ff9-ac1a-9396057a3718)
+
+* option **B**.
+
+![image](https://github.com/user-attachments/assets/aae93044-8d9d-48e2-a711-39b9fca10053)
+![image](https://github.com/user-attachments/assets/0cd43038-88ee-4c4a-8b6b-72380c33ee3b)
+
+* option **A**.
+* superficial -> of little substance or significance -> shallow, not serious.[Meaning]
+
+![image](https://github.com/user-attachments/assets/9a49e839-d6b0-4661-8981-47facab34de7)
+![image](https://github.com/user-attachments/assets/9499f365-e9b3-4c67-9a21-5da6a46c5ea2)
+![image](https://github.com/user-attachments/assets/6f474d40-d158-4f9f-8ffe-8fb41f99460f)
+![image](https://github.com/user-attachments/assets/173c0d94-cc9f-4a94-b3ad-e6f1b4bde508)
+
+* option **D**.
+* contradiction -> opposition between two conflicting forces or ideas ->  (logic) a statement that is necessarily false. [Meaning]
+
+![image](https://github.com/user-attachments/assets/ea5e1317-7b2c-4dd2-bff5-06779a7f962e)
+![image](https://github.com/user-attachments/assets/8101ad4a-47dd-4a18-b99e-b72357691ae8)
+![image](https://github.com/user-attachments/assets/73c46ad5-5f02-4a79-b52a-d30e4f5d969c)
+![image](https://github.com/user-attachments/assets/5abe8ea0-e00c-46b8-a808-2d5743b84032)
+![image](https://github.com/user-attachments/assets/e0f61bbe-2f71-401a-913e-a457f482400f)
+![image](https://github.com/user-attachments/assets/4e2461f8-35ad-4cbb-b81a-26366a5a34f0)
+
+* [Meaning] [**VERY IMPORTANT**] [Practice Again]
+* Pedantic -> Negative term/word. [Meaning]
+* toady -> a person who tries to please someone in order to gain a personal advantage -> try to gain favor by cringing or flattering. [Meaning]
+* kowtow -> bend the knees and bow in a servile manner ->  try to gain favor by cringing or flattering -> bend the knees and bow to show respect. [Meaning]
+* Pedestrian -> a person who travels by foot ->  lacking wit or imagination. [Meaning]
+
+
+
+
+
+
+
+
+
+
 
 
 
