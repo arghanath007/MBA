@@ -1678,17 +1678,31 @@
 * Symmetric equation.
 * Method **2**.
 
+![image](https://github.com/user-attachments/assets/8895a0e5-9657-44af-9806-8ed937a26015)
 
+* AP.
+* d = 1.
+* t -> a ^ 2 + 5a.
 
+![image](https://github.com/user-attachments/assets/dd66534a-0565-4092-8c58-ab83edf158fa)
+![image](https://github.com/user-attachments/assets/113614e2-1965-468e-a10c-e966096f5a2a)
 
+* Only '4' terms are in 'AP' and they are multiplying. [Concept] [Logic] [**VERY IMPORTANT**]
+* If we add '1' to it then it becomes a perfect square.
 
+![image](https://github.com/user-attachments/assets/c1d55707-7ad0-43d8-8dc7-25f0ee1558b5)
+![image](https://github.com/user-attachments/assets/00d4ae21-b407-4ceb-beec-5568ac47f96c)
+![image](https://github.com/user-attachments/assets/110afcc1-e33a-47ca-9a07-36ddb0b14fbc)
 
+* We are multipying **1st and last** and **2nd and 3rd** expressions together.
+* d = 2 -> constant.
+* d = 3 -> constant.
+* Whatever the common difference(d) is, we have to do power of '4' of that common difference(d).
 
+![image](https://github.com/user-attachments/assets/9c7569b3-3b41-43cd-ac36-e0d940e5fd1f)
+![image](https://github.com/user-attachments/assets/7e3f5b82-4d38-4e4d-b77e-7815f7d4d070)
 
-
-
-
-
+* Applicable for '4' terms only. [Concept] [Logic] [**VERY IMPORTANT**]
 
 
 
