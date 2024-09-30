@@ -1666,13 +1666,17 @@
 ![image](https://github.com/user-attachments/assets/3a8860b9-7f2c-40fd-bdff-a9e614398497)
 
 * Answer -> 7. [Answer] [Solution] [**VERY IMPORTANT**]
-* Start from 1hr 40mins.
 
+![image](https://github.com/user-attachments/assets/f009fd60-0cdb-4e8c-b766-ac1ebd37d615)
+![image](https://github.com/user-attachments/assets/7d8953e2-7aeb-41c5-ba7d-57d1b00b6c63)
 
+* Taking power of '4/3' on both the sides.
+* Answer -> 6561. [Answer] [Solution] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/0e32dde9-571c-4ee6-8b96-389d8896e35e)
 
-
-
+* Symmetric equation.
+* Method **2**.
 
 
 
