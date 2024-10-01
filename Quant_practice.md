@@ -1704,6 +1704,74 @@
 
 * Applicable for '4' terms only. [Concept] [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5f781f54-3dba-45e1-8c4b-ccc9dc388d4d)
+![image](https://github.com/user-attachments/assets/ed7fcbe2-f003-46dd-8a77-bea8da1d22f3)
+![image](https://github.com/user-attachments/assets/f5563e14-d5d5-4c47-8c26-e742cb5b13c5)
+
+* [Question]
+* difference -> 4.
+* Add '4 ^ 4' to make it a perfect square.
+* 400 - 4 ^ 4 -> 400 - 256 -> 144.  
+* perfect square -> t ^ 2. [let]
+* Any perfect square is always **greater than equal to '0'(>=0)**. [Concept] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2a27880a-d40e-4c6d-a1e7-1cf4c5106c18)
+
+* [Question]
+* We have '3' terms.
+
+![image](https://github.com/user-attachments/assets/319dcdd6-1114-4e8e-8848-b46931f5b1d7)
+
+* A + B + C -> constant -> 45.
+* 45 -> 3 * 15.
+* A * B * C -> maximum -> We the nos. are **equal**. [Concept] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e801e83f-01d4-4a32-bfe6-afcd8d292863)
+
+* We sum is constant, product is maximum when nos. are equal or as close as possible. [Concept] [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7a1cde47-5d10-457b-9726-6b291976b3ac)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/6e5812f1-46c0-4628-bf4c-0f0d68141758)
+
+* 2nd case is not possible because 'a + c = 1' is not possible as 'a and c' are both natural numbers.
+
+![image](https://github.com/user-attachments/assets/588ad37a-d7be-4f6b-93e0-94cea17f76ce)
+
+* We have to keep, 'a + c =  17' intact.
+
+![image](https://github.com/user-attachments/assets/75a75f3f-6a46-4003-86bf-17597abe1386)
+![image](https://github.com/user-attachments/assets/adfa58df-7f18-48ed-b7c4-384105000ced)
+
+* We want **max** so '60' is the **answer**.
+* Answer -> 60. [Answer] [Solution] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ac54dbde-5cd8-485a-93db-1024a0b72272)
+![image](https://github.com/user-attachments/assets/0a3f6c7e-49f0-4eed-8d36-29405ebe5996)
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
