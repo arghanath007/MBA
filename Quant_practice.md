@@ -1771,6 +1771,8 @@
 * Sum -> 3 + 6 + 0 + 1 + 2 + 4 + 5 -> 21. [Answer] [Solution] [**VERY IMPORTANT**]
 * x -> 3 + 6 + 0 + 1 + 2 + 4 + 5 -> '7' integral values.
 
+![image](https://github.com/user-attachments/assets/91f83dbe-1556-4d18-ba24-f9d59527163e)
+![image](https://github.com/user-attachments/assets/22cd26cd-c55f-4520-be04-1df573b3c585)
 
 
 
