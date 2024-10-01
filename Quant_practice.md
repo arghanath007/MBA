@@ -1753,13 +1753,22 @@
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/a9256c6b-e37d-469e-8143-a5a867e36a03)
 
+* '1 and 2' are independent conditions. [Concept] [Logic] [**VERY IMPORTANT**]
+* '3' is a dependent condition -> So **check** it open before answering the **options**. [Concept] [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f3c076ac-a81d-41d3-895f-121320e07bb4)
 
+* x = 4 -> 64 - 48 + 8 -> 24 -> Even -> satisfied.
+* x = 5 -> 125 - 75 + 10 -> 60 -> Even -> satisfied.
+* '3' is also satisfied, we checked it above.
 
+![image](https://github.com/user-attachments/assets/4cab3cca-757d-4d1b-9092-eb034f48f7d5)
+![image](https://github.com/user-attachments/assets/88469a60-63f6-4af2-8413-913dc8b92517)
 
-
-
+* Sum -> 3 + 6 + 0 + 1 + 2 + 4 + 5 -> 21. [Answer] [Solution] [**VERY IMPORTANT**]
+* x -> 3 + 6 + 0 + 1 + 2 + 4 + 5 -> '7' integral values.
 
 
 
