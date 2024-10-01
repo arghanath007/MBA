@@ -1766,6 +1766,7 @@
 
 ![image](https://github.com/user-attachments/assets/4cab3cca-757d-4d1b-9092-eb034f48f7d5)
 ![image](https://github.com/user-attachments/assets/88469a60-63f6-4af2-8413-913dc8b92517)
+![image](https://github.com/user-attachments/assets/cdf570d8-7b81-4155-945e-47a9690c99a9)
 
 * Sum -> 3 + 6 + 0 + 1 + 2 + 4 + 5 -> 21. [Answer] [Solution] [**VERY IMPORTANT**]
 * x -> 3 + 6 + 0 + 1 + 2 + 4 + 5 -> '7' integral values.
