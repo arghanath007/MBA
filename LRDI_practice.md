@@ -1541,12 +1541,92 @@
 * [Question]
 
 ![image](https://github.com/user-attachments/assets/d30435a7-9937-4243-8c93-1f241ce3398f)
+![image](https://github.com/user-attachments/assets/d967052e-c4a1-4022-a45e-061dd1843c78)
 
+* y -> Even no. -> we have to do 'y/2'.
 
+![image](https://github.com/user-attachments/assets/65106653-9c6a-42ff-a1af-95e690c2bac5)
+![image](https://github.com/user-attachments/assets/87d7a8fd-beed-4549-8419-38f0a43434e0)
+![image](https://github.com/user-attachments/assets/ebb70b8b-9c36-4094-a4eb-b8e1abef925c)
 
+* Even house has atleast '1' different type of people. We cannot put '0' anywhere. So, 'y = 2' not possible.
 
+![image](https://github.com/user-attachments/assets/9f125ac6-c619-4829-a8bb-022f6cb2fd57)
 
+* y = 4
 
+![image](https://github.com/user-attachments/assets/54b9d163-5b7c-4f4c-aa8a-0e051026be06)
+
+So, 'y = 6' not possible.
+* 11 - (5 + 2) -> 4.
+* Senior in '3' is **less than '3'**.
+* less than '3' -> 1,2.
+
+![image](https://github.com/user-attachments/assets/0b1a2682-80e5-4cd5-b313-1e523171d3e6)
+
+* '1' is not possible in senior of '3', as we getting '8' in senior of '1'.
+* senior of '1' -> Want sum less than 13 -> 2 + 8 + 1 -> 13 -> not possible.
+* Senior of '3' -> 2.
+* Senior of '1' -> 7.
+* Sum of '1' -> 2 + 7 + 3 -> 12.
+
+![image](https://github.com/user-attachments/assets/213d2e94-1bb8-4725-b2a4-75e3911dd444)
+
+* Time in house '1' -> 2 * 5 + 7 * 3 + 3 * 1 -> 34.
+
+![image](https://github.com/user-attachments/assets/995c447f-5fcc-4c15-9655-b157b6166764)
+![image](https://github.com/user-attachments/assets/c309e6ea-4398-4f90-b368-9b69d6aae3e7)
+![image](https://github.com/user-attachments/assets/e5478505-7074-4439-ba9b-1d3cf4592a95)
+
+* x -> 27.
+
+![image](https://github.com/user-attachments/assets/85c69edd-765f-45f0-8b45-1e3ef3cbf335)
+
+* k -> 15.
+
+![image](https://github.com/user-attachments/assets/b1052117-f659-4dc1-9b95-d9ba6772fb43)
+
+* y -> 25.
+
+![image](https://github.com/user-attachments/assets/4be57779-95e4-4f11-b3be-2da496d51fe0)
+
+* Total time -> 2hr 32mins -> 120 + 32 -> 152.
+* 152 - (27 + 25 + 43 + 27) -> 152 - 122 -> 30.
+
+![image](https://github.com/user-attachments/assets/15b4bf42-7a59-499f-bff4-83cdcd04f069)
+
+* House '4' total mins -> 43.
+* Used -> 4 * 5 -> 20.
+* Left -> 43 - 20 -> 23mins.
+
+![image](https://github.com/user-attachments/assets/59182569-83d1-45f2-82cf-c1916158bd22)
+![image](https://github.com/user-attachments/assets/88241aba-e2d9-46f2-a0ae-87640acbd922)
+
+* House '3' total mins -> 30.
+* Used -> 4 * 5 + 2 * 3 -> 26.
+* Left -> 30 - 26 -> 4mins.
+* 4 * 1 -> 4mins.
+* b = 4
+* a + b = 8.
+* a = 4.
+
+![image](https://github.com/user-attachments/assets/e39a8258-3812-476b-b40d-eac87e324599)
+![image](https://github.com/user-attachments/assets/9ed1c42c-ff92-460b-9390-4fc8eec284c7)
+![image](https://github.com/user-attachments/assets/f48575c2-42be-4fdd-9440-6c28b9fb6dd0)
+![image](https://github.com/user-attachments/assets/ce8c7292-3326-4777-adaa-308fb62ed4bd)
+![image](https://github.com/user-attachments/assets/5314024f-3b71-4101-a675-4e87ce870ec8)
+
+* 5 * 5 + 3 * 1 -> 28mins. [2]
+
+![image](https://github.com/user-attachments/assets/c428c42b-67a9-4c28-91fa-73ad5eb04978)
+
+* 31 * 1 -> 31mins.
+
+![image](https://github.com/user-attachments/assets/9674ccc4-939c-4fa1-bbb2-7611a7e13e90)
+
+* Baki -> 27 + 43 + 30 -> 100mins.
+* Arya -> 34 * 2 + 39 -> 107mins.
+* Diff -> 107 - 100 -> 7mins.
 
 
 
