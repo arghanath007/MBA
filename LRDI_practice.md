@@ -1397,6 +1397,34 @@
 * Answer -> 3. [4] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
 * Answer -> option **4** -> Mark. [5] [Answer] [Solution] [**VERY IMPORTANT**] [Practice] 
 
+### 5
+
+![image](https://github.com/user-attachments/assets/71dac2a1-d1b9-4603-95ee-efdaae8c5c23)
+
+* [Question]
+* Ordering set -> It is always better to make the parameter which is the **order** as the principle variable. [Formula] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fc097bad-05d7-4984-a51c-3875a11edadf)
+
+* There are '2' different possibilities.
+* 'G' receives after 'D' which means that 'G' cannot be in january.
+
+![image](https://github.com/user-attachments/assets/94d78965-339f-4c58-bd3b-0762ad77cd22)
+![image](https://github.com/user-attachments/assets/253a797f-6ea8-41d7-8271-557049649630)
+
+* F -> April.
+* 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
