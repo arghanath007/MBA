@@ -1481,11 +1481,59 @@
 
 ### 6
 
+![image](https://github.com/user-attachments/assets/9883e157-8b32-4927-9720-46c6242f153a)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/941ec05b-a25a-4ee5-98b6-77ac559d22c6)
 
+* Prime factor of '360'.
 
+![image](https://github.com/user-attachments/assets/9152a42f-1877-4248-94d6-6edad97564e0)
+![image](https://github.com/user-attachments/assets/5ecb30bd-3ca5-4658-b938-4fa726f287da)
+![image](https://github.com/user-attachments/assets/621be0cf-0ad2-461b-a0bd-f6966bf21728)
 
+* Try to get all of the combinations systematically. First complete 'x = 3' and then go for another value of 'x'.
+
+![image](https://github.com/user-attachments/assets/ab71740c-d8f2-4eeb-8d8f-4dc4999158a7)
+![image](https://github.com/user-attachments/assets/d073205c-cd82-4953-bb24-d3bbe6b8ebf9)
+
+* Order is not important -> No repeatation allowed. [Formula] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/96adf539-67cb-432a-86ff-345f9d034b7a)
+![image](https://github.com/user-attachments/assets/7a81d053-3bc5-4407-b714-7043f52ad34b)
+
+* Approach is important -> Always go in an order. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0b505065-ba3c-4645-87a4-3ef83d3a8b51)
+
+* Perfect Square -> 25 -> '2' possibilities.
+
+![image](https://github.com/user-attachments/assets/03ed43c7-2cee-45a8-9a31-90c98b1b8cb3)
+
+* Sum is a Prime No -> 37,29,23,23.
+* '2' out of the '3' nos. is a perfect square -> 4,9 -> In '23' -> 4,9,10.
+
+![image](https://github.com/user-attachments/assets/7566c1f4-e418-44ca-bf5a-4126efc4b6c0)
+![image](https://github.com/user-attachments/assets/10491ae6-7a45-4f33-93af-b8c2583bb17a)
+![image](https://github.com/user-attachments/assets/820d3300-073c-4ec2-99c0-e169cc1ebab9)
+![image](https://github.com/user-attachments/assets/96d7241e-a97f-4cf2-b0af-31ef7ad2404d)
+
+* Prime No -> 1 * N.
+* Composite No -> A no. that is not a prime no. is a composite number. [Formula] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e2adf093-f572-4f71-a2ec-15c6440214d0)
+
+* Composite No -> 22 -> 5,8,9 -> Single digit nos.
+
+![image](https://github.com/user-attachments/assets/3e741fb0-8f70-4823-92b8-30b6d9739e8b)
+![image](https://github.com/user-attachments/assets/71e73da0-6fd3-4a99-a8bb-ae10a3378a61)
+
+* '2' out of the '3' nos. is the **same**.
+
+![image](https://github.com/user-attachments/assets/2e822aff-af58-4c6d-a9fe-4ef96485feaa)
+
+### 7
 
 
 
