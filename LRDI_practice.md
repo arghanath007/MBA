@@ -1413,7 +1413,83 @@
 ![image](https://github.com/user-attachments/assets/253a797f-6ea8-41d7-8271-557049649630)
 
 * F -> April.
-* 
+* 'A' cannot in july, so 'A' is in jan.
+
+![image](https://github.com/user-attachments/assets/c9574644-cb43-4aaf-8a43-a48f1a1b4ae8)
+
+* A -> 8.5, then 'E' cannot get '8.5'.
+* E = 2
+* G = 0.4
+* D = 1.7
+
+![image](https://github.com/user-attachments/assets/172419cf-cebf-4709-8c8e-673be295d43c)
+![image](https://github.com/user-attachments/assets/3f021ddc-3848-4452-bc41-87587650a079)
+![image](https://github.com/user-attachments/assets/f408fc46-0957-43e2-aa9f-828faf01d3c9)
+
+* Take another table for 'C' in june.
+
+![image](https://github.com/user-attachments/assets/d324b91b-616e-448a-94a9-08a929680ae2)
+![image](https://github.com/user-attachments/assets/cb8846d1-1664-4b5a-9749-686de1ff767e)
+![image](https://github.com/user-attachments/assets/930d8597-720f-4666-8d6f-6eed5ce8284b)
+![image](https://github.com/user-attachments/assets/d1a073e6-8ca8-4193-ad92-a7c1cd521bed)
+
+* '0.4' already in may.
+* Junee -> 4.
+* April -> 0.5 
+
+![image](https://github.com/user-attachments/assets/d1dab1bd-fe02-456a-9a95-f9ef9462e8fa)
+
+* Condition -> B > C.
+* Case **1** -> B = 4, C = 3.2 -> 4 > 3.2 -> satisfies condition.
+
+![image](https://github.com/user-attachments/assets/fcf137f3-759c-4702-a387-0d613d199bec)
+![image](https://github.com/user-attachments/assets/9f26e76d-e41c-453e-a0bc-336652e1ded8)
+
+* Case **2** -> C = 4, B = 3.2 -> 3.2 > 4 -> not satisfying the condition.
+
+![image](https://github.com/user-attachments/assets/b485013f-606b-44f7-b4b0-b20071b6fb4a)
+![image](https://github.com/user-attachments/assets/b772895f-d190-49f7-83ee-47aa80b5fa5b)
+
+* Spu = 1.9M + Pfizer.
+* Total dosage -> x + (x + 1.9).
+
+![image](https://github.com/user-attachments/assets/5d3b6ac0-d4ed-407e-b4d1-e141fb6f2e9a)
+
+* Pfizer -> x -> 9.2
+* Spu -> x + 1.9 -> 9.2 + 1.9 -> 11.1
+
+![image](https://github.com/user-attachments/assets/82257045-a3c8-48fb-861c-14b6903cef76)
+
+* Pfizer -> given to '3' countries.
+* Spu -> given to '4' countries.
+* Pfizer -> 2 + _ + _ -> 9.2 -> 2 + 3.2 + 4 -> 9.2
+
+![image](https://github.com/user-attachments/assets/43c98e3e-59f6-4a8c-991e-c7749cbcbfbc)
+![image](https://github.com/user-attachments/assets/fb6b86b3-ae48-4c40-bb83-150d7cb7a595)
+![image](https://github.com/user-attachments/assets/eb21cbca-e4d2-4fca-823f-2607a0d0b873)
+![image](https://github.com/user-attachments/assets/ba969aa4-13dc-4640-ad13-bf68403dd332)
+![image](https://github.com/user-attachments/assets/eda724e4-8d26-47f4-b1b7-c0f8d1c89dc6)
+![image](https://github.com/user-attachments/assets/cfe5a49f-86d4-4bfc-bd1f-24234a763db4)
+
+* option **a, c, d**  -> A, G, E -> all get doses in the months of greater than 30 days.
+* option **b**  -> C -> Gets it's dose in the months of less than 30 days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
