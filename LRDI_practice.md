@@ -1470,10 +1470,14 @@
 ![image](https://github.com/user-attachments/assets/ba969aa4-13dc-4640-ad13-bf68403dd332)
 ![image](https://github.com/user-attachments/assets/eda724e4-8d26-47f4-b1b7-c0f8d1c89dc6)
 ![image](https://github.com/user-attachments/assets/cfe5a49f-86d4-4bfc-bd1f-24234a763db4)
+![image](https://github.com/user-attachments/assets/d4c4ebbc-361b-4558-92b7-8822c296a2cc)
 
 * option **a, c, d**  -> A, G, E -> all get doses in the months of greater than 30 days.
 * option **b**  -> C -> Gets it's dose in the months of less than 30 days.
 
+![image](https://github.com/user-attachments/assets/c0ad3898-94f9-42d8-857b-88e9eef58fa0)
+![image](https://github.com/user-attachments/assets/adde505c-fdb3-40ed-ac11-782f7238f538)
+![image](https://github.com/user-attachments/assets/f8799715-6e3b-47ec-9071-ba2f8293fd7a)
 
 
 
