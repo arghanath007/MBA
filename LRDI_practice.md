@@ -1535,9 +1535,12 @@
 
 ### 7
 
+![image](https://github.com/user-attachments/assets/89f95fc3-94e2-46c7-aebd-0c6625c63fc5)
+![image](https://github.com/user-attachments/assets/4581e276-1434-41bd-b036-fcff7e16f5ff)
 
+* [Question]
 
-
+![image](https://github.com/user-attachments/assets/d30435a7-9937-4243-8c93-1f241ce3398f)
 
 
 
