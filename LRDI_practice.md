@@ -904,6 +904,136 @@
 * [Question]
 * For next class.
 
+## Venn Diagram (6) 
+
+![image](https://github.com/user-attachments/assets/d4fec646-7d48-43c7-83f0-62df4124b7a2)
+![image](https://github.com/user-attachments/assets/1b6c0e35-4635-44c5-aa47-59b787a57d83)
+
+* [Question]
+* '6' people and they travelled for different time. We have '6' times.
+* '6' people -> '6' times -> 10,20,30,40,50,60.
+
+![image](https://github.com/user-attachments/assets/a32ebd89-72a2-4950-aa59-af811d6d3f47)
+
+* Person got on station '1' and left on station '7' -> Time is '60mins'.
+* Max. is '60mins'.
+* Least amt. of time -> 10mins.
+
+![image](https://github.com/user-attachments/assets/3c73f91c-7acf-4f39-b4b6-c56c838e0c43)
+
+* P's max -> 40.
+
+![image](https://github.com/user-attachments/assets/54d5fa31-2767-469a-ad61-142995cc4fca)
+
+* 'V' boarded before 'S'.
+
+![image](https://github.com/user-attachments/assets/0e9bee24-2e17-4eed-8f9b-43cbd00e8423)
+![image](https://github.com/user-attachments/assets/30aa1a38-146c-481e-8856-881505e836a2)
+
+* We have '2'combinations.
+* If some is there for a duration of '60mis' then they boarded on station '1' and left at station '7'.
+* 'S' cannot do '60mins' because when 'S' boarded, 'V' was already on the train. 'S' boarded after 'V'.
+* 'V' -> 60mins.
+* 'S' -> 50mins. 
+
+![image](https://github.com/user-attachments/assets/0962ffb9-ebcf-4b4f-b575-12afcbed2716)
+![image](https://github.com/user-attachments/assets/153831a9-a7ee-40e6-8da9-7963e1a60ac0)
+
+* '50mins' has '2' possibilities which are from '1 to 6' or from '2 to 7'.
+
+![image](https://github.com/user-attachments/assets/7b42a028-ebdd-45a4-b86c-970b1086fb60)
+
+* T_k + T_A -> 50mins.
+
+![image](https://github.com/user-attachments/assets/3cfd9739-8521-43df-8e4c-f5cf21e6f04a)
+
+* 'k' departed/left before 'p'. 'p' departed/left at '6', so 'k' has to departed/left before '6'.
+
+![image](https://github.com/user-attachments/assets/819a7fdd-6a15-4005-be9d-40a36d4aff59)
+![image](https://github.com/user-attachments/assets/37d16649-22ad-4990-9a26-abbb623e3fc3)
+
+* 'k' boarded at '1' and 'A' departed/left at '6'.
+
+![image](https://github.com/user-attachments/assets/8a470da1-dc14-479b-9f0d-97fc9c68b699)
+![image](https://github.com/user-attachments/assets/65ac4c95-1b04-4350-b413-4f6c0e552a9c)
+
+* Case **1** correct.
+
+![image](https://github.com/user-attachments/assets/7d9f0b9c-533b-4bfd-847e-3ab49b7536d3)
+![image](https://github.com/user-attachments/assets/b91fa0ee-07d3-4615-87ee-78616ca46e84)
+[image](https://github.com/user-attachments/assets/2127eadb-446c-474d-af1b-db1598bd70ce)
+![image](https://github.com/user-attachments/assets/3590a12a-a980-49a3-aecb-50c97c423a86)
+
+* '5' people at once is not possible.
+* So 'G' can be either in '1 to 2' or from '6 to 7'.
+* 'G' cannot depart at station '7' so '6 to 7' is **not possible**.
+
+![image](https://github.com/user-attachments/assets/f7f57656-997f-4918-84ed-7512a42d6e16)
+![image](https://github.com/user-attachments/assets/a74dfb63-50aa-48d7-b25e-cf3e6e0d7667)
+
+* '2' people each departed at station '6 and 7'.
+* Answer -> 2. [1]
+* Hebbal -> station '2' -> '2' boarded.
+* Electric City(EC) -> station '6' -> '2' departed.
+* Diff -> 2 - 2 -> 0.
+* Answer -> 0. [4]
+* With 'A', 'V and S' were also there.
+
+![image](https://github.com/user-attachments/assets/21506490-0572-4a44-8bd8-a8f9166a9762)
+
+* Answer -> 'V and S' -> option **D**. [5]
+
+### Venn Diagram
+
+![image](https://github.com/user-attachments/assets/fc101ef6-52d4-4e9c-b568-ad797f5b3ed2)
+
+* IV -> Intersection of all of the '4' parts.
+* III -> Intersection of all of the '3' parts.
+* II -> Intersection of all of the '2' parts.
+
+![image](https://github.com/user-attachments/assets/a4908ed5-6233-483c-9baa-4033f8fe148a)
+![image](https://github.com/user-attachments/assets/6aced17a-eba2-4477-95b4-577b02439053)
+![image](https://github.com/user-attachments/assets/f4f0c795-7788-49a4-804a-763377ee510f)
+![image](https://github.com/user-attachments/assets/0c2d9413-4c49-4277-ac57-ddd73335d598)
+
+* Sum(S) -> I + II + III +IV.
+
+![image](https://github.com/user-attachments/assets/b95cfbdc-62da-4bdd-ba84-74a8d36dac74)
+
+* Overlap(x) -> 100 + 150 + 200 + 250 -> 700.
+
+![image](https://github.com/user-attachments/assets/dceb7155-97b6-4f70-a087-e1bd16ff49ac)
+
+* [Fomula] [Summary]
+
+![image](https://github.com/user-attachments/assets/3e4bba14-1b23-4ca8-9634-e6ad1c621202)
+
+* 4
+
+![image](https://github.com/user-attachments/assets/26e03a2e-4e3e-454b-8c12-ee2350afc3dd)
+![image](https://github.com/user-attachments/assets/e11b13aa-ab81-46f1-819d-420e9ffc7798)
+
+* 3
+
+![image](https://github.com/user-attachments/assets/ef45b7a5-43f0-4a58-90b9-e07c0ac59a44)
+![image](https://github.com/user-attachments/assets/660e0696-1bcf-4773-84c0-103d6571692f)
+
+* X -> 100 + 300 + 500 -> 900.
+* The sum of the whole thing -> X. [Fomula]
+
+![image](https://github.com/user-attachments/assets/b9734efb-e053-49ba-a1f4-afa0228d8146)
+
+* Substraction. [Fomula]
+
+![image](https://github.com/user-attachments/assets/c62ecf4a-530e-422c-ae13-9afa61ef7ede)
+![image](https://github.com/user-attachments/assets/900e6f91-dc38-4af3-996a-33bb90f72a5e)
+
+* [Question]
+
+
+
+
+
 
 
 
