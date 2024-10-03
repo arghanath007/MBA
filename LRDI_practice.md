@@ -1682,26 +1682,53 @@ So, 'y = 6' not possible.
 * x = 160 - a.
 
 ![image](https://github.com/user-attachments/assets/16325963-d674-4c46-82f5-55e6b1ae3ae2)
+![image](https://github.com/user-attachments/assets/e2eb6455-11c4-4638-baba-bc8241194bc3)
+![image](https://github.com/user-attachments/assets/6dc8c441-95d7-44be-9cc2-6784e3c1cf9e)
+![image](https://github.com/user-attachments/assets/de6acb96-e141-495b-b59c-1e85c030d862)
+![image](https://github.com/user-attachments/assets/b631a7dc-e5fe-4c1a-9803-9864f3ff9d17)
+![image](https://github.com/user-attachments/assets/fc6ac819-1195-4782-9a28-357b20c92182)
+![image](https://github.com/user-attachments/assets/eaeaa641-d9e1-4a5f-a554-334816f08277)
+![image](https://github.com/user-attachments/assets/529ac90a-e4ab-4fd1-b06f-47e6bd78f06a)
 
+* 'a' min -> 47
+* 'a' max -> 91
 
+### 10
 
+![image](https://github.com/user-attachments/assets/e107fce7-d417-461e-b2d8-5cadb624a6a8)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/78288c80-b4c4-4acd-bdd9-09efe143d828)
+![image](https://github.com/user-attachments/assets/cde27b92-0502-43a0-9df6-32760e8728c3)
 
+* common difference(d) -> 3.
+* h -> 0.1 + 0.09 -> 0.19
+* e -> h + 0.09 -> 0.28
+* g -> e + 0.09 -> 0.37
 
+![image](https://github.com/user-attachments/assets/a4c9829b-ef78-4267-8325-20e0ae761385)
+![image](https://github.com/user-attachments/assets/ed2d8b92-3299-4122-9772-aa29a52d1ea3)
 
+* f = 0.49.
 
+![image](https://github.com/user-attachments/assets/d7deebbf-c40f-4507-a5dd-8ad726498276)
+![image](https://github.com/user-attachments/assets/ff53aa2d-dfe4-43ea-84cc-53d6b56e135b)
+![image](https://github.com/user-attachments/assets/55d33d0f-60da-484a-8879-fc79dd5448fa)
+![image](https://github.com/user-attachments/assets/9b68d81a-1e56-4333-be76-4b546ee2e0ec)
+![image](https://github.com/user-attachments/assets/173a495a-e2f2-43b9-8ecd-65b067a7afb5)
 
+* Filled table.
 
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/a2376627-8eaf-413c-b7d2-de3e671108a2)
+![image](https://github.com/user-attachments/assets/a2fb15d7-c2b1-4c19-8a00-66302498aa6a)
+![image](https://github.com/user-attachments/assets/2b9da22e-fc8f-47c2-9c16-d8e996ba1247)
+![image](https://github.com/user-attachments/assets/33b36043-cc01-4242-b025-44d0ca857b99)
+![image](https://github.com/user-attachments/assets/bcdef39e-ec17-45d9-a225-ca6b46a4d76e)
+![image](https://github.com/user-attachments/assets/7b11933d-c053-4fde-b904-10a744fbe47f)
+![image](https://github.com/user-attachments/assets/f6a1951e-daed-46cd-8fb8-b0cf784dd8e9)
+![image](https://github.com/user-attachments/assets/1fa1d9ab-9bd4-44a8-8f08-aab12f176234)
+![image](https://github.com/user-attachments/assets/008adcdd-64e6-4bfd-8017-35d859fd34bf)
 
 
 
