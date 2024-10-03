@@ -1029,20 +1029,99 @@
 ![image](https://github.com/user-attachments/assets/900e6f91-dc38-4af3-996a-33bb90f72a5e)
 
 * [Question]
-* 1hr 25mins.
 
+![image](https://github.com/user-attachments/assets/53fd3b7e-c69d-4ffc-9593-b23bd3637ebb)
+![image](https://github.com/user-attachments/assets/7632ad14-bdd2-4b45-9229-df2beb1768e9)
 
+* q + r + t + u -> 155.
 
+![image](https://github.com/user-attachments/assets/022b04d4-88fe-4ef1-a2ec-5688804b8edf)
+![image](https://github.com/user-attachments/assets/2b2ff436-8134-464a-9eca-91631eaf239c)
 
+* TP but not badshah -> w + x + y + r -> 145.
+* TP and badshah -> t + u + v + z.
+* v + z -> 55.
 
+![image](https://github.com/user-attachments/assets/d0c9b082-e467-438c-8330-cccee30c312f)
 
+* TP and badshah but not PT  -> v + z.
 
+![image](https://github.com/user-attachments/assets/3038571e-7d97-4799-9007-361a36e68c92)
+![image](https://github.com/user-attachments/assets/3ea82a22-7457-4683-81cc-a573e96d9dfe)
 
+* PT and FA -> p + r + u + x. 
+* Only PT and FA -> p -> 20.
 
+![image](https://github.com/user-attachments/assets/dc9302da-af3d-4497-b676-74db671129ba)
+![image](https://github.com/user-attachments/assets/496ca3ba-644b-4b98-a4fa-0c9502a85cde)
 
+* We need to frame **equations**.
+* Badshah -> 155 + 55 + 45 + s = 300 -> s = 300 - 255.
+* s = 45.
 
+![image](https://github.com/user-attachments/assets/50ee5e0e-5990-4116-9e75-c1531f92eab9)
 
+* I = 155.
+* 80 + p + 45 + r = 155 -> p + r = 30. 
 
+![image](https://github.com/user-attachments/assets/4bf72998-dbf9-4f43-b475-e925069befc5)
+![image](https://github.com/user-attachments/assets/9c81def7-e1ef-41b2-8e5d-4988a70f4cec)
+
+* Sum(S) -> I + II + III + IV -> 575.
+
+![image](https://github.com/user-attachments/assets/731dcc27-d8a8-4aac-b8e7-d284cf63b4b8)
+![image](https://github.com/user-attachments/assets/a3d68f89-ba33-45bf-a611-c82710548329)
+![image](https://github.com/user-attachments/assets/ab05af93-78d3-408c-9f35-6fec96f44ace)
+
+* IV -> III - 68 -> 143 - 68 -> 75.
+* IV = 75.
+* III = 143.
+* III -> r + t + x + v = 143.
+
+![image](https://github.com/user-attachments/assets/d547737a-be94-4d9a-a67a-3679fa56647e)
+
+* We don't know 'v and y'.
+
+![image](https://github.com/user-attachments/assets/f340714a-52bf-4b29-ba9f-d1b384c7c1c4)
+![image](https://github.com/user-attachments/assets/6ca2a483-af56-491f-8058-e38a05d548a7)
+
+* Only 'P' is left.
+* Total sum -> 80 + 20 + 155 + 45 + 55 + 45 + 145 -> 545.
+* Original total -> 575.
+* P = 575 - 545 = 30.
+
+![image](https://github.com/user-attachments/assets/da97b7fb-efb1-43f8-be07-c68174c5e823)
+
+* P + r = 30.
+* r = 0.
+
+![image](https://github.com/user-attachments/assets/b67b5f56-69da-4fb2-9901-c761b61cbee6)
+
+* Answer -> 0 [1]
+* Answer -> 30 [3]
+* Only (TP + bad + PT) -> u -> 75. [2]
+* Only (TP + FA + PT) -> III -> x. 
+* Only (TP + PT) -> w.
+* Only (TP + bad + FA) -> III -> v. 
+
+![image](https://github.com/user-attachments/assets/5b62e8cb-5cf4-45c0-a71f-eba78c29a7d9)
+![image](https://github.com/user-attachments/assets/646b75f3-181b-451e-8b52-d572ed516a41)
+
+* v + z = 55. [We know]
+* r + t + x + v = 143 -> 0 + 75 + x + v = 143 -> x + v = 68.
+* w + x = 95.
+
+![image](https://github.com/user-attachments/assets/a5a33f6d-a93a-4d28-a6bd-976aa1165e62)
+![image](https://github.com/user-attachments/assets/0e451e3b-2450-4611-8ecb-49fe01cc7685)
+![image](https://github.com/user-attachments/assets/0eb679e3-5764-4aee-9a87-57f54fc95b4b)
+
+* x = 40.
+* 95 - x -> 95 - 40 -> 55.
+* w = 55.
+* v = 28.
+
+![image](https://github.com/user-attachments/assets/fe16ca08-d7c9-49bf-a686-dd8de1acc33e)
+![image](https://github.com/user-attachments/assets/566bfaa7-33ca-4cb8-85cb-e576b989be68)
 
 
 
@@ -1880,3 +1959,4 @@ So, 'y = 6' not possible.
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/5e53bb14-28f4-40a5-997b-727b1a446994)
+![image](https://github.com/user-attachments/assets/173d9ae3-eb6e-4b07-9a45-849fed0ac976)
