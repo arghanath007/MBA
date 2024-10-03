@@ -1630,6 +1630,83 @@ So, 'y = 6' not possible.
 
 ## 8
 
+![image](https://github.com/user-attachments/assets/bef0faf1-bf9c-4dbe-880b-c1640fdd7ad9)
+
+* Total -> 72
+* Novels distributed -> 9 * 4 -> 36.
+* Left -> 72 - 36 -> 36.
+* Everyone got **distinct no. of novels**.
+
+![image](https://github.com/user-attachments/assets/75e9202b-1173-428d-9379-c3dc893c0822)
+
+* We are giving '1' extra novel to each one of them.
+* Sum of 1st '8' nos -> 8 * 9/2 -> 36.
+
+![image](https://github.com/user-attachments/assets/b20a8a99-899c-47b5-aceb-3cb5a282f8cf)
+![image](https://github.com/user-attachments/assets/37f5a3cd-a6f1-47e2-9d0b-fcd330ced5ba)
+![image](https://github.com/user-attachments/assets/84752e4a-b889-410f-88d9-077901d9793c)
+
+* A = 2G.
+* F = 11. [Fixed]
+
+![image](https://github.com/user-attachments/assets/7d2fb6ff-548f-4a63-b0b2-cfa4cfc6d6bd)
+
+* B - D =  P - C -> 9 - 5 = 10 - 6 -> 4.
+* E > 8 -> 9,10,11,12.
+
+![image](https://github.com/user-attachments/assets/0ee2025f-11e4-4ce0-95c8-2de45652fbce)
+![image](https://github.com/user-attachments/assets/ab43030d-3636-4f82-87c5-1a045c0e3dac)
+
+* cases -> 9.
+
+![image](https://github.com/user-attachments/assets/89d51f5d-1b4b-4456-a5c1-f85a8d423272)
+
+* Answer -> 5 or 7. [2]
+* Answer -> 9. [3]
+
+![image](https://github.com/user-attachments/assets/a22b6bed-2e5b-4c99-a923-d95abdf239f9)
+![image](https://github.com/user-attachments/assets/70895a0e-a955-4bd7-a0a4-cfccaf8cf06b)
+
+* Answer -> Both 'a and c' -> option **D**. [4]
+* Answer -> A,E,P. [5]
+
+### 9
+
+![image](https://github.com/user-attachments/assets/dfbbf0bc-776a-4c12-b647-ae435fc53754)
+![image](https://github.com/user-attachments/assets/8cf24ca8-5eee-49d4-bcb5-bcf7c122bab4)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/b352640d-f20a-4864-8679-47df1719ba17)
+
+* x = 160 - a.
+
+![image](https://github.com/user-attachments/assets/16325963-d674-4c46-82f5-55e6b1ae3ae2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
