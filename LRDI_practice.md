@@ -2053,7 +2053,87 @@ So, 'y = 6' not possible.
 
 * Answer -> DI. [Solution]
 
-#### 2
+#### 4
+
+![image](https://github.com/user-attachments/assets/a0dd62c9-ec56-4dc9-82cf-91aefa75dcac)
+
+* No one playing all of the '3' games -> III -> 0.
+* Everyone is playing atleast '1' of the '3' games.
+* Exactly '1' game(I) + Exactly '2' games(II) + Exactly '3' games(III) -> 300.
+* I + 2 * II + 3 * III -> 210 + 170 + 220 -> 600.
+
+![image](https://github.com/user-attachments/assets/76f5dffa-3c72-48d2-b80e-02fee6bf2b7e)
+
+* III = 0.
+
+![image](https://github.com/user-attachments/assets/b98891b4-8426-4c74-8ada-5c1cb54c4a36)
+
+* Exactly '2' games(II) -> 300
+* Total -> I + II + III -> 300.
+* I = 0, II = 300, III = 0.
+
+![image](https://github.com/user-attachments/assets/6204146e-e2d0-40ca-996a-59ca21b3f325)
+![image](https://github.com/user-attachments/assets/cf855bf5-0031-48d9-8cc5-fa19fca8eae6)
+![image](https://github.com/user-attachments/assets/143b6e02-3a35-4010-a744-10abee5bdbf9)
+
+* Nobody is playing all '3' sports, it automatically means that nobody will be drinking all of the '3' drinks. [Logic]
+
+![image](https://github.com/user-attachments/assets/b0480763-e5b2-49aa-8d1b-a9bbf452dd8c)
+
+* Intersection part.
+
+![image](https://github.com/user-attachments/assets/4fe6b8a1-f9d2-4736-abb6-66fbb10a2166)
+
+* Exactly '2' -> 300.
+* Football -> 220.
+* Cricket and hockey both -> 300 - (220 + 0 + 0) -> 80.
+* Hockey -> 170.
+* Cricket and football both -> 300 - (170 + 0 + 0) -> 130.
+* Cricket -> 210.
+* Football and hockey both -> 300 - (210 + 0 + 0) -> 90.
+
+![image](https://github.com/user-attachments/assets/0071aefb-f13c-401c-93ca-03b2bff6ccc6)
+![image](https://github.com/user-attachments/assets/788c3ec4-0e23-4d16-a775-b6d8114d2237)
+
+* Only '80' people play **Cricket and hockey both**. So max. '80' people can drink **Pepsi and sprite** both.
+* Max. value -> 80. [Answer] [1]
+* **Drink sprite** can be interchanged with **playing hockey**.
+![image](https://github.com/user-attachments/assets/95d9bcd8-1ddf-409c-970f-436347cb60c5)
+
+*  Cricket and hockey both -> 80. [Answer] [2]
+* **Drink sprite** -> Play hockey.
+* **Drink pepsi** -> Play cricket.
+* **Drink frooti** -> Play football.
+* Play hockey and Play cricket and Play football -> III -> 0. [Answer] [3]
+
+![image](https://github.com/user-attachments/assets/87c67e9d-f2d2-4dca-b464-3e1452af1b4f)
+![image](https://github.com/user-attachments/assets/6a45a544-0f53-4f44-b521-a90c205d8e97)
+
+* Red part -> maximize.
+* 'F and H' -> maximize -> 90.
+* Total -> 140.
+* Drink sprite but do not play football -> 140 - 90 -> 50 -> minimize.
+* minimize -> 50. [Answer] [4]
+
+#### 5
+
+![image](https://github.com/user-attachments/assets/e2e2c63a-0f82-41a1-9b96-b37817c9a69d)
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
