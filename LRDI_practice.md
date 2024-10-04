@@ -2229,9 +2229,12 @@ So, 'y = 6' not possible.
 
 #### 6
 
+![image](https://github.com/user-attachments/assets/e07b27fc-ea84-4cad-8fed-6543903bfab1)
 
+* [Question]
+* 62.5% -> 5/8.
 
-
+![image](https://github.com/user-attachments/assets/1bcdfdae-bee5-442a-98c4-57a6c16aac1f)
 
 
 
