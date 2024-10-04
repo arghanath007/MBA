@@ -2118,8 +2118,125 @@ So, 'y = 6' not possible.
 #### 5
 
 ![image](https://github.com/user-attachments/assets/e2e2c63a-0f82-41a1-9b96-b37817c9a69d)
+![image](https://github.com/user-attachments/assets/2cfed9b8-aa68-4741-9eed-0d66c8a1e180)
 
 * [Question]
+* 4-parameter venn-diagram.
+
+![image](https://github.com/user-attachments/assets/c8cf42b7-f413-495e-a160-a7c9c93b2e5c)
+![image](https://github.com/user-attachments/assets/3707b592-1fa0-4625-b6d3-1fdda6c4d903)
+
+* As they are taught at the same time so no students have enrolled which means those parts are '0'.
+* DM = 30.
+* These '30' people are enrolled in exactly '3' courses.
+
+![image](https://github.com/user-attachments/assets/c69854bb-7294-4cc6-b2b4-7356e44774d0)
+![image](https://github.com/user-attachments/assets/adcce345-8c27-42fa-b466-2fae58075902)
+![image](https://github.com/user-attachments/assets/b6425390-89e5-410e-9f79-c561f0d87c62)
+
+* The rest will be '0'. 'DM = 30' and the total is also '30', so the rest is '0'.
+* None = 0.
+* We are making diagram for enrolled. So the total of the diagram is '220'.
+
+![image](https://github.com/user-attachments/assets/152e42f5-4177-4f5c-a617-17a262132871)
+![image](https://github.com/user-attachments/assets/b670a95a-093b-4aef-a85a-146ba5d9b7d3)
+
+* Exactly '2' courses -> d + e + f + 0 + 0 + 0 = 100.
+* Exactly '2' courses -> d + e + f = 100.
+* Exactly '1' course -> 3 * a -> 3a.
+* 3a < 30 -> a < 10.
+
+![image](https://github.com/user-attachments/assets/8d6b3668-eed7-4269-93d4-21f3a552d913)
+
+* Exactly '3' courses -> b + 0 + 0 + 30 -> b + 30.
+* Exactly '3' courses -> b + 30.
+
+![image](https://github.com/user-attachments/assets/4fc07ea3-b930-4d07-baec-2af4ac7a80dd)
+
+* Exactly '3' courses < 100 -> b + 30 < 100.
+* Exactly '3' courses be '99'. [Let]
+* Exactly '2' courses -> 100 -> Fixed.
+
+![image](https://github.com/user-attachments/assets/04175394-a06b-4695-b831-5dc1bf1c63a2)
+
+* Exactly '1' courses -> 3a -> Always greater than 20 -> 3a > 20.
+* 3a > 20 and 3a < 30 -> 21, 24, 27 -> Multiples of '3'.
+
+![image](https://github.com/user-attachments/assets/95095a5b-efd2-4730-88aa-1219f6c374b4)
+
+* Not in QA(QA`) -> Outside of QA -> 2 * a + f + 30 -> 2a + f + 30.
+* Not in LR(LR`) -> Outside of LR -> 2a + e.
+* Not in GK(GK`) -> Outside of GK -> 2a + d.
+* QA` : LR` : GK` -> 4 : 3 : 1 -> 4x : 3x : x.
+
+![image](https://github.com/user-attachments/assets/5e6793a9-e5e8-478c-8230-e7ddac2ae0e6)
+![image](https://github.com/user-attachments/assets/67121dd3-9352-4e6e-b0bf-458cfb55ce13)
+
+* Adding all of the '3' equations into '1'.
+* d + e + f = 100.
+
+![image](https://github.com/user-attachments/assets/2953cabd-afd9-4f06-8ce5-ba2627313b8e)
+![image](https://github.com/user-attachments/assets/daeba08a-a497-4d7d-8811-55cddae1002e)
+
+* Dividing by '2' on both the sides.
+* We got '3' values of '3a' and see which value satisfies the above **equation**.
+
+![image](https://github.com/user-attachments/assets/905f7f6d-0142-4998-a8e6-5e39f0318a8d)
+
+* 3a = 21 -> 'x' will not be an **integer** -> not possible.
+* 3a = 24 -> 'x' will not be an **integer** -> not possible.
+* 3a = 27 -> 'x' isa an **integer** -> possible.
+
+![image](https://github.com/user-attachments/assets/10f9c9be-c8ca-481a-9bb0-e80b34b1a33e)
+![image](https://github.com/user-attachments/assets/64e83d0b-9242-48d1-aaa0-5339242d9eb3)
+
+* x = 23.
+* 3a = 4x - 65 -> 3a = 92 - 65 -> 3a = 27 -> a = 9.
+* a = 9.
+
+![image](https://github.com/user-attachments/assets/9936529a-fec0-48c5-b64f-24ed5b6378c5)
+![image](https://github.com/user-attachments/assets/6e4e95db-d92b-4de5-8bd5-8040643d3944)
+![image](https://github.com/user-attachments/assets/ee025dfb-df56-4b9f-b257-d25882ded27f)
+
+* 2a + d = x -> 18 + d = 23 -> d = 5
+* d = 5.
+
+![image](https://github.com/user-attachments/assets/bbd3beec-89a8-43a9-8dc2-199765a2a0b4)
+
+* 2a + e = 3x -> e = 69 - 18 -> e = 51.
+* e = 51.
+* 2a + f + 30 = 4x -> f = 92 - 30 - 18 -> f = 44.
+
+![image](https://github.com/user-attachments/assets/0084f751-42dc-451a-becf-0bef441a5c75)
+![image](https://github.com/user-attachments/assets/e4ba1117-ac96-40bd-8dfa-5b2decd00392)
+
+* Only 'b' left.
+* Total sum -> 220.
+* b = 220 - (9 + 5 + 9 + 51 + 44 + 0 + 0 + 30 + 0 + 0 + 0 + 9 + 0 + 0) -> b = 220 - 157 -> b =  63.
+* b =  63.
+
+![image](https://github.com/user-attachments/assets/3029a091-9a4c-4a5b-b22b-aeb6afc0193f)
+
+* GK -> 197 [Answer] [1]
+
+![image](https://github.com/user-attachments/assets/06b49561-a7dc-496e-b922-810889f4af2e)
+![image](https://github.com/user-attachments/assets/a6ae9924-c8d6-4d0d-aaa7-c902afe6166d)
+![image](https://github.com/user-attachments/assets/e4099e68-a3db-4e1a-a7d6-f7bf7a99b6a9)
+
+* Exactly '1' stream -> 3a + 0 -> 3 * 9 -> 27. [Answer] [2] 
+* QA and LR -> 68. [Answer] [3]
+* QA` = 4x = 92. [Answer] [4]
+
+#### 6
+
+
+
+
+
+
+
+
+
 
 
 
