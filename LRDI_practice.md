@@ -2003,6 +2003,48 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/90e32029-3ce9-4316-bfa0-f36e8c955144)
 
 * 'd and y' value are left.
+* a = 2.
+* QA -> 19 * 2 + 2d + y + 50 -> 88 + 2d + y.
+* VA -> 50 + 2 + 4 + 8 + 4 + d + 4 + 16 + 2y -> 88 + d + 2y.
+* QA > VA -> 88 + 2d + y > 88 + d + 2y -> d > y.
+
+![image](https://github.com/user-attachments/assets/69a9ea7f-786e-44b9-abd8-f88346ebfb5b)
+![image](https://github.com/user-attachments/assets/93825ed4-e366-4f07-849e-fa220c5b7b35)
+![image](https://github.com/user-attachments/assets/deba0486-2868-43b5-8614-6e5b1acca80f)
+![image](https://github.com/user-attachments/assets/1057ae8b-d0be-4d89-947f-b6546271c872)
+
+* Pass -> 4 * 2 + 2* 50 + 4 * 4 + 8 + 2 * 16 + y + d + 2d + y + 2y -> 8 + 100 + 16 + 8 + 32 + 3d + 3y -> 164 + 3d + 3y.
+
+![image](https://github.com/user-attachments/assets/9a07e7bb-d25e-4a9d-a8ee-59d9feb689fa)
+![image](https://github.com/user-attachments/assets/7b1f6c42-0cbf-433c-9da3-3227e7c54f34)
+
+* We got '2' cases for the value of 'd and y'.
+* d = 5, y= 2
+* None -> 86 - (3d + 3y) -> 65.
+* d = 6, y= 0
+* None -> 86 - (3d + 3y) -> 68.
+* Min -> 65 [Answer]
+
+![image](https://github.com/user-attachments/assets/1586ee7e-eb29-4779-8b84-24a1d0eeec64)
+![image](https://github.com/user-attachments/assets/a0bf5ebc-e1aa-43a9-99b8-817dabd6da94)
+
+* Failed in atmost '1' test -> Failed in '0' tests +  Failed in '1' test -> Passed in '4' tests +  Passed in '3' tests.
+* Passed in '4' tests -> 4a -> 8.
+* Passed in '3' tests -> 4 * 2a + 4a -> 4 * 4 + 4 * 2 -> 24. [Answer]
+
+![image](https://github.com/user-attachments/assets/8702f25c-ca0d-4e6b-9940-8d5553fc7b7a)
+![image](https://github.com/user-attachments/assets/b5552bf0-130f-4c66-b5de-0feb2a583b1d)
+
+* LR and DI -> 2a + 4a + 2a + 50 -> 4 + 8 + 4 + 50 -> 66. [Answer]
+
+![image](https://github.com/user-attachments/assets/194a0b87-474c-4e99-a9ab-0651653d22e0)
+
+
+
+
+
+
+
 
 
 
