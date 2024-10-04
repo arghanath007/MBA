@@ -1940,6 +1940,69 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/1fa1d9ab-9bd4-44a8-8f08-aab12f176234)
 ![image](https://github.com/user-attachments/assets/008adcdd-64e6-4bfd-8017-35d859fd34bf)
 
+### Venn Diagram
+
+#### 1
+
+![image](https://github.com/user-attachments/assets/6b419907-1d52-44b8-bf47-3da37d0eb45c)
+![image](https://github.com/user-attachments/assets/e0c3b50e-0e23-4618-bef8-59294508a342)
+
+* [Question].
+
+![image](https://github.com/user-attachments/assets/57d7ab1d-b684-4cba-8eba-639ce6af5c4e)
+![image](https://github.com/user-attachments/assets/c2a1964d-dfb6-4fff-836b-dfdd14ad3ef9)
+![image](https://github.com/user-attachments/assets/ed64b546-1aaa-4a6c-beb9-40ee0a8b1be7)
+
+* To avoid the fraction, we will multiply 'a' with '2' so it will be '2a'.
+* 2a -> 2 * 2a -> 4a.
+
+![image](https://github.com/user-attachments/assets/1a984042-c50c-4b27-ab6c-9366555d9f97)
+![image](https://github.com/user-attachments/assets/d5b05364-941f-41dc-b2ce-2e414674ca44)
+![image](https://github.com/user-attachments/assets/248ea03b-a845-4a65-9083-21d857d0118d)
+
+* VA and DI -> 4a + 2a + 2a + x -> 8a + x.
+* QA and LR -> 4a + 2a + 2a + y -> 8a + y.
+
+![image](https://github.com/user-attachments/assets/147152a2-1356-45cd-9f8d-e59fe2baa67d)
+
+* Only QA and VA = Only LR and DI = 50.
+
+![image](https://github.com/user-attachments/assets/67a2ad74-254b-4299-8619-601b36144439)
+
+* QA = 100.
+* Only QA = a -> 'a' is an even no. greater than '0'.
+
+![image](https://github.com/user-attachments/assets/5f3e1668-596c-48e5-9376-dcf6d72a9f1a)
+
+* QA and DI, VA and LR.
+
+![image](https://github.com/user-attachments/assets/e11388a0-ca59-40c8-bad5-49cb7831a166)
+![image](https://github.com/user-attachments/assets/42159367-c84f-4b7d-a2b4-d978697e915d)
+
+* QA total = 100.
+* Adding all values in QA -> a + 50 + y + 2a + 2a + 4a + 8a + 2d + 2a -> 19a + 2d + y + 50.
+* 19a + 2d + y + 50 = 100.
+* 19a + 2d + y = 50.
+
+![image](https://github.com/user-attachments/assets/0fa65b06-1efc-4f11-b795-171ac1438f37)
+
+* a = 2.
+* 19 * 2 + 2d + y = 50.
+* 2d + y = 12.
+* 'd' and 'y' are no. of students and their sum cannot be **negative**, so 'a = 4' is **not possible**.
+
+![image](https://github.com/user-attachments/assets/8786c5b3-4947-4ca0-8423-304e2fcf971f)
+![image](https://github.com/user-attachments/assets/2b3273bb-cc3e-470e-84bd-5e84d7bc7fa4)
+
+* Only possibility of 'a = 2'.
+* a = 2
+* 2a = 4
+* 4a = 8.
+* 8a = 16.
+
+![image](https://github.com/user-attachments/assets/90e32029-3ce9-4316-bfa0-f36e8c955144)
+
+* 'd and y' value are left.
 
 
 
