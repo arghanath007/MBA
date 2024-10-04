@@ -2038,17 +2038,22 @@ So, 'y = 6' not possible.
 * LR and DI -> 2a + 4a + 2a + 50 -> 4 + 8 + 4 + 50 -> 66. [Answer]
 
 ![image](https://github.com/user-attachments/assets/194a0b87-474c-4e99-a9ab-0651653d22e0)
+![image](https://github.com/user-attachments/assets/99a95d09-4e45-43c5-aa93-056cdd8fdd14)
 
+* QA -> 100.
+* QA > VA -> No point in checking 'VA' it cannot have the max. no. of students.
+* LR -> y + 3 * 2a + 4a + d + a + 50 -> y + 12 + 8 + d + 2 + 50 -> y + d + 72.
+* DI -> 3 * 2a + 4a + d + a + 50 + 16 + 2d + 16 + 2y -> 12 + 8 + d + 2 + 66 + 2d + 16 + 2y -> 2d + 2y + 104.
+* DI = 104, QA -> 100, LR -> 72.
+* DI > LR -> Always.
+* 104 + 2d + 2y > 72 + d + y -> Greater in every aspect whether no. or 'd' or 'y'.
 
+![image](https://github.com/user-attachments/assets/d5cabc60-3345-4803-abc3-7ba02f31a0a5)
+![image](https://github.com/user-attachments/assets/5710d497-ac06-4650-89f3-b3f8b88884c5)
 
+* Answer -> DI. [Solution]
 
-
-
-
-
-
-
-
+#### 2
 
 
 
