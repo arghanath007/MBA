@@ -2235,6 +2235,91 @@ So, 'y = 6' not possible.
 * 62.5% -> 5/8.
 
 ![image](https://github.com/user-attachments/assets/1bcdfdae-bee5-442a-98c4-57a6c16aac1f)
+![image](https://github.com/user-attachments/assets/61e1d0b1-0e1e-4c0e-85dc-a098b76bc5ed)
+
+* All values are distinct.
+
+![image](https://github.com/user-attachments/assets/5e091674-db09-4c90-acca-9b8184219ed1)
+
+* 0.8 * 40000 -> 32000.
+
+![image](https://github.com/user-attachments/assets/cc4817a5-2cc9-4d43-8f82-089e5f8b3244)
+
+* 'x' cannot be '40000'.
+* x = 30000
+* 0.8 * 30000 -> 24000.
+
+![image](https://github.com/user-attachments/assets/cdca9972-8f4e-45bb-87a2-70c2452b0a2c)
+
+* Sum of '4' nos. is '24000' -> 4K + 5K + 7K + 8K -> 24K.
+
+![image](https://github.com/user-attachments/assets/ea6be49e-62db-445a-a1ba-2edeb4ad533a)
+![image](https://github.com/user-attachments/assets/f25bd52e-14b5-4ea9-9fde-b1c7d3724e32)
+![image](https://github.com/user-attachments/assets/6f96d23d-5ad1-4ea3-92d5-eeccd823cb7d)
+
+* If 'e = 3000'.
+
+![image](https://github.com/user-attachments/assets/9ecba3e5-d595-4497-9639-4d79d5cdd0e3)
+![image](https://github.com/user-attachments/assets/efe33ce2-f0b7-4f1d-8f6d-35d361a40110)
+
+* l = 4000.
+
+![image](https://github.com/user-attachments/assets/3c27c7f0-516b-45e2-ab47-cb340837b04b)
+
+* h = 12000 - 1K - 2K - 4K -> h = 12000 - 7K
+* h =  5000.
+
+![image](https://github.com/user-attachments/assets/0fe83472-1ac8-4e6e-8f86-5d1382103eea)
+![image](https://github.com/user-attachments/assets/efae2905-1604-4dc3-afcd-e5627c3eecb8)
+![image](https://github.com/user-attachments/assets/ed24f9ee-728a-4471-9c42-ebe24d374c5f)
+![image](https://github.com/user-attachments/assets/cddd5fbe-79d1-4f17-b544-279c50fbb7c8)
+![image](https://github.com/user-attachments/assets/475a1063-07ba-4156-a53b-17445a67a104)
+
+* i = 9000 -> not possible.
+
+![image](https://github.com/user-attachments/assets/90904d07-35ff-446f-b1a5-c1e14009b126)
+![image](https://github.com/user-attachments/assets/4c39d49e-cc34-441c-aa77-ef8e03c04fea)
+
+* i = 8000 -> possible -> They are adding upto '30K'. [Answer] [1]
+
+![image](https://github.com/user-attachments/assets/79401646-b901-4595-8e51-ed30e6bf486d)
+![image](https://github.com/user-attachments/assets/4b0e2682-70f2-4dd5-9fe2-6aea72707855)
+
+* 10 combinations -> Circled in red. [Answer] [2]
+
+* Min. possible value of 'm' is '7000'.
+
+![image](https://github.com/user-attachments/assets/658fdb02-fe71-4cdc-a398-88f782437caa)
+![image](https://github.com/user-attachments/assets/2796fa1b-d694-47d4-a1af-bb58237ac0a2)
+![image](https://github.com/user-attachments/assets/40dd884e-2967-45bf-91e5-59751ba45256)
+
+* h + e + j + m -> 5 + 2 + 0 + 7 -> 14000. [Answer] [3]
+
+![image](https://github.com/user-attachments/assets/7ad8ce21-1d67-47fd-b9b8-b7c0e00f815d)
+![image](https://github.com/user-attachments/assets/314c1432-9feb-40d2-9307-f2a20b6e7601)
+
+* Stat A -> False.
+* Stat B -> False.
+* Stat C -> True.
+* Answer -> 1. [Answer] [4]
+
+![image](https://github.com/user-attachments/assets/a2cf8cb5-ecd8-4067-8825-ceb523cf96ab)
+
+* 2000 -> c,d,e,o -> 4.
+* 2000 -> c,d,e,o,g -> 5.
+* Exactly 4 or 5.
+
+#### 8 
+
+![image](https://github.com/user-attachments/assets/4953b42c-a43c-41b8-ac96-a162b6e732c2)
+
+* [Question]
+
+
+
+
+
+
 
 
 
