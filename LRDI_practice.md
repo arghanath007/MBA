@@ -2152,27 +2152,111 @@ So, 'y = 6' not possible.
 
 #### 3
 
+![image](https://github.com/user-attachments/assets/65706950-f661-4a18-9eef-79e14801f785)
+![image](https://github.com/user-attachments/assets/fb465b20-bb58-4246-8a9b-5b003d7aa7ed)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/3967f125-0bc3-4bdf-a790-ded92e38d203)
 
+* Total -> 97.
+* M and C -> 30.
 
+![image](https://github.com/user-attachments/assets/84880e4a-0991-4627-9c13-007b25cedbc7)
 
+* y and (30 - y).
 
+![image](https://github.com/user-attachments/assets/42a2a1fd-4247-4438-8133-d15dc4262c4c)
+![image](https://github.com/user-attachments/assets/4d3a1f21-7807-431c-94e9-aae90a6628d6)
+![image](https://github.com/user-attachments/assets/31270398-60bd-4102-abf4-7479b5277674)
 
+* We have '2' possible casess.
 
+![image](https://github.com/user-attachments/assets/b7ed18a0-3ac3-47b2-8568-a485761ad226)
 
+* M and C.
 
+![image](https://github.com/user-attachments/assets/a4ff2b2c-aa08-48fc-a882-442f5984fcc0)
 
+* Atleast M and C.
 
+![image](https://github.com/user-attachments/assets/2ffa476f-06bf-4579-ab80-c0c5974c2fa0)
 
+* Atleast M and C = M and C -> They are **same/equal** -> It means that only M and only C is '0'.
+* a + c = 0.
+* a = 0.
+* c = 0.
 
+![image](https://github.com/user-attachments/assets/d817786b-0ebf-4d1e-b4f9-216b6ec3a4ec)
+![image](https://github.com/user-attachments/assets/051176e5-ebd3-40a1-88b0-3de8b80d408e)
+![image](https://github.com/user-attachments/assets/5ddc2265-e1db-4379-b615-5d684af97dd5)
 
+* Case **1**:-
+* C -> 47.
+* I -> 53.
+* M -> 43.
 
+![image](https://github.com/user-attachments/assets/c60507dd-03ee-4eea-b325-5ee66e660c80)
 
+* y = 13.
+* 30 - y -> 30 -13 -> 17.
 
+![image](https://github.com/user-attachments/assets/c6f11406-6e4e-4bd4-b179-230dfeba5381)
 
+* x + 30 - x + 30 - 13 -> Should add upto '47' -> 30 + 17 -> 47 -> Satisfying.
 
+![image](https://github.com/user-attachments/assets/ed640651-c452-42ff-b49d-8bf778ce912b)
 
+* Total -> 97.
+* People who do not like any of the cuisines or like none of the cuisines -> N. [Let]
+* 30 - y + y + x + 30 - x + x - 7 + N = 97 -> 60 + x - 7 + N = 97 -> 53 + x + N = 97 -> N = 44 - x. 
+
+![image](https://github.com/user-attachments/assets/3ef42971-d2ee-4ef8-b0fa-25251648e58a)
+![image](https://github.com/user-attachments/assets/be19752e-35ed-4cf4-b994-1faaca9ab39c)
+![image](https://github.com/user-attachments/assets/1e18babf-94a7-4605-b9b2-4596134a10a0)
+
+* Like M and I but not C -> y -> 13.
+* (x - 7) -> Can be '0' or can be a positive no. but cannot be negative. So 'x' should be 'x >= 7'.
+* (30 - x) -> Can be '0' or can be a positive no. but cannot be negative. So 'x' should not exceed '30' i.e 'x <= 30'.
+* Range of 'x' -> 7 <= x <= 30.
+
+![image](https://github.com/user-attachments/assets/856eb13e-e9e0-45a0-8bcd-2832c848578a)
+![image](https://github.com/user-attachments/assets/d8042625-613f-4c10-92dd-2830dfdd14cd)
+
+* As we want the min. value of 'N', so we will take the largest value of 'x' which is '30'.
+* x = 30.
+* N = 44 -x -> 44 - 30 -> 14.
+
+![image](https://github.com/user-attachments/assets/70e31602-98b0-4011-8799-4eb1f8b1f32b)
+
+* N = 14.
+* People like all of the cuisines -> 30 - x.
+* As we want the max. value, so we will take the smallest/minimum value of 'x' which is '7'.
+
+![image](https://github.com/user-attachments/assets/9360d234-ceb0-4f64-9b46-b81785117fff)
+![image](https://github.com/user-attachments/assets/c73657b4-0932-455a-aac9-eb22cce56abd)
+
+* 30 - x -> 30 - 7 -> 23. [Answer]
+
+![image](https://github.com/user-attachments/assets/5f0d273b-77df-4ab5-b942-e346364c6bc5)
+
+* Case **2**:-
+* C -> 53.
+* I -> 59.
+* M -> 47.
+
+![image](https://github.com/user-attachments/assets/f53699e2-53cc-48d2-9253-f4fc0acc2121)
+![image](https://github.com/user-attachments/assets/9d0e1e6f-002f-4860-a0bb-775a2a176323)
+
+* y = 17.
+* 30 - y -> 30 -17 -> 13.
+* x + 30 - x + 30 - y(17) -> Should add upto '53' -> 30 + 13 -> 43 -> Not Satisfying.
+* We need '10' more but only C is '0'.
+
+![image](https://github.com/user-attachments/assets/f05046bb-dfaa-4823-a36b-fe13b4cb454a)
+![image](https://github.com/user-attachments/assets/b0f0e8fc-a9bb-477b-bdea-2081b8a1f7fa)
+
+* This is **not possible**.
 
 #### 4
 
