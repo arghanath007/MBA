@@ -2408,6 +2408,42 @@ So, 'y = 6' not possible.
 * Only French -> 20. [3] [Answer] 
 * Max. people who speak French -> 30 + 20 + 10 + 80 -> 140.
 * Out of the '140' people '30 + 20 -> 50' people already speak english. So, '140 - 50 -> 90' people want to learn english who already know french.
+* 90 -> Know French and want to learn Eng.
+* Learn Eng -> 25.
+* Learn Eng and Spa -> 60 -> These(60) people come from the '80' people who speak french only.
+* Only know French -> 80 - 60 -> 20.
+* Speak Eng and Spa -> 10.
+* 20 + 10 -> 30 -> Out of these '30' people '25' want to learn english.
+* 30 - 25 -> 5.
+* 90 - 5 -> 85 -> maximum. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/0da85eaa-f6a3-418d-8fd4-bf4e7ae5b920)
+![image](https://github.com/user-attachments/assets/e3754132-e553-47cb-a30a-13b4722bd52e)
+![image](https://github.com/user-attachments/assets/9e66e957-5170-4ef3-82ea-3bdce94d41f0)
+
+* Do not speak Eng or French -> Outside of Eng and French circles -> Speak only Spanish -> 60.
+* Max. possible value -> 60. [5] [Answer]
+
+#### 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
