@@ -2053,6 +2053,44 @@ So, 'y = 6' not possible.
 
 * Answer -> DI. [Solution]
 
+#### 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### 4
 
 ![image](https://github.com/user-attachments/assets/a0dd62c9-ec56-4dc9-82cf-91aefa75dcac)
@@ -2512,33 +2550,66 @@ So, 'y = 6' not possible.
 #### 10
 
 ![image](https://github.com/user-attachments/assets/60abb480-79e7-49f4-bf91-8ecdbb084abd)
+![image](https://github.com/user-attachments/assets/efc55ddc-92e1-413d-a837-310120359b6b)
+![image](https://github.com/user-attachments/assets/e323e9a5-fdee-439b-99f6-01b49dddb02f)
 
 * [Question]
+* Total -> 250
 
+![image](https://github.com/user-attachments/assets/6ce95444-04ca-44a1-bc11-2e2d1f7786bd)
 
+* a + 15 - a + 20 + 30 -> 65.
 
+![image](https://github.com/user-attachments/assets/f8d0d658-2f16-452a-99aa-e3c635e8e3fe)
 
+* Exactly '3' projects -> 30% of 250 -> 75.
+* c + 50 - c + 10 + 15 -> 75
 
+![image](https://github.com/user-attachments/assets/7237f11f-057d-4ab8-aa16-fa6be62b2749)
 
+* k = 40% less -> 2/5 less -> 1 - 2/5 -> 3/5.
+* k * 3/5 = 15 -> k = 25.
+* Exclusively on 'A,C and D' -> c.
+* 50% of c -> c/2. 
 
+![image](https://github.com/user-attachments/assets/f1e7e538-bf9b-4c56-ae39-559ea4665c84)
+![image](https://github.com/user-attachments/assets/5870f19e-6aa3-44a9-b0dd-e381a8e6cc49)
+![image](https://github.com/user-attachments/assets/00005410-8bf8-4663-be59-fe7d1f9dc581)
+![image](https://github.com/user-attachments/assets/47e08aad-ce62-4f18-81bd-7c0c9e44d961)
+![image](https://github.com/user-attachments/assets/17bc6a30-6dee-4038-8d1e-067bdfdf56c4)
+![image](https://github.com/user-attachments/assets/25d8145b-7c32-4bd8-938d-08d78f8571e3)
+![image](https://github.com/user-attachments/assets/24b609fd-dffa-434d-a613-8e6ec024e5d9)
+![image](https://github.com/user-attachments/assets/e9fe5e4b-3411-4a5f-ba4c-140bc1634d60)
+![image](https://github.com/user-attachments/assets/01122620-2070-4cd9-874b-db4bafc65433)
 
+* A and C -> 15
+* C and D -> 10
+* Diff -> 15 - 10 -> 5.
 
+![image](https://github.com/user-attachments/assets/c028736e-a202-4a83-a4c7-36dc565a9fb5)
 
+* Not A and Not D -> 30 + 25 + 10 -> 65. [I]
+* Not B and Not D -> 5 + 15 + 10 -> 30. [II]
+* Exclusively on '2' projects -> 10 + 15 + 15 + 25 + 15 + 10 -> 90.
+* Atleast '3' projects -> Exclusively on '3' projects + Exclusively on '4' projects  -> (15 + 20 + 10 + 30) + 20 -> 95.
 
+![image](https://github.com/user-attachments/assets/bbc884d9-db14-4314-8551-f72f994f1835)
+![image](https://github.com/user-attachments/assets/c2890850-0753-4507-b3df-b8a548afe461)
+![image](https://github.com/user-attachments/assets/d7b3e0aa-37e1-4b66-8077-4dd2e428919f)
 
+* Worked on D -> 20 * 3 + 2 * 10 + 2 * 15 + 30 -> 140.
 
+![image](https://github.com/user-attachments/assets/41f4bf84-0f9a-451f-b6cc-abecdbdd72de)
+![image](https://github.com/user-attachments/assets/1d4dc1c5-10e8-4077-9698-e286e78ac8d2)
 
+* Worked on B -> 20 + 2 * 10 + 2 * 15 + 30 * 2 + 25 -> 155.
 
+![image](https://github.com/user-attachments/assets/77a3ef6e-3281-428d-a7d2-88ee63d92744)
 
-
-
-
-
-
-
-
-
-
+* Exclusively on 'C' -> 10.
+* Exclusively on 'B,C,D' -> 30.
+* a = 1, b = 3
+* a * b -> 1 * 3 -> 3.
 
 
 
