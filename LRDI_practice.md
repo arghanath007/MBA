@@ -2055,19 +2055,102 @@ So, 'y = 6' not possible.
 
 #### 2
 
+![image](https://github.com/user-attachments/assets/43b9d201-9b55-45e6-bdc2-03b42ee04370)
 
+* [Question]
+* We cannot change '150' on 11th of may.
 
+![image](https://github.com/user-attachments/assets/e24dcee9-d202-4698-b380-9d3d4b38f6de)
+![image](https://github.com/user-attachments/assets/d528a1ad-785a-4718-b942-f27249cbcbab)
 
+* Least no. cannot appear on 12th of may.
+* Least no. -> Aman
+* Max. no. -> Shivam
+* Middle no. -> Rohit.
 
+![image](https://github.com/user-attachments/assets/b26a2163-7a47-4496-afce-1e9c1f8ea730)
 
+* Common -> 50.
 
+![image](https://github.com/user-attachments/assets/b69eeda4-af39-4da0-9f14-84851bd0afd5)
 
+* We need to maximize 'a + b + c'
+* Max. possible quests -> 152,150,154 OR 154,150,152.
+* R -> 152
+* A -> 150
+* S -> 154
+* Min. value -> minimize -> We are taking '0'.
 
+![image](https://github.com/user-attachments/assets/7e2a5c83-6342-4f7f-bfd6-c75b8d3efcdc)
+![image](https://github.com/user-attachments/assets/1834b376-1f3f-47f5-8609-c91f3c3c182a)
 
+* Both 'R and S' but not 'A' -> b
+* a + b + c = 153
+* a + c = 100.
+* 100 + b + 153 -> b = 53.
 
+![image](https://github.com/user-attachments/assets/87bebcc7-73da-499e-a4fb-02290d99b556)
 
+* b = 53. [1] [Answer]
 
+![image](https://github.com/user-attachments/assets/8f7f99d4-a020-45ac-b194-0a5957925101)
 
+* We need to minimize 'a + b + c'.
+* Maximum/Minimum is not asked in question **2**. We can take anyone of the cases.
+
+![image](https://github.com/user-attachments/assets/a5d38045-3d92-486d-8c4e-898e8c0da0d9)
+![image](https://github.com/user-attachments/assets/396e86b9-2392-4f57-be04-68987f8b62b4)
+
+* Max. value -> maximize -> We are taking '0'.
+* 146 - 50 -> 96.
+* 150 - 50 -> 50.
+
+![image](https://github.com/user-attachments/assets/cc85cc68-e979-4ecf-8718-a1c391bf69a2)
+![image](https://github.com/user-attachments/assets/67c7df23-5e75-4253-9662-8d88f5def9ad)
+
+* We don't know the **correct answer** that's why the answer is **Cannot Be Determined(CBD)**. We are getting different/multiple values of 'a' because of many possibilities. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/7f0e31b7-5a9e-42b8-94bd-6bb4df37bfb9)
+
+* Additional information for Question '3 and 4'.
+
+![image](https://github.com/user-attachments/assets/35ff9fec-16ef-465d-91a4-ac1f47d68ab7)
+
+* Shivam's party -> 11 may -> This happens in case **1** only.
+* A -> 146
+* S -> 150
+* R -> 148
+
+![image](https://github.com/user-attachments/assets/87b61a03-e42a-4e8c-82e7-4786eae4ecdb)
+
+* We need to maximize the value of 'a'.
+* Min. is '0'. So 'S' is '0'
+* S = 0.
+* 2a + 50 = 150 -> a = 50.
+* a = 50. [Fixed]
+* a + 50 + R = 148 -> R = 148 - 100 -> R = 48.
+* R = 48. 
+* a + 50 + A = 146 -> A = 146 - 100 -> A = 46.
+* A = 46.
+
+![image](https://github.com/user-attachments/assets/a63a791d-91ad-48e0-81ba-2e808e5e9a12)
+![image](https://github.com/user-attachments/assets/2acfcfc8-4bbd-41af-af53-b04ff4d766b6)
+
+* Exactly '1' party -> S + R + A -> 0 + 48 +46 -> 94. [3] [Answer] 
+
+![image](https://github.com/user-attachments/assets/f4e3b341-27e7-4b26-ac69-cc94e4c43de7)
+
+* Atleast one of these '3' parties -> Sum of the venn diagram. [Logic] [Concept] [**IMPORTANT**]
+* I + II + III -> 274. 
+
+![image](https://github.com/user-attachments/assets/b3d14b00-5cda-4181-a049-8a6b84e7dc5e)
+![image](https://github.com/user-attachments/assets/d0ee34bf-30a2-4956-b716-b14727718756)
+![image](https://github.com/user-attachments/assets/313fb50e-7c44-40bf-a182-87ce5b24d1db)
+
+* a = 35.
+* 98 - a -> 98 - 35 -> 63. [4] [Answer] 
+
+#### 3
 
 
 
