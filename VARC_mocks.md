@@ -357,6 +357,45 @@
 * kowtow -> bend the knees and bow in a servile manner ->  try to gain favor by cringing or flattering -> bend the knees and bow to show respect. [Meaning]
 * Pedestrian -> a person who travels by foot ->  lacking wit or imagination. [Meaning]
 
+## VARC practice (3)
+
+![image](https://github.com/user-attachments/assets/981dfe29-ffc9-4db6-a479-df769be41b82)
+
+* Odd one out. [Question]
+* Option **B**. [Got Wrong]
+* Shunning/eschewing -> avoiding. [Meaning]
+* hegemony -> the dominance or leadership of one social group or nation over others. [Meaning]
+* hegemon -> a leading or paramount power. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b33cb756-eda9-4611-a4a3-1ca71f67441d)
+
+* Odd one out. [Question]
+* Option **A**. [Correct]
+
+![image](https://github.com/user-attachments/assets/ee2c0e28-4ca0-4860-9e8a-eb68480639e6)
+![image](https://github.com/user-attachments/assets/1d3051cf-7ada-46cd-a07c-6aef0a5d221e)
+![image](https://github.com/user-attachments/assets/b7cb5ffd-a599-46f3-949e-1c6b05028b3f)
+
+* Odd one out. [Question]
+
+![image](https://github.com/user-attachments/assets/542eba50-727a-4d40-8518-3c84072d0061)
+
+* Option **A**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/324af7a0-e72f-4681-a072-d205bc4d4d30)
+
+* Central point -> movement.
+
+![image](https://github.com/user-attachments/assets/9a594c22-c2e7-4f3c-bd5d-26bb2deb6a3e)
+
+* Odd one out. [Question]
+* Option **B**. [Correct]
+
+![image](https://github.com/user-attachments/assets/81008503-815e-4d74-9d20-9100a1dbf6d6)
+![image](https://github.com/user-attachments/assets/c20a83d9-db86-4cc9-b2d3-dddc9dab4522)
+
+* Coherent -> Sensible.
+* Start from 47mins.
 
 
 
@@ -390,8 +429,7 @@
 
 
 
+## Misc
 
-
-
-
+![image](https://github.com/user-attachments/assets/83c7606c-482c-4ce0-8dc6-c287dd080587)
 
