@@ -2371,16 +2371,43 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/ebf71e6c-94db-459f-b6d3-50fd8b26d784)
 
+* We have '2' cases fo 'x and a'.
 
+![image](https://github.com/user-attachments/assets/d54a3fc2-e2a3-49ad-b20a-3ed4ef0a5ee5)
+![image](https://github.com/user-attachments/assets/4a042660-623c-47de-aadd-bd4858666a19)
 
+* If 'x =10' then 'a = 28'
+* a < 8x/3 -> a < 80/3 -> a < 26.67 -> 28 < 26.67 ->  not satisfied.
 
+![image](https://github.com/user-attachments/assets/b384a2b9-50fc-4e54-ab15-0136fbb32bb5)
 
+* x = 20, a = 10 -> satisfied.
+* a < 8x/3 -> a < 160/3 -> a < 53.33 -> 10 < 53.33
 
+![image](https://github.com/user-attachments/assets/0c09ab12-92c5-4926-a140-0ff310b7cdf9)
 
+* y = mx + c. [Formula] [**VERY IMPORTANT**] [Concept]
+* Slope -> coefficient of 'x'.
 
+![image](https://github.com/user-attachments/assets/b8399a45-1c6e-43a7-b0a8-7ca37e9ab7be)
 
+* x = 20, a = 10
+* 2x = 40.
+* k = 2.5a -> 25.
 
+![image](https://github.com/user-attachments/assets/82f37928-143a-446c-80a4-9c1cb54f9b6a)
 
+* Only English -> 2x -> 40. [1] [Answer]
+* Do not speak spanish -> 2x + 3a + 4x -> 150.
+* Learn Eng and Spa -> 3x -> 60.
+* Out of the '150' people who do not speak spanish, '60' people learning Eng and Spa. So, '150 - 60 -> 90' people can learn spanish. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/5352b8e5-3918-406f-806f-aa720630a4c1)
+![image](https://github.com/user-attachments/assets/988eb263-8e99-4c83-a5b1-f62cd7eb1b5c)
+
+* Only French -> 20. [3] [Answer] 
+* Max. people who speak French -> 30 + 20 + 10 + 80 -> 140.
+* Out of the '140' people '30 + 20 -> 50' people already speak english. So, '140 - 50 -> 90' people want to learn english who already know french.
 
 
 
