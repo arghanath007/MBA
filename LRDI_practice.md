@@ -2315,12 +2315,61 @@ So, 'y = 6' not possible.
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/355b790b-c5f8-4615-90d6-4654255bccb5)
+![image](https://github.com/user-attachments/assets/434fc9d6-7cc0-4526-9286-e1f94d5af10b)
 
+* Can speak only '1' language -> 2x + 3x + 4x -> 9x.
+* Can speak exactly '2' languages -> a + b + c.
 
+![image](https://github.com/user-attachments/assets/481f79a5-b67e-4ade-8f8d-e5e50ed6ee0f)
+![image](https://github.com/user-attachments/assets/e63b87e1-3881-43f6-978e-b1cd3a6dde64)
 
+* No. of people who can speak English -> a + c.
+* No. of people who can speak Spanish -> a + b.
+* No. of people who can speak French -> c + b.
 
+![image](https://github.com/user-attachments/assets/0a04a976-d4bf-428a-8774-263613665cea)
 
+* a+c/b+c = 2/2 -> a+c = b+c -> a = b.
 
+![image](https://github.com/user-attachments/assets/f0b1d25d-899b-4d3d-b469-8a9f35d16ee4)
+
+* a = b -> b = a.
+* c = 3b -> c = 3a.
+
+![image](https://github.com/user-attachments/assets/bed9cea5-bcb3-4185-ab1f-a3b077b5c74d)
+![image](https://github.com/user-attachments/assets/f27a4690-ceb0-4356-b131-753b84ae3ac3)
+
+* k = 2.5a
+
+![image](https://github.com/user-attachments/assets/5f4cad07-73f5-4924-900d-fb8bbf4564cd)
+
+* French.
+
+![image](https://github.com/user-attachments/assets/0ee116a0-d2dc-408d-bcc5-df7be004030c)
+
+* English
+* Total people -> 250.
+
+![image](https://github.com/user-attachments/assets/89a6282d-20a3-43ba-b3dd-e0e3ef287562)
+![image](https://github.com/user-attachments/assets/bc58489f-bde4-4011-bedd-206750c4ae17)
+
+* [Formula] [**VERY IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/ec06215f-ca56-4cbf-92fd-3bfd85f740a4)
+![image](https://github.com/user-attachments/assets/c8991725-a5e2-4d2a-88e6-d77705768884)
+![image](https://github.com/user-attachments/assets/3711afc9-c15f-44aa-8c3c-0e1a6a45379d)
+
+* k = 2.5a -> We want '2.5a' to be an integer.
+* 'a' cannot be **odd**.
+
+![image](https://github.com/user-attachments/assets/8b4b8836-46e0-4168-8bbc-aa8a60161050)
+
+* 'x' cannot be '0' otherwise all of the '2x,3x and x' will be '0' and the ratios will not fit in properly.
+* a < 5x.
+* If 'x = 0' then 'a < 0' and 'a' cannot be negative. 
+
+![image](https://github.com/user-attachments/assets/ebf71e6c-94db-459f-b6d3-50fd8b26d784)
 
 
 
