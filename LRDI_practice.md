@@ -2426,6 +2426,98 @@ So, 'y = 6' not possible.
 
 #### 9
 
+![image](https://github.com/user-attachments/assets/bb8cd3c5-9d8f-4b5f-b070-a93893491663)
+
+* [Question]
+* G and S but not M -> d 
+* M and G but not S -> e 
+* G and S and M -> g
+* Only S -> b
+* M and S but not G -> f
+
+![image](https://github.com/user-attachments/assets/842418e0-d690-457b-bbdb-a073c6e2fdd5)
+
+* both M and G -> e + g.
+* both S and G -> d + g.
+
+![image](https://github.com/user-attachments/assets/45c65cb6-190b-4a2a-a0d5-98f76ede4b91)
+![image](https://github.com/user-attachments/assets/d09975e2-8b34-4ded-8903-092cf1ebb269)
+
+* e = g + 2d -> e > g + 2d -> e > 2d.
+
+![image](https://github.com/user-attachments/assets/3d21adec-8df2-4de3-ad76-97dddd2706a8)
+
+* f = 5 + d.
+
+![image](https://github.com/user-attachments/assets/b7ec2b31-4a46-4104-b138-0e28ffbf424d)
+
+* d = d.
+* g = 2d
+* e = 4d.
+
+![image](https://github.com/user-attachments/assets/1dec3fdc-09d2-4154-817b-1db594fed25e)
+
+* Total -> 115.
+
+![image](https://github.com/user-attachments/assets/656ec15c-8bd1-4c32-8b39-e0d7bb618c45)
+
+* RHS -> Multiple of '10'.
+* LHS -> Should be a multiple of '10' as equal to(=) in-between.
+* d -> already in multiple of '10'
+* a + c -> need to be in multiple of '10'.
+
+![image](https://github.com/user-attachments/assets/a991c8cd-0cce-4532-9e3c-754c37965571)
+
+* 6 <= a,c <= 12.
+* a + c = 20.
+* We have many combinations of 'a and c' adding to '20'. 
+
+![image](https://github.com/user-attachments/assets/088d549e-ddb4-451e-8682-fe97ca0f2278)
+
+* d = 8.
+* b = 10 + 2d -> 26.
+* b = 26.
+
+![image](https://github.com/user-attachments/assets/5d88a914-e936-4dec-bb61-26ba3337e6dd)
+![image](https://github.com/user-attachments/assets/415b7fb5-2a22-4213-843c-b0b236b2b507)
+
+* We need to find 'a and c'.
+
+![image](https://github.com/user-attachments/assets/a47caf03-cbed-417e-a010-90891676a2d9)
+![image](https://github.com/user-attachments/assets/f02d6b39-e439-4d38-ad9a-38724db0fbc4)
+
+* Both G and S -> d + 2d -> 24. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/9a94826f-1f2a-46a6-af0f-e92753c50ef8)
+![image](https://github.com/user-attachments/assets/eb971ba8-4b48-4b39-a822-0b6dc4dab6dd)
+
+* Out of the '5' groups, in '3' groups we have repeatation of '2' values.
+* 3/5 -> 0.6 -> 60%. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/645072cb-c902-4e7c-928b-2037cab75504)
+
+* Voted for all '3' venues -> g -> 2d -> 16.
+* Only S and M -> f -> 5 + d -> 13.
+* 16 - 13 -> 3.  [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/f48f39d6-f7d3-42cc-9f5f-194c5b4fb38d)
+![image](https://github.com/user-attachments/assets/19d56cf1-fb24-4069-8dc2-37ec4b523043)
+
+* For min. we have to take min. value of 'a'. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/02bd2fc5-3813-43c8-a2f6-b2e53466b7fc)
+
+* Only G and M -> a + c -> 20. [5] [Answer]
+
+#### 10
+
+![image](https://github.com/user-attachments/assets/60abb480-79e7-49f4-bf91-8ecdbb084abd)
+
+* [Question]
+
+
+
+
 
 
 
