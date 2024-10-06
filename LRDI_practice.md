@@ -2778,6 +2778,38 @@ So, 'y = 6' not possible.
 * a = 1, b = 3
 * a * b -> 1 * 3 -> 3.
 
+### Mixed Practice (7)
+
+![image](https://github.com/user-attachments/assets/62de488d-1a3d-47ae-a4f5-5547949b6b92)
+![image](https://github.com/user-attachments/assets/2b2412c9-f06a-4a6a-b793-12d6eea23ee7)
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
