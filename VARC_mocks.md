@@ -551,20 +551,27 @@
 
 ![image](https://github.com/user-attachments/assets/8f3ca963-a6ec-4a7c-bf50-9a95f47a2aa1)
 ![image](https://github.com/user-attachments/assets/d0df8840-c70d-4088-a412-e04f5591fd58)
+![image](https://github.com/user-attachments/assets/bf4acb1e-ad1e-4145-8445-2f5af7bf4873)
 
 * Doubt. [2]
 * All members -> Extreme statement -> Wrong.
 * Only -> Extreme statement -> Wrong.
 * Option 'C and D' -> We do not know these.
+* Option **A**. [Got Wrong]
 
 ![image](https://github.com/user-attachments/assets/c90072f1-0f2f-4b85-b69b-63a4958db6f9)
+![image](https://github.com/user-attachments/assets/15db7118-1660-4c36-a8ca-c07087c361b5)
+![image](https://github.com/user-attachments/assets/ff64662a-472d-4037-b971-5eb36460c426)
 
-* Option **B**. [Got Wrong]
+* Option **A**. [Got Wrong]
 
 ![image](https://github.com/user-attachments/assets/874db018-81d4-4c30-957a-2f7962b259eb)
+![image](https://github.com/user-attachments/assets/ab99b583-100a-41e7-8620-23a21fe88087)
 
-* Option **B**. [Got Wrong]
+* Option **C**. [Got Wrong]
+* A -> Tone negative.
 
+![image](https://github.com/user-attachments/assets/9a9131ac-4b94-40f8-b4f3-f73de94ca928)
 
 
 
