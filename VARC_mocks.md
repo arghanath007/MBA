@@ -393,21 +393,89 @@
 
 ![image](https://github.com/user-attachments/assets/81008503-815e-4d74-9d20-9100a1dbf6d6)
 ![image](https://github.com/user-attachments/assets/c20a83d9-db86-4cc9-b2d3-dddc9dab4522)
+![image](https://github.com/user-attachments/assets/41cc0ef6-7e53-48b4-b8e9-41522246372b)
 
-* Coherent -> Sensible.
-* Start from 47mins.
+* Coherent -> Sensible. [Meaning]
 
+![image](https://github.com/user-attachments/assets/e934a655-346e-4027-87fd-89d7f208d488)
 
+* Odd one out. [Question]
+* Option **B**. [Correct]
 
+![image](https://github.com/user-attachments/assets/740c4b10-2300-405a-92e3-9009a2657174)
 
+* heckneyed -> narrow,borrowing. [Meaning]
 
+![image](https://github.com/user-attachments/assets/51b9152f-0c9c-4035-9222-df718bae5a08)
 
+* Odd one out. [Question]
+* Option **B**. [Got Wrong] [Doubt]
 
+![image](https://github.com/user-attachments/assets/dd3145ca-aa8b-4959-b724-61ebb5d48c52)
 
+* plumage ->  the light horny waterproof structure forming the external covering of birds -> feathers. [Meaning]
+* Ex -> out. [Meaning]
+* avian -> pertaining to or characteristic of birds. [Meaning]
 
+![image](https://github.com/user-attachments/assets/8c886782-aefb-4df9-83b6-49c610f5b310)
 
+* Odd one out. [Question]
+* Option **A**. [Correct]
 
+![image](https://github.com/user-attachments/assets/cbb577f5-dbbc-4898-8ff3-0ac4cfc5fb81)
 
+* Odd one out. [Question]
+* Option **3**. [Correct]
+* Auditory -> of or relating to the process of hearing. [Meaning]
+* Stimulus -> any stimulating information or event; acts to arouse action. [Meaning]
+
+![image](https://github.com/user-attachments/assets/bc041d32-891a-4431-960d-02c54672174d)
+![image](https://github.com/user-attachments/assets/cc54b1ce-7356-4bc7-a81e-03f9ed794d42)
+![image](https://github.com/user-attachments/assets/43e7c683-a0fc-4787-bed6-1db57f3e9fa3)
+
+* Auditory Stimuli -> Hearing. [Meaning]
+
+![image](https://github.com/user-attachments/assets/9e96611d-a78c-4e4b-8ee4-37e91ba87f3e)
+![image](https://github.com/user-attachments/assets/3fc2d328-6dba-408c-a92b-3645dad02675)
+
+* RC. [Question]
+
+![image](https://github.com/user-attachments/assets/55fd16c1-c2cb-45e3-923a-ae4ede762c35)
+
+* Option **A**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/7e9c0586-91d0-44f4-9d2f-263ca9ba1e9c)
+![image](https://github.com/user-attachments/assets/dcd60af1-89bf-473f-b0ed-8c2a80d8395c)
+![image](https://github.com/user-attachments/assets/5e6523c2-824b-4f32-aed2-8264be64301f)
+
+* Option **C**. [Got Wrong]
+* must -> important word -> Extreme statement -> Wrong.
+
+![image](https://github.com/user-attachments/assets/0efaf6f7-728c-42fc-a696-ad5170f7004a)
+![image](https://github.com/user-attachments/assets/f360bb3e-878d-4588-a68e-2dd27af124c4)
+![image](https://github.com/user-attachments/assets/daece47b-42d4-4e05-95b5-20b0469cc63c)
+![image](https://github.com/user-attachments/assets/691f0d9e-3ef2-4c4a-9434-87bc89866a39)
+
+* Option **C**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/64a881bb-782f-4d8f-9bde-ab778e75aae5)
+![image](https://github.com/user-attachments/assets/78364a3f-5ceb-4e32-a448-630fd9aceb77)
+![image](https://github.com/user-attachments/assets/7b985210-d398-4114-8508-f3da9776f9b2)
+![image](https://github.com/user-attachments/assets/25eec31b-1198-4d15-bf36-dcc0929af581)
+
+* Option **A**. [Got Wrong]
+* fully -> Extreme statement -> Wrong.
+
+![image](https://github.com/user-attachments/assets/46cb90fb-3bb5-479f-8dd2-8597931cb828)
+![image](https://github.com/user-attachments/assets/cd36a252-d0ff-4701-a7ee-7dcd4453085d)
+![image](https://github.com/user-attachments/assets/f0cf6f60-ee37-4bfd-a890-48ec25bd9cac)
+
+* Only -> Extreme statement -> Wrong.
+
+![image](https://github.com/user-attachments/assets/38ca1546-4659-4769-a6e5-98b3cd48ae23)
+
+* Same.
+* Similar.
 
 
 
