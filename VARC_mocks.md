@@ -476,6 +476,102 @@
 
 * Same.
 * Similar.
+* 'Same' and 'Similar' are not the **same**. 
+
+## VARC practice (4)
+
+![image](https://github.com/user-attachments/assets/5c351a9e-21b5-4bb4-a3fc-e13c00a1dd93)
+
+* RC. [Question]
+
+![image](https://github.com/user-attachments/assets/996b5e02-cb1f-4ce8-9b39-5d6cdc5e0287)
+![image](https://github.com/user-attachments/assets/1824ff83-3af5-4af4-89d3-11058a177634)
+
+* Option **C**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/6591ae21-65a3-407b-948f-814402474fe5)
+![image](https://github.com/user-attachments/assets/969a498e-02c7-4833-b890-31842196ee4b)
+
+* Option **D**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/52e39905-2092-42ad-ad7c-5bb79601b4ae)
+![image](https://github.com/user-attachments/assets/c2cad907-d1bb-419a-8853-12368a9b1ff5)
+
+* Option **B**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/bfb912ef-7d8f-403b-ab5f-403ff20833c1)
+![image](https://github.com/user-attachments/assets/16db2fd4-175a-4d62-bb19-353238dc5aa1)
+
+* Option **A**. [Correct]
+
+![image](https://github.com/user-attachments/assets/5988fac4-c677-4baf-adfe-cfbf9002f374)
+
+* RC. [Question]
+
+![image](https://github.com/user-attachments/assets/c7622ce0-a0eb-446c-8bf5-5f7d7e586767)
+![image](https://github.com/user-attachments/assets/7db363d3-2633-4b1a-9e5c-fc3b9a4b9acd)
+
+* Option **A**. [Got Wrong]
+* innumerable-> too numerous to be counted. [Meaning]
+
+![image](https://github.com/user-attachments/assets/c2ba29e7-95bc-43c1-8a4a-112e6656ec81)
+![image](https://github.com/user-attachments/assets/d894c8cd-e9d5-40f9-b038-e454d01cfb82)
+
+* Option **D**. [Correct]
+
+![image](https://github.com/user-attachments/assets/957701c1-6d1f-4dee-8463-9c241d1bd210)
+![image](https://github.com/user-attachments/assets/1db3eae3-d0ab-4e2f-92e2-9cb9f323380b)
+
+* Option **D**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/9af31da1-c278-412c-ad83-b67e4210716c)
+![image](https://github.com/user-attachments/assets/ea7d13e7-5713-479d-95a2-52a334ce978a)
+
+* Option **B**. [Got Wrong]
+* critical -> of or involving or characteristic of critics or criticism -> characterized by careful evaluation and judgment. [Meaning]
+* Impartial -> free from undue bias or preconceived opinions -> showing lack of favoritism. [Meaning]
+* Cynical -> believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others. [Meaning]
+* Disbelieving -> denying or questioning the tenets of especially a religion. [Meaning]
+
+![image](https://github.com/user-attachments/assets/65ca4cae-fc19-43cd-9d81-8e2d343c3563)
+![image](https://github.com/user-attachments/assets/7055790f-12f9-41a9-9944-54aca11bd5be)
+
+* RC. [Question]
+* Dogmas -> Preaching. [Meaning]
+* Conjure -> Imagine. [Meaning]
+
+![image](https://github.com/user-attachments/assets/7daf3477-f1d3-4e59-bbed-ad7a8f99e862)
+![image](https://github.com/user-attachments/assets/53ab84d0-c86e-4437-b2eb-af735fff7dbc)
+![image](https://github.com/user-attachments/assets/af3b0f9a-4e11-4f13-9a59-5c1bb5ef3812)
+![image](https://github.com/user-attachments/assets/575335df-6ca5-4408-b0d8-12a3870679d7)
+![image](https://github.com/user-attachments/assets/b527a262-1f56-4604-b06f-f8d1841cab9e)
+![image](https://github.com/user-attachments/assets/999e8420-9814-4329-bb66-d8cd2aa75528)
+
+* Option **A**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/8f3ca963-a6ec-4a7c-bf50-9a95f47a2aa1)
+![image](https://github.com/user-attachments/assets/d0df8840-c70d-4088-a412-e04f5591fd58)
+
+* Doubt. [2]
+* All members -> Extreme statement -> Wrong.
+* Only -> Extreme statement -> Wrong.
+* Option 'C and D' -> We do not know these.
+
+![image](https://github.com/user-attachments/assets/c90072f1-0f2f-4b85-b69b-63a4958db6f9)
+
+* Option **B**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/874db018-81d4-4c30-957a-2f7962b259eb)
+
+* Option **B**. [Got Wrong]
+
+
+
+
+
+
+
+
 
 
 
