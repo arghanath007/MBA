@@ -2782,25 +2782,107 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/62de488d-1a3d-47ae-a4f5-5547949b6b92)
 ![image](https://github.com/user-attachments/assets/2b2412c9-f06a-4a6a-b793-12d6eea23ee7)
+![image](https://github.com/user-attachments/assets/348bbba1-937f-485c-a205-b28a9f568044)
+![image](https://github.com/user-attachments/assets/434f3f5d-c8d1-42cc-b38a-f8200184cb34)
 
 * [Question]
+* 4-parameter venn diagram.
+* Atleast '3' dishes -> III + IV -> 50.
+* Atleast '2' dishes -> II + III + IV -> 182.
+* Atleast '1' dishes -> I + II + III + IV -> 295.
+* Both CB and MB -> B,L,P,H -> 0.
+* Both CB and DF -> K + L + J + P -> K + J. [J = 0, P = 0] 
+* Both MB and DF -> L + M + P + N -> M + N. [L = 0, P = 0] 
 
+![image](https://github.com/user-attachments/assets/fe1c3d80-f61d-43af-92a8-0bb0573f4647)
 
+* 'PK' is not ordered without 'DF'.
+* 'PK' without DF -> all of them -> '0'.
 
+![image](https://github.com/user-attachments/assets/b11ef523-f5e4-4005-8088-bdf6cf58ddf8)
+![image](https://github.com/user-attachments/assets/71e3cd3b-03e8-496b-b0cf-0359ba0af697)
 
+* IV = 0.
+* III = 50.
+* L + J + H + N -> III -> 50. [L = 0, H = 0]
+* J + N = 50. 
 
+![image](https://github.com/user-attachments/assets/e4e1ff15-2c23-453d-9b53-2e21c6d922bb)
 
+* II + III -> 182. [III = 50]
+* II = 132.
+* B + K + M + I + G + E -> II = 132.
+* K + M + E = 132. 
 
+![image](https://github.com/user-attachments/assets/979dc532-240d-45a9-8359-e76c2091d370)
+![image](https://github.com/user-attachments/assets/c5a09fe4-acdc-40b6-94b2-edfb3d8bf9e0)
+![image](https://github.com/user-attachments/assets/88c005a7-dca2-4050-ad96-64b270da292d)
 
+* I = 113.
+* A + C + D = 113.
+* C + M + N -> Total no. of people who ordered MB.
 
+![image](https://github.com/user-attachments/assets/ac386afd-ca5a-4122-9868-c7f61c1b2dbd)
 
+* Weighted Average. [**IMPORTANT**] [Formula] [Concept]
+* C * 1 -> 'C' people ordered '1' dish.
+* M * 2 -> 'M' people ordered '2' dishs.
+* N * 3 -> 'N' people ordered '3' dishs.
+* C * 1 + M * 2 + N * 3 -> Total no. of MB dish ordered.
 
+![image](https://github.com/user-attachments/assets/29a079fc-c0e3-48e7-b03d-9c0e25b37e97)
+![image](https://github.com/user-attachments/assets/841de6c8-8375-4970-82df-f4afed424b8f)
 
+* We have do **cross-multiplication**.
 
+![image](https://github.com/user-attachments/assets/b03c62f6-8f2a-4e9c-bad0-2059bae6737d)
+![image](https://github.com/user-attachments/assets/3cb4d9f8-4c89-427c-9f92-79d6e8d8c419)
+![image](https://github.com/user-attachments/assets/15c42054-fe8f-480a-9af1-63f10b82adac)
+![image](https://github.com/user-attachments/assets/79230faa-7159-4b4a-8ce7-11fa09a1f6a8)
+![image](https://github.com/user-attachments/assets/cf62b5e3-30e4-447f-89a5-e41a21e31a10)
 
+* D = E.
+* J + N = 50.
+* D = E = 50.
 
+![image](https://github.com/user-attachments/assets/43beb7b6-feb9-4694-802d-36a5fa83009c)
+![image](https://github.com/user-attachments/assets/3e1b4587-52dc-49fc-9402-a957d477cdd6)
+![image](https://github.com/user-attachments/assets/47de6cc8-aae8-49c6-a60d-485e1dcbcc71)
+![image](https://github.com/user-attachments/assets/4625ad0c-3063-4467-9a36-503c19cdf24e)
 
+* Total Venn Diagram -> 295.
+* Left -> 295 - D - E -> 295 - 50 - 50 -> 195.
+* A + C + K + M + J + N -> 195.
 
+![image](https://github.com/user-attachments/assets/6c0fc698-cd9e-4388-ae07-de11d62b2869)
+
+* A + C -> 63.
+* K + J -> 48 + M + N.
+
+![image](https://github.com/user-attachments/assets/0a6af71d-fa94-4017-a5a2-0c72aac7efa1)
+![image](https://github.com/user-attachments/assets/171a3921-4fb7-404b-8c0f-bef3087a9bf2)
+
+* C = N + 13.
+
+![image](https://github.com/user-attachments/assets/c59cf0fc-1151-467f-b058-54c0fa662303)
+![image](https://github.com/user-attachments/assets/4e6de099-1bc8-4bfc-9a91-a8176176e950)
+![image](https://github.com/user-attachments/assets/8f5a68c4-bb5b-4fff-abc4-399665255f14)
+
+* N = 10
+* C = N + 13
+* C = 23.
+* A + C = 63.
+* A = 40.
+* J = 40.
+* K + A = 90
+* K = 50.
+
+![image](https://github.com/user-attachments/assets/de4e124f-5295-43a1-8448-0b2ed8cd2242)
+![image](https://github.com/user-attachments/assets/2bd9ab14-5c85-44d9-9956-2ef6526ddc8d)
+![image](https://github.com/user-attachments/assets/e769bad3-f328-4675-9caf-085dae7ebdd8)
+
+* [Question]
+* Start from 1hr 15mins.
 
 
 
