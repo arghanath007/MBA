@@ -2880,9 +2880,94 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/de4e124f-5295-43a1-8448-0b2ed8cd2242)
 ![image](https://github.com/user-attachments/assets/2bd9ab14-5c85-44d9-9956-2ef6526ddc8d)
 ![image](https://github.com/user-attachments/assets/e769bad3-f328-4675-9caf-085dae7ebdd8)
+![image](https://github.com/user-attachments/assets/2c2c39b4-6c9a-4e9c-bf40-f5f3e1a2ec7e)
 
 * [Question]
-* Start from 1hr 15mins.
+* max. -> be careful. [**IMPORTANT**] [Logic] [Concept]
+* Total -> 100 people. [Let]
+* Max. -> 10%.
+* 1/3 of 100 -> 66.67
+* We have to take '4' steps so that we can reach '1/3' faster. We cannot do so in less than '4' days.
+
+![image](https://github.com/user-attachments/assets/5aa8c46d-6aaf-413d-84c3-662fab081a89)
+![image](https://github.com/user-attachments/assets/fe4dfdcb-7920-473c-aadb-4ce70e47fc8d)
+
+* Max. we can keep same is  'F, S, Su, M'.
+* According to the question, the '1/3' reduction is applicable to the mondays of the month of april only. [Logic] [**IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/1c4cdaac-38ba-42ae-b7da-0a49cdebf253)
+![image](https://github.com/user-attachments/assets/e6e748f5-9ff5-4691-b0a4-83bacd987a7a)
+![image](https://github.com/user-attachments/assets/ef6540e9-90cd-4eba-ac46-ccfbe159b3de)
+
+* 25th April -> Last Monday of april
+* 2nd May -> Next Monday.
+* We are in may now and the '1/3' reduction worked in april only.
+* 4th Apr to 11th Apr -> 4days.
+* 11th Apr to 18th Apr -> 4days.
+* 22th Apr to 30th Apr -> 9days. [1] [Answer] [**VERY IMPORTANT**]
+* 9 > 4. 
+
+![image](https://github.com/user-attachments/assets/96637037-8c6f-46d8-80f3-82d8f29e185f)
+![image](https://github.com/user-attachments/assets/a23b5c8f-1fbf-4e07-be44-aee4638cc6d1)
+
+* We have to maximize on '1st of april' because after that everytime the no. of workers are getting reduced. [Logic] [**IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/ce031eab-e69a-47da-b135-3de9ec90108d)
+![image](https://github.com/user-attachments/assets/2e6546ee-de61-47f7-8bc8-aee7362cb7a9)
+
+* [Formula] [**IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/e8a22628-44ef-48fe-819d-5cf7c14b329d)
+![image](https://github.com/user-attachments/assets/50d3f7c8-fceb-4344-9f40-7e83d1ae7b19)
+
+* 55 to 49 -> 11% decrease.
+* Max. is 10%. So we cannot take '55', we will take '54'.
+
+![image](https://github.com/user-attachments/assets/7b23e66c-2afc-4665-a40d-09c80d98fdb3)
+
+* Jump from 11th april to 4th april.
+* 10% decrease -> 1/10 = n/n+d -> n = 1, d=9.
+* n/d = 1/9 increase.
+* We we go from 1st to 2nd april -> 10% decrease.
+* We we go from 2nd to 1st april -> 1/9 increase.
+
+![image](https://github.com/user-attachments/assets/96309c92-886a-4b41-9fe0-6135d3b77547)
+![image](https://github.com/user-attachments/assets/2548b1e5-8657-45cb-aa68-89511b180012)
+
+* Max -> 111. [Answer] [2] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/1db28fb0-a90b-4aa5-a15b-ebd8ab27ac54)
+![image](https://github.com/user-attachments/assets/24587626-8c4b-41e5-b780-3d6a6c8dbe72)
+
+* We have to maximize.
+* The women work force is **increasing** as the months goes on. So we can maximize on 30th april.
+* It is opposite to men as men work force is **decreasing** as the months goes on. So we can maximize men on 1st of april.
+* Max. increase is '10%'.
+* 4th april -> x. [Let]
+* 11th april -> 1.5x -> 26.
+* 'x' will not be an **integer**. So it cannot be '26'. We know that it has to be greater than '19' but less than '26' and we can find the '50%' of that number.
+* Only possible no. is '24'. It has to be '24'.
+
+![image](https://github.com/user-attachments/assets/3a2db3bb-91c5-461e-a131-97c71d7ff8b2)
+![image](https://github.com/user-attachments/assets/41e8fd93-af8f-4793-93b3-2701e96fdf8d)
+![image](https://github.com/user-attachments/assets/3ff20004-e53d-4f4c-9072-a7d781f9ff82)
+![image](https://github.com/user-attachments/assets/0d155dc4-58a7-4d2a-9a8c-1fa20c71d0b3)
+
+* We have to keep it less than '10%'. Max. is '10%'.
+* Max -> 84. [3] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/4bc615a3-724f-4ce4-8fbe-81a668d3d073)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
