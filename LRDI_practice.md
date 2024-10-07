@@ -1123,6 +1123,185 @@
 ![image](https://github.com/user-attachments/assets/fe16ca08-d7c9-49bf-a686-dd8de1acc33e)
 ![image](https://github.com/user-attachments/assets/566bfaa7-33ca-4cb8-85cb-e576b989be68)
 
+### Mixed Practice (7)
+
+![image](https://github.com/user-attachments/assets/62de488d-1a3d-47ae-a4f5-5547949b6b92)
+![image](https://github.com/user-attachments/assets/2b2412c9-f06a-4a6a-b793-12d6eea23ee7)
+![image](https://github.com/user-attachments/assets/348bbba1-937f-485c-a205-b28a9f568044)
+![image](https://github.com/user-attachments/assets/434f3f5d-c8d1-42cc-b38a-f8200184cb34)
+
+* [Question]
+* 4-parameter venn diagram.
+* Atleast '3' dishes -> III + IV -> 50.
+* Atleast '2' dishes -> II + III + IV -> 182.
+* Atleast '1' dishes -> I + II + III + IV -> 295.
+* Both CB and MB -> B,L,P,H -> 0.
+* Both CB and DF -> K + L + J + P -> K + J. [J = 0, P = 0] 
+* Both MB and DF -> L + M + P + N -> M + N. [L = 0, P = 0] 
+
+![image](https://github.com/user-attachments/assets/fe1c3d80-f61d-43af-92a8-0bb0573f4647)
+
+* 'PK' is not ordered without 'DF'.
+* 'PK' without DF -> all of them -> '0'.
+
+![image](https://github.com/user-attachments/assets/b11ef523-f5e4-4005-8088-bdf6cf58ddf8)
+![image](https://github.com/user-attachments/assets/71e3cd3b-03e8-496b-b0cf-0359ba0af697)
+
+* IV = 0.
+* III = 50.
+* L + J + H + N -> III -> 50. [L = 0, H = 0]
+* J + N = 50. 
+
+![image](https://github.com/user-attachments/assets/e4e1ff15-2c23-453d-9b53-2e21c6d922bb)
+
+* II + III -> 182. [III = 50]
+* II = 132.
+* B + K + M + I + G + E -> II = 132.
+* K + M + E = 132. 
+
+![image](https://github.com/user-attachments/assets/979dc532-240d-45a9-8359-e76c2091d370)
+![image](https://github.com/user-attachments/assets/c5a09fe4-acdc-40b6-94b2-edfb3d8bf9e0)
+![image](https://github.com/user-attachments/assets/88c005a7-dca2-4050-ad96-64b270da292d)
+
+* I = 113.
+* A + C + D = 113.
+* C + M + N -> Total no. of people who ordered MB.
+
+![image](https://github.com/user-attachments/assets/ac386afd-ca5a-4122-9868-c7f61c1b2dbd)
+
+* Weighted Average. [**IMPORTANT**] [Formula] [Concept]
+* C * 1 -> 'C' people ordered '1' dish.
+* M * 2 -> 'M' people ordered '2' dishs.
+* N * 3 -> 'N' people ordered '3' dishs.
+* C * 1 + M * 2 + N * 3 -> Total no. of MB dish ordered.
+
+![image](https://github.com/user-attachments/assets/29a079fc-c0e3-48e7-b03d-9c0e25b37e97)
+![image](https://github.com/user-attachments/assets/841de6c8-8375-4970-82df-f4afed424b8f)
+
+* We have do **cross-multiplication**.
+
+![image](https://github.com/user-attachments/assets/b03c62f6-8f2a-4e9c-bad0-2059bae6737d)
+![image](https://github.com/user-attachments/assets/3cb4d9f8-4c89-427c-9f92-79d6e8d8c419)
+![image](https://github.com/user-attachments/assets/15c42054-fe8f-480a-9af1-63f10b82adac)
+![image](https://github.com/user-attachments/assets/79230faa-7159-4b4a-8ce7-11fa09a1f6a8)
+![image](https://github.com/user-attachments/assets/cf62b5e3-30e4-447f-89a5-e41a21e31a10)
+
+* D = E.
+* J + N = 50.
+* D = E = 50.
+
+![image](https://github.com/user-attachments/assets/43beb7b6-feb9-4694-802d-36a5fa83009c)
+![image](https://github.com/user-attachments/assets/3e1b4587-52dc-49fc-9402-a957d477cdd6)
+![image](https://github.com/user-attachments/assets/47de6cc8-aae8-49c6-a60d-485e1dcbcc71)
+![image](https://github.com/user-attachments/assets/4625ad0c-3063-4467-9a36-503c19cdf24e)
+
+* Total Venn Diagram -> 295.
+* Left -> 295 - D - E -> 295 - 50 - 50 -> 195.
+* A + C + K + M + J + N -> 195.
+
+![image](https://github.com/user-attachments/assets/6c0fc698-cd9e-4388-ae07-de11d62b2869)
+
+* A + C -> 63.
+* K + J -> 48 + M + N.
+
+![image](https://github.com/user-attachments/assets/0a6af71d-fa94-4017-a5a2-0c72aac7efa1)
+![image](https://github.com/user-attachments/assets/171a3921-4fb7-404b-8c0f-bef3087a9bf2)
+
+* C = N + 13.
+
+![image](https://github.com/user-attachments/assets/c59cf0fc-1151-467f-b058-54c0fa662303)
+![image](https://github.com/user-attachments/assets/4e6de099-1bc8-4bfc-9a91-a8176176e950)
+![image](https://github.com/user-attachments/assets/8f5a68c4-bb5b-4fff-abc4-399665255f14)
+
+* N = 10
+* C = N + 13
+* C = 23.
+* A + C = 63.
+* A = 40.
+* J = 40.
+* K + A = 90
+* K = 50.
+
+![image](https://github.com/user-attachments/assets/de4e124f-5295-43a1-8448-0b2ed8cd2242)
+![image](https://github.com/user-attachments/assets/2bd9ab14-5c85-44d9-9956-2ef6526ddc8d)
+![image](https://github.com/user-attachments/assets/e769bad3-f328-4675-9caf-085dae7ebdd8)
+![image](https://github.com/user-attachments/assets/2c2c39b4-6c9a-4e9c-bf40-f5f3e1a2ec7e)
+
+* [Question]
+* max. -> be careful. [**IMPORTANT**] [Logic] [Concept]
+* Total -> 100 people. [Let]
+* Max. -> 10%.
+* 1/3 of 100 -> 66.67
+* We have to take '4' steps so that we can reach '1/3' faster. We cannot do so in less than '4' days.
+
+![image](https://github.com/user-attachments/assets/5aa8c46d-6aaf-413d-84c3-662fab081a89)
+![image](https://github.com/user-attachments/assets/fe4dfdcb-7920-473c-aadb-4ce70e47fc8d)
+
+* Max. we can keep same is  'F, S, Su, M'.
+* According to the question, the '1/3' reduction is applicable to the mondays of the month of april only. [Logic] [**IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/1c4cdaac-38ba-42ae-b7da-0a49cdebf253)
+![image](https://github.com/user-attachments/assets/e6e748f5-9ff5-4691-b0a4-83bacd987a7a)
+![image](https://github.com/user-attachments/assets/ef6540e9-90cd-4eba-ac46-ccfbe159b3de)
+
+* 25th April -> Last Monday of april
+* 2nd May -> Next Monday.
+* We are in may now and the '1/3' reduction worked in april only.
+* 4th Apr to 11th Apr -> 4days.
+* 11th Apr to 18th Apr -> 4days.
+* 22th Apr to 30th Apr -> 9days. [1] [Answer] [**VERY IMPORTANT**]
+* 9 > 4. 
+
+![image](https://github.com/user-attachments/assets/96637037-8c6f-46d8-80f3-82d8f29e185f)
+![image](https://github.com/user-attachments/assets/a23b5c8f-1fbf-4e07-be44-aee4638cc6d1)
+
+* We have to maximize on '1st of april' because after that everytime the no. of workers are getting reduced. [Logic] [**IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/ce031eab-e69a-47da-b135-3de9ec90108d)
+![image](https://github.com/user-attachments/assets/2e6546ee-de61-47f7-8bc8-aee7362cb7a9)
+
+* [Formula] [**IMPORTANT**] [Concept]
+
+![image](https://github.com/user-attachments/assets/e8a22628-44ef-48fe-819d-5cf7c14b329d)
+![image](https://github.com/user-attachments/assets/50d3f7c8-fceb-4344-9f40-7e83d1ae7b19)
+
+* 55 to 49 -> 11% decrease.
+* Max. is 10%. So we cannot take '55', we will take '54'.
+
+![image](https://github.com/user-attachments/assets/7b23e66c-2afc-4665-a40d-09c80d98fdb3)
+
+* Jump from 11th april to 4th april.
+* 10% decrease -> 1/10 = n/n+d -> n = 1, d=9.
+* n/d = 1/9 increase.
+* We we go from 1st to 2nd april -> 10% decrease.
+* We we go from 2nd to 1st april -> 1/9 increase.
+
+![image](https://github.com/user-attachments/assets/96309c92-886a-4b41-9fe0-6135d3b77547)
+![image](https://github.com/user-attachments/assets/2548b1e5-8657-45cb-aa68-89511b180012)
+
+* Max -> 111. [Answer] [2] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/1db28fb0-a90b-4aa5-a15b-ebd8ab27ac54)
+![image](https://github.com/user-attachments/assets/24587626-8c4b-41e5-b780-3d6a6c8dbe72)
+
+* We have to maximize.
+* The women work force is **increasing** as the months goes on. So we can maximize on 30th april.
+* It is opposite to men as men work force is **decreasing** as the months goes on. So we can maximize men on 1st of april.
+* Max. increase is '10%'.
+* 4th april -> x. [Let]
+* 11th april -> 1.5x -> 26.
+* 'x' will not be an **integer**. So it cannot be '26'. We know that it has to be greater than '19' but less than '26' and we can find the '50%' of that number.
+* Only possible no. is '24'. It has to be '24'.
+
+![image](https://github.com/user-attachments/assets/3a2db3bb-91c5-461e-a131-97c71d7ff8b2)
+![image](https://github.com/user-attachments/assets/41e8fd93-af8f-4793-93b3-2701e96fdf8d)
+![image](https://github.com/user-attachments/assets/3ff20004-e53d-4f4c-9072-a7d781f9ff82)
+![image](https://github.com/user-attachments/assets/0d155dc4-58a7-4d2a-9a8c-1fa20c71d0b3)
+
+* We have to keep it less than '10%'. Max. is '10%'.
+* Max -> 84. [3] [Answer] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/4bc615a3-724f-4ce4-8fbe-81a668d3d073)
 
 
 
