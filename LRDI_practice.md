@@ -1303,6 +1303,33 @@
 
 ![image](https://github.com/user-attachments/assets/4bc615a3-724f-4ce4-8fbe-81a668d3d073)
 
+## Venn Diagram Practice
+
+![image](https://github.com/user-attachments/assets/78a8a88d-7009-49ab-bb5c-dbd477d84201)
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
