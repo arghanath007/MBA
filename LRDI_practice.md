@@ -1306,9 +1306,80 @@
 ## Venn Diagram Practice
 
 ![image](https://github.com/user-attachments/assets/78a8a88d-7009-49ab-bb5c-dbd477d84201)
+![image](https://github.com/user-attachments/assets/c6636136-1702-462c-9868-f0a1daf13535)
 
 * [Question]
+* Member of 'R' -> e + g + f + c.
+* Not member of 'R' -> a + d + b.
+* Member of '1' group -> a + b + c.
 
+![image](https://github.com/user-attachments/assets/0c75c2ba-4cd1-48cd-9804-613d36b23359)
+![image](https://github.com/user-attachments/assets/db834acf-b1af-4a37-8019-209dab8b34d3)
+
+* Members of atleast '2' groups -> d + e + f + g.
+* Total -> 25.
+
+![image](https://github.com/user-attachments/assets/76d551f6-247f-4de6-870f-5898de6aca7e)
+![image](https://github.com/user-attachments/assets/63f85f35-9fcd-43d3-b547-5ac94a732a0c)
+
+* Only case possible is 'g = 5' and 'd + e + f' can be either '3 or 4'.
+
+![image](https://github.com/user-attachments/assets/71f6753a-942f-4b35-87e1-b0514f09c039)
+![image](https://github.com/user-attachments/assets/10548fd0-bdc7-4278-8b32-9339dce56952)
+![image](https://github.com/user-attachments/assets/5e13f24a-0946-48ce-9480-87ca6c92ff49)
+![image](https://github.com/user-attachments/assets/b7e1098b-6d19-4769-9ce3-1d5883861725)
+
+* '1' case is only possible.
+* d + e + f = 3.
+* a + b + c = 17.
+
+![image](https://github.com/user-attachments/assets/7974e17f-d15d-4951-8d38-a71541acc8ef)
+![image](https://github.com/user-attachments/assets/364c76d5-b015-4514-8f06-b6acf68195bb)
+
+* Answer -> g = 5. [1] [Solution]
+* R = e + c + f + g [g = 5]
+
+![image](https://github.com/user-attachments/assets/109cac25-96f3-4b96-b02f-10fa4d7d1415)
+
+* Sum should be '20'. 
+
+![image](https://github.com/user-attachments/assets/070acc14-33db-430e-8fea-9c8d1f025b53)
+
+* R > 14.
+* All of the options for question **2** are greater than '14'. So it is **CBD**.
+* Answer -> option **D** -> CBD. [1] [Solution]
+
+![image](https://github.com/user-attachments/assets/f52946c7-b59b-4547-aeb1-bbaca97e648a)
+
+* Question **3 and 4** have some extra info for them.
+* Between '2' groups 'P and R' -> e + g. 
+* Between '2' groups 'Q and R' -> f + g. 
+
+![image](https://github.com/user-attachments/assets/207234f2-de29-47a7-a20f-a5abfa6ca4b3)
+
+* e = f = 1.
+* Exactly '2' groups -> d + e + f.
+* 'P' group alone -> a.
+* d + e + f = 3.
+* * d + e + f = a = 3.
+* 'R' group alone -> c. [Find]
+* 'Q' group alone -> b. [Find]
+* Sum = b + c.
+* a + b + c = 17. [a = 3]
+* b + c = 17 - 3 = 14.
+* b + c = 14. [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/5fa2a338-1ed4-4fc4-8fa6-0ccb8cbfe19b)
+
+* Members of 'P' = a + e + g + d.
+* d + e + f = 3. [e = 1, f = 1]
+* d = 1.
+
+![image](https://github.com/user-attachments/assets/10ef3647-bb70-4aa3-aefb-b6eb3bd3b864)
+![image](https://github.com/user-attachments/assets/505ca3e3-8abe-4739-b9d7-ac103a30d630)
+
+* 'P' = a + e + g + d -> 3 + 1 + 5 + 1 -> 10. [4] [Answer]
+* Start from 42mins.
 
 
 
