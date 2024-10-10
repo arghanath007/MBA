@@ -1385,36 +1385,146 @@
 ![image](https://github.com/user-attachments/assets/3611b4b4-ac66-4ce0-88b6-b7412cf3681e)
 
 * [Question]
+* Total -> a + b + c + d + e + f + g + h = 100.
+* Exactly '1' movie -> a + b + c
+* IAK -> e + g + b + f.
+* IAK and ETT -> g + f.
+* AT and ETT but not IAK -> d. 
 
+![image](https://github.com/user-attachments/assets/79738f82-908e-4dda-a927-c6a2507a71e1)
 
+ * AT and IAK -> e + g.
+ * None of the students in the category of 'e + g' who haven't watched 'ETT'. Everyone has watched 'ETT'. It means that 'e = 0'.
 
+![image](https://github.com/user-attachments/assets/ff8d9afc-b009-4b19-8ed9-29e4bece0a73)
+![image](https://github.com/user-attachments/assets/bb38eb11-cd3f-4750-92dd-201d81ed3fe6)
 
+* Haven't watched any of the '3' movies -> h.
+* Atleast '1' of the '3' movies -> S -> a + b + c + d + e + f + g.
 
+![image](https://github.com/user-attachments/assets/2fbf25e8-4727-420e-b262-c8324950578f)
+![image](https://github.com/user-attachments/assets/60c141df-79bf-4222-9362-fc0c562ea6a8)
 
+* Exactly '2' movies -> d + e + f.
+* All '3' movies -> g.
+* d + e + f = 16 + g [e = 0]
+* d + f = 16 + g.
 
+![image](https://github.com/user-attachments/assets/e5a93ee4-c3f9-4e35-b693-5a8a4f89f129)
 
+* We have to minimize the no. of variables.
 
+![image](https://github.com/user-attachments/assets/42e97917-e426-48e3-ae5b-cdf8d95fb15b)
+![image](https://github.com/user-attachments/assets/c3ddf1b4-dae5-414e-9623-5395a58a6dfa)
+![image](https://github.com/user-attachments/assets/da33726f-10ce-4e5e-8424-164b7a8ad717)
+![image](https://github.com/user-attachments/assets/5f665300-768a-433a-be2f-a524bc6dabb1)
 
+* g = d + 2.
+* Convert all in 'd'.
+* 'b' is already cancelled. We cannot convert it into 'd'.
 
+![image](https://github.com/user-attachments/assets/8fbcf29f-6b71-47d4-9b64-a2152c17a95f)
+![image](https://github.com/user-attachments/assets/bea6e4fc-6f44-4d08-9edb-a9503c3dd124)
 
+* Definite set.
+* More than '1' movie -> 0 + d + (d + 2) + 18.
+* We need to maximize '2d + 20'.
+* (2 * (d + 20))/3 + (d + 20)/3 -> 2x/3 + x/3 -> 3x/3 -> x -> d + 20.
 
+![image](https://github.com/user-attachments/assets/7ff12485-1031-4a58-9674-bc67c2e00aa1)
 
+* We have to maximize 'd'.
+* To maximize 'd', we have to minimize 'b'.
 
+![image](https://github.com/user-attachments/assets/99bb705b-1c8e-45e3-9dd7-754cb1874a16)
+![image](https://github.com/user-attachments/assets/c204d1a4-435b-48a1-9511-c8e3b3a02baf)
 
+* 'h' min is '1'.
+* 'k' max is '99'.
+* 59/3 -> Not an integer.
+* Integer will come when 'b >= 2'.
 
+![image](https://github.com/user-attachments/assets/0d725af6-0c95-411c-bbb7-e4517b7d8ef0)
+![image](https://github.com/user-attachments/assets/7707ddfe-d46f-4782-b86f-fa631d819ba6)
 
+* Even if 'b = 0' then 'd' max is '19'. With 'b = 2' we are getting 'd' max as '19'.
+* 'd' max as '19'
+* Max. students who watched more than '1' movie -> d + 0 + 18 + d + 2 -> 2d + 20. 
 
+![image](https://github.com/user-attachments/assets/aa8dd727-e1cb-4130-9241-492eda96a5a3)
+![image](https://github.com/user-attachments/assets/142b0c2b-163a-436b-907d-e7a4e3882ae0)
+![image](https://github.com/user-attachments/assets/d86ac755-6609-42dc-9ccd-a51ba960e921)
 
+* Answer -> 58. [1] [Solution]
 
+![image](https://github.com/user-attachments/assets/12b4cbb0-c4e0-4149-ae30-ce147579c2fa)
+![image](https://github.com/user-attachments/assets/83644bdf-705b-43c0-9aaf-f94f3967590b)
 
+* Only IAK -> max. value of 'b'.
+* To maximize 'b' we need to minimize 'd'.
+* '(d + 20)/3' should be an **integer**.
+* 'd' min is '1'.
+* 'h' min is '1'.
+* 'k' max is '99'.
+* Answer -> 56. [2] [Solution]
 
+![image](https://github.com/user-attachments/assets/c8636d70-a31c-4988-929d-9358c12ae582)
 
+* Exactly '2' movies -> d + 0 + 18 -> d + 18.
+* None of the '3' movies -> h.
+* d + 18 = h.
+* Exactly '1' movies -> a + b + c -> Find?
+* 'd' cannot be '0' because we want '(d + 20)/3' to be an integer. So 'd = 1'.
+* 1 <=h<20 -> 'h' is less than '20'.
+* So 'd = 2' is not possile as we will get 'h = 20'.
 
+![image](https://github.com/user-attachments/assets/a173fa7f-c467-49f9-a8fe-c3142aaea811)
 
+* Only possibility.
+* h = 19.
+* Total -> 100.
+* Inside venn diagram sum -> 100 - 19 -> 81.
 
+![image](https://github.com/user-attachments/assets/24d356c3-b0e2-47df-9603-0173c94bf59d)
 
+* We want the value of 'a + b + c'.
+* a + b + c -> (2 * (d + 20))/3 + b + (d + 20)/3 -> d + 20 + b.
 
+![image](https://github.com/user-attachments/assets/6521536f-bc88-494c-9367-fb5f54d18829)
+![image](https://github.com/user-attachments/assets/3c622f69-41f4-4570-ac6f-5eb9866b1eb4)
 
+* a + b + c -> d + 20 + b -> 1 + 20 + 38 -> 59. [3] [Solution]
+
+![image](https://github.com/user-attachments/assets/b23f4169-9201-4bd2-9ed6-8769304ab143)
+
+* IAK =  ETT -> b = (d + 20)/3.
+* All movies watched -> g -> d + 2.
+* None movies watched -> h.
+
+![image](https://github.com/user-attachments/assets/7b2a912c-c2c8-4df9-88bc-4366accd8050)
+![image](https://github.com/user-attachments/assets/b7fbdef7-ed54-41fb-b637-51dcd8e28956)
+
+* 'd' should be an integer.
+* For 'd = 13' in '(d + 20)/3' we are getting 'd' as an integer.
+* d + 20/3 -> 13 + 20/3 -> 33/3 -> 11 -> integer.
+
+![image](https://github.com/user-attachments/assets/7f7f6119-d4ef-4f71-8643-c356c5b15009)
+![image](https://github.com/user-attachments/assets/558d56da-7428-472c-b0b1-3b2351ffcf34)
+
+* Venn diagram value(Vd) inside -> Atleast '1' movie case -> 3d + 40 + b.
+* b = d + 20/3 [d = 13]
+* b = 33/3 = 11.
+* 3d + 40 + b -> 90.
+* h = 100 - 90 -> 10.
+
+![image](https://github.com/user-attachments/assets/68608940-36fe-4e2c-a787-760970f01f4b)
+
+* Answer -> 150%. [4] [Solution]
+
+![image](https://github.com/user-attachments/assets/3692454f-77a3-492b-a7d0-b0a20f86a14a)
+
+* [Question]
+* 1hr 54mins.
 
 
 
