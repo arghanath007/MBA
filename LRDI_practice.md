@@ -1522,9 +1522,90 @@
 * Answer -> 150%. [4] [Solution]
 
 ![image](https://github.com/user-attachments/assets/3692454f-77a3-492b-a7d0-b0a20f86a14a)
+![image](https://github.com/user-attachments/assets/d8bbcf0e-d5b1-420f-8b78-8c54f675c6f5)
+![image](https://github.com/user-attachments/assets/286049d3-6a1b-4102-b273-7a0f833d5a5c)
+![image](https://github.com/user-attachments/assets/591a3a19-7bc2-40aa-9607-c6e65bd412cd)
 
+* '2' products were not sold.
 * [Question]
-* 1hr 54mins.
+
+![image](https://github.com/user-attachments/assets/a59dc2cb-56a7-4fd0-9468-efced70b14c0)
+![image](https://github.com/user-attachments/assets/c03ab327-9d4e-478e-bf4e-ee9bb0438feb)
+
+* '2' products were not sold.
+* '3' product type.
+* Exactly '1' box -> a + b + c.
+* Exactly '2' box -> e + d + f.
+* Exactly '3' box -> g
+
+![image](https://github.com/user-attachments/assets/8168bec8-bdeb-4fa0-bca7-bef326d9bfb6)
+![image](https://github.com/user-attachments/assets/9a0bef1d-f770-4a38-92c4-92a1f4ad4c1d)
+![image](https://github.com/user-attachments/assets/6b238ede-e8cf-4b10-b3a4-48ec0229fa6d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
