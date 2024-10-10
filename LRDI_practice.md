@@ -1379,8 +1379,11 @@
 ![image](https://github.com/user-attachments/assets/505ca3e3-8abe-4739-b9d7-ac103a30d630)
 
 * 'P' = a + e + g + d -> 3 + 1 + 5 + 1 -> 10. [4] [Answer]
-* Start from 42mins.
 
+![image](https://github.com/user-attachments/assets/5b0e38e7-912a-43dd-87f7-103ab49a04a1)
+![image](https://github.com/user-attachments/assets/a5469ca4-c770-4e58-a305-30449fe136c2)
+
+* [Question]
 
 
 
