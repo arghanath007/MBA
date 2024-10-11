@@ -1999,7 +1999,72 @@
 * Answer -> 44. [4]
 * Answer -> Dhoni. [5]
 
-* 1hr 20mins.
+![image](https://github.com/user-attachments/assets/0e45faec-52ab-4623-91a8-965dfc840e64)
+![image](https://github.com/user-attachments/assets/8e4021c1-9fbd-4bd9-b079-aa23e097e7b6)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/f4b38661-9b50-49ca-9378-bede0cd52071)
+
+* Row-wise and column-wise -> '2' ticks and '1' cross for **both**.
+
+![image](https://github.com/user-attachments/assets/7259a66c-eef8-4337-937e-752b442c17f5)
+![image](https://github.com/user-attachments/assets/8a4bfca4-ee85-4d33-a69e-f0aae7529bbb)
+![image](https://github.com/user-attachments/assets/93bdc13c-0094-406e-a7ab-8a9ddcfe052f)
+![image](https://github.com/user-attachments/assets/a5525801-e2f0-42c6-b627-ae48bd54039a)
+![image](https://github.com/user-attachments/assets/0592c44d-187c-4f4b-8d61-3757adc61088)
+
+* Why not in the middle?
+* middle -> 12 - 8 -> 4.
+
+![image](https://github.com/user-attachments/assets/c84fb597-7519-4249-999b-ec9076d9eae5)
+![image](https://github.com/user-attachments/assets/74b42eed-a3c0-4004-a74f-739a86b8a634)
+![image](https://github.com/user-attachments/assets/86803097-0116-43d1-abee-9e6d260c6265)
+![image](https://github.com/user-attachments/assets/64a28eee-b30c-45b5-ba2a-19bd5fc12120)
+
+* Selection.
+
+![image](https://github.com/user-attachments/assets/5b9886a2-ce48-415d-a6b1-3cce53484715)
+![image](https://github.com/user-attachments/assets/cc91b8bc-2842-4ddc-9bfd-e8bdeb9a8545)
+
+* Arrangement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
