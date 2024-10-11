@@ -1631,25 +1631,52 @@
 * We have to make the '40' into '54'. We need '14' extra.
 
 ![image](https://github.com/user-attachments/assets/15465bd7-4dcd-4a34-aa8f-6d3c3212e30e)
+![image](https://github.com/user-attachments/assets/86de6fcb-4219-4b97-8780-c541312c5390)
 
 * Put '1' row again as constant.
 
+![image](https://github.com/user-attachments/assets/5685ed56-0e61-4b39-802d-caf135563d43)
+![image](https://github.com/user-attachments/assets/c4a4bd46-5aa6-4dc5-9549-e78837400ede)
 
+* Prime nos -> 11, 17, |-7|, 19.
+* Sum -> 11 + 17 + |-7| + 19 -> 54.
 
+![image](https://github.com/user-attachments/assets/e1bc4cfe-faee-41d4-bbc4-9717379c88ab)
 
+* Sum of 'C' -> 81.
+* C -> 16 + 8 + 17 -> 41
+* 81 - 41 -> 40.
+* 2nd Row -> CBDA -> 40 + 12 + 7 + 5 -> 64.
 
+![image](https://github.com/user-attachments/assets/18e4ab02-58aa-4901-8825-dbaed21108b0)
 
+* G = 64.
+* G = P - 18.
+* P = 82.
+* G = A - 36
+* A = 100.
+* M = 304 - (100 + 64 + 82)
+* M = 58. [1] [Answer]
 
+![image](https://github.com/user-attachments/assets/2af141f3-44e5-4f13-8ff7-42625af9f82f)
+![image](https://github.com/user-attachments/assets/c3765c6e-633a-4c1f-ad56-00c2537dbc15)
 
+* IMPORTANT to attack the set from the positioning part. [**IMPORTANT**] [Logic] [Concept]
 
+![image](https://github.com/user-attachments/assets/146d1c6b-27d6-46cd-a385-7d3fb12de72b)
 
+* A -> 30 + 5 + 28 -> 63. [3] [Answer]
+* B -> 19 + 35 + 12 + 32 + 25 + 4 -> 127.
+* D -> 7 + 11 + 15 -> 33.
+* Max. trees in a plot -> 40. [2] [Answer]
+* Who -> C. [2] [Answer]
+* Max. Apple trees -> B. [4] [Answer]
+* Diff -> B - D -> 127 - 33 -> 94. [5] [Answer]
 
+![image](https://github.com/user-attachments/assets/d1ac766c-d83d-4a6d-9143-3f5fe1778930)
 
-
-
-
-
-
+* [Question]
+* 1hr 11mins.
 
 
 
