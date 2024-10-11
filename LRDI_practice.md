@@ -1682,25 +1682,147 @@
 * [Question]
 * Amt. are in **1000s**.
 
+![image](https://github.com/user-attachments/assets/10072d22-04d3-4a5c-b065-ca304f7c07aa)
 
+* Example.
+* Attacking point -> Min/Max.
+* D/A -> Smaller values -> Less no. of cases.
+* Out of '120', 'D' has '75' at the end.
 
+![image](https://github.com/user-attachments/assets/0b7844fd-3766-4f81-abe0-7bcaf81f4460)
 
+* D -> 120 -> Lowest.
+* D -> 75 left -> Highest.
+* D -> 120 - 75 -> 45 spent.
+* D <= 45.
+* Till item '9', 'D' has spent only '<=45' as 'D' is left with '75' to bid on item '10'. [Logic] [Concept]
+* 'D' must be left with '75' as 'D' bid '75' on 'item 10'. So 'D' has spent '45'.
+* 68 > 45 -> We want less than '45'.
+* 'D' did not spend '68' on 'item 8'.
 
+![image](https://github.com/user-attachments/assets/f436cf22-df97-4c26-b488-71cc54a40b94)
 
+* Item '1' winner -> Could be either 'B' or 'D'.
 
+![image](https://github.com/user-attachments/assets/3ccda836-6489-4717-a43e-d087cdad2ac7)
 
+* Item '2' winner -> 'C', 'B' or 'A'.
+* Item '3' winner -> 'E' or 'A'.
+* Item '5' winner -> 'D' guranteed.
+* As 'D' is suppose to spend less than '45' and 'D' has spend '40' on Item '5' guranteed, which means that 'D' has not spend anymore money.
+* 40 <= 45.
+* 'D' spent '40' on item '5' and cannot spend anymore till item '9'.
+* We don't know about Item '10' yet but till Item '9', 'D' has only bought/spent on Item '5'.
 
+![image](https://github.com/user-attachments/assets/014f68d3-bffd-42ed-893e-d13909d48b13)
 
+* Remove 'D' eveywhere other than Item '5'. 
 
+![image](https://github.com/user-attachments/assets/d004d098-94b0-4cd1-b233-37efc2eaa3e9)
 
+* Item '6' -> 'A or E' -> Cannot be 'D'. 
 
+![image](https://github.com/user-attachments/assets/52791ce0-d73d-49a4-bd23-44ecb630c240)
+![image](https://github.com/user-attachments/assets/19a7a09f-ad38-4638-a33c-4cff357a0e26)
 
+* Item '9' -> 'D or C' -> Cannot be 'D' -> 'C' guranteed.
+* We don't know about Item '10'.
 
+![image](https://github.com/user-attachments/assets/605d34fc-0fa7-4303-a6fc-d70ca8f1be8e)
+![image](https://github.com/user-attachments/assets/d0019488-d7f8-4879-adf6-5c20381f0496)
 
+* Attacking point -> Who are coming more no. of times -> 'C', 'E'. [Logic] [Concept]
 
+![image](https://github.com/user-attachments/assets/f5d23d60-a37f-49ab-8ad7-91a6b1bfefa1)
+![image](https://github.com/user-attachments/assets/4503c603-6925-4c4c-90ee-d04921bbeaea)
+![image](https://github.com/user-attachments/assets/bda69517-e345-4e0f-a874-1b9996917324)
 
+* C -> 218.
+* 'C' has spent till item '9' -> 218 - 74 -> 144
+* C <= 144.
+* 'C' can spent '144'.
+* For items '4 and 9', 'C' is the winner.
+* Item '4' -> C >= 33.
+* Item '9' -> C >= 35.
 
+![image](https://github.com/user-attachments/assets/69c2e554-fb25-4c47-9825-805635d9b6de)
+![image](https://github.com/user-attachments/assets/a19e492d-9376-474e-9b8d-8d0a45dacfc4)
 
+* 'C' left -> 144 - 33 - 35 -> 76
+
+![image](https://github.com/user-attachments/assets/78a42a1a-dc4d-4487-8add-598fdf835680)
+
+* E -> 143.
+* 'E' has spent till item '9' -> 143 - 70 -> 73
+* E <= 73.
+* 'E' can spent '73'.
+* For items '3,6,7 and 8', 'E' is the options.
+* For item '8', 'E' has bid '74' but 'E' can bid a max. of '73'. So 'E' is not in item '8'.
+* Item '8' belongs to 'C' then.
+* 'C' left -> 76 - 75 -> 1. [Min. '75' as '74' is already there]
+
+![image](https://github.com/user-attachments/assets/890f5a52-790c-419e-af08-d4fc48386ecf)
+![image](https://github.com/user-attachments/assets/d067b632-e696-438c-9a56-211a582dba8c)
+![image](https://github.com/user-attachments/assets/76a71bfe-a8ce-44d9-8e11-e416a57080d1)
+
+* 'C' cannot buy anymore items.
+
+![image](https://github.com/user-attachments/assets/41bcf992-c195-49a4-862e-4ad8811a5e4d)
+![image](https://github.com/user-attachments/assets/59eed735-812c-4349-9d3b-c967af4334f5)
+![image](https://github.com/user-attachments/assets/a8bd866b-413a-4180-8616-b51ecafd944a)
+![image](https://github.com/user-attachments/assets/826e9644-d444-4d7f-8176-c2f288653bc4)
+
+* 'E' got item '7' -> >= 37.
+* 'E' left -> 73 - 37 -> 36.
+
+![image](https://github.com/user-attachments/assets/1f1ca9e4-91be-4745-b237-2b7350e5e296)
+
+* In item '3 and 6', we have confusion between 'A and E'. Attack item '3 and 6'.
+
+![image](https://github.com/user-attachments/assets/bfe8f510-16eb-4062-b9bc-39a8f1f3dde6)
+
+* A -> 121.
+* 'A' has spent till item '9' -> 121 - 69 -> 52.
+* A <= 52.
+* 'A' can spent '52'.
+
+![image](https://github.com/user-attachments/assets/681511d5-3b44-4b99-95d3-83254304a5bf)
+
+* 'E' cannot take a bid of more than '36'.
+* Item '3' -> >=42.
+* 'E' cannot take a bid of '42'. So 'A' gets Item '3'.
+* 'A' got item '3' -> 42. [Given in table already]
+* 'A' left -> 52 - 42 -> 10.
+
+![image](https://github.com/user-attachments/assets/066c67fd-bcc3-46de-a3f0-a8848c10478a)
+![image](https://github.com/user-attachments/assets/0f2dd9cf-7c8d-47e1-ab7a-c1b18a882147)
+
+* 'A' cannot buy anymore items.
+
+![image](https://github.com/user-attachments/assets/3a126667-bff7-4b07-a0e5-fcc6b1153837)
+
+* We are left with item '10'.
+* 'B' spent on item '1' -> >= 25 -> min. of 25.
+* 'B' spent on item '2' -> >= 37 -> min. of 37.
+* 'D' spent on item '5' -> 40.
+* 'E' spent on item '6' -> 42.
+
+![image](https://github.com/user-attachments/assets/bd08abaa-a9a0-4fb3-97b7-1c4caf6208e5)
+![image](https://github.com/user-attachments/assets/72ae652f-53eb-4b94-b74c-81fb7ce8956e)
+![image](https://github.com/user-attachments/assets/11a9ef2f-1b31-4e23-8539-b5fae668a7f8)
+
+* 'D' total -> 120.
+* 'D' spent -> 40 on item '5'
+* 'D' left -> 120 - 40 -> 80 for item '10'.
+* 'B' total -> 136.
+* 'B' spent -> 25 and 37 on item '1 and 2' -> 62.
+* 'B' left -> 136 - 25 - 37 -> 74 for item '10'.
+
+![image](https://github.com/user-attachments/assets/8122bf52-08f9-4722-8d04-70d7b14bd7d4)
+![image](https://github.com/user-attachments/assets/bb19f694-9f45-41fa-87c6-c322ecdb6f01)
+
+* 80 > 74 -> 'D' wins the bid for item '10'.
+* Attacking points. [Concept] [Logic] [**VERY IMPORTANT**]
 
 
 
