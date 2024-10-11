@@ -1674,9 +1674,40 @@
 * Diff -> B - D -> 127 - 33 -> 94. [5] [Answer]
 
 ![image](https://github.com/user-attachments/assets/d1ac766c-d83d-4a6d-9143-3f5fe1778930)
+![image](https://github.com/user-attachments/assets/f7d1f6e2-109c-4b9c-ac9f-34cd0c3598ae)
+![image](https://github.com/user-attachments/assets/6fe5d847-e8ed-41b5-a355-e824efedbe54)
+![image](https://github.com/user-attachments/assets/c3611bdb-240c-4fea-9530-f5000b1687f5)
+![image](https://github.com/user-attachments/assets/27ff5036-a85e-4093-a167-89bb4b285fad)
 
 * [Question]
-* 1hr 11mins.
+* Amt. are in **1000s**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 
 
 
