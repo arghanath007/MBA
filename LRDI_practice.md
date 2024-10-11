@@ -1542,51 +1542,97 @@
 ![image](https://github.com/user-attachments/assets/9a0bef1d-f770-4a38-92c4-92a1f4ad4c1d)
 ![image](https://github.com/user-attachments/assets/6b238ede-e8cf-4b10-b3a4-48ec0229fa6d)
 
+* Problem with question.
 
+![image](https://github.com/user-attachments/assets/16036413-e526-43c0-9d1a-21eaf9f03ad8)
+![image](https://github.com/user-attachments/assets/a2d6a664-a38f-4b04-bf6d-9ef5127168ea)
+![image](https://github.com/user-attachments/assets/b0a18c8b-60de-4448-8981-f6aea7c22f4d)
+![image](https://github.com/user-attachments/assets/4f8feb25-08cb-42b5-b990-ae18514d949f)
+![image](https://github.com/user-attachments/assets/e98c9d2d-f418-40dc-ae35-6379d4b10df5)
 
+* [Question]
+* Total -> 16
+* a + b + c + d = 16.
 
+![image](https://github.com/user-attachments/assets/79bb907f-c784-4859-aab3-65099c6edebc)
 
+* a = d -> Odd no.
+* b = c -> Even no -> more than '2' plots.
 
+![image](https://github.com/user-attachments/assets/ffb3bedf-a9f5-4d08-9973-ec63f2f0e880)
+![image](https://github.com/user-attachments/assets/756cc7ee-3998-4454-880a-7e4b999e537c)
 
+* '3' is not an even number.
 
+![image](https://github.com/user-attachments/assets/22da94f3-0814-4e7e-b1ed-aacfa621f9cd)
 
+* Between 'b and c' we have '4 and 6' and vice-versa.
+* Trees -> 304.
+* a = d = 3.
+* b = c = 4/6
 
+![image](https://github.com/user-attachments/assets/803d6038-7c14-4731-a892-1727d744457b)
+![image](https://github.com/user-attachments/assets/94706de2-2044-4861-ad75-ca79a8433f49)
 
+* Attacking points -> Positioning of Plots -> 3,7,8,10,11.  
+* In the 1st point, **order** is there which is **descending order**.
+* In the 2nd point, **order** is not there.
 
+![image](https://github.com/user-attachments/assets/ad8cde78-1015-4c2e-8485-7fbe1fd152a9)
 
+* B = 2 + C.
+* B = 6, C = 4.
 
+![image](https://github.com/user-attachments/assets/c516f381-5d89-40da-880f-05422e5e6caf)
+![image](https://github.com/user-attachments/assets/66f85fd1-1dc5-493f-a346-b25c5bdd3b31)
+![image](https://github.com/user-attachments/assets/bd519b63-dbcc-4c44-9b8e-bf0d4134d972)
 
+* 'D' has to fill in '4th row'.
+* Keeping 'b' at '3rd row 3rd column'. [Let]
+* Keeping 'c' at '2nd row 2nd column'. [Let]
 
+![image](https://github.com/user-attachments/assets/bc0ed1c7-d823-4a79-b876-c8f588a164b4)
 
+* We are getting adjoining plot of 'c' in row '2' but we are given that adjoining plot of 'c' will come in either '1,3,4'. So adjoining plot of 'c' in row '2' is **not possible**.
+* 'B' cannot happen in '3rd row 3rd column'. 'C' will happen in '3rd row 3rd column'.
 
+![image](https://github.com/user-attachments/assets/15f22f04-02b9-45de-af55-894b7ccc7be8)
+![image](https://github.com/user-attachments/assets/f6bc18f8-3d70-4737-ac1c-530df5df701f)
+![image](https://github.com/user-attachments/assets/d2307e77-4c79-4d4c-a39e-c18c87d4bed6)
 
+* Point **11** -> Adjoining column is also **not possible**.
+* 'A' is done '3' times.
+* 'D' is done '3' times.
+* 'C' is done '4' times.
 
+![image](https://github.com/user-attachments/assets/270d04fe-0ef9-4131-8cfe-c56d5b22c657)
 
+* 'B' is left.
 
+![image](https://github.com/user-attachments/assets/61c74db4-d7cc-46b5-93ee-f0049c972e93)
 
+* We got the **positioning**.
 
+![image](https://github.com/user-attachments/assets/ff4b7a1a-bcf8-4265-9f73-2a61d935abde)
+![image](https://github.com/user-attachments/assets/5ae3a6f1-b2aa-449b-b57a-7834cd8f117f)
+![image](https://github.com/user-attachments/assets/924fe337-5b04-4efd-969b-ce1063a45930)
+![image](https://github.com/user-attachments/assets/33cb1b86-c4c8-403b-aa31-8bdb95e4d969)
 
+* Multiples of '4' -> 16 + 12 + 8 + 4 -> 40.
+* Odd multiples of '5' -> 5 + 15 + 25 + 35 -> 80 -> We don't know their order.
+* 2nd col - 4th col -> prime no.
+* p1 + p2 + p3 + p4 = 54 -> Prime nos.
 
+![image](https://github.com/user-attachments/assets/691b80e4-e5c9-43aa-bafa-9a0b8b1301e5)
+![image](https://github.com/user-attachments/assets/e53ea788-a096-43e7-af19-76f5ad226a91)
 
+* 1 + 7 + 13 + 19 = 40.
+* '1' is not a prime no.
+* We have to make the '40' into '54'. We need '14' extra.
 
+![image](https://github.com/user-attachments/assets/15465bd7-4dcd-4a34-aa8f-6d3c3212e30e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Put '1' row again as constant.
 
 
 
