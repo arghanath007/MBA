@@ -1824,12 +1824,193 @@
 * 80 > 74 -> 'D' wins the bid for item '10'.
 * Attacking points. [Concept] [Logic] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/64355315-9513-4c46-9668-e4eee81363f7)
+![image](https://github.com/user-attachments/assets/6eb141f0-96ab-412e-9dfb-3b47a9221247)
+
+* All wickets were clean bowled.
+* [Question]
+
+![image](https://github.com/user-attachments/assets/367776af-0082-4969-9773-506187f6a0d6)
+
+* 'J' had only '1' spell which means he bowled all his overs at once consecutively.
+* The last over is bowler by 'S' because he bowled '12.1' overs which is '12' complete overs and '1' ball of his '13th over'.
+* '12.1' over ball is a **wicket ball** as the over ended there only and no further balls were bowled.
+
+![image](https://github.com/user-attachments/assets/1e5f5064-2f01-4694-b94f-d569e50c61c9)
+
+* All of the '26' overs are mapped by who bowled which over.
+
+![image](https://github.com/user-attachments/assets/2c644853-28a0-44b7-bade-b7d240b5c1d0)
+
+* Maiden over -> No runs or '0' runs.
+
+![image](https://github.com/user-attachments/assets/f0e662d8-5e41-4072-977b-9ded570d3e7e)
+![image](https://github.com/user-attachments/assets/86dae039-f612-4435-9301-ffedb3d773ac)
+
+* No. of boundaries scored by all of the batsman -> 1 + 2 + 1 + 1 + 1 + 1 + 1 + 2 + 1 -> 2 * 2 + 1 * 7 -> 4 + 7 -> 11
+* 'M' is giving '7' 4s. 'M' takes '1' wicket only. 'M' can bowl to a max. of '3' batters.
+
+![image](https://github.com/user-attachments/assets/2e6ddf4c-1a9d-46e9-9c08-d1b89bbc33e6)
+
+* Max '4s' hit by a batter is '2' only.
+
+![image](https://github.com/user-attachments/assets/6723e625-d89c-408b-91f3-244166152ea8)
+
+* To score '7' boundaries(4s) in '2' overs we need max. of '5' batsman because '1' batsman can score a max. of '2' boundaries(4s) only.
+
+![image](https://github.com/user-attachments/assets/e53c5118-aa36-4780-b5a4-d0f6b2223243)
+
+* There are only '2' batters who can score a max. of '2' boundaries(4s).
+* 'M' starts bowling from over '13'.
+* 'SD' has to score his '2' boundaries(4s) against 'M' only which means that 'SD' cannot score any runs for the overs from '1 to 12'.
+
+![image](https://github.com/user-attachments/assets/fd9e8d28-e05d-4d5e-ae61-2ac2125e2ad4)
+
+* 'J' -> 15 runs -> 15 singles/ 1 four + 11singles/ 2 four + 7singles/ 3 four + 3singles.
+
+![image](https://github.com/user-attachments/assets/b1e6581f-ca5b-4bf6-86b4-bd58efef45d4)
+
+* 'S'.
+
+![image](https://github.com/user-attachments/assets/7b6e4710-9f95-469f-9e8d-506cd9e9f4af)
+
+* In 'J' overs more than '1' single(1) is not possible.
+
+![image](https://github.com/user-attachments/assets/b9d25a33-5044-4f35-83fa-d5df715691d3)
+
+* FOW -> Fall Of Wickets.
+* 'J' conceided '15' runs in his '6' overs and he completed them within the 12 overs so we will score atleast '15' runs within the 12 overs.
+* 12 - 6 -> 6 overs left.
+* The rest '6' overs were bowled by 'S' and even if he got '2' maiden overs then in the rest '4' overs of 'S', he atleast conceided '1' run every over as they are not maiden overs.
+* 4 * 1 -> 4 runs.
+* 15 + 4 -> 19 runs -> In the '12' overs.
+* 'SR' has come out to bat. 'SD' has not scored any runs.
+
+![image](https://github.com/user-attachments/assets/2ea1a7d0-13af-4cb6-8134-b8f7d427b252)
+
+* 'SR' has scored '1' run.
+* At the '12th over', 'SD and SR' are batting together.
+
+![image](https://github.com/user-attachments/assets/4b717a91-2e6e-4ace-b6a5-a0cf7dfa6b58)
+
+* 'J' has conceided '3' 4s, so they are not scored by 'SD', they are scored by other batters.
+
+![image](https://github.com/user-attachments/assets/d162ff25-1a0b-4240-8d03-bd326c70fd9c)
+![image](https://github.com/user-attachments/assets/692f2c8b-6937-4228-9bb5-c1c059f1fb40)
+
+* As 'SD' has not scored any runs in the '12 overs' so whenever he is on strike that over is going to a maiden over then 'S' will have '3' maiden overs which is **not possible**. 'S' can have '2' maiden overs only. So, in the '12th over' which is bowled by 'J', '1' boundary(4) is conceided by 'J'.
+* One of the boundary(4) conceided by 'J' is at the '12th over'.
+
+![image](https://github.com/user-attachments/assets/f7b25985-cd1c-4989-aa62-3bdbed26dbf5)
+
+* We are not aware if 'SR' is out or not.
+* In the '6' overs 'S' has bowled in the '12 overs', he can conceided atleast '4' runs.
+* 'S' is left to conceided '10' more runs as he has conceided '14' runs in the whole match.
+
+![image](https://github.com/user-attachments/assets/65aef0ec-b12c-4503-a825-57895e76935a)
+
+* 'SR' scored the bounday in the 12th over.
+
+![image](https://github.com/user-attachments/assets/2a966763-a918-41c7-9ca3-de2f5fc80e08)
+
+* Min. boundaries from 13th to 26th over -> '7' boundaries -> 2 of SD, 1 of MSD, 1 of RJ, 2 of RA, 1 of BK.
+
+![image](https://github.com/user-attachments/assets/305af981-ada3-48f5-ad23-15b7709e6094)
+
+* 'SR' got out on the 12th over.
+* 'SD and MSD' are batting on 13th over. 'SD' is on strike.
+* '15' runs given by 'J' in the '12' overs and the rest '8' runs given by 'S' in the '12' overs.
+* Total runs in the '12' overs -> 15 + 8 -> 23 runs.
+
+![image](https://github.com/user-attachments/assets/beb19f5c-cd03-4b88-8812-b4eb687908be)
+
+* 'S' gave '8' runs in the '12' overs. 
+* 'S' gave '6' runs in rest of the overs. 
+
+![image](https://github.com/user-attachments/assets/3ea2a1b4-e72e-4fa9-a265-bedb362a1e2c)
+
+* '4' wickets fell in the overs from '1 to 12'. 'J' took '1' wicket and '3' taken by 'S'.
+* Runs given in '13th' over by 'M' -> 4 * 4 + 1 -> 17 runs.
+* 31 - 17 -> 14 runs left.
+
+![image](https://github.com/user-attachments/assets/2c03f1d8-d8ce-4104-89cb-84756d633dc0)
+![image](https://github.com/user-attachments/assets/c5ad0150-25ab-4aeb-a41d-5ecae1a262e6)
+
+* 'RJ' will be on strike for '14th over'.
+* RJ -> 5 runs
+* MSD -> 4 runs.   
+* 'MSD' is out in the '14th over'. 'RA' came next.
+* 'RJ' was on strike for '15th over'.
+* Runs given in '15th' over by 'M' -> 0 -> Maiden.
+* 'RA' was on strike for '16th over'.
+* Runs given in '16th' over by 'S' -> 1.
+* RA -> 1.   
+* 'RA' was on strike for '17th over'.
+* Runs given in '17th' over by 'M' -> 0 -> Maiden.
+
+![image](https://github.com/user-attachments/assets/020f6056-11a1-44fc-8867-15b23766f3e0)
+
+* 'RJ' was on strike for '18th over'.
+* Runs given in '18th' over by 'S' -> 1.
+
+![image](https://github.com/user-attachments/assets/a593be27-d994-404f-82f8-1bf8eb9acbf3)
+![image](https://github.com/user-attachments/assets/93a06187-6719-4c63-9fc0-bad2369baaac)
+![image](https://github.com/user-attachments/assets/a3c4bbe6-be0d-43dc-85ae-16ce9aa112dc)
+
+* 'RJ' was on strike for '19th over'.
+* Runs given in '19th' over by 'M' -> 0 -> Maiden.
+* 'RA' was on strike for '20th over'.
+* Wickets taken in '20th' over by 'S' -> 1 -> RJ.
+* Runs given in '20th' over by 'S' -> 1.
+
+![image](https://github.com/user-attachments/assets/a9466772-3248-4fea-8988-2facb06879a0)
+![image](https://github.com/user-attachments/assets/f8350aad-641c-431c-9cfc-c6b6fe7ad166)
+
+* 'RA' was on strike for '21st over'.
+* Runs given in '21st' over by 'M' -> 4 * 3 + 2 * 1 -> 14.
+* 'BK' was on strike for '22nd over'.
+* Runs given in '22nd' over by 'S' -> 1.
+* Wickets taken in '22nd' over by 'S' -> 2 -> RA, UY.
+
+![image](https://github.com/user-attachments/assets/4bd60dd6-0d90-4ffb-b9e5-31cbff77f927)
+![image](https://github.com/user-attachments/assets/099e5fe9-3adc-4304-8490-7c388128279d)
+![image](https://github.com/user-attachments/assets/42471562-0e0c-4104-899c-b82c1d28f26a)
+
+* 'BK' was on strike for '23rd over'.
+* Runs given in '23rd' over by 'M' -> 0 -> Maiden.
+* 'MS' was on strike for '24th over'.
+* Runs given in '24th' over by 'S' -> 1.
+
+![image](https://github.com/user-attachments/assets/be3bb9f5-fc4b-4ef5-b658-2730c01e373e)
+
+* 'MS' was on strike for '25th over'.
+* Runs given in '23rd' over by 'M' -> 0 -> Maiden.
+* 'BK' was on strike for '26th over'.
+* Wickets taken in '26th' over by 'S' -> 1 -> BK.
+
+![image](https://github.com/user-attachments/assets/8400dea5-afb2-400f-9cdc-4f36c7e6c1c7)
+![image](https://github.com/user-attachments/assets/06dc887d-90c4-459f-a3c0-6fb1b568ee61)
+![image](https://github.com/user-attachments/assets/13d7d26d-855b-4af4-b2c9-4d7212dc3b68)
+
+* [**VERY IMPORTANT**] [Practice Again] [Concept]
+* Answer -> option **A**. [1]
+* Answer -> option **B**. [2]
+* Answer -> 7. [3]
+* Answer -> 44. [4]
+* Answer -> Dhoni. [5]
+
+* 1hr 20mins.
 
 
 
 
 
-   
+
+
+
+
+
+
 
 
 
