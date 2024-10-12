@@ -2124,16 +2124,72 @@
 * We  know the rank is '150' for sure.
 
 ![image](https://github.com/user-attachments/assets/51a91483-11f0-4fb2-b75b-4b66ede9689f)
+![image](https://github.com/user-attachments/assets/f496a7d4-142d-4287-a213-c23aac73ce91)
+![image](https://github.com/user-attachments/assets/5e429eec-9583-4294-a8a3-bb0df65d6030)
+![image](https://github.com/user-attachments/assets/4a7318b2-4042-42f9-84aa-0bb0b42aab69)
+![image](https://github.com/user-attachments/assets/b444a50a-f4a0-4f58-b579-aefc886ec3a9)
 
 * Max/Min.
 * [Question]
-* 1hr 18mins.
+* All of the questions are from '2010 to 2016'.
 
+![image](https://github.com/user-attachments/assets/4f8456e5-9452-460d-a8b5-2cd10a365dd7)
 
+* Atmost 30 -> Less than 30 -> 2 + 3 + 1 + 3 + 2 -> 11 -> Not less than '10' -> Not need to hire more employees.
 
+![image](https://github.com/user-attachments/assets/abd522f3-88e6-4d48-9da2-f36473b6cbd6)
 
+* More than 30 and atmost 40 -> 2 + 1 + 1 + 6 -> 10 -> Not less than '10' -> Not need to hire more employees..
 
+![image](https://github.com/user-attachments/assets/7043899e-db96-416d-9c79-13262be67a11)
+![image](https://github.com/user-attachments/assets/150b9f02-99b9-4751-b4e7-c2f919f8d5f7)
 
+* Less than 30(2012) -> 2 + 3 + 1 -> 7 -> less than '10' -> Need to hire more employees.
+
+![image](https://github.com/user-attachments/assets/f3006e4a-239c-4ad2-8173-fd1c5cfc206e)
+![image](https://github.com/user-attachments/assets/92ecf40f-6838-4ea5-b80f-ac1058499791)
+
+* Less than 30(2013) -> 3 + 2 + 3 + 1 -> 9 -> less than '10' -> Need to hire more employees.
+* 30 to 40(2013) -> 3 + 2 + 2 + 1 + 1 -> 9 -> less than '10' -> Need to hire more employees.
+
+![image](https://github.com/user-attachments/assets/7d22cd0e-0ec0-4417-9644-da3295385a9b)
+
+* Less than 30(2014) -> 3 + 3 + 2 + 3 -> 11 -> Not less than '10' -> No Need to hire more employees.
+* 30 to 40(2014) -> 1 + 3 + 2 + 2 + 1 + 1 -> 10 -> Not less than '10' -> No Need to hire more employees.
+
+![image](https://github.com/user-attachments/assets/356d17e8-b862-4fcf-a3de-6107fbd8e874)
+
+* People crossed '50yrs', make those people **retire**.
+
+![image](https://github.com/user-attachments/assets/ffc72cbe-ef79-4810-a15d-9274acbee2e8)
+![image](https://github.com/user-attachments/assets/0a206e17-a69f-4a80-ae39-ef6aafbfff50)
+
+* Less than 30(2015) -> 3 + 3 + 2 + 3 -> 11 -> Not less than '10' -> No Need to hire more employees.
+* 30 to 40(2015) -> 1 + 3 + 2 + 2 + 1 + 1 -> 10 -> Not less than '10' -> No Need to hire more employees.
+
+![image](https://github.com/user-attachments/assets/73480750-4c57-4606-b144-cf0b7f9b9fe5)
+
+* Less than 30(2016) -> 3 + 3 + 2 + 3 -> 11 -> Not less than '10' -> No Need to hire more employees.
+* 30 to 40(2016) -> 1 + 3 + 2 + 2 + 1 + 2 -> 11 -> 
+ Not less than '10' -> No Need to hire more employees.
+
+![image](https://github.com/user-attachments/assets/1f63a120-89b6-469d-a689-c6a3a4375c15)
+![image](https://github.com/user-attachments/assets/52a29dc1-8f7d-4084-91ed-01b4f9cce989)
+![image](https://github.com/user-attachments/assets/a3d0b3db-d10d-44e8-ae1d-104fef9c21c4)
+
+* New hires -> 3 + 3 + 2 -> 8. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/f86b3b84-c649-444d-88c0-09b23a9646e8)
+
+* Answer -> 32. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/452fb4ca-6dbb-47d7-9d31-13cea8891abf)
+
+* [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/57f4430f-354c-48cf-a436-cc1e35642e75)
+
+* [4] [Answer]
 
 
 
