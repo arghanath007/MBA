@@ -2191,6 +2191,187 @@
 
 * [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/74ad9120-b6e5-4cea-8be1-e4bcc176cdba)
+![image](https://github.com/user-attachments/assets/700308fe-0852-4cfc-8f40-96aaceb3105b)
+![image](https://github.com/user-attachments/assets/60d9db8d-f130-4ea3-8571-069214e187c8)
+![image](https://github.com/user-attachments/assets/6da6b356-ae44-49e5-be53-7cce8a3e0ab8)
+
+* [Question]
+* We have to create a **table**.
+
+![image](https://github.com/user-attachments/assets/5dba2ee0-a50b-461d-8728-686a16c0c5a8)
+
+* 10% of 100a -> 110a
+* 20% of 100a -> 120a
+* Total tax -> 17518500
+* Tax per person **same** -> 100a.
+* No. of people -> 3n.
+
+![image](https://github.com/user-attachments/assets/4129677a-4c97-451f-9ba4-0ddb1b397ef4)
+![image](https://github.com/user-attachments/assets/ea2e19ad-26c7-4d1b-b405-736f65c794d7)
+
+* Taxes of pensioners under '5L' should be -> 100na
+
+![image](https://github.com/user-attachments/assets/4ffeba6a-f404-47a1-bb31-6d4e9cd63b3e)
+![image](https://github.com/user-attachments/assets/34ff4542-dbf3-4104-8425-7ebfb8a13806)
+
+* Taxes of pensioners under '5L' is-> 50a -> 50a * 2n -> 100na.
+* No. of people -> 2n.
+* Holding point '3' for now.
+
+![image](https://github.com/user-attachments/assets/4212a626-908f-4ec2-94ed-a5f4e74e1fbf)
+![image](https://github.com/user-attachments/assets/b0b88547-bfdc-4ea2-830b-bbf285095d85)
+
+* From point '4'.
+*  Tax collection from bussinessmen under '5L' -> c * 120a.
+*  Tax collection from bussinessmen '5L to 10L' -> d * 132a.
+* Tax collection from bussinessmen for '10L+' -> e * 144a.
+* For explaination. Not needed.
+
+![image](https://github.com/user-attachments/assets/eb1b8d71-11b5-4332-858f-f35ba48a8110)
+
+* y = x * 120a.
+* y/120a = x.
+* x -> No. of people.
+
+![image](https://github.com/user-attachments/assets/e3e80d3d-3a87-44ec-8492-77fb5e334c6d)
+
+* Total tax by pensioners -> 330na.
+* No. of pensioners -> 3 * 2n -> 6n.
+
+![image](https://github.com/user-attachments/assets/1ba76d3b-a29d-4a4a-b6b2-4d79998a3071)
+
+* a = 15.
+
+![image](https://github.com/user-attachments/assets/589120ae-748d-4da9-8c69-f6f76f126dc2)
+![image](https://github.com/user-attachments/assets/34c12ff2-4c10-48ca-a308-fbe242333577)
+![image](https://github.com/user-attachments/assets/292988aa-1ea4-4c7e-befc-77dc36418372)
+
+* a = 15.
+* y = 4752000 -> option **D**. [5] [Answer]
+
+![image](https://github.com/user-attachments/assets/d1b9f8c8-f964-4fac-96bf-97a93cfcc37e)
+![image](https://github.com/user-attachments/assets/9661e8a6-c792-4b6b-b510-8329c6f0e0f8)
+
+* '3' bussiness tax are **same** -> 3y.
+
+![image](https://github.com/user-attachments/assets/c992d185-6d00-4774-b4ea-952bd4c02126)
+![image](https://github.com/user-attachments/assets/9aed0a58-c49e-4113-a284-a78af229fcf0)
+
+* n = 150.
+* Total no. of people -> 3 * 2n + 3n + 2n + 5n + 7240 -> 16n -> 150 * 16 + 7240 -> 9640. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/2882be4b-88f3-486e-a8b1-8d0f571da71d)
+![image](https://github.com/user-attachments/assets/0e81bfcc-9b2f-400e-98be-cb824cc560f6)
+
+* 132a = 132 * 15 = 1980. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/5ff08dc6-e2ca-4ebb-a712-9eab3da8420a)
+
+* Total tax by salaried persons -> 1120na -> 1120 * 150 * 15 -> 25,20,000. [2] [Answer]
+* Total tax by bussiness persons -> 1,45,26,000.
+* Total tax by pensioned persons -> 330na -> 330 * 150 * 15 -> 7,42,500 [2] [Answer]
+* Diff -> Highest - Lowest -> 1,45,26,000 - 7,42,500 -> 1,37,83,500.
+* %more -> (1,37,83,500/1,45,26,000) * 100 -> 94.8884758364 -> 94.88% [3] [Answer]
+* The options are different.
+
+![image](https://github.com/user-attachments/assets/ff63939e-3bff-4b70-b145-28e315b7e5d8)
+![image](https://github.com/user-attachments/assets/cb2ba661-17ea-4a04-9f12-c4b557aa0719)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/6fde7e50-5ac6-4a8a-af73-7256e7e209df)
+
+* 'N' has taught '2' diff. subjects.
+* 'M' has taught '2' diff. subjects.
+
+![image](https://github.com/user-attachments/assets/744bf61b-a3e0-42c5-909f-693986474c3e)
+![image](https://github.com/user-attachments/assets/e70822a3-c4c1-45df-b44b-7fa97f27387f)
+
+* No match between 'q and y'.
+* No match between 'b and d'.
+* We need to accomodate '3' DIs.
+* Between 'q and y', we will put 'DI'.
+* Between 'b and d', we will put 'DI'.
+* Answer -> option **B**. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/356059e4-b160-4a06-9e3f-af4ebb481863)
+![image](https://github.com/user-attachments/assets/716801a2-b258-46b1-a992-83d7852accad)
+![image](https://github.com/user-attachments/assets/cceec535-1485-41d9-8224-4aca77877e82)
+![image](https://github.com/user-attachments/assets/a43aca59-5be2-47fa-a143-b50e94953f85)
+![image](https://github.com/user-attachments/assets/39f33245-0592-48dd-9fbc-f596d0a8fe42)
+![image](https://github.com/user-attachments/assets/f8a29e04-7f78-4a9b-bf8f-c22b6f845ff5)
+
+* Multiple possibilities.
+* Option **D** has to be **True**. [2] [Answer]
+* Must be True -> has to be **True** -> Guranteed/100%. [Concept] [Logic] [Meaning]
+
+![image](https://github.com/user-attachments/assets/a80e8129-4a59-4773-b56b-30c26532ecd0)
+![image](https://github.com/user-attachments/assets/d542e0c9-7bca-41e0-9c88-011485f168bd)
+
+* 'P, x, q, y' have to be **differet**.
+* 'x, q, y' are 'QA, VA/DI, DI/VA'.
+* 'P' has to be 'LR' that's the only '1' left.
+* 'a, b, c, d' have to be **different**.
+
+![image](https://github.com/user-attachments/assets/d543f381-daf8-40a1-acd2-f53e333c5aca)
+
+* 'QA' is happening once(1).
+* Could be True -> Possibility. [Concept] [Logic] [Meaning]
+* Option **A** -> Possibility. 
+* Option **B** -> Not Possible.
+* Option **C** -> Not Possible.
+* Option **D** -> Not Possible.
+
+![image](https://github.com/user-attachments/assets/9eeb2929-df9e-4a29-93a8-d6cd89691635)
+
+*  Option **A**. [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/3a40fc7b-e9e1-4430-9ca0-5b730345181f)
+
+* True Except -> Find the **false/incorrect** option. [Concept] [Logic] [Meaning]
+* 'P, x, q, y' have to be **differet**.
+* 'a, b, c, d' have to be **different**.
+
+![image](https://github.com/user-attachments/assets/aa64715a-53f8-4ad4-80b4-f0711b8d793a)
+
+* Option **A** -> True. 
+* Option **B** -> True.
+* Option **C** -> True.
+* Option **D** -> False.
+
+![image](https://github.com/user-attachments/assets/dc357c74-6ba5-4a52-abe8-3550b839138f)
+
+*  Option **D**. [4] [Answer]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4051,6 +4232,7 @@ So, 'y = 6' not possible.
 ## IMPORTANT
 
 ![image](https://github.com/user-attachments/assets/6a1b32e0-525b-419d-ac07-986e343d22a2)
+![image](https://github.com/user-attachments/assets/13e59607-4f9e-4367-918c-60e6fb1a5e6f)
 
 
 
