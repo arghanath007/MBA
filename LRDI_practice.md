@@ -4233,8 +4233,7 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/6a1b32e0-525b-419d-ac07-986e343d22a2)
 ![image](https://github.com/user-attachments/assets/13e59607-4f9e-4367-918c-60e6fb1a5e6f)
-
-
+![image](https://github.com/user-attachments/assets/ae4808b5-e055-455e-8b44-fc13bb41bc72)
 
 
 ## Misc
