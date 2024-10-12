@@ -2029,45 +2029,105 @@
 
 * Arrangement.
 
+![image](https://github.com/user-attachments/assets/2a34ca81-fe85-4425-9cd0-6455cdd5da15)
+![image](https://github.com/user-attachments/assets/e4898f41-0eb2-4873-b5c4-0e9bc3790453)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/04ea1538-e693-427d-a7c6-cb6ed5810f94)
+![image](https://github.com/user-attachments/assets/98a66c84-af2a-4ff6-9304-c4ac6ba92a61)
 
+* Attacking points -> Task '1 and 3'.
+* Sum of all the rank points -> 50 + 40 + 30 + 20 + 10 -> 150.
 
+![image](https://github.com/user-attachments/assets/a95e71d5-0314-491a-a537-6ab24dc63ece)
+![image](https://github.com/user-attachments/assets/784f8877-6253-4650-a851-abb771c41c8b)
+![image](https://github.com/user-attachments/assets/302223f7-4ecf-4d0e-b985-25ea55d8c3f8)
 
+* Time saves in task **1** -> 30 + 15 + 32 + 8 -> 85.
+* x -> bonus points -> 19.
+* 60 - 19 -> 41mins.
 
+![image](https://github.com/user-attachments/assets/cf404a4d-55c3-40c9-a721-65efefe9206f)
+![image](https://github.com/user-attachments/assets/3e5112ef-2a62-427d-af87-d8bd317eac47)
 
+* Attacking points -> Task 'B and D'.
 
+![image](https://github.com/user-attachments/assets/978efb85-166b-4181-aeb5-79068aa97cfb)
+![image](https://github.com/user-attachments/assets/9b1362f9-dd36-4920-8c80-e65b200fddfb)
 
+* Task B -> 20 + 20 + 30/20 + 20/10 + bonus points = 178.
+* bonus points -> 15 + 3 + 4 + 2 -> 24.
+* Total -> 178.
+* 178 - 24 -> 154.
+* We have  many possibilities.
 
+![image](https://github.com/user-attachments/assets/e2a952bb-84bd-49d1-8bda-37a36770f80d)
+![image](https://github.com/user-attachments/assets/7dc6933b-8122-4e70-8fc1-e0f294e1a31c)
+![image](https://github.com/user-attachments/assets/7c632e6f-7891-4676-bd93-ab29ff362f50)
+![image](https://github.com/user-attachments/assets/1902ce25-52ed-4659-8aea-8fbc18ec3164)
 
+* Bonus -> 60 - 14 -> 46mins.
+* If it is '46mins' then we are not getting rank '1'.
+* This is **not possible**.
 
+![image](https://github.com/user-attachments/assets/652eb998-5dd7-4cec-a474-38b20a21f3e3)
 
+![image](https://github.com/user-attachments/assets/7d7a0404-e1b6-47ed-bf27-87a9fa293aa7)
 
+* Bonus -> 60 - 24 -> 36mins.
+* If it is '36mins' then we are not getting rank '2'.
+* This is **not possible**.
 
+![image](https://github.com/user-attachments/assets/3b263912-6394-4e91-b828-8c864954d5ec)
 
+* '64' -> This is **not possible**.
 
+![image](https://github.com/user-attachments/assets/8f2e6ca9-5c8e-4e23-b4be-fe7f2759c3ad)
 
+* '74' -> This is **not possible**.
 
+![image](https://github.com/user-attachments/assets/fcbf240e-95d0-4e44-977e-3d3300fa3cf8)
+![image](https://github.com/user-attachments/assets/1dc52019-bd80-4be2-8a74-b8d216e5b79c)
+![image](https://github.com/user-attachments/assets/3b0556ef-e991-4b44-8b19-37fb708a1ea2)
 
+* We have to do this for task 'D' now.
+* Task B -> 50 + 30 + 40 + 40/30 + bonus points = 286.
+* bonus points -> 32 + 25 + 12 + 18 -> 87.
+* Total -> 286.
+* 286 - 87 -> 199.
 
+![image](https://github.com/user-attachments/assets/a104c0db-6665-4e48-8c01-aacb5ab20818)
+![image](https://github.com/user-attachments/assets/d8d1ac29-bce3-473a-9d1f-d27e7ac25ed8)
 
+* We have '2' possibilities.
 
+![image](https://github.com/user-attachments/assets/f7d5303d-fff7-4866-927f-b1bbaa53a4ab)
+![image](https://github.com/user-attachments/assets/3b15bded-f630-442d-8526-9d264932dd02)
+![image](https://github.com/user-attachments/assets/19fb03f9-49c8-4c44-bea9-327ae0799dde)
+![image](https://github.com/user-attachments/assets/50b098ba-d8b8-4c22-99b0-f5d9e1861ca3)
+![image](https://github.com/user-attachments/assets/9af18824-c6a7-4ae5-87c0-e5a72af65233)
 
+* Solved. [**VERY IMPORTANT**] [Practice Again] 
 
+![image](https://github.com/user-attachments/assets/dc296b0a-74f6-4b87-b66c-628e8964e1e7)
+![image](https://github.com/user-attachments/assets/90357dbf-1abb-4dca-9289-925992c60ae1)
 
+* Learning and Approach.
 
+![image](https://github.com/user-attachments/assets/847ca8e9-da13-48e2-85fd-1f28f251f6dc)
+![image](https://github.com/user-attachments/assets/8e5b4fd0-b8e2-48c6-8289-0173e6729360)
 
+* Columnn is easy to solve/do.
+* Row is difficult to solve/do.
+* Attacking point should be **column** then **row**.
+* We  know the rank is '150' for sure.
 
+![image](https://github.com/user-attachments/assets/51a91483-11f0-4fb2-b75b-4b66ede9689f)
 
-
-
-
-
-
-
-
-
-
+* Max/Min.
+* [Question]
+* 1hr 18mins.
 
 
 
