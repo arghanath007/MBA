@@ -2344,28 +2344,103 @@
 
 *  Option **D**. [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/929eca76-9fdf-4436-aad4-5faf06d31a9c)
+![image](https://github.com/user-attachments/assets/aec0efc3-3b17-4bc9-9e26-962ac1d792b2)
+![image](https://github.com/user-attachments/assets/e6cbd975-53d9-4da6-91e6-89af2f0503ba)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/020df78c-3854-4551-a8ec-0fd940ee081b)
 
+* The orders that were booked on '11th' would be marked as lost on '13th'. '12th' is 'day 1' of delivery and '13th' is 'day 2' of delivery.
+* 14th -> 249 - 219 -> 30.
 
+![image](https://github.com/user-attachments/assets/8afd8885-3e30-4616-8d17-45e87c2c7b32)
+![image](https://github.com/user-attachments/assets/53b7af3f-ecb9-4043-bb9f-503d3cb81ab0)
 
+* 14th -> 92 - 91 -> 1
+* 15th -> 94 - 92 -> 2
 
+![image](https://github.com/user-attachments/assets/bcb5a82a-b3f0-4d67-8cbb-a0b4f61052a6)
 
+* 11th + 2day delivery -> 13th
+* 12th + 2day delivery -> 14th
+* 13th + 2day delivery -> 15th
 
+![image](https://github.com/user-attachments/assets/1d991dec-5392-48e3-b2da-7d187c18e4bd)
+![image](https://github.com/user-attachments/assets/2e68b7dc-e5de-4b88-8d02-96b36f43f930)
 
+* 'x' item orders booked on '12th'.
+* x = day '1' delivery + day '2' delivery + lost.
 
+![image](https://github.com/user-attachments/assets/db724693-d658-4ba2-be32-8691b8043065)
+![image](https://github.com/user-attachments/assets/e7106e10-793b-4167-b62a-21bf3ccb0509)
 
+* 11 - 4 -> 7.
+* 27 - 6 -> 21.
+* 23 - 8 -> 15.
+* 13th orders -> 21 + 8 + 2 -> 31.
+* x = 7 + 6 + 1 = 14.
 
+![image](https://github.com/user-attachments/assets/73576372-bdab-43eb-88e9-f16ee1429768)
 
+* 14th orders -> 30.
+* 30 = 15 + day '2' delivery + 12 -> y = 30 - 27.
+* y = 3.
+* 16th's day '2' delivery -> y = 3.
 
+![image](https://github.com/user-attachments/assets/0667ac15-8eb3-47c7-bed0-3d573709f24d)
 
+* 16th orders delivered -> 11 - 3 -> 8.
 
+* 15th orders -> 28.
+* 28 = 8 + day '2' delivery + 12 -> y = 28 - 20.
+* y = 8.
+* 17th's day '2' delivery -> y = 8.
+* 17th orders delivered -> 21 - 8 -> 13 .
 
+![image](https://github.com/user-attachments/assets/60431dc6-5a33-4eca-9dfb-30af5e94b832)
+![image](https://github.com/user-attachments/assets/fa4120e8-0e6c-4ab9-b99a-7e5c0f16f409)
 
+* 14th orders booked -> 30.
+* 14th orders lost -> 12.
+* 13th orders booked -> 31.
+* 13th orders lost -> 2.
+* 15th orders booked -> 28.
+* 15th orders lost -> 12.
+* 16th orders booked -> 25.
+* 16th orders lost -> 2.
 
+![image](https://github.com/user-attachments/assets/882dc11f-bdf8-414f-92c1-73cf4f513d14)
+![image](https://github.com/user-attachments/assets/5b299bc0-07df-4d65-aa73-bd6fced62d28)
 
+* [1] [Answer]
+* Answer -> 13th. [2] [Answer]
+* Sum + 12 + 2 + 9 -> 23. [3] [Answer]
 
+![image](https://github.com/user-attachments/assets/c44b9f52-05d5-406d-b936-4d0f41c7604c)
+![image](https://github.com/user-attachments/assets/c4e44f60-0df7-4cc2-b5d9-afd70bd70c85)
 
+* 13th orders booked -> 31.
+* 13th orders delivered on day '1' -> 21.
+* 13th orders delivered on day '2' -> 8.
+* 14th orders delivered on day '1' -> 15.
+* 14th orders delivered on day '2' -> 3 .
+* 15th orders delivered on day '1' -> 8.
+* 15th orders delivered on day '2' -> 8 .
+* 16th orders delivered on day '1' -> 13.
+* 16th orders delivered on day '2' -> 10 .
+* Answer -> 14th. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/f189cdcb-e487-4f43-836e-d7a3e28b1034)
+![image](https://github.com/user-attachments/assets/114da54d-9f25-429d-a89f-c5d9f43df345)
+![image](https://github.com/user-attachments/assets/7ec02195-b662-48eb-8c61-6381d2fdd9c4)
+
+* day '1' -> x.
+* day '2' -> y.
+* Answer -> 14th. [5] [Answer]
+
+* Start from 56mins.
 
 
 
