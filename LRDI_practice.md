@@ -2440,7 +2440,121 @@
 * day '2' -> y.
 * Answer -> 14th. [5] [Answer]
 
-* Start from 56mins.
+![image](https://github.com/user-attachments/assets/bb5c0286-444c-42df-937a-0d806efff2be)
+![image](https://github.com/user-attachments/assets/9a7536c7-2abe-4fd3-83f7-bac542cb72e4)
+![image](https://github.com/user-attachments/assets/24e70f69-e051-4716-a396-1211bdc96395)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/2c37e2db-84a0-4590-b470-dfdab758e3e4)
+![image](https://github.com/user-attachments/assets/58843be4-e3b8-4db1-be34-8b2a58611e7a)
+
+* All are distinct.
+* We don't know the **exact** values.
+* No. of **test** matches and **ODI** matches cannot be **equal/same**.
+* ODI match fees < test match fees.
+* If we want **min. match fees** then we have to take **less test matches and more ODI matches** as the match fees for test match is more than ODI match.
+
+![image](https://github.com/user-attachments/assets/6e197945-0f8d-42ec-89ed-b5fc12bc1677)
+
+* Min. match fees -> 5T + 6ODIs -> 2.45Cr -> satisfied.
+* Min. match fees -> 6T + 5ODIs -> 6 * 0.25 + 5 * 0.2 ->  2.5Cr -> Not satisfied.
+* 2.45Cr < 2.5Cr.
+* Every cricketer is getting min. of '2.45Cr'.
+
+![image](https://github.com/user-attachments/assets/a4138ccf-7413-42e3-9e94-a8726632d8e3)
+
+* 7.3 - 2.45 -> 4.85Cr.
+
+![image](https://github.com/user-attachments/assets/41db800a-eea7-4729-84e9-259963ac6f85)
+
+* Virat -> Not 'A or B', he is 'C' -> He has **min. bal** of '4.85Cr'. For 'B' he needs '5Cr'.
+
+![image](https://github.com/user-attachments/assets/c5f44e14-5f80-4c61-86e9-e498ce553f52)
+![image](https://github.com/user-attachments/assets/78fb86bf-54a0-4013-90e6-82a571df4370)
+
+* If we want **max. match fees** then we have to take **more test matches and less ODI matches** as the match fees for test match is more than ODI match.
+* Virat -> 'C' contract confirmed.
+* Rahane -> 'C' contract confirmed.
+* We don't have to do max. bal for them(Virat, Rahane).
+* Rohit -> 7.75 - 4.3 -> 3.45
+* KL -> 8.4 - 4.3 -> 4.1
+* '4.3Cr' is the **max. match fees** one cricketer can receive. It cannot be more than that.
+
+![image](https://github.com/user-attachments/assets/63b5e4bf-01d7-488d-afb0-a47c4a43e94e)
+
+* Balance(bal).
+* Bumrah match fees is lying between '5.15Cr to 7Cr'.
+
+![image](https://github.com/user-attachments/assets/0317fb5f-c393-4bba-83c7-d80f52b6ec2d)
+![image](https://github.com/user-attachments/assets/e1917b12-f18f-4be7-a375-148add206c41)
+
+* If Bumrah is in 'B' then his fees is '9.3Cr' but in the question it is '9.45Cr'. So Bumrah is in 'A'.
+
+![image](https://github.com/user-attachments/assets/32093efc-506d-429b-8f2e-ad9ff8b82a18)
+![image](https://github.com/user-attachments/assets/d919c4e8-7a13-4033-a406-cfad9c24c072)
+
+* If Rohit is in 'C' then his fees is '7.3Cr' but in the question it is '7.75Cr'. So Rohit is in 'B'.
+* Band -> Min. match fees and Max. match fees. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9a792f44-a877-4638-9993-0be181fb554c)
+![image](https://github.com/user-attachments/assets/87dfc62f-b6eb-4ef2-8191-2a5bce417d4f)
+![image](https://github.com/user-attachments/assets/ed19418d-1b5d-4c13-9371-00d5560c8422)
+
+* Actual match fees of Virat -> 7.3 - 3 -> 4.3Cr ['C' -> 3Cr]
+* Actual match fees of Rohit -> 7.75 - 5 -> 2.75Cr ['B' -> 5Cr]
+* Actual match fees of Bumrah -> 9.45 - 7 -> 2.45Cr ['A' -> 7Cr]
+
+![image](https://github.com/user-attachments/assets/fcc21077-e114-4b6b-9a4a-25b0af0474ed)
+![image](https://github.com/user-attachments/assets/e7bd0e16-fae8-4a24-9675-476bb2b2122c)
+
+* Virat -> 10 * 0.25 + 9 * 0.2 -> 2.5 + 1.8 -> 4.3Cr
+* Bumrah -> 5 * 0.25 + 6 * 0.2 -> 1.25 + 1.2 -> 2.45Cr
+
+![image](https://github.com/user-attachments/assets/fc2184d8-6617-42ce-864f-689216b60385)
+![image](https://github.com/user-attachments/assets/60cfeea7-b962-4990-a7e1-d94130d064e1)
+
+* 4y = 20 -> y = 5.
+* Multiplying Factor(MF) -> 100/5 -> 20.
+* 3.4 * 20 -> 68.
+* 3.5 * 20 -> 70.
+* 3.85 * 20 -> 77.
+
+![image](https://github.com/user-attachments/assets/7ddad73f-4827-4351-b25f-c07bb05a1bec)
+
+* Questions.
+* We want the no. of tests matches for the cricketers to be distinct.
+* We want the no. of ODI matches for the cricketers to be distinct.
+* We want the no. of tests and ODI matches for the particular cricketers to be distinct.
+
+![image](https://github.com/user-attachments/assets/31936221-6a5a-4e3d-bbf2-09b41ae9bb81)
+![image](https://github.com/user-attachments/assets/89f7ca84-ca5a-472c-a577-ed509b97bafd)
+
+* Question **4** solution.
+
+![image](https://github.com/user-attachments/assets/153cd4c3-20fd-4cdb-838e-c1d7302ed8bd)
+
+* T -> 10 - 2 -> 8.
+* O -> 9 - 1 -> 8.
+
+![image](https://github.com/user-attachments/assets/0538cc46-f019-4850-8cd4-6274affa9c00)
+
+* As Rohit and Ashwin are in same 'A' contract and ashwin has played more matches than rohit, so no point in calculating rohit. We can **remove rohit from the options**. Just calculate for **ashwin**.
+
+![image](https://github.com/user-attachments/assets/004d361b-195d-4d00-a7fe-60a4fb365e6f)
+![image](https://github.com/user-attachments/assets/8da34d03-f9a6-4bbf-86ea-36e8e2380b2d)
+
+* Ashwin is 'A', so he is '7Cr' plus.
+* Answer -> Ashwin -> option **4**. [4] [Answer]
+
+
+
+
+
+
+
+
+
 
 
 
