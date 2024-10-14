@@ -4387,16 +4387,24 @@ So, 'y = 6' not possible.
 * Max -> 84. [3] [Answer] [**VERY IMPORTANT**] 
 
 ![image](https://github.com/user-attachments/assets/4bc615a3-724f-4ce4-8fbe-81a668d3d073)
+![image](https://github.com/user-attachments/assets/2f6a4715-d78b-4294-9d4d-17e5827a6cbe)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/f65369f5-085d-49c3-b041-88d77411f999)
 
+* Total matches -> 15.
+* R1 -> 6.
+* R2 -> 15 - 6 -> 9.
+* We have '6' teams, '6' matches in 'R1'. We have '6 * 2 -> 12' slots in 'R1'. So each team is playing '2' matches in 'R1'.
+* Each team will occur '2' times.
+* We have '6' teams, '9' matches in 'R2'. We have '9 * 2 -> 18' slots in 'R2'. So each team is playing '3' matches in 'R2'.
+* Each team will occur '3' times.
 
+![image](https://github.com/user-attachments/assets/e34e807f-7241-46b6-b9c2-d483c99ca0d9)
 
-
-
-
-
-
+* '2' points are being distributed per match.
+* 15M -> 15 * 2 -> 30 points.
 
 
 
