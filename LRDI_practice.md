@@ -4405,6 +4405,59 @@ So, 'y = 6' not possible.
 
 * '2' points are being distributed per match.
 * 15M -> 15 * 2 -> 30 points.
+* Tie -> '1' or '0'.
+
+![image](https://github.com/user-attachments/assets/5f97b3e4-eb27-4c44-963b-fa840d6be515)
+![image](https://github.com/user-attachments/assets/9533a67b-0f1a-415f-97d7-961737cff2fc)
+![image](https://github.com/user-attachments/assets/4ab226d6-a9ab-413c-b64b-09eddc4a3589)
+
+* B - E, B - F -> They are not possible.
+
+![image](https://github.com/user-attachments/assets/4b4db69a-c4ca-4925-bfae-ebea9957cc48)
+![image](https://github.com/user-attachments/assets/1b4c2393-aead-4b84-a855-5d2321be04f2)
+![image](https://github.com/user-attachments/assets/8d66b533-71af-4e1c-9709-8d7a9ccd60a1)
+
+* End of Round '1'.
+
+![image](https://github.com/user-attachments/assets/406468d8-f45d-461a-a667-e15a25b98a5c)
+
+* 'A' has already played against 'C and E' in 'R1'. So 'A' is playing against 'B,D and F' in 'R2'.
+* As there was a tie in 'R1' between 'E and F'. So in 'R2', 'E and F' cannot have a tie.
+* 'B' lost against 'F' in 'R1' so 'B' cannot be the winner.
+* 'A and D' got '1' tie in 'R2'.
+* 'E and F' got '1' tie in 'R1'.
+* 'B' cannot be the winner.
+* 'C' got the least no. of ties in the tournament.
+* 'C' is the winner of the tournament.
+* 'C' will have the max. score at the end.
+
+![image](https://github.com/user-attachments/assets/0555da81-f2db-49b0-b97b-667148b03684)
+![image](https://github.com/user-attachments/assets/badc44a9-e8fa-40fc-b330-041142320b91)
+
+* All of them have to be **less than '6'** for 'C' to be the winner.
+
+![image](https://github.com/user-attachments/assets/aad3db35-e413-4291-b1a8-66ab96b80307)
+![image](https://github.com/user-attachments/assets/8621b8f9-9f45-4238-8a9e-0c6c3adbeb2a)
+
+* If 'A' wins in 'A - B' then 'A' will have '7' points which is **not possible** as 'C' is the **winner**. So 'A' losses against 'B'.
+
+![image](https://github.com/user-attachments/assets/610bfdec-d4c4-41c3-9801-380c5b3e2f7d)
+![image](https://github.com/user-attachments/assets/02e189b1-4334-40c7-8788-5d73f9e91c10)
+![image](https://github.com/user-attachments/assets/9c045b43-430e-4109-a75f-8d11b18e9769)
+![image](https://github.com/user-attachments/assets/5eedadce-3f5d-4198-99c7-11da0456c179)
+
+* A,D,E,F -> 5. [1] [Answer]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
