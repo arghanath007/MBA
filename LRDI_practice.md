@@ -4500,6 +4500,41 @@ So, 'y = 6' not possible.
 
 * [Answers]
 
+![image](https://github.com/user-attachments/assets/d3569c69-9cc1-43e4-867d-495842c93696)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/7683e377-f493-4b6b-b0de-55da59a3e80d)
+![image](https://github.com/user-attachments/assets/9ca13685-2878-469b-b3a1-fe3348179f08)
+![image](https://github.com/user-attachments/assets/638f79f7-ec90-4a8b-b3d3-afab39fefbce)
+![image](https://github.com/user-attachments/assets/11328f59-2a8e-4125-b6b0-60b3a36a01c1)
+
+* [Doubt]
+
+![image](https://github.com/user-attachments/assets/52c3e02e-54e9-47d7-9f54-8b0f12beb683)
+
+* [Answer]
+
+![Uploading image.png…]()
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
