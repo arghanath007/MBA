@@ -4515,15 +4515,25 @@ So, 'y = 6' not possible.
 
 * [Answer]
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5682e184-28c4-4688-a6dd-62402371fd6b)
 
 * [Question]
 
+![image](https://github.com/user-attachments/assets/cf78d779-db9a-4330-9456-18012f724814)
 
+* 35/5 -> 7.
+* The '4' are correct for both 'D and G'. Out of the rest '6', '3' of them are correct for 'D and G' respectively.
+* 4 + 3 -> 7 -> Which we want.
+* CC -> West -> This is **wrong**.
+* CC -> South -> This is **correct**.
+* Mall -> West -> This is **correct**.
 
+![image](https://github.com/user-attachments/assets/9a30d1dc-83bf-4b13-8fcf-94b85d5c20fa)
+![image](https://github.com/user-attachments/assets/9c9eb5fa-60bc-4d22-9248-760f43f251ac)
+![image](https://github.com/user-attachments/assets/15695347-0a9e-42a7-81e1-92fa5b6145bd)
+![image](https://github.com/user-attachments/assets/5a5511ce-5116-4b5f-b418-e0ed6fa8154a)
 
-
-
+* [Answer]
 
 
 
