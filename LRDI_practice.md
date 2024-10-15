@@ -4448,33 +4448,57 @@ So, 'y = 6' not possible.
 
 * A,D,E,F -> 5. [1] [Answer]
 
+![image](https://github.com/user-attachments/assets/674d284c-e9a4-4e00-85dd-d7b1abcf339a)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/d4be4150-83bb-42db-84b6-00c25c76746a)
+![image](https://github.com/user-attachments/assets/a400360a-e282-4fd3-9573-3c39c9369cee)
 
+* Both things are **same**.
 
+![image](https://github.com/user-attachments/assets/73a48513-9d33-48e1-8c77-373d3437dd13)
 
+* Stage 1 -> Green Color.
+* Stage 2 -> Red Color.
+* 'B, C, D, E, F -> All of them have lost atleast once in Stage '1'. 'A' has not lost atleast once in Stage '1'.   
+* 'A' has won all of the '3' matches.
+* 'F VS A' match did not happen in Stage '1'.
 
+![image](https://github.com/user-attachments/assets/c32a6050-0698-48eb-999c-8c075058cdcd)
 
+* 'B and F' lost their '2' matches in Stage '1'. Others have won atleast once in Stage '1'.
+* '2' teams lost all their matches -> 'B and F'.
+* 'F VS C' match did not happen in Stage '1' as no ties are possible and both 'F VS C' lost all matches in Stage '1'.
+* 'F VS B' match happened and 'F' lost.
 
+![image](https://github.com/user-attachments/assets/728e38af-7405-460e-a09a-4840aa84df25)
+![image](https://github.com/user-attachments/assets/79ee25f3-d892-4107-b5b3-4e03f3350f7a)
+![image](https://github.com/user-attachments/assets/42953bc3-913b-4213-936d-031f775c872e)
 
+* Stage '1'.
 
+![image](https://github.com/user-attachments/assets/c7258117-203b-4a0c-a1be-a8628d8f01a5)
+![image](https://github.com/user-attachments/assets/ca1ba11f-156e-4faa-a6b3-2db98a1e811b)
 
+* As 'F' won '1' match in Stage '2', so 'C' will lose both(2) matches in Stage '2'. 'F' will win it's remaining '1' match in Stage '2'.
 
+![image](https://github.com/user-attachments/assets/cd94a391-8efc-49c4-9725-6b0d4ea9484e)
 
+* 'D' lost both(2) matches in Stage '2'.
 
+![image](https://github.com/user-attachments/assets/e27d1224-e338-413d-9268-6f2c0f707f05)
+![image](https://github.com/user-attachments/assets/65e4e646-1ce5-4c1f-b415-982242a2c786)
 
+* Stage '2'.
+* Stage '1' leader -> A.
 
+![image](https://github.com/user-attachments/assets/721c3baf-0819-4a14-86d6-db377a8adb02)
+![image](https://github.com/user-attachments/assets/2f666225-89ff-4017-967d-d2a906b8eec5)
+![image](https://github.com/user-attachments/assets/e08402e1-3a21-4024-8f06-804581fd11be)
+![image](https://github.com/user-attachments/assets/b6436ab4-2010-4734-b4d4-978f21162deb)
 
-
-
-
-
-
-
-
-
-
-
+* [Answers]
 
 
 
