@@ -1,4 +1,4 @@
-# LRDI practice
+![image](https://github.com/user-attachments/assets/77884239-d787-40a3-921a-09042246d13f)# LRDI practice
 
 ## IMPORTANT
 
@@ -4548,7 +4548,7 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/0eee024c-1f5d-4ec5-9738-c1d1dc33dd87)
 
-* [Question]
+* [Question] [Practice Again] [Tricky Question]
 * Question is talking about an **order**.
 
 ![image](https://github.com/user-attachments/assets/234588bc-c78b-4127-b7b7-fde2174bee79)
@@ -4615,6 +4615,138 @@ So, 'y = 6' not possible.
 * Median Payment -> Write all of the payments in **ascending order**.
 * '6' terms -> Even no. of terms.
 * Avg. of 3rd and 4th term is the Median Payment. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/03e66aeb-6bfc-4658-9bae-9be576ede741)
+
+* [Question] [Practice Again] [Tricky Question]
+
+![image](https://github.com/user-attachments/assets/42009947-f519-4d04-932e-44fe1f486324)
+![image](https://github.com/user-attachments/assets/f82a6b63-8b67-4056-b09e-3688c2b4033e)
+
+* Attacking Point -> 
+
+![image](https://github.com/user-attachments/assets/300ea2d1-d42b-4938-9a01-6c9a9b9c3782)
+
+* They would be the **same**.
+* 'H' cannot be the '4th' because 'H' saw 'YB' when entered but at '4th' it has 'RB' on entry.
+* 'H' cannot be the '2nd' because 'H' saw 'GB' on exit but at '2nd' it has 'RB' on exit.
+
+![image](https://github.com/user-attachments/assets/49378aa9-c597-491a-9fd3-ed364a00baa5)
+![image](https://github.com/user-attachments/assets/e487ec52-6339-42db-8108-220921025f4f)
+
+* For 'J' there was **no change** when 'J' entered and exited. So '2nd' can't be 'J'.
+* When 'P' entered 'B' is adjacent to 'G'. So '2nd' can't be 'P'.
+
+![image](https://github.com/user-attachments/assets/837933ba-d1c5-4f24-85db-3673a76e65ab)
+![image](https://github.com/user-attachments/assets/993eef7f-bd2b-47fc-855f-b38b20c566b5)
+![image](https://github.com/user-attachments/assets/bb560199-902c-446a-9225-6880fe02def3)
+![image](https://github.com/user-attachments/assets/531962da-56c9-4d01-94cd-7ba265f6d4b2)
+![image](https://github.com/user-attachments/assets/2ff674c6-6aa0-49b9-af6b-2d5cd4d94665)
+
+* Case **1** -> 'P' at '4th'.
+* This is **not possible**.
+* 'J' is at '4th'.
+
+![image](https://github.com/user-attachments/assets/41af9d80-bc97-4038-a589-21b5e0587320)
+![image](https://github.com/user-attachments/assets/d34077e7-dd55-4d17-ad11-0da58fb082ac)
+
+* Where will 'RB' will lie?
+
+![image](https://github.com/user-attachments/assets/867ae3e5-c5e5-4677-8def-4e8f97829694)
+
+* In 'P', 'B and W' interchange.
+
+![image](https://github.com/user-attachments/assets/e12bd374-b0f8-4ba1-a044-c92fe629e8a6)
+
+'B and W' will interchange.
+'G and Y' can interchange.
+
+![image](https://github.com/user-attachments/assets/fd295d22-9564-43cd-9791-f6aede51813e)
+
+* The box is either there or not there. It is either '0' or '1'.
+
+* Blue(B) -> 2/6 + 6 + 5 * 3 -> 23/27.
+* 21 + 2 = 23 OR, 21 + 6 = 27
+* Pink(P) -> 3 * 5 -> 15.
+* White(W) -> 6/2 + 2 * 2 + 6 * 2 -> 18/22.
+* 16 + 2 = 18 OR, 16 + 6 = 22
+* Green(G) -> More than 15 -> No need to count.
+
+![image](https://github.com/user-attachments/assets/eca3bdfb-7818-4e48-8489-8e47aa60c147)
+
+* Pink. [4] [Answer]
+
+* Max. diff -> Min/minimize - Max/maximize.
+* Min/minimize  -> Constantly on the left hand side.
+* Max/maximize -> Constantly on the right hand side.
+* Yellow(Y) -> 5 * 1 + 4 -> 9.
+* Min -> Y = 9.
+* Blue(B) -> 3 * 5 + 6 + 6/2 -> 23/27.
+
+![image](https://github.com/user-attachments/assets/ae7cdaec-a753-4baa-865c-39b4b95f0f08)
+![image](https://github.com/user-attachments/assets/5dff8213-77d1-41e3-b527-398573e445e5)
+
+* 18. [5] [Answer]
+
+![image](https://github.com/user-attachments/assets/5772e889-11fe-4a08-acb5-27921dd5de6e)
+
+* [Question] [Practice Again] [Tricky Question]
+
+![image](https://github.com/user-attachments/assets/29d2e0ea-c71e-413d-a647-9b3f0868852d)
+![image](https://github.com/user-attachments/assets/ebca4805-b0a4-4b22-929e-6644d75965d6)
+![image](https://github.com/user-attachments/assets/38721217-4556-402c-ae9b-5ae826498ffa)
+![image](https://github.com/user-attachments/assets/cd676fd1-3518-4b6e-ac1b-a1cae8c3f831)
+
+* 'a' min is '0' is **not possible**.
+
+![image](https://github.com/user-attachments/assets/2fb6d67b-f098-42ce-a5cd-fb2b0b3a4636)
+
+* [Concept] [Logic]
+
+![image](https://github.com/user-attachments/assets/b8f723d1-626e-41b4-8f81-ed92cef109b9)
+![image](https://github.com/user-attachments/assets/5ee1fbdb-d47b-4fc9-af29-51077b7691a6)
+
+* Price of '1' ticket -> 885.
+* If we buy '1' ticket of 'A1' category and to compensate that we need to buy '10' tickets of 'A4' category.
+* We need to minimize 'A4' category.
+* With purchasing 'A1' category we are not minimizing 'A4' category.
+* If we  purchase 'A1' category then we are not minimizing 'A4' category.
+
+![image](https://github.com/user-attachments/assets/b9612d3c-f0a7-4e58-ab9e-3feac719f159)
+
+* We need to minimize 'A4' category.
+
+![image](https://github.com/user-attachments/assets/0a381226-f3cb-4b00-adbb-f2a90b2b4af2)
+![image](https://github.com/user-attachments/assets/3f9e62e0-9bc6-4815-8802-e9777e0b02a8)
+
+* If we buy '1' ticket of 'A3' category then we have to buy '1.2' ticket of 'A4' category.
+* This is the **good case** for us.
+* We don't need to buy 'A1 and A2' tickets.
+
+![image](https://github.com/user-attachments/assets/7de76631-562b-4d6a-b0d6-166f2812f91e)
+![image](https://github.com/user-attachments/assets/c243caf9-a61b-4f66-af87-8310c6145f9a)
+![image](https://github.com/user-attachments/assets/b98fcfec-74bd-4b85-a40b-42598e82db50)
+
+* We have to use 'A3 and A4'. 'C and D' is '0'. 'A1 and A2' is '0'.
+
+![image](https://github.com/user-attachments/assets/d73a03bc-9ac1-45f4-ab9b-0aae0c6b5689)
+
+* 12C = 0.
+* 15D = 0.
+
+![image](https://github.com/user-attachments/assets/937dba79-9d2f-406f-928b-acc9249d45fb)
+![image](https://github.com/user-attachments/assets/3968a754-17f6-4402-9942-e30fc5e44801)
+
+* 'a' min = 55. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/3c12c0da-a81c-46a8-b7da-e62da84c5bdf)
+
+
+
+
+
+
+
 
 
 
