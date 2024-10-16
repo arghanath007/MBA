@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77884239-d787-40a3-921a-09042246d13f)# LRDI practice
+# LRDI practice
 
 ## IMPORTANT
 
@@ -4740,25 +4740,40 @@ So, 'y = 6' not possible.
 * 'a' min = 55. [1] [Answer]
 
 ![image](https://github.com/user-attachments/assets/3c12c0da-a81c-46a8-b7da-e62da84c5bdf)
+![image](https://github.com/user-attachments/assets/d4e77fad-d762-4592-afc1-36dcdc602703)
+![image](https://github.com/user-attachments/assets/6bf2256b-34d9-496d-b906-a15e31841dc8)
 
+* We have to reduce '90000' deficit **quickly**.
+* We have to maximize 'A1' category.
+* Instead of '2250', they are paying '750'. So we are getting a deficit of '2250 - 750 -> 1500'.
+* We have to reduce '60' tickets only.
+* Save -> 150 - 60 -> 90.
 
+![image](https://github.com/user-attachments/assets/42765fb4-09e2-4244-b566-16de48e217e8)
 
+* A1 -> 90. [2] [Answer] [Method **1**]
 
+![image](https://github.com/user-attachments/assets/a6007928-776e-44e8-8827-00c9ac27407b)
 
+* A1 -> 90. [2] [Answer] [Method **2**]
 
+![image](https://github.com/user-attachments/assets/ff301745-3b23-4e0e-a6c3-9f39d5d73b56)
+![image](https://github.com/user-attachments/assets/cd20f088-e04b-458b-9030-d6c52525214c)
 
+* '67a' has to be a multiple of '3'.
+* '67' is not a multiple of '3'.
+* 'a' is a multiple of '3'.
+* 67a -> 67 * 3 -> 201.
+* To minimize 'd', we need to maximize 'k'.
+* d = 8. [3] [Answer]
 
+![image](https://github.com/user-attachments/assets/3fe78c37-6a84-44a7-bbf8-fa99c4c9ab9e)
+![image](https://github.com/user-attachments/assets/a7b520bb-0a8b-4d6d-b804-12179a2f652a)
 
-
-
-
-
-
-
-
-
-
-
+* '53a' has to be a multiple of '5'.
+* '53' is not a multiple of '5'.
+* 'a' has to be a multiple of '5'.
+* d = 10. [4] [Answer]
 
 
 
@@ -4783,3 +4798,4 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/5e53bb14-28f4-40a5-997b-727b1a446994)
 ![image](https://github.com/user-attachments/assets/173d9ae3-eb6e-4b07-9a45-849fed0ac976)
+![image](https://github.com/user-attachments/assets/77884239-d787-40a3-921a-09042246d13f)
