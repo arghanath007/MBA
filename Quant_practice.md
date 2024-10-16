@@ -1896,17 +1896,29 @@
 ![image](https://github.com/user-attachments/assets/0dc8ca6d-610a-4e42-9fd4-d80f6a79dfbc)
 ![image](https://github.com/user-attachments/assets/ac8d26c2-ad5d-432c-95a1-021ed9165e23)
 
+### Quadratic Equation
 
+![image](https://github.com/user-attachments/assets/54917264-cff2-46d4-9f00-b4a959f591cd)
+![image](https://github.com/user-attachments/assets/fcae81e3-9b95-4705-aef8-c828968d2c07)
 
+* Quadratic Equation with sum of roots and product of roots. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/6f40eec1-4a1e-4191-a7ff-dac1a9117da9)
+![image](https://github.com/user-attachments/assets/f569b766-d213-4177-bf5d-cc3de7d3df63)
+![image](https://github.com/user-attachments/assets/98f196a2-517f-48e7-9e17-be96faf7bb5b)
 
+* a = -4.
 
+![image](https://github.com/user-attachments/assets/235caf50-9524-4705-8ba8-45346e60aed8)
 
+* b = 19, a = 2, c = p.
+* b^2 - 4ac
+* Odd - Even = Odd.
+* First '9' odd numbers.
 
+![image](https://github.com/user-attachments/assets/7ed681cf-fd4a-4267-8c55-5fb03643e909)
 
-
-
-
+* Start from 25mins.
 
 
 
