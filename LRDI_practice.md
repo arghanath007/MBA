@@ -4544,6 +4544,98 @@ So, 'y = 6' not possible.
 
 
 
+### Practice Questions
+
+![image](https://github.com/user-attachments/assets/0eee024c-1f5d-4ec5-9738-c1d1dc33dd87)
+
+* [Question]
+* Question is talking about an **order**.
+
+![image](https://github.com/user-attachments/assets/234588bc-c78b-4127-b7b7-fde2174bee79)
+![image](https://github.com/user-attachments/assets/2329f86f-0d77-427b-854f-7ff999471a11)
+![image](https://github.com/user-attachments/assets/917ab1c5-ce26-465f-97a9-638e1afd8c7d)
+
+* At the '6th' order, **denominator** is '16'.
+* At the '1st' order, we are assuming '16p' as it is a multiple of '16'. It is because we have '16' as **denominator**.
+
+![image](https://github.com/user-attachments/assets/3cc378c8-e733-49f9-94c3-4b5c92a45818)
+![image](https://github.com/user-attachments/assets/f4d1cc1d-ba91-4f34-a704-e67115ab2d13)
+![image](https://github.com/user-attachments/assets/448b4306-74cf-43c6-a742-487bf1859196)
+
+* **Least and the highest** payments are at the '2' extremes then the further nos. will be in arithmetic mean(AM).
+
+![image](https://github.com/user-attachments/assets/14344b50-5de8-46b1-852f-6662ba2846c6)
+![image](https://github.com/user-attachments/assets/d57ce25b-c02a-41e3-9c04-762dca10ad30)
+![image](https://github.com/user-attachments/assets/71f093d6-c53a-42f5-ac7b-73aba8bd8b4f)
+![image](https://github.com/user-attachments/assets/15e16e16-990d-4a91-9726-ae825a86511a)
+
+* If 'P' got least then 'D' would get the highest but according to the question 'D' did not get the highest payment. So this is **not possible**.
+
+![image](https://github.com/user-attachments/assets/1744d54d-cccc-4bef-88dd-332e3e30f71f)
+
+* If 'P' got least at '2' then 'D' would get the highest at '1' but that is also **not possible** as 'D' did not get the highest payment.
+
+![image](https://github.com/user-attachments/assets/f5835637-11ed-46ea-af0c-00cfe8e8ec75)
+
+* If '2nd' is **least** then '1st' is the **highest**.
+* As 'F' got '150k' more than 'R' so 'R' cannot be the **highest**.
+* After 'J and F', 'R' comes so 'R' is at the '4th' position.
+
+![image](https://github.com/user-attachments/assets/531840e6-6a96-441f-b582-ec3877f0a6b3)
+![image](https://github.com/user-attachments/assets/45a8ff41-018c-48b7-98c2-be570636f2e4)
+![image](https://github.com/user-attachments/assets/86e84100-b2f2-4837-baba-8cda8ee925b7)
+![image](https://github.com/user-attachments/assets/990044a7-e7b5-4a54-a268-33389577c1b1)
+
+* If we take order from max. to least then '1st' is the max. and '3rd' is the '2nd max or next max' after '1st'.
+
+![image](https://github.com/user-attachments/assets/59c723e8-a07c-4602-96ec-736e42e46870)
+
+* P > 200k.
+* If 'F' is at '5th' position.
+* 5th - 4th -> 6p + 10r - (4p + 12r) -> 2p - 2r.
+* We got, P = 150K.
+* This is **not possible** because we know that 'P > 200k' and '150K < 200K'.
+
+![image](https://github.com/user-attachments/assets/ee6e5b2d-7ea6-404f-a215-f781d01ee174)
+![image](https://github.com/user-attachments/assets/bacd1017-3f77-4d21-8956-c9233d0238ff)
+
+* 'F' is at '6th' position.
+* 'J' is at '5th' position.
+
+![image](https://github.com/user-attachments/assets/3f754ed2-6311-44a6-b1f7-ae14261b7da9)
+
+* According to the order '6th' is **greater than** the '4th' payment.
+* '6th' - '4th'.
+
+![image](https://github.com/user-attachments/assets/29214bf7-042d-41e8-99f2-8a250a50b9c6)
+![image](https://github.com/user-attachments/assets/5f8e8013-eaf9-44a0-a633-1c92ee024093)
+![image](https://github.com/user-attachments/assets/e5011392-7b4d-4645-b6b1-1d418feb17fd)
+
+* Sum -> 3600K + 1200K + 2400K + 1800K + 2100K + 1950K -> 13,050K. [3] [Answer]
+* Median Payment -> Write all of the payments in **ascending order**.
+* '6' terms -> Even no. of terms.
+* Avg. of 3rd and 4th term is the Median Payment. [4] [Answer]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
