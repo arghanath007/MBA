@@ -2064,16 +2064,29 @@
 
 * Option **A**. [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/19bd37ba-1615-4a80-9aea-90d573eeff02)
 
+* With 'x = 1', we are satisfying the equation.
+* Answer is either option **B or D**.
+* Products of roots -> C/A. [Logic] [Concept]
 
+![image](https://github.com/user-attachments/assets/e4bafab6-fd92-4d5d-b90b-435bfdf44d8a)
+![image](https://github.com/user-attachments/assets/39542a77-3705-4bde-b2d2-dc6df51210e1)
 
+* [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/306ab52a-b2b1-4ce7-a6ee-b936faa8e5a8)
+![image](https://github.com/user-attachments/assets/d189a7d9-967f-4af2-b80b-c041af3b682a)
+![image](https://github.com/user-attachments/assets/8fb5bfdd-236c-4fe6-a894-bfdd86b01bb4)
+![image](https://github.com/user-attachments/assets/84ac57e7-641e-46ec-9b0e-1963c883008f)
 
+* Examples.
 
+![image](https://github.com/user-attachments/assets/2807fa0f-49dd-4c36-9e74-6eb01716e8b4)
 
+* Option **B**. [**VERY IMPORTANT**] [Practice Again]
 
-
-
+* Start from 22mins.
 
 
 
