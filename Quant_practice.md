@@ -1917,8 +1917,51 @@
 * First '9' odd numbers.
 
 ![image](https://github.com/user-attachments/assets/7ed681cf-fd4a-4267-8c55-5fb03643e909)
+![image](https://github.com/user-attachments/assets/33913d18-e79d-4f54-bca5-b8f9ec6aeab0)
 
-* Start from 25mins.
+* A = K(K + 1).
+* B = K + (K + 1).
+* Till 'K = 19' it is **not possible**.
+* K -> 0 to 19 -> 20 values.
+
+![image](https://github.com/user-attachments/assets/7aa82345-225c-487c-90a4-2c365b14fcb5)
+![image](https://github.com/user-attachments/assets/c6ffd51f-7743-4d73-984b-78435d52efbb)
+
+* 'K' and 'K + 1' are **perfect square**. '2' consecutive nos. are **perfect square**. It can only happen at '0' and '1'.
+
+![image](https://github.com/user-attachments/assets/7ea439fb-f0bd-4d3d-b5fe-4c21706270a6)
+
+* Any polynomial -> Quadratic or higher degree -> Irrational roots are always conjugate.
+* Product(P), sum(S) should be rational number if coefficients are rational. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b48d1490-6ff4-423d-aa5f-0d07ed80c203)
+
+* Rational nos -> 30, 12, 8.
+* x = alpha -> It is the root.
+* x - alpha -> It is the factor.
+
+![image](https://github.com/user-attachments/assets/809b17ab-a5aa-45b6-9cac-5d40a96c6ad3)
+![image](https://github.com/user-attachments/assets/23b1627c-91ca-4e6f-81c8-8fb35d0fba5a)
+![image](https://github.com/user-attachments/assets/18b8cde8-bd7e-4804-91da-3c5e6df2601c)
+
+* 5x^2 -> 4x^2 + x^2.
+
+![image](https://github.com/user-attachments/assets/b08db2d9-3cb4-4f5b-9e99-c3e1d94361d5)
+
+* All are perfect squares greater than '0'.
+
+![image](https://github.com/user-attachments/assets/19ccf4a2-f01c-4999-b003-f095ca992fad)
+![image](https://github.com/user-attachments/assets/f84631a8-c6ee-49c5-8fc7-7ac18cdcdef0)
+
+* We cannot factorize it.
+* We want integers.
+
+![image](https://github.com/user-attachments/assets/a9e058e7-1baa-4e50-a950-92ec2cd5a2ea)
+![image](https://github.com/user-attachments/assets/cf91b5a2-06ba-4b1e-b22f-397e6b33714a)
+
+* We cannot factorize it.
+* We want integers.
+
 
 
 
