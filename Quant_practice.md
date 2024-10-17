@@ -1960,7 +1960,56 @@
 ![image](https://github.com/user-attachments/assets/cf91b5a2-06ba-4b1e-b22f-397e6b33714a)
 
 * We cannot factorize it.
-* We want integers.
+* We want integers. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ae5dbe49-2f32-422f-927c-7d9c6096deef)
+![image](https://github.com/user-attachments/assets/0a76f4dc-ea91-4345-8d74-8bc2e34e472e)
+
+* We cannot factorize it.
+* We have to use the quadratic formula. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/096ca906-d701-4428-ada7-b01dff95b361)
+
+* **Negative** is **not possible**.
+* Exponential function is always **positive**.
+
+![image](https://github.com/user-attachments/assets/53a95d57-cb85-4e1c-99ed-d42601fe50c5)
+![image](https://github.com/user-attachments/assets/1a1de805-9877-486e-86f2-db0a93ce3782)
+
+* Attacking Point -> Make the bases the **same**. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bf5428cb-bbd6-4a36-a857-8794583cac79)
+![image](https://github.com/user-attachments/assets/7121f25e-a71c-415d-bf28-a585aa329abc)
+![image](https://github.com/user-attachments/assets/2bcec367-2d35-4777-9e27-ddcbb2f9bb58)
+
+* log's argument can never be **negative**. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/abacb310-05ca-4642-8ae6-6538c4660763)
+
+* That's why 'x = 1/2' is **not possible**.
+
+![image](https://github.com/user-attachments/assets/632c25fb-50b1-4ed8-9508-e3231a17f53f)
+![image](https://github.com/user-attachments/assets/85499b35-0d1d-43d0-8fc0-accc3140ebd7)
+![image](https://github.com/user-attachments/assets/fb5073dd-d15a-468f-a739-db557febd33a)
+![image](https://github.com/user-attachments/assets/ce71e1c7-972d-48e0-8430-b2f6862df0d7)
+![image](https://github.com/user-attachments/assets/f9db77e7-67ce-44a3-881c-cbe7de3833d3)
+
+* Square root of 'x' is always **positive**. [Logic] [Concept] [**VERY IMPORTANT**]
+* Square root cannot be **negative**. [Logic] [Concept] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/366de668-b084-4010-8742-91b8e3916660)
+
+* To remove the mod, we will square both sides.
+
+![image](https://github.com/user-attachments/assets/25397766-90f4-4d4f-9343-c580ae7cc2e7)
+![image](https://github.com/user-attachments/assets/24a8a4d3-9078-486e-ada3-3320eba0d32f)
+
+* Converting them into powers of '2'.
+
+![image](https://github.com/user-attachments/assets/602c61dc-70db-4f6d-9abc-18832d70cddb)
+
+* Log base change formula. [Logic] [Concept] [**VERY IMPORTANT**]
+* 31mins.
 
 
 
