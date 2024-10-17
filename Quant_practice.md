@@ -2008,8 +2008,64 @@
 
 ![image](https://github.com/user-attachments/assets/602c61dc-70db-4f6d-9abc-18832d70cddb)
 
-* Log base change formula. [Logic] [Concept] [**VERY IMPORTANT**]
-* 31mins.
+* Log base change formula. [Logic] [Concept] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/a93e229e-39f7-44fa-8581-7e7d6d83f251)
+![image](https://github.com/user-attachments/assets/19ab86eb-931b-47b7-b86b-c50645f3cd96)
+![image](https://github.com/user-attachments/assets/820eb255-f3f5-4e72-a1bb-be24992d2ac6)
+![image](https://github.com/user-attachments/assets/98f7dfd0-86a7-41fa-a9f8-cf1cb71e8323)
+
+* We have nothing to do with 'a'. We wanted to find 'x'.
+
+![image](https://github.com/user-attachments/assets/85a7a719-101a-4dd6-aaa2-7dd7aaeca3d2)
+![image](https://github.com/user-attachments/assets/448860ca-8354-4cc9-9937-352252f2d3ee)
+
+* Base value which is '2' is the **same**.
+
+![image](https://github.com/user-attachments/assets/4b4b1374-1375-4853-be78-ea764f0b131c)
+![image](https://github.com/user-attachments/assets/41dc420a-fd6d-4a11-861e-28c50f9fb193)
+![image](https://github.com/user-attachments/assets/a18cd82b-d44c-4223-a9df-c46c6a3e5cf3)
+![image](https://github.com/user-attachments/assets/ef2da9c2-746e-47c7-af59-e62ff86f5f6b)
+![image](https://github.com/user-attachments/assets/196ec3c2-d2ba-4bb3-b952-2ba7f91817dd)
+![image](https://github.com/user-attachments/assets/a861d6e7-e6d6-4df3-8ab3-0d1b99062758)
+
+* Double 'log' -> Be careful. [Logic] [Concept] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e01bab49-ad1f-423a-a632-8c0cf48a2366)
+![image](https://github.com/user-attachments/assets/0e9138b2-d0ee-4197-b0ae-54d507852f58)
+
+* log base less than '1' -> The inequality sign changes. [Logic] [Concept] [**VERY IMPORTANT**] [Practice Again]
+
+
+![image](https://github.com/user-attachments/assets/4ac1e5a2-558e-4594-a90d-0b7a8b38806b)
+![image](https://github.com/user-attachments/assets/aedb6768-b465-4640-ba4a-1b76ffd5e913)
+
+* base between '0 to 1' which is '1/2' -> Sign reverses. [Logic] [Concept] [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e5aea746-6ebc-40af-8a18-c71d46644f8f)
+![image](https://github.com/user-attachments/assets/055aa72f-1727-4847-b2fc-1eb21d0431c3)
+![image](https://github.com/user-attachments/assets/8d1b4ce0-295d-44e2-a238-49cd9564e12b)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/6a637acc-50f7-4862-b973-312caf7bbeb5)
+![image](https://github.com/user-attachments/assets/b640c558-f545-46ff-acb8-2e84778574f8)
+![image](https://github.com/user-attachments/assets/07aa6a1d-61f0-4791-9017-f39ae0c70434)
+
+* Adding the '3' equations to get the **final equation**.
+
+![image](https://github.com/user-attachments/assets/81ef6e7e-e1be-4cf7-9c51-e29d574f0bea)
+
+* a + b + c = 3 * log 5.
+* As there is no 'log 5' term in the **final equation** hence 'a + b + c = 0'.
+
+![image](https://github.com/user-attachments/assets/ad3d3b79-0807-4dc9-b206-31c58d6c9817)
+![image](https://github.com/user-attachments/assets/cfa49359-7743-4bf8-971b-503edf7f6cdd)
+
+* Option **A**. [**VERY IMPORTANT**] [Practice Again]
+
+
+
 
 
 
