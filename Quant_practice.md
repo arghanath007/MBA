@@ -2150,23 +2150,46 @@
 
 * [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/ef95454e-221e-411c-bd21-6320fe5bb672)
+![image](https://github.com/user-attachments/assets/4b1dd2ea-a59a-4ca0-856f-8ebb44182ed6)
+![image](https://github.com/user-attachments/assets/d7f1d2ad-a0d2-4c7e-8a86-fa3d3792714c)
+![image](https://github.com/user-attachments/assets/13d6021a-bf19-4819-9047-51fa00bdbba1)
 
+* For quadratic.
 
+![image](https://github.com/user-attachments/assets/fb6ff1a4-e36a-491e-85e3-e73266e27b94)
+![image](https://github.com/user-attachments/assets/e01ca393-5a81-4ccc-ab2c-997d8ac26c92)
 
+* [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/b28ce0d0-1181-40c9-b30c-3bf412920237)
+![image](https://github.com/user-attachments/assets/1c3c1ee3-5a07-4f36-a95d-bcb9eb3121c2)
 
+* [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/74dfc6a2-bd3a-4710-8da7-826a541155d3)
+![image](https://github.com/user-attachments/assets/c4d95e4c-0eaa-4f26-b570-30d889b57a9b)
 
+* [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/3cb01c68-ec3e-4280-8d1e-6fbbe8108140)
+![image](https://github.com/user-attachments/assets/319ca8de-99f1-4d13-b33a-359cb36ea5d5)
 
+* Explain.
 
+![image](https://github.com/user-attachments/assets/9ca9f841-bfc9-48be-862d-b6d6f48f3f46)
+![image](https://github.com/user-attachments/assets/06286a92-5406-40cf-a2f0-569942e3b7c0)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/b1be0a2a-5ea8-42f6-a4b8-a36950f3a8d6)
+![image](https://github.com/user-attachments/assets/754fce92-ea39-45a0-9977-df7bf6fa0d14)
 
-
-
-
-
+* x = 3.
+* 3 - 1 + 3 - 3 + 3 - 7 -> 2 + 0 - 4 -> -2. 
+* x = 5.
+* 5 - 1 + 5 - 3 + 5 - 7 -> 4 + 2 - 2 -> 4. 
+* Doubt.
 
 
 
