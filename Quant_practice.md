@@ -2118,7 +2118,65 @@
 ![image](https://github.com/user-attachments/assets/c178826b-79cf-49df-aad7-dcd13d31f9cb)
 
 * [**VERY IMPORTANT**] [Practice Again]
-* 56mins.
+
+![image](https://github.com/user-attachments/assets/33fe9a0b-18d7-4469-9e52-5fe50fed0034)
+![image](https://github.com/user-attachments/assets/1bb9c221-f3d3-4a54-bad1-d7973b4a04e2)
+![image](https://github.com/user-attachments/assets/9ae5a837-2f1f-4b13-a388-976b5ff03f40)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/70dd4f6c-83bf-44c2-b3f4-1669f9478f93)
+
+* Method **1**.
+
+![image](https://github.com/user-attachments/assets/ba89aed0-1896-4dee-b4f3-a595a64f71f3)
+![image](https://github.com/user-attachments/assets/532a075a-5f30-4279-a78f-4451f38388fd)
+![image](https://github.com/user-attachments/assets/b0d744aa-638b-4d08-be5e-f56fbc90c5d9)
+![image](https://github.com/user-attachments/assets/1904be09-a0d3-4de6-9074-25a4f91795b9)
+
+* We can find 'q' in the same way as 'p'.
+* Method **2**.
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/a0019cea-63db-4810-bd2c-1d71571a99e7)
+
+* TVC -> Total Variable Cost
+* AVC -> Average Variable Cost
+* Min -> When 'a' is positive.
+* Max -> When 'a' is negative.
+
+![image](https://github.com/user-attachments/assets/7300b52c-a354-4c27-ba09-231d17a3ac08)
+![image](https://github.com/user-attachments/assets/1f9641ac-bcb4-4df4-bc1d-151ebbeb6cb3)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
