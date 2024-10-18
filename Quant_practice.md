@@ -2086,7 +2086,46 @@
 
 * Option **B**. [**VERY IMPORTANT**] [Practice Again]
 
-* Start from 22mins.
+![image](https://github.com/user-attachments/assets/6b60c83e-6039-4adb-83d0-b5da0b015ac3)
+![image](https://github.com/user-attachments/assets/61b9e71d-bb50-4917-8e77-43f5af757c56)
+![image](https://github.com/user-attachments/assets/531a1b78-42f1-4a18-9dff-7f65453263e2)
+
+* Sum -> a + b -> -B/A -> - (3/1) -> -3. [Logic] [Concept]
+* Product -> a * b -> C/A -> -1/1 -> -1. [Logic] [Concept]
+* Option **A**. [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/c51af886-1ea3-4079-a77e-0b0181006e25)
+![image](https://github.com/user-attachments/assets/922b5742-893d-4304-8179-fedd8015f311)
+
+* Roots are conjugate -> When 'a,b,c' are rational number. [Logic] [Concept]
+
+![image](https://github.com/user-attachments/assets/0bd3456f-0ce6-41c8-a988-c4548ee58b41)
+
+* -1 * (3 - |x|) -> -3 + |x| -> |x| - 3.
+* To solve modulus -> Make critic points in the range. [Logic] [Concept]
+* Critic points -> Where the mod value is '0'. [Logic] [Concept]
+
+![image](https://github.com/user-attachments/assets/17038aac-94d9-4f07-a1f2-23a08d3e45e1)
+![image](https://github.com/user-attachments/assets/431a6de6-5fb7-426c-aff5-95ce7f387dfb)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/f1a81205-1076-4c8f-b075-f93b99ba3f54)
+![image](https://github.com/user-attachments/assets/55de1672-c0ef-46a1-81a9-42440330fdf8)
+
+* Denominator -> Perfect square -> It is '0'.
+
+![image](https://github.com/user-attachments/assets/c178826b-79cf-49df-aad7-dcd13d31f9cb)
+
+* [**VERY IMPORTANT**] [Practice Again]
+* 56mins.
+
+
+
+
+
+
+
 
 
 
