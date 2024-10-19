@@ -2365,10 +2365,13 @@
 
 * [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/9a3f8c76-9e72-4c9a-99e4-96b593e96cb6)
 
+* Sign changes. 
+* Imaginary roots always come in pairs.
+* [Concept] [Formula] [Practice Again]
 
-
-
+* Start from beginning. 14mins.
 
 
 
