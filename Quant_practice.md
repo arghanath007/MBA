@@ -2350,13 +2350,20 @@
 
 ![image](https://github.com/user-attachments/assets/6c6d6a9d-8e6e-4313-9bbf-25954db3c2c3)
 
+* degree '4' equation -> '4' roots.
+* Imaginary roots come in pair, so no imaginary roots.
+* Integral roots -> Real roots.
+* There are '3' integral roots and we have a total of '4' roots. So the '4th' root is **same** as one of the other roots.
 
+![image](https://github.com/user-attachments/assets/0ce0f319-1973-439e-a5c1-9d6c8ad03359)
 
+* 'q' is a coefficient of 'x ^ 2'.
 
+![image](https://github.com/user-attachments/assets/5db37a6d-69f0-406c-a3e5-c118f99c857d)
+![image](https://github.com/user-attachments/assets/cdadbcb2-b3d9-42f9-b5ec-3a8694d6c47f)
+![image](https://github.com/user-attachments/assets/c98e7e88-a7e4-4ed5-9397-14d3c69b1f18)
 
-
-
-
+* [**VERY IMPORTANT**] [Practice Again]
 
 
 
