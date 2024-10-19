@@ -2191,14 +2191,128 @@
 * 5 - 1 + 5 - 3 + 5 - 7 -> 4 + 2 - 2 -> 4. 
 * Doubt.
 
+![image](https://github.com/user-attachments/assets/a4fec0a8-684e-472f-b17e-99dd580eb2c1)
+![image](https://github.com/user-attachments/assets/95086cb6-855d-4325-bd6d-e5c0b0bdded2)
 
+* a -> argument.
+* b -> base.
+* base cannot be less than '0'.
+* [Concept] [Formula] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/0dff6ba2-26c4-4f2f-b7bf-a2aa8ca9c9c1)
+![image](https://github.com/user-attachments/assets/7759ea62-f85f-4266-9253-40ad8f8fad96)
 
+* log is becoming negative.
 
+![image](https://github.com/user-attachments/assets/017f6e34-3ab0-4557-97cb-899a9eba31ab)
+![image](https://github.com/user-attachments/assets/8b7b3921-1681-4dd3-89cd-2da4629101a1)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/ac9c11ef-1f68-4f12-9e4f-115df07998cb)
+![image](https://github.com/user-attachments/assets/dbd12334-57ef-45bd-8361-945e133a1204)
+![image](https://github.com/user-attachments/assets/56afb92a-6a57-4301-b545-e4a6ff3f4b69)
+![image](https://github.com/user-attachments/assets/637f6a65-9ba5-47b9-8015-a5055a4c251c)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/d2e87801-de13-4e68-90a1-4bb9680182c6)
+![image](https://github.com/user-attachments/assets/422cb350-8b7c-4a94-b7b6-433e66a8b05e)
+![image](https://github.com/user-attachments/assets/d0d0ac28-1990-45e4-9866-845eead14580)
+
+* base is less than '1' -> Sign is reversed.
+
+![image](https://github.com/user-attachments/assets/02069433-08c7-4b26-94b2-32cef63d7f0b)
+
+* 'x - 2' is positive as given in the question. That's why we are able to cancel it.
+
+![image](https://github.com/user-attachments/assets/a3f3f523-ebbe-4912-b345-711f41839b74)
+![image](https://github.com/user-attachments/assets/279c9f51-2f00-461b-a27b-1785fd6d0cfa)
+![image](https://github.com/user-attachments/assets/d67c56e7-7dda-49f8-8a5b-36693be47909)
+
+* [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/aba522b1-9bab-4143-9190-4d23a3f83add)
+
+* x = 3 -> 27 - 18 - 9 = 0 -> equal to '0'.
+* x = -3 -> -27 - 18 - 9 -> not equal to '0'.
+
+![image](https://github.com/user-attachments/assets/821f0266-b621-438f-85be-885347686e39)
+![image](https://github.com/user-attachments/assets/b4184bce-beeb-46cf-8a49-1d8c05f7a354)
+
+* x = 3 -> root.
+* 'x - 3' -> factor.
+
+![image](https://github.com/user-attachments/assets/422de0ad-8617-4136-a8ab-f1e34516c685)
+![image](https://github.com/user-attachments/assets/0a664c76-d8c7-4327-b512-8d9afc3767cb)
+
+* Long division. [Concept] [Formula]
+
+![image](https://github.com/user-attachments/assets/68057d8c-7063-407c-91ab-1f5cccf80ee9)
+
+* D < 0 -> Always positive.
+* x ^ 2 + x + 3 -> It is '0'.
+* X <= 3.
+
+![image](https://github.com/user-attachments/assets/c74d76d6-9ed2-4ae6-bf67-c465086ad42f)
+
+* X > 2.
+
+![image](https://github.com/user-attachments/assets/a3dbb305-8943-4ad9-bd7f-bb66e1c57911)
+![image](https://github.com/user-attachments/assets/97f596ef-bc84-4c35-bc34-0c1d6b1f0a13)
+![image](https://github.com/user-attachments/assets/7676b065-ccac-4911-a628-c504a44fb129)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/856d657e-f42b-4e7f-b561-34af74028741)
+
+* For small values.
+
+![image](https://github.com/user-attachments/assets/84026c49-5e9a-42ae-9786-8b733818cb29)
+![image](https://github.com/user-attachments/assets/ccc4cd8f-b0e4-4dac-a10a-f07ef8e7b1d9)
+![image](https://github.com/user-attachments/assets/4c66bfc4-87b6-468e-b1d8-f39bbc290f80)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/db6a80ec-74d2-42da-971f-2b7815b10216)
+![image](https://github.com/user-attachments/assets/a1ddf244-4315-4fcc-8dd0-fea7aa880ea4)
+![image](https://github.com/user-attachments/assets/686cf7c3-bd5c-47c5-915b-5ce9728993d0)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/8d6b9563-d713-428d-ab8b-1802f7821f23)
+![image](https://github.com/user-attachments/assets/f21c2d23-1ac6-475c-b7c5-c885fb5514e3)
+![image](https://github.com/user-attachments/assets/4dc589b7-b254-4edd-ac6e-bb840e9693c7)
+![image](https://github.com/user-attachments/assets/479205c7-ca78-43b6-a7b0-3951b29dee5c)
+
+* We got base '3', so we are taking the base as '3' in the next one.
+
+![image](https://github.com/user-attachments/assets/15bf667c-a38d-4b3e-ab82-d38712270d6d)
+![image](https://github.com/user-attachments/assets/556a3af0-e6d0-41b2-9c3d-e0df8d4de6ed)
+![image](https://github.com/user-attachments/assets/ad558ec3-bde7-4626-88df-827a11ca4b87)
+![image](https://github.com/user-attachments/assets/decfac43-6f18-4705-ac9d-8a4422c2fcfa)
+![image](https://github.com/user-attachments/assets/e107c111-0895-4824-aa0f-fa1d59139886)
+
+* Sir copied it wrong. Now fixed.
+
+![image](https://github.com/user-attachments/assets/fbc42cca-13d2-4a09-ab88-79db3054139e)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/2015bce0-e516-41f5-99b1-7b468be8fe32)
+![image](https://github.com/user-attachments/assets/50e91c63-b517-4c67-9a42-72c78179e085)
+![image](https://github.com/user-attachments/assets/74b1a3e1-c04d-449e-b8c8-111f0f82b2c7)
+![image](https://github.com/user-attachments/assets/cc205529-db00-4d68-917d-23209ac0baff)
+![image](https://github.com/user-attachments/assets/ecc9816d-ba9d-4d72-8476-40f60fac5caf)
+
+* Always cross-chec. [Concept] [Formula]
+
+![image](https://github.com/user-attachments/assets/b24033d1-6cc5-47df-8592-11cfeeb705d4)
+![image](https://github.com/user-attachments/assets/1483ea6e-fa3e-4d20-94fb-65b69685f59f)
+
+* x > 0.
+* 'x' is always positive.
+* [**VERY IMPORTANT**] [Practice Again]
 
 
 
