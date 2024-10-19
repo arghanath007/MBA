@@ -2314,6 +2314,53 @@
 * 'x' is always positive.
 * [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5b84f38a-1a47-41a4-98fd-ed774c8279d6)
+
+* 'b' can only take powers of '2' which are '1, 2, 3, 4....'
+* Powers of '2' cannot be negative.
+* b = 1 -> Possible when 'd = 0' and 'e' is any positive entry.
+
+![image](https://github.com/user-attachments/assets/51d383de-7d0b-4cd8-9c5a-d3aec02a4f39)
+![image](https://github.com/user-attachments/assets/52b27746-cc6e-4472-b968-984d411e5ee5)
+![image](https://github.com/user-attachments/assets/6964c4b9-a5db-42ee-895b-fbd0c39d70c4)
+
+* 'b' can take '11' values.
+
+![image](https://github.com/user-attachments/assets/37e6c0f2-2b90-470b-b960-56941d145075)
+![image](https://github.com/user-attachments/assets/66b488bf-c5d2-4088-a5d3-8848cb02078c)
+![image](https://github.com/user-attachments/assets/462f7cec-115d-4d55-845a-0beba0d6b49a)
+![image](https://github.com/user-attachments/assets/95652e1f-7d39-4e23-bf7e-86997198d304)
+![image](https://github.com/user-attachments/assets/041fd569-80ba-49ae-af7d-a9130d920a09)
+![image](https://github.com/user-attachments/assets/6623d657-d389-483d-8ffc-304cb70faf36)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/336b7c88-1bc3-4589-b697-062d7b57652a)
+![image](https://github.com/user-attachments/assets/c85e8e66-7667-4fe7-ae90-bcff3fa9eb63)
+
+* [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/ea142871-57bc-4e00-90b2-54fa10ec18d1)
+![image](https://github.com/user-attachments/assets/e8d6bc58-f7b5-4b93-b020-6b838acef816)
+![image](https://github.com/user-attachments/assets/3edc21c9-affc-4da1-b287-0877ada64f2b)
+![image](https://github.com/user-attachments/assets/3b6d4f57-f4f5-4f33-a887-37cbc1da1ed3)
+![image](https://github.com/user-attachments/assets/ae77ec89-7952-42e1-ab26-72a3ab5f3734)
+
+* Always occuring in pairs.
+
+![image](https://github.com/user-attachments/assets/6c6d6a9d-8e6e-4313-9bbf-25954db3c2c3)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
