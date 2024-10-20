@@ -2453,16 +2453,37 @@
 
 * [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/881a002d-8ece-41f7-908b-f4506049a369)
 
+* Roots rational -> 'D' is a perfect square.
 
+![image](https://github.com/user-attachments/assets/e49f92f5-b621-4720-acc8-685b40cd99dc)
+![image](https://github.com/user-attachments/assets/715a36c6-b0c3-4340-b3cf-5b74beb691e6)
+![image](https://github.com/user-attachments/assets/fa86fa0e-3232-4482-8f19-0ff72b3bfe3e)
 
+* m < 50 -> Correction.
 
+![image](https://github.com/user-attachments/assets/b79c1c3a-1c62-4da9-a7a4-58314d3b7f41)
+![image](https://github.com/user-attachments/assets/387b32de-6997-4f3c-baab-7caa74980463)
+![image](https://github.com/user-attachments/assets/546ca32d-9c51-430d-9295-ac289c9d801a)
+![image](https://github.com/user-attachments/assets/0363c87a-3488-4fcf-9fdb-208c096b6e07)
+![image](https://github.com/user-attachments/assets/3de2fcfb-4cdc-483f-95a2-be797b81950e)
+![image](https://github.com/user-attachments/assets/beb7e2e1-4194-44de-94d9-38d9b6a3609d)
+![image](https://github.com/user-attachments/assets/6b07f1e3-5778-49dd-93e5-2047e4d31a04)
 
+* [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/d271f922-62c6-4ee8-9a81-3476b341bbbb)
+![image](https://github.com/user-attachments/assets/4cac1c9e-7233-4b58-a1a9-900f946d5ff6)
+![image](https://github.com/user-attachments/assets/311c862a-0069-42ed-9cf6-ddd9da197ffe)
 
+* [Concept] [Formula] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/d5f0be64-cab4-4184-9655-fc499a262f93)
+![image](https://github.com/user-attachments/assets/890713e9-7908-41a7-88ce-8781a047bd2d)
+![image](https://github.com/user-attachments/assets/897231ea-70c4-406d-be34-bf1ec4783c40)
 
-
+* [**VERY IMPORTANT**] [Practice Again]
 
 
 
