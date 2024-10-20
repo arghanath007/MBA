@@ -2414,6 +2414,45 @@
 * [**VERY IMPORTANT**] [Practice Again]
 
 ![image](https://github.com/user-attachments/assets/a8b705bc-da5c-4bcc-b3f4-2098333d0c2c)
+![image](https://github.com/user-attachments/assets/36d6cf60-519d-4e8c-8509-4bb260c75a5c)
+![image](https://github.com/user-attachments/assets/ba7f72fe-f952-4012-846c-a7a9ca308687)
+
+* 'x - 1', 'x - 2' are the factors of the equation.
+
+![image](https://github.com/user-attachments/assets/c895f641-94f2-447d-981c-20c0668a3d3e)
+![image](https://github.com/user-attachments/assets/a4d48a37-a251-4601-9404-94220e4f6434)
+
+* Method **1**.
+
+![image](https://github.com/user-attachments/assets/8bdf7cd6-f74e-4773-993b-318126fae69c)
+
+* Method **2**.
+
+![image](https://github.com/user-attachments/assets/80fdc6e7-cf22-4e88-b3a2-be2239ca9199)
+![image](https://github.com/user-attachments/assets/a9f16f93-e3e8-4156-b1d6-a625226f42dd)
+![image](https://github.com/user-attachments/assets/3ea30eb3-3415-43d1-b549-4287d6d38330)
+![image](https://github.com/user-attachments/assets/4977ba6b-fa26-4cfc-896c-d9366cd5871b)
+![image](https://github.com/user-attachments/assets/2765d07d-fbde-4e6b-934f-bad33dbd16f9)
+
+* We don't have to check '3 and 10'. They will satisfy completely.
+
+![image](https://github.com/user-attachments/assets/9ac5998d-a253-44d7-9c85-9fd59aaf5fc2)
+![image](https://github.com/user-attachments/assets/8bcc44d0-be02-4d0d-8f24-8ee36bffb9f3)
+
+* Hit and trial method.
+
+![image](https://github.com/user-attachments/assets/bcf52dea-6692-42d1-b9d8-fc909ca45f63)
+
+* Hit and trial method.
+
+![image](https://github.com/user-attachments/assets/f296a0e0-6515-4c50-92ca-8f696f1dbf63)
+
+* Area of triangle(A) -> r * (r + 2R). [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/9839d4bf-4d9d-4d2a-a5c0-bf1acfed4830)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
 
 
 
