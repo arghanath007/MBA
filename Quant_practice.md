@@ -2485,6 +2485,42 @@
 
 * [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/c3c560ac-2509-4319-bac8-e54bff9db78f)
+![image](https://github.com/user-attachments/assets/61a291a9-89cf-4bb0-8012-85b290fd8aed)
+![image](https://github.com/user-attachments/assets/fa172491-285a-479a-bf52-7a8e5925f0a3)
+![image](https://github.com/user-attachments/assets/07fd8f1e-f917-4186-9405-b420ee428494)
+![image](https://github.com/user-attachments/assets/ff74bd87-6605-4e21-a67d-550841c1dc58)
+
+* Squaring -> It becomes a degree '4' equation. It is not ideal. [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/2db506dc-878b-46d7-aad9-7221a96bbe74)
+
+* Cannot do factorization as well. [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/f272998c-b5ab-43da-a1f5-fd55ba7f67b6)
+![image](https://github.com/user-attachments/assets/83961d47-eb04-4ec4-b3db-f37ac58f45c2)
+
+* To minimize -> Any perfect square min. value is '0'. [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/a3880e9a-49b2-4962-86eb-29a1412e3295)
+![image](https://github.com/user-attachments/assets/54108222-7104-489c-9f2e-b7728c0f9918)
+![image](https://github.com/user-attachments/assets/eb66a361-d143-4555-9f2f-591702575860)
+
+* Equality holds at exactly '5'.
+
+![image](https://github.com/user-attachments/assets/ebf0af25-9fc1-4b2d-8736-f415995da886)
+![image](https://github.com/user-attachments/assets/d5d185fb-273b-4d2e-b01f-c335c144a3b7)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/d3f57de3-2ed7-41ee-ac86-d4860585433c)
+
+* 27mins.
+
+
+
+
+
 
 
 
