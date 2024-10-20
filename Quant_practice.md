@@ -2371,7 +2371,53 @@
 * Imaginary roots always come in pairs.
 * [Concept] [Formula] [Practice Again]
 
-* Start from beginning. 14mins.
+![image](https://github.com/user-attachments/assets/2a633446-82c2-4d4b-b344-3c90ca3e3b46)
+![image](https://github.com/user-attachments/assets/36d1abe7-486f-4ea2-84f3-39cded1300c3)
+![image](https://github.com/user-attachments/assets/981e598e-9763-43e6-a1ff-7934c6ab32f5)
+
+* Imaginary roots cannot be '1' as they come in pairs. So they are '0'.
+
+![image](https://github.com/user-attachments/assets/c29e8c7c-3f87-44ac-9a7e-a96af97332d6)
+![image](https://github.com/user-attachments/assets/e330300b-f6b9-4094-9a0c-0efc3b8401c0)
+![image](https://github.com/user-attachments/assets/10040719-49e5-44e9-8c7d-965b6ee5f0f7)
+
+* Option **D** -> Definitely True.
+* Option **A, B, C** -> Possibly True, we don't know definitely.
+* [Concept] [Formula] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/6c0ae64e-4630-473a-ad7b-ec709aa4b6b3)
+![image](https://github.com/user-attachments/assets/24e046d2-77f1-4e27-bd2d-d7d8b0e7ef73)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/acbb4089-de8c-4ba4-b581-ecc491533703)
+![image](https://github.com/user-attachments/assets/684c978d-0935-46e9-ba70-4fd675172944)
+![image](https://github.com/user-attachments/assets/e8434619-2ca8-4eea-8a2e-ff3a2599f04e)
+![image](https://github.com/user-attachments/assets/bbf3669c-cadb-423a-9517-9dcf4c6c21e5)
+![image](https://github.com/user-attachments/assets/6ab1ea91-48d5-41d2-b913-f953bc5e641d)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/48a55890-1aa8-46ec-b65a-3c233933fee0)
+![image](https://github.com/user-attachments/assets/a9aa3520-5c32-4b73-9fda-c95832633c58)
+![image](https://github.com/user-attachments/assets/409b740d-cbf0-4635-b929-f06378ee5221)
+![image](https://github.com/user-attachments/assets/4e596e7c-1f05-4ab4-a90e-70743df96870)
+![image](https://github.com/user-attachments/assets/ef421253-52d0-4823-b508-b739ea367624)
+
+* We want negative -> <= 0 -> less than equal to '0'.
+* Denominator cannot be '0'. 
+
+![image](https://github.com/user-attachments/assets/1bc8a60e-3cbe-40d8-8568-74c838aa0462)
+![image](https://github.com/user-attachments/assets/e7869f07-01ea-4f96-9463-717008bebe99)
+![image](https://github.com/user-attachments/assets/96db42f6-9dec-430f-85a0-1495651be633)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/a8b705bc-da5c-4bcc-b3f4-2098333d0c2c)
+
+
+
+
 
 
 
