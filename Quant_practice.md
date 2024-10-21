@@ -2537,6 +2537,102 @@
 * Method **2**.
 * [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/5a54155d-8334-4703-ba0a-c7ef135afaba)
+
+* Q4 -> Make the numerator and denominator be the same.
+
+![image](https://github.com/user-attachments/assets/9786e6e8-7171-418a-bbd2-d910d863275b)
+![image](https://github.com/user-attachments/assets/928deeaa-2851-4fe5-bcb1-68bd4bfc6586)
+![image](https://github.com/user-attachments/assets/3ecf78f3-7c95-440e-92cb-cc23be8e41c2)
+![image](https://github.com/user-attachments/assets/36d8b21a-7335-4e82-a7e9-577fe9f8851a)
+
+* We found minimum.
+* 'y' is minimum.
+
+![image](https://github.com/user-attachments/assets/bd455f42-29e5-4eec-8542-0169685b008d)
+![image](https://github.com/user-attachments/assets/d10bf9d0-78d0-4a8b-ab16-235b42538434)
+![image](https://github.com/user-attachments/assets/28b1d030-6c56-401e-a82c-b57127353e32)
+
+* Method **1**.
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/6a5ea7d5-1ad3-4cf6-9055-dd352b7bce66)
+
+* Method **2**.
+
+![image](https://github.com/user-attachments/assets/a7d5570e-a45d-42f0-9a0c-3d0c2e45ad0b)
+
+* Q5 -> Make the numerator and denominator to be same.
+
+![image](https://github.com/user-attachments/assets/8695062e-7f38-47e9-9090-ba2c8a579dfd)
+![image](https://github.com/user-attachments/assets/2e40f975-e5b5-404e-9c6f-fae13721312a)
+![image](https://github.com/user-attachments/assets/11d2e3c2-19be-46cb-88a6-12f489ee6bcd)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/420f6b18-a2a0-4a59-9e50-910278c63077)
+![image](https://github.com/user-attachments/assets/96a2de55-33e3-405d-9a9f-ecddc5ee3f52)
+![image](https://github.com/user-attachments/assets/de8d749d-a35f-4e6d-955d-07be9f81fda5)
+
+* Mistake made in the question.
+
+![image](https://github.com/user-attachments/assets/8c600910-890f-4e4b-b888-7b941aaaaa61)
+![image](https://github.com/user-attachments/assets/93d58663-91de-4774-808f-17a87fb36d04)
+![image](https://github.com/user-attachments/assets/61dd90f8-9435-419e-a170-60f147c24af6)
+
+* log 5 base 5 -> 1.
+
+![image](https://github.com/user-attachments/assets/0069c2f6-01a9-4596-9a62-a2bc79aefafd)
+![image](https://github.com/user-attachments/assets/707d82ca-458e-4ecb-9b50-9a86fc996358)
+![image](https://github.com/user-attachments/assets/f1b119d3-4843-4e9a-bc8a-21a370db3c8c)
+![image](https://github.com/user-attachments/assets/4ff6e014-adf6-42ce-bbd2-5f65c4b26425)
+![image](https://github.com/user-attachments/assets/e31bab14-4005-4fec-880b-3716dae29c17)
+![image](https://github.com/user-attachments/assets/e05ab3a4-7b9c-4c9f-9912-90ef2f7bb2d4)
+![image](https://github.com/user-attachments/assets/41f19b8b-cbed-4865-944f-8a8be9325e44)
+
+* '3' is not possible.
+
+![image](https://github.com/user-attachments/assets/62feafbc-4248-4525-8ee2-699938fb8ca6)
+![image](https://github.com/user-attachments/assets/25a41e07-8697-4145-b95f-a8ad3227bd49)
+![image](https://github.com/user-attachments/assets/c886f7dd-fb33-48d5-b5ba-19102c5d5edd)
+![image](https://github.com/user-attachments/assets/9e4ddc96-de16-4be9-bf8f-1a6e886a56da)
+![image](https://github.com/user-attachments/assets/10910979-d26c-44f5-b5aa-89f7560e1325)
+![image](https://github.com/user-attachments/assets/ad519d50-60d0-4580-84c9-f856551cdb1f)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/cd948409-4560-4630-823b-d75700d66cf1)
+![image](https://github.com/user-attachments/assets/020e96fb-678d-4c34-b983-229166d3b4cb)
+![image](https://github.com/user-attachments/assets/d206b8bd-52a4-46ae-9680-6de43a3821ad)
+![image](https://github.com/user-attachments/assets/1f7df832-f5cf-41d0-8b08-50d7b3aff8af)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/e858328b-b4bd-46ec-9ddf-a02e5f97d77e)
+![image](https://github.com/user-attachments/assets/0895575a-9bdf-4ea7-8dd4-bed0ecc3ac8a)
+![image](https://github.com/user-attachments/assets/4292083a-a7f2-41a9-833c-f16db4c77d79)
+
+* 2hr 7mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
