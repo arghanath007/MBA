@@ -2514,17 +2514,28 @@
 * [**VERY IMPORTANT**] [Practice Again]
 
 ![image](https://github.com/user-attachments/assets/d3f57de3-2ed7-41ee-ac86-d4860585433c)
+![image](https://github.com/user-attachments/assets/e7707423-f3eb-4041-900b-76f33c41c856)
 
-* 27mins.
+* a = 1
+* b = -(p + 1)
+* c = 2 * log q base 2.
+* Sum(S) -> a + b -> -b/a. [Concept] [Formula] [Practice Again]
+* Product(P) -> a * b -> c/a. [Concept] [Formula] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/7eb9278d-cf50-4e3e-8ad8-679912694221)
+![image](https://github.com/user-attachments/assets/364f4c83-96dc-47bd-be5a-50e79d0841cc)
+![image](https://github.com/user-attachments/assets/0d70500f-343b-4942-b063-931921ec9867)
+![image](https://github.com/user-attachments/assets/3a5d7610-ce3c-4da4-b9a7-42cd1b038d82)
+![image](https://github.com/user-attachments/assets/50e8041d-29e5-4ff7-a457-ec020f423f0a)
 
+* Method **1**.
+* [**VERY IMPORTANT**] [Practice Again]
 
+![image](https://github.com/user-attachments/assets/618e4250-ea92-4bfb-985f-3512fb21785e)
+![image](https://github.com/user-attachments/assets/0eb93c01-30c7-4861-944b-ad1056856cf1)
 
-
-
-
-
-
+* Method **2**.
+* [**VERY IMPORTANT**] [Practice Again]
 
 
 
