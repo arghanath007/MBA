@@ -2611,12 +2611,59 @@
 ![image](https://github.com/user-attachments/assets/e858328b-b4bd-46ec-9ddf-a02e5f97d77e)
 ![image](https://github.com/user-attachments/assets/0895575a-9bdf-4ea7-8dd4-bed0ecc3ac8a)
 ![image](https://github.com/user-attachments/assets/4292083a-a7f2-41a9-833c-f16db4c77d79)
+![image](https://github.com/user-attachments/assets/21e63d50-81b4-4c6c-a27a-980a1e8f6ae2)
 
-* 2hr 7mins.
+* '100' has many factors. Many hit and trial options.
+* We will try to do 'quadratic * quadratic' form.
 
+![image](https://github.com/user-attachments/assets/3daa8234-e134-41b8-b690-e0cd5ce67749)
 
+* We want the bracket values to be the **same**. 
 
+![image](https://github.com/user-attachments/assets/0f3e2623-b4a8-44e3-a8d1-d2f72c9daa86)
 
+* This is not working.
+
+![image](https://github.com/user-attachments/assets/4fe25b4c-0a9d-425a-a39e-0bbcec9425aa)
+![image](https://github.com/user-attachments/assets/dbf4716a-60ba-4a01-a7a9-4e0b5bc5d7ed)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/a4d71214-4cd8-44f9-9004-02fe777646d2)
+![image](https://github.com/user-attachments/assets/7886ce65-0193-4e2f-bfaf-57505e88a2dd)
+![image](https://github.com/user-attachments/assets/77ead586-261f-4f88-b544-2d7d1da380df)
+![image](https://github.com/user-attachments/assets/d1f44630-af6d-42d0-a2b4-8b49363fcdc9)
+![image](https://github.com/user-attachments/assets/0df3281a-b29e-4470-9e3f-6b3c5436ab22)
+![image](https://github.com/user-attachments/assets/237026ca-01cf-45d7-9f86-38bc22bceed1)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/92d60d9f-7e7b-4da4-8c9a-3fae795fb048)
+![image](https://github.com/user-attachments/assets/7acf6efb-24b4-4929-9b49-e109add86d9b)
+
+* Square and then add.
+* For factorize, we have to do addition.
+
+![image](https://github.com/user-attachments/assets/c1855ab0-10a0-46c6-a2f1-045e3d8ad545)
+
+* 40 ^ 2 -> 1600.
+* Think about **prime numbers**.
+
+![image](https://github.com/user-attachments/assets/80020893-8353-42f1-aa3c-e5ccc6c97339)
+
+* We don't know the order of 'a,b,c,d'.
+
+![image](https://github.com/user-attachments/assets/f2cecbde-440d-4154-808b-ba8b3be536dd)
+![image](https://github.com/user-attachments/assets/ac4a3443-eb7f-40d7-9272-8a69176a5f97)
+
+* [**VERY IMPORTANT**] [Practice Again]
+
+![image](https://github.com/user-attachments/assets/5c7d19c2-560d-45c1-9da8-eb60be285aee)
+![image](https://github.com/user-attachments/assets/cf783ecf-76a6-485c-b54a-aeb7ce8ebd3c)
+
+* 5 ^ 2 + 4 ^ 2 -> 25 + 16 -> 41.
+
+![image](https://github.com/user-attachments/assets/92e34b81-c2cd-44aa-a33f-8ed6acf7ed1c)
 
 
 
