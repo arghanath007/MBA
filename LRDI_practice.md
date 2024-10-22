@@ -4963,13 +4963,21 @@ So, 'y = 6' not possible.
 * Answer -> 1. [5] [Answer]
 
 ![image](https://github.com/user-attachments/assets/0ef2f226-bee8-4db5-a27e-00c7b0c2c972)
+![image](https://github.com/user-attachments/assets/4408a935-ed3d-44ee-b19e-01810dd4c1e2)
+![image](https://github.com/user-attachments/assets/5676b769-3341-4c14-87f4-d232bee11d2f)
 
+* 20 - (1 + 8 + 2) -> 20 - 11 -> 9 left.
 
+![image](https://github.com/user-attachments/assets/97ff9c42-eb82-404b-89c2-9540f8c998fb)
+![image](https://github.com/user-attachments/assets/62e321b4-62d3-43c3-8b56-f544f6be2d26)
 
+* Answer -> 9. [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/14bc481e-c0de-45e6-964c-e610d3ad89c5)
+![image](https://github.com/user-attachments/assets/2a72f2d4-4d51-4e85-b430-c9c07fd456e0)
 
-
-
+* 2x + y + 2 + 1 = 20
+* 2x + y = 17.
 
 
 
