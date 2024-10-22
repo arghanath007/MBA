@@ -4979,18 +4979,90 @@ So, 'y = 6' not possible.
 * 2x + y + 2 + 1 = 20
 * 2x + y = 17.
 
+![image](https://github.com/user-attachments/assets/a90f5652-20c1-4254-ae94-0de45f0dc203)
+![image](https://github.com/user-attachments/assets/fbe783d8-ae09-4735-b509-c064ebd8fd90)
 
+* 'y' min is '1'.
 
+![image](https://github.com/user-attachments/assets/548640be-1cf7-4f4d-878e-375c3bb03359)
 
+* 2x = 9
+* 'x' min is '4.5' 
+* 'x' min is '5'. 
 
+![image](https://github.com/user-attachments/assets/b1c64538-59fc-4812-ab02-4224f2187e56)
+![image](https://github.com/user-attachments/assets/bc0a26bc-c570-4467-bfb6-dab98016fe06)
+![image](https://github.com/user-attachments/assets/b9ca1403-b3fe-4675-ae3c-fe21c54e709c)
 
+* 'y' max is '7'.
 
+![image](https://github.com/user-attachments/assets/34b0addf-abe4-4d54-bcc7-93934ef69ea8)
+![image](https://github.com/user-attachments/assets/18b280a5-7e0d-4bc3-9b6d-a7ab9e0d0c29)
+![image](https://github.com/user-attachments/assets/78b28b1b-40ea-4704-8f33-14f30fcca4cc)
+![image](https://github.com/user-attachments/assets/93e5309e-3124-4dc6-a565-3ebf2f21e44e)
+![image](https://github.com/user-attachments/assets/ed5dbe36-f956-4fc9-a785-9d49f85b125f)
+![image](https://github.com/user-attachments/assets/f91e0b28-5dce-40ac-bc55-5429d233bd9e)
 
- 
+* Point '3' -> Review/later use.
+* Point '5' -> Review/later use.
 
+![image](https://github.com/user-attachments/assets/bc59b3ab-31fc-44e7-a91c-332ad62b11be)
 
+* Point '6' -> We have to repeately come to this point.
 
+![image](https://github.com/user-attachments/assets/f1488406-22eb-4b41-a228-96614ce48639)
 
+* If we take pathology in section 'III' from '9-10'.
+* We will have pathology in section 'II' from '8-9'.
+
+![image](https://github.com/user-attachments/assets/bcab4d94-707c-46d4-b001-8b32e3418f23)
+
+* This is not possible.
+* We have pharma in section 'III' from '9-10'.
+
+![image](https://github.com/user-attachments/assets/446184bc-d074-4bdb-b905-4493f54dcc6b)
+![image](https://github.com/user-attachments/assets/48a8497e-09c9-418c-a190-66d25dbd77e2)
+
+* In whichever columns, 'FMT' is there, we canoot put a new 'FMT' in that column.
+* We cannot have pathology in section 'III' from '8-9'. According to point '5'. 
+* Micro biology is there in section 'III' from '8-9'.
+
+![image](https://github.com/user-attachments/assets/03226b00-a467-4ac9-a2b2-415d2111421d)
+![image](https://github.com/user-attachments/assets/195b49a7-6b06-4e42-9593-3ec8eb7aaa75)
+![image](https://github.com/user-attachments/assets/525788fe-b144-49b6-9da3-e9d7a69058d5)
+![image](https://github.com/user-attachments/assets/4b6330f7-905a-4862-bca7-53f85b1b2ad4)
+
+* Whether micro-biology is in section 'II' of '9-10' or '10-11', we are guranteed to have micro-biology in section 'I' of '11-12'.
+
+![image](https://github.com/user-attachments/assets/7b1c2f68-1c59-4fe7-82f5-c699a2792fc2)
+![image](https://github.com/user-attachments/assets/32716f01-d851-4dbd-b375-353ad5be9d34)
+![image](https://github.com/user-attachments/assets/c76d522f-4b0c-4ef6-abf9-35c56907c0a2)
+
+* Patho and micro are coming together.
+* We already have a micro in section 'I' of '11-12', that's why micro cannot come in section 'III' or section 'IV' of '11-12'.
+* That's why it is coming in section 'IV' of '12-1'.
+
+![image](https://github.com/user-attachments/assets/e58d7658-d822-4497-801a-00ea4d79eee6)
+![image](https://github.com/user-attachments/assets/9f66836e-32df-47df-a99c-46b8af0241f8)
+
+* 'CM' is already in the row of section 'II'.
+* 'Pharma' is in section 'II' of '12-1'. 
+* 'CM' is in section 'V' of '12-1'. 
+
+![image](https://github.com/user-attachments/assets/30cf2178-5e81-4c66-ba6c-e6491f7368bc)
+![image](https://github.com/user-attachments/assets/19619423-ce4d-455e-9a01-59534cf926df)
+![image](https://github.com/user-attachments/assets/eb6ebed3-ee87-41ed-b36e-68709886db2a)
+![image](https://github.com/user-attachments/assets/acd48d95-3b2e-44a4-952b-d442a3e52d62)
+![image](https://github.com/user-attachments/assets/bc671a79-c361-474a-af11-6024e01e2219)
+![image](https://github.com/user-attachments/assets/80a095b0-c925-42e3-9b91-9b440d312b14)
+![image](https://github.com/user-attachments/assets/3f2c154d-3f14-49e0-bf85-bb15b1dbf3f8)
+![image](https://github.com/user-attachments/assets/a59362b8-e09a-4208-95a5-146447752663)
+
+* [**VERY IMPORTANT**] [Practice Agin]
+
+![image](https://github.com/user-attachments/assets/87df2ce4-5b7e-4dbb-af5e-89eed8efe597)
+
+* Start from 46mins left.
 
 
 
