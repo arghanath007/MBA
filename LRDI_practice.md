@@ -4775,6 +4775,14 @@ So, 'y = 6' not possible.
 * 'a' has to be a multiple of '5'.
 * d = 10. [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/43cd4bf3-d93a-401c-ab31-bf02e99b814a)
+![image](https://github.com/user-attachments/assets/3d7fa5e8-3959-4959-a6bc-79c69f22b807)
+![image](https://github.com/user-attachments/assets/65b81497-4b2f-4657-be32-59ed6514d812)
+![image](https://github.com/user-attachments/assets/288f849d-578e-438a-961f-8b4d774ab583)
+
+
+
+
 
 
 
