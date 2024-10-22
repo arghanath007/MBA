@@ -4936,6 +4936,49 @@ So, 'y = 6' not possible.
 * We are getting 'C = 0' but in the question it is mentioned that 'C >= 1' atleast. No cases for 'N' are possible.
 * N = 0. [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/3b802e70-b9b7-40c5-bc5f-225f6fe92218)
+![image](https://github.com/user-attachments/assets/b98b4559-36e3-48ed-8730-b7c255316b83)
+![image](https://github.com/user-attachments/assets/61922525-ff0d-4dc5-8405-d190bdf510c5)
+![image](https://github.com/user-attachments/assets/062d642f-c34a-47c1-b195-f5986e6ae334)
+![image](https://github.com/user-attachments/assets/265df7b1-a02d-4dbf-9e96-bb0b1cc712e0)
+![image](https://github.com/user-attachments/assets/a42b9b94-8bd0-4010-be1f-e3d60533a1bf)
+
+* The kids entering at '7 or 8AM' have to stay for atleast '2hrs' so nobody leaves at '7 or 8AM'. 
+
+![image](https://github.com/user-attachments/assets/b9720164-c3e6-4b9e-9079-8ce550d763e8)
+![image](https://github.com/user-attachments/assets/b91b56af-47ef-4de1-b38d-7d174d737453)
+![image](https://github.com/user-attachments/assets/a9cfee21-6824-46d3-9d77-d19c8b7ad0eb)
+![image](https://github.com/user-attachments/assets/187a023f-63d3-493b-9df2-b6a6f75dbc3a)
+![image](https://github.com/user-attachments/assets/3d87e506-397d-4746-841e-d117eb46a7f0)
+
+* '2PM' exist cannot be '1' only, it will be '1 + something'.
+* Total is '10', we got '9' already, so the '2PM' exist is left with '1' only.
+
+![image](https://github.com/user-attachments/assets/46be0b16-d4ce-48f0-8554-231847e6043a)
+![image](https://github.com/user-attachments/assets/41bf500b-1d41-416a-a991-7b037ce4ae68)
+![image](https://github.com/user-attachments/assets/0c443846-dcda-4352-9784-51a8557ee950)
+![image](https://github.com/user-attachments/assets/ec3faa46-d24d-49af-9a7a-d25f220ae912)
+
+* Answer -> 4. [1] [Answer]
+* Answer -> 1. [5] [Answer]
+
+![image](https://github.com/user-attachments/assets/0ef2f226-bee8-4db5-a27e-00c7b0c2c972)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
