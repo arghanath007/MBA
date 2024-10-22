@@ -4779,10 +4779,162 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/3d7fa5e8-3959-4959-a6bc-79c69f22b807)
 ![image](https://github.com/user-attachments/assets/65b81497-4b2f-4657-be32-59ed6514d812)
 ![image](https://github.com/user-attachments/assets/288f849d-578e-438a-961f-8b4d774ab583)
+![image](https://github.com/user-attachments/assets/ac87e717-ca83-4335-90e9-a26c7db79e15)
 
+* If -> Multiple cases will be formed.
+* All of them are multiples of '10'.
 
+![image](https://github.com/user-attachments/assets/7fbe8378-4970-4d6d-a566-4a3512f769a9)
 
+* We cannot have multiple of '25' in cows(C). We will have '35'.
 
+![image](https://github.com/user-attachments/assets/343474f3-17bb-45fd-b59d-06f1e7000196)
+
+* Multiple cases. 
+* 145 - 35 -> 110.
+* We cannot take '50' as it is a multiple of '25'.
+
+![image](https://github.com/user-attachments/assets/aa60c1a2-5d11-4199-8af6-3b6c74e14b24)
+![image](https://github.com/user-attachments/assets/7c595783-0011-46f8-99d0-19df013a1333)
+![image](https://github.com/user-attachments/assets/154e5e1d-b5c5-4693-b17c-f00070460f3f)
+
+* 130 - 10 -> 120.
+* Goat(G)'s two out of the '3' is same.
+
+![image](https://github.com/user-attachments/assets/8a992aba-8099-4649-bd48-112020d18a26)
+
+* This is not possible.
+
+![image](https://github.com/user-attachments/assets/6dc67029-ec9d-40ee-a2ac-b0a19307607d)
+
+* This is not possible. Buffalo values are all distinct.
+
+![image](https://github.com/user-attachments/assets/0a88ca9a-274e-4b3f-aaf3-40bfbdda9746)
+![image](https://github.com/user-attachments/assets/853abba8-8cdc-4135-9b98-6afdbab9e505)
+![image](https://github.com/user-attachments/assets/2dbb76d9-207b-4f18-ac5f-0542491810ff)
+
+* 50 + 50 -> 100.
+* 60 + 40 -> 100.
+
+![image](https://github.com/user-attachments/assets/20304e1f-64c1-417c-9a28-0f13a04d4160)
+
+* '145 and 130' are fixed.
+* '95 and 130' are flexiable.
+
+![image](https://github.com/user-attachments/assets/c62f256c-485e-428a-bfa2-74af9478c18f)
+
+* Case '4' is the replica of case '2'.
+
+![image](https://github.com/user-attachments/assets/9e40666a-3f95-4b2c-8b10-e29e7eab8c58)
+
+* We got '4' cases.
+
+![image](https://github.com/user-attachments/assets/2aba0c5e-536a-4287-906c-2adebb97a130)
+![image](https://github.com/user-attachments/assets/d8921076-1d61-41ce-86b3-ace3d1f87b5f)
+
+* Q1 -> Case **3** only.
+* 60 + 60 -> 120. [1]  [Answer]
+
+![image](https://github.com/user-attachments/assets/e3422f13-93ab-44c2-98f0-872d88f56546)
+
+* Q2 -> Case **2 and 3** only.
+* Case 2 -> 60/40 -> 3/2.
+* Case 3 -> 50/60 -> 5/6.
+* Option **D**. [2]  [Answer]
+
+![image](https://github.com/user-attachments/assets/38d7bf27-4f51-4cb7-90e3-b9a08f41f1cb)
+
+* Hen(H) -> H1 = 2, H2 = 5, H3 = 4 -> 2 + 5 + 4 -> 11.
+
+![image](https://github.com/user-attachments/assets/21c91de7-00d2-4190-a3ea-2fc752b015cc)
+![image](https://github.com/user-attachments/assets/6be10fd2-f80b-4f50-81f4-21f0cccc9bcc)
+![image](https://github.com/user-attachments/assets/865136bb-831f-410a-b489-2c88a3606fa1)
+![image](https://github.com/user-attachments/assets/3f7faae4-9c5a-4377-a865-7db73f7631ab)
+
+* In every case we are getting '11'. [3] 
+ [Answer]
+
+![image](https://github.com/user-attachments/assets/05b9fab1-e26d-4fd7-9ad4-b59ed05cf797)
+
+* In case **2**, we are getting '7:5' for statement '1'. So statement '1' can be True.
+* In none of the cases, we are getting '5:4' for statement '2'. So statement '2' cannot be True.
+* In none of the cases, we are getting '2:1' for statement '3'. So statement '3' cannot be True.
+* In case **1**, we are getting '6:5' for statement '4'. So statement '4' can be True.
+* Option **2**. [4] [Answer] 
+
+![image](https://github.com/user-attachments/assets/90ccdb97-bb41-4de1-a784-2ad0d64143a1)
+
+* In case **3**, goats in 'H1' is '25' and in 'H2' is '50' which is twice.
+* No. of buffaloes(B) -> 60 -> option **C**. [5] [Answer] 
+
+![image](https://github.com/user-attachments/assets/e590cb91-706b-4609-9dc8-0cc2c7d790b2)
+![image](https://github.com/user-attachments/assets/2e3153f2-a075-41a8-8966-fcbc9e153c69)
+![image](https://github.com/user-attachments/assets/7c02d0c2-bbb0-48c5-8a61-71b8b291bc1e)
+![image](https://github.com/user-attachments/assets/f22c2fa0-4f41-41e5-99ec-6cd86697fbad)
+![image](https://github.com/user-attachments/assets/b7bab639-1bcd-4a3e-ad66-172a9a87da1d)
+![image](https://github.com/user-attachments/assets/06221203-4de3-4c01-8985-7d47b9f8446a)
+
+* A huge no. of cases we are getting. We will solve them by looking at the questions. 
+
+![image](https://github.com/user-attachments/assets/b245a84f-1297-4951-8ba0-ecb3b0648199)
+![image](https://github.com/user-attachments/assets/1e75b685-24c8-4bc3-90e0-50797b2ddc31)
+![image](https://github.com/user-attachments/assets/1d55e73f-7196-4b68-b3af-77c3a903dddb)
+![image](https://github.com/user-attachments/assets/26128d5f-f2dc-4080-a0c3-262b53a0d240)
+
+* No cases are possible further.
+* Cases -> 1 + 2 + 2 + 1 -> 6. [1] [Answer] 
+
+![image](https://github.com/user-attachments/assets/88a6817e-cf8a-4dba-95bc-f136d4712ef7)
+
+* 10c and 2a -> Always even -> 2b also always even then.
+* '0' is not possible. We cannot have '0'.
+* 'b' is always even.
+
+![image](https://github.com/user-attachments/assets/552571fb-f2a9-4cb4-8bd9-35cfcf280583)
+
+* 16 > 12 -> Not possible.
+* 12 > 12  -> Not possible.
+
+![image](https://github.com/user-attachments/assets/f072fdad-ad8b-402f-a0dd-de71c4a034e0)
+![image](https://github.com/user-attachments/assets/62057c0b-48ac-4aae-8c47-99a2d996e59f)
+![image](https://github.com/user-attachments/assets/487f3e5a-5dbd-4fd6-9b78-bc7ac68c3f86)
+![image](https://github.com/user-attachments/assets/8a494fe8-e4e9-4c7b-a599-b22ef7ac86c2)
+![image](https://github.com/user-attachments/assets/2c71669e-1acb-4770-a583-011639b90c5d)
+
+* We need 'a, b, c' atleast one or once(1).
+* No cases are possible further.
+* 1 + 2 + 1 + 1 -> 5. [2] [Answer] 
+
+![image](https://github.com/user-attachments/assets/d6ba15d0-2c83-4d2e-a708-92312c6e1e20)
+
+* [3] [Answer]
+* In Q1, we saw that the min. value of 'C' is '7'. 'C' cannot be less than '7'. 
+
+![image](https://github.com/user-attachments/assets/136f49ae-9eed-422e-82b3-a5a338955c87)
+
+* 100days -> 100 * 100 -> 10000
+
+![image](https://github.com/user-attachments/assets/498b25e8-617c-45e0-9349-1ed08a28c8c1)
+![image](https://github.com/user-attachments/assets/ec05a1ea-a205-4e80-a276-3099f9b3bc16)
+
+* '7' expert workers are required to build a palace.
+* [3] [Answer]
+
+* a = 0, b >= 1, c >= 1.
+
+![image](https://github.com/user-attachments/assets/79477f02-dcae-4576-816b-92ead598308a)
+![image](https://github.com/user-attachments/assets/b12e62c1-b984-4a82-afbc-006e4afb5efa)
+![image](https://github.com/user-attachments/assets/2dc695dc-a508-4ee8-9ff1-d45b9799bcc0)
+
+* This is only possible when 'C = 0'.
+* Nothing is possible. No cases are possible.
+
+![image](https://github.com/user-attachments/assets/55145413-9e73-4433-931f-818f3db5a6ca)
+![image](https://github.com/user-attachments/assets/48a93ea4-c407-4265-8c9f-722f38e6b00c)
+![image](https://github.com/user-attachments/assets/d3478737-ebf8-43a6-8521-d1606ffe7404)
+
+* We are getting 'C = 0' but in the question it is mentioned that 'C >= 1' atleast. No cases for 'N' are possible.
+* N = 0. [4] [Answer]
 
 
 
