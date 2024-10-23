@@ -5061,8 +5061,52 @@ So, 'y = 6' not possible.
 * [**VERY IMPORTANT**] [Practice Agin]
 
 ![image](https://github.com/user-attachments/assets/87df2ce4-5b7e-4dbb-af5e-89eed8efe597)
+![image](https://github.com/user-attachments/assets/fbaa7828-84b1-4aa2-8048-d7148a4d70a9)
+![image](https://github.com/user-attachments/assets/553a6120-5c7f-4711-8d70-2b7f3aba6df6)
+![image](https://github.com/user-attachments/assets/cffdec60-44a8-4f9b-a9b2-4c1c3f9e28a0)
+![image](https://github.com/user-attachments/assets/3f69d6bf-0ede-4582-80e8-1022fad7e681)
 
-* Start from 46mins left.
+* Only '1' case is possible.
+
+![image](https://github.com/user-attachments/assets/37e0bc7c-e3db-4e1f-8d43-8ba91d6079b7)
+![image](https://github.com/user-attachments/assets/ffae0ab3-402e-4f39-851f-f9e8a0aa71fc)
+
+* In avg. marks, 'B' has rank '1' and 'A' has rank '2'. So avg of 'B' will be more than avg of 'A'.
+* All are integer values.
+* Total marks of 'D' is more than the total marks of 'B'.
+
+![image](https://github.com/user-attachments/assets/c3d6cd00-fb50-4fa4-9d92-c7b530e2aa04)
+![image](https://github.com/user-attachments/assets/838d1b55-7a95-4ad8-b5ad-45561d018ab8)
+![image](https://github.com/user-attachments/assets/b8bbf8ea-da4c-4da8-bcaf-07cfc82ba422)
+![image](https://github.com/user-attachments/assets/37dd434e-d864-4ee0-98bc-c106dfcec659)
+![image](https://github.com/user-attachments/assets/d3e8426d-fdb3-4a42-b1c4-7318d62e691e)
+
+* [Answers]
+* Discussion in next class.
+
+![image](https://github.com/user-attachments/assets/864b7daa-1753-43ec-a4bc-eb52a176cd22)
+![image](https://github.com/user-attachments/assets/ed2ac207-a354-41a6-ae4e-4389b0ec6994)
+![image](https://github.com/user-attachments/assets/f030e645-e58b-4b12-b929-12ae988b78d6)
+![image](https://github.com/user-attachments/assets/718bef38-0572-408d-813b-09ebc929fc29)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/e3997ae6-d5be-4a57-8162-98127d729154)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
