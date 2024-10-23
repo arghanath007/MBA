@@ -5092,21 +5092,103 @@ So, 'y = 6' not possible.
 * [Answer]
 
 ![image](https://github.com/user-attachments/assets/e3997ae6-d5be-4a57-8162-98127d729154)
+![image](https://github.com/user-attachments/assets/faea32ae-bc1a-4ad4-a756-5e3339dbe17c)
+![image](https://github.com/user-attachments/assets/4717aeb5-b5ab-4053-b52a-d5b3db469e90)
+![image](https://github.com/user-attachments/assets/1b9b91cf-ffc9-41a8-8bf5-cd0328829348)
 
+* B -> '3' possibiities.
 
+![image](https://github.com/user-attachments/assets/76b71323-08b7-43e9-a28a-b772cb577684)
+![image](https://github.com/user-attachments/assets/f4a6f264-6e13-405d-8754-1dc8e704c0f1)
+![image](https://github.com/user-attachments/assets/cec423b9-8b0d-4ff9-ac93-b5ddccc84962)
+![image](https://github.com/user-attachments/assets/8c04de71-722d-4304-8693-63661518bdfd)
+![image](https://github.com/user-attachments/assets/a99c2d95-8a68-416a-b246-377f65f33ba2)
+![image](https://github.com/user-attachments/assets/f8181cdc-5cd2-4fa9-be47-1f90c1198e02)
+![image](https://github.com/user-attachments/assets/de03c607-e495-454c-86c4-dc24e41a5d7a)
 
+* Total -> 2 + 2 + 4 * 1 -> 8. [1] [Answer]
 
+![image](https://github.com/user-attachments/assets/8f480dde-3b2a-4cb5-a63f-6adeedd453f3)
+![image](https://github.com/user-attachments/assets/0de159d0-072b-4524-997f-7173d6e7cabf)
+![image](https://github.com/user-attachments/assets/b4b5c985-09c6-45de-88da-5442adaab4a6)
+![image](https://github.com/user-attachments/assets/566d7dac-18a2-4e83-b020-d18c52fe0487)
+![image](https://github.com/user-attachments/assets/e547cbc7-5924-4847-a3e2-97a6136839eb)
+![image](https://github.com/user-attachments/assets/19766b45-bb4d-4f87-987f-65e875041afa)
 
+* Divya -> Section 'C'. [2] [Answer]
 
+![image](https://github.com/user-attachments/assets/bdaaeabb-6034-4a6a-bec4-aaca5f137e95)
+![image](https://github.com/user-attachments/assets/07de81b2-c685-4d0d-95a9-01f040df9d9b)
+![image](https://github.com/user-attachments/assets/adbef356-a0b6-41be-8c16-9cddad1b16b3)
+![image](https://github.com/user-attachments/assets/9d97c101-9a94-458a-9e9e-624bb8e55fde)
+![image](https://github.com/user-attachments/assets/7236092d-d84e-4794-88ce-b45fd77ea7a9)
 
+* Chandni -> Section 'C'. [3] [Answer]
 
+![image](https://github.com/user-attachments/assets/2e985e97-974d-4ce5-99d6-e72db85aedd8)
+![image](https://github.com/user-attachments/assets/8fe84126-2789-4e47-982b-726c73a7e92c)
+![image](https://github.com/user-attachments/assets/b5973feb-1f54-4431-8a7d-f1b4c54ce25d)
+![image](https://github.com/user-attachments/assets/af67d07a-b855-4533-9730-978735e1f718)
+![image](https://github.com/user-attachments/assets/5ea36a4c-ef70-46fa-a934-4dba8f8567e9)
 
+* Option **D** -> CBD. [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/43905234-3b45-48ed-b254-170aa3907d20)
+![image](https://github.com/user-attachments/assets/61d37076-b9df-441d-99bc-7f7b53f76a61)
+![image](https://github.com/user-attachments/assets/2e67f1ff-5150-43c6-b84a-12b61fd30cfe)
+![image](https://github.com/user-attachments/assets/32daa3e0-3b75-4a33-8473-9277af84f4e0)
 
+* [Question]
 
+![image](https://github.com/user-attachments/assets/e54b02f9-8946-454c-a5de-e9fe632005de)
+![image](https://github.com/user-attachments/assets/9b7ec2a7-9d92-45d9-b485-51848a745de9)
 
+* 4 * 3 + 4 * 1 -> 12 + 4 -> 16.
 
+![image](https://github.com/user-attachments/assets/62df51d6-782a-490f-9302-5df7cf33c78a)
+![image](https://github.com/user-attachments/assets/aa2e8be6-398e-4446-8f5b-92ba9badb0fa)
+![image](https://github.com/user-attachments/assets/06d8d817-cf0b-4565-9aba-6b41dd342fd4)
 
+* 'S and L' cannot be part of teams 'C and D' i.e '3rd and 4th' teams.
+* 'D' is not in team 'C' and 'I' is not in team 'D' but 'D, H and I' are in teams 'C or D'.
+* 'D' is not in team 'C' so 'I' is in team 'C'.
+
+![image](https://github.com/user-attachments/assets/98fb1a2a-9d02-419d-acc3-c1fc5f987472)
+
+* 'I' is not in team 'D' so 'Dave' is in team 'D'.
+
+![image](https://github.com/user-attachments/assets/a7e64148-0b49-4acd-9fb4-52008e183b76)
+![image](https://github.com/user-attachments/assets/e107a83b-6046-4754-a6f2-016e1deb657f)
+![image](https://github.com/user-attachments/assets/dd833404-1838-4283-a1f4-ffd23ba18a8c)
+![image](https://github.com/user-attachments/assets/7a524862-578a-4257-a6e5-23f371591872)
+![image](https://github.com/user-attachments/assets/a74ddbf4-5f03-41c6-a835-4731da0ad48d)
+
+* [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/4a20429c-3c4c-46ea-980f-c157f81553b7)
+![image](https://github.com/user-attachments/assets/cad77d40-f63e-49c3-9be6-a8b5c32cfff6)
+![image](https://github.com/user-attachments/assets/0575c6f1-0e76-45d7-8f3c-38cf5c9781df)
+
+* Example.
+* Possibility based questions.
+* Best possible cases.
+
+![image](https://github.com/user-attachments/assets/fa113ac6-21f7-4dde-b322-85f3cf1eb6f3)
+![image](https://github.com/user-attachments/assets/2cb4e60c-0420-49c2-b574-cb43541545bb)
+![image](https://github.com/user-attachments/assets/0829c157-f2c7-4240-89fb-22ba755a0548)
+
+* [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/896d901b-fc2a-4c3a-bb6d-08134a44c485)
+![image](https://github.com/user-attachments/assets/16b80e18-c203-4788-a6cb-f98c07cb5506)
+
+* 'T and P' have to be in the **same** team.
+* [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/22495618-c6f8-403c-b64a-c004d2a00cdb)
+![image](https://github.com/user-attachments/assets/efedac04-ab9c-45aa-b4f4-5e39f0e09373)
+
+* [4] [Answer]
 
 
 
