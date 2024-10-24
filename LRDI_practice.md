@@ -5284,6 +5284,98 @@ So, 'y = 6' not possible.
 
 * [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/d52faffb-fe8a-4fab-95c8-664bb826705c)
+![image](https://github.com/user-attachments/assets/c993987f-9e96-4b61-9b25-e496e5ad94ee)
+![image](https://github.com/user-attachments/assets/3c7e81d9-66b4-495f-b672-2d39b1625e4e)
+
+* Attacking point -> Minimum and Maximum.
+* We will do **Maximum** here so that we will get min. no. of cases as possible. [Logic]
+
+![image](https://github.com/user-attachments/assets/30cb02d6-a4f2-40f0-942c-0482eed87eb2)
+
+* Saeed -> 17 -> 9 + 8 -> 9 * 7 + 8 * 3 -> 63 + 24 -> 87.
+
+![image](https://github.com/user-attachments/assets/3edcb8fa-256d-4a17-bbe2-01413f8eb9b4)
+![image](https://github.com/user-attachments/assets/9dc249be-a7cb-4d7a-b8eb-037eee9cd594)
+
+* Shahid -> 13 -> 6 + 7 -> 7 * 5 + 6 * 7 -> 77.
+* If we take '7 * 9 -> 63' then '77 - 63 -> 14'. We cannot get '14' via '6'. So this is not possible.
+* If we take '7 * 5 -> 35' then '77 - 35 -> 42'. We can get '42' via '6'. '6 * 7 -> 42'. So this is possible.
+
+![image](https://github.com/user-attachments/assets/1707e7d5-e5d9-4b9c-af16-cacad3a238d0)
+
+* 88 - (7 * 5) -> 88 - 35 -> 53 -> Not a multiple of '5'.
+
+![image](https://github.com/user-attachments/assets/18149b84-533a-4b62-bd59-2f52632e1fef)
+
+* For '11' we have '2' possibilities.
+* 75 - (7 * 5) -> 40 -> 4 * 10 -> We don't have '10', so this is not possible.
+
+![image](https://github.com/user-attachments/assets/1b3bb778-812c-4ac3-82c7-beeaa2a5dee1)
+![image](https://github.com/user-attachments/assets/f98c5fb6-2a18-448a-8d02-666f3f451e2c)
+
+* 10 -> 5 + 5.
+* 68 -> Not a multiple of '5' -> So '5 + 5' is not possible.
+
+![image](https://github.com/user-attachments/assets/de5c64e1-fae1-4d2e-9a07-d33ac93e2bb8)
+
+* 67 - (5 * 9) -> 22 -> Not a multiple of '4', so this is not possible.
+* So with '5' we will take '11'.  
+
+![image](https://github.com/user-attachments/assets/dd61e76e-4e24-4bf9-857f-5f2a8d75534a)
+
+* For '4'.
+
+![image](https://github.com/user-attachments/assets/fb85ff52-a509-4997-89ed-57c2cf006659)
+![image](https://github.com/user-attachments/assets/bb0f1113-5b6c-4b2e-a3e8-551fdb656cb4)
+
+* For '8'.
+
+![image](https://github.com/user-attachments/assets/15bd2b9b-6e4e-48df-ad2a-c35fd2fcaa8b)
+
+* For both '7s'.
+
+![image](https://github.com/user-attachments/assets/b9dc2b5a-6b1c-4c22-866a-8edcb803e838)
+
+* Shop '2' least -> 5 -> 5 * 5 -> 25 -> '5 * 5' combo is with 'smith'. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/a65e61c3-35b8-4bf7-b895-0db8ec432170)
+![image](https://github.com/user-attachments/assets/27295deb-d349-491e-b1e1-05efc85dd091)
+![image](https://github.com/user-attachments/assets/43d60c32-c1b2-4b32-a11c-1d2002980e4a)
+![image](https://github.com/user-attachments/assets/28497a5d-13b9-471a-bae6-b5fef46aead1)
+![image](https://github.com/user-attachments/assets/39cfc933-d43e-4269-bdb3-35c0775fef23)
+
+* [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/bee03134-cd52-4296-849d-bae0f65ebf2b)
+![image](https://github.com/user-attachments/assets/4aa990db-7b3c-4ccb-abe2-4634aaeb866a)
+
+* Sachin, Shane, Shahid -> 3. [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/1c02f88a-d6fe-4f29-8d24-fc7d17569240)
+
+* Sachin-Smith, Schwag-Saqlain -> 2. [4] [Answer]
+* Sachin -> S2, S5
+* Schwag -> S3, S4
+* Steve -> S4, S1
+* Shane -> S2, S4
+* Sanath -> S3, S5
+* Saeed -> S5, S3
+* Saurav -> S5, S1
+* Smith -> S5, S2
+* Shahid -> S2, S1
+* Saqlain -> S4, S3
+
+![image](https://github.com/user-attachments/assets/d4ba14a6-28c4-498e-92bc-646ffbaa1316)
+![image](https://github.com/user-attachments/assets/4f51ee23-d324-43d8-8a73-68c723022bd9)
+
+* [Question]
+* 1hr 56mins left.
+
+
+
+
+
 
 
 
