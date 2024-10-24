@@ -5084,6 +5084,100 @@ So, 'y = 6' not possible.
 * [Answers]
 * Discussion in next class.
 
+![image](https://github.com/user-attachments/assets/78c4914c-1c9b-4ce9-828e-0110a3457cc4)
+
+* Next class.
+
+![image](https://github.com/user-attachments/assets/087087e2-f830-48bf-a89f-7ee90f2a91b3)
+![image](https://github.com/user-attachments/assets/2381c725-5bc4-473b-b007-11ef95fd2a44)
+
+* Sum = Avg * n. [n -> count/number]
+* The nos. are given in **integers**. 
+
+![image](https://github.com/user-attachments/assets/5322f171-5661-41f4-b8c3-d0a54f8a1233)
+![image](https://github.com/user-attachments/assets/43875c31-1753-4e68-bb33-6bf2b0144eae)
+
+* Previous class solved. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/68853d33-ae0e-42e6-b65f-949d06db95e2)
+
+* Avg marks of 'B' is greater than the avg marks of 'C'.
+* Total marks of 'B' is greater than the total marks of 'C'.
+* The avg marks of each group is alteast '50'. Max. marks is '100'. Mentioned in the question.
+* 'b and c' are integers.
+* 100 + 25c -> Should be a complete multiple of '24' as they are all integers.
+
+![image](https://github.com/user-attachments/assets/35e33929-b013-4be5-9f6b-b133359fafa5)
+![image](https://github.com/user-attachments/assets/e52f063c-762a-4eb2-8b4b-e24e3c890cba)
+
+* 50 <= C <= 100.
+
+![image](https://github.com/user-attachments/assets/6376ac51-85b9-4715-a7c6-346083c7663f)
+
+* We got '2' values for 'c'.
+
+![image](https://github.com/user-attachments/assets/691b797b-67b1-47ea-bdd6-af1a58fca9b4)
+
+* Answer -> 7 or 8. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/d009ecf1-9635-467e-a368-6d4cf42c173d)
+![image](https://github.com/user-attachments/assets/be59ad51-174e-4106-966c-69c9c21ef506)
+![image](https://github.com/user-attachments/assets/3593d6da-b4f1-4f1b-91d8-d2c504cb10a5)
+![image](https://github.com/user-attachments/assets/7537c8b9-5655-4d91-9763-42989f2e734d)
+![image](https://github.com/user-attachments/assets/9361d0ca-ab3a-4f67-bb37-4d27a2074b46)
+
+* '4' possibilities are possible.
+* Answer -> 4. [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/ff2b9d57-5fe9-40a6-9a21-aa3b925cafec)
+![image](https://github.com/user-attachments/assets/cf66bc50-b85c-43e4-a624-b39039854062)
+![image](https://github.com/user-attachments/assets/661b95bf-86bd-4bcf-8b16-a8c7929971f0)
+![image](https://github.com/user-attachments/assets/ec59ab6f-d7cc-41ae-af05-1644e78a799d)
+
+* Total marks of 'D' is greater than 'b and c'.
+* 600 * 3 -> 1800.
+* Avg. marks of 'B' is greater than 'C'.
+* 'B' avg. has to be greater than 'C'.
+* Diff. between 'b and c' cannot be '0'.
+* Min. diff -> 1. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/9e9488b4-3597-41f4-976e-f85cc5d5985e)
+![image](https://github.com/user-attachments/assets/6f88397a-0372-4349-ab10-395dab151067)
+![image](https://github.com/user-attachments/assets/b96c9899-30b9-47b6-a43d-b31f007c7e49)
+
+* Find the order of 'A, B, C, D' first.
+* The order we want -> A, B, C, D -> 2, 1, 3, 4.
+* Remove the options which are not in that **order** -> option **A**.
+* Opttion **B**. [5] [Answer]
+
+![image](https://github.com/user-attachments/assets/ba323aee-cbfe-40f5-8152-4ac0b06be4c4)
+![image](https://github.com/user-attachments/assets/966f20a9-6fe5-4e6f-9878-8297d4b41da2)
+![image](https://github.com/user-attachments/assets/d6682857-2b49-48e4-b5f4-7ee61fad328f)
+
+* Done earlier. [1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/864b7daa-1753-43ec-a4bc-eb52a176cd22)
 ![image](https://github.com/user-attachments/assets/ed2ac207-a354-41a6-ae4e-4389b0ec6994)
 ![image](https://github.com/user-attachments/assets/f030e645-e58b-4b12-b929-12ae988b78d6)
@@ -5189,6 +5283,32 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/efedac04-ab9c-45aa-b4f4-5e39f0e09373)
 
 * [4] [Answer]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
