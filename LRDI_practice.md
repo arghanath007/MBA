@@ -5485,6 +5485,137 @@ So, 'y = 6' not possible.
 
 * Contradicting point. Remove the 2nd half.
 
+![image](https://github.com/user-attachments/assets/20b4296d-17a3-41bf-8377-a6725ce7bc91)
+![image](https://github.com/user-attachments/assets/072bb06e-3cd0-43b1-a593-d99b659fd6f9)
+![image](https://github.com/user-attachments/assets/72875ee9-bb70-400e-9206-def2acbe94f3)
+![image](https://github.com/user-attachments/assets/354d8300-d2b3-4c4a-9dc1-aafa96274a11)
+![image](https://github.com/user-attachments/assets/f1a1f027-ec18-4364-91b2-9e0ad4d4fcfa)
+
+* Arrange the data in **ascending order**.
+* Questions -> If conditions -> We have to make cases.
+
+![image](https://github.com/user-attachments/assets/9bb4601e-fab2-4a1d-925c-661ce134f2aa)
+![image](https://github.com/user-attachments/assets/08d92f58-a5f4-41fe-a42b-f08470814afe)
+![image](https://github.com/user-attachments/assets/e53f84d5-d773-424f-8896-671612daa375)
+
+* When we work on 'P1 and P3', we will automatically get 'P2'.
+* '2%, 3%' are coming in 'P3' only.
+* '14%' is coming in 'P1' only.
+
+![image](https://github.com/user-attachments/assets/d8f22a45-13e8-407e-b361-b350bb56eea0)
+![image](https://github.com/user-attachments/assets/f4266f9a-ea8e-4428-91ec-ed9f8ffc0199)
+
+* T9 -> P1 or P2 -> CBT.[1] [Answer]
+
+![image](https://github.com/user-attachments/assets/5bb379a2-fa3c-4235-8743-e8587c957314)
+![image](https://github.com/user-attachments/assets/b78f3398-1b67-42b9-8e98-c70d96986e4f)
+
+* Case '3' only left.
+* P2.[2] [Answer]
+* T4, T11, T12 -> More than '2'. [3] [Answer]
+* Option **4/d**. [4] [Answer]
+* P3. [5] [Answer]
+
+![image](https://github.com/user-attachments/assets/f337bf61-31ea-472d-b41b-dc12a3882828)
+![image](https://github.com/user-attachments/assets/f38e1054-163c-457d-b9ca-ac15dca5a4f6)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/dad3239d-725d-48ad-af91-c9047fa8b08f)
+![image](https://github.com/user-attachments/assets/72eb2aa7-2928-4a09-bc6b-41bf6ac3e27b)
+![image](https://github.com/user-attachments/assets/fd2420ed-3561-49a7-bdb5-9b6c5fda8862)
+![image](https://github.com/user-attachments/assets/29eb6d9b-bb19-4056-9f72-cbda679a9639)
+
+* Distribution -> Chocolate distribution.
+
+![image](https://github.com/user-attachments/assets/10123307-c426-48d2-bd25-65645175342d)
+![image](https://github.com/user-attachments/assets/e8ae587c-6335-4322-b28a-8aca96a4ab78)
+
+* One point we have to cross check is that if one of the student count for each subject is more than '29' or not. It is not, so '29' is the answer here. 
+* Atleast '1' examination -> No '0' examination case here.
+* '1' examination = '1' chocolate. [Here]
+* As there is no '0' examination case here, so we cannot leave anyone empty or '0'.
+
+![image](https://github.com/user-attachments/assets/775183d3-3ecb-421f-822e-cb9d8460fe2f)
+![image](https://github.com/user-attachments/assets/2456b7a9-9618-42be-8c14-b937f363d746)
+![image](https://github.com/user-attachments/assets/939ca888-0764-4524-b525-b9d9853b74f0)
+
+* Min. of '90' people will have atleast '1' chocolate each.
+
+![image](https://github.com/user-attachments/assets/a4cd999a-b24b-4666-b073-02f7472a9c43)
+![image](https://github.com/user-attachments/assets/b4062fc2-f8be-45ac-ae11-9f8d8c5fcea4)
+![image](https://github.com/user-attachments/assets/08030861-9819-486d-a7cd-0796fc67c98a)
+![image](https://github.com/user-attachments/assets/a52d9f2e-8f8e-4f7b-af0b-19386762756d)
+![image](https://github.com/user-attachments/assets/68cb2a52-0d8e-4057-a7b1-c0951b7a5536)
+![image](https://github.com/user-attachments/assets/ce5122fd-b25a-41ef-837e-0976dc7704aa)
+
+* In 'E', no students are left with '1' chocolate. They all have '2' chocolates now. So 'E' is '0'.
+
+![image](https://github.com/user-attachments/assets/b6ac8b0e-e383-4f62-95f3-8d67c71d3dda)
+
+* Minimize.
+* [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/c6774996-1863-4449-b85e-363dc737225e)
+
+* We have to maximize '1' chocolate people.
+* '1' people has given a max. of '5' exams.
+* We want to quickly finish the '210' chocolates left.
+* '1' student can have a max. of '5' chocolate.
+* Whatever min. data we will have that will restrict us further.
+* '50' will restrict us in 'A'. Max of '5' chocolate can be given to '50' students only. We cannot go more than '50'.
+* We have to keep track of the **limitations** when we are doing **maximum/maximizing**.
+
+![image](https://github.com/user-attachments/assets/7d0502b8-b2a2-4c7e-8f48-cc20ed805833)
+![image](https://github.com/user-attachments/assets/30751baf-46fd-4048-9bc4-7279d88e50c5)
+![image](https://github.com/user-attachments/assets/65b40ee1-8db6-4ee4-820b-b28fc9af9bcc)
+
+* After '5', next best is '4'.
+
+![image](https://github.com/user-attachments/assets/8376dbaa-cfaf-40b5-9204-b59a10628c6f)
+
+* Limiting factor in 'B' -> 50.
+
+![image](https://github.com/user-attachments/assets/1bea1121-06e9-4307-a586-635d827167f3)
+![image](https://github.com/user-attachments/assets/09e08b3a-b72a-4cc7-994e-6fe2e46ad8b3)
+
+* Limiting factor in 'C' -> 50.
+* Maximizing.
+* [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/80ad530d-eabc-417a-9eeb-fdd956e63591)
+
+* While solving "Q2', none got '3' chocolates in 'B'. So, 'B = 0'.
+
+![image](https://github.com/user-attachments/assets/be5aeaaa-6c52-4295-961b-bc7ffb7b5096)
+![image](https://github.com/user-attachments/assets/d0424f48-e429-414e-b2ec-756887792461)
+
+* None got '4' chocolates in 'D'. So, 'D = 0'.
+
+![image](https://github.com/user-attachments/assets/2c5150cf-8901-4b55-8610-2dd3a2673275)
+
+* 0 + 0 -> 0 -> option **D**. [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/3b7a66a0-2c40-4395-9fbb-54315e308290)
+
+* We want to maximize.
+
+![image](https://github.com/user-attachments/assets/c470ab1c-2add-47de-a066-d93b57a3a37b)
+![image](https://github.com/user-attachments/assets/ade0c10a-e7ff-4cd6-a998-08c54f65e0e2)
+![image](https://github.com/user-attachments/assets/e3b412be-002b-4434-b176-533dc1b1148a)
+
+* In 'E', '100' students can easily get '5' chocolates each.
+
+![image](https://github.com/user-attachments/assets/4023f534-29ee-41c9-bc2c-2780d855e396)
+![image](https://github.com/user-attachments/assets/1aaa8ed6-d829-4dcd-a3c8-0557c74e9a3c)
+
+* 249. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/639792a4-772c-43bc-8bc7-5011310b5e69)
+![image](https://github.com/user-attachments/assets/5b99e082-34bf-40e4-99bd-54d750f7ee5d)
+![image](https://github.com/user-attachments/assets/96beb093-d90f-4c2d-b431-f1acdfafed0a)
+
+
 
 
 
