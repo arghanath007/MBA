@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/723d1fd2-a7cd-4559-8365-5ccee4fe13cb)# LRDI practice
+# LRDI practice
 
 ## IMPORTANT
 
@@ -5624,6 +5624,64 @@ So, 'y = 6' not possible.
 
 
 
+
+
+
+
+
+
+
+### Practice Questio ns
+
+![image](https://github.com/user-attachments/assets/b741f7da-a621-4d87-b8ed-2c091246bba7)
+![image](https://github.com/user-attachments/assets/7898c8ed-5812-4edb-b9ed-04dba5996d36)
+
+* 12 -> 1 + 2 + 4 + 5.
+
+![image](https://github.com/user-attachments/assets/63501256-dd1d-428d-a10d-370c86673231)
+
+* 20 -> 5 * 4.
+* White ball picking frequency will be '4'. 
+* White ball will be picked '4' times. 
+
+![image](https://github.com/user-attachments/assets/47b10867-edc5-4cd4-a5f3-feb139762901)
+![image](https://github.com/user-attachments/assets/d96461c1-8bc0-4a54-a1b4-4065afbcecb7)
+
+* 3 + 2 -> 5 -> Point '6'.
+* 'A and B' score is the **same**.
+
+![image](https://github.com/user-attachments/assets/23c91d51-bcab-47e4-bd32-4e773f83f0fd)
+![image](https://github.com/user-attachments/assets/36fd7246-fe66-49c5-9c4e-f4e676d69c25)
+
+* '2' can come in rows '1, 3 and 4' only once(1).
+* '5' can come in rows '1, 3 and 4' only once(1).
+
+![image](https://github.com/user-attachments/assets/2eed4eb6-883b-4cfe-b1fc-0e2aa756bb5f)
+ ![image](https://github.com/user-attachments/assets/058a653e-157e-4437-98ab-faf6d0bc56e3)
+![image](https://github.com/user-attachments/assets/e3673471-b0e3-4bfe-8e0a-312dbfa24923)
+![image](https://github.com/user-attachments/assets/cf0bd103-b50f-4c19-a28b-fdf53f03f424)
+
+* Set-1
+* Do from Set-2. Swapnil Sir. Do it on monitor screen, recording issue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## IMPORTANT
 
 ![image](https://github.com/user-attachments/assets/6a1b32e0-525b-419d-ac07-986e343d22a2)
@@ -5636,3 +5694,4 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/5e53bb14-28f4-40a5-997b-727b1a446994)
 ![image](https://github.com/user-attachments/assets/173d9ae3-eb6e-4b07-9a45-849fed0ac976)
 ![image](https://github.com/user-attachments/assets/77884239-d787-40a3-921a-09042246d13f)
+![image](https://github.com/user-attachments/assets/723d1fd2-a7cd-4559-8365-5ccee4fe13cb)
