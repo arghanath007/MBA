@@ -1,4 +1,4 @@
-# LRDI practice
+![image](https://github.com/user-attachments/assets/723d1fd2-a7cd-4559-8365-5ccee4fe13cb)# LRDI practice
 
 ## IMPORTANT
 
@@ -5368,37 +5368,122 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/d4ba14a6-28c4-498e-92bc-646ffbaa1316)
 ![image](https://github.com/user-attachments/assets/4f51ee23-d324-43d8-8a73-68c723022bd9)
+![image](https://github.com/user-attachments/assets/c5f99859-ceea-44fa-a03f-c25c5cb177f3)
+![image](https://github.com/user-attachments/assets/35d9e257-5d48-487a-89c6-46fa16c9d72e)
 
 * [Question]
-* 1hr 56mins left.
 
+![image](https://github.com/user-attachments/assets/4aff1634-fa8e-453b-a225-92d881a36ad6)
 
+* Attacking point -> Overlap/Common between points.
 
+![image](https://github.com/user-attachments/assets/f46f896b-ec37-4ecf-9595-56cbe95de655)
+![image](https://github.com/user-attachments/assets/0a1006be-578f-4afe-90e1-c0e1c99e98e5)
 
+* Heaviest -> 1st.
 
+![image](https://github.com/user-attachments/assets/ef3e5e65-2150-4c22-a363-1b3e2da27c17)
 
+* We getting '2' options/possibilities. If Heaviest is at '1' then 'K' is at '6th'. If Heaviest is at '2' then 'K' is at '7th'.
+* Case '1' is gone.
 
+![image](https://github.com/user-attachments/assets/a084fd52-1d46-4e57-ad1e-d31fb6e5fe17)
+![image](https://github.com/user-attachments/assets/3cdf0d53-19b4-407f-86e2-fce5c6af4f8f)
 
+* 'P' can come only at '1st or 2nd' position. We getting '2' options/possibilities.
 
+![image](https://github.com/user-attachments/assets/8bddadfb-64ac-488f-aec3-62943a395ea7)
+![image](https://github.com/user-attachments/assets/d5155f9e-6625-49ba-8dcf-0456fdd4dbfe)
+![image](https://github.com/user-attachments/assets/8d8f9945-8546-4934-84f2-948c2215020d)
 
+* Case '3' is gone. We cannot put 'R' in case '3'.
 
+![image](https://github.com/user-attachments/assets/e8ba4b4b-ac19-4181-925c-7b325e55a409)
+![image](https://github.com/user-attachments/assets/b46d98e2-4383-4333-bbbf-b3b5ddd0516c)
+![image](https://github.com/user-attachments/assets/6462d780-74f6-48de-a256-58e20b4b7a5f)
 
+* Answer -> 3. [3] [Answer]
 
+![image](https://github.com/user-attachments/assets/134c5a54-4714-4956-83cb-ffff011bb401)
 
+* G -> 3rd heaviest -> 3rd position. [4] [Answer]
 
+![image](https://github.com/user-attachments/assets/02f32e14-0dec-49a7-87ad-82aad118dcc6)
 
+* 3. [1] [Answer]
+* Pavan(P) -> Option **A**. [2] [Answer]
 
+![image](https://github.com/user-attachments/assets/2aae0376-deed-4521-8706-56f8a3e868bf)
+![image](https://github.com/user-attachments/assets/5bee6fc1-b08a-4b6d-b802-f4f05fc6bb1d)
+![image](https://github.com/user-attachments/assets/1ad77be9-68ba-4148-93b8-5c2be80db1b6)
 
+* Unconventional Graph or Candle-Stick Graph -> Convert it into **normal table** format. [Logic] [Concept]
+* Gray Rectangle -> 1st match scored more than the last match.
+* White Rectangle -> Opposite of **Gray Rectangle** -> 1st match scored less than that of last match.
 
+![image](https://github.com/user-attachments/assets/945d3026-55cc-4117-ad50-d61ebb820f40)
+![image](https://github.com/user-attachments/assets/cb3aedbd-555e-489e-9863-f73c5042674a)
+![image](https://github.com/user-attachments/assets/24639dfe-5583-4211-b949-6348dde4b40f)
 
+* NA -> Not Applicable.
 
+![image](https://github.com/user-attachments/assets/6ac08bea-f94c-45ed-a718-6fd063936eb7)
+![image](https://github.com/user-attachments/assets/40eb1d4a-8b8a-40c5-9083-8875f2a4a37d)
+![image](https://github.com/user-attachments/assets/9c7b11fd-4e17-43b1-a1aa-58027557e613)
 
+* The line in **Gharma** goes till the end of the candle. [Logic] [Concept]
 
+![image](https://github.com/user-attachments/assets/b454a06d-cc18-4be2-a47d-0f784446ca38)
+![image](https://github.com/user-attachments/assets/c45d1353-cff3-4cd1-9957-4db6465b648f)
+![image](https://github.com/user-attachments/assets/a5173bdf-4b7d-43dc-8b14-a20e20f1cd95)
+![image](https://github.com/user-attachments/assets/837deb09-48ff-4dcd-aa79-49b1fa1b2e2a)
+![image](https://github.com/user-attachments/assets/435f3c81-1fb9-4906-8879-d7fea45ac402)
+![image](https://github.com/user-attachments/assets/1defb9aa-6907-4f62-8b3b-0ef64aea6582)
+![image](https://github.com/user-attachments/assets/fc9f76e8-930e-4da4-a534-cab1c98d8ca5)
 
+* All of these '6' scores are not possible.
+* 0 to 65 -> 66.
+* Left -> 66 - 6 -> 60.
 
+![image](https://github.com/user-attachments/assets/30150c38-efab-4c6b-a436-d11b0f448a72)
 
+* Sum -> 17 + 12 + 13 + 18 -> 60.
+* Max score -> 65.
+* Min score -> 0.
+* Attacking point -> Maximum/minimum.
 
+![image](https://github.com/user-attachments/assets/593b7f17-101d-4691-b675-17636cb741db)
 
+* Except Gahul, all of their max. score is '55'. So, Gahul can have any value more than '55'.
+
+![image](https://github.com/user-attachments/assets/af96b8ae-182e-44dd-9e78-f8ce20266123)
+![image](https://github.com/user-attachments/assets/27611977-1c6a-4f4c-96af-3ca7b488a147)
+
+* Gahul's lowest is '0' and all of their min. score is '5'.
+* He scored '50', so add '50' also.
+
+![image](https://github.com/user-attachments/assets/962297d2-c22d-41f0-b47f-5537492f9179)
+![image](https://github.com/user-attachments/assets/4bde3d98-891c-469a-a7a6-e68b837cf7a1)
+![image](https://github.com/user-attachments/assets/0fb79263-a370-42a3-94d4-de9838c02c38)
+![image](https://github.com/user-attachments/assets/8537dbd1-22c9-4a95-8739-b5457a853e78)
+![image](https://github.com/user-attachments/assets/e9bd6a96-d3fe-4046-a2be-34a1084a509c)
+
+* The prime nos. after '40' cannot be given to 'Goli or Gharma'. They are given to 'Gahul'.
+* The prime nos. after '30' are given to 'Gharma'.
+
+![image](https://github.com/user-attachments/assets/c853d92a-6348-4a6d-bc6e-a795ff80bebf)
+
+* Only '30s' are left.
+
+![image](https://github.com/user-attachments/assets/5c614e96-0fda-479f-becb-f9cb49544118)
+![image](https://github.com/user-attachments/assets/f0c83c09-4592-4265-815f-8e0d0e80e9b2)
+
+* We need prime numbers.
+
+![image](https://github.com/user-attachments/assets/bc37b66c-8cd4-48dd-abae-affb7be451c3)
+![image](https://github.com/user-attachments/assets/8a3ec25d-62d7-400c-b461-145c4aa0e3c4)
+
+* Contradicting point. Remove the 2nd half.
 
 
 
