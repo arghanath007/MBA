@@ -5657,12 +5657,149 @@ So, 'y = 6' not possible.
 * '5' can come in rows '1, 3 and 4' only once(1).
 
 ![image](https://github.com/user-attachments/assets/2eed4eb6-883b-4cfe-b1fc-0e2aa756bb5f)
- ![image](https://github.com/user-attachments/assets/058a653e-157e-4437-98ab-faf6d0bc56e3)
+![image](https://github.com/user-attachments/assets/058a653e-157e-4437-98ab-faf6d0bc56e3)
 ![image](https://github.com/user-attachments/assets/e3673471-b0e3-4bfe-8e0a-312dbfa24923)
 ![image](https://github.com/user-attachments/assets/cf0bd103-b50f-4c19-a28b-fdf53f03f424)
 
 * Set-1
-* Do from Set-2. Swapnil Sir. Do it on monitor screen, recording issue.
+
+![image](https://github.com/user-attachments/assets/eb67f834-d169-4b22-af4b-f599d7c7284d)
+![image](https://github.com/user-attachments/assets/ef33ded7-bb81-4be8-a532-16f9f8cb7de5)
+![image](https://github.com/user-attachments/assets/e5f04a7c-9193-4b18-9ba6-ff1bf4353397)
+![image](https://github.com/user-attachments/assets/a0cd2ba7-ab91-4fdb-a20b-eb351e7eb26c)
+![image](https://github.com/user-attachments/assets/f9954971-b1cd-4718-943b-35a890aaf097)
+![image](https://github.com/user-attachments/assets/17d9d4ca-580b-4697-bb36-2c8382b64284)
+
+* You Divided -> Pavan.
+* 70 * 4 -> 280.
+* No. of matches played must be lower than '20'.
+* '4' matches won by 'Me united' which akhil is supporting. So in every case we have to add '4' to it.
+* 4 + 4 + 12 -> 20 -> Not valid -> Should be less than 20.
+
+![image](https://github.com/user-attachments/assets/f7c5f1b4-56a2-446b-b1d3-6e89805a9ef7)
+![image](https://github.com/user-attachments/assets/85af1aba-e8a0-4914-848d-5be2ec3e6324)
+
+* 4 + 6 + 7 -> 17. 
+* 4 + 8 + 2 -> 14.
+* This is for 'Jan' month.
+
+![image](https://github.com/user-attachments/assets/7b8cdef0-9529-4190-b083-6cd3b3792069)
+
+* 70 * 3 -> 210.
+* This is for 'Feb' month.
+
+![image](https://github.com/user-attachments/assets/4ddeae95-cf6e-41c4-b8fa-25341816c254)
+![image](https://github.com/user-attachments/assets/75e3c128-10ee-453d-a9b7-4c5cb3949acd)
+
+* 70 * 9 -> 630.
+* This is for 'Mar' month.
+
+![image](https://github.com/user-attachments/assets/e11c45ae-ca39-45f6-8e0f-7d24b3766a8f)
+
+* All of the no. of matches(M) is **distinct**.
+* All of the no. of wins(W) is also **distinct**.
+* So '11' is not possible in 'Feb' month. Remove that case.
+* So '1' is not possible in 'Feb' month. Remove that case.
+
+![image](https://github.com/user-attachments/assets/f6a20c63-697b-4003-acfd-5aaa7cc9bdb7)
+
+* So '14' is not possible in 'Jan' month. Remove that case.
+
+![image](https://github.com/user-attachments/assets/94698d4d-1d4f-4ef8-8870-f5b98c6c281f)
+![image](https://github.com/user-attachments/assets/4041a127-1959-4c82-bae2-9d81077fe870)
+![image](https://github.com/user-attachments/assets/ad9948a6-a08b-4c56-9742-5cc3153a48f9)
+
+* '6' wins already happened in 'Jan' month, so  remove it from 'apr' case.
+* 1 + 4 + 16 -> 21 -> Greater than '20' -> Not possible.
+
+![image](https://github.com/user-attachments/assets/b664a40b-81ec-413d-8789-cf081d7f1ae9)
+![image](https://github.com/user-attachments/assets/433fdca9-79b3-4fe1-a500-7a5d9522b3ab)
+
+* 1 + 11 + 10 -> 22 -> Greater than '20' -> Not possible.
+* This is for 'May' month.
+
+
+* 6 + 11 + 2 -> 20 -> Not Greater than '20' -> Possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
