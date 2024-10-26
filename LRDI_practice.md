@@ -5764,6 +5764,124 @@ So, 'y = 6' not possible.
 * Jan -> 17 matches. [5] [Answer]
 * Set-2.
 
+![image](https://github.com/user-attachments/assets/d55634b0-a837-48dc-9d00-3ada95e25499)
+![image](https://github.com/user-attachments/assets/d77fcdea-8457-4912-ac7f-c11fabc4b537)
+![image](https://github.com/user-attachments/assets/c2e5b65f-e043-43c8-80f2-99ae5cfe360e)
+
+* When the tax amt. is doubled then the tax rate is also doubled.
+
+![image](https://github.com/user-attachments/assets/d2c47706-a7ff-4cd6-bb48-49f00b94ba8d)
+![image](https://github.com/user-attachments/assets/b838e89c-138a-427b-a392-8662b57e3e87)
+
+*  Tax rate -> x %.
+*  Tax rate -> 2x %.
+
+![image](https://github.com/user-attachments/assets/90d30364-2bf3-4ed9-bc70-ed1c0de5ce20)
+![image](https://github.com/user-attachments/assets/eaa9cd82-8b97-4963-b617-c9508ed37313)
+
+* 'A' is paying taxes which means that 'A' is earning more than '12000'.
+
+![image](https://github.com/user-attachments/assets/aa5cc975-b484-4de0-9813-ca9a8dc69a0c)
+![image](https://github.com/user-attachments/assets/b4722855-eb35-426e-84de-1c63833105a6)
+![image](https://github.com/user-attachments/assets/b6c328ee-11b4-4be0-8323-3f7c882b4f01)
+
+* A -> 3b -> 300.
+* A -> 13b -> 1300.
+* A -> 45b -> 4500.
+* A -> 139b -> 13900.
+
+![image](https://github.com/user-attachments/assets/192f7ef6-099e-4628-823b-a86a973c3d5e)
+![image](https://github.com/user-attachments/assets/b7f9cf80-a74a-4bd3-87d4-42a838a0ec73)
+
+* P = 25000. [1] [Answer] 
+
+![image](https://github.com/user-attachments/assets/79714854-bd26-48fc-a46d-6df9a0ed121e)
+![image](https://github.com/user-attachments/assets/5327859c-7de6-4a7c-8c78-e2274cd56a73)
+
+* Q = 50000. [2] [Answer] 
+
+![image](https://github.com/user-attachments/assets/595b0ddb-3b49-4120-b521-9a2d936fbc83)
+![image](https://github.com/user-attachments/assets/ca4dbd9d-60b8-43ed-b733-0e1da87c83cf)
+![image](https://github.com/user-attachments/assets/3163adfb-b421-49fb-a46b-b9863fe4b07c)
+
+* Income of '69000' -> Tax is '13900'.
+* The remaining '31000' will be taxed at '40%' for sure.
+* Income of '31000' -> Taxed at 49% -> Tax is '12400'.
+* 26300. [5] [Answer] 
+* Set-3.
+
+![image](https://github.com/user-attachments/assets/3d5e6b3c-d338-44d8-8b71-dc4933a054fa)
+![image](https://github.com/user-attachments/assets/9582b316-477b-4986-ad87-225ce4e5909e)
+![image](https://github.com/user-attachments/assets/d7e9daa5-691d-46e7-b0cd-2b222a820ee9)
+![image](https://github.com/user-attachments/assets/6cc81507-29e0-4fff-90ab-d441748b0475)
+
+* Diff. between the no. of books between any '2' people is multiple of '2, 4, ..'
+* Z+ -> It is an integer.
+
+![image](https://github.com/user-attachments/assets/ab8d5ce1-e40d-4b0d-bf51-fa0a7d4a3fff)
+![image](https://github.com/user-attachments/assets/242d7d67-61fa-4eb4-aeb0-d67cc32f661b)
+
+* LCM -> 2k, 3k, 4k, 5k -> 60k
+* The diff. between the '2' books should be a multiple of '60'.
+
+![image](https://github.com/user-attachments/assets/f243ff94-8991-405c-b3be-917bf533dfb7)
+
+* 180 -> 60k -> 60 * 3 = 180.
+
+![image](https://github.com/user-attachments/assets/675e28e9-df87-4292-b425-773d1218c559)
+![image](https://github.com/user-attachments/assets/7bf9635e-cc66-4712-a133-828e903cdc13)
+![image](https://github.com/user-attachments/assets/96ebb724-d372-4de7-9e6f-61a07cbfd0f0)
+
+* Case '2' is only possible. Case '1 and 3' are not possible.
+
+![image](https://github.com/user-attachments/assets/1bf0af5c-e1c0-4364-be76-c46696d3939b)
+![image](https://github.com/user-attachments/assets/7930ff0c-e7d4-4f8f-b148-9a600d674726)
+
+* B - C = 180.
+* B > C.
+* D = A + E.
+
+![image](https://github.com/user-attachments/assets/8cf0453a-9ae2-481a-af39-53c66d49e329)
+![image](https://github.com/user-attachments/assets/7fbcaa77-018c-4c06-b995-63a362300a48)
+
+* Set-4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
