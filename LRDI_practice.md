@@ -5736,6 +5736,53 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/1ceb6b85-f727-438a-9916-c5512524027f)
 ![image](https://github.com/user-attachments/assets/757261b5-30b7-463d-bdbf-3bbd62045a50)
+![image](https://github.com/user-attachments/assets/dadde2de-31fe-4cde-8d60-85d385b3a3c7)
+
+* Total draws -> 7 + 8 + 1 + 6 + 1 + 1 -> 24. [1] [Answer]
+
+![image](https://github.com/user-attachments/assets/80466e3c-d105-4eb8-bfee-d489ad297fe9)
+
+* We want to maximize.
+* June -> 10/23. [2] [Answer]
+* You divided won games -> 33.
+* Me united won games -> 4 + 3 + 9 + 1 + 10 + 2 -> 29.
+* Diff -> 33 - 29 -> 4.  [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/fb2ec90b-5ed0-42ca-9858-c43276099b38)
+![image](https://github.com/user-attachments/assets/6b384510-5eb0-4284-9aac-9b0b13f06ab6)
+
+* Jan -> 31days -> 17 * 2 = 34days -> Not possible.
+* Feb -> 28days -> 14 * 2 = 28days -> Possible.
+* Mar -> 31days -> 11 * 2 = 22days -> Not Possible.
+* Apr -> 30days -> 15 * 2 = 30days -> Possible.
+* May -> 31days -> 16 * 2 = 32days -> Possibility -> Possible.
+* June -> 30days -> 23 * 2 = 46days -> Not Possible.
+* Feb, Apr, May -> 3. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/db70294a-bf73-4640-a7c0-0def491bbe56)
+
+* Jan -> 17 matches. [5] [Answer]
+* Set-2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
