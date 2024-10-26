@@ -5718,18 +5718,24 @@ So, 'y = 6' not possible.
 * 1 + 11 + 10 -> 22 -> Greater than '20' -> Not possible.
 * This is for 'May' month.
 
+![image](https://github.com/user-attachments/assets/8bf4dcd4-af24-4e0d-b316-15452f499537)
+![image](https://github.com/user-attachments/assets/e2ff01ed-239a-4776-ad2d-8084a66d0754)
 
-* 6 + 11 + 2 -> 20 -> Not Greater than '20' -> Possible.
+* 6 + 11 + 2 -> 19 -> Not Greater than '20' -> Possible.
+* '6' wins already happened in 'Jan' month, so  remove it from 'june' case.
+* This is for 'June' month.
 
+![image](https://github.com/user-attachments/assets/80eb1107-738e-4219-b120-77d9659915bc)
 
+* '3' wins already happened in 'Feb' month, so  remove it from 'May' case.
+* '16' matches already happened in 'may' month, so  remove it from 'june' case.
 
+![image](https://github.com/user-attachments/assets/172c59a1-6db8-4740-a7cd-ed5d5b065163)
 
+* '10' wins already happened in 'june' month, so  remove it from 'april' case.
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/1ceb6b85-f727-438a-9916-c5512524027f)
+![image](https://github.com/user-attachments/assets/757261b5-30b7-463d-bdbf-3bbd62045a50)
 
 
 
