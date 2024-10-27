@@ -5846,6 +5846,21 @@ So, 'y = 6' not possible.
 
 * Set-4.
 
+![image](https://github.com/user-attachments/assets/77b30cfb-4704-48c4-ac78-dae857e8e628)
+![image](https://github.com/user-attachments/assets/a2138f11-5978-47c7-91a0-0ea3f20aaa46)
+![image](https://github.com/user-attachments/assets/c8ea3078-1426-4b50-953b-d33b5c6a2d7f)
+
+* Only group 'B' -> 0.
+* Only group 'D' -> 0.
+
+![image](https://github.com/user-attachments/assets/447295a7-b89f-4953-bd5e-9134634d96fd)
+![image](https://github.com/user-attachments/assets/9f8ddb35-5e53-42cb-a7d5-36cefc48214c)
+
+* A and C -> c + d + e + f.
+* A and C but not D -> c + d.
+* Only C and D -> h.
+* B and C -> d + f.
+* 20mins left.
 
 
 
@@ -5860,12 +5875,7 @@ So, 'y = 6' not possible.
 
 
 
-
-
-
-
-
-
+ 
 
 
 
