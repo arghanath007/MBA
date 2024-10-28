@@ -5851,17 +5851,295 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/c8ea3078-1426-4b50-953b-d33b5c6a2d7f)
 
 * Only group 'B' -> 0.
+* There is nothing as only 'B'.
 * Only group 'D' -> 0.
+* There is nothing as only 'D'.
 
 ![image](https://github.com/user-attachments/assets/447295a7-b89f-4953-bd5e-9134634d96fd)
 ![image](https://github.com/user-attachments/assets/9f8ddb35-5e53-42cb-a7d5-36cefc48214c)
 
+* Both 'B and D' -> f -> 15.
 * A and C -> c + d + e + f.
 * A and C but not D -> c + d.
 * Only C and D -> h.
 * B and C -> d + f.
-* 20mins left.
 
+![image](https://github.com/user-attachments/assets/6e6ce892-3a61-4554-a36c-47ec59db52c3)
+![image](https://github.com/user-attachments/assets/bde10fa7-4998-4ffb-af53-df33d20c155a)
+
+* Both 'A and B' -> b + d + f -> 40.
+* 'C' but not 'A' -> g +  h -> 55.
+
+![image](https://github.com/user-attachments/assets/d0ad2d21-77e0-4b91-9b0e-3b8dde00ccd1)
+![image](https://github.com/user-attachments/assets/4f230508-1ff5-4a1c-a617-5099dc538b6a)
+![image](https://github.com/user-attachments/assets/ce3b3354-a39d-4b93-9769-e11a95ebc549)
+![image](https://github.com/user-attachments/assets/2e0258ce-b80b-445d-9d57-560712ceaf30)
+![image](https://github.com/user-attachments/assets/79909034-da5a-463f-935e-7d33598c172b)
+![image](https://github.com/user-attachments/assets/70c75cb7-b7da-4054-9da5-0e26325679f6)
+
+* 35. [1] [Answer]
+* Definitely decrease -> 55 + 5 + 20 -> 80. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/62b7b01d-cd2b-4820-847d-3367f0ee8f47)
+
+* Definitely increase -> 15 + 25 + 30 -> 70. [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/fda191d1-33c6-440c-a195-c06b33ea1007)
+![image](https://github.com/user-attachments/assets/a364078d-0738-45b1-bdc0-67fee4f44675)
+![image](https://github.com/user-attachments/assets/8dca5631-894a-4309-9e23-503c36550f3d)
+![image](https://github.com/user-attachments/assets/686302aa-8f7c-4e8c-a9a5-dc7be6ada7b7)
+
+* Set-5.
+
+![image](https://github.com/user-attachments/assets/d48cd460-0338-48f7-a836-7e0552e64f8e)
+![image](https://github.com/user-attachments/assets/dc5dbbdb-8233-48db-989a-49cf688f6f76)
+
+* Only  -> Hinting to venn diagram.
+
+![image](https://github.com/user-attachments/assets/181b69e9-f533-4b3a-8373-40bcb1cf7292)
+
+* N -> 140 * 2 + 60 -> 340.
+* S -> 120 + 100 + 80 -> 300.
+* C -> 220 + 120 + 60 -> 400.
+* I -> 100 + 220 + 180 -> 500.
+
+![image](https://github.com/user-attachments/assets/28c37dbb-73dc-41e7-8688-eb6e83e58483)
+
+* We want to maximize it.
+* Max. can be '300' only because of south indian(S) food. Any no. more than '240' will make it more than '300'.
+* 240 + 60 -> 300.
+
+![image](https://github.com/user-attachments/assets/7ba7b0bc-4694-40e8-926d-036bfa43f16b)
+
+* 240 + 60 + 40 -> 340.
+
+![image](https://github.com/user-attachments/assets/9bf24fcf-da0c-40a8-a384-1a570b233a17)
+
+* 240 + 60 + 20 + 200 -> 520 > 500 -> Not possible.
+
+![image](https://github.com/user-attachments/assets/142d0fe4-8bbe-46dd-a1aa-b0458a044e96)
+![image](https://github.com/user-attachments/assets/22d05248-8fd0-4129-a3e7-a3a61e1dbac6)
+
+* S -> 80 - 60 -> 20.
+* N -> 60 - 40 -> 20.
+* N and S -> 20.
+
+![image](https://github.com/user-attachments/assets/7a8f7c8e-2bc2-4682-a296-ed06d10de36f)
+
+* 280. [2] [Answer]
+
+![image](https://github.com/user-attachments/assets/7e14c5d7-1eb5-41ff-982f-5ea0de4cfd15)
+![image](https://github.com/user-attachments/assets/df27ca21-4bcb-41f8-877a-0fbaa06ebb9d)
+
+* We will get '520' in 'I'. We have to make some changes.
+
+![image](https://github.com/user-attachments/assets/c481823f-07c7-4536-a2a4-3032ab681731)
+
+* Eating all '3' foods -. 0.
+
+![image](https://github.com/user-attachments/assets/484d143d-ca3c-4e1c-b8b2-93c8c6c76d77)
+
+* Set-6. [Dout]
+
+![image](https://github.com/user-attachments/assets/ae1351ed-0af3-42a0-bc3e-9a9af875107b)
+![image](https://github.com/user-attachments/assets/04415ccf-a493-4e65-8b38-1c82201ac35a)
+
+* No. of matches -> 15.
+
+![image](https://github.com/user-attachments/assets/20c9c7b2-fddc-4ed0-9205-8b28f6ce736b)
+![image](https://github.com/user-attachments/assets/76d95efe-d968-495c-bb3e-c7fcb6d1727c)
+![image](https://github.com/user-attachments/assets/4ef79873-9196-4744-b6af-37d92d9245de)
+
+* Points are **distinct**.
+* Total draws -> 4.
+
+![image](https://github.com/user-attachments/assets/b5d3591b-6757-4008-8605-62c00499898a)
+![image](https://github.com/user-attachments/assets/7be04d52-cb71-4b62-a4c6-951c8172e858)
+![image](https://github.com/user-attachments/assets/22406e78-e060-4dac-b734-081018dd9856)
+![image](https://github.com/user-attachments/assets/0bbf6a76-0355-4236-a464-5aaf77188746)
+![image](https://github.com/user-attachments/assets/8f2e232b-f65e-4231-b2c6-622d0b4c7400)
+![image](https://github.com/user-attachments/assets/42da1062-87f5-4025-b549-cd661f645cfa)
+
+* Draw -> Each participant gets '1' point each.
+* Total points -> 41.
+
+![image](https://github.com/user-attachments/assets/027df49f-a84c-407a-8afb-ffb864e28a62)
+![image](https://github.com/user-attachments/assets/28317260-5cbc-45f8-87e5-2814fcc21bb9)
+![image](https://github.com/user-attachments/assets/0c8d47c8-5571-4e77-8501-8c187a876bca)
+
+* 'F' only played '1' draw. So '13-2' is not possible.
+
+![image](https://github.com/user-attachments/assets/82234182-e2c7-45b6-9d37-7edd47625d27)
+![image](https://github.com/user-attachments/assets/5b09f6b7-505b-4f5a-8cec-968542753eb0)
+![image](https://github.com/user-attachments/assets/f0698115-39e1-4a1c-9a40-df7159f2dc0c)
+![image](https://github.com/user-attachments/assets/24ccc60c-87a0-4812-a844-0d7eedc87b40)
+![image](https://github.com/user-attachments/assets/fac02fc3-34ad-4293-9d1b-b7827301590e)
+![image](https://github.com/user-attachments/assets/d85700e5-e2d1-4b8c-b4b7-027dfc73e532)
+
+* Goals against 'F' -> 2 + 2 + 1 + 2 -> 7.
+* Total Goal against -> 37.
+* Total Goal scored -> 37.
+* Goals for 'F' -> 2 + 1 -> 3.
+* Goals for 'C' -> 37 - 28 -> 9.
+
+![image](https://github.com/user-attachments/assets/f2e22450-0b00-45de-9df0-6a56d3d97130)
+
+* 'A-E' cannot have a draw because 'E' had no draws.
+* Goals for 'A' -> 3 + 2 + 2 -> 7.
+
+![image](https://github.com/user-attachments/assets/17482f22-00c2-412a-8476-c8db6405b9e3)
+
+* Goals against 'A' -> 3 + 2 + 1 + 2 -> 8.
+
+![image](https://github.com/user-attachments/assets/2b8f9bef-d277-4e58-a1f3-a0d017397578)
+![image](https://github.com/user-attachments/assets/842ef46c-c949-4abc-ae9c-b2083cee435e)
+
+* Goals by 'E' -> 2 + 2 -> 4. 
+* Goals by 'D' -> 1 * 3 -> 3. 
+
+![image](https://github.com/user-attachments/assets/0f842ffe-7a09-4bf0-a875-3b3e3adf5443)
+![image](https://github.com/user-attachments/assets/5577d160-6b80-44b5-a42e-39ba9dc92330)
+![image](https://github.com/user-attachments/assets/9049830e-9e88-4b00-b2dc-04fdc477a042)
+![image](https://github.com/user-attachments/assets/9a5df4fa-9d57-4871-bc46-f37baa446953)
+![image](https://github.com/user-attachments/assets/3d52c545-18be-448e-b09b-049ec83ca8b0)
+![image](https://github.com/user-attachments/assets/40bb60a7-297b-4664-8691-f6cafa6622cb)
+
+* Set-7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Que Sera, Sera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
