@@ -6006,11 +6006,32 @@ So, 'y = 6' not possible.
 
 * Set-7.
 
+![image](https://github.com/user-attachments/assets/4669c759-a3a0-495a-ac2b-45de189b1517)
+![image](https://github.com/user-attachments/assets/43d1f8b2-716f-4dc9-9832-2a4309815535)
+![image](https://github.com/user-attachments/assets/91b62db9-2f09-4f5e-bc43-4fd1770b38ca)
+![image](https://github.com/user-attachments/assets/7f7c6960-d0b1-4cb1-a5e8-3969bbd16dd5)
+![image](https://github.com/user-attachments/assets/09d71d1f-f543-41a0-9e3a-db8332b3f3c1)
+![image](https://github.com/user-attachments/assets/85bc095f-5fe2-4ea8-93e4-47b85203fbf0)
+![image](https://github.com/user-attachments/assets/c362ef4e-896d-4237-87b1-1ff1fbdf72fa)
+![image](https://github.com/user-attachments/assets/7f69a15f-4d8a-4293-a51e-bf92adbfc110)
 
+* 50 + 30 -> 80.
 
+![image](https://github.com/user-attachments/assets/8cbad6ce-2485-47f9-a8a2-eda9acc31c16)
+![image](https://github.com/user-attachments/assets/5411dc20-87c7-4925-ad46-0280bdd0ae05)
+![image](https://github.com/user-attachments/assets/8f883377-363c-4d5a-91d0-1ca15b8c5c78)
 
+* S1 + S2 + S3 -> 180 degree.
+* S1 + S2 + S3 = S4 + S5 + S6. 
 
+![image](https://github.com/user-attachments/assets/c5663cb3-50c1-4256-929e-204cbf3c22ff)
+![image](https://github.com/user-attachments/assets/48d18520-3b3a-4db7-b11a-97c58f071117)
+![image](https://github.com/user-attachments/assets/8a77df65-f051-49e9-bb08-62a03f7a3e4f)
+![image](https://github.com/user-attachments/assets/065f2f80-bd8d-424b-abc8-a06bf35067b5)
+![image](https://github.com/user-attachments/assets/87d2030b-4388-4ab9-bcc7-f4935daf9edc)
+![image](https://github.com/user-attachments/assets/f64d3d56-8bca-4348-baa0-4f75ef2c9f3f)
 
+* Set-8.
 
 
 
@@ -6068,11 +6089,6 @@ So, 'y = 6' not possible.
 
 
 
-
-
-
-
-Que Sera, Sera
 
 
 
