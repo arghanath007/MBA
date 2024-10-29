@@ -573,6 +573,132 @@
 
 ![image](https://github.com/user-attachments/assets/9a9131ac-4b94-40f8-b4f3-f73de94ca928)
 
+### RC Practice
+
+![image](https://github.com/user-attachments/assets/969ced2c-24d7-41a9-a22d-b629ab9e4ddb)
+![image](https://github.com/user-attachments/assets/7a9fe859-f994-4688-8f5e-7f8b464b31c3)
+![image](https://github.com/user-attachments/assets/b7da10a8-2847-47c7-b97a-9397ac14276b)
+
+* Correct -> most likely/must.
+* II -> Character's motives.
+
+![image](https://github.com/user-attachments/assets/08aa65c0-f25c-416a-b5b2-3eb84dbab4be)
+![image](https://github.com/user-attachments/assets/f760be8a-07f9-406b-9a12-a63624073357)
+![image](https://github.com/user-attachments/assets/e25c1f2f-e322-46bd-b4df-e5c1591427f6)
+
+* Option **C** -> III only.
+
+![image](https://github.com/user-attachments/assets/9c2be6ea-1c48-4118-b329-8cd670d5ffc1)
+![image](https://github.com/user-attachments/assets/8fb145e3-a3e7-47ee-92cf-cbb0744a4476)
+![image](https://github.com/user-attachments/assets/1f4a44f3-5bb9-41fe-b0a1-be86e99e2d83)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/8388239a-8b00-4923-8c64-ed21cd85f9cc)
+![image](https://github.com/user-attachments/assets/e5ffdf86-bf9d-4fd8-b476-2a0736e17674)
+![image](https://github.com/user-attachments/assets/3e493994-d048-41ad-ad41-9b2ac2f0b524)
+
+* I -> Can't say.
+* II -> Can infer.
+* III -> Can't say.
+* Option **B**. 
+
+![image](https://github.com/user-attachments/assets/ae26ca9a-6e97-4ef2-aadc-c4fbb2dee1c1)
+![image](https://github.com/user-attachments/assets/94fe0949-a6d2-4494-80a4-ac69c40a5eb5)
+![image](https://github.com/user-attachments/assets/b9e1cf80-61a1-4ce9-ba1d-c44b57b0e6e9)
+![image](https://github.com/user-attachments/assets/25ae6ad6-d5e6-42f6-ab7f-377a40d75bb5)
+![image](https://github.com/user-attachments/assets/e4c2fe3a-0d5f-44ad-ab4c-85804756f912)
+![image](https://github.com/user-attachments/assets/cfcc9957-caac-4319-8e85-3df2ec8cb7b2)
+
+* Statment 1 -> Evidence.
+* Thesis -> hypothetical. [**VERY IMPORTANT**]
+* anti -> against. [**VERY IMPORTANT**]
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/909d33f1-cb2b-4bba-b15d-2fc3f8b45ee1)
+![image](https://github.com/user-attachments/assets/5de3417a-bccd-4d62-b27b-48c4ca10a28e)
+![image](https://github.com/user-attachments/assets/ea90f591-72af-4440-9958-7d9303b21673)
+![image](https://github.com/user-attachments/assets/205f35c1-c2d4-42f1-b7a7-2113e2fecec7)
+![image](https://github.com/user-attachments/assets/f6bfb041-f311-4041-9214-0a352de82c67)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
