@@ -6122,6 +6122,159 @@ So, 'y = 6' not possible.
 
 ![image](https://github.com/user-attachments/assets/77cb2ccc-aaa0-45ec-bd4a-92c80d549a50)
 ![image](https://github.com/user-attachments/assets/29bc1edd-c493-4699-9387-0924e5334755)
+![image](https://github.com/user-attachments/assets/e6676b71-affb-4411-8e7c-7d70f2590cf3)
+
+* 6 ^ 3 -> 216.
+
+![image](https://github.com/user-attachments/assets/adda0b0d-68a7-41ce-88ef-9eae987b0a71)
+![image](https://github.com/user-attachments/assets/3003f158-6610-477d-b09a-405fc6611c9f)
+![image](https://github.com/user-attachments/assets/a6f3d8f3-fcdd-41a0-86c4-1c06974ad3ee)
+
+* Gap between 1st and 2nd layer columns -> 36 -> Multiples of '36'.
+
+![image](https://github.com/user-attachments/assets/829b3716-1559-4f28-a14e-31082b55d89e)
+![image](https://github.com/user-attachments/assets/f489be1b-f9cc-49ab-8932-a2c3ad90e86e)
+
+* 108 + 36 -> 144
+
+![image](https://github.com/user-attachments/assets/908b720c-de75-41b0-9ce9-d7e8809e46ab)
+
+* 72 + 36 -> 108.
+* When we are going to the **core**, we are trying to go from each and every side.
+
+![image](https://github.com/user-attachments/assets/6ea0ad0b-24e3-4d6b-a81c-e7fd27c0a6cf)
+
+* From everyside, '2' layers are gone.
+
+![image](https://github.com/user-attachments/assets/f04131e0-2537-48ed-bbf2-d23721deb0d0)
+![image](https://github.com/user-attachments/assets/4a555030-4093-473c-9b08-9ac1cdf76d33)
+
+* We will reduce using multiples of '36'.
+
+![image](https://github.com/user-attachments/assets/cb51c100-a657-4fff-a5dc-e69f00d0c5d1)
+
+* 107 - 36 -> 71 -> They are touching each other.
+* Option **D** -> They are not touching each other.
+
+![image](https://github.com/user-attachments/assets/f8d75cae-5448-49d5-8657-3bbf7bbafa9e)
+
+* 37, 72 -> Both are in 3rd layer.
+* Shortest distance has to be on the same plane. Closest possible points should be there.
+
+![image](https://github.com/user-attachments/assets/cb09befc-2588-40ac-a79c-67156bbd5889)
+![image](https://github.com/user-attachments/assets/280ee72e-70d1-4f29-b5c5-f64eb6f8d851)
+
+* 36, 72 -> Highest numbers.
+
+![image](https://github.com/user-attachments/assets/d2ae4b81-383f-4a44-8687-886967fee84a)
+![image](https://github.com/user-attachments/assets/4a83251b-947b-4e6a-afbc-3e2ca0bad302)
+
+* We want to minimize the sum of '5, 6, 7, 8'. To do that, we need to maximize '3 and 4'. To do that, we need to manimize '1 and 2'.
+* Min. is '10'.
+* Max. is '50'.
+
+![image](https://github.com/user-attachments/assets/2d356010-a48f-4b9c-9202-01dead60e4af)
+![image](https://github.com/user-attachments/assets/8a932aa3-a7ea-4b12-8280-810692015527)
+![image](https://github.com/user-attachments/assets/aa206454-8fe5-4b0a-9436-8362783420ed)
+
+* '7 and 8' dont have any min. values. 
+
+![image](https://github.com/user-attachments/assets/2a1140f1-d60b-445b-a504-cc94a104a2a5)
+![image](https://github.com/user-attachments/assets/0c1a841c-4d1b-4e76-a80a-0af76c2f2fdd)
+
+* Total score in the '8' matches -> 170 + 154 -> 324
+
+![image](https://github.com/user-attachments/assets/735e45e5-d155-471b-9a12-b0e50255cdec)
+
+* 3 -> 50. [Let]
+* 6 -> 50. [Let]
+* '4 + 5' -> 191 - (50 * 2) -> 91.
+* R4 - R5 -> 8 -> Even -> Either both are **even(e)** or both are **odd(o)**.
+* 91 -> Not possible -> Cannot come from 'e + e' Or 'o + o'.
+
+![image](https://github.com/user-attachments/assets/518997fe-8e6b-44df-98ab-cd5161687306)
+![image](https://github.com/user-attachments/assets/59253c53-e646-43b4-b6ac-908040152ce9)
+![image](https://github.com/user-attachments/assets/c1da2145-746c-4b20-ab4c-b5a7709ffdb5)
+
+* 94 - 51 -> 43.
+* x = 51, y= 43 -> 'x' is not possible as '51 > 50' -> The limit/max is '50' only. 
+
+![image](https://github.com/user-attachments/assets/1fe79232-aac4-466f-a3e6-6c77cb441b9e)
+![image](https://github.com/user-attachments/assets/c72d2467-0f82-4127-9adb-0984e3129d73)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/85d1e709-636b-4ab0-a151-c6e4bc5273ae)
+![image](https://github.com/user-attachments/assets/bb2c11fa-8ccc-417d-8fab-c1b03dd55607)
+
+* We got sum as '270'.
+* W want sum as '235'.
+* 270 - 35 -> 235.
+
+![image](https://github.com/user-attachments/assets/04a077e1-3a6c-4250-b245-4a3d92780250)
+![image](https://github.com/user-attachments/assets/fec23767-1c0a-4a0b-a1d2-8c76789295f0)
+![image](https://github.com/user-attachments/assets/108f3ebd-2aeb-4c60-80c8-55007b33eb9c)
+![image](https://github.com/user-attachments/assets/ef7c835d-536a-45b4-abab-5fb7f982800a)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/33608469-1ea2-4a08-89ef-0c357eb7e148)
+![image](https://github.com/user-attachments/assets/dd2e012f-9f4f-4020-8223-0b22d8915b5b)
+![image](https://github.com/user-attachments/assets/b3922745-612f-4602-bb24-b15539dc7cff)
+![image](https://github.com/user-attachments/assets/29e8e97a-ff21-45f8-aff4-0d09014edb5c)
+
+* We have to maximize '1,2,7,8', so that '3,4,5,6' are minimized.
+* We cannot take all of them as '50' because **distinct** nos have been asked.
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/33a268e1-ddc1-495f-b5e4-113ef0358fe0)
+![image](https://github.com/user-attachments/assets/93093230-9f7f-4d6f-ad40-12e06404a53b)
+
+* T -> 165 + 181 -> 346
+* For maximizing 'T6' -> 3,4,5,6 -> '50' each.
+
+![image](https://github.com/user-attachments/assets/9cf3b346-d8f9-4fe3-aa8d-77441dabbade)
+![image](https://github.com/user-attachments/assets/d2be82fb-a325-44c1-a9c8-318dc739c012)
+
+* For minimizing 'T6' -> 1,2,7,8 -> '50' each.
+* 146<= values <= 200.
+* Option **C** -> 4.
+
+![image](https://github.com/user-attachments/assets/121de80f-d375-4b64-a6f5-3f4247291641)
+![image](https://github.com/user-attachments/assets/7ef4d3bc-675e-481b-be8f-15b674dc2451)
+![image](https://github.com/user-attachments/assets/7c7f2add-3762-4052-9430-199e81ae0c0d)
+![image](https://github.com/user-attachments/assets/f118cd45-bbe9-48a9-b486-079dfe0d40ec)
+![image](https://github.com/user-attachments/assets/93ea241f-8b2e-44e6-a5b3-a02aae8ce17a)
+![image](https://github.com/user-attachments/assets/0b1ca5e7-a346-4166-b146-5bd471ff80dd)
+![image](https://github.com/user-attachments/assets/73ddc8cc-599e-4a6c-a838-138fb3b7950d)
+![image](https://github.com/user-attachments/assets/18a42d9d-f1a1-4e58-83e6-3d1ecca3bafe)
+
+* Answers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
