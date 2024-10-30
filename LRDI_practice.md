@@ -6251,6 +6251,187 @@ So, 'y = 6' not possible.
 
 * Answers.
 
+![image](https://github.com/user-attachments/assets/fea4ed5a-2984-4173-8532-7109ddc24dbb)
+![image](https://github.com/user-attachments/assets/9c4f6ad5-0eb9-441a-aeb0-1970976d131e)
+![image](https://github.com/user-attachments/assets/4fca64cc-7199-45b6-b0a0-d1facc3d94c9)
+
+* 'a' min. is not possible.
+
+![image](https://github.com/user-attachments/assets/829621b2-d7c3-4246-9552-5c5e7ac121e7)
+![image](https://github.com/user-attachments/assets/d5fcb50b-ba4c-4711-b38b-055a2bc40c05)
+
+* [Concept] [Logic]
+
+![image](https://github.com/user-attachments/assets/3e4d2d7c-12d1-47f0-b9bf-de4665bf841c)
+![image](https://github.com/user-attachments/assets/5b031622-4490-4bf8-a74f-6c7ee366fe45)
+
+* To compensate '1' ticket of 'A1' category we need to buy '10' tickets of 'A4' category.
+
+![image](https://github.com/user-attachments/assets/92eac90f-5424-4283-8259-89f56951b584)
+
+* With purchasing 'A1' category ticket, we are not minimizing 'A4' category tickets, we are maximizing 'A4' category tickets.
+* We are not minimizing here.
+
+![image](https://github.com/user-attachments/assets/030d9d8b-fe41-4124-a035-685c344bbfd7)
+
+* We are not minimizing here.
+
+![image](https://github.com/user-attachments/assets/ea4d745e-8f62-4d83-a0ce-918c112bf935)
+
+* We are now minimizing here.
+
+![image](https://github.com/user-attachments/assets/b5efdf33-2db1-420d-9f19-9abbc6226e79)
+
+* We don't need to buy 'A1 and A2' tickets.
+
+![image](https://github.com/user-attachments/assets/99e9b4f8-8f4e-4462-936d-fb33e15b183e)
+![image](https://github.com/user-attachments/assets/590dbe1a-bdf6-40ba-a5e4-bb8e1f7902f1)
+
+* Now we can minimize.
+
+![image](https://github.com/user-attachments/assets/560d7eec-6d57-438c-a1a8-4048ac966186)
+
+* 'C and D' are '0'.
+
+![image](https://github.com/user-attachments/assets/7f22d3ec-5859-41f4-bb8c-d59782efd40e)
+![image](https://github.com/user-attachments/assets/beafd31c-8e1e-4dad-a972-4adb208e1dd9)
+
+* 'a' min. is '55'.
+
+![image](https://github.com/user-attachments/assets/fea58b79-6b83-40e8-b8af-7f9332456423)
+![image](https://github.com/user-attachments/assets/0887ec7e-8e3e-4a78-ac89-bf8d923e8c91)
+
+* In very less people we want to achieve that '90000' deficit.
+
+![image](https://github.com/user-attachments/assets/a7b45945-f6bb-4667-8fe1-b74621ec0596)
+
+* 2250 - 750 -> 1500.
+* We are reducing every ticket by '1500'.
+
+![image](https://github.com/user-attachments/assets/9b737a94-600f-4359-b8a9-2c522267537c)
+
+* Method **1**.
+
+![image](https://github.com/user-attachments/assets/eb5b3c89-b242-4186-bb7f-f7185c591af0)
+
+* Method **2**.
+
+![image](https://github.com/user-attachments/assets/ad2806ee-6bd5-4710-90fa-624c07b7793a)
+![image](https://github.com/user-attachments/assets/0a9be29d-6f78-42c0-8442-c350c711dba9)
+
+* To minimize 'd', we will maximize 'k'.
+
+![image](https://github.com/user-attachments/assets/8f5f3fc2-4e86-4ee0-b76e-28ff815d7bb0)
+
+* 40/5 -> 8. [Answer]
+
+![image](https://github.com/user-attachments/assets/302790aa-f949-48ce-9481-3c966a6f0ce4)
+
+* 83' is not a multiple of '3'.
+* 3d = 30 -> d = 10.
+
+![image](https://github.com/user-attachments/assets/09100881-6bf7-4521-ad58-8c8cff0c56d2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
