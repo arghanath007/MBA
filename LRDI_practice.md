@@ -6098,8 +6098,42 @@ So, 'y = 6' not possible.
 ![image](https://github.com/user-attachments/assets/eb8af434-888c-439e-bcb1-e9cf9b105ee5)
 
 * Min. total score -> T4 -> 272. [1] [Answer]
-* Priya. [2] [3] [Answer]
+* Priy  a. [2] [3] [Answer]
 * Kumud. [4] [5] [Answer]
+
+![image](https://github.com/user-attachments/assets/b2e8005b-760d-477e-9b3e-5fede8c1f472)
+![image](https://github.com/user-attachments/assets/c33ae747-4fa0-411c-a62a-bf478692a85c)
+![image](https://github.com/user-attachments/assets/5728b9d7-a371-418a-9a48-b00d42ec4e3c)
+![image](https://github.com/user-attachments/assets/41c35f3e-e902-4217-a008-8872cc05bb19)
+![image](https://github.com/user-attachments/assets/ae0ac31e-d102-4974-a60e-164ea46cdbf5)
+
+* Total ranks -> (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8) * 2 -> 72.
+
+![image](https://github.com/user-attachments/assets/e9852d17-bf4f-4efe-a989-8f60c56c6185)
+![image](https://github.com/user-attachments/assets/52792fee-56f0-45d1-a816-f2951b084769)
+
+* M1-F1 is not possible.
+
+![image](https://github.com/user-attachments/assets/a73cb39f-69e8-4b9b-b2fb-a6e1e0406926)
+![image](https://github.com/user-attachments/assets/18b858f8-4868-415e-8df8-829f28995f1d)
+![image](https://github.com/user-attachments/assets/6ebb417b-c03b-48ad-90ba-198a91760107)
+
+* Monica -> F5 -> M2 -> Roger. [1]
+
+![image](https://github.com/user-attachments/assets/77cb2ccc-aaa0-45ec-bd4a-92c80d549a50)
+![image](https://github.com/user-attachments/assets/29bc1edd-c493-4699-9387-0924e5334755)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
