@@ -6033,6 +6033,74 @@ So, 'y = 6' not possible.
 
 * Set-8.
 
+### Practice Test
+
+![image](https://github.com/user-attachments/assets/5771a9f4-bfe0-4855-926a-f37ea0af7e64)
+![image](https://github.com/user-attachments/assets/5a09d599-2e88-47b2-b2d3-0842c779b5ab)
+
+* Avg < 70.
+* It would be less than '280'. 
+
+![image](https://github.com/user-attachments/assets/08d258f7-1ded-4961-89ea-953db6c29d11)
+
+* Example to explain the last statement of the question.
+* For every test, the total is less than '280'. 
+
+![image](https://github.com/user-attachments/assets/643bd0db-400a-4363-ae6d-bc90f1528ddc)
+![image](https://github.com/user-attachments/assets/7eda0f4d-0d7c-4d14-bbaa-4f3345e15dbb)
+
+* We want to find each one(1) of the crosses in each column.
+
+![image](https://github.com/user-attachments/assets/2d67df86-642a-4220-9999-ad0c94ba4e04)
+![image](https://github.com/user-attachments/assets/576bd92b-ce5e-4f03-a639-ee8a103433a4)
+
+* T1 -> 50 + 64 + 85 + 82 + 77 -> 358.
+
+![image](https://github.com/user-attachments/assets/5a83ae56-979c-4661-8c95-d5ef6749cef9)
+
+* T2 -> 63 + 51 + 85 + 68 + 88 -> 355.
+* We cannot remove 'K' which is '85'. We have to remove '88'.
+
+![image](https://github.com/user-attachments/assets/7d86e702-fe64-43cb-9b05-2828e6cbf7d7)
+![image](https://github.com/user-attachments/assets/3e5ad65a-2c00-4f64-b8b2-4bec32e1f716)
+
+* T3 -> 63 + 57 + 77 + 68 + 88 -> 353.
+* We cannot remove 'K and S' which are '77 and 88'. We cannot remove anything. So this case is not possible/wrong.
+
+![image](https://github.com/user-attachments/assets/9d78a5b5-7c21-493e-9374-2ebefda630e3)
+![image](https://github.com/user-attachments/assets/56ff967f-91f4-4e9d-95ef-d4a868616e12)
+![image](https://github.com/user-attachments/assets/a6c54b71-9c7c-4376-b5a2-c87cb0124d53)
+![image](https://github.com/user-attachments/assets/187ae2c4-a10d-415f-9415-99cadf277e09)
+
+* Case **II**.
+* T1 -> 50 + 64 + 85 + 77 -> 276 -> Less than '280'.
+
+![image](https://github.com/user-attachments/assets/e2a43b7d-4e59-4116-9af6-430bf63a4843)
+![image](https://github.com/user-attachments/assets/9defe080-3778-41e8-9191-12802bf5febc)
+
+* T2 -> 63 + 51 + 77 + 82 + 88 -> 361 -> 361 - 280 = 81.
+* We cannot remove 'R' which is '82'. We have to remove '88' which is 'S'.
+
+![image](https://github.com/user-attachments/assets/0bda4db1-eafb-4a1e-a9b3-53a720b2b54f)
+![image](https://github.com/user-attachments/assets/6cb8bed0-6f2f-4b46-834c-07e6fbefe30a)
+![image](https://github.com/user-attachments/assets/9814091b-43b4-4dcb-9b62-f9270f211c7c)
+
+* T3 -> 63 + 57 + 68 + 68 + 88 -> 344 -> 344 - 280 = 64.
+* We cannot remove 'R and S' which is '68 and 88'. We have to remove '68' which is 'K'.
+
+![image](https://github.com/user-attachments/assets/41525520-e4ae-44c4-8dc3-a667b38cfa9c)
+![image](https://github.com/user-attachments/assets/ee483886-dad0-4c5a-9d6b-038884310806)
+
+* T4 -> 80 + 71 + 68 + 68 + 65 -> 352 -> 352 - 280 = 72.
+* We cannot remove 'R, S and K' which is '68, 68 and 65'. We have to remove '80' which is 'A'.
+
+![image](https://github.com/user-attachments/assets/a1f0252c-a6fd-4fcb-ba11-8c834d7c59d5)
+![image](https://github.com/user-attachments/assets/eb8af434-888c-439e-bcb1-e9cf9b105ee5)
+
+* Min. total score -> T4 -> 272. [1] [Answer]
+* Priya. [2] [3] [Answer]
+* Kumud. [4] [5] [Answer]
+
 
 
 
