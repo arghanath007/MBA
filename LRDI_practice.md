@@ -6331,6 +6331,182 @@ So, 'y = 6' not possible.
 * 3d = 30 -> d = 10.
 
 ![image](https://github.com/user-attachments/assets/09100881-6bf7-4521-ad58-8c8cff0c56d2)
+![image](https://github.com/user-attachments/assets/51fbbca4-78d1-40ec-9ef6-d106b16cb9ed)
+![image](https://github.com/user-attachments/assets/10acfbc5-b158-44ee-b213-02bb3a1e860b)
+![image](https://github.com/user-attachments/assets/5476ec96-11e6-4996-bce3-dc5bde2daafe)
+![image](https://github.com/user-attachments/assets/13a5014e-5de7-4147-b605-d4e522313a32)
+![image](https://github.com/user-attachments/assets/8d66601a-1e30-4b22-9a63-33ebafa93173)
+![image](https://github.com/user-attachments/assets/eafdcf20-1cee-400f-a533-78009b7f448c)
+![image](https://github.com/user-attachments/assets/d2ee465f-8bc6-41a1-a30b-824b3e87f3cf)
+
+* 'H' cannot be 4th person can 'H' saw 'YB' at entry and at the 4th person, the entry is 'RB'.
+* 'H' cannot be the 2nd person as 'H' saw 'GB' at exit and at the 2nd person, the exit is 'RB'.
+
+![image](https://github.com/user-attachments/assets/86c30778-9585-4f45-9e9d-eac730b88bf9)
+![image](https://github.com/user-attachments/assets/32d2f81c-8a1f-46d1-a467-9cd55b8e7599)
+![image](https://github.com/user-attachments/assets/9dca715a-1800-4228-ab15-d932897efa40)
+
+* 'P' is not the 2nd person because 'B and G' are adjacent in 2nd person which is not possible in 'P'.
+* 'J' is not the 2nd person because the colors are interchanged in 2nd person which is not possible in 'J'. In 'J' there was **no change**.
+
+![image](https://github.com/user-attachments/assets/9f3b2fa4-96d3-46ad-b89e-1f994d6738be)
+![image](https://github.com/user-attachments/assets/475ff5ad-2340-4913-bdaf-46b73fa0d339)
+![image](https://github.com/user-attachments/assets/46d3af44-f5b9-4020-9a80-05373b4e302e)
+![image](https://github.com/user-attachments/assets/4292846d-513e-4321-b378-b9a7fe71f526)
+![image](https://github.com/user-attachments/assets/6c39fa10-3828-46f2-8ee0-3a21a0b60e64)
+
+* Case **1**.
+
+![image](https://github.com/user-attachments/assets/27a10a37-c596-4867-b09f-e35735317f55)
+![image](https://github.com/user-attachments/assets/cda2fd7e-7de6-4e57-9182-5ea864718703)
+![image](https://github.com/user-attachments/assets/46cb761d-85a4-4baf-be8c-74c5953532a5)
+![image](https://github.com/user-attachments/assets/86faf828-ddce-4fab-8177-48f8cc6779a8)
+
+* 'Y' is not coming at the 1st place after doing interchange. So Case **1** is wrong/not possible.
+
+![image](https://github.com/user-attachments/assets/61071568-0f3b-4928-8362-70a1c6e84d7e)
+![image](https://github.com/user-attachments/assets/c41bb426-92b4-4b1a-a4f3-b5d8c913ebdd)
+
+* Case **2**.
+
+![image](https://github.com/user-attachments/assets/d4c34c13-4afc-419c-9e02-c4f0dc7e0e68)
+![image](https://github.com/user-attachments/assets/0a39336a-0df4-43b1-ac39-9417c498dc37)
+![image](https://github.com/user-attachments/assets/bcfaf824-fda9-469a-8982-7c10bd0c8ff9)
+![image](https://github.com/user-attachments/assets/78ae9a08-705a-4f6e-a5df-17c2703abf1c)
+![image](https://github.com/user-attachments/assets/4ca15ae0-7f32-4bf4-9d49-ad1c5ffcdc74)
+![image](https://github.com/user-attachments/assets/4855a2b4-bd76-49e5-9e29-c3054ac7ff84)
+![image](https://github.com/user-attachments/assets/9d1260d9-2f2f-46a9-a6df-51a11daef6d2)
+![image](https://github.com/user-attachments/assets/e326dca1-966f-4452-9178-6448ae0e1f90)
+![image](https://github.com/user-attachments/assets/fb1cc934-312a-48c0-a2db-22efa11ae08e)
+
+* 'PR' and 'GB' are together.
+* 'G and B' were interchanged by the 2nd person upon **entry**.
+
+![image](https://github.com/user-attachments/assets/1e9d9394-982d-4fe0-8a4c-36bf91f2eb81)
+![image](https://github.com/user-attachments/assets/c4235c58-0c27-48a4-b9e9-14fbaaaf1d90)
+![image](https://github.com/user-attachments/assets/b1a6270f-0f3e-4c6b-ae26-b3324007d13e)
+![image](https://github.com/user-attachments/assets/3c7df693-ade6-4c49-b8a4-a5bbee72835d)
+![image](https://github.com/user-attachments/assets/05f2710a-0566-4401-b315-666f06a3f4eb)
+![image](https://github.com/user-attachments/assets/bf5d98f6-54ab-4113-9356-f266dc088619)
+![image](https://github.com/user-attachments/assets/f59c405d-ea58-4a07-a079-64e6bdd9881b)
+![image](https://github.com/user-attachments/assets/bc8de6a5-3f37-4105-b707-18333bb44420)
+![image](https://github.com/user-attachments/assets/1f7406b6-2c37-44ae-98d5-a44ee669d058)
+![image](https://github.com/user-attachments/assets/df882e0a-e598-4a6a-b59c-0d9b22c00fe4)
+
+For 1st person, 'Y and B' are together.
+
+![image](https://github.com/user-attachments/assets/870d8c9f-7579-4530-bff3-df437f62f6ad)
+
+* Case **1** -> 'B and W' are interchanged.
+
+![image](https://github.com/user-attachments/assets/40ba780c-dd5a-4000-9638-207266a638a5)
+![image](https://github.com/user-attachments/assets/a59c8f96-7e29-42a7-b30f-e51abaa774db)
+
+* Case **2** -> 'G and Y' are interchanged.
+
+![image](https://github.com/user-attachments/assets/e04c73c6-a7a4-4246-9a43-fe30d52b39be)
+
+* 'Y' has been moved/interchanged so it cannot be the **answer**.
+* Option **C**. [1] [Answer]
+* Option **A**. [2] [Answer]
+* Either '0' or '1'. Option **D** [3] [Answer]
+
+![image](https://github.com/user-attachments/assets/0f676004-3868-4728-ae58-7c9064ce74e5)
+![image](https://github.com/user-attachments/assets/63a974ff-8fdc-4048-a0bd-c42479378ee6)
+![image](https://github.com/user-attachments/assets/dbdf9a17-44ff-44cf-832f-88bc03963ddf)
+
+* B -> 5 * 3 + 6 + 6/2 -> 27/23.
+* P -> 3 * 5 -> 15.
+* W -> Greater than 'P', no point in counting.
+* G -> Greater than 'P', no point in counting.
+* Option **B**. [4] [Answer]
+
+![image](https://github.com/user-attachments/assets/bda7d721-80f9-4c6d-8ce8-567bbffe12d6)
+![image](https://github.com/user-attachments/assets/94fb506a-3c1e-44fd-a410-00f45fa0554a)
+![image](https://github.com/user-attachments/assets/a093c96c-be4c-413a-8c52-90a5987115db)
+
+* Maximizing difference -> Maximum - Minimum. [Logic] [Formula]
+* Y -> 4 * 1 + 1/5 -> 5/9 -> Minimum.
+* B -> 5 * 3 + 6 + 6/2 -> 27/23 -> Maximum.
+* Answer -> 18. [5] [Answer]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
