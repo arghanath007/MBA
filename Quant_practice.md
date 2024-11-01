@@ -2665,6 +2665,58 @@
 
 ![image](https://github.com/user-attachments/assets/92e34b81-c2cd-44aa-a33f-8ed6acf7ed1c)
 
+### Arithmetic
+
+![image](https://github.com/user-attachments/assets/e69b7457-6b3d-45c7-aee8-e5bbfc330e5c)
+![image](https://github.com/user-attachments/assets/c8ccb42f-ecf6-4a6d-9a4d-680816a9d1a6)
+![image](https://github.com/user-attachments/assets/c8e60608-fa49-4bbb-ab54-fc377fe4b29c)
+![image](https://github.com/user-attachments/assets/90852d31-3ed7-44e3-b1ce-3d0faf482284)
+![image](https://github.com/user-attachments/assets/1e144ade-208a-4330-b8c7-7fc4e0fdf443)
+![image](https://github.com/user-attachments/assets/15a3a063-dfcf-4ee4-8030-981ad2b204aa)
+![image](https://github.com/user-attachments/assets/fa933c9a-3467-4377-83e6-2b7ee752ad75)
+![image](https://github.com/user-attachments/assets/b4539a4a-17ed-4fc0-b774-c99b9441182c)
+
+* To cover '5x' distance, it took '2' time.
+* To cover '2y' distance, it took '7' time.
+* To cover '2x' distance, it took '2' time.
+* Time = D/S.
+
+![image](https://github.com/user-attachments/assets/308d3a3a-6d93-4b38-82ad-df9f488ed5af)
+
+* The total time(3/2) is the same.
+
+![image](https://github.com/user-attachments/assets/3d747521-3fba-47e2-95cc-a819487e1bf3)
+![image](https://github.com/user-attachments/assets/b405a4db-10f8-4c77-81ec-c11467b4c47f)
+
+* 'y' -> Speed of current.
+
+![image](https://github.com/user-attachments/assets/f4eac313-6d20-4064-82b1-f17f8322f777)
+![image](https://github.com/user-attachments/assets/8dc320e0-4e54-4326-a150-e2fa18bcc23b)
+![image](https://github.com/user-attachments/assets/0158597a-e18a-49ba-b081-3cf05225a706)
+![image](https://github.com/user-attachments/assets/4be40d3c-00f1-4f81-8992-63253e6c5070)
+
+* River speed in still water -> xp.
+* River speed -> y.
+* Time(T) is constant so 'distance(D)' is proportional to speed(S).
+
+![image](https://github.com/user-attachments/assets/6a493757-5a54-4d11-8a70-f72079d2217a)
+![image](https://github.com/user-attachments/assets/283d0003-3243-40e3-8f61-9683bc923412)
+![image](https://github.com/user-attachments/assets/c7c620d4-d585-466a-b6eb-a7b9144ad8de)
+![image](https://github.com/user-attachments/assets/d2885bd0-f17d-4849-bf0b-54258701dd0c)
+![image](https://github.com/user-attachments/assets/b285634a-9521-4d85-a6e9-778da417e2fd)
+![image](https://github.com/user-attachments/assets/bc461841-df9e-4b80-b868-c1c8890bc0a2)
+![image](https://github.com/user-attachments/assets/11995994-e4dc-4ba2-b218-3a013f995a19)
+![image](https://github.com/user-attachments/assets/93e34208-e4a8-4f4f-a91b-f884a7e6d71a)
+
+
+* Start from 42mins left. 
+
+
+
+
+
+
+
 
 
 
