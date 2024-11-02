@@ -2707,9 +2707,32 @@
 ![image](https://github.com/user-attachments/assets/bc461841-df9e-4b80-b868-c1c8890bc0a2)
 ![image](https://github.com/user-attachments/assets/11995994-e4dc-4ba2-b218-3a013f995a19)
 ![image](https://github.com/user-attachments/assets/93e34208-e4a8-4f4f-a91b-f884a7e6d71a)
+![image](https://github.com/user-attachments/assets/efdf0c37-bd90-444f-9fab-f982ffd2dd32)
+![image](https://github.com/user-attachments/assets/e3aad38a-7e31-46b2-9717-fc27bd29f177)
+![image](https://github.com/user-attachments/assets/31f6ce42-a162-4e64-84de-dc38b5a7df01)
+![image](https://github.com/user-attachments/assets/60603517-9c97-4bd4-954a-57dc8ad31dcd)
+
+* We finding 'y'.
+
+![image](https://github.com/user-attachments/assets/e2cb27c1-c01e-4b9c-8ac5-3023987f5271)
+![image](https://github.com/user-attachments/assets/f776f945-e717-41b2-9595-1c7a9173b536)
+![image](https://github.com/user-attachments/assets/40638fb4-cadb-4275-9e02-87ae45718613)
+
+* 'A' will chase 'B' now.
+* 'B' travel left -> 280 - 120 -> 160hrs.
+
+![image](https://github.com/user-attachments/assets/7ce9727e-347c-4162-ac24-0fae7e9d38c2)
+![image](https://github.com/user-attachments/assets/42fdb17e-611a-4bb7-bea1-d6afb894f71f)
+![image](https://github.com/user-attachments/assets/292086ee-f12d-4208-a510-27d821154a41)
+![image](https://github.com/user-attachments/assets/1580b05c-cd9c-4850-920f-4b2598db2be5)
+![image](https://github.com/user-attachments/assets/af8bd0c4-2a96-4a87-872b-83ddb7012ff8)
+![image](https://github.com/user-attachments/assets/96e4f3f4-711c-48a7-bcf9-43b57babfcfa)
+![image](https://github.com/user-attachments/assets/9c433d7a-8ed0-4337-857b-6a4be425fe1b)
+![image](https://github.com/user-attachments/assets/d7faeeb4-5efa-4a7b-8369-e6955363a045)
+![image](https://github.com/user-attachments/assets/fc544aae-fc7d-41ec-b2c3-43f2a660616c)
+![image](https://github.com/user-attachments/assets/48b268a8-83d9-47d0-bb7e-a0005c9e4112)
 
 
-* Start from 42mins left. 
 
 
 
@@ -2725,14 +2748,120 @@
 
 
 
+### Revision Practice Questions
 
+![image](https://github.com/user-attachments/assets/d96cea39-5de0-4c68-8e11-d4de46b5dc58)
 
+* r ^ 2 -> Independent of 'x'.
+* 9 -> Independent of 'x'.
 
+![image](https://github.com/user-attachments/assets/ada8d549-9a58-46b8-9161-68969ef9cfa5)
+![image](https://github.com/user-attachments/assets/90ae3aa9-fb8a-4205-85b7-61f42dc2ac75)
+![image](https://github.com/user-attachments/assets/f74fd73f-213e-46b3-abd3-09c7fa62e970)
 
+* [1].
 
+![image](https://github.com/user-attachments/assets/e0c3669c-4f7a-440d-963d-8015cd33ba43)
 
+* Sign Change -> 3.
+* Max. real roots possible -> 3 or 1 -> It always reduces by an even number. [Formula] [Concept]
 
+![image](https://github.com/user-attachments/assets/a9833b13-8051-4ce4-abd9-845529db1bc9)
+![image](https://github.com/user-attachments/assets/c4c75906-f7e9-4283-a526-8cb31ef572fc)
 
+* Negative real roots -> f(-x).
+* Sign Change -> 1.
+* Max. negative real roots possible -> 1
+* Descarte's rule -> Max. no. of real roots possible for positive and negative.
+* We always have to **verify**.
+
+![image](https://github.com/user-attachments/assets/e11fd3be-ecf1-4f73-a09e-85b3681d5c01)
+
+* Max. real roots possible -> 1 + 1 -> 2 -> '1' positive and '1' negative.
+
+![image](https://github.com/user-attachments/assets/60f20559-fb79-4cf8-8b10-0749e73c8766)
+![image](https://github.com/user-attachments/assets/8b77239e-301d-4898-a69c-31378ff99469)
+
+* f(x) -> Polynomial.
+* Polynomial expression -> Polynomial graph -> It is a continuous graph and it never breaks.
+* It has '2' real roots -> '1' positive and '1' negative.
+
+![image](https://github.com/user-attachments/assets/e6742e35-07c1-49f5-acaf-e34981f2b214)
+
+* [2]
+
+![image](https://github.com/user-attachments/assets/4a6e6dcc-f07f-4aef-a7e4-1bef66727c83)
+![image](https://github.com/user-attachments/assets/4e1acc0c-589a-4a2d-b727-1af00120a03b)
+
+* Difference between eq. '1 and 2'.
+
+![image](https://github.com/user-attachments/assets/8d1cbd6e-2e6c-43fe-a811-ec7dadfe5f15)
+![image](https://github.com/user-attachments/assets/7f850cbe-e1e4-42e7-a5bd-f9135d188efd)
+![image](https://github.com/user-attachments/assets/6b2acd11-1f53-44ac-82ff-c00a227a7ae8)
+![image](https://github.com/user-attachments/assets/79bc47d9-4c61-4d6e-9e71-17183861c19b)
+![image](https://github.com/user-attachments/assets/b4ee2fd8-6aee-4326-991d-0560054a1105)
+![image](https://github.com/user-attachments/assets/1b6fa469-f095-4910-9341-930356aff598)
+![image](https://github.com/user-attachments/assets/1159a44b-edf3-4bd6-89d5-d523b19a7f84)
+
+* Answer -> 8. [3]
+
+![image](https://github.com/user-attachments/assets/91265471-d6eb-41d0-ae48-ac2288fb49fa)
+
+* In this type of cases, the lines are parallel to each other -> **No Solution**.
+
+![image](https://github.com/user-attachments/assets/f844fba7-bc92-4d3f-909e-2264754adabc)
+
+* [Formula] [Concept]
+* Solution to a system of equations, called as **consistent(C)** system of equations otherwise called as **inconsistent(I)**.
+
+![image](https://github.com/user-attachments/assets/b0917fbd-68c0-4ca4-9671-dea3e555e628)
+![image](https://github.com/user-attachments/assets/c1e73183-a510-4d4d-a3e4-0e8d22386b28)
+
+* Dependent system of equations -> One equation is dependent on the other equation.
+* Otherwise they are called as **independent system of equations**.
+* 1st consistent -> then independent or dependent.
+* [Formula] [Concept] [4]
+
+![image](https://github.com/user-attachments/assets/82e6855d-391a-4a35-b6bf-28b58bbe6c22)
+
+* Method **1**.
+
+* x = 2,4 -> Critical points after differentiation.
+
+![image](https://github.com/user-attachments/assets/67979503-4daa-48f0-b9e1-13188da11922)
+![image](https://github.com/user-attachments/assets/7f7778fd-c14b-468c-b21e-06221e53353f)
+
+* Method **2**. [5]
+
+![image](https://github.com/user-attachments/assets/cc6da220-e61d-4dc0-9d7c-4c96a6a6c884)
+![image](https://github.com/user-attachments/assets/c77d1371-788b-4a22-8d33-1106625862e2)
+
+* [6].
+
+![image](https://github.com/user-attachments/assets/10aca0bb-5e5b-4ff3-b9b6-6cb97fbac126)
+
+* [7].
+
+![image](https://github.com/user-attachments/assets/5033b88f-6b9e-4772-9db3-63de0559a8f2)
+
+* 'x' cannot be '3'. [8].
+
+![image](https://github.com/user-attachments/assets/17717bc9-a948-468a-8fcb-63d66ef14d54)
+
+* [9].
+
+![image](https://github.com/user-attachments/assets/1717abc0-8967-4651-961e-0ea957b9a715)
+![image](https://github.com/user-attachments/assets/343791ed-450b-4aa9-8caf-ee91a39e2089)
+![image](https://github.com/user-attachments/assets/569dfc58-4b13-45cf-8c98-13cebcfce8ad)
+
+* Other options are not satisfying.
+* Option **B**. [10]
+* Method **1** using options.
+
+![image](https://github.com/user-attachments/assets/0262f0bd-d931-4b6e-a40f-a8a894c14b73)
+![image](https://github.com/user-attachments/assets/8df5e0bb-3f2d-4f4e-9c3b-45a0d85a4e0a)
+
+* Method **2**.
 
 
 
