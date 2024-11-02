@@ -2863,6 +2863,94 @@
 
 * Method **2**.
 
+![image](https://github.com/user-attachments/assets/09b7dfa7-1bb7-4832-85cd-d65b1bcdaeec)
+![image](https://github.com/user-attachments/assets/16078d3f-ba84-40dd-a6c0-22a63a5acdbc)
+![image](https://github.com/user-attachments/assets/ac6f3b7b-2f03-4356-9cea-a8dc7c15270e)
+![image](https://github.com/user-attachments/assets/ab10f2fe-bf77-42b7-bfe5-a7339f837af0)
+![image](https://github.com/user-attachments/assets/aed914a5-bb02-4181-a9b5-d4b005a57ea1)
+![image](https://github.com/user-attachments/assets/94d1c965-269d-4a8e-91d6-a29f10714fd4)
+
+* There will be exactly '12' values of 'k' for which the equation, 5x + 7y = k, will have no solution.
+* Coprime -> no factors are **common**. [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/05e2c17f-ed72-491a-8083-b8d93d2360cd)
+
+* '35' values of 'k' are not possible.
+
+![image](https://github.com/user-attachments/assets/6c669ee2-822a-4555-ac41-535e6417bc82)
+![image](https://github.com/user-attachments/assets/53afe6b1-c7d7-41b9-b4af-66274a5293f7)
+![image](https://github.com/user-attachments/assets/0f6e7330-2f4d-47de-831e-33fd360bb7a1)
+
+* a = 11, b = 8. [Answer] [11]
+
+![image](https://github.com/user-attachments/assets/7a57b97c-2abf-4318-9ff8-cdc8339b20a4)
+![image](https://github.com/user-attachments/assets/bba1a8d9-f419-41e5-8d58-af98f2214e8d)
+
+* [12]
+
+![image](https://github.com/user-attachments/assets/d8deb43c-7dd9-4946-8f55-65b7df1d11c3)
+![image](https://github.com/user-attachments/assets/3b7dc52d-c486-4f56-8f2f-dccfea2d120a)
+
+* [13]
+
+![image](https://github.com/user-attachments/assets/00602254-f598-43e3-9d17-5739f4590745)
+
+* [14]
+
+![image](https://github.com/user-attachments/assets/b544d860-521e-4a53-8fd8-ff968105f471)
+![image](https://github.com/user-attachments/assets/e5a08e04-9923-49ac-9ca8-f5fbbd050e64)
+
+* [15]
+
+![image](https://github.com/user-attachments/assets/74c0d1f9-ff20-4cf4-96cc-7a3ca0b31afd)
+![image](https://github.com/user-attachments/assets/6ae84f7d-a0ab-4931-857b-67fb4b2bdc75)
+
+* [16]
+
+![image](https://github.com/user-attachments/assets/0d0b90fa-2533-47f0-89ea-bef203aa1816)
+![image](https://github.com/user-attachments/assets/2fd24f0c-7719-4d2c-a1a5-f125da8701ad)
+![image](https://github.com/user-attachments/assets/8f6ac5a1-9d70-49df-aa15-ce4a86417b75)
+
+* 43 - (16 + 5) -> 43 - 21 -> 22.  
+
+![image](https://github.com/user-attachments/assets/c5f1c0c0-a091-4213-a6fd-cd8c4b5f60d0)
+![image](https://github.com/user-attachments/assets/edacc622-b0cf-49d5-b873-c5cf8dc53346)
+
+* [17]
+
+![image](https://github.com/user-attachments/assets/367727e9-7dbc-49e3-b30f-4f20a041a768)
+
+* [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/d13fd9ff-6cc9-49cc-8493-d941895c35c0)
+![image](https://github.com/user-attachments/assets/9fcf82a2-9b8c-4a2a-8ce8-aeb1aa7118f0)
+
+* [18]
+
+![image](https://github.com/user-attachments/assets/e8cc888f-6b2d-4c8d-87f4-cb49bb069530)
+![image](https://github.com/user-attachments/assets/294595e5-32b5-4673-8043-e90573f2fbd2)
+![image](https://github.com/user-attachments/assets/84ae8658-6a69-4b66-bc1d-1cd10af82cb7)
+![image](https://github.com/user-attachments/assets/d5c0c26b-9a3c-465d-9b53-5254ea285f3c)
+![image](https://github.com/user-attachments/assets/5bdfb1bd-bcd1-4b6d-8ea0-ab45e34a7fcf)
+![image](https://github.com/user-attachments/assets/b4a8cc6a-8523-423a-b049-5856ee18e683)
+
+* [19]
+* 100 paisa = 1 rupees.
+
+![image](https://github.com/user-attachments/assets/f315f15f-c800-4c24-86b7-88cf6160ebc3)
+![image](https://github.com/user-attachments/assets/ba85019d-09f6-4671-a654-1f14176f42e2)
+![image](https://github.com/user-attachments/assets/3fc77529-7bcb-4c34-90d8-dbe4476d3b15)
+
+* If left hand side is multiple of some no. then the right hand side has to be a multiple of that same number. [Formula] [Concept]
+* Option **D**. [20]
+
+![image](https://github.com/user-attachments/assets/0326add6-1131-46fb-9e2b-b768e4bfe5a7)
+![image](https://github.com/user-attachments/assets/4aae8274-c4e0-416b-9a0b-a7a2f452eb0a)
+
+* [8] [Correction]
+
+
+
 
 
 
