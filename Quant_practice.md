@@ -2731,14 +2731,23 @@
 ![image](https://github.com/user-attachments/assets/d7faeeb4-5efa-4a7b-8369-e6955363a045)
 ![image](https://github.com/user-attachments/assets/fc544aae-fc7d-41ec-b2c3-43f2a660616c)
 ![image](https://github.com/user-attachments/assets/48b268a8-83d9-47d0-bb7e-a0005c9e4112)
+![image](https://github.com/user-attachments/assets/9eabcadf-d020-4a9e-8548-9a857873fe48)
+![image](https://github.com/user-attachments/assets/6be9b044-2ac5-4599-9f8f-bf28c8b178ed)
 
+* We are talking about '1hr'.
+* 4km/4km/hr -> 1hr.
+* 3km/3km/hr -> 1hr.
+* 1 + 1 -> 2hrs. [Answer]
 
+![image](https://github.com/user-attachments/assets/1cb2185c-1ffb-452b-abca-d6ee2a54222d)
+![image](https://github.com/user-attachments/assets/0e67bf4e-21da-4585-941e-57c7f79cb4b8)
+![image](https://github.com/user-attachments/assets/34f81db9-bbfc-4b84-83b8-da0cfe282b27)
 
+* least -> minimize.
+* '16' min. in each section. 
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/65c28e5b-7717-4a04-a290-7c946034e16c)
+![image](https://github.com/user-attachments/assets/cecad7e9-33ae-442d-8c29-c621b1fe27dd)
 
 
 
