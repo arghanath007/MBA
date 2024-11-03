@@ -2748,6 +2748,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Revision Practice Questions
 
 ![image](https://github.com/user-attachments/assets/d96cea39-5de0-4c68-8e11-d4de46b5dc58)
@@ -2949,6 +2977,131 @@
 
 * [8] [Correction]
 
+* x = 0, 1 -> Not possible because of denominators.
+
+![image](https://github.com/user-attachments/assets/97cb689b-db91-4559-8e3d-0c7625fa7574)
+
+* [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/3c7be9db-1a95-41d4-9482-cdbbd9bbc17c)
+
+* [21]
+
+![image](https://github.com/user-attachments/assets/8f71abb3-db41-45bf-a79b-56aa307d1640)
+![image](https://github.com/user-attachments/assets/5e644da6-1943-4218-a0a0-8041f8cb0d40)
+![image](https://github.com/user-attachments/assets/acd838e2-973f-4c8b-a716-1aaa76afec2b)
+![image](https://github.com/user-attachments/assets/8e1f0444-c8b7-4636-95bc-d0d9106fab59)
+![image](https://github.com/user-attachments/assets/f570d2bf-80a3-4cd3-a610-af41464d43b8)
+
+* [22]
+
+![image](https://github.com/user-attachments/assets/b5c6147d-f9d6-421f-9ab5-4d38c3f83297)
+![image](https://github.com/user-attachments/assets/441d75aa-38d0-4ae9-a0fb-a024a471f87a)
+![image](https://github.com/user-attachments/assets/118215e5-c9ec-472e-b24e-ea2aa447c357)
+
+* [23]
+
+![image](https://github.com/user-attachments/assets/f396f341-6540-4e58-a8e5-fb2cfc55b087)
+![image](https://github.com/user-attachments/assets/ea4c7d49-34cf-4f13-af01-f9700aa3ae0a)
+![image](https://github.com/user-attachments/assets/8d2c2f00-7c5e-4236-b387-5252cbbc8b37)
+![image](https://github.com/user-attachments/assets/9374de7f-e39c-4d7e-90ed-4377339d489f)
+
+* Answer -> 6. [24]
+
+![image](https://github.com/user-attachments/assets/772e2805-9400-4710-97f8-700ac604dbb2)
+![image](https://github.com/user-attachments/assets/7e3281f8-a680-497c-843c-a0af4379b9dd)
+
+* For 'y' to be an integer, '2x - 5' has to be a factor of '6'. [25]
+
+![image](https://github.com/user-attachments/assets/3e0d331a-ca02-49be-9cb1-ddbf168f6aff)
+
+* Concept -> The diagonals of a parallelogram dissect each other. [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/11ebd511-d05c-4030-b56b-24eebc28dc43)
+![image](https://github.com/user-attachments/assets/7d4a9487-9211-4df7-80b0-efcf8eac7619)
+
+* [26]
+
+![image](https://github.com/user-attachments/assets/18af8dc9-0a82-4a1e-9ee0-d99956bddf30)
+![image](https://github.com/user-attachments/assets/bc193106-ba4e-4b6e-8009-f929ffebe501)
+![image](https://github.com/user-attachments/assets/2b22cc38-fdc2-46f3-a112-8d1f9fde3208)
+![image](https://github.com/user-attachments/assets/1e0ffbcc-d77a-4334-84c9-ff26a938f045)
+![image](https://github.com/user-attachments/assets/3370a2ca-8ced-4d68-82a3-81bfafe123b1)
+
+* length of square -> 4
+* Area  of square -> 4 ^ 2 -> 16.
+
+![image](https://github.com/user-attachments/assets/6e66d8d3-c13e-41da-8f1a-7638610e374d)
+
+* [27]
+
+![image](https://github.com/user-attachments/assets/264d2dd1-370a-4e64-83d2-6586307bfb26)
+
+* [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/35206ed6-8668-434c-b157-39e83af0342d)
+![image](https://github.com/user-attachments/assets/3040f463-b766-4886-995c-56cdc868f256)
+
+* 2 cases because of modulus.
+* Area of triangle -> 1/2 * l * b. [Formula] [Concept]
+* We have '2' triangles that's why '2' multiplied with Area of triangle. [28]
+
+![image](https://github.com/user-attachments/assets/e026822f-486a-4b7e-ba6d-eed9453b2db0)
+
+* White line.
+* y = 0 -> x = 3.
+* x = 0 -> y = -3.
+
+![image](https://github.com/user-attachments/assets/2cf98d31-a80c-4078-8edd-e6400d849dca)
+
+* Pink line.
+* x = 0 -> y = 5.
+* y = 0 -> x = 5.
+
+![image](https://github.com/user-attachments/assets/3a143e70-a31e-438e-acb0-a19ec255f052)
+
+* To the left of the point of **intersection**, **Pink graph** is **above**.
+* To the right of the point of **intersection**, **white graph** is **above**.
+
+![image](https://github.com/user-attachments/assets/72c58414-1743-4066-ace4-6f1ac5ad75e6)
+![image](https://github.com/user-attachments/assets/41f8f130-214a-44fa-ba6b-544ab855ebcc)
+![image](https://github.com/user-attachments/assets/5d3fc4f6-7449-41d0-9632-afb9701999b1)
+
+* 'y' min. is at 'x = 4'.
+* [Formula] [Concept]
+
+![image](https://github.com/user-attachments/assets/13fd4cb0-bed2-4334-81d7-e47d60e55f4f)
+![image](https://github.com/user-attachments/assets/95b030eb-a55c-4835-ab29-b7e5e2632655)
+![image](https://github.com/user-attachments/assets/234c04da-4dc5-49b3-9ddd-db348c1c5393)
+![image](https://github.com/user-attachments/assets/46a2e4c3-094b-408b-b2f8-1be3d1584451)
+
+* Min -> Take the graph which is below the point of **intersection**. [Formula] [Concept]
+* Max -> Take the graph which is above the point of **intersection**. [Formula] [Concept]
+* [29]
+
+![image](https://github.com/user-attachments/assets/ac9fdd33-3db0-43ee-a8be-4738a3861f68)
+
+* [30]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2965,6 +3118,12 @@
 # Important
 
 ![image](https://github.com/user-attachments/assets/966ff721-2357-48c8-8934-4fbca31859ab)
+![image](https://github.com/user-attachments/assets/f67c45f9-7034-4638-9dd6-d0f5c50a19f0)
+![image](https://github.com/user-attachments/assets/9925cf22-3094-48c5-abc2-0f6fff3d0fef)
+![image](https://github.com/user-attachments/assets/290939e6-fde1-49fc-be77-442a50904e31)
+![image](https://github.com/user-attachments/assets/baa51566-7bff-4176-b971-84a074875a5a)
+![image](https://github.com/user-attachments/assets/c6278c7f-aaee-4e91-891a-798d5f5e6650)
+![image](https://github.com/user-attachments/assets/a14c4bda-ccd4-44ed-8148-036c5f29cf05)
 
 
 ## Misc
