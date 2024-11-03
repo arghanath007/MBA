@@ -2748,14 +2748,30 @@
 
 ![image](https://github.com/user-attachments/assets/65c28e5b-7717-4a04-a290-7c946034e16c)
 ![image](https://github.com/user-attachments/assets/cecad7e9-33ae-442d-8c29-c621b1fe27dd)
+![image](https://github.com/user-attachments/assets/d93d31df-2bf7-4eea-812f-1ddce1f82e32)
+
+* 2880 - 1200 -> 1680.
+* 1680 -> 1200 + 480.
+* Extra -> 480.
+
+![image](https://github.com/user-attachments/assets/f0e98f46-ad41-4b70-bbc6-d7fb846a5d36)
+![image](https://github.com/user-attachments/assets/3902aedf-3598-4fb6-af57-a5e54bd0b308)
+
+* 1200 = 40x/100 -> 120000 = 40x -> x = 3000.
+
+![image](https://github.com/user-attachments/assets/e5abcb7e-f2d4-4b3f-9cbc-3693c324763d)
+![image](https://github.com/user-attachments/assets/59c292c2-6bf5-428b-a72a-366f3405f0fc)
+
+* 1.2x = 3000
+* x = 2500.
+* 20 covers initially -> '2' covers removed -> last cover of 1st book and last cover of last book -> 18 covers.
+* 18 covers -> 9 * 2 -> 9 * 5 -> 45mins.
+
+![image](https://github.com/user-attachments/assets/091e9258-d316-491d-8404-9df40d5a61cc)
+![image](https://github.com/user-attachments/assets/2024469b-ce82-4721-8a10-24527b81b19b)
 
 
-
-
-
-
-
-
+* 1hr 44mins left.
 
 
 
