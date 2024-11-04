@@ -6430,6 +6430,11 @@ For 1st person, 'Y and B' are together.
 * B -> 5 * 3 + 6 + 6/2 -> 27/23 -> Maximum.
 * Answer -> 18. [5] [Answer]
 
+![image](https://github.com/user-attachments/assets/f588bb1f-32f1-421f-b017-f0d38f10c5b8)
+![image](https://github.com/user-attachments/assets/8f532833-4a13-4403-a712-7974850de452)
+![image](https://github.com/user-attachments/assets/abf6412b-e07d-42c8-b716-994eb3f7bbfb)
+![image](https://github.com/user-attachments/assets/dd98c693-7fd7-48d0-9b57-53d95828332d)
+![image](https://github.com/user-attachments/assets/21b1b3d2-fcce-411f-97de-a176d3ef9601)
 
 
 
