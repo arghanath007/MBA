@@ -2769,26 +2769,57 @@
 
 ![image](https://github.com/user-attachments/assets/091e9258-d316-491d-8404-9df40d5a61cc)
 ![image](https://github.com/user-attachments/assets/2024469b-ce82-4721-8a10-24527b81b19b)
+![image](https://github.com/user-attachments/assets/77252b3c-2996-4f03-9aa7-faab06f37e92)
 
+* 6 km/hr -> 6km in 1hr -> 1km in 10mins
+* 13mins -> 1.3km.
+* Alok covered 'd - 1.3km'.
+* 'A' traveled for -> 25 - 5.30mins -> 19.5mins.
 
-* 1hr 44mins left.
+![image](https://github.com/user-attachments/assets/fa8ba8d6-52ef-47fc-8f11-5879690d113d)
+![image](https://github.com/user-attachments/assets/035f8f30-3a5a-41c7-9d03-1cc5216674b4)
+![image](https://github.com/user-attachments/assets/4f64b8dc-6713-42e4-ac55-d606c358c839)
+![image](https://github.com/user-attachments/assets/d4c9b416-1f1a-49fd-8b2b-3de38a5ccb97)
+![image](https://github.com/user-attachments/assets/ef095fb0-874b-4a9d-a916-d2ada03c3c82)
+![image](https://github.com/user-attachments/assets/55587f10-bfeb-481c-98de-3fdf80fb75c2)
 
+* We have to maximize.
 
+![image](https://github.com/user-attachments/assets/e46d0e4c-0caa-4b8a-bc01-e4753547a8db)
 
+* d -> '1' full rotation.
+* 'm' hand faster than 'h' hand.
 
+![image](https://github.com/user-attachments/assets/73e1b0f7-a500-4bff-ad23-f322b7c11873)
+![image](https://github.com/user-attachments/assets/05ca990f-6c8a-481b-95c5-7596915f081d)
+![image](https://github.com/user-attachments/assets/530d262b-3c2f-4d5e-a4e5-175b55c1764c)
 
+* 'm and h' will meet '4' times when 'h' completes '1' rotation.
 
+![image](https://github.com/user-attachments/assets/b5f7ec2f-4425-4db0-a5c0-c665cb7ce642)
+![image](https://github.com/user-attachments/assets/f7190c4e-2bc0-4fb7-9007-dd1d0002dc25)
+![image](https://github.com/user-attachments/assets/1e0cc76e-f7a7-423f-adad-efe84f0e11a5)
+![image](https://github.com/user-attachments/assets/25a1440a-10ba-490a-84ec-f7f348995fc3)
+![image](https://github.com/user-attachments/assets/5c4a1d36-20b7-4277-91ca-5e23d29437c4)
 
+* Eldest -> y.
 
+![image](https://github.com/user-attachments/assets/2a5821d5-3378-4bc8-b84b-de2ce1870661)
+![image](https://github.com/user-attachments/assets/8df36f37-5b86-4b37-9dec-c76ecb5c838b)
 
+* Take all of them as 'p' only.
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/a7951362-f2ab-402a-8f33-ac094b3ff0ee)
+![image](https://github.com/user-attachments/assets/a0f805d1-692d-497c-b67d-44fbe0583ccb)
+![image](https://github.com/user-attachments/assets/c26b1ad9-c25d-4601-b7ce-af34b9fb3670)
+![image](https://github.com/user-attachments/assets/6b247650-790e-4ece-8b6a-83b40b73c93f)
+![image](https://github.com/user-attachments/assets/efad504f-f121-4dc6-98e8-88219358aaff)
+![image](https://github.com/user-attachments/assets/417c45d9-d422-4932-ae2d-f64deafda1f4)
+![image](https://github.com/user-attachments/assets/33509535-1f75-4dd0-9343-3ac9b85776ab)
+![image](https://github.com/user-attachments/assets/30b3b45a-802c-4bd5-9b38-9daf5bb0eaf6)
+![image](https://github.com/user-attachments/assets/d22c5332-802d-494a-9281-8d89fd0a18a1)
+![image](https://github.com/user-attachments/assets/b5cc477c-8695-46eb-b180-08a1e5f84875)
+![image](https://github.com/user-attachments/assets/743825d8-80af-496f-8fdb-bee3c517aeaa)
 
 
 
