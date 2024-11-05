@@ -884,6 +884,140 @@
 
 * Ans -> 4. VA-8.
 
+![image](https://github.com/user-attachments/assets/3bf975ea-5953-4d0a-8f94-c8c100ef7c94)
+![image](https://github.com/user-attachments/assets/eb3b8f37-da53-42b0-8f69-f5f2087e1449)
+![image](https://github.com/user-attachments/assets/1f2af6d4-4ed3-42a9-ba8e-1f4aaafc305b)
+![image](https://github.com/user-attachments/assets/97103020-bfdd-448d-b6b3-e9497621ce25)
+
+* RC-1.
+
+![image](https://github.com/user-attachments/assets/f11eb07e-9ba2-47a5-9a54-d1a5d8696e05)
+![image](https://github.com/user-attachments/assets/b567d6a9-4636-4322-9cc8-15d3bc9b11b1)
+![image](https://github.com/user-attachments/assets/41563957-53ba-46da-a61c-c2f6695426a7)
+![image](https://github.com/user-attachments/assets/22a99bb5-12c8-4157-9439-5f933c5565aa)
+![image](https://github.com/user-attachments/assets/59608fe2-4240-438f-8b55-a1dcab311a7a)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/17d130f2-d913-4258-a28c-5fda8e41aa57)
+![image](https://github.com/user-attachments/assets/99bd14fa-434f-4f5c-83df-fef5ba887ec8)
+![image](https://github.com/user-attachments/assets/1b6c0957-ffff-4404-85bf-f6d5580afd11)
+
+* RC-2.
+
+![image](https://github.com/user-attachments/assets/28559c25-fc71-402c-8846-deed1015e45c)
+![image](https://github.com/user-attachments/assets/fddf7110-4c43-4755-8b8e-07d6627c66f3)
+![image](https://github.com/user-attachments/assets/5977aca6-8363-4dd8-9c6b-be4547e01aa3)
+![image](https://github.com/user-attachments/assets/51cd42f6-8880-4ff1-9547-64e740762a2b)
+
+* ANswers.
+
+![image](https://github.com/user-attachments/assets/c94ce11f-22ac-4ec3-88dc-ce15b41fcfa6)
+![image](https://github.com/user-attachments/assets/9a79e55d-60a4-4fdb-8a6b-6fe2373b05ca)
+
+* RC-3.
+
+![image](https://github.com/user-attachments/assets/34887b55-566f-46b0-a84f-2adac35dc32c)
+![image](https://github.com/user-attachments/assets/46d9e42b-bf0c-46dc-9a7a-8fdb142b31eb)
+![image](https://github.com/user-attachments/assets/6b4c1525-5f70-42a0-91c6-33dc77d41ae1)
+![image](https://github.com/user-attachments/assets/e8b23b59-76d3-4e13-80a5-6f0bda7a7d37)
+![image](https://github.com/user-attachments/assets/124f4d4c-96ad-4a65-8464-fb7ad7177d1d)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/49b42a5a-0a6a-4cd0-afb9-c560e1022dfb)
+![image](https://github.com/user-attachments/assets/8514da76-ff02-4091-bfcd-0ae76df66fff)
+![image](https://github.com/user-attachments/assets/8a5fd36f-8406-48f0-b64b-292e0936970d)
+
+* RC-4.
+
+![image](https://github.com/user-attachments/assets/8c28da0d-1b22-4d92-9aaa-10b0257f0755)
+![image](https://github.com/user-attachments/assets/db32a425-4dc3-447a-8efb-880b5128b9a7)
+![image](https://github.com/user-attachments/assets/f3bc2be8-d5a1-47f0-b1d1-2ae3551cc166)
+![image](https://github.com/user-attachments/assets/a9d8d2b9-06cc-46c6-be0b-64d4b1668f44)
+![image](https://github.com/user-attachments/assets/76d5ce21-e5f4-40a6-9b78-f673bebe87a5)
+
+* Invalidate -> Too strict word.
+
+![image](https://github.com/user-attachments/assets/afcc54cf-2c86-4909-902a-c145b2b5800f)
+
+* VA-1. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/049736d5-819f-46a7-9ab1-8bd7ddc16c56)
+
+* VA-2. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2c3035dd-68e2-4f56-a72a-178ae529a4fa)
+
+* VA-3. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/08b292db-6abb-428b-94d1-194da9bfe108)
+
+* VA-4. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/100a70b3-15f8-4e89-82ed-25fb3d1e443d)
+
+* VA-5. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/16807557-8991-40e9-91ef-ea091470909f)
+
+* VA-6. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/40dee984-5309-4d42-8f01-8ca807496858)
+
+* VA-7. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9dcd7290-fea7-43c7-a017-2b79a04615c3)
+![image](https://github.com/user-attachments/assets/5b28aaf3-e565-4c0a-ae4e-07180a1e21c1)
+
+* VA-8. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
