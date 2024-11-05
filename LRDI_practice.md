@@ -1,4 +1,4 @@
-# LRDI practice
+![image](https://github.com/user-attachments/assets/1011dc12-f9a8-49bc-b48b-b9137978caf2)![image](https://github.com/user-attachments/assets/2b1b4f89-d9a6-405f-8ea8-0eaa041ebab2)# LRDI practice
 
 ## IMPORTANT
 
@@ -6435,6 +6435,171 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/abf6412b-e07d-42c8-b716-994eb3f7bbfb)
 ![image](https://github.com/user-attachments/assets/dd98c693-7fd7-48d0-9b57-53d95828332d)
 ![image](https://github.com/user-attachments/assets/21b1b3d2-fcce-411f-97de-a176d3ef9601)
+![image](https://github.com/user-attachments/assets/cd9a41c2-6278-4302-900d-a939524f1985)
+![image](https://github.com/user-attachments/assets/bbae45d3-d037-4858-9048-0f9fa2c6a4a3)
+![image](https://github.com/user-attachments/assets/9c67d545-7d9c-4e56-be71-5cfaca395324)
+![image](https://github.com/user-attachments/assets/df2b51ab-d461-4891-aa27-91a18f9e6641)
+![image](https://github.com/user-attachments/assets/fbc2ac7e-98a6-4859-a795-c064b1388b8b)
+
+* 'Bihar' cannot have '3 + 2' because this means that 'Bihar' participants were features in the top '3' in '2' consecutive years. It is done by rajasthan only.
+* 'Bihar' -> 5 + 0 -> 0 + 5.
+
+![image](https://github.com/user-attachments/assets/40b22079-8348-4cb7-881d-9f22bb45d717)
+![image](https://github.com/user-attachments/assets/b72bc71b-22f7-425f-b2e8-32688ce3fe19)
+![image](https://github.com/user-attachments/assets/2bbcc068-6db3-406e-adbb-1002076f88aa)
+
+* 'Gujrat' cannot have '5-3-0' or '3-5-0' because that is done by rajasthan only.
+* 2011 already has 1st position for '5L'. So '5-0-3' is not possible.
+
+![image](https://github.com/user-attachments/assets/5e36612a-94b9-4853-9086-322b73dd424d)
+![image](https://github.com/user-attachments/assets/f5f7bd95-cf70-483c-b3d0-cc930c28f321)
+![image](https://github.com/user-attachments/assets/533baa8f-1e4d-4a58-9591-bb653bec7c51)
+
+* 'MP' is having many cases so we will hold it for now.
+
+![image](https://github.com/user-attachments/assets/a6a50660-893a-428e-925f-ca720f261d41)
+![image](https://github.com/user-attachments/assets/acb33865-66f6-4c55-8b07-39234293d930)
+![image](https://github.com/user-attachments/assets/17ea81ab-c9cc-49be-8c0b-33d63c7dd370)
+![image](https://github.com/user-attachments/assets/e2d4ef71-3cb2-4b20-8dab-ae1c8657883e)
+![image](https://github.com/user-attachments/assets/8640eaac-2692-45d5-aa3d-ea94240907e1)
+![image](https://github.com/user-attachments/assets/b7c80b59-db9e-444f-8a25-455710f8146b)
+
+* Only '0' was left in '2011' so 'karnataka' took '0' in '2011'.
+
+![image](https://github.com/user-attachments/assets/3cf33895-041f-4436-a5bd-e1ffcb6d6ae2)
+
+* 'Maharashtra' in '2013' is '0' for sure.
+
+![image](https://github.com/user-attachments/assets/4c6856b9-6319-4730-b648-940de940fdb4)
+![image](https://github.com/user-attachments/assets/2a17ae73-081a-457d-b146-2bae3eb353c8)
+
+* 'Punjab' in '2014' is '0' for sure.
+
+![image](https://github.com/user-attachments/assets/0509b67a-eaa8-421b-b61f-fb37406a6a0e)
+![image](https://github.com/user-attachments/assets/c065bcef-6d9a-4c44-9cba-20fce2e0b55e)
+![image](https://github.com/user-attachments/assets/c06b5314-8454-48de-ac03-1bb3b66fed11)
+![image](https://github.com/user-attachments/assets/725e3560-1652-4b78-85da-8efa814f3f2a)
+
+* '2014' is left with '3L' only. So 'Maharashtra' in '2014' is '3L'.
+
+![image](https://github.com/user-attachments/assets/81dcc68f-b0be-4672-b8a6-985d4532373c)
+
+* 'MP and Punjap' in '2013 and 2015' can shuffle amongst them.
+
+![image](https://github.com/user-attachments/assets/dc1315e5-cd3a-4081-8703-abbca219f7bb)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/fdc6d3b5-0251-411f-963b-3774d9fa29d3)
+![image](https://github.com/user-attachments/assets/9c581b84-4d24-4c1d-80b8-7a322f40d67e)
+![image](https://github.com/user-attachments/assets/e7a558fe-a3de-4914-afc6-6325cab9d397)
+![image](https://github.com/user-attachments/assets/b4ed2bdf-e6d6-40a2-9032-d2b716c354bd)
+![image](https://github.com/user-attachments/assets/472c7835-7585-4668-b10d-a395178894cb)
+
+* We are trying to do the extreme cases first.
+
+![image](https://github.com/user-attachments/assets/58c90e88-5668-4e83-8509-19376f0e5795)
+
+* We have already played '1' match against 'CC'. We cannot play another.
+
+![image](https://github.com/user-attachments/assets/eb87fcb2-cfa5-4343-80b8-51cc2cd46068)
+![image](https://github.com/user-attachments/assets/4e94adb8-9935-4985-afab-d18772e5c543)
+
+* 'AA' cannot win with '0' goals.
+* '0' goals will come in draw.
+
+![image](https://github.com/user-attachments/assets/76765409-bf90-430d-853e-4be8c3c32582)
+![image](https://github.com/user-attachments/assets/092c4ac1-e51c-40f6-992a-707a5f52af2d)
+![image](https://github.com/user-attachments/assets/17e74c8f-788a-4aee-b66d-dc828f31c1c5)
+
+* 'BB' have already played '1' match against 'CC'. We cannot play another. So '6' in 'CC' is not possible.
+
+![image](https://github.com/user-attachments/assets/9a422fe9-45b7-4801-873b-da2f9f948e4b)
+![image](https://github.com/user-attachments/assets/e216bca9-8ceb-423c-a8c2-a500252446ec)
+![image](https://github.com/user-attachments/assets/e406fd73-b4ae-48b7-945e-1cb3390f2e95)
+![image](https://github.com/user-attachments/assets/22880960-a3f7-4e91-84a4-fd8b22c6c615)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/91a9d389-c00f-4c5f-82b9-914edd2fd3da)
+![image](https://github.com/user-attachments/assets/a1e09c7e-ecb1-48e4-96d9-9dd1b47dae52)
+![image](https://github.com/user-attachments/assets/dd314149-fa18-4a8e-826d-5c3e12c706d9)
+![image](https://github.com/user-attachments/assets/849cb8a6-b74a-4aba-b9a0-3310c4d383d8)
+
+* x + 2x -> 3x.
+* Don't limit it for now.
+
+![image](https://github.com/user-attachments/assets/9130c6b0-357f-430c-8b14-a8218b785aff)
+
+* Total shouldn't have unique values.
+
+![image](https://github.com/user-attachments/assets/b14a6189-c992-438d-84d2-0016349232af)
+![image](https://github.com/user-attachments/assets/5e02368f-16f0-4fc9-bdc4-12235b5ac327)
+
+* Range is from '12 to 19'.
+
+![image](https://github.com/user-attachments/assets/3fb69353-08ae-4634-82b3-85b737e37ec4)
+![image](https://github.com/user-attachments/assets/60b688fe-cb4a-4a6e-a783-6aa8c069da7d)
+
+* '13' combo is not possible.
+* Next combo -> 3 + 4 + 7 -> 14.
+* We got unique in '14' but we don't want unique. So it is not possible.
+* We got unique in '15' but we don't want unique. So it is not possible.
+
+![image](https://github.com/user-attachments/assets/24139345-45dd-4263-9c28-979085172f48)
+![image](https://github.com/user-attachments/assets/d9f8559f-b009-4aa4-a499-1a03f226cc1e)
+
+* We are getting different combos but we are still able to uniquely state the value of 'A' which is '3'. So it is not possible.
+
+![image](https://github.com/user-attachments/assets/d445f1c3-e57c-4f5c-a10e-ced253fe4541)
+![image](https://github.com/user-attachments/assets/b6623275-9c23-415e-8bf0-649eaa3a7382)
+
+* We are getting different combos but we are still able to uniquely state the value of 'A' which is '6'. So it is not possible.
+
+![image](https://github.com/user-attachments/assets/9dfe1c52-55d9-4a78-b1b2-f2ca223aa9dd)
+![image](https://github.com/user-attachments/assets/8b6b7505-2eef-4c2b-a1e9-17302916acef)
+
+* B > 5 -> B = 8 case -> C = 7 -> 2 + 5 -> Girls in 'C' -> 2. [2]
+
+![image](https://github.com/user-attachments/assets/f8acfc8c-3d93-4213-a323-46c91431c2da)
+![image](https://github.com/user-attachments/assets/5d0a48c3-9445-4d18-952b-92916e868fda)
+
+* [3]
+
+![image](https://github.com/user-attachments/assets/918db546-2e33-459b-8f36-55d393dec06b)
+![image](https://github.com/user-attachments/assets/bfd63563-09e2-40fd-b7b3-c7ad92293862)
+
+* [4]
+
+![image](https://github.com/user-attachments/assets/e04425a6-a459-4810-af31-622bd4dadf20)
+
+* Answers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
