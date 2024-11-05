@@ -743,6 +743,154 @@
 
 
 
+## Practice (Sectionals)
+
+![image](https://github.com/user-attachments/assets/d3aebdd7-b2ef-4937-9a41-5fc275aed0cf)
+![image](https://github.com/user-attachments/assets/50723974-cc74-4771-b1b4-c291003e3987)
+
+* Theology -> Study of gods.
+* Latengy -> Growth.
+* RC-1.
+
+![image](https://github.com/user-attachments/assets/9d382b79-f4ed-4e4b-9b7f-1cfcc0325b89)
+![image](https://github.com/user-attachments/assets/8d283296-11fc-4e23-ab6c-311a46257025)
+![image](https://github.com/user-attachments/assets/dfa40c9d-1dfc-44d5-8f47-8bcdfc5f8d45)
+![image](https://github.com/user-attachments/assets/82964951-f5f7-4634-9a32-33ec28a0dd18)
+
+* Fails -> Except question.
+* Option **4(D)**.
+
+![image](https://github.com/user-attachments/assets/7475ea24-b288-4f8e-8434-e89d268e98b8)
+![image](https://github.com/user-attachments/assets/c715bc77-2bd6-4092-969b-961457da991c)
+![image](https://github.com/user-attachments/assets/45ec1f57-3f7a-4150-80b3-f1bbe1458812)
+
+* Option **2**.
+
+![image](https://github.com/user-attachments/assets/bacec208-de01-4e99-b73e-939795941674)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/a81a6475-f460-4ec8-85ad-4af9333254c9)
+![image](https://github.com/user-attachments/assets/601bb0b6-c300-42b7-972f-531d02400281)
+
+* Option **B**.
+* Pervasive -> spreading or spread throughout. [Meaning]
+* RC-2.
+
+![image](https://github.com/user-attachments/assets/4fab835f-1b56-42da-a0c1-ae5eda238fc7)
+![image](https://github.com/user-attachments/assets/895c5fab-75c4-4ce1-8a21-79129363f90e)
+![image](https://github.com/user-attachments/assets/ef4cb3a4-afac-4fe9-b230-fd89168cbd17)
+![image](https://github.com/user-attachments/assets/52eb53fb-547d-460c-b28c-ceb3ecf8788e)
+![image](https://github.com/user-attachments/assets/072516c3-99ec-486d-8644-2c2b42ae62f0)
+![image](https://github.com/user-attachments/assets/e798a5aa-cecf-41f0-a477-f344512f9bed)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/bb57dc89-1aab-485e-931a-a4e4a2691ca4)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/a97acc02-f78c-4c94-94fb-8d881e98081e)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/d4932d27-ad22-48f3-aff1-f177ef150795)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/7ae8fcf3-5c13-4974-91e9-73e1102ada88)
+![image](https://github.com/user-attachments/assets/3b15e372-7091-4e5e-8882-65ff98f348a6)
+![image](https://github.com/user-attachments/assets/008c13b9-96e9-4bd7-9a9e-396e1eb21df0)
+![image](https://github.com/user-attachments/assets/8cc38a5f-c3b6-4ef9-86f7-e249966906c7)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/5ca58733-591f-4d7e-8d07-0b3b4a9359ab)
+![image](https://github.com/user-attachments/assets/981d3660-0b5c-4446-aa92-c705062392b0)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/66f903f2-363f-4f6a-a25a-05dcaf1b79e4)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/6645c3cf-a245-4f0c-a80a-5eb6dc2131fe)
+![image](https://github.com/user-attachments/assets/30d1d194-881b-49c8-9584-8c6313fa4c3c)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/dd605252-86dd-458b-9a5b-d86bbf5e1ea4)
+
+* RC-3.
+
+![image](https://github.com/user-attachments/assets/ee8e4354-f7c9-4227-94c3-59a5352e55ef)
+![image](https://github.com/user-attachments/assets/d910e019-e4ff-41ad-9d13-8e22e782bddb)
+![image](https://github.com/user-attachments/assets/a5e9f240-4325-4efa-8e6c-fe0776e8ac16)
+![image](https://github.com/user-attachments/assets/64782e8b-38d8-4a7d-8d79-550799ce47ab)
+![image](https://github.com/user-attachments/assets/0dc78fd1-5b75-440e-a795-3e15237c0ba8)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/134f4c6e-dc5b-4503-a261-bdf30207a580)
+![image](https://github.com/user-attachments/assets/8df8ba00-e007-4826-a3a5-a567c464c693)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/9a25ba67-9d14-4ef5-831e-97de0b559b5e)
+![image](https://github.com/user-attachments/assets/7412578c-54ae-4231-90b4-a77d48a568bb)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/e2f05356-9b1d-445e-96ee-877f81f82c4d)
+![image](https://github.com/user-attachments/assets/857ca616-9fa4-423d-8b62-4c34b1c0a544)
+![image](https://github.com/user-attachments/assets/a71ae7a1-67e4-457d-966a-eba69dc428dd)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/1734e440-dfde-4f2b-8ff2-374ba4df5069)
+
+### VA
+
+![image](https://github.com/user-attachments/assets/e546b391-6897-4a21-acee-398780e28238)
+
+* VA-1.
+
+![image](https://github.com/user-attachments/assets/a88fb97f-afee-450c-8e14-e0cc20190497)
+
+* VA-2.
+
+![image](https://github.com/user-attachments/assets/2789977d-7d0c-4aa3-bb32-4c4444e25032)
+
+* VA-3. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/09e7e00e-a240-4395-bb6c-1bf6d0001e75)
+
+* VA-4.
+
+![image](https://github.com/user-attachments/assets/191afb3b-3794-404e-a0c5-b6d86b6a044a)
+
+* VA-5. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/05855983-1564-4080-a102-98a936a5dc77)
+![image](https://github.com/user-attachments/assets/4bf588b5-80b5-4ff0-9dd3-0594185973b2)
+
+* VA-6. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/397ae12e-8ac9-4542-a8c9-6209b8bf279c)
+
+* Ans -> 3. VA-7.
+
+![image](https://github.com/user-attachments/assets/47faa83a-da9f-4ef3-9114-8ee05123ce5f)
+
+* Ans -> 4. VA-8.
+
+
+
+
+
+
+
+
 
 
 
