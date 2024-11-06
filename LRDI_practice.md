@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1011dc12-f9a8-49bc-b48b-b9137978caf2)![image](https://github.com/user-attachments/assets/2b1b4f89-d9a6-405f-8ea8-0eaa041ebab2)# LRDI practice
+# LRDI practice
 
 ## IMPORTANT
 
@@ -6575,17 +6575,85 @@ For 1st person, 'Y and B' are together.
 
 * Answers.
 
+![image](https://github.com/user-attachments/assets/87883294-efc1-44bd-8d97-7b6a4bce89c5)
+![image](https://github.com/user-attachments/assets/537a7231-5906-4a08-8dbc-3372570063e9)
+
+* This is not possible.
+
+![image](https://github.com/user-attachments/assets/da51f27c-0423-47ed-a32f-4eef94344378)
+
+* We are anyways not using all of the prices. This is not possible.
+
+![image](https://github.com/user-attachments/assets/5bb1be77-e49b-4aa9-9a58-8ceece2ba174)
+![image](https://github.com/user-attachments/assets/03039114-cfef-41c5-8e75-f3cbf1d46ac6)
+![image](https://github.com/user-attachments/assets/c5068193-a0d9-46cb-973d-36060b06b480)
+![image](https://github.com/user-attachments/assets/f1540309-b5b9-42da-bbf1-edf09f3fa470)
+![image](https://github.com/user-attachments/assets/c00c3d98-b8c0-4584-bbff-69bde64d583f)
+![image](https://github.com/user-attachments/assets/00435419-6622-4770-acb8-c94c6d3a2a2f)
+![image](https://github.com/user-attachments/assets/a866f036-491f-497c-b257-fbdc4a78fe10)
+![image](https://github.com/user-attachments/assets/3182d243-f392-4d43-851d-6a85dff56898)
+![image](https://github.com/user-attachments/assets/687f549a-bb92-4db1-b32a-a8c9d4ff146a)
+
+* 4x + 5x -> 9x.
+* a + 40 = 5x + 5 -> 5x - 35.
+
+![image](https://github.com/user-attachments/assets/67f7a528-b97d-4810-9f76-d018c9854b5a)
+![image](https://github.com/user-attachments/assets/e62d7bea-4a28-4f92-8e60-1ab038c935fe)
+![image](https://github.com/user-attachments/assets/365ffc53-2e5d-40e0-aa1c-7db0f1c753b7)
+
+* We are attacking profit because profit of day '3' is given.
+
+![image](https://github.com/user-attachments/assets/a965b5fe-6aae-449c-88e0-bf245c057158)
+![image](https://github.com/user-attachments/assets/320c20da-4dea-4092-9d28-2ddfd9a2c6c9)
+
+* 7 < x <= 11.
+
+![image](https://github.com/user-attachments/assets/9bda8b3f-104f-474e-8b9b-d8a14c311b18)
+![image](https://github.com/user-attachments/assets/35d48c96-eabf-419c-aef0-24abed528c41)
+
+* All of the questions are definite questions only. None of them are indefinite questions. One of the cases will come as answer only. Other case will get eliminated.
+
+![image](https://github.com/user-attachments/assets/006806e4-f5ff-4688-bb70-2c9097eb1dc3)
+![image](https://github.com/user-attachments/assets/279ed1bf-c914-49eb-bb0d-737f9120dbdc)
+
+* 52 - 36 -> 16.
+
+![image](https://github.com/user-attachments/assets/3bd6885b-d99c-4402-a72d-afd3e2a5a52b)
+![image](https://github.com/user-attachments/assets/b466f61f-2d7b-4acb-9b59-9cf890d2bb2a)
+![image](https://github.com/user-attachments/assets/78f7b855-99f7-42d8-b7f5-3c072f6980e7)
+![image](https://github.com/user-attachments/assets/c37b64f6-ab4f-4c60-bda4-6c1a69d3bb93)
+
+* '7' is not a multiple of '790'. This case is not possible.
+
+![image](https://github.com/user-attachments/assets/7d853d9e-ffe6-435f-ba5e-010fe19b0b70)
+![image](https://github.com/user-attachments/assets/b1824c2d-8d79-4c23-9aaf-84d3128930af)
+![image](https://github.com/user-attachments/assets/b73bce8d-ae4d-4ca0-8fdb-10a6e375aa0f)
+![image](https://github.com/user-attachments/assets/dcef63bb-b8f4-481d-80b9-8c57dede5f75)
+![image](https://github.com/user-attachments/assets/5b05448c-e507-46d6-9def-080962cb50aa)
+
+* x = 8
+* 5x - 35 -> 5.
+* 5 * 19 -> 95
+
+![image](https://github.com/user-attachments/assets/fbe738b5-1c3e-4357-951f-85ac6674492c)
+![image](https://github.com/user-attachments/assets/148f6bfc-1c6d-4e92-97d9-93d4bd687176)
+![image](https://github.com/user-attachments/assets/80b39e67-1c55-4389-bc1b-ace3607a2b15)
+
+* b -> 91 + 5 -> 96L.
+
+![image](https://github.com/user-attachments/assets/e618c7b4-7d61-4cf6-8769-54d0e940f25a)
+![image](https://github.com/user-attachments/assets/3b6d0c02-ed6f-411e-b753-2fe039eab615)
+
+* 96 - 40 -> 56.
+
+![image](https://github.com/user-attachments/assets/e1ececfe-7a24-4713-a733-006fee4aa120)
+![image](https://github.com/user-attachments/assets/fec3d126-016f-442d-a254-9ab04dc9bf9c)
 
 
 
 
 
-
-
-
-
-
-
+ 
 
 
 
@@ -7089,3 +7157,5 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/173d9ae3-eb6e-4b07-9a45-849fed0ac976)
 ![image](https://github.com/user-attachments/assets/77884239-d787-40a3-921a-09042246d13f)
 ![image](https://github.com/user-attachments/assets/723d1fd2-a7cd-4559-8365-5ccee4fe13cb)
+![image](https://github.com/user-attachments/assets/1011dc12-f9a8-49bc-b48b-b9137978caf2)
+![image](https://github.com/user-attachments/assets/2b1b4f89-d9a6-405f-8ea8-0eaa041ebab2)
