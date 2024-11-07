@@ -6648,12 +6648,72 @@ For 1st person, 'Y and B' are together.
 
 ![image](https://github.com/user-attachments/assets/e1ececfe-7a24-4713-a733-006fee4aa120)
 ![image](https://github.com/user-attachments/assets/fec3d126-016f-442d-a254-9ab04dc9bf9c)
+![image](https://github.com/user-attachments/assets/61691707-4d1b-4e3d-a7d6-51a25acdafc4)
+![image](https://github.com/user-attachments/assets/195f1033-d7d4-4902-8d39-423807d8cb3b)
+![image](https://github.com/user-attachments/assets/1cfe0dfb-f390-433c-a54e-fbb664117dde)
+![image](https://github.com/user-attachments/assets/73a6b0c2-7f33-44ef-b784-3c1580f32747)
+![image](https://github.com/user-attachments/assets/35c52d7b-46bc-42ae-aa4b-2589b3b0f192)
+![image](https://github.com/user-attachments/assets/1a7cda31-ada6-488b-a9c2-2e0de2a269c1)
+![image](https://github.com/user-attachments/assets/5a4f2901-2953-4c66-9bbf-c27885a71d97)
+![image](https://github.com/user-attachments/assets/57c3bea6-0339-4d66-9541-0c049f958f76)
+![image](https://github.com/user-attachments/assets/42d2cf33-2d03-497c-b175-4cd3a2c05ebb)
+![image](https://github.com/user-attachments/assets/98ee99d7-65b2-4002-951f-59269cce00b2)
 
+* 73 - 69 -> 4.
 
+![image](https://github.com/user-attachments/assets/2c823275-77d1-4f2a-b5f4-0c0189bd366b)
 
-
-
+* 45 - (12 + 10) -> 23 -> f -> Eaten all '6' chocolates.
  
+![image](https://github.com/user-attachments/assets/0c56e61c-3760-44d6-b343-4e35653d5be3)
+
+* 23 -> It also had eaten 'F' chocolates also.
+
+![image](https://github.com/user-attachments/assets/5e67f40b-6155-4f1a-8e44-a05bf9c78ffa)
+![image](https://github.com/user-attachments/assets/b15d234e-3607-4ea4-9e3f-e945b7036bf4)
+![image](https://github.com/user-attachments/assets/18ace642-4217-4c26-b986-3b8bb68c654b)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/cc07ec2b-7dac-4ddf-935a-5cba588dbde3)
+![image](https://github.com/user-attachments/assets/45307f26-6206-4945-bc09-e3a94858ac5e)
+![image](https://github.com/user-attachments/assets/20231a39-0b40-4955-a028-8c285320a371)
+
+* 348 - 263 -> 85. [Method **1**]
+
+![image](https://github.com/user-attachments/assets/ad4de236-6531-4bec-8318-e7c5104782b3)
+
+* 100 - 48 -> 52% -> They are not playing '1' of the sports.
+* 52 - 37 -> 15%.
+* 100 - 15 -> 85%. [Method **2**]
+
+![image](https://github.com/user-attachments/assets/79918bb3-2908-44a6-a764-2db8f62eb258)
+![image](https://github.com/user-attachments/assets/b3c9662a-6945-4b56-b784-00cda8cdaa16)
+![image](https://github.com/user-attachments/assets/4674cba1-0ec7-43c4-a97f-86c4b488b44a)
+![image](https://github.com/user-attachments/assets/6cbc9f1d-5952-4805-ad72-ea0e29a4d6b0)
+![image](https://github.com/user-attachments/assets/011d1f23-3860-4f5c-8d6a-b59a9045c134)
+![image](https://github.com/user-attachments/assets/daa39ba6-8a6f-4943-8718-775de71fde14)
+
+* 'b' is greater than 'c'.
+
+![image](https://github.com/user-attachments/assets/bd59f6c3-5ee8-4c2b-bef9-12dd7091be41)
+![image](https://github.com/user-attachments/assets/fef721e8-74f3-442a-9a84-62a4ad0a2b78)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
