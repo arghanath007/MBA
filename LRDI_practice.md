@@ -6749,6 +6749,155 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/6a5b2209-168e-454f-a519-bf0597915360)
 ![image](https://github.com/user-attachments/assets/74b3afc7-db03-4625-8214-d7426d3a06ca)
 ![image](https://github.com/user-attachments/assets/f3555cf5-9626-4e6f-98da-52f960956505)
+![image](https://github.com/user-attachments/assets/e7ba3fae-526a-4c88-94f0-75e2943880e2)
+![image](https://github.com/user-attachments/assets/8d038eb6-6f5d-481b-b143-8c5b6092cb6c)
+![image](https://github.com/user-attachments/assets/25694284-1462-4a23-a9e5-2480f3ee8f8c)
+![image](https://github.com/user-attachments/assets/875720b1-5afe-4588-92c4-168364b62793)
+![image](https://github.com/user-attachments/assets/79a670c0-7fe2-4179-8782-914cf3bd93d0)
+![image](https://github.com/user-attachments/assets/e2e151c4-431f-445b-bd35-47d82be46f58)
+![image](https://github.com/user-attachments/assets/de4f4c6e-270a-4b18-8935-704d5b05b9e2)
+![image](https://github.com/user-attachments/assets/6e5da8dc-5721-48bb-b2ad-74f073a1e8a7)
+![image](https://github.com/user-attachments/assets/47553259-2f49-4a6f-b6ef-ab215cb7c1f3)
+![image](https://github.com/user-attachments/assets/52ad7803-0f1c-459d-aa67-7c99a23c36bf)
+![image](https://github.com/user-attachments/assets/877f07b2-f9a2-4d85-916c-c9e63a982522)
+![image](https://github.com/user-attachments/assets/f9faf785-7235-426c-a016-971a81137bcf)
+![image](https://github.com/user-attachments/assets/e2fb1701-3e87-47da-b28b-13439c569052)
+![image](https://github.com/user-attachments/assets/d4435678-27d9-49d1-aeab-3f8d847df7d2)
+![image](https://github.com/user-attachments/assets/567b842c-7da2-4799-8f6e-c3d65a4efbc2)
+![image](https://github.com/user-attachments/assets/c4189bb3-79e9-470a-a576-223232a0252e)
+![image](https://github.com/user-attachments/assets/76626f6b-1875-46e4-81e9-6b7cd91050db)
+![image](https://github.com/user-attachments/assets/2d569c2b-ab12-45f1-9864-ddb0a629885b)
+![image](https://github.com/user-attachments/assets/64f567ef-37b8-4ccd-8d9e-8df4d28ea4df)
+![image](https://github.com/user-attachments/assets/2c691a47-16df-4464-abdc-9d2598fcb8ca)
+![image](https://github.com/user-attachments/assets/17b08953-d320-4d16-9bf1-fcbde1e7e83d)
+![image](https://github.com/user-attachments/assets/f9577f16-0131-4dca-bf3f-54b748fba511)
+![image](https://github.com/user-attachments/assets/5b51fd58-9441-41e5-a3d9-eba40a482549)
+![image](https://github.com/user-attachments/assets/698a89b0-4f57-4a63-9b6f-34a2abde5917)
+![image](https://github.com/user-attachments/assets/3f38b18c-a4f7-48ac-bb6f-07b96cf49e6f)
+![image](https://github.com/user-attachments/assets/d87e0270-dbdc-4290-acf0-ced9cce3d6e5)
+![image](https://github.com/user-attachments/assets/6941b121-6816-4bd6-9c6c-f35bf04ecdd6)
+![image](https://github.com/user-attachments/assets/5a06b0e8-0e80-4935-af64-3a99e57ef67c)
+![image](https://github.com/user-attachments/assets/f5fc47fd-5338-4924-985a-d5941cc1c93b)
+![image](https://github.com/user-attachments/assets/545e74a8-b7f9-4bb6-88af-da573a81d93b)
+![image](https://github.com/user-attachments/assets/43e7bf8e-32a7-4199-b970-eaa0a2fa8c37)
+![image](https://github.com/user-attachments/assets/727da608-6c82-4309-aa4d-3424de13c3c6)
+
+* 26 - 16 -> 10.
+* 28 - 16 -> 12.
+
+![image](https://github.com/user-attachments/assets/62560837-3c60-421a-95c9-51c1157a408b)
+
+* We want to maximize 'B and D'.
+* 37 - 22 -> 15.
+* We have to leave 'B and D' to the end.
+
+![image](https://github.com/user-attachments/assets/5639d507-af72-4deb-b192-8fce1eca3d66)
+![image](https://github.com/user-attachments/assets/579868b0-701c-46a4-b2bd-39d31185332c)
+
+* 25 - (10 + 12) -> 3.
+* We have to balance the remaining '3' in 'A'.
+* 24 - 3 -> 21.
+* 15 + 21 -> 36.
+
+![image](https://github.com/user-attachments/assets/1e6d234a-7946-4d5c-88c5-cfc3f1900cce)
+![image](https://github.com/user-attachments/assets/d85c9aa0-4a98-47a9-a253-08edd5900f57)
+
+* Answer -> 21. [1]
+* Whoever we want to maximize, we have to hold it till the end. [Logic] [Concept]
+
+![image](https://github.com/user-attachments/assets/41e9cf73-f41e-44d5-93f4-05fbfc275939)
+![image](https://github.com/user-attachments/assets/5a6fe4fe-ee05-48a2-b2e6-8c73d57b23bf)
+![image](https://github.com/user-attachments/assets/f5686704-66f9-40cf-8210-93941b0f1f6f)
+
+* We have to check both 'A won to B' and 'A lost to B'.
+
+![image](https://github.com/user-attachments/assets/4b1691d0-23cd-458b-a11e-7f19ea30c317)
+![image](https://github.com/user-attachments/assets/8113e4bb-ab51-44d3-b120-afcde44cff0e)
+![image](https://github.com/user-attachments/assets/c5349971-2169-4ff7-a1e3-08f8b9420155)
+
+* 'A' lost '2' extra times either against 'C or D'. 'A' fought others also other than 'B'. 'A' is loosing more than 'B' is winning.  So 'AB' is not possible
+
+![image](https://github.com/user-attachments/assets/644cc223-2f82-46a2-97ca-014d77614d12)
+![image](https://github.com/user-attachments/assets/ea5d9071-f8d3-493a-9fb5-d188cf8f2546)
+
+* 'A' won -> A < B.
+* 'A' lost -> A < B.
+
+![image](https://github.com/user-attachments/assets/4897a652-f8e5-414b-9815-bd8c2d9c3c05)
+![image](https://github.com/user-attachments/assets/f9d165f3-6e04-4aee-a7e6-f4f428346f83)
+![image](https://github.com/user-attachments/assets/b00d7e48-57c6-467f-9c9d-881d66cba6e4)
+
+* 'D' won -> D < A -> 33 < 38.
+* 'D' lost -> D < A -> 24 < 25.
+* So 'DA' is possible.
+
+
+* 'C' won -> C < B -> 22 < 26.
+* 'C' lost -> C < B -> 28 < 36.
+* So 'CB' is possible.
+
+![image](https://github.com/user-attachments/assets/5aa3744e-ba93-4e23-ac68-0f53dd391138)
+![image](https://github.com/user-attachments/assets/e8806c4e-9bbf-45dd-8eab-185ecf380009)
+
+* So 'CD' is possible.
+* This is **Step '1'**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
