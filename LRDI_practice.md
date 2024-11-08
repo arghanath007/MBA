@@ -1,4 +1,4 @@
-# LRDI practice
+![image](https://github.com/user-attachments/assets/08c7561b-6715-4622-af12-8af32f337a87)# LRDI practice
 
 ## IMPORTANT
 
@@ -6698,6 +6698,87 @@ For 1st person, 'Y and B' are together.
 
 ![image](https://github.com/user-attachments/assets/bd59f6c3-5ee8-4c2b-bef9-12dd7091be41)
 ![image](https://github.com/user-attachments/assets/fef721e8-74f3-442a-9a84-62a4ad0a2b78)
+![image](https://github.com/user-attachments/assets/7dd960ae-ddbe-472c-a957-3fdfb5b3ba4f)
+![image](https://github.com/user-attachments/assets/59d473ea-c4d5-4e5b-a392-7c331a84713a)
+![image](https://github.com/user-attachments/assets/a9b4de6f-99a7-498f-b4be-d39d63440472)
+![image](https://github.com/user-attachments/assets/f4927729-40b9-48b1-a3c7-e863489405c1)
+![image](https://github.com/user-attachments/assets/da8052ac-c343-4f8f-b704-9f69895fd998)
+
+* This is not needed.
+
+![image](https://github.com/user-attachments/assets/5e9f36aa-e59c-46a7-a049-17ff442d1fe4)
+![image](https://github.com/user-attachments/assets/0db4a017-2db0-4378-98c4-9a8086183c85)
+![image](https://github.com/user-attachments/assets/2515d937-3f0d-4eea-9bbe-f09329db44b4)
+![image](https://github.com/user-attachments/assets/2f4aadb9-19cf-4936-a984-a0a679869009)
+
+* 'g' is a bigger no. compared to others.
+
+![image](https://github.com/user-attachments/assets/73e7c81e-0889-48fa-aa92-00b3d5a35efc)
+![image](https://github.com/user-attachments/assets/58baf8d6-cf76-4c94-ab31-0a12d4be2e2a)
+![image](https://github.com/user-attachments/assets/73ad73e9-cbf3-407d-bb8c-779c09e954df)
+![image](https://github.com/user-attachments/assets/19fc22a3-dbe4-4831-a06b-d64da3e50f00)
+![image](https://github.com/user-attachments/assets/bab9ad59-9ff2-4028-99d3-b80b6c7e1e6b)
+![image](https://github.com/user-attachments/assets/901707c8-19f1-4439-93e5-066fc209584a)
+![image](https://github.com/user-attachments/assets/1c8d4aab-8a37-497c-9d90-63ed0c8d1ff5)
+![image](https://github.com/user-attachments/assets/439c29f8-0005-470d-b8a8-aeb7d2688da5)
+![image](https://github.com/user-attachments/assets/34db436b-870f-4948-b50d-2ea94b1d1dea)
+
+* 40/16 -> Will not been an integer.
+
+![image](https://github.com/user-attachments/assets/f9ca8d55-4802-476f-8e13-50c6c23555ac)
+
+* Common/Multiple between '8 and 14' -> 2.
+* We can put '2' in the rest of them as well.
+
+![image](https://github.com/user-attachments/assets/042094d0-764a-43cb-a100-7b5efb4cdf82)
+![image](https://github.com/user-attachments/assets/e194e912-ed8a-4e4a-b90e-98786f22fdad)
+
+* 64/(5/4) -> Not integer -> not possible.
+
+![image](https://github.com/user-attachments/assets/ae3d6784-bd5f-4a5f-990d-fc74efe732bf)
+![image](https://github.com/user-attachments/assets/8bfdcc10-83e4-42e7-8eb8-561ba5934d8b)
+![image](https://github.com/user-attachments/assets/63cff69d-f086-4f4f-a455-36505093fd02)
+![image](https://github.com/user-attachments/assets/1fe1977e-1e9e-4e8d-b8b9-84e053ccaee9)
+![image](https://github.com/user-attachments/assets/ed1ee528-fb04-43db-89bc-c954e3bce32e)
+![image](https://github.com/user-attachments/assets/0c33057b-a196-494e-85f7-0efaf02e1cc2)
+![image](https://github.com/user-attachments/assets/17efb733-fd1c-4640-87df-f6420371b999)
+![image](https://github.com/user-attachments/assets/9b24d07c-e8f8-4007-9f86-964a84009562)
+![image](https://github.com/user-attachments/assets/8a5412bf-2a2a-4f6f-965e-a7a887236e91)
+![image](https://github.com/user-attachments/assets/c03f5e4b-2c3a-4d2f-89e1-3eca091135b4)
+![image](https://github.com/user-attachments/assets/dc5cfc65-cf61-4a52-a8db-1c6a4bcd3a77)
+![image](https://github.com/user-attachments/assets/6a5b2209-168e-454f-a519-bf0597915360)
+![image](https://github.com/user-attachments/assets/74b3afc7-db03-4625-8214-d7426d3a06ca)
+![image](https://github.com/user-attachments/assets/f3555cf5-9626-4e6f-98da-52f960956505)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
