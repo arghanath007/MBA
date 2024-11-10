@@ -6869,8 +6869,28 @@ For 1st person, 'Y and B' are together.
 
 * Answers.
 
+![image](https://github.com/user-attachments/assets/9ceec9be-df6b-4ca8-a69e-6611eacb02bf)
+![image](https://github.com/user-attachments/assets/78bd3ef1-261d-440b-aeb6-fc8d65902bb6)
+![image](https://github.com/user-attachments/assets/c8ae0a9e-e2fa-4fd7-bc68-f51c773fae84)
+![image](https://github.com/user-attachments/assets/2ce4dbd1-d87e-4e8c-a06b-1837a01c8d0d)
+![image](https://github.com/user-attachments/assets/82d7e6e9-73a6-4dbf-82bb-803047135e4d)
+![image](https://github.com/user-attachments/assets/6fe8cdfb-f612-47b9-854d-f376056aa485)
+![image](https://github.com/user-attachments/assets/5cf942d8-069e-427f-a49f-07cbf652611a)
+![image](https://github.com/user-attachments/assets/e70925d4-5308-4053-8322-c25e79ee6c09)
+![image](https://github.com/user-attachments/assets/e8adadf4-cec2-4916-9ff8-1ca764c185a5)
+![image](https://github.com/user-attachments/assets/5c706cd7-a3b8-4fcc-85c1-d15a1efafd7b)
+![image](https://github.com/user-attachments/assets/724e89db-5b8e-4d7e-bb42-0ac433c83dc5)
 
+* B = 1KM/hr. [Let]
 
+![image](https://github.com/user-attachments/assets/5dff3d9a-872f-4412-a237-8ff60e19207a)
+![image](https://github.com/user-attachments/assets/a12bb4a6-7d09-4790-9bd7-9d241245308a)
+![image](https://github.com/user-attachments/assets/6ec4dbc5-e865-49e0-9b68-813d610906bc)
+![image](https://github.com/user-attachments/assets/d76f2cbc-ebaa-4592-bd99-48cfaeb2c9f8)
+![image](https://github.com/user-attachments/assets/6b846c35-f68a-4952-b9cc-1aa02e4158f5)
+![image](https://github.com/user-attachments/assets/ba2c0b15-1d15-49d0-969a-57984b00f1a8)
+![image](https://github.com/user-attachments/assets/67c0191e-d44c-449f-8b7f-f1f28a72222a)
+![image](https://github.com/user-attachments/assets/2c5b6cc6-0e60-4a82-8669-b3821f0d827f)
 
 
 
