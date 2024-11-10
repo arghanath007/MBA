@@ -2840,7 +2840,12 @@
 * 2 * 2B -> 4B.
 * 3 * 2A -> 6A.
 
-
+![image](https://github.com/user-attachments/assets/68c201a5-d494-421d-85db-1391dc983ad4)
+![image](https://github.com/user-attachments/assets/2c8624e7-0786-424b-9b2f-e00df328dad5)
+![image](https://github.com/user-attachments/assets/d80b30b0-6421-4eba-967f-85654727fcf2)
+![image](https://github.com/user-attachments/assets/eb26d4db-de7b-41a8-bb3a-27dafea5d5e6)
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 
 
