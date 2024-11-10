@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08c7561b-6715-4622-af12-8af32f337a87)# LRDI practice
+# LRDI practice
 
 ## IMPORTANT
 
@@ -6842,6 +6842,47 @@ For 1st person, 'Y and B' are together.
 * So 'CD' is possible.
 * This is **Step '1'**.
 
+![image](https://github.com/user-attachments/assets/1caf1e8e-2e7e-4bac-9f46-b177eff0d45b)
+![image](https://github.com/user-attachments/assets/475d9351-a02b-4665-aad0-6f44ee0a6bec)
+
+* Everyone ordered only '1' dish. Nobody ordered '2' dishes.
+* Every dish ordered by '1' person.
+
+![image](https://github.com/user-attachments/assets/5ab1a900-7b24-44cf-9620-81324c7bac3b)
+![image](https://github.com/user-attachments/assets/6fdffec7-78b7-4e4c-9ae2-18915da2ca83)
+![image](https://github.com/user-attachments/assets/00f72999-eb79-4577-8a17-39726a8fc420)
+![image](https://github.com/user-attachments/assets/90376bed-122b-447d-9626-bb2a1b8ca302)
+![image](https://github.com/user-attachments/assets/a1eeba56-ac38-4bee-bbc8-df57b9084dd6)
+![image](https://github.com/user-attachments/assets/5c53eadb-e4a2-4b67-bb02-153f65158628)
+![image](https://github.com/user-attachments/assets/bd8cfe83-7a31-44e6-9da9-3928fd30dc03)
+![image](https://github.com/user-attachments/assets/8b53b4ad-5014-4901-89da-c50df98cccdd)
+![image](https://github.com/user-attachments/assets/c09cae70-2b1c-49d2-8836-3d91a1 ca0c31)
+![image](https://github.com/user-attachments/assets/80751280-bc40-4181-b8e1-77c7da54e686)
+
+* 450 has been written twice(2), so it will be ordered twice(2) also which is done by 'A and G'.
+
+![image](https://github.com/user-attachments/assets/4fb4b4a3-74c8-4ab4-a6f8-178ea11dad3c)
+![image](https://github.com/user-attachments/assets/0624ed9f-8257-4644-9cdd-9dd338547fcb)
+![image](https://github.com/user-attachments/assets/b47be4ca-9022-4ed2-a614-13654ec3073e)
+![image](https://github.com/user-attachments/assets/c0704789-ae41-4f30-9da8-90d954d4a06b)
+![image](https://github.com/user-attachments/assets/724d427a-b1a2-438a-9502-63552ee1212b)
+
+* Answers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7449,3 +7490,4 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/723d1fd2-a7cd-4559-8365-5ccee4fe13cb)
 ![image](https://github.com/user-attachments/assets/1011dc12-f9a8-49bc-b48b-b9137978caf2)
 ![image](https://github.com/user-attachments/assets/2b1b4f89-d9a6-405f-8ea8-0eaa041ebab2)
+![image](https://github.com/user-attachments/assets/08c7561b-6715-4622-af12-8af32f337a87)
