@@ -972,6 +972,103 @@
 
 * VA-8. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/198e0e0f-5f68-4378-9043-36a5d2b8e8be)
+![image](https://github.com/user-attachments/assets/07861cf4-ea99-4270-b257-5155faa793fd)
+
+* fallacious -> wrong. [Meaning]
+* RC-1.
+
+![image](https://github.com/user-attachments/assets/2f83ef42-ba7c-4977-b347-eb4b6b05ef32)
+![image](https://github.com/user-attachments/assets/40d54312-8251-486f-98f3-f7bb7a9607f3)
+![image](https://github.com/user-attachments/assets/40d058df-5864-489d-848c-061bf231ae39)
+![image](https://github.com/user-attachments/assets/aba50d0d-6ef5-460e-90db-e2da3e595d27)
+![image](https://github.com/user-attachments/assets/d83f680a-a32c-4e02-ba79-2213bf3babc1)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/56742161-5731-4c6a-9919-e8240083f69c)
+![image](https://github.com/user-attachments/assets/f9a4f66e-50f6-48a8-b262-337f7f0b29a3)
+
+* RC-2.
+
+![image](https://github.com/user-attachments/assets/3b5cb674-823d-4b5a-99c2-94c49271fa6e)
+![image](https://github.com/user-attachments/assets/7e99c8fd-169a-4c25-97d2-2a1a862feb9c)
+![image](https://github.com/user-attachments/assets/b1f4559b-ad0e-42b5-ad23-fba980e0e264)
+![image](https://github.com/user-attachments/assets/393b2018-a77b-4c13-974a-30ddc8f87dcd)
+
+* Illustrates -> Example. [Meaning]
+* Adverse -> Acting or serving to oppose; -> Contrary to one's interests or welfare; harmful or unfavorable. [Meaning]
+
+![image](https://github.com/user-attachments/assets/29465d60-d793-444c-9685-7411de327f41)
+![image](https://github.com/user-attachments/assets/3c6158e2-5beb-4408-96e7-f1d6dd9c5be0)
+
+* RC-3
+* Platonic -> pun. [Meaning]
+* Plutonic -> Of or pertaining to Pluto; Plutonian; hence, pertaining to the interior of the earth. [Meaning]
+* Platonic -> Friendly or affectionate without involving sexual relations. [Meaning]
+* heretic -> Specifically, in theology, a professed believer who adopts and persistently maintains religious opinions contrary to the accepted standards of his church. [Meaning]
+* ratiocination -> reasoning. [Meaning]
+
+![image](https://github.com/user-attachments/assets/63029bc7-d095-4003-be1c-77bb4c5e9d76)
+
+* A > C.
+
+![image](https://github.com/user-attachments/assets/e106e3f2-69b7-4ede-a6fc-d6be43118514)
+![image](https://github.com/user-attachments/assets/2c9091e9-a6a2-4654-aacf-b1662a5d608f)
+![image](https://github.com/user-attachments/assets/6110937f-62a3-40aa-8fa5-2fd80dec45af)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/539b9829-d6ea-46f6-b9a0-90b27d32d7ac)
+![image](https://github.com/user-attachments/assets/58166baf-9c14-4396-b96d-7d595568a014)
+
+* RC-4.
+
+![image](https://github.com/user-attachments/assets/f6754544-fcd6-4ee1-b7b6-6b82821ac457)
+![image](https://github.com/user-attachments/assets/50fd2329-608a-45d2-94fb-e82eb27e8b76)
+![image](https://github.com/user-attachments/assets/4465c77d-476a-41a6-be38-ee64cd9fee94)
+
+* Progeny -> Kids. [Meaning]
+
+![image](https://github.com/user-attachments/assets/328d7120-4cc5-4822-9276-cdbe6d203396)
+
+* Coercive -> serving or intended to coerce. [Meaning]
+* coerce -> cause to do through pressure or necessity, by physical, moral or intellectual means. [Meaning]
+
+![image](https://github.com/user-attachments/assets/acdf60e3-1f3f-4a5e-94ce-ba74c1efe89c)
+
+* VA-1.
+
+![image](https://github.com/user-attachments/assets/250b5e72-bb04-48af-a3b4-33822b19bc9d)
+
+* VA-2.
+
+![image](https://github.com/user-attachments/assets/ef40be59-9cb4-4f0c-bf1a-b4094dd97995)
+
+* VA-3.
+
+![image](https://github.com/user-attachments/assets/6200fe68-54dd-4162-8430-b8d9a13fc484)
+![image](https://github.com/user-attachments/assets/f170bb9d-5e01-4303-9da5-e5f82a0ef8d0)
+
+* VA-4.
+
+![image](https://github.com/user-attachments/assets/5c4cb113-e6ba-4963-a58b-3920a296dbcb)
+
+* latter -> Sequence/second part. [Meaning]
+* later -> time. [Meaning]
+* VA-5.
+
+![image](https://github.com/user-attachments/assets/37a8bac8-2dc1-4de8-8b9f-377014e0da21)
+
+* VA-6.
+
+![image](https://github.com/user-attachments/assets/44cc28c6-3983-49a3-a871-83c867b02656)
+
+* VA-7.
+
+![image](https://github.com/user-attachments/assets/454e6aba-0785-463b-b612-05e5afc62ee6)
+
+* VA-8.
 
 
 
@@ -995,6 +1092,17 @@
 
 
 
+
+
+
+
+
+
+### Important
+
+![image](https://github.com/user-attachments/assets/ae5d4699-874b-4562-a4e5-fa62159fd4d4)
+
+* Start VARC -> Para Summary Questions -> RCs -> Para Completion -> Para Jumble -> Odd one Out. [**VERY IMPORTANT**]
 
 
 
