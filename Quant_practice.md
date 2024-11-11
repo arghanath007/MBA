@@ -2844,8 +2844,166 @@
 ![image](https://github.com/user-attachments/assets/2c8624e7-0786-424b-9b2f-e00df328dad5)
 ![image](https://github.com/user-attachments/assets/d80b30b0-6421-4eba-967f-85654727fcf2)
 ![image](https://github.com/user-attachments/assets/eb26d4db-de7b-41a8-bb3a-27dafea5d5e6)
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+* Last few images didn't upload properly.
+
+## Geometry
+
+![image](https://github.com/user-attachments/assets/4a16f2ea-2ed4-4080-8955-186ca8a119f4)
+![image](https://github.com/user-attachments/assets/5066d123-2f0d-4917-8e19-010e0887c972)
+![image](https://github.com/user-attachments/assets/40f47c19-9630-4a57-a9e3-53d12db7fd2c)
+![image](https://github.com/user-attachments/assets/5458b742-7e46-42f3-a430-57973e38b9d5)
+![image](https://github.com/user-attachments/assets/21e41fa3-38d7-45ac-a6c8-1d5ff17ece9b)
+![image](https://github.com/user-attachments/assets/81b5e3f6-87c1-4d9e-9b0d-eba932aa2059)
+![image](https://github.com/user-attachments/assets/c2fa43b6-9900-4507-aa76-0f2f5eb285e1)
+![image](https://github.com/user-attachments/assets/8c7bf51a-8573-47fb-b377-35a84d7b417a)
+
+* [Formula]] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bbbff730-81f0-4175-8ff0-b4504837a348)
+![image](https://github.com/user-attachments/assets/a3e66968-ec79-4722-a1d5-f2653039b70e)
+![image](https://github.com/user-attachments/assets/58ab4530-2b4f-420c-81c3-b8ce54fa203a)
+
+* Sum of parallel sides -> 3k + 5k -> 8k.
+* Height -> 3h + 5h -> 8h.
+* [Formula]] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/d549f6f2-f7d1-4e51-9c78-08f8d2db7a40)
+![image](https://github.com/user-attachments/assets/9b7af1f9-c49d-4611-af2b-a91386ee826f)
+
+* This is not possible.
+
+![image](https://github.com/user-attachments/assets/2173f276-2740-4bc0-9e8e-802eb079db78)
+
+* This is possible.
+
+![image](https://github.com/user-attachments/assets/4c390ffa-6386-426b-a7f1-0d76437054bb)
+![image](https://github.com/user-attachments/assets/de0e2680-1f8f-4ef7-88f7-779ebf40d3ac)
+
+* 5 + 12 -> 17.
+* 17 : 221 -> 1 : 13.
+* 5 * 13 -> 65
+* 12 * 13 -> 156.
+* 'O' is the mid point.
+
+![image](https://github.com/user-attachments/assets/98665e1f-70db-4fba-bee4-4fe53fa573bf)
+
+* [Formula]] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/3d03379f-3f60-4332-b49a-e9e005ba7fb8)
+![image](https://github.com/user-attachments/assets/4a9a5ec8-9493-400f-805a-f20b68256b38)
+
+* R -> Radius.
+
+![image](https://github.com/user-attachments/assets/1e68bf1a-9568-4ca4-9275-c87914171324)
+![image](https://github.com/user-attachments/assets/49f687d5-8bb7-4d87-88a3-72946ac6c559)
+![image](https://github.com/user-attachments/assets/f18e448f-c74e-4f17-9e74-251b0f209335)
+
+* [Formula]] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/6410d15e-6a79-4e6c-aced-436eea038142)
+![image](https://github.com/user-attachments/assets/6147eb25-b8fe-496f-a426-b3f9de5c85ac)
+![image](https://github.com/user-attachments/assets/63cf2bee-585e-4266-8bac-3789b07607e3)
+![image](https://github.com/user-attachments/assets/0ff36847-9a15-447a-987f-1ee88fa8b9eb)
+![image](https://github.com/user-attachments/assets/6f5709f0-2092-4479-b46d-f3b2a202b59e)
+![image](https://github.com/user-attachments/assets/4f4f2cfd-acdf-470c-a213-394b55110ecb)
+
+* Method **1**.
+
+![image](https://github.com/user-attachments/assets/7760a650-f98a-453a-8a52-af8e76817342)
+
+* Method **2**.
+
+![image](https://github.com/user-attachments/assets/cba07d15-c5b1-4baf-9cd4-7adfd0612532)
+![image](https://github.com/user-attachments/assets/6e54af83-2020-488a-a56d-05915c8f150b)
+![image](https://github.com/user-attachments/assets/33cc23d7-56e2-4cf8-82d3-8eb312dbacfd)
+![image](https://github.com/user-attachments/assets/8b2c95d0-3e81-4c7f-85bb-23d79d2cd446)
+
+* [Formula]] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/cc15c2f7-86a5-4b75-8274-8e1b068accb4)
+
+* [Formula]] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/88ebc7ce-5f67-40a4-8e04-d8a22aa9f4df)
+
+* [Formula] [**VERY IMPORTANT**] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3259,4 +3417,5 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/5d1b5ea3-77f0-4703-9b16-32afb15a99b9)
-
+![Uploading image.png…]()
+![Uploading image.png…]()
