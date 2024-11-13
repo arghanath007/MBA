@@ -2929,12 +2929,15 @@
 
 * [Formula] [**VERY IMPORTANT**] 
 
+![image](https://github.com/user-attachments/assets/1e7e5ae4-e68e-4d81-b67e-a2a3e11e4d01)
+![image](https://github.com/user-attachments/assets/744f77f6-a3ef-40bc-9b1a-f435a94bc2b5)
+![image](https://github.com/user-attachments/assets/d883151a-ffc2-46e2-ae3f-3fc2f6bdcc43)
 
 
 
 
 
-
+ 
 
 
 
