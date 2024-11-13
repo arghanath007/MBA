@@ -1092,42 +1092,148 @@ D
 ![image](https://github.com/user-attachments/assets/39dc1d11-74f5-440e-938d-b56598a8192c)
 ![image](https://github.com/user-attachments/assets/58ecc2d4-2c14-4b26-a570-9d05f1d08520)
 ![image](https://github.com/user-attachments/assets/8ec87d51-4c6f-458f-ba4b-afb0ba6ac85c)
+![image](https://github.com/user-attachments/assets/8d29f30f-f2ad-4aac-a03c-b4101829c966)
+![image](https://github.com/user-attachments/assets/57c3dc8b-7762-400e-ab5c-2440cb163c61)
+![image](https://github.com/user-attachments/assets/233976c1-fcd1-4c98-b07a-ded97d0b667d)
+![image](https://github.com/user-attachments/assets/7b34f287-06fb-47aa-863e-d06fb903cec9)
+![image](https://github.com/user-attachments/assets/eb251172-aee5-49ee-b1fe-7aec1eb33376)
+![image](https://github.com/user-attachments/assets/334f4519-56d9-46f9-9b24-6bba18dc4fd8)
+![image](https://github.com/user-attachments/assets/8abd9113-0a0f-408d-a8bf-6a337e6f27bf)
 ![image](https://github.com/user-attachments/assets/523377ef-8623-492a-890d-fa8b50329421)
+![image](https://github.com/user-attachments/assets/5e40b734-9350-49bd-a08a-94a19bd7ea5e)
 
-D
+* C.
 
 ![image](https://github.com/user-attachments/assets/2c6f4539-5354-4c03-91e0-4630f39ec1ad)
+![image](https://github.com/user-attachments/assets/7fcdf0ed-6b1c-4a5b-996e-036745d74659)
+![image](https://github.com/user-attachments/assets/1b422764-56e7-4e45-8064-81cc1d049672)
 
-D
+* Temple -> It is a body part. [Meaning]
+* B, C, D -> External.
+* A
 
 ![image](https://github.com/user-attachments/assets/de688dfc-6302-48be-aacb-ba1b4ea27185)
+![image](https://github.com/user-attachments/assets/a1f1b670-4c24-4df7-896c-e4878a817e2f)
 
-D
+* B
 
 ![image](https://github.com/user-attachments/assets/3bb5679a-9079-41b4-be51-90d44dc168a2)
+![image](https://github.com/user-attachments/assets/302b96b9-bc21-4b60-bb48-762d83208692)
+![image](https://github.com/user-attachments/assets/e92ec571-858f-48b2-b004-06591a834379)
 
-C
+* C.
 
 ![image](https://github.com/user-attachments/assets/ebd61f24-6b31-4005-99b1-83ebfb94f098)
 ![image](https://github.com/user-attachments/assets/0a9ca639-ae1a-4af4-ae13-c2645c2c2c32)
 ![image](https://github.com/user-attachments/assets/4ccabed0-fa9f-4be7-adce-da70a6586cf8)
+![image](https://github.com/user-attachments/assets/fac06f51-d6d2-41e9-8f16-7724be637786)
+![image](https://github.com/user-attachments/assets/de60dd88-4785-489f-a1e6-d94afbd4e9ca)
+![image](https://github.com/user-attachments/assets/4546b2d3-f3b5-4c15-b2d3-f3a635666f4b)
+![image](https://github.com/user-attachments/assets/bb6ed773-5178-4e5e-a836-cead99fb5666)
 ![image](https://github.com/user-attachments/assets/52acf75b-ceaa-4bf5-bd08-9754fb266f26)
+![image](https://github.com/user-attachments/assets/cd693231-f2b0-41ff-9377-3da422c5e436)
+![image](https://github.com/user-attachments/assets/32b315c0-ffb0-4dee-b759-ee32b8f3541b)
 
-B
+* A.
 
 ![image](https://github.com/user-attachments/assets/86dd39b3-a411-49c8-9c23-72d24798ef54)
+![image](https://github.com/user-attachments/assets/d3a4a197-2020-4302-9a02-ee233668a251)
 
-C
+* C.
 
 ![image](https://github.com/user-attachments/assets/cc48fa0f-a8fd-466d-9e8b-4020032afd02)
+![image](https://github.com/user-attachments/assets/d2c05d07-e78e-42d2-8e68-729663ac95ea)
+![image](https://github.com/user-attachments/assets/32741fe1-6fa5-4d7e-acb8-9c222efa7a0c)
 
-C
+* C.
 
 ![image](https://github.com/user-attachments/assets/bea19ff9-e659-4cc8-b08c-8b3c3e3e0b6b)
+![image](https://github.com/user-attachments/assets/1b5c5939-7c45-4460-bec8-44b3e8563bfd)
+![image](https://github.com/user-attachments/assets/57606842-a9ad-4162-882d-a5805d6db33b)
+
+* Hypocritical ->  professing feelings or virtues one does not have. [Meaning]
+* hypocrisy -> insincerity by virtue of pretending to have qualities or beliefs that you do not really have.  [Meaning]
+* B.
+
+![image](https://github.com/user-attachments/assets/069cdf51-6b6c-4b76-98bd-7bdf60653050)
+![image](https://github.com/user-attachments/assets/abf8f95e-d10b-4a8d-8486-8f31a0382d08)
+![image](https://github.com/user-attachments/assets/9dbb31e1-0ead-415b-87a9-466aea5aa062)
+![image](https://github.com/user-attachments/assets/f36781c6-e4e9-4626-bb70-086999335610)
+
+A
+
+![image](https://github.com/user-attachments/assets/192a6e93-34f8-45d7-b03b-7ed1c6272316)
 
 D
 
-![image](https://github.com/user-attachments/assets/069cdf51-6b6c-4b76-98bd-7bdf60653050)
+![image](https://github.com/user-attachments/assets/f5dc09e0-1f20-4014-92b9-f5b32b1f0c9f)
+
+B
+
+![image](https://github.com/user-attachments/assets/bf60c47e-9853-4615-921c-ef42bfff9761)
+
+B
+
+![image](https://github.com/user-attachments/assets/5bdfda65-5c61-4617-a5f4-9f5dccbcc772)
+![image](https://github.com/user-attachments/assets/5d8a5f8d-1abe-495c-84a0-e046d6938cf0)
+
+* VA-1.
+* C.
+
+![image](https://github.com/user-attachments/assets/d3c0201e-5c4c-4bf5-8ff4-08e4383f0e21)
+![image](https://github.com/user-attachments/assets/a306044b-3538-49c9-a8b5-09f12946178f)
+
+* VA-2.
+* 4/D.
+
+![image](https://github.com/user-attachments/assets/da3fc232-1894-437c-b719-09b553eb6381)
+![image](https://github.com/user-attachments/assets/1384e2f8-20ed-48bf-8b16-198f7ee448f3)
+![image](https://github.com/user-attachments/assets/01961759-cc63-4833-ada6-3cecac32450c)
+
+* 3421. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e507b024-a929-40d0-8c83-05af2470dc48)
+![image](https://github.com/user-attachments/assets/83fc183c-dbe8-4468-8360-5f11b7877f37)
+![image](https://github.com/user-attachments/assets/9103f6d4-826f-4743-ada9-ad5dd7282b21)
+![image](https://github.com/user-attachments/assets/bb8c47a1-91e6-48bf-a390-f3fdf99c07e7)
+
+* C. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5fadc7b2-e4a2-4e8f-b43d-ebc34030278c)
+![image](https://github.com/user-attachments/assets/b39b4655-f6f7-4660-b04a-761de79291e1)
+![image](https://github.com/user-attachments/assets/5cb33203-f4ce-471c-9ab6-3d18539e5c13)
+![image](https://github.com/user-attachments/assets/94037f99-9ac7-4396-8c02-1b3d111fed49)
+![image](https://github.com/user-attachments/assets/dc02ccfc-d649-4efe-84d0-ae748e07198b)
+![image](https://github.com/user-attachments/assets/e67369e5-927c-4b2a-a23d-a82277d69a6a)
+
+* D. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7b167140-87b1-4359-b70d-a44e9519a462)
+![image](https://github.com/user-attachments/assets/b8b018d3-5a36-4cbc-bcf1-67348a535339)
+![image](https://github.com/user-attachments/assets/965ff220-16ab-47e2-b59b-e16eebb8fb40)
+![image](https://github.com/user-attachments/assets/84b54d37-647b-47d6-89d8-757ffe519fe8)
+
+* B/2.
+
+![image](https://github.com/user-attachments/assets/3f6b1e2f-fe7c-4e40-8175-e653339ba2b4)
+![image](https://github.com/user-attachments/assets/81d3eb5e-8f4f-401a-a4c9-484411b2cc0b)
+![image](https://github.com/user-attachments/assets/9eeff0fb-4edd-449f-b5a9-e602512e7e24)
+![image](https://github.com/user-attachments/assets/a0c1c78d-cb32-4aef-9a30-78ab73f37f0b)
+![image](https://github.com/user-attachments/assets/f98aec31-0294-48d1-a9f5-96e23b26f779)
+
+2413.
+
+![image](https://github.com/user-attachments/assets/e037779d-dcbd-47e7-be25-26cf748b880e)
+![image](https://github.com/user-attachments/assets/1acc659a-0d1e-437d-bf1b-acf4a3a634f7)
+![image](https://github.com/user-attachments/assets/710dd49c-9749-4549-a228-e096cf325262)
+![image](https://github.com/user-attachments/assets/c58184c8-945c-4ca7-bc4d-013f46977969)
+
+* A.
+
+![image](https://github.com/user-attachments/assets/12bfa891-ae16-465c-b832-ec74ff0eec6f)
+
+* [**VERY IMPORTANT**]
+
 
 
 
