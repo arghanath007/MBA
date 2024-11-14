@@ -3374,25 +3374,57 @@
 
 * [30]
 
+![image](https://github.com/user-attachments/assets/ee33c22d-245d-4de7-96be-19a0a312c4a2)
+![image](https://github.com/user-attachments/assets/d788d043-60e9-4f2c-91a7-2648932b2d01)
+![image](https://github.com/user-attachments/assets/9ac79297-fe75-405f-93ee-1e9520829e0b)
+![image](https://github.com/user-attachments/assets/7bf81422-b8ed-4dad-aa34-d9dc02d762da)
 
+* [31] [Formula]
 
+![image](https://github.com/user-attachments/assets/4be6cbe7-d050-4e6f-a693-5969b8c3ff5c)
+![image](https://github.com/user-attachments/assets/d5b706ab-eedd-4615-b6a7-a4df7632d240)
+![image](https://github.com/user-attachments/assets/67d53c46-0922-4749-8801-d907bb45f865)
+![image](https://github.com/user-attachments/assets/bf46470c-679f-4770-b411-da059a4111a3)
 
+* [32] 
 
+![image](https://github.com/user-attachments/assets/4c408739-3e9b-44ec-8d48-460936788e0a)
 
+* [33] 
 
+![image](https://github.com/user-attachments/assets/0e953cca-07fe-4d81-ab82-b18200d8a3b1)
 
+* [34] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/3161f9d3-f589-460b-8e30-ecf79636ecbd)
+![image](https://github.com/user-attachments/assets/c9ef2b18-22fe-465e-beeb-2885c5f06620)
 
+* [35]
 
+![image](https://github.com/user-attachments/assets/a57a794c-16b0-4bd0-a114-d5634dbcbca2)
+![image](https://github.com/user-attachments/assets/a8082eb3-0549-4a51-a8c4-51fe78696174)
+![image](https://github.com/user-attachments/assets/cd17ff6e-d9e1-426b-aea4-fe96788a31b9)
 
+* 'b1 and b2' are roots of the equation.
+* -(b/a) = -(-2/1) = 2.
 
+![image](https://github.com/user-attachments/assets/77cfe35c-bb32-4553-bc7a-183713d3732d)
+![image](https://github.com/user-attachments/assets/d67d5018-5f5c-4cae-a085-96116e405395)
+![image](https://github.com/user-attachments/assets/9790553a-2039-4388-8830-6e36d307fce8)
+![image](https://github.com/user-attachments/assets/94b4bfce-dc0f-4c85-8f62-6c1ed3e7c7ca)
 
+* [36]  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5662a797-5caf-4c01-be31-ae07402f3e14)
 
+* n = 30.
 
+![image](https://github.com/user-attachments/assets/21f0e6ca-2f43-421c-8865-f8c716ae77d1)
+![image](https://github.com/user-attachments/assets/8fa3743a-6465-4460-93e6-ee15b9acd2b1)
+![image](https://github.com/user-attachments/assets/303ce938-a1fd-4e58-aa51-59d2b1229ae9)
+![image](https://github.com/user-attachments/assets/271344e9-0237-45a4-9f61-cf510ddb8d88)
 
-
-
+* [37] 
 
 
 
