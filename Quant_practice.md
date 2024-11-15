@@ -2932,19 +2932,38 @@
 ![image](https://github.com/user-attachments/assets/1e7e5ae4-e68e-4d81-b67e-a2a3e11e4d01)
 ![image](https://github.com/user-attachments/assets/744f77f6-a3ef-40bc-9b1a-f435a94bc2b5)
 ![image](https://github.com/user-attachments/assets/d883151a-ffc2-46e2-ae3f-3fc2f6bdcc43)
+![image](https://github.com/user-attachments/assets/494491de-c88f-4e92-8390-2283e8cd1f92)
+![image](https://github.com/user-attachments/assets/b2dcf52b-0d63-44ea-9ec9-c50e3700edd9)
+![image](https://github.com/user-attachments/assets/a0b7e23f-d49c-4268-897a-5a87f4ec012c)
 
+* 25% -> 1/4 -> '4' is the loan amount and '1' is the interest on the loan.
+* 1 + 4 -> 5 -> We owe to the bank.
+* Loan : Payment to bank -> 4 : 5.
 
+![image](https://github.com/user-attachments/assets/6360032e-c7ec-4db2-adb2-a7605d33df25)
+![image](https://github.com/user-attachments/assets/d448ca84-df2f-4804-a577-2035ecb0ad8d)
+![image](https://github.com/user-attachments/assets/ee8d501f-ea19-4724-b284-bae099b84a06)
+![image](https://github.com/user-attachments/assets/5d2ad5da-76fc-429f-93ec-35ddf1d8e615)
+![image](https://github.com/user-attachments/assets/1848a65f-9821-486a-9e90-9754bb487e24)
+![image](https://github.com/user-attachments/assets/6c287963-c349-4914-921e-f090b0804e11)
 
-
-
+* [**VERY IMPORTANT**]
  
+![image](https://github.com/user-attachments/assets/c5242479-a534-433d-90ee-8f72f323f69e)
+![image](https://github.com/user-attachments/assets/1f0e7cca-9cb1-4464-9016-9b837f42a929)
+![image](https://github.com/user-attachments/assets/f675bb9a-59e3-4682-b494-9cef2aaabc0b)
+![image](https://github.com/user-attachments/assets/e9919f78-4cbd-4973-b795-39c423f4b646)
+![image](https://github.com/user-attachments/assets/1af9d6ef-f1de-4d33-bee0-b651e2a5075a)
+![image](https://github.com/user-attachments/assets/2eb52834-4060-462c-a190-f477c8e2b97b)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f1567a6a-123c-4d29-8d3e-97cc1ec4a5b5)
 
-
-
-
-
+* 1st yr -> X ^ 3 * (1/x) -> X ^ 2.
+* 2nd yr -> X ^ 2 * (1/x) -> X.
+* 3rd yr -> X * (1/x) -> 1.
+* [Formula] [**VERY IMPORTANT**]  
 
 
 
