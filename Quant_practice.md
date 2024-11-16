@@ -3068,6 +3068,65 @@
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/47fac92b-e69b-467a-a1e0-0dc92d95cb9b)
+![image](https://github.com/user-attachments/assets/f8b83b85-4321-4e4f-a915-d5d6f6f1261d)
+![image](https://github.com/user-attachments/assets/f905c19b-e0f2-4901-8a54-71093599e0e3)
+![image](https://github.com/user-attachments/assets/ff9c157a-4490-4621-b90f-8893b8213ae5)
+![image](https://github.com/user-attachments/assets/92b47bcd-9b0d-44c2-a1d5-3ac6a1b9b6ee)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/53f8c233-afd2-49c9-ac5b-27bcd66d0880)
+![image](https://github.com/user-attachments/assets/520fd4f9-0d2c-42eb-8edb-2379a37670cd)
+![image](https://github.com/user-attachments/assets/51644127-09ca-4cca-a3f3-7dbb4d72ac07)
+![image](https://github.com/user-attachments/assets/1b2c5fe3-86ed-4089-ad08-b51b65009a70)
+
+* Even no. power -> x.
+* 2012/2 -> 1006.
+
+![image](https://github.com/user-attachments/assets/8ff0b190-e8f2-4a18-ba22-3f8d5ce056b9)
+![image](https://github.com/user-attachments/assets/ffe8a208-ff6d-4e37-a91a-360707519504)
+![image](https://github.com/user-attachments/assets/dcfe811f-d501-4626-b5a9-e989f394184c)
+![image](https://github.com/user-attachments/assets/c6c6b015-ec0c-438c-a303-8fffc464793a)
+![image](https://github.com/user-attachments/assets/8f6e4be0-8548-4265-806a-05450a5e793f)
+
+* Cycle/repeatation.
+
+![image](https://github.com/user-attachments/assets/7692908e-a028-4803-aaf5-0aaa32342477)
+
+* f(5) = 7.
+* f(5 + 6) -> f(11) = 7. [Cyclicity]
+
+![image](https://github.com/user-attachments/assets/f663ced7-20b7-466a-b519-818a54e7feb3)
+![image](https://github.com/user-attachments/assets/4c07eb26-06b3-4413-993f-25ad387f3f42)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8c50fba7-a67d-4b4c-aa99-b9196cc70d52)
+![image](https://github.com/user-attachments/assets/0a6bb0ac-cfa3-43bf-9fa4-aa779d7bfc94)
+![image](https://github.com/user-attachments/assets/89d865c1-40cf-47c5-b6ab-ff30abe1b4a9)
+![image](https://github.com/user-attachments/assets/d8731acf-d72f-4d22-a724-b188134bc1e4)
+![image](https://github.com/user-attachments/assets/f2954d59-67bf-4800-8f50-8085b4edf65c)
+
+* We don't know the value of f(2/3).
+* f(2/3) = 2 * f(1/3).
+* f(1/2) = 1/2.
+
+![image](https://github.com/user-attachments/assets/5a517a2c-237d-4a10-af67-25f34adf0699)
+
+* [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
