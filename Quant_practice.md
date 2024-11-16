@@ -3116,6 +3116,121 @@
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ff158a0f-3370-4343-8153-f2ffa8af80f7)
+![image](https://github.com/user-attachments/assets/b5c5b648-a531-499a-8769-c7c4d648fe65)
+![image](https://github.com/user-attachments/assets/d6bf6bee-3b0d-48ab-af8b-781afd6df3b5)
+![image](https://github.com/user-attachments/assets/b33c77a0-daed-4ec6-b79f-1bc695feef70)
+
+* The values cannot be **negative**.
+
+![image](https://github.com/user-attachments/assets/1bfc700c-be1b-424e-964e-84e8d556acfc)
+![image](https://github.com/user-attachments/assets/da201c4c-38d2-4b75-ab68-350562632b24)
+![image](https://github.com/user-attachments/assets/edf0898f-53fc-4623-9841-4f1972007bc9)
+
+* 0.04 -> 4/100.
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/df5eb30a-ae79-413a-87c0-aae73daa00fe)
+![image](https://github.com/user-attachments/assets/97189267-0164-405a-85e8-502c945fd673)
+![image](https://github.com/user-attachments/assets/f19f6f39-d9aa-4700-b515-51a49fdd6ce3)
+![image](https://github.com/user-attachments/assets/19918db2-8376-49d8-a312-053012249332)
+![image](https://github.com/user-attachments/assets/37d65c39-acfa-4861-b196-16bb87d044b9)
+![image](https://github.com/user-attachments/assets/e10618f9-fde7-4252-ad02-c30f93eef7ab)
+![image](https://github.com/user-attachments/assets/39541f91-2610-4c34-84be-77e85b231e5f)
+![image](https://github.com/user-attachments/assets/66764969-9052-4657-88a5-39aee23816da)
+![image](https://github.com/user-attachments/assets/8501254c-fb6d-4b8b-b107-ab754854fbf3)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c3bdd061-da41-4d4d-9a33-8c3263d6f0e9)
+![image](https://github.com/user-attachments/assets/bb1597bf-dc47-47dd-ba8a-b53c49de7440)
+![image](https://github.com/user-attachments/assets/b56de9b7-672e-424d-923f-25c7989f86dd)
+![image](https://github.com/user-attachments/assets/e119f0fb-0dc7-417f-b6f6-8785845331b8)
+![image](https://github.com/user-attachments/assets/8cf85873-5b4c-40d5-808e-0b349adc51ba)
+![image](https://github.com/user-attachments/assets/2a0acc5a-94c5-4dd8-b60a-8ee6de6db67f)
+![image](https://github.com/user-attachments/assets/6aec9038-1043-4e82-b81f-ef3ec18335ff)
+
+* f(n) = n -> Always.
+* f(2016) = 2016.
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3080aceb-2838-447f-8dc2-2aa8a969fa87)
+![image](https://github.com/user-attachments/assets/34244aea-49e5-4bc1-ac26-5ecf4092749f)
+![image](https://github.com/user-attachments/assets/15e77c9b-f415-4a1b-8579-8c66c0e3dfcd)
+
+* Positive integers.
+
+![image](https://github.com/user-attachments/assets/cb91448f-0aeb-4f47-af96-2947d49b2275)
+![image](https://github.com/user-attachments/assets/9c59fc12-6e8c-4f66-b35b-84ed7d712af3)
+![image](https://github.com/user-attachments/assets/7b0f6597-e477-4a0f-956d-4eaa9bd36984)
+![image](https://github.com/user-attachments/assets/94f57eb5-5f13-4b20-bc24-3a32cb3c50ab)
+![image](https://github.com/user-attachments/assets/6726cc78-0925-4684-b4e1-fa871841ec14)
+![image](https://github.com/user-attachments/assets/0a3708fd-8115-452d-8360-f457279b9a4d)
+![image](https://github.com/user-attachments/assets/c6c8c153-dc5b-4630-b0df-66629cad43ec)
+![image](https://github.com/user-attachments/assets/119feda1-815e-4761-8490-fdf924557f53)
+
+* n -> no. of terms.
+* F -> First term.
+* L -> Last term.
+* AP series.
+* [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
