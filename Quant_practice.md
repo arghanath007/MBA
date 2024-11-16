@@ -2965,57 +2965,108 @@
 * 3rd yr -> X * (1/x) -> 1.
 * [Formula] [**VERY IMPORTANT**]  
 
+![image](https://github.com/user-attachments/assets/a67454fc-35c6-45da-9d99-9c2826898840)
+![image](https://github.com/user-attachments/assets/31eebb71-77e4-43ca-88c2-452466b7d754)
 
+* 3B + C = 2150 -> 3 * 700 + C = 2150 -> C = 50.
 
+![image](https://github.com/user-attachments/assets/dde2c2a3-5ec8-40d9-8f39-6c75a98f9075)
+![image](https://github.com/user-attachments/assets/dfd27833-ea0c-4424-b58f-d4f1ad30b417)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/6659cca1-46ea-4680-a565-012216893020)
+![image](https://github.com/user-attachments/assets/c33be294-812e-4f7b-8540-5f87fbfad7dc)
 
+* 3B + C = 366 -> 3 * 120 + C = 366 -> C = 6.
 
+![image](https://github.com/user-attachments/assets/aed64fac-6b01-4022-9c8b-f40da084e370)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b6ef3c66-bc18-410c-b039-6236392e2971)
+![image](https://github.com/user-attachments/assets/74c9ac7d-9c49-4127-8056-bb3a4274079e)
 
+* Method **2**.
 
+![image](https://github.com/user-attachments/assets/34dc6cec-aea1-4b30-9e18-e9e56c943cd2)
+![image](https://github.com/user-attachments/assets/506b52c5-6d05-4bd4-85e7-5e08281fc8e2)
 
+* Method **3**. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/46757458-63c0-4915-a6bb-3c9465a6e17d)
+![image](https://github.com/user-attachments/assets/c984ba26-cf1e-4631-950f-d985829bfbda)
+![image](https://github.com/user-attachments/assets/ea0d117d-e03d-45ac-9350-ec44876ad7f7)
 
+* 8 * 4 -> 32% -> 1.32.
+* 8% -> 1.08%
 
+![image](https://github.com/user-attachments/assets/8bd20f59-ddf4-400b-a7f1-b2d60590f086)
+![image](https://github.com/user-attachments/assets/182a50a5-245d-42a9-a066-bb7128487eff)
+![image](https://github.com/user-attachments/assets/4782d0b9-895e-409e-b382-7b3ca510f3ff)
+![image](https://github.com/user-attachments/assets/4677d16a-9cc2-45fb-9555-60806ab5b78d)
+![image](https://github.com/user-attachments/assets/2d5c3859-1792-4153-99d6-427347c9da71)
+![image](https://github.com/user-attachments/assets/9b4c2a42-1528-4500-859b-6e7ada9ade0c)
 
+* 1 : 8 -> 1000 : 8000.
+* 1 : 8 -> A bit less than 1000.
 
+![image](https://github.com/user-attachments/assets/aecd28ca-b33f-47f5-b97b-230fe396e1c8)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/93a28231-5404-4e19-a2cd-0e843add86dc)
+![image](https://github.com/user-attachments/assets/42679ee9-3c86-4b0b-ae7e-6d54fc6e3b57)
+![image](https://github.com/user-attachments/assets/bdd16e91-a619-491c-8a80-a6cfbb32bf00)
+![image](https://github.com/user-attachments/assets/a813cd27-170c-4ea4-959e-82145a9bcd2d)
 
+* 100x -> 100 * 100 -> 10000.
 
+![image](https://github.com/user-attachments/assets/fa3d1a7e-6111-4ecf-8f73-b40e71d311a0)
+![image](https://github.com/user-attachments/assets/0f09057e-0f56-4087-90fd-793ce54bfc97)
+![image](https://github.com/user-attachments/assets/0f5feaac-8f0b-4bd3-91a2-98a1a0699e6b)
+![image](https://github.com/user-attachments/assets/eca08934-6900-408f-a17c-b936e9c5f4a3)
+![image](https://github.com/user-attachments/assets/7f813e77-9467-4432-b11d-dec91520385c)
+![image](https://github.com/user-attachments/assets/296f3c22-4c65-49ac-a02d-f16b445658f5)
+![image](https://github.com/user-attachments/assets/ca03ba3c-52c6-47b3-8563-e55aaaad1515)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c6c17c7c-c264-450f-bfe0-c2cfb72218e0)
 
+* Method **2**.
 
+![image](https://github.com/user-attachments/assets/31f7755a-8b5a-4867-82a9-6e0ac37c23ce)
+![image](https://github.com/user-attachments/assets/290c1668-8707-46ac-9e6c-60d082fad7e5)
 
+* Mean, Median. [Formula]
 
+![image](https://github.com/user-attachments/assets/b8a95a85-7112-4015-83cf-16aa794d0c8c)
 
+* Without 'X'.
+* Mean > Median.
 
+![image](https://github.com/user-attachments/assets/e764a882-f50e-4475-9878-6a819186c7e2)
+![image](https://github.com/user-attachments/assets/b96e5ee8-d381-45bc-8fa8-d070f607f6ca)
+![image](https://github.com/user-attachments/assets/01744778-c263-416f-8116-c60927c95a0c)
+![image](https://github.com/user-attachments/assets/7940714d-6329-4e1f-b4be-0b840eae7eef)
+![image](https://github.com/user-attachments/assets/825bca8c-aef9-450e-ac1d-c6873ddaa6c0)
+![image](https://github.com/user-attachments/assets/3b5c3a35-2358-4a20-8d66-eae16e17575a)
 
+* X = Mean = 21.
+* Median = x = 21.
 
+![image](https://github.com/user-attachments/assets/923fe6df-6374-4010-b254-7f5dbc69ee18)
+![image](https://github.com/user-attachments/assets/c25dfff1-2781-4f5a-894c-fd9df6695a92)
 
+* We want 'mean = 23'.
 
+![image](https://github.com/user-attachments/assets/d6614081-4ad9-42cd-ab0f-d533675e3904)
+![image](https://github.com/user-attachments/assets/0d9d89af-fa3e-41e8-ae8e-a826f6597608)
+![image](https://github.com/user-attachments/assets/c09bd4cf-0887-49bb-b5cc-462e56a024ee)
+![image](https://github.com/user-attachments/assets/08ace4d2-1dcc-439e-a8ff-2cccd74e2a06)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [**VERY IMPORTANT**]
 
 
 
