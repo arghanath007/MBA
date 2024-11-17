@@ -3175,54 +3175,121 @@
 * AP series.
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f67d2b72-7392-4028-99df-dc82c7cc274d)
+![image](https://github.com/user-attachments/assets/d55f0b29-736a-48a5-930f-4824e54f0dfb)
+![image](https://github.com/user-attachments/assets/42b2b08c-bccf-4ba3-b38b-a1824ae68d8c)
 
+* Perfect square is always '0'.
 
+![image](https://github.com/user-attachments/assets/73c8b30c-ecf5-488b-a436-cadb2f30de50)
+![image](https://github.com/user-attachments/assets/ee924ae1-e52e-442b-b755-0af8bcbaf5d4)
 
+* Method **2**.
 
+![image](https://github.com/user-attachments/assets/6ce70136-8426-401d-9ed8-903b96c1be6d)
+![image](https://github.com/user-attachments/assets/94494154-e226-4511-9f61-9798c8677cb1)
+![image](https://github.com/user-attachments/assets/d0c07008-0a6f-470a-95fc-2c119bcc163d)
+![image](https://github.com/user-attachments/assets/e9e03fb1-5f59-4b06-b76f-5e5a158ec324)
+![image](https://github.com/user-attachments/assets/323d8198-9694-4941-b403-a0c395fef4dd)
+![image](https://github.com/user-attachments/assets/a5ed34a3-5ca1-4e34-b409-43b07a502389)
+![image](https://github.com/user-attachments/assets/14aad00f-192a-45f2-8b69-ea41fdaadc73)
 
+* >= 2 && <=2 -> Equal to '2'.
 
+![image](https://github.com/user-attachments/assets/0b65aebd-dc4e-40b5-9050-17590b34738a)
+![image](https://github.com/user-attachments/assets/fdaf4f62-d78a-4560-9e0b-b92acac81203)
+![image](https://github.com/user-attachments/assets/8baeb89c-2fea-4a48-96e2-1a1347b87a81)
+![image](https://github.com/user-attachments/assets/6b8b1636-6134-4da1-818f-20e260fdcc61)
 
+* Reciprocal of a no. which is already positive is also positive.
 
+![image](https://github.com/user-attachments/assets/a1b9bcf6-8cc6-4316-b4a0-69024d293a91)
+![image](https://github.com/user-attachments/assets/f1772d7f-c78b-441c-bffa-d1a1a8bf3991)
+![image](https://github.com/user-attachments/assets/3fdc816f-5807-4303-bf8d-68902895dbb3)
+![image](https://github.com/user-attachments/assets/b97fddeb-fd27-4f6e-acbd-051b08180532)
+![image](https://github.com/user-attachments/assets/5a22a647-589a-4ff8-a7ca-aa44b16753d6)
+![image](https://github.com/user-attachments/assets/a1b42315-72f7-4f73-b554-16189ba62f77)
+![image](https://github.com/user-attachments/assets/19817879-6999-4137-94a1-f774a67727aa)
+![image](https://github.com/user-attachments/assets/a21fb8d7-a6ca-49d1-916c-66f5b8f085db)
+![image](https://github.com/user-attachments/assets/2e35d890-8478-4aae-a653-2dac119fa33a)
+![image](https://github.com/user-attachments/assets/6440c8e8-cb32-4365-b724-d680232d2d5a)
+![image](https://github.com/user-attachments/assets/f0310c3f-e25c-446e-8077-05eede0ac714)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2abfcf75-5162-4cdd-ab2c-258fac99096a)
+![image](https://github.com/user-attachments/assets/432757ee-5c44-4c79-ad1e-5567be65d7be)
+![image](https://github.com/user-attachments/assets/8c8522a8-c87c-4d91-8347-1d272a1b88be)
+![image](https://github.com/user-attachments/assets/22473731-4bd3-4919-9897-339ab6d5081c)
+![image](https://github.com/user-attachments/assets/218f0e2a-daa0-4af1-8c90-cb3ed72da2a4)
+![image](https://github.com/user-attachments/assets/419a6959-90d5-4c07-8137-4bd992da4d5b)
 
+* Upper limit of the lower bound.
+* Lower limit of the upper bound.
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f7d5792c-bc3e-44ae-9789-0b46f46c6abb)
+![image](https://github.com/user-attachments/assets/7ff58419-8565-46fa-8e50-569d73c088aa)
 
+* Min. value of perfect square -> 0.
 
+![image](https://github.com/user-attachments/assets/200307d7-e7bd-452e-b03d-ccd014d0c0fe)
+![image](https://github.com/user-attachments/assets/bb55c903-6706-4029-ac49-6858df9d9524)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/9457384c-c3e5-4778-b348-356ddd53f050)
 
+* [**VERY IMPORTANT**]
+* | |x| - |y| | -> | 0 - 0 | -> 0. 
+* Min. value -> 0.
 
+![image](https://github.com/user-attachments/assets/974fe8d3-3b29-4a9e-bdc9-3a8c33f541c3)
+![image](https://github.com/user-attachments/assets/709abda2-c004-4537-b61a-87bc8cb2bb12)
 
+* Partitive -> Positive. [Meaning]
 
+![image](https://github.com/user-attachments/assets/11133683-71c0-4b9e-9d45-e93eb33cac84)
+![image](https://github.com/user-attachments/assets/0fa3f04a-b778-49a0-84dc-899fee619bcf)
+![image](https://github.com/user-attachments/assets/89895cba-8f64-424f-9378-51a4b985a8a1)
 
+* [X] -> Greatest Integer -> Always an **integer**.
 
+![image](https://github.com/user-attachments/assets/fa69530b-c632-4ae6-9fd5-39f4ca0c06bd)
+![image](https://github.com/user-attachments/assets/d0004954-2ed4-437b-a437-b0e6ade3fd57)
 
+* We want to keep it at **zero(0)**.
+* K = 0 -> We are looking at (x/99) one.
+* K = 1 -> We are looking at (x/101) one.
 
+![image](https://github.com/user-attachments/assets/3efd800a-b927-480b-ae4b-f028fa0a4143)
 
+* (x/101) -> Decides the starting limit.
+* (x/99) -> Decides the upper limit.
 
+![image](https://github.com/user-attachments/assets/4a6a2eb1-10cf-4f71-b20f-83d81278ef98)
+![image](https://github.com/user-attachments/assets/edbfad47-2a16-4d9d-8ca4-438c752fd594)
+![image](https://github.com/user-attachments/assets/3ac78dc7-ce32-4ddd-a9d3-10839373fca8)
 
+* General term of odd no -> 2n - 1.
+* 97 -> 2n - 1 -> 49 * 2 - 1 -> n = 49.
 
+![image](https://github.com/user-attachments/assets/f7999d63-91a8-4c95-979e-60270caa8a55)
+![image](https://github.com/user-attachments/assets/84c6e6b1-479f-400d-962b-156719853d76)
+![image](https://github.com/user-attachments/assets/052f29f5-effd-4e54-bd5d-de608aaead23)
+![image](https://github.com/user-attachments/assets/d19d7a8c-0d35-4798-90fc-d15e79b6bc2f)
+![image](https://github.com/user-attachments/assets/325ce3a7-0b9d-4533-88f5-aa36037bb205)
+![image](https://github.com/user-attachments/assets/74c7d396-4e1e-45ce-aa8c-d001ad6236c0)
+![image](https://github.com/user-attachments/assets/1b6f8045-abb0-4169-93ac-fb50dede4b56)
+![image](https://github.com/user-attachments/assets/520627f9-3278-4968-bf77-0a67fc1580a9)
+![image](https://github.com/user-attachments/assets/e8046558-0de4-4d12-b7b9-e06750b9b82d)
+![image](https://github.com/user-attachments/assets/331973f0-319c-453b-a64e-a1852c7167ff)
+![image](https://github.com/user-attachments/assets/8233348e-7f73-4737-a674-77fd0dab5233)
+![image](https://github.com/user-attachments/assets/5ba7b4af-0297-4fae-88df-8d5190ab5000)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Option **A, B and D** -> Possible.
+* Option **C** -> Not Possible.
+* Answer -> Option **C**.
 
 
 
