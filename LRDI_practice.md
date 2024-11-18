@@ -6906,22 +6906,52 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/303fcdee-1812-4178-a31f-595a74f24950)
 ![image](https://github.com/user-attachments/assets/dc1187e7-bb4e-486f-b3c2-9a30bee4aaab)
 ![image](https://github.com/user-attachments/assets/2486d5e7-e47c-40d8-b045-d7b94392b5a1)
+![image](https://github.com/user-attachments/assets/d28ebc1e-e121-4066-bf2f-e2e4f60e8734)
+![image](https://github.com/user-attachments/assets/cb3290be-f333-496c-a4b1-58b84bfb5d3c)
+![image](https://github.com/user-attachments/assets/d741c52f-e907-4906-a386-196ce8147a1f)
 
+* Multiplying entire row and column with '3'.
 
+![image](https://github.com/user-attachments/assets/102887a2-5921-4ed8-9001-f7ff71a68400)
+![image](https://github.com/user-attachments/assets/9f7a83f2-d7b7-41ce-84c2-7365289b71d6)
 
+* 270 * 1/6 -> 45x.
 
+![image](https://github.com/user-attachments/assets/669e3778-8a9d-4ea3-aeee-6e0a0395b5f0)
+![image](https://github.com/user-attachments/assets/9e3de403-a9ca-48ff-9c28-a51feb63b823)
+![image](https://github.com/user-attachments/assets/40e276c5-e3d4-44ac-8aa7-65399747d550)
+![image](https://github.com/user-attachments/assets/5e93ddee-697e-40ee-ad25-c57e08be588f)
+![image](https://github.com/user-attachments/assets/3ae713d1-65d7-4136-b1d4-b950b4bcd205)
+![image](https://github.com/user-attachments/assets/ff1aff96-d086-4503-84c0-5930c4b49a2a)
+![image](https://github.com/user-attachments/assets/7852fa5c-a54d-46c9-bce8-d26a7bb0b96d)
+![image](https://github.com/user-attachments/assets/8a7cde8c-d4e9-4670-839f-7c8ba1aa3f00)
 
+* Both the tables are representing same group of people.
+* Not Incorrect -> True(T).
+* False(F).
 
+![image](https://github.com/user-attachments/assets/c7a03475-f705-41dc-b24c-e998af7db493)
 
+* x = 2/3 -> No. of people cannot be in **fractions** -> This is **not possible**.
 
+![image](https://github.com/user-attachments/assets/6ba95331-aa7f-4cbc-8d67-fac1b5d06cf9)
+![image](https://github.com/user-attachments/assets/fd91ada4-daea-4f11-a88e-ba6d0a2d840c)
+![image](https://github.com/user-attachments/assets/27a61a06-0dd7-4732-9a0e-5080b2de13d1)
+![image](https://github.com/user-attachments/assets/0673ab5e-6dae-4846-a99c-707bb375e01c)
+![image](https://github.com/user-attachments/assets/659f2daf-9276-43ce-91e7-fc586af8facf)
 
+* All the nos. are multiple of '5'. 
 
+![image](https://github.com/user-attachments/assets/befc8f09-533b-4c7d-9f94-d109d94e2d3f)
+![image](https://github.com/user-attachments/assets/0c435b6f-6614-427d-a432-1cfb80e84418)
+![image](https://github.com/user-attachments/assets/f0d2f776-718e-4941-a413-0ffaeddb467b)
 
+* Definitely incorrect -> 100% false, not possible/possibility.
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/1f1cb2f2-a2da-43dd-9fa8-b93e0a840229)
+![image](https://github.com/user-attachments/assets/2e555705-2bb4-4062-8382-976440a1130a)
+![image](https://github.com/user-attachments/assets/5d1b55eb-08c9-46e0-8d66-46c7979303dd)
+![image](https://github.com/user-attachments/assets/3ffb3e3b-6500-450f-b0d7-f5665e0a08d1)
 
 
 
