@@ -3291,53 +3291,185 @@
 * Option **C** -> Not Possible.
 * Answer -> Option **C**.
 
+![image](https://github.com/user-attachments/assets/8e646973-a037-495f-82bb-2e09e5582e1e)
+![image](https://github.com/user-attachments/assets/aa5e430e-66d2-4486-8061-16fb4a69be80)
+![image](https://github.com/user-attachments/assets/d823fc5c-770c-45eb-9dae-c50d9857061e)
+![image](https://github.com/user-attachments/assets/0dd1421d-cd59-45d0-89c5-8b070df99005)
+![image](https://github.com/user-attachments/assets/d370614e-7068-45fd-b35d-f3875cb3abe5)
+![image](https://github.com/user-attachments/assets/b42ca011-c239-4b6c-8045-27497a87fd7d)
 
+* When **ON** is not asked. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1c4a160b-e6b1-4755-9bc1-544b02208f62)
+![image](https://github.com/user-attachments/assets/b78b068f-30d8-41a4-9dd7-a7b00461b3d6)
 
+* When **ON** is asked.
+* '34' in the opposite as '(0,0)' is already counted.
 
+![image](https://github.com/user-attachments/assets/2beb4c85-c6ee-40f7-abe2-4714205f37a7)
+![image](https://github.com/user-attachments/assets/9e6a581b-f9a1-4ec4-bacd-0abedc1c5ba6)
 
+* Y-axis already counted -> 0 to 6 -> 7.
+* X-axis already counted -> '0' is already counted -> 1 to 6 -> 6.
+* 35 - (7 + 6) -> 35 - 13 -> 22.
 
+![image](https://github.com/user-attachments/assets/ce8f22ad-4f92-4ef9-ad7c-678ec0da1cab)
+![image](https://github.com/user-attachments/assets/65a1c4b7-db10-4d53-8046-ab9dfa403216)
+![image](https://github.com/user-attachments/assets/5627eb2f-79fa-49dd-a0e2-5a2be3b1ef8f)
 
+* Ans -> 113.
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/6985c447-09bd-4479-9900-2b84d5eac2ed)
+![image](https://github.com/user-attachments/assets/837d2b4d-8ee7-4eb1-9820-26816ac4b7c9)
 
+* ax + by + c = 0. [Formula] [**VERY IMPORTANT**]
+* Line passing through Origin -> C = 0. [Formula] [**VERY IMPORTANT**]
+* Line parallel to y-axis -> coefficient of 'y' is '0' -> b = 0. [Formula] [**VERY IMPORTANT**]
+* Line parallel to x-axis -> coefficient of 'x' is '0' -> a = 0. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5551ee5d-5fe7-43be-9dea-c2843a80e5a3)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/73bf6e68-cc20-4415-a420-e5f8b8c7e8ec)
 
+* If parallel to x-axis.
 
+![image](https://github.com/user-attachments/assets/238364a3-99a7-4aed-a6b0-6d5634ec9bf7)
+![image](https://github.com/user-attachments/assets/62db0b48-968a-4ff7-b985-053d4ec3997f)
 
+* 'a and a' and 'b and b' have to be **same**.
+* 'c1 and c2' are to be **different**.
+* 24 - 15 -> 9.
+* d = 9/10.
+* d = 2R. [Formula] 
 
+![image](https://github.com/user-attachments/assets/826002f9-edbb-4767-975e-b1b28a0a0944)
 
+* Area = Pie * (R ^ 2). [Formula] 
 
+![image](https://github.com/user-attachments/assets/3df4fe38-ef0b-49d8-a8cf-98b13fbf8ada)
+![image](https://github.com/user-attachments/assets/ea591c4b-630f-48e7-aa69-6d67ae9d738f)
 
+* Slope = m1.
+* Lines are perpendicular -> Product of their slopes -> m1 * m2 = -1.
 
+![image](https://github.com/user-attachments/assets/e2c4c192-f94a-4f93-b540-21fe1ce484ec)
+![image](https://github.com/user-attachments/assets/578d7b2b-067c-470c-808f-c2476913674f)
 
+* Equation of the perpendicular line. We can only tell 'x and y' values. Others are unknown.
 
+![image](https://github.com/user-attachments/assets/046d4b30-318b-4957-98d7-aba633cb7048)
 
+* From the lines we will get a right-angle triangle.
+* Orthocenter of a right-angle triangle is at the '90' degree angle of the triangle.
 
+![image](https://github.com/user-attachments/assets/deca0ada-6d82-4f2e-8cc8-6e02cb470e6c)
 
+* To get the **Orthocenter** we have to solve the '2' equations.
 
+![image](https://github.com/user-attachments/assets/a4a05995-21bd-4fb3-a52e-29b8b9055a2d)
+![image](https://github.com/user-attachments/assets/4d6c7a54-9a3c-4205-98bc-7141167d2cbd)
+![image](https://github.com/user-attachments/assets/9599a0da-e6fd-49d8-a63a-c80fee1aeedf)
+![image](https://github.com/user-attachments/assets/1f051176-df58-487c-9f6c-152077632089)
 
+* When not making **perfect squares** -> Formulas needed. [Formula]
+* When making **perfect squares** -> Formulas are not needed. [Formula]
 
+![image](https://github.com/user-attachments/assets/0240f1e8-53d8-42f2-936a-286f25325f06)
+![image](https://github.com/user-attachments/assets/26d91bc3-b88d-474e-a1f6-a2b2af848942)
 
+* c = -3.
 
+![image](https://github.com/user-attachments/assets/5ad00834-1ac6-45f4-a1b1-8dd7dce73b45)
+![image](https://github.com/user-attachments/assets/6fc75890-c934-4cf6-9288-a996be33abc5)
+![image](https://github.com/user-attachments/assets/834203e2-6105-41ba-a4dd-a43e794ca61b)
+![image](https://github.com/user-attachments/assets/f0c6ce72-5515-4950-bce0-53d0c710ca1d)
 
+* Example. [Formula]
 
+![image](https://github.com/user-attachments/assets/fdc3a39a-024a-4479-9816-657af3fcd975)
+![image](https://github.com/user-attachments/assets/668f15ed-3781-4aa1-b2d2-2b11c88bc978)
+![image](https://github.com/user-attachments/assets/1bebddcf-e14c-4384-8b50-696ad4ff6a0c)
 
+* R1 = 3
+* R2 = 4
+* R1 + R2 = 7.
+* d = sqrt(10).
+* |R1 - R2| = 1.
 
+![image](https://github.com/user-attachments/assets/c9dd0882-2dd5-4efe-a912-de8380b45e34)
+![image](https://github.com/user-attachments/assets/4a0ce0d2-ea30-49d1-9463-86c579e367a6)
+![image](https://github.com/user-attachments/assets/93ed21d1-3400-4f56-9bb9-ac026c8f28c8)
 
+* Common Tangents. [Formula]
 
+![image](https://github.com/user-attachments/assets/31a02175-fee3-49f3-8531-76fba12e0c83)
+![image](https://github.com/user-attachments/assets/56ff19f3-9188-4725-b650-9d9db5b1142b)
 
+* Centre of circle -> (2,3).
 
+![image](https://github.com/user-attachments/assets/fef8a5cb-cfe8-496e-b18b-d90ae9e169b9)
+![image](https://github.com/user-attachments/assets/495ce77a-e386-4a69-b80f-7890d8d8c4d9)
+![image](https://github.com/user-attachments/assets/5b4ddede-e305-4d31-b5bf-a7bdba228d89)
+![image](https://github.com/user-attachments/assets/003968d7-13cd-450b-85a9-c40f27b31bb4)
+![image](https://github.com/user-attachments/assets/b6b53934-7908-4df1-9b82-505073ed61af)
 
+* Centre of circle -> (-1, -3).
 
+![image](https://github.com/user-attachments/assets/f6a98159-8fb9-4216-bdb3-374c4bb096fc)
+![image](https://github.com/user-attachments/assets/fbd62265-c6c2-4c0c-b108-276cb4c45cfa)
 
+* Distance between the '2' centers -> 17.
+* R1 = 5
+* R2 = 9
+* R1 + R2 -> 14. 
 
+![image](https://github.com/user-attachments/assets/9e0795b2-7fb5-42cc-afb7-7bed1df24064)
+![image](https://github.com/user-attachments/assets/871bc1bd-2652-4df9-b18b-5be3487217af)
 
+* Minimum -> Shortest distance.
 
+![image](https://github.com/user-attachments/assets/2ae1733f-54e0-4124-9f16-227975a4f537)
 
+* Maximum -> Longest distance.
 
+![image](https://github.com/user-attachments/assets/9a10c13b-6727-4eda-a58f-d5688cf5103d)
 
+* PX = 5
+* QY = 9
+
+![image](https://github.com/user-attachments/assets/1873a8a4-0d7d-47d4-accc-0784f2f0e4ce)
+![image](https://github.com/user-attachments/assets/d49ca8d3-73de-4998-8209-4d230e72cb9f)
+
+* Minimum -> Shortest distance.
+* Maximum -> Longest distance.
+* MP = 5
+* QN = 9
+* MP + QN = 14.
+
+![image](https://github.com/user-attachments/assets/0055a1ff-b385-4334-8708-47012a59d440)
+![image](https://github.com/user-attachments/assets/b73ee63c-e2cc-4148-8be7-f0967f54fd1c)
+![image](https://github.com/user-attachments/assets/096f116b-658f-4b5f-a0a5-921216c59415)
+
+* 289 -> 17 * 17.
+* R = 17 -> Radius of circle.
+
+![image](https://github.com/user-attachments/assets/1eb4dcda-d39a-43a7-9f28-2de339ee6f1e)
+![image](https://github.com/user-attachments/assets/9cb2da3d-9938-4c5e-b6f6-601a8cd09a7e)
+![image](https://github.com/user-attachments/assets/86721629-4448-4f42-a7ed-ba19eb1916ec)
+
+* 24 ^ 2 + 7 ^ 2 -> 625
+* sqrt(625) -> 25. [Pythagoras theorem]
+
+![image](https://github.com/user-attachments/assets/5e02c5eb-5e4a-4d1c-876a-b551df4f71bf)
+![image](https://github.com/user-attachments/assets/a2010399-9246-4609-83a0-37dacdb29c92)
+![image](https://github.com/user-attachments/assets/000f0a3c-d5c5-4b63-86b4-4715e0ec84ad)
+![image](https://github.com/user-attachments/assets/511dbc38-bc39-4e84-a022-7932201073ad)
+![image](https://github.com/user-attachments/assets/06c91f72-362a-4676-af3d-3b6643141312)
+![image](https://github.com/user-attachments/assets/82805fe0-2cac-4666-b27a-403d2487fdc8)
+![image](https://github.com/user-attachments/assets/d54de646-8230-4840-976d-7088ee0ac24b)
 
 
 
