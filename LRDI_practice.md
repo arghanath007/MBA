@@ -6892,12 +6892,20 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/67c0191e-d44c-449f-8b7f-f1f28a72222a)
 ![image](https://github.com/user-attachments/assets/2c5b6cc6-0e60-4a82-8669-b3821f0d827f)
 
+### Sectionals
 
+#### 9
 
+![image](https://github.com/user-attachments/assets/816ffe0d-defc-48f6-b469-1c85c52c9c0d)
+![image](https://github.com/user-attachments/assets/ffc2876e-1ad3-4e41-8bf1-a33968395e72)
+![image](https://github.com/user-attachments/assets/de66dd03-7985-489b-83b3-4545957ca67d)
+![image](https://github.com/user-attachments/assets/62d7f0d7-c575-41f0-bea6-951952d4d109)
 
+* 16.66% -> 1/6.
 
-
-
+![image](https://github.com/user-attachments/assets/303fcdee-1812-4178-a31f-595a74f24950)
+![image](https://github.com/user-attachments/assets/dc1187e7-bb4e-486f-b3c2-9a30bee4aaab)
+![image](https://github.com/user-attachments/assets/2486d5e7-e47c-40d8-b045-d7b94392b5a1)
 
 
 
