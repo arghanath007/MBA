@@ -3489,23 +3489,43 @@
 
 * If we put 'x = 14'.
 
+![image](https://github.com/user-attachments/assets/65d87d92-9e1b-4d11-ba09-ef031f3ea8e8)
+![image](https://github.com/user-attachments/assets/8c3c1421-a026-4369-9ca4-e66dc3093d30)
+![image](https://github.com/user-attachments/assets/f7d649e9-fee0-495b-809f-a57d3a4e6263)
+![image](https://github.com/user-attachments/assets/2af8b4ae-ba9d-4985-b228-1cf5fe69e233)
+![image](https://github.com/user-attachments/assets/b0efd15e-e7a2-4278-85e6-6133a07abca9)
+![image](https://github.com/user-attachments/assets/4e7a12bb-8467-4065-b700-e3103bb80ab9)
 
+* corrections.
 
+![image](https://github.com/user-attachments/assets/983dec9d-ac73-41ed-badc-bcb02ed98302)
+![image](https://github.com/user-attachments/assets/6523f2d1-d750-46b0-bd77-0a865c8e97f2)
+![image](https://github.com/user-attachments/assets/6e5b6f0c-f10b-4e14-9a53-b30ef2d5724b)
 
+* We started from '2,0' and it will end with '2,0' only.
 
+![image](https://github.com/user-attachments/assets/aa7059ed-cf00-416c-b0b2-0cbb9b0959b8)
+![image](https://github.com/user-attachments/assets/d2b40b43-f5e7-42c5-a8a0-70dde367381b)
+![image](https://github.com/user-attachments/assets/07b0e93c-97b8-4728-9d11-e864ec071534)
+![image](https://github.com/user-attachments/assets/f427bafd-4930-4306-9e37-7a778a0cafcd)
+![image](https://github.com/user-attachments/assets/d4fc9a5a-5b80-4edf-a8e5-216c023a2046)
 
+* 2 * 2 = 4.
+* 3 * 0 = 0. [-]
+* 3 * 6 = 18.
+* 2 * 4 = 8. [-]
+* 4 * 7 = 28.
+* 1 * 6 = 6. [-]
+* 1 * 4 = 4.
+* -1 * 7 = -7. [-]
+* -1 * 2 = -2.
+* 0 * 4 = 0. [-]
+* 0 * 0 = 0.
+* 2 * 2 = 4. [-]
 
+![image](https://github.com/user-attachments/assets/eec7d447-7129-4d65-a8f4-f42cead1c2ba)
 
-
-
-
-
-
-
-
-
-
-
+* [Formula]
 
 
 
