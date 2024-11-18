@@ -3470,17 +3470,24 @@
 ![image](https://github.com/user-attachments/assets/06c91f72-362a-4676-af3d-3b6643141312)
 ![image](https://github.com/user-attachments/assets/82805fe0-2cac-4666-b27a-403d2487fdc8)
 ![image](https://github.com/user-attachments/assets/d54de646-8230-4840-976d-7088ee0ac24b)
+![image](https://github.com/user-attachments/assets/b495c4e4-6b30-425e-801e-ffca54b07cb7)
 
+* It is going to be '-157' instead of '-33'. [Doubt]
 
+![image](https://github.com/user-attachments/assets/734712b5-9a14-40c7-a032-f1867fe51a27)
+![image](https://github.com/user-attachments/assets/db5e37b8-8236-4266-91f3-37c767df76f4)
+![image](https://github.com/user-attachments/assets/dd8c0503-81bb-42a0-8638-e744fa78b807)
 
+* Radius of circle(R) = 6.
 
+![image](https://github.com/user-attachments/assets/fcd78923-cf43-4169-8929-6cb89a690e3b)
 
+* Center -> (2, 3).
+* Radius of bigger circle(R) = 12.
 
+![image](https://github.com/user-attachments/assets/893f4ee5-7172-4d2b-88f4-629b3a5bce34)
 
-
-
-
-
+* If we put 'x = 14'.
 
 
 
