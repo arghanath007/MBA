@@ -7046,22 +7046,64 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/a0a35331-8aaa-4d3c-b94f-b5ae40fb61bb)
 ![image](https://github.com/user-attachments/assets/5b7b2e4f-1351-4513-977d-177bfc91601b)
 
+* Answer.
 
+![image](https://github.com/user-attachments/assets/0f5db567-222a-43cc-9418-ba09b59fe0df)
+![image](https://github.com/user-attachments/assets/51014d69-4ace-4e55-a0a5-1b9b18ac89a0)
 
+* Total -> 600
 
+![image](https://github.com/user-attachments/assets/100dd95c-25ff-4b66-895d-abf5e4ef77dd)
+![image](https://github.com/user-attachments/assets/ccee73c2-2aad-4113-81f6-efe9646474dd)
+![image](https://github.com/user-attachments/assets/c3904b9a-9c35-4ca1-8ed7-4a3b7f044607)
+![image](https://github.com/user-attachments/assets/b6e4140c-3af5-4242-bfc0-4a8b8ad5ce30)
+![image](https://github.com/user-attachments/assets/6231eb1e-fe97-4220-8aa7-8e51fc27f06d)
+![image](https://github.com/user-attachments/assets/c87b852f-dede-400c-9b3e-13cee39e9cf6)
+![image](https://github.com/user-attachments/assets/b87971cd-e07c-4ac2-b0df-d0f326399327)
 
+* R -> x + 170 - x + 110(a) + 70 = 350.
 
+![image](https://github.com/user-attachments/assets/f950a450-ad0b-4f2a-8e90-a780f2c842a8)
+![image](https://github.com/user-attachments/assets/b1a727b8-c199-4f90-b31e-5ffe36e5367a)
 
+* Teaching group, Working full-time -> b + x - 80.
+* Teaching group, arts department -> x - 80 + 60.
 
+![image](https://github.com/user-attachments/assets/bfa33d6c-67b1-4555-a5d6-6e5cc90f35b8)
+![image](https://github.com/user-attachments/assets/8b87ca62-7442-4411-8812-ac7071d844b5)
 
+* 'x' cannot be '180'.
 
+![image](https://github.com/user-attachments/assets/5d2b116d-2d03-40ed-b5ca-99edcbd3591d)
+![image](https://github.com/user-attachments/assets/6a3be618-debf-4c11-977b-38b904af181f)
+![image](https://github.com/user-attachments/assets/5c60f24b-3a06-4311-9b65-b3c5345f2229)
+![image](https://github.com/user-attachments/assets/cc0c9d4b-f469-428c-b307-369b090ba7aa)
+![image](https://github.com/user-attachments/assets/5da5d6ec-f02d-42a9-934e-565d9b28bec4)
+![image](https://github.com/user-attachments/assets/caf6ef5a-8162-4615-8333-0ae1d55e5cdc)
+![image](https://github.com/user-attachments/assets/beca49b1-81c4-472f-abda-10475640ac8e)
+![image](https://github.com/user-attachments/assets/eac0ff8c-953e-4ebb-b8cb-aba2623e054f)
+![image](https://github.com/user-attachments/assets/c5a2184f-9547-4fc3-8a97-1832f3cb44c3)
+![image](https://github.com/user-attachments/assets/1aa24bce-620e-4a9e-b288-4becfa065e1c)
+![image](https://github.com/user-attachments/assets/30080baa-17d6-4ca0-8714-d83b562e38e9)
+![image](https://github.com/user-attachments/assets/4f673d03-fb70-4b64-b3eb-5d5195fb2d81)
+![image](https://github.com/user-attachments/assets/ef7aab7f-c948-4948-ba1c-3137994383f1)
+![image](https://github.com/user-attachments/assets/5ec042ff-f929-48e1-96c4-c227b4795f93)
+![image](https://github.com/user-attachments/assets/0f7036a7-bb34-4adb-af0e-296f7805bbfa)
+![image](https://github.com/user-attachments/assets/925162f7-0d4f-4477-8baa-33492dfb1493)
 
+* CORRECTION -> 'x' cannot be more than '170'.
 
+![image](https://github.com/user-attachments/assets/ace07e01-8c4b-4dd7-9b68-3fc60982ec66)
+![image](https://github.com/user-attachments/assets/ed4fede3-5c8d-46b7-95e9-9d9749c5a4ed)
 
+* 240 - 170 -> 70.
+* 240 - 80 -> 160.
 
+![image](https://github.com/user-attachments/assets/e296cbb7-e50c-404f-bdd6-5af9da3ae462)
+![image](https://github.com/user-attachments/assets/836a2f25-f0f3-4955-b733-0b6b5fa52701)
 
-
-
+* Perfect squares between '70' and '160' -> 9,10,11,12 -> 4.
+* Answers.
 
 
 
