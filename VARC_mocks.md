@@ -1234,6 +1234,140 @@ B
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/464b608d-c633-4aea-808e-75e94ad49a1b)
+
+* RC-1.
+* metaphysical -> pertaining to philosophical study of being and knowing. [Meaning]
+
+![image](https://github.com/user-attachments/assets/3ebd2542-4921-40a5-8e44-af6c8638303e)
+
+* Our Agency -> Our Capabilities/capacity. [Meaning]
+
+![image](https://github.com/user-attachments/assets/7a808e36-97ce-4d40-8901-a2d7451554d1)
+![image](https://github.com/user-attachments/assets/27d6f804-6261-48b5-84e5-3d253e2249fe)
+
+* Consistent -> Same/similar/will not contradict/support.
+
+![image](https://github.com/user-attachments/assets/8d2ab20b-30a0-4fe1-b912-8d1b4a66bffd)
+
+* Assumption -> Author's believe. [Meaning]
+* interchangeably -> Equal. [Meaning]
+
+![image](https://github.com/user-attachments/assets/acc3f3c4-7491-4ace-93ce-dc98cf9827a8)
+![image](https://github.com/user-attachments/assets/9f9067df-c17b-4039-b8c4-c89519355bfd)
+![image](https://github.com/user-attachments/assets/3d05fdae-551c-435e-9793-bf67d209ecdd)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/122edb13-eac0-4322-8bd6-f88a7929d293)
+![image](https://github.com/user-attachments/assets/bf717087-f45c-4406-9c15-ce7b78d1a1bf)
+
+* RC-2.
+* Ought -> [Meaning]
+
+![image](https://github.com/user-attachments/assets/04cd87f1-da54-43e4-877d-94d14b324515)
+![image](https://github.com/user-attachments/assets/ca57863e-2b34-4b60-b9e8-965e627d02c9)
+
+* exhortation -> a communication intended to urge or persuade the recipients to take some action. [Meaning]
+* 1,4 -> Extreme options.
+
+![image](https://github.com/user-attachments/assets/7bedeb7d-e278-4d54-9e0f-5667f5dbeeec)
+![image](https://github.com/user-attachments/assets/64d27ecb-67ef-44fe-a0ea-715417eca23e)
+
+* Most related question to the context of question '3'.
+
+![image](https://github.com/user-attachments/assets/5307636c-789c-4482-8106-3d5bb98cb5d6)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/48832452-60d6-4b55-8101-efe3c9ecb36e)
+![image](https://github.com/user-attachments/assets/1f60dc48-a6b9-4318-8db1-edb9a6df44fd)
+
+* RC-3.
+
+![image](https://github.com/user-attachments/assets/ba2fd39f-8e52-47fc-961a-b77923b1eca0)
+![image](https://github.com/user-attachments/assets/015cef52-f126-40f0-9159-dfc53fb411cb)
+![image](https://github.com/user-attachments/assets/bd8ca309-49a5-458e-9982-53d7099ef892)
+![image](https://github.com/user-attachments/assets/f16cf94e-4133-4071-8a6b-1239ab5f34e5)
+
+* If True -> All of the options are **true** -> **CR** question. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/72040c4c-3408-4d58-bf5e-09d861621fec)
+
+* Assumptions -> Believes/Belief of the author. [**IMPORTANT**]
+* Option 4 -> Extreme statement.
+* Answer.
+
+![image](https://github.com/user-attachments/assets/73ef6d67-e377-4581-985f-7074f9e936fd)
+![image](https://github.com/user-attachments/assets/9f463fc5-9664-4c5e-8cd9-0749c0f02ee5)
+![image](https://github.com/user-attachments/assets/cf73ea39-605b-40a3-940d-b0cdb665d370)
+![image](https://github.com/user-attachments/assets/ecdf4fd0-29e1-454c-9082-f5a6618f330d)
+![image](https://github.com/user-attachments/assets/b2341c02-f3fa-4e22-ac9e-a340005b0dd1)
+
+* RC-4.
+
+![image](https://github.com/user-attachments/assets/0ee4051c-0127-4d2c-bdd8-8e92d7208936)
+![image](https://github.com/user-attachments/assets/d2eb9406-9f2a-446f-92d7-d8bc0188188e)
+
+* Primary idea OR Weakening the argument type questions -> Try to form a **shadow answer** from ourselves before looking at the **options** of the questions. [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/85c96de8-bd85-4662-a4f5-f9de14650721)
+![image](https://github.com/user-attachments/assets/4742c128-c750-4165-9e87-c6161957a0f1)
+![image](https://github.com/user-attachments/assets/820fb82c-17a4-4bb9-954e-2ef3d303b6d0)
+
+* Answers.
+
+![image](https://github.com/user-attachments/assets/e2ca8137-9bc2-4c0c-9973-aa316f65a466)
+
+* Para Summary tips. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1ec1c274-2de8-4926-a30c-bb72e4812758)
+
+* VA-1.
+
+![image](https://github.com/user-attachments/assets/e40ba0d9-c7db-4960-8862-dbad146f2eed)
+
+* VA-2.
+
+![image](https://github.com/user-attachments/assets/78dcd7ad-8d34-462e-a832-609c019ed465)
+![image](https://github.com/user-attachments/assets/ab608e4e-50c5-4f79-9abb-42e6b1b09ea9)
+![image](https://github.com/user-attachments/assets/2673caee-7703-4b71-a195-6566c3ce2c87)
+
+* VA-3.
+
+![image](https://github.com/user-attachments/assets/6a1a6139-ac20-466e-a502-b021cca63f3a)
+
+* us -> write.
+* VA-4.
+
+![image](https://github.com/user-attachments/assets/a4125070-c9ca-43f6-bcda-4be6aedf9e91)
+
+* VA-5.
+
+![image](https://github.com/user-attachments/assets/8cc2e39e-304e-45a9-9752-046188eae686)
+
+* VA-6.
+
+![image](https://github.com/user-attachments/assets/fe94dd1b-df88-4907-b64d-1145027a540e)
+
+* discretion -> the trait of judging wisely and objectively -> the power of making free choices unconstrained by external agencies -> freedom to act or judge on one's own -> Wise, cautious, careful, prudent. [Meaning]
+* prudent -> careful and sensible; marked by sound judgment. [Meaning]
+* VA-7.
+* RCS-4. [Done]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1256,8 +1390,7 @@ B
 
 ![image](https://github.com/user-attachments/assets/ae5d4699-874b-4562-a4e5-fa62159fd4d4)
 
-* Start VARC -> Para Summary Questions -> RCs -> Para Completion -> Para Jumble -> Odd one Out. [**VERY IMPORTANT**]
-
+* Start VARC section with -> Para Summary Questions -> RCs -> Para Completion -> Para Jumble -> Odd one Out. [**VERY IMPORTANT**]
 
 
 
