@@ -6953,39 +6953,98 @@ For 1st person, 'Y and B' are together.
 ![image](https://github.com/user-attachments/assets/5d1b55eb-08c9-46e0-8d66-46c7979303dd)
 ![image](https://github.com/user-attachments/assets/3ffb3e3b-6500-450f-b0d7-f5665e0a08d1)
 
+* Next.
 
+![image](https://github.com/user-attachments/assets/0acb718c-87c0-4620-97f6-1609ea329c12)
+![image](https://github.com/user-attachments/assets/fecfe1c5-a647-42ca-a9c5-c93dd977fe19)
+![image](https://github.com/user-attachments/assets/6d762930-632c-4c25-b2c9-eab9fd0c739c)
+![image](https://github.com/user-attachments/assets/c54145e7-c8f2-45e8-baff-189e5118251f)
+![image](https://github.com/user-attachments/assets/157be5d7-302b-4129-9cf8-9f6b0a9d9025)
+![image](https://github.com/user-attachments/assets/26b50f5a-1a3e-4173-aa56-9b1d5360ec25)
 
+* Making '10' is not possible with other '2' numbers.
 
+![image](https://github.com/user-attachments/assets/10dd138e-833a-4626-9d4e-7b3de73a481f)
 
+* 'B' investing in 'SB' so 'B' cannot invest in 'BF'.
+* 'B' is saving '20%'.
 
+![image](https://github.com/user-attachments/assets/e9119570-320a-49fb-98d6-318b22eee956)
+![image](https://github.com/user-attachments/assets/93014791-3920-43af-81cb-b9c65fbdd5fe)
+![image](https://github.com/user-attachments/assets/553ad027-a387-4555-ab99-a196869b37c9)
+![image](https://github.com/user-attachments/assets/d58fc6b5-0f71-462d-ac70-18a632c9e60c)
+![image](https://github.com/user-attachments/assets/1609cf60-132e-4236-abfd-1dd48b1e7957)
+![image](https://github.com/user-attachments/assets/390583e6-8f85-4c0e-a480-6f3581bd320e)
+![image](https://github.com/user-attachments/assets/fbf733d4-a27a-4937-b09b-41435cce27a0)
 
+* Answer.
 
+![image](https://github.com/user-attachments/assets/376f1ff0-d57a-4646-991a-404e64c2fba1)
+![image](https://github.com/user-attachments/assets/5036bfcc-d4ef-4f48-ac87-0435c2909b63)
 
+* Rejected(R).
+* Total(T).
 
+![image](https://github.com/user-attachments/assets/59ac8543-676d-4500-b684-d57e46ed0325)
+![image](https://github.com/user-attachments/assets/9a536605-0147-44f9-8b9d-477c64142790)
 
+* No. of people cannot be in **fractions**.
 
+![image](https://github.com/user-attachments/assets/966e771a-fd1e-472b-a7bb-21bfb153266e)
+![image](https://github.com/user-attachments/assets/02ebe3cd-1882-4d0d-b750-fdabf3410f1b)
 
+* Rejected -> Red color ink.
+* Total rejected on day '1' -> 140.
+* '1/2' people are getting rejected from each state. It means that '1/2' of total people is also getting rejected.
+* Total people -> 2 * 140 -> 280.
 
+![image](https://github.com/user-attachments/assets/910a9f74-8e4c-4272-bf82-10a81636fcdb)
+![image](https://github.com/user-attachments/assets/c89a30a5-e99a-4f65-9719-401dc5489864)
 
+* Total no. of people.
+* T = 3/2R -> The no. of people in day '2' should be a multiple of '2'.
 
+![image](https://github.com/user-attachments/assets/0f8910bf-7c07-43a0-88f8-ba6a4a8298b0)
 
+* '35' is not a multiple of '2 or 3'.
+* '64' is not a multiple of '6 or 3'.
+* '75' is not a multiple of '6'.
 
+![image](https://github.com/user-attachments/assets/9c56cc83-830b-402b-aeb2-497a05ef5912)
+![image](https://github.com/user-attachments/assets/71fef290-64bf-439b-94a7-8bd25035c240)
+![image](https://github.com/user-attachments/assets/92c7a4e9-8728-4f57-b0df-5b8ca2fd4bdf)
+![image](https://github.com/user-attachments/assets/404a61dd-24d6-4ccf-86af-cf38ec916a1a)
+![image](https://github.com/user-attachments/assets/bdbbfb5c-2f4e-4ed4-9a1f-6c4e10eabedf)
+![image](https://github.com/user-attachments/assets/66917bbc-d612-4715-b4f1-c8e4e5a7d27e)
+![image](https://github.com/user-attachments/assets/a57c1192-381b-4251-8d6e-eb1c0f380757)
+![image](https://github.com/user-attachments/assets/0aa2a625-56da-42b5-b7f9-da900bb1b8e0)
+![image](https://github.com/user-attachments/assets/13b54ee9-9927-4a74-a823-bb8365dc3e98)
+![image](https://github.com/user-attachments/assets/f95d8278-0da4-48a9-90f5-2ce3f46e5039)
+![image](https://github.com/user-attachments/assets/f446e7d4-ae04-41fd-b595-9da1d10b718c)
+![image](https://github.com/user-attachments/assets/a0ba48d4-2128-4d82-b6a3-5a238d1226fa)
+![image](https://github.com/user-attachments/assets/8e4b2eab-b7d2-4b32-9d3a-40cd608ebd94)
+![image](https://github.com/user-attachments/assets/4c58bf00-d648-4692-be4a-165bde8af922)
 
+* 6/5 * 55 -> 66.
+* 6/5 * 65 -> 78.
 
+![image](https://github.com/user-attachments/assets/dd33c639-6cdd-4136-81e7-cd0c515ad215)
+![image](https://github.com/user-attachments/assets/1005cc9e-da87-4360-9145-f446b113a4d0)
 
+* 60 * 2/3 -> 40.
+* Day '2' -> 276 - (60 + 54 + 72) -> 90.
+* 90 * 2/3 -> 60.
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/7dd45e1c-ecf1-486d-9685-c8bcf1be8b7d)
+![image](https://github.com/user-attachments/assets/d5884bef-78f2-453d-af7a-eee4f6f1a872)
+![image](https://github.com/user-attachments/assets/179fe5a0-2c1e-4d94-9faa-2c3372a7c574)
+![image](https://github.com/user-attachments/assets/fd8b9e5f-e722-4ce1-aaf3-5fd683df083e)
+![image](https://github.com/user-attachments/assets/be3dd092-7842-4cb5-b9ef-97e909904b21)
+![image](https://github.com/user-attachments/assets/a292ee2b-eb2b-441a-ae3f-0c6dbd4717b8)
+![image](https://github.com/user-attachments/assets/580c10c8-f85b-405b-a1fc-48dec9fe6415)
+![image](https://github.com/user-attachments/assets/0d6aa7e9-7e5d-4115-b007-2ebfb4153fd2)
+![image](https://github.com/user-attachments/assets/a0a35331-8aaa-4d3c-b94f-b5ae40fb61bb)
+![image](https://github.com/user-attachments/assets/5b7b2e4f-1351-4513-977d-177bfc91601b)
 
 
 
