@@ -1355,11 +1355,40 @@ B
 * VA-7.
 * RCS-4. [Done]
 
+![image](https://github.com/user-attachments/assets/2152bb2b-0b77-4a43-b234-bd5fefe954c0)
+![image](https://github.com/user-attachments/assets/7f830ab0-66fe-489b-a79c-542eeefcf3f8)
 
+* VA-1. [RCS-5]. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1c581021-6a41-4548-a28a-2b5ab83c004a)
 
+* VA-2. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/cfb96f8a-3124-4ca2-88ba-bb132dd0e9a1)
+![image](https://github.com/user-attachments/assets/b9d84491-93d6-4b2a-8f91-3a3d7f3ffdce)
 
+* VA-3. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/07999155-ad0a-432c-adc4-f29ad5fe73b0)
+
+* VA-4. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/733943ca-fe71-412c-99a4-2bd60cf2e854)
+
+* VA-5. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/90515145-88b9-48f1-b05a-290c871b0fb5)
+
+* VA-6. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/33045fa9-c771-4797-a9e8-edb6c4a9a991)
+
+* VA-7. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/49a6589c-133b-4f1b-a2d5-3db7f535d95e)
+
+* VA-8. [**VERY IMPORTANT**]
+* RCs left.
 
 
 
