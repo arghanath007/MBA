@@ -1388,7 +1388,69 @@ B
 ![image](https://github.com/user-attachments/assets/49a6589c-133b-4f1b-a2d5-3db7f535d95e)
 
 * VA-8. [**VERY IMPORTANT**]
-* RCs left.
+
+![image](https://github.com/user-attachments/assets/a813e33a-899d-4d4d-bd72-443029a161ef)
+![image](https://github.com/user-attachments/assets/1aba89c9-ee7d-4c27-b8fa-588cf1d050cf)
+![image](https://github.com/user-attachments/assets/7f8afed2-9141-47db-b55a-19f522ed5292)
+![image](https://github.com/user-attachments/assets/47ce27ed-e594-4062-bf51-150ffbc44689)
+![image](https://github.com/user-attachments/assets/ff415851-e94d-4e86-815a-b42a62a49ab9)
+
+* RC-1.
+
+![image](https://github.com/user-attachments/assets/b2ff3883-0989-409c-9e50-4be92a56a0b6)
+![image](https://github.com/user-attachments/assets/b0087555-5bb9-4f6c-992b-94112aaf0fa3)
+![image](https://github.com/user-attachments/assets/39e2aabc-5f09-4792-af56-fec202a7e387)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/3680dbb8-844c-4892-b28b-231f7f08f891)
+![image](https://github.com/user-attachments/assets/14f6c4b9-d0fa-4ef0-951b-dcf3cdfd66f8)
+![image](https://github.com/user-attachments/assets/5ce293fa-e9e6-4855-8dfb-b48a08d8c1d9)
+
+* RC-2.
+
+![image](https://github.com/user-attachments/assets/3c43e7f0-44b1-4bce-a2c7-b2e37a45b0c4)
+
+* Bondage -> the state of being under the control of another person -> the state of being under the control of a force or influence or abstract power. [Meaning]
+* For social relationship.
+
+![image](https://github.com/user-attachments/assets/a80fceb2-8fb4-468f-8e33-2548101620de)
+![image](https://github.com/user-attachments/assets/97fb80ba-8dfa-4ea3-9a90-a2c3714414ed)
+![image](https://github.com/user-attachments/assets/129690c4-f997-40a6-9b02-d1d7d8c137ad)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/2fbcec1f-a6ee-4587-bf00-e6eab547b31e)
+![image](https://github.com/user-attachments/assets/d943f5bf-4f13-4fdf-ae29-ec0bf2be82cc)
+![image](https://github.com/user-attachments/assets/170233fe-15f5-4dce-952d-6a1c9f61ee2b)
+![image](https://github.com/user-attachments/assets/9cbf0655-6962-417f-baae-b9e09133af0d)
+
+* RC-3.
+
+![image](https://github.com/user-attachments/assets/92a2014e-a92c-4b5e-98b9-42e11728475b)
+![image](https://github.com/user-attachments/assets/febbccf2-67cc-45ed-95b0-87167d9beb9f)
+![image](https://github.com/user-attachments/assets/19c16dbf-ccda-4445-966b-12247b9ab7a1)
+![image](https://github.com/user-attachments/assets/ee7d3fde-a88d-401d-85e4-5b3e895b64d2)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/8ec5df89-18fe-484d-88be-233c37fe2309)
+![image](https://github.com/user-attachments/assets/74b852da-b3ac-4ff1-920f-874ae3c3ee63)
+![image](https://github.com/user-attachments/assets/aa678e95-7cee-4df5-abdb-a33e42254a09)
+
+* RC-4.
+
+![image](https://github.com/user-attachments/assets/5352d909-bfce-4f88-94f5-b1f8d3105753)
+![image](https://github.com/user-attachments/assets/24b7ffd8-76fd-48f2-903d-41a09aceed08)
+
+* Replicate -> It might mimic but it does not replicate.
+
+![image](https://github.com/user-attachments/assets/654c04a2-c16f-45b3-bf43-2482c8610e86)
+![image](https://github.com/user-attachments/assets/8fcd9072-309b-4c2a-932c-2f41f4acacbe)
+
+* RCS-5 done.
+
+
 
 
 
