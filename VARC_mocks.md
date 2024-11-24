@@ -1450,15 +1450,54 @@ B
 
 * RCS-5 done.
 
+![image](https://github.com/user-attachments/assets/cebea4f8-a66b-4cd5-9266-bfbd3135e2f4)
+![image](https://github.com/user-attachments/assets/5d4f1812-47bf-4e2a-ae8e-db2a78d204af)
+![image](https://github.com/user-attachments/assets/40626df1-e9af-471a-a7a7-271186244f75)
+![image](https://github.com/user-attachments/assets/cced9cd7-5f4e-4e06-8a2b-7621ad1941da)
+![image](https://github.com/user-attachments/assets/3787d067-0449-4023-bcf8-705906f39813)
+![image](https://github.com/user-attachments/assets/a81bf479-481f-468a-96b1-e32c4ee7df03)
+![image](https://github.com/user-attachments/assets/d4e511c0-e86d-4e6b-909b-605d54adc764)
+![image](https://github.com/user-attachments/assets/c8ef2497-b495-4178-a9e5-4359fd8417c0)
 
+* RCS - 6. [Done]
+* RCs left.
 
+![image](https://github.com/user-attachments/assets/0c924469-52ee-4668-a184-3b01bb1f3546)
+![image](https://github.com/user-attachments/assets/6ac123e5-ff32-4df5-a364-0ecb218757a6)
+![image](https://github.com/user-attachments/assets/96403fa1-73db-4ef4-9e2c-07063f7ce70c)
+![image](https://github.com/user-attachments/assets/7903b950-0115-4426-81a2-bb292ba52bd9)
+![image](https://github.com/user-attachments/assets/507ffac6-dc15-4eb0-8637-faca023421cc)
+![image](https://github.com/user-attachments/assets/e3e1ddec-9f14-4a68-8af2-f130487caa5b)
 
+* Ans -> 4.
 
+![image](https://github.com/user-attachments/assets/4ba9876a-3c9b-456e-b027-b59a25348b5e)
+![image](https://github.com/user-attachments/assets/cd535ccc-33cc-41c4-9657-c340b8599976)
+![image](https://github.com/user-attachments/assets/16f780bc-8f92-49b2-b68f-4c701998f083)
 
+* Ans -> 1.
 
+![image](https://github.com/user-attachments/assets/ba5df911-4905-4499-b255-2b04294e02a6)
+![image](https://github.com/user-attachments/assets/7d2f9f24-19d1-48ff-8f50-62029e285d85)
+![image](https://github.com/user-attachments/assets/a4dd2bd3-46e7-45c3-b1c3-20b151c12f2f)
 
+* Ans -> 2.
 
+![image](https://github.com/user-attachments/assets/7e06733d-38e6-4d6c-8841-3754c0f4ba5f)
+![image](https://github.com/user-attachments/assets/22788481-5972-425a-85a2-c3a8251b51d9)
+![image](https://github.com/user-attachments/assets/f1530ed2-b963-44f5-bf84-30b4dc8c8a99)
+![image](https://github.com/user-attachments/assets/0d6a57a2-473a-4f7e-9c79-328cddf66757)
 
+* Ans -> 2413.
+
+![image](https://github.com/user-attachments/assets/96218804-2637-4fd5-b738-d022fcca952a)
+![image](https://github.com/user-attachments/assets/7f615054-89a9-48c3-9575-9d400bd3c5b9)
+![image](https://github.com/user-attachments/assets/ef16fd63-8317-465c-8533-0cb9f29cbda0)
+![image](https://github.com/user-attachments/assets/8a6da870-f72a-492b-b90d-383b397d09a1)
+![image](https://github.com/user-attachments/assets/3158a481-28fb-4ad7-b3b5-4b0fcefeb01b)
+
+* Ans -> 1234.
+* RCS - 18.
 
 
 
