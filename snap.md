@@ -38,6 +38,13 @@
 
 ![image](https://github.com/user-attachments/assets/b3f1ab77-091b-40b3-b4b9-29bcba869992)
 
+# Learning
+
+## Vocab
+
+![image](https://github.com/user-attachments/assets/77b7c347-8a17-40ac-bceb-90644c3477f5)
+
+* Vocabulary -> It comes from 'Voc/Vok' -> It means "to speak/to say". 
 
 
 
