@@ -94,6 +94,111 @@
 
 * kindled -> Spark. [Meaning]
 
+![image](https://github.com/user-attachments/assets/60421051-413d-463e-9d69-9d3d9407c4bb)
+![image](https://github.com/user-attachments/assets/ce509184-c7e3-4a76-b3be-5a3ac0f3998d)
+![image](https://github.com/user-attachments/assets/10b4466e-77b5-435c-8b0e-77cdbd0239f3)
+![image](https://github.com/user-attachments/assets/c3742fa7-2400-4d27-bc85-c39cb0e1b883)
+
+* Find the meanings.
+
+![image](https://github.com/user-attachments/assets/3928c858-e681-4bc3-8cf8-2f05fc2ce548)
+![image](https://github.com/user-attachments/assets/0222e691-70ee-4f21-ba2c-9bbeb3ca8627)
+![image](https://github.com/user-attachments/assets/4566c82a-6c61-4d44-b872-17f926f20685)
+![image](https://github.com/user-attachments/assets/882a7fac-923b-4a18-b823-b9aacce3e2ac)
+
+* ette -> suffix -> Comes at the end of a word and it changes the meaning of the word. [Meaning] 
+* ette -> small/feminine. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/cf966019-78e0-4f72-b109-d2ab22be240b)
+![image](https://github.com/user-attachments/assets/5d28530d-869f-4af7-a929-1a79c17999f4)
+
+* Option **E**. [Question] [Answer]
+
+![image](https://github.com/user-attachments/assets/68a3a003-e6fc-424f-ba3a-f75c4f57660d)
+
+* Groups of words.
+
+![image](https://github.com/user-attachments/assets/6b8cb9a9-7bc0-4a97-9020-cce61e0471a5)
+![image](https://github.com/user-attachments/assets/b20c7c64-da7e-4af7-8241-d42126a66dbf)
+![image](https://github.com/user-attachments/assets/8abb3104-322b-4c8f-8fef-7fce1278aa7f)
+
+* SPICE, BOATMN -> **VERY IMPORTANT** characters/alphabets for **words** -> 80 to 85% covered.
+
+![image](https://github.com/user-attachments/assets/2be7cf1f-7b8c-4bf1-8f31-7c280e5a28e8)
+![image](https://github.com/user-attachments/assets/155e8a65-fb0b-4d07-af04-70583c00a710)
+![image](https://github.com/user-attachments/assets/d721a272-b943-4983-9db8-efa1239ef9f4)
+![image](https://github.com/user-attachments/assets/3d89d63b-fb21-4362-94c3-5a3c202623fc)
+![image](https://github.com/user-attachments/assets/29e8b8e9-15ae-4c33-b6c9-3083887812a3)
+![image](https://github.com/user-attachments/assets/19fdb593-737d-4a15-b32f-6ccd3d80e240)
+![image](https://github.com/user-attachments/assets/6ffddb45-9e97-4b4c-8c24-a0823e16a7c4)
+![image](https://github.com/user-attachments/assets/cd7d33ac-2302-479e-b6b2-291f85447b56)
+![image](https://github.com/user-attachments/assets/f803626d-5df1-4626-bf19-90d1909e727c)
+![image](https://github.com/user-attachments/assets/7ab76510-98b5-4147-b0ff-952f9ef1de06)
+![image](https://github.com/user-attachments/assets/6540f811-91e5-4a79-b5bb-a5b794618ae2)
+![image](https://github.com/user-attachments/assets/3451af98-2a4d-489d-8aa9-ea0d7c3dd4c2)
+![image](https://github.com/user-attachments/assets/8a2d4a00-78b1-4da3-9351-4d15c432382e)
+![image](https://github.com/user-attachments/assets/67c93b85-d1ce-4952-94a0-efbf5e73d3db)
+![image](https://github.com/user-attachments/assets/f9f15eb3-a13d-4506-b402-adce381ae2ec)
+
+* Cide -> Ceder -> To kill/To cut. [Meaning] 
+* Homicide -> To kill a human. [Meaning]
+* Homo -> root word -> Similar/human. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d1e0b61e-9b77-4774-b475-0640174230f6)
+![image](https://github.com/user-attachments/assets/46d9efbc-31b6-4807-a92d-b219bc20c0cd)
+
+* Sui -> Self. [Meaning]
+* Nepodes -> Nephew. [Meaning]
+
+![image](https://github.com/user-attachments/assets/693ea096-9075-4001-93d0-cbd7e7c06b76)
+
+* ous -> suffix -> full of/having the quality of. [Meaning]
+* Rex in **latin** means **king**. [Meaning]
+* Regina in **latin** means **queen**. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/11788767-5cf6-44db-98c1-b2c7f3d78bd9)
+![image](https://github.com/user-attachments/assets/3f0b8674-81bf-4392-827c-89d5b04a70c5)
+![image](https://github.com/user-attachments/assets/8bea4270-b7ae-4015-a00b-617bc6c0f4c5)
+
+* Decide -> Decision -> To kill/cut the other options. [Meaning] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
