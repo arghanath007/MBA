@@ -43,8 +43,68 @@
 ## Vocab
 
 ![image](https://github.com/user-attachments/assets/77b7c347-8a17-40ac-bceb-90644c3477f5)
+![image](https://github.com/user-attachments/assets/e2093f9e-9b8e-4549-baf7-561b31f94c94)
 
-* Vocabulary -> It comes from 'Voc/Vok' -> It means "to speak/to say". 
+* Vocabulary -> It comes from 'Voc/Vok' -> It means "to speak/to say". [Meaning]
+* equivocate -> be deliberately ambiguous or unclear in order to mislead or withhold information. [Meaning]
+* invoke -> request earnestly (something from somebody); ask for aid or protection. [Meaning]
+* vocation -> Profession. [Meaning]
+* Voc -> Calling. [Meaning]
+* 'a' at the starting of a word usually means "no".
+* avocation -> Hobby. [Meaning]
+
+![image](https://github.com/user-attachments/assets/53064c30-e0cd-448c-99c4-d90639ee1e9e)
+![image](https://github.com/user-attachments/assets/429833ae-0657-4b7e-8ea8-f3ae9a443683)
+![image](https://github.com/user-attachments/assets/4a8fd7cc-b432-4600-9e89-eb169382adfb)
+![image](https://github.com/user-attachments/assets/2a045598-6fc1-4bcb-9d1f-d4723a64cf7f)
+![image](https://github.com/user-attachments/assets/cc8650d2-21e6-42d3-a192-ca3303e68dae)
+
+* Pronounce.
+* When looking at a **new word**:- [**VERY IMPORTANT**]
+
+1) Check pronunciation.
+2) Check meaning.
+3) Check spelling.
+4) Check usage -> Interesting/GK-based/funny.
+5) Check synonymes.
+6) Check antonymes.
+7) Check origin of the word.
+
+![image](https://github.com/user-attachments/assets/5cc05df9-6c73-4de1-91a2-88a8c14d7b5d)
+![image](https://github.com/user-attachments/assets/d3fa8984-fff2-487c-85ae-0e4e0ff353e6)
+
+* Eulogy -> Very high level of praise. [Meaning]
+* Option **D**. [Question] [Answer]
+
+![image](https://github.com/user-attachments/assets/0dc4ed8d-0517-4ec9-8cb4-2eb5edae7fb1)
+![image](https://github.com/user-attachments/assets/35d14ce4-3eff-4543-ba81-8d854abe59a8)
+
+* Difference in **intensity**.
+* Option **D**. [Question] [Answer]
+* Trickle -> Trickle of water/liquid. [Meaning]
+* Gush -> Gush of water/liquid. [Meaning]
+
+![image](https://github.com/user-attachments/assets/aec353a6-70b2-4b46-8962-2cba123f51f3)
+![image](https://github.com/user-attachments/assets/b4d72a86-781e-4e4f-a23b-ba65c6a11393)
+![image](https://github.com/user-attachments/assets/019599f8-9525-4f42-823b-b273a6643f07)
+
+* Option **C**. [Question] [Answer]
+
+![image](https://github.com/user-attachments/assets/de1f62dd-d5f0-4a7d-a30a-aec79810a75f)
+
+* kindled -> Spark. [Meaning]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
