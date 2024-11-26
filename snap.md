@@ -294,8 +294,70 @@
 * Neophyte -> New to the family -> Rookie/fresh person/noobie/novice. [Meaning]
 
 ![image](https://github.com/user-attachments/assets/ace197a3-83bd-4dd3-9f20-6fda6ee3d7b1)
+![image](https://github.com/user-attachments/assets/b7e740d5-4292-43ee-ac6b-8cd276a8cb97)
 
 * Dilettante -> dabbler.
+* Prodigal -> wasteful person. [Meaning]
+
+![image](https://github.com/user-attachments/assets/25d88379-bebe-4247-a596-92c11e8198bc)
+![image](https://github.com/user-attachments/assets/492a37d7-3970-4af1-a74e-918e3be4a171)
+![image](https://github.com/user-attachments/assets/c2da5bc0-6756-4c35-b90f-9fd45d7e8966)
+![image](https://github.com/user-attachments/assets/5cf29030-f8ad-46f4-9656-10dab89548c8)
+
+* Option **B**. [Question] [Answer] [**VERY IMPORTANT**]
+* Nestor -> Wise person -> Trojan Horse/Troy. [Meaning]
+* Hades -> The god of the underworld in ancient mythology; brother of Zeus and husband of Persephone. [Meaning]
+* Hector ->       
+
+![image](https://github.com/user-attachments/assets/eb94cd22-b1c2-4082-9201-1acae9622ce4)
+![image](https://github.com/user-attachments/assets/a1acd7d4-d8df-4a1a-af50-4b863b1c8125)
+
+* Option **A**. [Question] [Answer] [**VERY IMPORTANT**]
+* Corn -> Horn. [Meaning]
+* Copia -> A lot. [Meaning]
+* Copia -> Copious.
+* Cornucopia -> Unlimited/Unending supply of something. [Meaning]
+
+![image](https://github.com/user-attachments/assets/fa732d77-f8ea-4f5d-96b0-4029c177a43e)
+
+* Chiron -> Guide -> The Guide is called as chiron. [Meaning]
+
+![image](https://github.com/user-attachments/assets/5fb9ec96-2e17-451d-85c7-3df8f35383cc)
+![image](https://github.com/user-attachments/assets/e40036f3-4038-45e5-bee2-a3b48f9ed805)
+![image](https://github.com/user-attachments/assets/11c65749-5c9d-4f67-8a20-2b5185711462)
+
+* Option **D**. [Question] [Answer] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0f346249-7b86-424c-99d0-0513385faa70)
+![image](https://github.com/user-attachments/assets/44494a7c-2da2-4f30-b4b7-a7f6edf87891)
+
+* Hector ->
+* Troy ->
+* Paris -> 
+
+![image](https://github.com/user-attachments/assets/fdf9fbcb-04b3-4074-b292-6bc2a35ec500)
+![image](https://github.com/user-attachments/assets/4f7988fe-f54d-4d01-b5e2-dfc476af75b6)
+
+* Yes.
+* Option **A**. [Question] [Answer] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/19dd2a7f-fb1d-4767-802c-a60e46a466a8)
+![image](https://github.com/user-attachments/assets/ba2909af-7328-42cf-8a23-0b9c0e3a4a89)
+
+* Option **C**. [Question] [Answer] [**VERY IMPORTANT**]
+* Indict -> Formally accuse someone.
+
+![image](https://github.com/user-attachments/assets/dbf3fa82-666b-4697-b54c-d73dc6b7c0aa)
+![image](https://github.com/user-attachments/assets/94e0e7c9-50b9-4697-bbca-c84f9b2ae1d7)
+![image](https://github.com/user-attachments/assets/39b6b988-493d-43d0-bd42-474ec1847a51)
+
+* Perfume Base.
+* Option **C**. [Question] [Answer] [**VERY IMPORTANT**]
+
+
+
+
+
 
 
 
