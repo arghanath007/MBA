@@ -68,7 +68,8 @@
 4) Check usage -> Interesting/GK-based/funny.
 5) Check synonymes.
 6) Check antonymes.
-7) Check origin of the word.
+7) Check and think of related words also.
+8) Check origin of the word.
 
 ![image](https://github.com/user-attachments/assets/5cc05df9-6c73-4de1-91a2-88a8c14d7b5d)
 ![image](https://github.com/user-attachments/assets/d3fa8984-fff2-487c-85ae-0e4e0ff353e6)
@@ -162,41 +163,139 @@
 
 * Decide -> Decision -> To kill/cut the other options. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/91eded8e-7380-4acb-ba3e-b53c20337ace)
+![image](https://github.com/user-attachments/assets/ec50565c-5905-4894-983a-2a7392427423)
 
+* Vivacious -> Chirpy, full of energy/full of life.  [Meaning] 
+* Viva -> Life.  [Meaning]
+* Ous -> Full of/having the quality.  [Meaning] 
 
+![image](https://github.com/user-attachments/assets/db788fe9-06a3-4547-bc99-ea8e32abb43b)
+![image](https://github.com/user-attachments/assets/ce396087-d5f0-416a-a015-e353cb5fc5ca)
+![image](https://github.com/user-attachments/assets/fc53a308-85dd-465e-90b6-fa416f6fcd46)
 
+* Option **B**. [Question] [Answer]
 
+![image](https://github.com/user-attachments/assets/da0f4ce8-9648-402f-a1ed-82177e41bc58)
+![image](https://github.com/user-attachments/assets/7aa698dd-2aa1-4d86-bc99-58a86aaeb319)
 
+* Magnanimous -> big heart, big spirited.  [Meaning] 
+* magna -> big.  [Meaning] 
+* animous -> mind/heart/spirit.  [Meaning] 
 
+![image](https://github.com/user-attachments/assets/9690a183-9c47-4e26-97e3-fa30b441239f)
+![image](https://github.com/user-attachments/assets/b5adb67a-2ab8-4242-9f2b-ba71deeb274c)
+![image](https://github.com/user-attachments/assets/2a25e234-2d6b-44a9-b4e1-9bf2da0b1fc0)
 
+* Karen.
 
+![image](https://github.com/user-attachments/assets/7a2ef1c5-f30d-4edd-a318-843de66e11d6)
+![image](https://github.com/user-attachments/assets/eb139fb2-5174-4298-af75-1da70b01eebf)
 
+* Option **B**. [Question] [Answer]
 
+![image](https://github.com/user-attachments/assets/90c7b922-f349-4fe6-bfe6-1f65b2dd0c92)
+![image](https://github.com/user-attachments/assets/53cce8b2-117e-4f3a-ab92-f0d99c9341ac)
+![image](https://github.com/user-attachments/assets/b5e13ad3-238c-444c-a473-4a8fa79c461f)
+![image](https://github.com/user-attachments/assets/cbd80e4b-dcac-4c95-9a67-511580c63994)
 
+* Shepherd.
+* Branding.
+* Maverick -> Positive word -> Person who breaks rules but in a positive way.
+* Option **B**. [Question] [Answer] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/764a10ff-8fdb-462c-ab93-0d1ccfa74deb)
+![image](https://github.com/user-attachments/assets/2c3be53a-f313-47aa-ae6f-30ed10c5c74d)
+![image](https://github.com/user-attachments/assets/f1a5f471-e73e-4145-b74d-37180709bca1)
+![image](https://github.com/user-attachments/assets/db0fc8a8-2b1f-45f1-a379-cff3f2cdfcd0)
+![image](https://github.com/user-attachments/assets/95eb95de-1340-4246-bc1f-6c592e2ab350)
+![image](https://github.com/user-attachments/assets/559b5c4f-b4e3-4aa0-969d-2e6b0d0f71ec)
 
+* Kitchenette -> Small kitchen. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/828defd8-0a36-4a10-8d7d-2f107d678bce)
+![image](https://github.com/user-attachments/assets/61decece-e09d-47f2-9e57-4c24734e9b46)
 
+* Usher.
 
+![image](https://github.com/user-attachments/assets/015ed215-9034-44a5-82df-319d6f808be6)
 
+* Learn **suffixes**.
 
+![image](https://github.com/user-attachments/assets/242829a7-36bb-4aca-9ed0-546c9d8eebe7)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2bc16ae4-4b9c-458d-a941-181e3cc8ec3f)
+![image](https://github.com/user-attachments/assets/bbcbd33b-4aad-4e82-985c-884abd210835)
 
+* Try **4 to 5** synonymes for each word.
 
+![image](https://github.com/user-attachments/assets/7d4948d3-8603-4989-ad61-74adaca5d1d1)
+![image](https://github.com/user-attachments/assets/2d41d684-8f99-408f-8082-b00e50a3560a)
 
+* Prefix.
+* "Pre" is the prefix in the word **prefixes**.
 
+![image](https://github.com/user-attachments/assets/3c3522e3-39ec-4354-adff-ff69451be352)
 
+* Ante/Anti -> Synonymes -> 1st Meaning "before/ago" -> 2nd Meaning "against". [Meaning] 
 
+![image](https://github.com/user-attachments/assets/97057755-1e42-4494-858a-65dc00e4513e)
+![image](https://github.com/user-attachments/assets/5fd92fe2-3fc6-4815-a4e1-54bd90307c10)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b99405fa-414c-49e0-9ec8-22c12da85a31)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2552ae03-91d4-418f-ad32-93ddb29bdc5e)
+![image](https://github.com/user-attachments/assets/1e0ec38c-03e2-4e07-bb84-3756d732a7ca)
+![image](https://github.com/user-attachments/assets/cb0a26c4-1faa-49d9-ba93-c31e81af8f3f)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e7940c17-ebd7-4382-b184-581b5d6f9018)
+![image](https://github.com/user-attachments/assets/861d75c2-2d3b-4a4a-9e0b-76f4e39db337)
+![image](https://github.com/user-attachments/assets/446ba849-cc94-43ec-91b0-50f76ae493c4)
+![image](https://github.com/user-attachments/assets/3028c6ba-b6c7-4d07-ba9d-b4f4449d67ea)
+![image](https://github.com/user-attachments/assets/d35c6384-d9e3-45b8-aa32-07ed4e6a83a0)
+![image](https://github.com/user-attachments/assets/52e5becf-1c80-42f1-814e-f3fe7bf5f735)
+![image](https://github.com/user-attachments/assets/89731394-914b-41c5-8469-17079abbe7d6)
+![image](https://github.com/user-attachments/assets/809c948d-68c5-40a1-945c-5e7002dcd1b5)
 
+* Option **B**. [Question] [Answer] [**VERY IMPORTANT**]
+* merely -> only. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/18aea1f1-2d52-48d5-9624-d0087543f88c)
+![image](https://github.com/user-attachments/assets/79ea1c41-ae4c-4bc5-9e63-bbb55a43d915)
+![image](https://github.com/user-attachments/assets/1537e769-4fe1-4a3d-9953-e0cca145d5ae)
+![image](https://github.com/user-attachments/assets/8ed055b4-4a3f-4e0f-a790-cf4997ba33a2)
 
+* Option **C**. [Question] [Answer] [**VERY IMPORTANT**]
+* loc/loq/locu -> To speak. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/4c98adb1-d126-4dd3-ba33-09e740daad79)
+
+* Option **B**. [Question] [Answer] [**VERY IMPORTANT**]
+* contumacious -> It is a person who doesn't want to go back/ who doesn't back down/ doesn't surrender/doesn't give up.
+* Tuma -> Swelling which doesn't go down. [Meaning]
+
+![image](https://github.com/user-attachments/assets/76cf6e38-109c-4410-b39b-6fe8e2c976b9)
+![image](https://github.com/user-attachments/assets/c36cd098-f539-487e-8a3e-1deef8590336)
+![image](https://github.com/user-attachments/assets/85b5a802-874f-4c06-a4f4-d2c8f7ab6616)
+
+* neo -> new. [Meaning]
+* Novo -> new. [Meaning] 
+* Novo -> Novel -> Novel idea.
+* Terra Nova -> New Land” or “New Earth. [Meaning]
+* Phylum -> Phyte -> Family. [Meaning]
+* Neophyte -> New to the family -> Rookie/fresh person/noobie/novice. [Meaning]
+
+![image](https://github.com/user-attachments/assets/ace197a3-83bd-4dd3-9f20-6fda6ee3d7b1)
+
+* Dilettante -> dabbler.
 
 
 
