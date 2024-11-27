@@ -362,6 +362,97 @@
 
 
 
+## Maths/Quant
+
+### Syllogisms
+
+![image](https://github.com/user-attachments/assets/0cf90599-5e52-4f20-903a-f28fe60ea023)
+![image](https://github.com/user-attachments/assets/8a8c2ecc-4d87-486a-8839-1ce0fb9f1dc0)
+
+* Some -> Atleast '1'. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/684c31c1-b5d1-44f5-b5b8-2eaafe22c9c9)
+![image](https://github.com/user-attachments/assets/6ce24226-28b6-4e71-a32a-59a76c9d01b0)
+![image](https://github.com/user-attachments/assets/5549de14-255d-43f1-bef9-0725a220532d)
+![image](https://github.com/user-attachments/assets/39e9353a-9dab-4015-b675-8d11c9eb69c6)
+![image](https://github.com/user-attachments/assets/5b611fb2-3865-49e2-9ed5-47e222636542)
+
+* These are possible.
+
+![image](https://github.com/user-attachments/assets/7105391e-ec19-4af5-8ab9-66c6c3b0b9a7)
+
+* This is said on concentration with 'B'.
+
+![image](https://github.com/user-attachments/assets/85f74909-5e09-4676-a6e0-cedc99ae070d)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/fccd6296-9a7e-48ff-9221-4d81bd2525aa)
+![image](https://github.com/user-attachments/assets/39b9b715-a1c8-4ab6-b569-0edadc186d2e)
+
+* Both the conclusions are **satisfied**. [Answer]
+
+![image](https://github.com/user-attachments/assets/0faab81c-71c5-41e2-abe3-3c720d998a21)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/534c259a-5c92-44aa-9e25-be47eec9e456)
+![image](https://github.com/user-attachments/assets/9c0455b5-1b7a-41fc-9a0f-243c6e33a7af)
+
+* Conclusion '1' is **satisfied/following**.
+* Either Conclusion '2' or Conclusion '4' can be **satisfied/following**. One of them is possible only.
+
+![image](https://github.com/user-attachments/assets/1ecb56ca-36b9-4fe6-9a9f-3a404c087851)
+![image](https://github.com/user-attachments/assets/f9a081d9-a7e2-4324-a1bd-9fc3ad8327f7)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/87b1e480-6e8a-4f48-b91f-cff3a25f0b62)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/40c64d5a-7132-4989-ab30-4fe92913c2fc)
+![image](https://github.com/user-attachments/assets/a84f9e3d-7f7b-43ef-9b0a-3f3fb4911377)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/56be1b81-f5bd-493e-bb54-03853fc503a4)
+![image](https://github.com/user-attachments/assets/d0379951-a9a6-4ba3-ae7e-2753e39fb421)
+
+* Conclusion '1' -> It is a possibility. Not a '100%' truth statement.
+
+![image](https://github.com/user-attachments/assets/f162b10e-5eb1-423b-90d9-86d38f773bb5)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/bf7545a8-c227-4a59-82a7-628c26b326ae)
+![image](https://github.com/user-attachments/assets/482fda10-699e-4a9c-a8c4-3af5b147f5d3)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/c44cc267-38b6-4eff-adb5-1ffdd73b1dc6)
+
+* Conclusion '1' -> possibility(P). Not a '100%' truth statement.
+* Conclusion '3' -> possibility(P). Not a '100%' truth statement.
+
+![image](https://github.com/user-attachments/assets/038f4595-529d-49dd-86b7-d8e8f826f9f7)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/61e61291-2e03-45a1-8170-e38aa4fe2772)
+![image](https://github.com/user-attachments/assets/ca895487-ba80-4b09-8b86-ed30f8b7aeef)
+![image](https://github.com/user-attachments/assets/31ad7dd8-f630-4a48-9fc6-87784c108115)
+
+* Conclusion '1' -> possibility(P). Not a '100%' truth statement.
+* Conclusion '2' -> possibility(P). Not a '100%' truth statement.
+* Conclusion '3' -> 100% True.
+* Conclusion '4' -> 100% True.
+
+![image](https://github.com/user-attachments/assets/f1d2c52a-dbc3-4f29-9237-fc8c7dd79ad3)
+
+* [Answer]
+
+### Calendar
 
 
 
@@ -376,6 +467,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
