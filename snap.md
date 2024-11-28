@@ -584,6 +584,132 @@
 
 * 4 + 2 -> 6m. [Answers]
 
+![image](https://github.com/user-attachments/assets/9a159e69-223c-40fd-a22a-c08eb99434fb)
+![image](https://github.com/user-attachments/assets/ce0c12c3-3314-4b6b-8e17-d3fbe266081a)
+![image](https://github.com/user-attachments/assets/deb277d9-89e1-46dd-b775-dde2739de333)
+
+* 35 - 25 = 10m.
+
+![image](https://github.com/user-attachments/assets/fd76a705-97c9-42ab-9ada-a44db36abc24)
+![image](https://github.com/user-attachments/assets/a98d6fc1-06ad-405a-b250-14dc29a46e36)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/540b2ba0-5aa2-4f68-a943-7077b77aed83)
+![image](https://github.com/user-attachments/assets/79c8192e-b982-4c18-a140-aae6294638e2)
+![image](https://github.com/user-attachments/assets/22006215-593b-454f-b471-6f09ce94b9b7)
+
+* [Answers]
+
+### Directions
+
+![image](https://github.com/user-attachments/assets/b28f063b-1b7c-4d95-89c0-813f949b683d)
+
+* Sunrise -> Morning time -> Before 12 O'clock -> Sun will be on the **East(E)** side. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0ef74dc3-a26e-46ba-9bcc-29be872881d7)
+![image](https://github.com/user-attachments/assets/b52182fb-53c4-475e-8a5b-5b947e45f680)
+![image](https://github.com/user-attachments/assets/3db681b6-ffe6-4015-a5b5-888376a45536)
+
+* Sunset -> Evening time -> After 12 O'clock -> Sun will be on the **West(W)** side. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0c617c9f-fad3-4470-aeab-bb1b6d8f23ce)
+![image](https://github.com/user-attachments/assets/2e39e1dd-674b-4253-97f4-2fdad0cda8ce)
+![image](https://github.com/user-attachments/assets/3893160b-f09d-42dc-beae-e64e4004986b)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4e1352fc-eef5-4e5e-b7d8-007a76ce3b14)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/782337c2-845d-4745-a17f-d1909811238c)
+
+* Evening -> Sun will be on the **West(W)** side.
+* Directions given in the question -> Right or Left -> Then the persons are on the **North and the South** directions. [**VERY IMPORTANT**]
+* Directions given in the question -> Front or Behind -> Then the persons are on the **East and the West** directions. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2d28b8a0-907e-46e8-9a21-743d74ddbaee)
+![image](https://github.com/user-attachments/assets/557cc2c1-dc77-43c7-99c2-54b1c986ae1e)
+![image](https://github.com/user-attachments/assets/1d15d6e6-8989-4577-816e-e8c7b1b60700)
+![image](https://github.com/user-attachments/assets/26cba949-2d4e-43fd-aa18-da2177761c66)
+
+* Answer -> South -> Option **B**.
+
+![image](https://github.com/user-attachments/assets/1326c4e3-5114-4ca0-b4b0-f6de966287cd)
+![image](https://github.com/user-attachments/assets/e67cb8ce-a07b-48cb-a8e8-48bf5d6488e7)
+![image](https://github.com/user-attachments/assets/1f6a5e1f-3c89-4d83-b55b-93923bcd9b40)
+
+* Answer -> South -> Option **D**.
+
+![image](https://github.com/user-attachments/assets/9e63ae13-ab65-4058-8e08-a1886a8c4e58)
+![image](https://github.com/user-attachments/assets/9c670ff3-177b-4821-842d-6be8cb8da295)
+![image](https://github.com/user-attachments/assets/39c19635-c12b-4739-b902-cbe19277039c)
+
+* Answer -> East -> Option **A**.
+
+![image](https://github.com/user-attachments/assets/89835de6-082e-483e-801b-3c674ef4c822)
+![image](https://github.com/user-attachments/assets/e102fcda-13db-46fa-9c3f-a70507cfd625)
+![image](https://github.com/user-attachments/assets/eaaf58f6-3cf5-463c-a1e0-b92c1d0f7364)
+
+* The angle between the directions is **90 degree** only. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/51b9df32-d06c-40c4-a479-3e0b1ea1ebd4)
+![image](https://github.com/user-attachments/assets/10cc4bb1-1aae-4540-b5f8-c87246ffe9cf)
+
+* The angle between the sub-directions is **45 degree** only. [**VERY IMPORTANT**]
+* Clock-wise(CW) -> Right hand turning/movement. [**VERY IMPORTANT**]
+* Anti-Clock-wise(ACW) -> Left hand turning/movement. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d5a6eb89-a700-4b4b-8e42-8639c9f799f3)
+
+* Answer -> West(W).
+
+![image](https://github.com/user-attachments/assets/8ab68d64-ff95-4868-9669-f5ed4b17c7bf)
+![image](https://github.com/user-attachments/assets/97bb718d-210a-4044-a6a9-cfc42e009bf8)
+![image](https://github.com/user-attachments/assets/2423e922-2708-41d7-a8af-0a1f43001813)
+
+* Answer -> North-East(NE).
+
+![image](https://github.com/user-attachments/assets/bdfdd014-3a44-4fdf-bab0-031640f1ca5d)
+![image](https://github.com/user-attachments/assets/7057a491-8d98-4f16-b71e-dd5c35eae58b)
+
+* Answer -> North-East(NE).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
