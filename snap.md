@@ -454,31 +454,138 @@
 
 ### Calendar
 
+![image](https://github.com/user-attachments/assets/b4c10d2d-ac8f-4a04-87ca-74d357fbf74e)
 
+* 9 - 7 -> 2 odd days.
+* 22 - (7 * 3) -> 1 odd day.
 
+![image](https://github.com/user-attachments/assets/2872c971-25db-4282-a0fb-9c0f9e2d451a)
 
+* Monday + 7 -> Monday only.
+* Monday + 7 + 6 -> monday + 6 -> sunday.
+* 22 days -> 7 * 3 + 1 -> 1 odd day.
 
+![image](https://github.com/user-attachments/assets/38c64145-7e1f-4ae8-a8a4-5a19d66b2195)
+![image](https://github.com/user-attachments/assets/2e92ef34-9a39-4bbe-a39e-80ced2a7f723)
+![image](https://github.com/user-attachments/assets/dc3e6c5c-b4f7-4e37-82f2-d192e5285b06)
+![image](https://github.com/user-attachments/assets/78537f8b-71e8-446e-8793-2b5253d4aaff)
 
+* Leap Year -> '1' odd day.
+* Non-Leap Year -> '2' odd days.
+* Leap Year:- [**VERY IMPORTANT**]
 
+1) Divisible by '4'.
+2) Divisible by '400'.
 
+![image](https://github.com/user-attachments/assets/1ad4cd9a-e2ed-4654-8a70-0ae419b8b54f)
 
+* Century Year -> Divisible by '400' -> Leap Year.
+* Century Year -> Not Divisible by '400' -> Not Leap Year.
+* Not/Non Century Year -> Divisible by '4' -> Leap Year.
+* Not/Non Century Year -> Not Divisible by '4' -> Not Leap Year.
 
+![image](https://github.com/user-attachments/assets/4d48aae1-b412-4c10-b178-4c46b4b1d4ac)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a7f9705a-cc53-4059-92ae-d6de3c060e55)
+![image](https://github.com/user-attachments/assets/ec59c5f5-4438-485c-b428-1f75d192519c)
 
+* 100 yr -> '5' odd days.
+* 200 yr -> 5 * 2 -> 10 -> 10/7 -> '3' odd days.
+* 300 yr -> -> 5 * 3 -> 15 -> 15/7 -> '1' odd days.
+* 400 yr -> -> 5 * 4 + 1 -> 21 -> 21/7 -> '0' odd days.
+* 400 yr -> Leap year -> '1' extra odd day compared to non-leap yrs -> '2' odd days.
 
+![image](https://github.com/user-attachments/assets/fa53b1e8-04f0-4671-8e0d-00445d1679b6)
+![image](https://github.com/user-attachments/assets/31d444f8-27b6-4502-a620-91f05acfcbe2)
 
-
-
-
-
-
-
-
-
-
-
+* 500 yrs -> 400 + 100 -> 0 + 5 -> 5 odd days.
+* 600 yrs -> 400 + 200 -> 0 + 3 -> 3 odd days.
+* 800 yrs -> 2 * 400 -> 2 * 0 -> 0 odd days.
+* 1200 yrs -> 3 * 400 -> 3 * 0 -> 0 odd days.
   
+![image](https://github.com/user-attachments/assets/0437b54e-878d-4cc4-a7e8-a78f2a435783)
+![image](https://github.com/user-attachments/assets/d7000864-25d1-403e-a242-0ad264c578a8)
+
+* 63 -> 7 * 9 -> 0 odd days.
+
+![image](https://github.com/user-attachments/assets/20771d79-82ed-4087-8993-6102d7099eec)
+![image](https://github.com/user-attachments/assets/de6f37d0-64dc-4641-9027-8c1a326e60e5)
+
+* If we **are crossing** '29th of Feb' in a leap year then we are getting '1' extra odd day. [**VERY IMPORTANT**]
+* If we are **not crossing** '29th of Feb' in a leap year then we are **not getting** '1' extra odd day. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b7ca923d-462e-4fcc-be9e-4ab462cfb41e)
+![image](https://github.com/user-attachments/assets/8881594d-7393-4ecb-b7c9-d64a486b9dd0)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d18b3919-8ab1-4fbb-81a6-c0a0f44b695b)
+![image](https://github.com/user-attachments/assets/70e2c83d-d963-466c-8713-9c6bc74c8e8e)
+
+* 17th march 2012 to 1st april 2012 -> 14 + 1 -> 15days.
+* 15days -> 7 * 2 + 1 -> 1 odd day.
+
+![image](https://github.com/user-attachments/assets/ca9b6426-e4d5-4e5d-ac09-fcde4132eb24)
+![image](https://github.com/user-attachments/assets/28454566-fc4a-4454-9b99-ff757373edb5)
+
+* Answer -> Sunday.
+
+![image](https://github.com/user-attachments/assets/e15e3a8d-e438-4f50-8ebe-02286a220017)
+
+* Non-leap year -> 1 odd day.
+
+![image](https://github.com/user-attachments/assets/674ab036-7232-4a47-98b9-fecc2030ecb3)
+
+* 8th feb 2005 to 8th feb 2004 -> '29th feb' falls in the range -> Leap year -> '2' odd days -> Tuesday - 2 -> Sunday.
+
+![image](https://github.com/user-attachments/assets/c4cc94ce-325e-4d64-a534-e01ffb8d5602)
+
+* 6th mar 2005 to 6th mar 2004 -> '29th feb' does not fall in the range -> Non-Leap year -> '1' odd days -> Monday - 1 -> Sunday.
+
+![image](https://github.com/user-attachments/assets/eba26ff1-bd67-4408-a7f5-84ea9624badd)
+![image](https://github.com/user-attachments/assets/d972336c-9233-466a-8db6-d79bf1865b7a)
+
+* 0 odd day -> Sunday.
+* 1 odd day -> Monday.
+* 2 odd day -> Tuesday.
+* 3 odd day -> Wednesday.
+* 4 odd day -> Thusday.
+* 5 odd day -> Friday.
+* 6 odd day -> Saturday.
+* 7 odd day -> Sunday.
+
+![image](https://github.com/user-attachments/assets/8748e816-91d7-426f-8eda-ac45583f7b1c)
+
+* Ans -> 2 odd days -> Tuesday.
+
+![image](https://github.com/user-attachments/assets/bf2250e4-5a5f-4d7e-b772-ec3f52e4997a)
+![image](https://github.com/user-attachments/assets/e16566f2-dfd0-4e89-9dcf-1e2cbd452b1e)
+![image](https://github.com/user-attachments/assets/71f1b7ae-7423-4716-b1d0-33946ee4af8a)
+![image](https://github.com/user-attachments/assets/f5a7b69c-24e4-4f81-af7c-2dac4f4bd1fe)
+
+* [Answers]
+
+### Logical Reasoning
+
+![image](https://github.com/user-attachments/assets/2dffd4eb-695e-43da-aaea-3e30b39e9552)
+
+* [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fe0f8981-9ef5-4f9b-9e65-e9a4a6f382db)
+![image](https://github.com/user-attachments/assets/24f76b90-373c-4c40-80c6-bf1127d64be6)
+
+* 3 + 2 + 2 -> 7m. [Answers]
+
+![image](https://github.com/user-attachments/assets/8de63d92-81c1-4410-9134-d9bbee676b1d)
+![image](https://github.com/user-attachments/assets/8f643f99-ae6e-4d3a-9609-016d87e9ae60)
+![image](https://github.com/user-attachments/assets/a4ad9ae3-b337-4eb4-b832-9cba6dbf20f7)
+
+* 4 + 2 -> 6m. [Answers]
+
+
+
 
 
 
