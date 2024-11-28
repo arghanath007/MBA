@@ -362,7 +362,7 @@
 
 
 
-## Maths/Quant
+## Logical Reasoning(LR) [Rodha and Editegrides]
 
 ### Syllogisms
 
@@ -567,7 +567,57 @@
 
 * [Answers]
 
-### Logical Reasoning
+![image](https://github.com/user-attachments/assets/d3e96cdb-a23c-44ac-9a04-31da62a01e97)
+
+* Rodha.
+
+![image](https://github.com/user-attachments/assets/e5cdd40b-227b-4694-bde3-6f1ef54abf1a)
+
+* 40/7 -> 7 * 5 = 35 -> 5 odd days.
+
+![image](https://github.com/user-attachments/assets/8854f060-67e1-46ec-abac-f8525260b73a)
+![image](https://github.com/user-attachments/assets/c361e5c4-c7d5-4528-aecd-91ee585e9704)
+![image](https://github.com/user-attachments/assets/d7154669-d9fc-4c13-b071-6979db557b67)
+![image](https://github.com/user-attachments/assets/b98144b5-6738-44cc-8b30-d9c735b5694e)
+
+* [**VERY IMPORTANT**] [**Formula**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Directions
 
 ![image](https://github.com/user-attachments/assets/2dffd4eb-695e-43da-aaea-3e30b39e9552)
 
@@ -676,6 +726,10 @@
 
 * Answer -> North-East(NE).
 
+![image](https://github.com/user-attachments/assets/89d489da-51f7-4234-9000-7f0556ff6a08)
+![image](https://github.com/user-attachments/assets/a7a75802-3a1c-46a4-8d9f-6a24f31a35e2)
+
+* [Answers]
 
 
 
