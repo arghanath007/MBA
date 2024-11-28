@@ -582,6 +582,81 @@
 
 * [**VERY IMPORTANT**] [**Formula**]
 
+![image](https://github.com/user-attachments/assets/2c6ee75b-4a38-44e4-99d8-d6ddc2796410)
+
+* 47/4 -> 11.
+
+![image](https://github.com/user-attachments/assets/99713f75-d197-411c-b2e9-a2817d03ba19)
+![image](https://github.com/user-attachments/assets/39622ee5-ff55-428e-9c5e-7eaae6cf7d88)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/1bf7b3ad-f620-41a0-b255-4c21e97fc2a6)
+![image](https://github.com/user-attachments/assets/696611de-824e-4b8d-870e-33dadf3940f8)
+![image](https://github.com/user-attachments/assets/de33e47d-b32f-4e87-b018-b9b763a57ea2)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/4d205607-4a9b-4cd7-b7d4-bcaf1ba485bb)
+![image](https://github.com/user-attachments/assets/db7b1f20-be87-41d3-b945-7713dc5e2fda)
+
+* Special Case -> Leap Year.
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/58531514-a558-43da-a273-8f78c498dd4e)
+
+* 2023 -> Not a leap year.
+* Sunday + 3 -> Wednesday.
+* Wednesday + 0 -> Wednesday.
+
+![image](https://github.com/user-attachments/assets/06d59322-05d4-419a-ae1f-29bdf8d76684)
+
+* Wednesday + 3 -> saturday.
+
+![image](https://github.com/user-attachments/assets/c3f41a6f-99a9-4afa-9864-334bffb31575)
+![image](https://github.com/user-attachments/assets/6e7baa43-0a5f-45c3-9ba4-e89ceeb7bffc)
+![image](https://github.com/user-attachments/assets/e0aed1cd-b7fe-47ba-864a-b67b4b191ff9)
+
+* For any **non-leap** year(NLY).
+* [**VERY IMPORTANT**] [**Formula**]
+
+![image](https://github.com/user-attachments/assets/c5c6b1a4-9ee0-43f4-a683-858a70e417e6)
+
+* [**VERY IMPORTANT**] [**Formula**]
+
+![image](https://github.com/user-attachments/assets/4942676d-e417-49d8-ae2e-936a2796b261)
+![image](https://github.com/user-attachments/assets/e9694de1-d27b-4a34-9150-0551ea7f2282)
+
+* We cannot say that the calendar for the whole month is being **repeated**.
+* 2nd Nov to 30th Nov -> 28 days -> 28/7 -> '0' odd days.
+
+![image](https://github.com/user-attachments/assets/e4dc35b5-4a72-44a5-bdca-28d3ce67fce6)
+
+* We cannot say that the calendar for the given months was the **same**.
+
+![image](https://github.com/user-attachments/assets/4d4c2dbc-8900-4064-8992-196c331050d2)
+![image](https://github.com/user-attachments/assets/7340b1a4-71e8-404e-aa7f-a5b2213feb84)
+![image](https://github.com/user-attachments/assets/e61627be-14d1-4c79-b1d0-b167a567b1db)
+
+* [**VERY IMPORTANT**] [**Formula**]
+
+![image](https://github.com/user-attachments/assets/84c876fb-1a93-47e7-9fdc-e3c2c34c3f07)
+![image](https://github.com/user-attachments/assets/99ec2138-73f1-42c6-bd70-066f85d958af)
+
+* [**VERY IMPORTANT**] [**Formula**]
+
+![image](https://github.com/user-attachments/assets/d72c24fd-4316-44fa-bb00-36e989410bd8)
+
+
+
+
+
+
+
+
+
+ 
+
 
 
 
@@ -774,5 +849,9 @@
 
 
 
+## IMPORTANT
+
+![image](https://github.com/user-attachments/assets/331bce0d-55e0-4e24-a951-34dc2fd779a5)
+![image](https://github.com/user-attachments/assets/8c147098-17ca-42b4-9e5b-0863c3383c56)
 
 
