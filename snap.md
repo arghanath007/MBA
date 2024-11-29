@@ -728,111 +728,77 @@
 
 * 4K + 4 -> 4K only.
 
+![image](https://github.com/user-attachments/assets/3d4f97ca-5979-44ff-800f-a148e840e4b1)
+![image](https://github.com/user-attachments/assets/401841f8-9703-46cf-84bb-4dbcf29b73ac)
 
+* 4 * 7 -> 28yrs -> 35 odd days.
+* Every **leap yr** calendar repeats in **28yrs**.
 
+![image](https://github.com/user-attachments/assets/11a0ef5e-fc9e-4295-8609-4817c66235a5)
 
+* Only limitation -> Every 4th yr is a leap year only.
+*  [**VERY IMPORTANT**] [**Formula**]
 
+![image](https://github.com/user-attachments/assets/ea8684b1-50c9-474c-a24d-09a3cd9cf24b)
+![image](https://github.com/user-attachments/assets/b9fad8c5-e93b-445c-a6c6-62494dc6abd6)
 
+* For these types of cases, we have to calculate it **manually**.
 
+![image](https://github.com/user-attachments/assets/f06b99cd-46f2-44c4-81a9-c7f5a1d63bce)
 
+* 2004 -> 4K
+* 2005 -> 4K + 1.
+* 2008 -> 4K.
+* 2011 -> 4K + 3.
 
+![image](https://github.com/user-attachments/assets/5c9379dc-441e-4615-9efc-62fea7c7105e)
+![image](https://github.com/user-attachments/assets/d2b07ec2-2473-46d5-9446-3315c5a3c1f6)
 
+* 1896 -> The table will not work here as the next leap yr is after '8yrs'.
 
+![image](https://github.com/user-attachments/assets/d1282727-4c30-41aa-822a-c1bcc5fc6a49)
+![image](https://github.com/user-attachments/assets/48069810-e6c7-4d99-a70d-8d07419aff5a)
 
+* 9 + 5 -> 14 odd days.
+* 1896 calendar gets repeated in 1908.
 
+![image](https://github.com/user-attachments/assets/39a3bbba-a51a-4b5c-b98a-40dc93fc0689)
+![image](https://github.com/user-attachments/assets/67b8d1db-02a1-4811-9aba-8368a9ea1068)
+![image](https://github.com/user-attachments/assets/24de5dfc-ff6f-44d7-89d9-f3735ea96e81)
 
+* Year 100, Year 200, Year 300 -> They are **Not leap years**. [**VERY IMPORTANT**] [**Formula**]
 
+![image](https://github.com/user-attachments/assets/c3d0e4e4-66a5-43b0-801c-d39cbe018cc7)
+![image](https://github.com/user-attachments/assets/f4e28b2e-59bf-44da-9675-c3c8d7d943b2)
 
+* In 100yrs -> 5 odd days. [**VERY IMPORTANT**] [**Formula**]
+* In 400yrs -> 5 + 5 + 5 + 6 -> 21 odd days -> 21/7 -> '0' odd days. [**VERY IMPORTANT**] [**Formula**]
 
+![image](https://github.com/user-attachments/assets/c436333d-414d-4e37-b9b1-4928b2032fb4)
+![image](https://github.com/user-attachments/assets/90b822e8-4426-42c0-aa83-83bd8451f866)
 
+* In 400yrs -> '0' odd days.
+* In 2000yrs -> '0' odd days.
 
+![image](https://github.com/user-attachments/assets/b1a0376f-f003-4c30-a491-dcc2071a1b0a)
+![image](https://github.com/user-attachments/assets/c39093e8-04d7-4e42-8537-8b4f29e7543d)
 
+*  [**VERY IMPORTANT**] [**Formula**]
 
+![image](https://github.com/user-attachments/assets/00cc6c4f-9ff5-455a-a90b-d734653ecc04)
+![image](https://github.com/user-attachments/assets/2b566d45-950c-471c-9f72-d15c1b531a14)
 
+* [Question] 
 
+![image](https://github.com/user-attachments/assets/c54dcb77-70d0-4cd9-b313-5ccb53409bba)
+![image](https://github.com/user-attachments/assets/374e7da1-70a2-4481-8233-d59818deb40f)
 
+* Option **A**.
+* [Answer]
 
+![image](https://github.com/user-attachments/assets/e476197d-d47c-4c04-bbe7-05b9ca8c6735)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* **CALENDAR ASSIGNMENT**.
 
 ### Directions
 
