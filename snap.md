@@ -1,3 +1,9 @@
+# TO-Do
+
+1) Vocab practice.
+2) Syllogisms.
+
+
 # SNAP
 
 ![image](https://github.com/user-attachments/assets/4e703ea6-a339-4ffb-9b7f-29c24b8e5ba8)
