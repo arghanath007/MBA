@@ -646,6 +646,148 @@
 * [**VERY IMPORTANT**] [**Formula**]
 
 ![image](https://github.com/user-attachments/assets/d72c24fd-4316-44fa-bb00-36e989410bd8)
+![image](https://github.com/user-attachments/assets/ddab2dc5-508a-4cd2-9344-28bea4d74597)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/f4128619-f146-4c63-b958-38559a267ed9)
+![image](https://github.com/user-attachments/assets/16704811-5be6-4a4c-98a0-7259bbccc3ff)
+![image](https://github.com/user-attachments/assets/58b8d1a7-e0c0-471b-bb71-a0f7cf083422)
+![image](https://github.com/user-attachments/assets/7b5a176c-8929-4668-a0d3-3dd9b821993a)
+![image](https://github.com/user-attachments/assets/380323f4-7902-4819-86de-9d1e0f16e7ec)
+
+* When does the calendar of 2023 repeat itself?
+
+![image](https://github.com/user-attachments/assets/c8e6460f-fc67-479a-b93e-cc73570eedce)
+
+* 2024 -> Leap Year.
+* 2028 -> Leap Year.
+* 2032 -> Leap Year.
+
+![image](https://github.com/user-attachments/assets/a77ce34d-d6bc-4578-a8c0-4e597195fc3f)
+![image](https://github.com/user-attachments/assets/eb2b3db1-14da-4c4a-bd49-30b70be527b6)
+![image](https://github.com/user-attachments/assets/8350d1b9-7a13-45e7-a1af-23072567cb72)
+
+* 2008 -> Leap Year.
+* 2008 + 3 -> 2011.
+* 2008 + 2 -> 2010.
+* 1996 -> Leap Year.
+* 1996 + 1 -> 1997. 
+
+![image](https://github.com/user-attachments/assets/b95145be-793b-47a6-95a6-910d16fea6a4)
+![image](https://github.com/user-attachments/assets/d5b08a69-4a73-4709-b65e-76a86dd79d02)
+
+* Sequence for the no. of odd days. 
+
+![image](https://github.com/user-attachments/assets/c0a8e4d2-9714-4e50-b393-c3b68a96d26e)
+![image](https://github.com/user-attachments/assets/3ce68981-e215-42c6-8d7f-ec8de5a640c5)
+
+* After how many yrs, the no. of odd days is a multiple of '7'.
+* After '11yrs' from 2023, we are getting '2034' and the no. of odd days is a multiple of '7'.
+
+![image](https://github.com/user-attachments/assets/39724867-4bd1-4bc0-94e5-5ccbd55be8d2)
+
+* The calendar of '4K + 3' form will be **repeated** after '11yrs' only.  [**VERY IMPORTANT**] [**Formula**]
+* 2020 -> Leap Year -> 4K.
+* 2023 -> '4K + 3' form.
+
+![image](https://github.com/user-attachments/assets/23e78d8b-d6aa-4aec-b160-f7218a6411d3)
+![image](https://github.com/user-attachments/assets/459b0de5-4381-44b8-bb73-93afbcf2ef7f)
+
+* [Question] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/96ff7dac-7d2e-468e-9a87-f97911e9d656)
+
+* 2008 -> Leap Year -> 4K.
+* 2009 -> '4K + 1' form.
+
+![image](https://github.com/user-attachments/assets/af42ff69-167c-4a29-88e1-3b298de8bb1b)
+
+* 2012 -> Leap Year
+
+![image](https://github.com/user-attachments/assets/277f3fe4-94ca-45c5-bef3-a4f65ae2da63)
+![image](https://github.com/user-attachments/assets/a0e74b92-4fdc-4274-beb6-36d4e48c055f)
+![image](https://github.com/user-attachments/assets/52e28e2f-85f3-4fd1-a533-e857bf29e299)
+
+* The calendar of '4K + 1' form will be **repeated** after '6yrs' only.  [**VERY IMPORTANT**] [**Formula**]
+* For every '4yrs' we will have '5' odd days -> 2 + 3 * 1 -> 5.
+
+![image](https://github.com/user-attachments/assets/ef23c301-7671-4947-9a42-c240d6c0acfa)
+![image](https://github.com/user-attachments/assets/16c7f8cf-529c-418f-ada3-7e4992eb3058)
+
+* 2004 -> Leap Year
+* 2008 -> Leap Year
+
+![image](https://github.com/user-attachments/assets/bc0a7059-5c2e-4c36-bc95-a39a628c85f1)
+![image](https://github.com/user-attachments/assets/4812fab4-58e0-4f98-a880-3a1d8084cde0)
+![image](https://github.com/user-attachments/assets/0203bb00-23c8-4ab0-8c47-1d32fb851377)
+
+* The calendar of '4K + 2' form will be **repeated** after '11yrs' only.  [**VERY IMPORTANT**] [**Formula**]
+
+![image](https://github.com/user-attachments/assets/51daba07-c79a-4eeb-a55e-f8b32b5bba6a)
+
+* 4K + 4 -> 4K only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -853,5 +995,5 @@
 
 ![image](https://github.com/user-attachments/assets/331bce0d-55e0-4e24-a951-34dc2fd779a5)
 ![image](https://github.com/user-attachments/assets/8c147098-17ca-42b4-9e5b-0863c3383c56)
-
+![image](https://github.com/user-attachments/assets/d72c24fd-4316-44fa-bb00-36e989410bd8)
 
