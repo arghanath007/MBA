@@ -514,6 +514,80 @@
 
 * Option **A/1**. [**VERY IMPORTANT**]
 
+#### Syllogism Practice
+
+* Conclusion -> 100% sure.
+
+![image](https://github.com/user-attachments/assets/368d0231-abfa-47f4-832f-3024d02ef8b1)
+
+* 1.
+
+![image](https://github.com/user-attachments/assets/666ebfba-3659-490f-b220-287f1a6da709)
+
+* 2.
+
+![image](https://github.com/user-attachments/assets/f34091c4-c0b1-4c1f-a90b-25d2db7ea5c8)
+
+* Conclusion '1' -> Without 'N and S' intersection, it is still correct.
+* Conclusion '2' -> We are not 100% sure about it. 
+
+![image](https://github.com/user-attachments/assets/9be15a64-6c95-4354-adaf-aa93f255160e)
+![image](https://github.com/user-attachments/assets/f7bfd4e3-d52d-4ab2-bddb-5514400e6327)
+
+* Option **D**. [**VERY IMPORTANT**]
+* 3.
+
+![image](https://github.com/user-attachments/assets/b09c4737-fd2b-4cd8-9532-98afbd7a8592)
+
+* 4 -> Mark the **wrong** conclusion.
+
+![image](https://github.com/user-attachments/assets/13009e5b-1964-4d24-acb5-68e205d105e3)
+
+* Option **B/2**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/07c669b1-07a3-4785-b8c6-455f953fe2aa)
+
+* 5 -> Mark the **wrong** conclusion.
+
+![image](https://github.com/user-attachments/assets/4dbf8451-403c-458c-ac9c-65f1358cc240)
+![image](https://github.com/user-attachments/assets/9499737f-79f9-445d-8f6a-e2ee516734f8)
+![image](https://github.com/user-attachments/assets/442ab0c0-698c-46ba-84b8-eb2ab7243d4a)
+
+* [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/00f4fbcf-4f16-4cac-b62b-5053332cfcb6)
+
+* [Question]
+* 17mins left.
+
+
+
+
+
+
+![telegram-cloud-photo-size-5-6222092841266561247-y](https://github.com/user-attachments/assets/e40a54e0-cb7a-4482-853d-b71924fdccec)
+![telegram-cloud-photo-size-5-6222092841266561246-y](https://github.com/user-attachments/assets/c67f7f54-e410-4741-bcb8-ec328c02492c)
+
+* [Answers]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
