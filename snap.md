@@ -3,6 +3,13 @@
 1) Vocab practice.
 2) Syllogisms.
 
+![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
+![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
+![image](https://github.com/user-attachments/assets/c0561d34-eb53-4a8c-8e4d-fe4348882f7a)
+![image](https://github.com/user-attachments/assets/55e2f1a7-bdb3-49fa-be6e-bc564db6e72d)
+![image](https://github.com/user-attachments/assets/23179d68-f926-4f23-b0ac-46fc4fa529df)
+![image](https://github.com/user-attachments/assets/50a99c03-9376-4fbf-a647-169b17be8f3b)
+
 
 # SNAP
 
@@ -458,6 +465,65 @@
 
 * [Answer]
 
+![image](https://github.com/user-attachments/assets/cc9b9ef7-831a-4197-aede-ffa2461b7c4b)
+![image](https://github.com/user-attachments/assets/18b57ae0-63ce-47cd-9023-72534dec9abd)
+
+* Some 'A' is 'B' -> Some 'B' is 'A'.
+
+![image](https://github.com/user-attachments/assets/e905e13f-ef27-4c5d-8dc7-902d659f8529)
+![image](https://github.com/user-attachments/assets/26261721-b7b2-47df-8abe-be5df449debe)
+![image](https://github.com/user-attachments/assets/c59e5eef-9a35-42e5-b876-7517000a687a)
+![image](https://github.com/user-attachments/assets/d7f041f3-35a3-49d3-84c6-6a8b8106ca8b)
+
+* Either-OR.
+
+![image](https://github.com/user-attachments/assets/7056aab6-5ba1-46d9-a673-e07850e93661)
+![image](https://github.com/user-attachments/assets/9bdc4371-293a-4979-946e-a305cff97c0f)
+![image](https://github.com/user-attachments/assets/36af6e22-95c5-4369-a5c2-714c6b289546)
+![image](https://github.com/user-attachments/assets/5f12a956-bec4-4cc0-ac1e-2d86daddedf9)
+
+* [Question]
+* Dotted lines -> The circle is movable.
+* conclusion -> 100% the truth.
+
+![image](https://github.com/user-attachments/assets/3ac70e73-08e1-430d-ac5e-ca70c2371d23)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/7c3bb7b1-8825-4090-8139-4a3d1ae02901)
+![image](https://github.com/user-attachments/assets/66b816ca-dd0b-42be-b850-5bfe3921e282)
+![image](https://github.com/user-attachments/assets/f244f589-0302-4775-9e2e-734089ceda24)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/d00189bb-090e-456f-a478-980ead48edd9)
+![image](https://github.com/user-attachments/assets/890e3f23-dca0-4ee7-a20a-2ace436fd057)
+
+* Either-OR. [**VERY IMPORTANT**]
+
+1) Some-No/All-Some-No.
+2) Both are individually wrong.
+3) Comparison entity is same.
+
+![image](https://github.com/user-attachments/assets/d74352cb-ba03-48d6-a4a0-8794daef1d5e)
+
+* Either-OR. [Answer] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4c9d7b89-b1f6-4313-9cb4-9202245e932a)
+![image](https://github.com/user-attachments/assets/366a661f-20c4-4453-af5a-6f57c3fb5783)
+
+* Option **A/1**. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
 ### Calendar
 
 ![image](https://github.com/user-attachments/assets/b4c10d2d-ac8f-4a04-87ca-74d357fbf74e)
@@ -806,6 +872,9 @@
 
 * **CALENDAR ASSIGNMENT**.
 
+![image](https://github.com/user-attachments/assets/cd11b844-3a15-49e6-a9f4-ef1d5557637a)
+
+
 ### Directions
 
 ![image](https://github.com/user-attachments/assets/2dffd4eb-695e-43da-aaea-3e30b39e9552)
@@ -968,4 +1037,6 @@
 ![image](https://github.com/user-attachments/assets/331bce0d-55e0-4e24-a951-34dc2fd779a5)
 ![image](https://github.com/user-attachments/assets/8c147098-17ca-42b4-9e5b-0863c3383c56)
 ![image](https://github.com/user-attachments/assets/d72c24fd-4316-44fa-bb00-36e989410bd8)
+![image](https://github.com/user-attachments/assets/f7e9100f-27c5-4d58-970b-5bdecb040c3a)
+![image](https://github.com/user-attachments/assets/255198ce-3b1d-4a8b-b9c8-00387abb101b)
 
