@@ -1,7 +1,8 @@
 # TO-Do
 
 1) Vocab practice.
-2) Syllogisms.
+2) Syllogisms. (DONE)
+3) Input-Output.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
