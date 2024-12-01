@@ -933,7 +933,6 @@
 
 ![image](https://github.com/user-attachments/assets/cd11b844-3a15-49e6-a9f4-ef1d5557637a)
 
-
 ### Directions
 
 ![image](https://github.com/user-attachments/assets/2dffd4eb-695e-43da-aaea-3e30b39e9552)
@@ -968,7 +967,7 @@
 
 * [Answers]
 
-### Directions
+#### Directions
 
 ![image](https://github.com/user-attachments/assets/b28f063b-1b7c-4d95-89c0-813f949b683d)
 
@@ -1048,6 +1047,174 @@
 
 * [Answers]
 
+### Input Output
+
+* Guess the logic of the machine.
+* Input -> Alphabetically arranged.
+
+![image](https://github.com/user-attachments/assets/93ef85ef-8c18-4185-bc53-448402eeb715)
+![image](https://github.com/user-attachments/assets/fc9ab4cb-0695-4b95-8898-3df4932078ce)
+![image](https://github.com/user-attachments/assets/436f950b-3f90-4f74-b3f6-5e79d377324d)
+
+* After 'C', 'D' comes. We have '2 Ds' which are 'Di and De'. 'De' alphabetically comes before 'Di'. 
+
+![image](https://github.com/user-attachments/assets/aed2ba3c-d232-4f58-992e-7b70700be916)
+![image](https://github.com/user-attachments/assets/9915c18d-e367-4ef0-a5bb-68093c855d88)
+![image](https://github.com/user-attachments/assets/a4a6fd43-acc2-47e3-8937-9170f842c30c)
+
+* The words are now alphabetically arranged.
+* Shifting pattern. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b0203147-9067-4a55-be29-edf4779b7de0)
+
+* Swapping pattern. [**VERY IMPORTANT**]
+* Always check the last step -> The logic is alphabetic pattern.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1d1788f6-9310-49cc-a5c0-20a82d7dbc54)
+![image](https://github.com/user-attachments/assets/4360fc87-3ef7-4bb0-b748-4085a849d7f9)
+
+* Last step -> The lenght of the words or the no. of alphabets.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/17720e9b-1e19-4236-959a-758e17db0722)
+
+* When the **lenght of the words or the no. of alphabets** are **same** then the **bigger alphabet** comes first. 'S' is a **bigger alphabet** than 'C'. That's why 'S' came first and then 'C' came.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cbf2d83d-7244-4842-b692-da1fc9e8a4fc)
+![image](https://github.com/user-attachments/assets/956ce0ff-670d-4457-9bca-f7c5ab57f82d)
+![image](https://github.com/user-attachments/assets/15a5ece0-491d-482d-825e-21ae8005e499)
+![image](https://github.com/user-attachments/assets/cda8ed35-8635-4f73-9b2e-bab9a9c9b0f8)
+
+* Check last step and see whether it is a **shifting or a swapping** pattern.
+* Shifting pattern.
+
+![image](https://github.com/user-attachments/assets/5b1952b3-f781-40a2-aea1-535f678763a6)
+![image](https://github.com/user-attachments/assets/3b6010dd-1985-41e5-8717-ad7f2d3199b4)
+![image](https://github.com/user-attachments/assets/c943c10a-7a31-4b99-9398-3aa383f375d6)
+![image](https://github.com/user-attachments/assets/fe1d99c8-f499-4f07-8241-2742742c7a81)
+
+* [Example]
+
+![image](https://github.com/user-attachments/assets/f163349f-59fd-4db5-b54d-30bda2449d55)
+
+* [Question] [Example]
+
+* **STEPS**:- [**VERY IMPORTANT**]
+
+1) Check input.
+2) Logic from **last step** -> Increasing Order.
+3) Pattern -> Swapping pattern.
+
+![image](https://github.com/user-attachments/assets/4039b241-df67-462e-b7cb-54c7f830bba5)
+![image](https://github.com/user-attachments/assets/50647ea3-b781-43dc-bf69-d7754107fdc6)
+![image](https://github.com/user-attachments/assets/1289fea8-824a-41ae-baf7-a4b654408b53)
+![image](https://github.com/user-attachments/assets/d1c8b41a-e2a7-4ebb-b471-b2fe2a3d55a2)
+![image](https://github.com/user-attachments/assets/c966da24-b94d-407c-908b-32a97e31a2c7)
+![image](https://github.com/user-attachments/assets/6b26e77c-5432-45ae-aa96-6cbaafe45e80)
+![image](https://github.com/user-attachments/assets/749166be-7a85-4fc0-81d0-1d5efb0e9740)
+![image](https://github.com/user-attachments/assets/84242aeb-707a-4409-8f97-842ead68d3a7)
+![image](https://github.com/user-attachments/assets/aebb5a31-b4bf-4575-80e9-cc820aefe343)
+
+* Answer -> Step '3' OR 3. [1]
+
+![image](https://github.com/user-attachments/assets/72963da1-ad6e-4790-ad95-964cb7dd3073)
+![image](https://github.com/user-attachments/assets/faf1e6a4-74d7-4394-ba30-8b0c3567bfc1)
+![image](https://github.com/user-attachments/assets/e948c7b9-d188-406e-93cc-39b4952d4230)
+
+* The arrangement is done in '3' steps only.
+* Answer -> Option '4' -> CBD. [2]
+
+![image](https://github.com/user-attachments/assets/7c7efa5f-3766-42b9-8472-270dd978659f)
+
+* [Questions]
+
+![image](https://github.com/user-attachments/assets/a391f33f-1fc3-4700-8e12-0ab41438a4ce)
+![image](https://github.com/user-attachments/assets/3f27e8ba-289f-4e0d-9512-4d49e886dae5)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/cb81778e-6096-4bb7-b9b5-8102a91ac53e)
+
+* Alphabet, Numbers -> Decreasing order.
+* Smallest Alphabet -> Left side.
+* Largest Number -> Right side.
+* Pattern -> Shifting pattern.
+
+![image](https://github.com/user-attachments/assets/ee2289a6-ce7c-4130-98b6-727b112985bb)
+![image](https://github.com/user-attachments/assets/bb787bdf-d732-4d3d-9256-7c32ab7b9cdb)
+![image](https://github.com/user-attachments/assets/62fa05c8-f4d5-44d8-8399-83e4aca241ec)
+![image](https://github.com/user-attachments/assets/5c875453-6749-4ab2-bcb0-ad11cf7c208d)
+![image](https://github.com/user-attachments/assets/7cc71ff3-a810-45be-9d89-a4141ead8ead)
+
+* Q5 -> Step III -> Option **4**.
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/c944465e-3974-4d39-b2c0-68e8221c4b67)
+![image](https://github.com/user-attachments/assets/cde4985f-4ca5-4763-b149-af0891facef9)
+![image](https://github.com/user-attachments/assets/80b31f8b-c062-4cbf-80c9-136d3f267b5d)
+
+* [Question]
+* Alphabet, Numbers -> Decreasing order.
+* Smallest Alphabet -> Left side.
+* Largest Number -> Right side.
+* Pattern -> Shifting pattern.
+
+![image](https://github.com/user-attachments/assets/d3b0978e-613c-4010-9269-0fff437e6631)
+![image](https://github.com/user-attachments/assets/8ef97d27-3503-4a5f-b607-52fb93b334cb)
+
+* [Answers]
+
+50:27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1103,4 +1270,5 @@
 ![image](https://github.com/user-attachments/assets/255198ce-3b1d-4a8b-b9c8-00387abb101b)
 ![image](https://github.com/user-attachments/assets/0d252d40-36c8-468d-9128-7c9a98c69201)
 ![image](https://github.com/user-attachments/assets/3053338e-dd9f-413b-8d2c-5b6d5b5d43d9)
+![image](https://github.com/user-attachments/assets/a688c6d8-72b1-4dd8-b319-ee645b2d4e6b)
 
