@@ -1221,8 +1221,85 @@
 
 * MOCK question. [Doubt]
 
-
 ![image](https://github.com/user-attachments/assets/07f3f6a6-8206-40f9-93a1-51bf5412ab93)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/bfafdd04-1bff-4174-a850-a28cefefec61)
+![image](https://github.com/user-attachments/assets/1705fb7d-da4b-46d7-8a59-3f05d1b79460)
+![image](https://github.com/user-attachments/assets/d13423fe-3ff9-4ec7-9b73-768a793fe3d2)
+![image](https://github.com/user-attachments/assets/c29c6182-99b5-42af-8ea6-b4f5e647f3a3)
+![image](https://github.com/user-attachments/assets/1f0de912-5e47-42a0-8f7c-4dcb52183cdb)
+![image](https://github.com/user-attachments/assets/c8f9a420-bf3f-4bd6-b30f-afff58340b04)
+
+* Answer -> Option **2**. [1]
+
+![image](https://github.com/user-attachments/assets/3c01fecf-03c5-4417-9132-a30c0b26c747)
+![image](https://github.com/user-attachments/assets/b8305154-0772-4856-9f09-1a642cda3253)
+![image](https://github.com/user-attachments/assets/53d20f74-0a8b-4d81-8543-c53b4847d8b2)
+![image](https://github.com/user-attachments/assets/af824e4b-3910-47fa-8749-29b781362ef4)
+
+* Pattern -> Decreasing order.
+* First Place -> Largest Number.
+* Last Place -> Smallest Number.
+
+![image](https://github.com/user-attachments/assets/e94a3921-72f2-4c50-81c2-1a5f98f9bb14)
+![image](https://github.com/user-attachments/assets/95ec89b0-6baf-4a58-85c6-2b89189e02aa)
+![image](https://github.com/user-attachments/assets/cc3e70ac-3529-42ad-8fa4-af68e4766a8d)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/09952441-20c4-4bed-9e90-35ab791b1b20)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/bc3203f4-02f2-4597-985e-c2b7f4dcb42d)
+![image](https://github.com/user-attachments/assets/633fdbf7-b720-4206-a59c-5eefae609f7c)
+
+* Pattern -> Last letter of the word is in either increasing or decreasing pattern.
+* Patterns -> Reverse order, Increasing order, decreasing order, middle character is in alphabatic order, Sum of digits. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/50805d9f-4878-4b05-a1c7-b54c6166da54)
+![image](https://github.com/user-attachments/assets/0d6f4965-266d-478d-aa61-92237d1758a0)
+
+* Video -10. [Continue]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
