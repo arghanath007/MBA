@@ -1163,7 +1163,25 @@
 
 * [Answers]
 
-50:27
+![image](https://github.com/user-attachments/assets/b8813e68-79fe-4951-b971-f9a86e89cc54)
+![image](https://github.com/user-attachments/assets/93ca4ecb-e788-41f8-8a60-3132cf7b1cf3)
+
+* [Question]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
