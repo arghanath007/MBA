@@ -1165,8 +1165,64 @@
 
 ![image](https://github.com/user-attachments/assets/b8813e68-79fe-4951-b971-f9a86e89cc54)
 ![image](https://github.com/user-attachments/assets/93ca4ecb-e788-41f8-8a60-3132cf7b1cf3)
+![image](https://github.com/user-attachments/assets/a137b0a5-2ce0-4fa7-87d5-539083b10750)
 
 * [Question]
+* Biggest, smallest, 2nd Biggest, 2nd smallest, ........
+
+![image](https://github.com/user-attachments/assets/7f1402a9-5583-42a2-9e6d-ed6e7b02fc15)
+
+* Answer -> Sixth -> Option **1**. [1]
+* Answer -> Option **3**. [2]
+
+![image](https://github.com/user-attachments/assets/b6b0ae43-d648-432c-9f09-0c22af28a0f0)
+
+* [Question] [**VERY IMPORTANT**] [Practice]
+* Mathematical changes are happening here.
+* Step 1 -> Digit/Data sum -> We have to keep it in single digit.
+* 44 -> 4 + 4 -> 8.
+* 38 -> 3 + 8 -> 11 -> 1 + 1 -> 2.
+* 24 -> 6.
+* 55 -> 5 + 5 -> 10 -> 1 + 0 -> 1.
+* 16 -> 7.
+* 14 -> 5.
+* 85 -> 13 -> 1 + 3 -> 4.
+
+![image](https://github.com/user-attachments/assets/4bcce0ce-e3e8-4767-bb6e-a4a1f0377744)
+![image](https://github.com/user-attachments/assets/b2aa9db2-d6c5-4b69-a759-d5d63bb63613)
+
+* Step 2 -> (Square of the no) - 4.
+* 8 ^ 2 - 4 -> 64 - 4 -> 60.
+* 2 ^ 2 - 4 -> 4 - 4 -> 0.
+* 6 ^ 2 - 4 -> 36 - 4 -> 32.
+* 1 ^ 2 - 4 -> 1 - 4 -> -3.
+* Step 3 -> Digit/Data sum
+* Step 4 -> Adding squares to the numbers.
+
+![image](https://github.com/user-attachments/assets/6469b5f2-46b7-479d-b4be-6e59c5496aa2)
+
+* Step 5 -> Adding '8' to the numbers.
+* Step 6 -> Digit/Data sum.
+
+![image](https://github.com/user-attachments/assets/9f54d9d7-6ae1-41ec-869d-284c935dd0cc)
+![image](https://github.com/user-attachments/assets/8a4be7be-dab5-4600-8155-c4ae539d0c18)
+![image](https://github.com/user-attachments/assets/5fd9b06a-11be-43d6-99a1-d105d0caa891)
+![image](https://github.com/user-attachments/assets/416eaa40-8965-4ac9-a166-2059ea6b3c3b)
+
+* Answer -> Option **1**. [1]
+
+![image](https://github.com/user-attachments/assets/98e96f24-698f-4b16-9398-743e84c847fd)
+![image](https://github.com/user-attachments/assets/2d034731-55c8-4ffa-a99d-aac8b9a7de0b)
+
+* Answer -> Option **3**. [2]
+
+![image](https://github.com/user-attachments/assets/367f412c-fbec-49e0-bc37-6df9d89101f4)
+![image](https://github.com/user-attachments/assets/4b773a9a-d090-4b26-88af-3d733a2751b7)
+
+* MOCK question. [Doubt]
+
+
+![image](https://github.com/user-attachments/assets/07f3f6a6-8206-40f9-93a1-51bf5412ab93)
 
 
 
