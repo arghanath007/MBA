@@ -1,8 +1,9 @@
 # TO-Do
 
 1) Vocab practice.
-2) Syllogisms. (DONE)
-3) Input-Output.
+2) MOCKS.
+3) Syllogisms. (DONE)
+4) Input-Output.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -557,47 +558,30 @@
 * [**VERY IMPORTANT**] [Practice]
 
 ![image](https://github.com/user-attachments/assets/00f4fbcf-4f16-4cac-b62b-5053332cfcb6)
+![image](https://github.com/user-attachments/assets/e19230cc-6945-4395-8978-eeb16ffe97d1)
 
-* [Question]
-* 17mins left.
+* Missing numbers. [Question]
+* Missing numbers -> We have to think about **squaring, cubing, division, multiplication**.
 
+![image](https://github.com/user-attachments/assets/6593d627-18a1-4981-9c3b-8b6ac996dd3a)
 
-
-
-
+* 7 ^ 2 + 5 ^ 2 = 74
+* 74/(7-5) -> 74/2 -> 37.
+* 6 ^ 2 + 4 ^ 2 = 52
+* 52/(6-4) -> 52/2 -> 26. [Answer]
 
 ![telegram-cloud-photo-size-5-6222092841266561247-y](https://github.com/user-attachments/assets/e40a54e0-cb7a-4482-853d-b71924fdccec)
 ![telegram-cloud-photo-size-5-6222092841266561246-y](https://github.com/user-attachments/assets/c67f7f54-e410-4741-bcb8-ec328c02492c)
 
 * [Answers]
 
+![image](https://github.com/user-attachments/assets/d2c407db-d55a-4a45-815e-99646e76ad61)
+![image](https://github.com/user-attachments/assets/7efdb5ec-3325-4a06-8073-1a772733e62a)
+![image](https://github.com/user-attachments/assets/1813664d-d79e-4516-bd9f-3f405154c46a)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Conclusion '1' -> We are not 100% sure.
+* Conclusion '2' -> We are 100% sure -> Always True.
+* Answer -> Option **B** -> Only II is True.
 
 ### Calendar
 
@@ -1103,6 +1087,9 @@
 
 
 
+## Miscelleneous
+
+![image](https://github.com/user-attachments/assets/e5cfad4a-8296-4158-9212-38e7b18b47cd)
 
 
 
@@ -1114,4 +1101,6 @@
 ![image](https://github.com/user-attachments/assets/d72c24fd-4316-44fa-bb00-36e989410bd8)
 ![image](https://github.com/user-attachments/assets/f7e9100f-27c5-4d58-970b-5bdecb040c3a)
 ![image](https://github.com/user-attachments/assets/255198ce-3b1d-4a8b-b9c8-00387abb101b)
+![image](https://github.com/user-attachments/assets/0d252d40-36c8-468d-9128-7c9a98c69201)
+![image](https://github.com/user-attachments/assets/3053338e-dd9f-413b-8d2c-5b6d5b5d43d9)
 
