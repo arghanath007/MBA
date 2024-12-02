@@ -3,7 +3,8 @@
 1) Vocab practice.
 2) MOCKS.
 3) Syllogisms. (DONE)
-4) Input-Output.
+4) Input-Output. (DONE)
+5) Verbal Reasoning.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -1636,34 +1637,117 @@
 
 * [**VERY IMPORTANT**]
 
+### Verbal/Critical Reasoning
 
+![image](https://github.com/user-attachments/assets/c791cb52-582d-4dac-8891-1ecb6a305a5d)
+![image](https://github.com/user-attachments/assets/316238dc-a3e1-4063-9880-d5f2af03f5da)
+![image](https://github.com/user-attachments/assets/655a481d-7266-489a-a902-db0b43a61057)
 
+* A -> Supporting the criminologist claims.
+* C -> Neither strengthens or weakens.
+* Embezzlement -> the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else. [Meaning]
+* Option **C**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/49e596f5-265d-4397-9df1-048c3909d90a)
+![image](https://github.com/user-attachments/assets/9b689702-79dd-449a-9400-8487b3acd40f)
 
+* However -> Contrast. [Meaning]
+* Paradox -> a statement that contradicts itself -> someone or something that seems to have contradictory qualities. [Meaning]
+* A -> Too general of a statement. We want deer hunting.
+* Option **E**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/fd4f6105-bc0b-43f9-bac6-52a8b311c6f7)
+![image](https://github.com/user-attachments/assets/fb46443d-fcd4-4dec-a1f3-0d067a2826fe)
 
+* Argument -> General.
+* Option **A**. [**VERY IMPORTANT**]
+* For instance -> Example.
+* Option **C** -> Out of scope.
+* Option **D** -> Too specific. 
+* Option **E** -> Too general/Very Very general. 
 
+![image](https://github.com/user-attachments/assets/38d0856e-e53d-4453-b72c-63b724906491)
+![image](https://github.com/user-attachments/assets/dde95205-5c58-4981-849e-b4a46d5b4059)
 
+* Option **D**. [**VERY IMPORTANT**]
+* Hide information -> Better/positive it is for us.
+* Option **B** -> Neither strengthens nor weakens.
+* Option **E** -> Out of scope.
 
+![image](https://github.com/user-attachments/assets/24381c7c-4a13-4494-8ae6-4483d70aab3a)
 
+* Option **A**. [**VERY IMPORTANT**] [Practice] 
+* listeners -> Children.
+* Option **B** -> Out of scope.
+* Option **C** -> Out of scope.
+* Option **D** -> About Younger children.
 
+![image](https://github.com/user-attachments/assets/b873172d-d729-45d2-b9da-50e3c1dc3f3c)
+![image](https://github.com/user-attachments/assets/6a4ddd30-14c4-4c34-bc6e-b270a8d2a721)
 
+* accidentally(acc)
+* Severity(Seve)
+* intentional(int)
 
+![image](https://github.com/user-attachments/assets/ffe25ad9-975b-4775-854e-0da82d133e7f)
+![image](https://github.com/user-attachments/assets/8d5b97dd-da9b-4421-b53f-68910307e9a5)
 
+* Weakening the author's reasoning.  [**VERY IMPORTANT**]
+* Weaken -> Alternative cause
+* Author's given conclusion -> Potentially weakening option.
 
+![image](https://github.com/user-attachments/assets/d1a308f3-ebd0-410f-a6a7-a4ef94a3a41c)
+![image](https://github.com/user-attachments/assets/6a03602a-6562-422b-8155-9b1c84f1472a)
+![image](https://github.com/user-attachments/assets/3a1095dd-3254-45da-b825-bd51881e4b18)
 
+* Option **A**. [**VERY IMPORTANT**]
 
- 
+![image](https://github.com/user-attachments/assets/b7b0a0fc-e6ab-4e28-9d60-2b24e6240c16)
 
+* Option **A**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/63256436-44ba-4da2-b396-b87bf860e49f)
+![image](https://github.com/user-attachments/assets/f0405eb1-8bf9-4092-ab75-b9a8c9687bef)
+![image](https://github.com/user-attachments/assets/166ff5e6-e1c6-45fa-8ee2-37e7eebb6afa)
 
+* Option **B**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/85e933a4-59fe-4d1d-8fca-2b73fe7fd608)
+![image](https://github.com/user-attachments/assets/f2e52919-eb86-417f-bc34-44698fea6866)
+![image](https://github.com/user-attachments/assets/34db5574-4678-4fee-8743-3f1782046a9b)
 
+* Option **D**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f889bcb2-425a-463d-a65c-bdc0830634c1)
 
+* Option **B**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a53ff323-a086-4aae-8fcb-70e8d1de90aa)
+![image](https://github.com/user-attachments/assets/55015174-167a-4780-91a1-01578bb8ffd3)
+![image](https://github.com/user-attachments/assets/0b55586a-9033-4d1c-8d03-8f146fd72554)
 
+* Option **C**. [**VERY IMPORTANT**] [Doubt] [Practice]
 
+![image](https://github.com/user-attachments/assets/dc2d95ff-e339-4570-a3cc-2d6d2e2474d7)
+
+* Option **E**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/00473b6d-9075-4dde-8db6-4b69ccba947d)
+![image](https://github.com/user-attachments/assets/f093995d-c411-449c-b374-5d8c9c314e2c)
+
+* Option **D**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7c640235-f4d3-4bb7-9948-bded48863db5)
+![image](https://github.com/user-attachments/assets/09f76bec-f284-4ae8-bfc5-7340ba5d2c55)
+![image](https://github.com/user-attachments/assets/f66ff39c-d7b8-4275-818d-e928c0be7361)
+
+* Option **D**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9287b70b-753b-422e-98de-fc1fee555a13)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f06ac0c4-d61c-4e84-96a7-efdc64c78ee8)
 
 
 
