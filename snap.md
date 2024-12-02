@@ -1750,6 +1750,92 @@
 
 ![image](https://github.com/user-attachments/assets/f06ac0c4-d61c-4e84-96a7-efdc64c78ee8)
 
+### Blood Relations
+
+![image](https://github.com/user-attachments/assets/07549319-3937-412a-b4bc-b35b3dab8415)
+
+* Not gender specific -> Sibling, Spouse.
+* spouse -> a person's partner in marriage. [Meaning]
+* Sibling -> a person's brother or sister -> Own's brother or sister. [Meaning]
+* Paternal -> belonging to or inherited from one's father. [Meaning]
+* Maternal -> relating to or derived from one's mother. [Meaning]
+* Nephwe -> Male.
+* Niece -> Female.
+
+![image](https://github.com/user-attachments/assets/59251980-2c42-40d7-b064-5229c46d497e)
+
+* Family Tree -> No. of generations.
+
+![image](https://github.com/user-attachments/assets/73b554df-799d-4637-b895-7dd614d276a9)
+![image](https://github.com/user-attachments/assets/11657372-4c20-4cd8-a313-039d311cd51a)
+![image](https://github.com/user-attachments/assets/4bec5983-444f-4ad1-896a-82c14df4ad27)
+
+* B, D, A => Brothers.
+* M -> Male.
+
+![image](https://github.com/user-attachments/assets/e3b52455-3159-4c5c-8756-66e868d16686)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/c7410c2f-68b0-4b1e-bff1-c438b36db6ac)
+![image](https://github.com/user-attachments/assets/1115f587-b5dc-428b-b048-2a2c972e7fcb)
+![image](https://github.com/user-attachments/assets/a096a605-c318-4470-abba-e5f0c67b4694)
+
+* Option **E**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9d5ee846-28f4-46ca-8bd2-2692eb3c726c)
+
+* Answer -> Grand-daughter. [**VERY IMPORTANT**]
+* Start from 32mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
