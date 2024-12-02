@@ -1261,58 +1261,380 @@
 
 ![image](https://github.com/user-attachments/assets/50805d9f-4878-4b05-a1c7-b54c6166da54)
 ![image](https://github.com/user-attachments/assets/0d6f4965-266d-478d-aa61-92237d1758a0)
+![image](https://github.com/user-attachments/assets/5a037ddd-6593-4491-8c64-c49ee55131b9)
+![image](https://github.com/user-attachments/assets/ed8068be-9be9-45c1-b8b7-4149a5a754a8)
 
-* Video -10. [Continue]
+* Digit Patterns -> Sum of digits, Difference of digits, Addition or Substraction, Odd -> Add, Even -> Substract, Prime numbers, Reverse order. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/0212c6be-cc74-44dc-989d-1472b44373c1)
 
+* Alphabet Patterns -> 1st letter, Last letter, No. of letter(length). [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e0c9784e-824d-4d5f-963f-16a1865f2cbf)
+![image](https://github.com/user-attachments/assets/d73103cd-5063-47e0-83a3-4944ad6b65f8)
 
+* Alphabet -> Largest to smallest -> Largest to the right.
+* Digit -> Largest to smallest difference -> Smallest difference to the left.
+* 54 -> 5 - 4 -> 1.
 
+![image](https://github.com/user-attachments/assets/2d9a6996-61f7-4fd9-8537-a13b42775daf)
+![image](https://github.com/user-attachments/assets/9fed0085-c214-4373-8200-8452f9632e6a)
 
+* Step 1:-
+* Smallest No -> 12.
+* Left side -> 12 + 1 -> 13.
+* 2nd Smallest No -> 22.
+* Right side -> 22 + 1 -> 23.
 
+![image](https://github.com/user-attachments/assets/83a53431-c25e-4c2b-884e-d1d3ee62577f)
+![image](https://github.com/user-attachments/assets/d30ea6f2-a90e-4491-a956-37d410cb9ed7)
+![image](https://github.com/user-attachments/assets/944cb17d-7139-4f6a-b309-fff07cf2e1a9)
 
+* If **Even No** -> Add '+2'.
+* If **Odd No** -> Add '-2' OR Substract '2'.
 
+![image](https://github.com/user-attachments/assets/e3155787-f26b-415e-9e34-5c0bc7a2697d)
 
+* Step IV -> Arranged -> Left side = Smallest Prime numbers, Right side = Smallest non-prime numbers.
+* Step V:-
+* Odd Position -> Number +2.
+* Even Position -> Number -3.
+* Step VI -> Arranging them again -> Left side = Smallest odd number, Right side = Smallest even number.
 
+![image](https://github.com/user-attachments/assets/fa9bd65a-555f-4807-bea1-52a186cfbc6c)
+![image](https://github.com/user-attachments/assets/405d349c-cc31-42a0-985a-038f5a740c3b)
+![image](https://github.com/user-attachments/assets/196738be-92ec-4156-822a-1faa5788fa16)
+![image](https://github.com/user-attachments/assets/ba6b7ae5-20ab-44fe-99db-5714252e4045)
+![image](https://github.com/user-attachments/assets/541c749e-32b7-4264-8167-b33d3d78c08b)
+![image](https://github.com/user-attachments/assets/7fda6747-a32a-4f9c-ab9c-a8aca4d3a161)
 
+* Digits -> smallest, largest, 2nd smallest, 2nd largest.
+* Alphabets -> Increasing alphabetical order.
 
+![image](https://github.com/user-attachments/assets/16d921d8-1f94-48cc-958f-a3b474e7cb55)
+![image](https://github.com/user-attachments/assets/c0103985-53b9-4d87-8487-49e1d319ecc3)
+![image](https://github.com/user-attachments/assets/fdb4e183-2dba-4310-85df-cce8e7299142)
 
+* Original digits -> Decreasing order.
+* Alphabets -> No. of alpbhates(length) in increasing order.
+* Numbers are arranged first and then the Alphabets are arranged.
 
+![image](https://github.com/user-attachments/assets/d35507cb-d986-484f-b8ce-94bd6c350d8b)
+![image](https://github.com/user-attachments/assets/3b940dd4-bad0-4708-a7d9-4a4a556deab6)
 
+* Step VIII -> Difference of digits and then the difference of digit is multiplied by '2'. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5232f879-8a9f-4e8f-8878-e7b437be66cc)
 
+* Original digits -> Smallest Even, Smallest Odd, 2nd Smallest Even, 2nd Smallest Odd.
+* Alphabets -> Increasing order.
 
+![image](https://github.com/user-attachments/assets/46aacc17-5b1b-4bd3-9cf2-5f04c9223706)
+![image](https://github.com/user-attachments/assets/a92ddf24-86a7-495a-86f6-72514c12f16c)
 
+* N -> 14
+* CAN -> 14 + 1 -> 15.
+* L -> 12.
+* DULL -> Grill -> 12 + 1 -> 13.
+* T -> 20.
+* West -> 20 + 1 -> 21.
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b2e537ee-cc8d-42b7-9562-bf70a658e1c6)
+![image](https://github.com/user-attachments/assets/5153f40a-0434-4f5e-a11a-c6bd94b54027)
 
+* Even Nos -> Number + 1 -> At the right side.
+* Odd Nos -> Reverse of the number -> At the left side.
 
+![image](https://github.com/user-attachments/assets/e3b32b4e-cd15-4c4f-a1e1-9a99b7b74c90)
+![image](https://github.com/user-attachments/assets/c83eaabe-bb33-4b6d-99d7-b2d03da59f2e)
 
+* [**VERY IMPORTANT**]
+* Prime nos -> Vowels -> Non-prime odd nos -> Consonents -> Even nos.
 
+![image](https://github.com/user-attachments/assets/10b80316-43a8-403f-ac6d-e1671e0d07b6)
+![image](https://github.com/user-attachments/assets/123f6306-cbbe-4deb-b6a7-c47c4ff3c1ec)
 
+* B + 1 -> C
+* A + 1 -> B
+* T + 1 -> U.
+* BAT -> CBU.
+* Largest no -> 96 -> 96 - 1 -> 95 -> Right side.
+* Smallest no -> 17 -> 17 + 1 -> 18 -> Left side.
+* Step '1' -> Smallest letter word(BAT) and largest digit(96).
+* Step '2' -> Largest letter word(DIVISION) and smallest digit(17).
+* DIVISION -> Do '-1' from each alphabet. 
 
+![image](https://github.com/user-attachments/assets/de5a8eef-4e4b-41b9-892f-30417f8a904a)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/6ede0d6c-614a-4f49-ac7a-fd0ad9976768)
+![image](https://github.com/user-attachments/assets/9d8342e3-9f77-4f98-a553-da865088431c)
+![image](https://github.com/user-attachments/assets/748a9b37-9213-4d50-b3a1-e1750280564c)
 
+* Step 1 -> Product of digit.
+* Step 2 -> Sum of digit.
+* Step 3 -> Square of digit.
+* Step 4 -> |Original input + Step '3'|.
+* Step 5 -> |Original input - Step '3'| -> Difference/Substraction.
+* Pattern -> Any step + Any step, Any step - Any step, Any step * Any step, Any step / Any step.
 
+![image](https://github.com/user-attachments/assets/5fd17cd1-de72-4feb-aa57-3fc6c2f29a18)
 
+* Step 6 -> Multiplication of consecutive nos from step '5'.
+* 8 * 13 -> 104.
+* 13 * 1 -> 13.
+* Step 7 -> Addition of consecutive nos from step '5'.
+* 8 + 13 -> 21.
+* 13 + 1 -> 14.
 
+![image](https://github.com/user-attachments/assets/47d9e481-ab19-4518-a4ad-b595faff5064)
+![image](https://github.com/user-attachments/assets/0328b6aa-1eef-451e-895b-6c8027bb5a74)
 
+* Step 8 -> Sum of the digits and then squaring the number.
+* 8 -> 8 ^ 2 -> 64.
+* 13 -> 1 + 3 -> 4 ^ 2 -> 16.
+* 42 -> 4 + 2 -> 6 ^ 2 -> 36.
 
+![image](https://github.com/user-attachments/assets/822d4d2a-4243-46c9-bf6f-b2d211842239)
+![image](https://github.com/user-attachments/assets/7bf215f4-0e29-4cca-8673-00417f731613)
 
+* Step 1 -> Multiplication of consecutive nos from initial input.
 
+![image](https://github.com/user-attachments/assets/f063003e-f635-473f-bd7d-1d1d69c1bf7c)
+![image](https://github.com/user-attachments/assets/6d83cd6f-ad86-45c1-8e15-65f1c5957192)
+![image](https://github.com/user-attachments/assets/cf447438-047a-4f7f-aade-a7b7a8c2194d)
 
+* Step 2 -> Last '2' digits of the nos are becoming the 1st '2' digits.
+* 420 -> 0420 -> 2040.
+* 3220 -> 2032.
+* 1196 -> 9611.
 
+* Step 3 -> Addition of the 1st '2' digits and the last '2' digits.
+* 2040 -> 20 + 40 -> 60.
+* 2023 -> 20 + 23 -> 43.
+* 9611 -> 107.
+* 0750 -> 57
+* 6360 -> 123.   
 
+![image](https://github.com/user-attachments/assets/20d3df6d-9bda-437d-a03c-77792dd43e5f)
+![image](https://github.com/user-attachments/assets/1c3f6ded-8648-41bf-a573-e90c04e64419)
 
+* Step 4 -> Step '3' + 111.
 
+![image](https://github.com/user-attachments/assets/e1dad845-c6ba-410f-99cf-30712e88a122)
 
+* Step 5 -> Arranged in increasing order.
 
+![image](https://github.com/user-attachments/assets/73068b39-01cc-4f6e-a9c9-27e6c2bf9fc1)
 
+* Even nos -> Non-prime or composite nos in increasing order from left side.
+* Odd nos -> Once composite nos is done then, prime nos are arranged in increasing order from right side -> Prime in decreasing order.
+* Step VI -> Arranged.
+* 11, 41, 05 -> Prime nos.
 
+![image](https://github.com/user-attachments/assets/464a46a1-3a85-48c6-bb7f-9137ff336683)
 
+* 10 -> 1 + 0 -> 1 ^ 2 -> 01.
+* 36 -> 9 ^ 2 -> 81
+* 24 -> 6 ^ 2 -> 36.
+* 32 -> 5 ^ 2 -> 25.
+* Step VII -> Sum of digits and then squaring the number.
+* Step VIII -> Increasing order.
+* Step IX -> Even nos -> No + 2, Odd nos -> No + 3.
 
+![image](https://github.com/user-attachments/assets/46583344-cafc-4fe5-9a35-49f97a13b5e2)
+![image](https://github.com/user-attachments/assets/876a4113-1514-4d0b-ae72-8bb4848385db)
 
+* 15 -> 6 -> 36.
+* 11 -> 2 -> 4.
+* 32 -> 5 -> 25.
+* Step '1' -> Square of the nos
+* Step '2' -> Sum of the digits.
+* Step '3' -> Input + Step '2' digit.
+* 15 + 9 -> 24.
+* 11 + 4 -> 15.
+* 32 + 7 -> 39.
+* 28 + 1 -> 29.
 
+![image](https://github.com/user-attachments/assets/c16bdbf2-7f37-468b-81e2-c935d6089e0d)
+
+* Step '4' -> Difference of digits.
+* 24 -> 4 - 2 -> 2.
+* 15 -> 5 - 1 -> 4
+* 39 -> 9 - 3 -> 6. 
+
+![image](https://github.com/user-attachments/assets/6d6feb7c-a846-4064-a19c-acc75ba4f674)
+![image](https://github.com/user-attachments/assets/3835ef72-0249-438a-937d-f457ead01c5e)
+
+* Step '5' -> Input - Step '4' digit.
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3a1b6012-488a-4b6a-977c-1f58705133e5)
+![image](https://github.com/user-attachments/assets/a464af22-01db-4633-89b5-ae46bac52980)
+
+* Step '1' -> Getting the previous smaller prime number. [**VERY IMPORTANT**]
+* Step '2' -> Sum of the digits.
+* Step '3' -> Input - Step '2'.
+
+![image](https://github.com/user-attachments/assets/e0e809b5-4531-400a-acc3-852cca64e89f)
+
+* Step '4' -> Sum of the digits.
+* Step '5' -> Input + Step '4'.
+
+![image](https://github.com/user-attachments/assets/aac19c2b-24f5-4f6e-9dfe-31f5f513e230)
+![image](https://github.com/user-attachments/assets/ae111c12-a20c-4001-9edd-e76b180e202f)
+
+* Step '1' -> Sum of the digits.
+* Step '2' -> Square the step '1' nos and then add them with initial input.
+* Step '3' -> Input + Step '2'.
+* Step '4' -> Sum of digits and then substract '1' from the sum.
+* 44 -> 8 - 1 -> 7.
+* 99 -> 18 - 1 -> 17.
+* 78 -> 15 - 1 -> 14.
+* 26 -> 8 - 1 -> 7
+* Step '5' -> Step '1' + step '4'.
+
+![image](https://github.com/user-attachments/assets/9d49e68b-b9fd-4e5c-a7b7-b10306637f8e)
+![image](https://github.com/user-attachments/assets/f290daf3-e283-499b-b228-b43c1a787701)
+
+* Step '1' -> Sum of the digits.
+* Step '2' -> Step '1' + Step '2'.
+* Step '3' -> Difference of digits in step '2'.
+* Step '4' -> Step '3' - initial input.
+* Step '5' -> Sum of the digits.
+
+![image](https://github.com/user-attachments/assets/b3a38b6e-d3ab-445e-8b6d-6d48bfb20130)
+![image](https://github.com/user-attachments/assets/d1e884f4-37ac-4c60-a69b-3df8132f295d)
+
+* Step '1' -> Product of the digits.
+* Step '2' -> Sum of the digit's square.
+* 72 -> 7^2 + 2 ^ 2 -> 53.
+* 18 -> 1^2 + 8 ^ 2 -> 65.
+* Pattern in digits -> Summation, multiplication, square, substraction, square + addition, square + substraction.
+* Step '3' -> Summation of numbers.
+* 53 + 15 -> 58
+* 65 + 30 -> 95.
+* 20 + 0 -> 20.
+* Step '4' -> Sum of digits.
+* Step '5' -> Arranging in descending order..
+
+![image](https://github.com/user-attachments/assets/62f4b022-aa49-49d7-b432-9aaaedbc3f64)
+
+* Step '1' -> Sum of digits and then multiplying it with '2'.
+* 17 -> 8 * 2 -> 16.
+* 19 -> 10 * 2 -> 20.
+* Step '2' -> Dividing the no. in step '1' by '2' and then squaring it.
+* Step '3' -> Square rooting the nos. in step '2' and then adding '12' to them.
+
+![image](https://github.com/user-attachments/assets/aee746b2-7d7b-4859-883e-62fcd0c1ad11)
+![image](https://github.com/user-attachments/assets/d5a61298-c147-4d6c-9323-1e7369797f6c)
+
+* Step '4' -> Taking the sum of the digits from step '3' and then substracting them from step '3' only.
+* 15 -> 6
+* 15 - 6 -> 9.
+* 20 -> 2
+* 20 - 2 -> 18.
+* 17 -> 8
+* 17 - 8 -> 9.
+* Step '5' -> Taking the nos. from step '4' and adding '2' to them.
+
+![image](https://github.com/user-attachments/assets/722f963a-be86-4719-88bf-0190449b9e59)
+![image](https://github.com/user-attachments/assets/07263fa3-9839-46a0-a7a5-c83aff798016)
+![image](https://github.com/user-attachments/assets/5e184ff9-bd18-45a8-b62a-851a4ad3fb7d)
+![image](https://github.com/user-attachments/assets/1dfc5d9c-4c39-4e7f-8363-900cba33735c)
+
+* Step '1' -> Sum of 2'2 consequtive nos. and doing -2, + 2, -2, +2.
+* 16 + 14 -> 30 - 2 -> 28.
+* 8 + 10 -> 18 + 2 -> 20.
+* 12 + 6 -> 18 - 2 -> 16.
+* 8 + 10 -> 18 + 2 -> 20
+* Step '2' -> Substraction of '2' consequtive numbers.
+* 28 - 20 -> 8
+* Step '3' -> Substraction of '2' consequtive numbers.
+
+![image](https://github.com/user-attachments/assets/2f5f1069-1029-424a-8414-5f9a793c9233)
+
+* Step '1' -> Addition of '2' numbers.
+* 9 + 4 -> 13
+* 4 + 4 -> 8
+* 25 + 4 -> 29
+* 16 + 4 -> 20 
+* Step '2' -> Substraction of '2' numbers.
+* 29 - 13 -> 16
+* 20 - 8 -> 12. 
+
+![image](https://github.com/user-attachments/assets/ad431db2-5f69-4e1e-8759-e7e1f545c589)
+![image](https://github.com/user-attachments/assets/67742c79-cfd6-4b53-bb63-b9083e4c212b)
+![image](https://github.com/user-attachments/assets/8e403ca8-ce00-4cbc-9a5a-bc5a2d632274)
+
+* Step '1' -> multiplication of digits and then add '10'. [**VERY IMPORTANT**]
+* 23 -> 2 * 3 -> 6 + 10 -> 16.
+* 47 -> 4 * 7 -> 28 + 10 -> 38.
+* 52 -> 10 + 10 -> 20.
+
+![image](https://github.com/user-attachments/assets/291b05df-32f0-4318-8453-0051aed7a11c)
+
+* Step '2' -> Increasing order on the left side, decreasing order on the right side. Taking the bigger no. in the middle.
+* Step '3' -> Digit sum and then multiplied by '3'.
+* Step '4' -> Arranging the numbers.
+* Step '5' -> Adding '5,6,7,8,9' to the nos in step '4' respectively,
+
+![image](https://github.com/user-attachments/assets/33d4f6d3-69c1-4d5b-8689-131f83bda63b)
+![image](https://github.com/user-attachments/assets/813182ee-9d5a-4f73-a45c-ce53072cbd39)
+![image](https://github.com/user-attachments/assets/c82cfff1-ece8-4aa4-94f6-fbd224ef424e)
+
+* floating -> 8 * 2 -> 16
+* current -> 7 * 2 -> 14
+* sail -> 4 * 2 -> 8.
+
+![image](https://github.com/user-attachments/assets/0fd2849e-d959-4b52-ac9e-641f4e150735)
+![image](https://github.com/user-attachments/assets/8d70659a-06ac-450a-b78a-2db78d305b99)
+![image](https://github.com/user-attachments/assets/33f48f0e-45fe-42de-b8a5-f24e782bbe08)
+
+* Alphabet patterns -> Sum of letters, no. of consonents, starting letter, ending letter, no. of vowels.
+* Step '1' -> No. of vowels and then do their square.
+* upsurge -> uue -> 3 ^ 2 -> 9.
+* beyond -> eo -> 2 ^ 2 -> 4.
+
+![image](https://github.com/user-attachments/assets/51beec0b-93a3-41f8-be25-280ee5424bee)
+
+* Step '1' -> Substracting the '2' consequtive numbers. 
+* Step '2' -> Addition of the '2' consequtive numbers. 
+* Step '3' -> Substracting the '2' numbers. 
+
+![image](https://github.com/user-attachments/assets/536e61a9-ea77-49e4-bfb7-3a6b47a61ef8)
+
+* 79 - 65 -> 14.
+* 82 - 64 -> 18
+* 121 - 82 -> 39.
+* Step '4' -> Unit digit multiplication. [**VERY IMPORTANT**]
+* 1 * 3 * 1 -> 3.
+* 4 * 9 * 8 -> 288.
+
+![image](https://github.com/user-attachments/assets/fc06eaa3-352b-4cfa-b84b-3fe93f7a2bbe)
+![image](https://github.com/user-attachments/assets/75fad2f3-0c6b-4737-860d-b7ba7cbd79cd)
+
+* Step '5' -> Unit digit multiplication.  [**VERY IMPORTANT**]
+* 3 * 2 -> 6.
+
+![image](https://github.com/user-attachments/assets/d8a9c120-4f22-4e6e-bc0f-fe05273366bc)
+![image](https://github.com/user-attachments/assets/481525ca-f7ed-450b-92f6-49f02f376a36)
+
+1) Digit Sum
+2) Digit product
+3) Digit sum * sum value.
+4) Digit product * sum value.
+5) Digit product + sum value.
+6) imput + step
+7) input - step
+8) Digital sum
+9) Prime
+10) individual digit squaring/cubing sum.
+11) individual digit multiplication.
+
+* [**VERY IMPORTANT**]
 
 
 
