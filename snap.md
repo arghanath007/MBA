@@ -5,7 +5,9 @@
 3) Syllogisms. (DONE)
 4) Input-Output. (DONE)
 5) Verbal Reasoning. (DONE)
-6) Blood Relations.
+6) Blood Relations. (DONE)
+7) Number Series.
+8) Clocks.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -1824,6 +1826,22 @@
 
 * [Answer]
 
+![image](https://github.com/user-attachments/assets/8e016a38-d0d8-48c5-9978-47281912fc70)
+![image](https://github.com/user-attachments/assets/c412f2dc-262f-4da1-a5a2-480b4886029f)
+![image](https://github.com/user-attachments/assets/90aadd73-3040-4058-a5e7-24cccfe4dd59)
+
+* Option **3/C** -> Daughter. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2fbb5657-0007-4ea8-9994-57aed32c4c6d)
+
+*  nephew -> A nephew is the son of your sibling. This makes you the aunt or uncle of that nephew. [Meaning]
+*  niece -> a daughter of your brother or sister. [Meaning]
+*  We don't know the gender of 'D'.
+* Option **D** -> CBD. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8b8f9ff4-610f-42e7-b365-7e26da22270f)
+![image](https://github.com/user-attachments/assets/41a8acd4-5135-4502-9c21-9838fa714a13)
+
 ### Number Series 
 
 * Patterns:-
@@ -1928,6 +1946,94 @@
 ![image](https://github.com/user-attachments/assets/433b1912-fd0a-4f4a-8bd5-cb364d1dc933)
 
 * Pattern -> n ^ 3 + n ^ 2 -> 'n' are prime numbers. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8981463d-f5e1-4012-8ffe-5c32920b60cf)
+![image](https://github.com/user-attachments/assets/7927ab9c-80c2-4785-979b-1745d46f587f)
+![image](https://github.com/user-attachments/assets/19d537a3-51de-48d0-953c-018b04aaf7ba)
+
+* [Answer]
+
+### Clocks
+
+* Clock Format -> 12hr clock.
+* Hands -> Hour(Hr) hand, Minute hand(Min).
+
+![image](https://github.com/user-attachments/assets/ce50c5c4-c6af-437c-abbd-4f1111393d99)
+
+* 60mins = 360 degree.
+* Minute hand(Min) speed -> 6 degree per minute. [**VERY IMPORTANT**]
+* 12hrs = 360 degree.
+* Hours hand(Hr) speed -> 1/2 or 0.5 degree per minute. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d8b82751-0c8c-4f8f-adf7-9572367216a3)
+
+* Relative speed -> 6 - 1/2 -> 11/2.
+* Meeting point -> 6/(1/2) -> 6 * 2 = 12.
+* In 12hrs, they will be meeting '11' times.
+
+![image](https://github.com/user-attachments/assets/6b9d1491-4ee7-4fab-961e-0cf402b1bf71)
+
+* Speed of minute hand(SM) -> 6 degree per minute.
+* Speed of hour hand(SH) -> 1/2 or 0.5 degree per minute.
+* Find the angle between at 7:30? [Question]
+
+![image](https://github.com/user-attachments/assets/3a646a57-7ca1-4e9f-8e77-65c7cc5f8ff4)
+![image](https://github.com/user-attachments/assets/92e8b76e-c64c-4dbe-9fc2-d604aaeef729)
+
+* Angle -> 45 degree.
+* 360 - 45 -> 315 degree.
+* [Answer] [Method **1**]
+
+![image](https://github.com/user-attachments/assets/178d2dd9-323a-4f9a-8a92-1ce113f12233)
+
+* 30 mins.
+* Minute hand movement -> 30 * 6 -> 180 degree. [6 degree per minute]
+* Hour hand movement -> 30 * 1/2 -> 15 degree. [1/2 or 0.6 degree per minute]
+
+* Degree calculation -> (11/2) * minutes - (30 * hours). [Formula] [**VERY IMPORTANT**]
+* 7:20.
+* Degree calculation -> 11/2 * 20 - 30 * 7 -> |110 - 210| -> 100 degree.
+
+![image](https://github.com/user-attachments/assets/90bd67eb-c171-4b6f-8349-878db4143bad)
+![image](https://github.com/user-attachments/assets/2b4f4020-1b08-44b3-a993-c55e53cf1867)
+![image](https://github.com/user-attachments/assets/80f35390-d86d-4024-a215-db89fe0e348c)
+
+* [Answer] [Method **1**]
+
+![image](https://github.com/user-attachments/assets/82b6486b-34be-40a7-a717-227a6f91ac7b)
+![image](https://github.com/user-attachments/assets/309a21ea-6e92-45a5-b9c4-d99ce1cc5b0a)
+
+* 240 + 90 -> 330.
+
+![image](https://github.com/user-attachments/assets/31fa52b0-c27f-458a-97f9-dba4bfbd1470)
+
+* 240 - 50 -> 190.
+* 240 + 90 -> 333.
+
+![image](https://github.com/user-attachments/assets/e487b3ee-0b98-4bca-8718-734e53c0b0c0)
+![image](https://github.com/user-attachments/assets/3fc18df0-29f7-4176-9277-41dc92629ddb)
+
+* 165 * (2/11) -> 30.
+* 255 * (2/11) -> 510/11.
+
+![image](https://github.com/user-attachments/assets/c07cad60-5c33-45b3-9cbd-2c19998782a3)
+
+* [Method **1**]
+
+![image](https://github.com/user-attachments/assets/4732dbd9-8203-49b8-8861-6fc6e901a932)
+![image](https://github.com/user-attachments/assets/8338edcc-1563-49a9-acc6-660db8469f47)
+
+* Case '1' -> 255 * (2/11)
+* Case '2' -> 165 * (2/11)
+* [Answer]
+
+
+
+
+
+
+
+
 
 
 
