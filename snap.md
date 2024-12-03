@@ -1784,9 +1784,65 @@
 * Option **E**. [**VERY IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/9d5ee846-28f4-46ca-8bd2-2692eb3c726c)
+![image](https://github.com/user-attachments/assets/cebf77e8-9df1-4bfd-802e-b60d3f171b36)
 
 * Answer -> Grand-daughter. [**VERY IMPORTANT**]
-* Start from 32mins.
+
+![image](https://github.com/user-attachments/assets/874e1f89-d162-4997-9438-6e8b31baf459)
+
+* Who -> Represents the nearest noun. [**VERY IMPORTANT**] [Meaning]
+
+![image](https://github.com/user-attachments/assets/65f215e6-1452-4e26-a1d7-ee26afac8fd0)
+![image](https://github.com/user-attachments/assets/9c33a12c-dde4-45f3-80ed-e3627be88a3e)
+
+* Option **A**. [Doubt]
+
+![image](https://github.com/user-attachments/assets/0897b234-e076-41ea-b7c2-bec199fe419a)
+
+* [Question] [**VERY IMPORTANT**] [Practice]
+
+![image](https://github.com/user-attachments/assets/507c468b-35c0-4c08-9e19-befc31b82b80)
+![image](https://github.com/user-attachments/assets/3c654c5b-bd28-4a7e-8232-11acdd6a7b81)
+![image](https://github.com/user-attachments/assets/88182a9a-567b-4b85-854e-eb1478ce699d)
+
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/9a2fce8e-320c-4a39-8603-ef69d4107ac5)
+![image](https://github.com/user-attachments/assets/df8a622e-91bc-4d3e-9d8d-a7548794e01d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
