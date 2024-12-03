@@ -1809,6 +1809,66 @@
 
 ![image](https://github.com/user-attachments/assets/9a2fce8e-320c-4a39-8603-ef69d4107ac5)
 ![image](https://github.com/user-attachments/assets/df8a622e-91bc-4d3e-9d8d-a7548794e01d)
+![image](https://github.com/user-attachments/assets/802f6914-f3ff-4af7-8b19-8952cb8254ca)
+![image](https://github.com/user-attachments/assets/54b261bb-6998-408b-a8d4-d7f3fd899313)
+![image](https://github.com/user-attachments/assets/dc8d8694-ddac-4090-ad30-c511f5a426c7)
+![image](https://github.com/user-attachments/assets/10b981e8-20a6-46df-a796-22a3d2aea1e8)
+
+* First cousin -> Immediate relationship -> Father-behan-beta, Father-behan-beti, Father-chacha-beta. [**VERY IMPORTANT**]
+* Second cousin -> Father-cousin-beta, Father-cousin-beti. [**VERY IMPORTANT**]
+* [Answer]
+
+![image](https://github.com/user-attachments/assets/551c763f-67c2-4846-8759-75f295c282f3)
+![image](https://github.com/user-attachments/assets/4004d259-cbbe-4ff5-8648-ba18c5ee486f)
+![image](https://github.com/user-attachments/assets/440a070c-9f6d-4f08-8012-839522f31d11)
+
+* [Answer]
+
+### Number Series 
+
+* Patterns:-
+
+1) Sum/Product of digits.
+
+![image](https://github.com/user-attachments/assets/25f68824-f060-41b4-8b47-d7d3ea26cd16)
+![image](https://github.com/user-attachments/assets/fc83c2b1-e6a2-426d-95dd-e6cdc62099eb)
+
+* Pattern -> Sum, Product, Sum, Product.
+
+![image](https://github.com/user-attachments/assets/b3c23a46-dc0d-4069-84d6-47e901de2c68)
+
+* [Example] [**IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
