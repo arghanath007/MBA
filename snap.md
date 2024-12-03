@@ -1923,6 +1923,30 @@
 
 * Answer -> 48 -> Option **E**.
 
+![image](https://github.com/user-attachments/assets/daadc4d7-ce4c-43b1-8b8d-caa5db9e01fa)
+![image](https://github.com/user-attachments/assets/29c6832a-b9ed-429a-bcd4-24ac9e7c0876)
+![image](https://github.com/user-attachments/assets/433b1912-fd0a-4f4a-8bd5-cb364d1dc933)
+
+* Pattern -> n ^ 3 + n ^ 2 -> 'n' are prime numbers. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
