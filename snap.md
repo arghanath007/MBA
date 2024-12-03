@@ -1839,14 +1839,89 @@
 
 * [Example] [**IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/623bdb1e-b15d-4594-859b-80d8416c72c9)
 
+2) Fast Increasing -> Multiplicative series.
 
+![image](https://github.com/user-attachments/assets/3156ef1e-8373-4492-b62b-b5d1dcf90897)
+![image](https://github.com/user-attachments/assets/8b68a352-3b20-428d-aa0e-e6e2a797f79f)
 
+* [Example] [**IMPORTANT**]
 
+3) Prime Nos/Squares/Cubes
 
+![image](https://github.com/user-attachments/assets/9434da6d-8a64-466e-ab75-2c98f2386d46)
 
+* substraction.
 
+![image](https://github.com/user-attachments/assets/93920c51-4756-44ac-b44a-bedce4bee447)
+![image](https://github.com/user-attachments/assets/9ebb2c2c-03a5-4dd8-b50d-46425229eb57)
 
+* Series -> (n ^ 3) + n. [Example] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c671fdf0-1328-4019-8aab-0cebe82e4380)
+
+* Series -> (n ^ 3) + (n ^ 2). [Example] [**IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/51af47e2-bd40-4d46-8326-fd8d99a94719)
+![image](https://github.com/user-attachments/assets/4ab98704-37b8-45f7-8e53-f6de0167ff48)
+
+* [Questions]
+
+![image](https://github.com/user-attachments/assets/d451ed0f-c18a-4e7b-b256-77b77522dd61)
+![image](https://github.com/user-attachments/assets/8a10dd51-8296-4173-8cfc-80712184e84c)
+
+* Question '3' -> The series is increasing fast -> Multiplicative series. [**VERY IMPORTANT**] 
+* 67.5 * 6.5 -> 438.75
+
+![image](https://github.com/user-attachments/assets/b0c72d70-3021-46f3-be53-187128324f0c)
+
+* Pattern -> Sum of the last '2' digits of the numbers. [**VERY IMPORTANT**] 
+* Answers. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/393aed47-d2e8-4d3c-bf53-1c93f08c0808)
+![image](https://github.com/user-attachments/assets/afbcb5cc-c6a2-4cb9-ab6d-31ce14f6af8e)
+![image](https://github.com/user-attachments/assets/2be84528-903f-4047-9df5-c92cb7ef9d0b)
+
+* Difference is not working.
+* We need to find some other pattern.
+
+![image](https://github.com/user-attachments/assets/d9161e43-6708-44ae-8b70-a7328c4129d2)
+![image](https://github.com/user-attachments/assets/2618fda3-8634-45b8-8814-037ba2115006)
+
+* Pattern -> Middle digit = Multiplication of the 1st and the last digit of that number. [**VERY IMPORTANT**] 
+* 284 -> 2 * 4 = 8.
+* 331 -> 3 * 1 = 3.
+* 362 -> 3 * 2 = 6.
+* 373 -> 3 * 3 = 9 -> Not equals to '7'.
+* '373' is the **wrong number**.
+* Answer -> 373 -> Option **D**.
+
+![image](https://github.com/user-attachments/assets/c32cc0c7-a530-4e72-8507-c937b879147b)
+![image](https://github.com/user-attachments/assets/4a59d6f1-3362-404c-85e0-31ea6de855be)
+
+* Pattern -> Series increasing very fast -> Multiplicative series.
+* 5 to 8 -> 5 * 1 + 3 
+* 5 to 8 -> 5 * 2 - 2 
+
+![image](https://github.com/user-attachments/assets/809110cc-71ab-4ac7-8d7d-b70797feb872)
+![image](https://github.com/user-attachments/assets/142c674b-425f-4d90-9e83-f13982a9cef3)
+![image](https://github.com/user-attachments/assets/5777021a-9bf0-487e-a68d-0902f38a12fe)
+![image](https://github.com/user-attachments/assets/6ccfd1e8-5a09-4be8-9e21-f86aafe2cc1b)
+
+* 94 * 7 - 8 -> 650
+* Prime nos -> 2,3,5.
+* Answer -> 95 -> Option **B**.
+
+![image](https://github.com/user-attachments/assets/c1d62934-b7af-443e-bc76-d081193b08ad)
+
+* Q&;-
+* Diff -> It is pretty random.
+
+![image](https://github.com/user-attachments/assets/ba486aa0-96d1-4cfd-8d9d-90c383c6ddd5)
+![image](https://github.com/user-attachments/assets/61601e78-cf1b-4e79-aa81-5f77e76a3ed1)
+
+* Answer -> 48 -> Option **E**.
 
 
 
