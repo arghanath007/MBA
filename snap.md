@@ -1,14 +1,16 @@
 # TO-Do
 
-1) Vocab practice.
-2) MOCKS.
-3) Syllogisms. (DONE)
-4) Input-Output. (DONE)
-5) Verbal Reasoning. (DONE)
-6) Blood Relations. (DONE)
-7) Number Series.
-8) Clocks.
-9) Strong and Weak Arguments.
+1) Vocab practice. [**VERY IMPORTANT**]
+2) Past/Previous Year Questions of SNAP -> Ck king website. [**VERY IMPORTANT**]
+3) MOCKS.
+4) Syllogisms. (DONE)
+5) Input-Output. (DONE)
+6) Verbal Reasoning. (DONE)
+7) Blood Relations. (DONE)
+8) Number Series.
+9) Clocks.
+10) Strong and Weak Arguments. (Done)
+11) Statement andd Conclusion.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -503,6 +505,67 @@
 ![image](https://github.com/user-attachments/assets/1301074b-0b4c-4f1a-abdd-7c7eba5b2a9b)
 
 * Option **C**. [**VERY IMPORTANT**]
+
+### Statement andd Conclusion
+
+![image](https://github.com/user-attachments/assets/026e3967-b3f3-43e9-ac0d-92f300fb6357)
+
+* Conclusion -> Outcome. [**VERY IMPORTANT**]
+* Conclusion -> Coming from the main idea -> It necessarily doesn't have to have the main idea. [**VERY IMPORTANT**]
+* Summary -> Important Points(IP) + Main Idea(MI). [**VERY IMPORTANT**]
+* Summary is bigger than conclusion in terms of **length**. [**VERY IMPORTANT**]
+* Conclusion is an **outcome** while summary is just a small snapshot/screenshot of what has been written. [**VERY IMPORTANT**]
+* In the conclusion, we will keep the **tone** as **same** as the paragraph. The **scope** we will keep the **same** as the paragraph. [**VERY IMPORTANT**]
+* For **conclusion** we have to find **must be True**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/292205a5-e9bc-404e-b648-c22373b91bf8)
+![image](https://github.com/user-attachments/assets/1580dfff-1c54-4282-9109-e67decb84d8b)
+![image](https://github.com/user-attachments/assets/fbcf292d-56bd-4836-b698-9a98ee9608e3)
+
+* Conclusion '1' -> Can be True,Yes -> Must be True, No.
+* Conclusion '2' -> Can be True,Yes -> Must be True, No.
+
+![image](https://github.com/user-attachments/assets/83ea0b0c-a2a6-4fd3-9710-294d0185643f)
+![image](https://github.com/user-attachments/assets/4aaa2242-fda5-4c16-a17d-d7ed9e3afa73)
+
+* Option **4**. [**VERY IMPORTANT**] [Got Wrong]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2244,6 +2307,7 @@
 * Case '1' -> 255 * (2/11)
 * Case '2' -> 165 * (2/11)
 * [Answer]
+
 
 
 
