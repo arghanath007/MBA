@@ -460,10 +460,49 @@
 
 * Option **E**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/935a2354-9c00-4832-8950-b313b3faaa1c)
 
+* Option **E**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/4535f7d8-898b-40c2-b845-e5fac771af5c)
 
+* Option **D**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/8c9adb48-97d6-43d7-b9dc-ef2a611ea2aa)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7bcc7ab2-d514-4489-abff-7ea88d93063f)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7242a12c-9430-4bec-8685-a982522f8a48)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fef1bcaa-3f1a-49fa-97a4-b1daa2a0d760)
+
+* Option **E**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/140997ae-ae03-4022-8347-c0a5cbb9b731)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d3e4b569-539f-4c73-a284-d3735cec87aa)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f6dbc5dd-7b34-4e46-ae39-59eb2a86c47c)
+
+* Option **C**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/193ee553-1d10-4e92-8109-a012006bb42c)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1301074b-0b4c-4f1a-abdd-7c7eba5b2a9b)
+
+* Option **C**. [**VERY IMPORTANT**]
 
 
 
@@ -2205,11 +2244,6 @@
 * Case '1' -> 255 * (2/11)
 * Case '2' -> 165 * (2/11)
 * [Answer]
-
-
-
-
-
 
 
 
