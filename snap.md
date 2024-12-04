@@ -11,6 +11,7 @@
 9) Clocks.
 10) Strong and Weak Arguments. (Done)
 11) Statement andd Conclusion.
+12) Statement and Assumptions
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -638,11 +639,12 @@
 
 * Option **1**. [**VERY IMPORTANT**]
 
+### Statement and Assumptions
 
-
-
-
-
+* Assumptions -> Assume -> Assuming something.
+* Assumptions -> Something we presume to be **True**. [**VERY IMPORTANT**]
+* It is about the **unsaid** words.
+*
 
 
 
