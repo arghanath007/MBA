@@ -530,6 +530,182 @@
 
 * Option **4**. [**VERY IMPORTANT**] [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/b0c9b650-2137-4384-8eda-7c12c18a794e)
+
+* **Course of action** could act as a **conclusion** here.
+
+![image](https://github.com/user-attachments/assets/7b64feb4-1839-44db-8cc5-0b4cb19993e8)
+![image](https://github.com/user-attachments/assets/d42b2f5c-4bb9-4f54-bfed-c7bca08fde43)
+
+* Option **5**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/91aa1236-bcb9-4787-809a-355f82987de5)
+
+* Conclusion '1' -> **Contradictory** statement so we will have to **eliminate** it.
+* Is going to be the scenario **OR** most likely going to be the scenario -> Difference in **tone** only -> Strictness in tone.
+
+![image](https://github.com/user-attachments/assets/ee4604ff-9d90-458a-89d7-13c3497e778a)
+![image](https://github.com/user-attachments/assets/cf87e77c-0235-4e64-a78f-5456e8547e7a)
+![image](https://github.com/user-attachments/assets/f8a05a84-bcec-416a-a0af-8dc75a00f739)
+
+* Option **2**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/45c200ca-424e-4e5f-b06c-c0ed2cc8c99b)
+![image](https://github.com/user-attachments/assets/ab4acc14-f1cd-4070-a837-b5938bf62ac8)
+
+* Option **2**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cc53d04a-c475-4dcb-bc5b-a53d391776f8)
+
+* Conclusion '2' -> Out of Scope.
+
+![image](https://github.com/user-attachments/assets/84bd4aba-91f0-47b1-bdec-b7dc5fc9c0ff)
+
+* Option **1**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/40b3f7ee-ff78-4554-a51e-3e4512048e4f)
+![image](https://github.com/user-attachments/assets/414f23ab-9d06-453b-a4f1-6ed3e35f0381)
+
+* Assumption -> Modern art is unique.
+* Conclusion '1' -> "As they create the first impression" -> Not the best conclusion.
+* Conclusion '1' -> Becoming very strict.
+* Conclusion '2' -> We cannot conclude -> Trap.
+* Option **4**. [**VERY IMPORTANT**] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/f0194397-4152-4b3c-bef2-435123001b65)
+
+* Conclusion '1' -> No correlation/corelated.
+* Conclusion '2' -> Cannot be this much specific.
+
+![image](https://github.com/user-attachments/assets/af06693f-982e-4fc3-b168-96b0f8d1fa82)
+
+* Option **4**. [**VERY IMPORTANT**] [Got wrong]
+
+![image](https://github.com/user-attachments/assets/ee146512-3f77-470b-a24c-d5140de28977)
+
+* Eligibility -> It is necessary.
+* Conclusion '1' -> Too specific.
+
+![image](https://github.com/user-attachments/assets/a67d6ce8-902d-4fa6-8884-00ccbe92960a)
+
+* Option **1**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/125c5197-fcdc-4523-853c-263bb07a27af)
+
+* Conclusion '1' -> Doesn't make any sense -> Can be **True**.
+
+![image](https://github.com/user-attachments/assets/13e94307-5078-44b7-a75a-a309ec6e41e4)
+![image](https://github.com/user-attachments/assets/d074d542-3959-4dc5-9e36-86d73b1aee88)
+
+* Option **4**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ffb60742-ffc8-4a17-9be7-2b9a6a24439b)
+
+* Example is in sports.
+* Conclusion '1' -> Not possible -> Girls will be '11' or more.
+* Conclusion '2' -> We are not talking about sports. 
+
+![image](https://github.com/user-attachments/assets/5e1cf710-7e17-4ee4-a6df-87238b498b5f)
+
+* Option **4**. [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/8ebd58be-25ec-43da-a101-a7173d4f7819)
+![image](https://github.com/user-attachments/assets/c6700914-e80f-48d2-bf78-7525939c962b)
+
+* Conclusion '1' -> They used the same pesticides.
+* Conclusion '1' -> Out of scope.
+* Option **4**. [**VERY IMPORTANT**] [Doubt]
+
+![image](https://github.com/user-attachments/assets/8102b3a4-acea-4d89-a1d4-60eef38fed8d)
+
+* Conclusion '1' -> Too wide. 
+* Conclusion '2' -> Too broad/wide. 
+
+![image](https://github.com/user-attachments/assets/1617d9f0-7520-4e16-be95-09a595608b8f)
+
+* Option **1**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/83bb92e2-c345-4a6f-98d8-14166f1b72ad)
+
+* Option **3**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8c325fd8-3acc-403b-9e73-d496efdff6b2)
+
+* Conclusion '1' and '2' -> Can be True.
+* Option **4**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/af7c7dd9-b7d9-4f31-937e-43af28de3573)
+
+* Option **1**. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
