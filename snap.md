@@ -8,6 +8,7 @@
 6) Blood Relations. (DONE)
 7) Number Series.
 8) Clocks.
+9) Strong and Weak Arguments.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -372,6 +373,184 @@
 
 * Perfume Base.
 * Option **C**. [Question] [Answer] [**VERY IMPORTANT**]
+
+## Verbal Ability
+
+### Strong and Weak Arguments.
+
+![image](https://github.com/user-attachments/assets/6f3351bf-3cc7-45a4-a137-9e63464ee303)
+
+* Argument -> Positive/Negative feeling depending on the **context**.
+* Argument -> Why + Prove -> Premise + Conclusion. [**VERY IMPORTANT**]
+* Prove -> Conclusion.
+* Why -> Premise.
+* Statement -> Cause-Effect relationship, Effect-Cause relationship.
+
+* **Examples**:-
+* I have scored 99% in CAT hence I should go to an IIM.
+* We should study now because studying hard is important for CAT exam.
+
+![image](https://github.com/user-attachments/assets/43f3cc51-c312-400b-906d-17e9cefea89d)
+![image](https://github.com/user-attachments/assets/f20e5d03-9f5c-43d4-9d91-e92b6dff3b32)
+
+* We should not be arguing on **YES or NO**. We should be arguing on their **reasons**. The **reasons** are strong enough or not. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fe471a3a-e188-48a1-9bd0-5b6c704afef6)
+![image](https://github.com/user-attachments/assets/a7d18048-e510-42d7-9f9b-431491833db4)
+
+* Argument II -> Not the strongest 'No' -> Not the strongest argument -> It was a very **general** statement.
+
+![image](https://github.com/user-attachments/assets/c1128f88-0014-49a8-9d5a-7db0ea52fe3f)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1acc9da3-5ff4-4571-85a3-81bf2658184b)
+
+* Argument II -> Very bad of an argument -> Random claim.
+
+![image](https://github.com/user-attachments/assets/170c9517-2512-489e-8707-b8a299885d04)
+
+* Option **A**. [**VERY IMPORTANT**]
+* Claim can be used as a **premise**. It makes me go towards a **conclusion**.
+
+![image](https://github.com/user-attachments/assets/7fbbf1e1-21c1-4743-8756-a4930c075489)
+
+* Statement -> We ideally should.
+* Argument I -> Strongest premise for **YES**.
+* Efforts -> Most important words. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cc2bdc10-1c12-432c-9271-19dbb6f02e49)
+![image](https://github.com/user-attachments/assets/189cc1e0-0bd0-4688-ae7e-195eb6722a58)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/88546ece-de78-4eb6-811e-1b518c0020aa)
+
+* As we have political atmosphere which simply means that the atmosphere will be **negative**. This is a **personal bias experience** and an **assumption** which should not come here in the **arguments**. [**VERY IMPORTANT**]
+* **Personal bias experience** should not come in to solve the **questions**. [**VERY IMPORTANT**]
+* Argument '1' -> Not a strong argument.
+
+![image](https://github.com/user-attachments/assets/068fa796-23e2-49eb-bfa2-e4921087a978)
+![image](https://github.com/user-attachments/assets/5a37d83d-a2de-49d8-af7c-bb86e3294565)
+
+* Argument Sir thought -> We need a student union for the betterment, better representation and future of the students.
+* The above argument doesn't make or doesn't stop **Argument '2'** from being a strong argument. It will always be a Strong argument.
+* Argument '2' -> Strong argument.
+* Option **B**. [Got Wrong]  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f0fa5d49-32e5-4371-91b3-00dd3628d9d4)
+![image](https://github.com/user-attachments/assets/9c3d5e83-a6fc-4ad8-ad61-396c8c7de660)
+![image](https://github.com/user-attachments/assets/069a0ba5-0d66-472e-854a-ace557776ab7)
+
+* Option **A**. [Got Wrong]  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/481b8286-f1c7-4ce4-8a69-df7db138fd7b)
+![image](https://github.com/user-attachments/assets/6375f4bf-9bdb-452b-a60c-0cc992a9712e)
+
+* Argument '1' -> It is an incomplete option.
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0abce397-d2a9-4b0c-92be-536df86ac9c6)
+
+* There is a difference between **intent and outcome**.
+* Argument '2' -> Outcome.
+* Argument '2' -> Not a weak argument.
+
+![image](https://github.com/user-attachments/assets/6a40ff38-745c-4776-8abd-3fbc05164305)
+
+* Option **E**. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
