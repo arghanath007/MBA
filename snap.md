@@ -644,7 +644,157 @@
 * Assumptions -> Assume -> Assuming something.
 * Assumptions -> Something we presume to be **True**. [**VERY IMPORTANT**]
 * It is about the **unsaid** words.
-*
+* The assumptions should be **agreeable**.
+* It is not the numbers that matter, it is the impact that matters. It is the other factors that are **more importan**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/395b48ee-c498-4ec1-be6d-5cbb8e9f3a6f)
+
+* Assumptions:-  [**VERY IMPORTANT**]
+
+1) Supports our given situation.
+2) Within the scope.
+3) Tone will be the same.
+4) Will not be very much wide.
+5)  Will not be very much strict.
+
+* Implied -> Implicit -> Which is not written but we are assuming it. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/186f51d6-ed86-4f4a-8703-1debf5ec1d76)
+
+* Statement -> We are trying to find the **Why**.
+* They are **need** of a programmer.
+* He fulfills **most** of the needs of a programmer.
+* Assumption '1' -> Probation period.
+
+![image](https://github.com/user-attachments/assets/2f139162-1d81-43c6-a19c-83049e4a4346)
+![image](https://github.com/user-attachments/assets/18e7f204-92d1-47c2-8886-6f34179f2e18)
+
+* Denial/Negation Test -> For **difficult assumption**, what we can do is that we can try to **logically negate** that assumption and see what happens. Now test the statement. With the **negation**, the statement is getting **killed** then that assumption will be considered as a **proper assumption**. [**VERY IMPORTANT**]
+* Assumption '1' -> It is now **killed**.
+* Assumption '1' -> Proper assumption.
+* Assumption '2' -> If we put negation then the statement is getting killed, so this is also a proper assumption.
+
+![image](https://github.com/user-attachments/assets/86c8376f-bec5-4000-8016-c1e9b463d987)
+
+* Option **E** -> Both.
+
+![image](https://github.com/user-attachments/assets/b112e1bb-9032-40c5-98e1-65e3c22d96ae)
+
+* Assumption '1' -> When negating the assumption, we are completely killing the statement so it is a proper assumption.
+* Assumption '2' -> When negating the assumption, we are completely killing the statement so it is a proper assumption. [Got Wrong]
+* Do not put **negation** everywhere. First check the **scope, tone and why** before doing negation. They should be **logical**. [**VERY IMPORTANT**]
+* Desirable -> Suggestive word.
+
+![image](https://github.com/user-attachments/assets/a6aa9f87-e21f-4758-92aa-c8b69e87ee13)
+
+* Assumption '1' -> Logically makes sense.
+* Assumption '2' -> Does not **fit in the scope**. No sense in using **negation** here.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b9d42d3f-a6af-4a78-bbb5-d485aa707343)
+![image](https://github.com/user-attachments/assets/e04a9028-0314-4596-bd64-52c7e22ca317)
+
+* Option **A** -> '1' only. [Got Wrong]
+* Check Why -> Check scope -> If we get stuck -> Then negation test -> Otherwise don't do negation test, we will get stuck and choose the wrong option. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f4d9fcba-4c42-459a-8b69-8d1a8fa9dae8)
+
+* Assumption '1' -> Contradictory -> Not a proper assumption.
+* Assumption '2' -> Same tone -> a proper assumption.
+* Statement -> Must -> Instructing. [**VERY IMPORTANT**]
+* Should -> Suggestion. [**VERY IMPORTANT**]
+* Conveyance Allowance is directly correlated to punctuality.
+* Assumption '2' -> Always -> Making it a bit strict.
+* Must -> Always.
+* Assumption '2' -> When negating the assumption, we are completely killing the statement so it is a proper assumption. The **must** tone is getting killed.
+
+![image](https://github.com/user-attachments/assets/6f320eff-52e7-47c8-8242-fd90ec3dc9fa)
+![image](https://github.com/user-attachments/assets/86d3dfb5-5d0b-4d79-8bc4-0b30edfc8a01)
+
+* Option **B** -> '2' only.
+* Conclusion -> Taking it further -> What can we deduce from the sentence.
+* Assumption -> Talking about before -> We are finding the **why**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
