@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/21e83564-7074-4a8d-b99c-a9d3679f14e7)# TO-Do
+# TO-Do
 
 1) Vocab practice. [**VERY IMPORTANT**]
 2) Past/Previous Year Questions of SNAP -> Ck king website. [**VERY IMPORTANT**]
@@ -3184,3 +3184,6 @@
 ![image](https://github.com/user-attachments/assets/3053338e-dd9f-413b-8d2c-5b6d5b5d43d9)
 ![image](https://github.com/user-attachments/assets/a688c6d8-72b1-4dd8-b319-ee645b2d4e6b)
 
+### 
+
+![image](https://github.com/user-attachments/assets/21e83564-7074-4a8d-b99c-a9d3679f14e7)
