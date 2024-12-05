@@ -11,7 +11,7 @@
 9) Clocks.
 10) Strong and Weak Arguments. (Done)
 11) Statement andd Conclusion.
-12) Statement and Assumptions -> 42mins.
+12) Statement and Assumptions.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -709,10 +709,133 @@
 
 ![image](https://github.com/user-attachments/assets/6f320eff-52e7-47c8-8242-fd90ec3dc9fa)
 ![image](https://github.com/user-attachments/assets/86d3dfb5-5d0b-4d79-8bc4-0b30edfc8a01)
+![image](https://github.com/user-attachments/assets/cfcad976-f45b-4c08-9bc9-08956ba002e6)
 
 * Option **B** -> '2' only.
 * Conclusion -> Taking it further -> What can we deduce from the sentence.
 * Assumption -> Talking about before -> We are finding the **why**.
+
+![image](https://github.com/user-attachments/assets/fedf0cfd-acac-4faf-8bd7-859338a792cd)
+
+* Assumption '2' -> Doesn't make any sense.
+
+![image](https://github.com/user-attachments/assets/7671afd3-b3ec-444f-9b2c-71c1c732481c)
+![image](https://github.com/user-attachments/assets/4f7b0490-007f-4f52-a9e1-f47bffa9b2c6)
+
+* Option **A** -> Only '1'.  [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/6c4af2cf-1b6b-4e87-abbf-db5f0250e159)
+
+* Decision has come from evaluation.
+* Assumption '1' -> When negating the assumption, we are completely killing the statement so it is a proper assumption.
+* Assumption '2' -> Without any negation, it is killing the statement.
+* Assumption '2' -> Contradictory.
+
+![image](https://github.com/user-attachments/assets/dfb101a1-ea72-438e-a8d0-6ed66534eecd)
+
+* Option **A** -> Only '1'.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/dfe7a3af-7b36-44d8-af0d-1b21c6e4d754)
+
+* Assumption '1' -> Not the why of the statement.
+
+![image](https://github.com/user-attachments/assets/f8c36bfc-dc81-4fb6-b099-f622540cba12)
+
+* Option **B**.  [**VERY IMPORTANT**] [Got Wrong] [Doubt]
+
+![image](https://github.com/user-attachments/assets/e2382894-d087-4058-bf1b-e6b430b57a29)
+
+* Assumption '1' -> When negating the assumption, we are completely killing the statement so it is a proper assumption.
+* Assumption '2' -> When negating the assumption, we are completely killing the statement so it is a proper assumption.
+
+![image](https://github.com/user-attachments/assets/492c0344-7ea9-4685-b606-8a8269e14195)
+
+* Option **E**.  [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/2e2b545b-fab8-4a81-bb9b-1b7d00fcad00)
+![image](https://github.com/user-attachments/assets/3c3836c0-0c68-4857-b81e-684595a63235)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/de83ed6b-6a6b-479f-a89c-59018992fd95)
+![image](https://github.com/user-attachments/assets/830daf97-84b1-4a1b-902a-44823016af51)
+
+* Assumption '1' -> The problem will most likely be solved.
+* Assumption '2' -> Does not make any sense.
+* Option **A**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/753ead94-70a0-4bd0-b97d-2435b44b1e01)
+
+* Statement -> It is about morality.
+* Assumption '1' -> Not about morality.
+* Assumption '2' -> About morality.
+
+![image](https://github.com/user-attachments/assets/1d6880cf-6090-4a5d-a771-67a71f4c4141)
+
+* Option **B**.  [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/62dbab65-488d-450d-810a-fd41a07c14fa)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3820150c-1e8c-41c2-89b7-4760d41cb997)
+
+* Option **B**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5c755d01-1e85-4f91-9d65-ff8cc7bab559)
+
+* Option **A**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/22d47fca-6fd4-446a-a199-c9804dd63b0d)
+
+* Assumption '2' -> Out of scope.
+* Option **A**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7819cad1-4167-4d4b-b8cc-391f3afa56b5)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8cdcbba6-88c6-4b65-9245-1c202f71d6e5)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d4bdc62d-0c91-4dca-96fe-975dea3bf669)
+
+* Option **B**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/18c97778-d915-4f8b-833c-f47b76429247)
+
+* Assumption '1' -> Not many educated/literate people.
+* Assumption '2' -> Popular among kids/teens/older people.
+
+![image](https://github.com/user-attachments/assets/a1abc8f3-4a8d-4fd9-beb5-9e6c5c78927e)
+
+* mofussil -> (India) Originally, the regions of India outside the three East India Company capitals of Bombay, Calcutta and Madras; hence, parts of a country outside an urban centre; the regions, rural areas. [Meaning]
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ae24102c-350e-48ba-a035-08583367ad90)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3113d6f4-4c7d-4cdc-a76f-addaf379f544)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a0947925-5add-4017-8d4a-0f560540a122)
+
+* Option **A**.  [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
