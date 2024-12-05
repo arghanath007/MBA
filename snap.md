@@ -1,4 +1,4 @@
-# TO-Do
+![image](https://github.com/user-attachments/assets/21e83564-7074-4a8d-b99c-a9d3679f14e7)# TO-Do
 
 1) Vocab practice. [**VERY IMPORTANT**]
 2) Past/Previous Year Questions of SNAP -> Ck king website. [**VERY IMPORTANT**]
@@ -12,6 +12,7 @@
 10) Strong and Weak Arguments. (Done)
 11) Statement andd Conclusion.
 12) Statement and Assumptions.
+13) Statement and Course of action.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -824,6 +825,224 @@
 ![image](https://github.com/user-attachments/assets/a0947925-5add-4017-8d4a-0f560540a122)
 
 * Option **A**.  [**VERY IMPORTANT**]
+
+### Statement and Course of action
+
+* We have to assume the paragraph as **True** and then find the conclusion from the paragraph. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0638738d-a174-4109-b04e-138700da4285)
+
+* Option 'A' -> fictional characters -> Outside of the scope.
+* Option 'C' -> We cannot say that.
+* Option 'D' -> Wide assumption. 
+
+![image](https://github.com/user-attachments/assets/734988e1-55b0-426b-8040-eb39aad60b8d)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e26aaad4-4ae4-42fe-8ade-9bf8605d0cdb)
+
+* Option **A** -> No evidence about it.
+* Option **B** -> any other month -> Very general statement.
+* Option **C** -> lowest -> No evidence about it.
+* Option **D** -> No evidence about it.
+* Option **E** -> general(G) to specific(S) -> Not so strict also.
+* We have moved from general(G) to specific(S).
+
+![image](https://github.com/user-attachments/assets/b70a2648-6b18-4d6e-b9de-0495ce4016af)
+
+* Option **E**. [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/48e0562a-0fab-4285-9030-299f7ba5fcda)
+
+* Option **A** -> Outside of scope.
+* Option **B** -> Self-directed -> Entrepreneurial.
+* Option **C** -> Outside of scope.
+* Option **D** -> More specific.
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e662d231-6507-4d8f-a0ae-44611c343930)
+
+* Key Idea -> Sticking largely to the **main idea** of the paragraph is the **key** to getting the **correct answers**. [Logic] [**VERY IMPORTANT**]
+* Athletic shoes(AS) is not a fancy equipment(FE).
+* Option **A** -> Outside of scope.
+* Option **B** -> It is more comparative.
+* Option **C** -> Slightly out of scope.
+* Option **D** -> D > B and C.
+* Option **E** -> Outside of scope.
+
+![image](https://github.com/user-attachments/assets/aaff2b75-57b5-4577-98f8-0e016abbc9d9)
+
+* Option **D**. [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/df10c7f6-7473-4ac8-8195-1b67f98cb4d2)
+
+* Author is focusing on the **present** rather than the **past**. The **conclusion** would be on the **present**.
+* Low fat -> positive tone.
+* Option **A** -> Outside of the scope.
+* Option **B** -> Only -> Very strict.
+* Option **C** -> Sales and profitibility is increasing.
+* Option **D** -> Other kinds of ice cream -> No -> Low-fat ice cream has before more popular than before.
+* Option **D** -> We are not comparing with others.
+* C > D.
+
+![image](https://github.com/user-attachments/assets/2edb6e7f-ffe1-480f-a42d-1a5ae1cdbac8)
+
+* fickle -> Not in one mind. [Meaning]
+* Option **E** -> Outside of the scope.
+
+![image](https://github.com/user-attachments/assets/99cd4565-a40d-4089-b576-9b69009892fa)
+![image](https://github.com/user-attachments/assets/f8a9897f-c83b-4e29-9b4d-453263431551)
+![image](https://github.com/user-attachments/assets/d01d41d8-a67f-4aef-8384-5ff8f43a6804)
+
+* Option **C**. [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/cd7a91f9-4c75-41b1-8df1-191d2777b56c)
+
+* trivial -> Not so important. [Meaning]
+* Option **A** -> Slightly out of scope.
+* Option **B** -> Out of scope.
+* Option **C** -> Out of scope.
+* Option **D** -> We cannot say that.
+
+![image](https://github.com/user-attachments/assets/a1bd36fd-ad88-420e-a66b-c3f5d5d224cd)
+
+* Option **E**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/52fb1738-dba3-4bb4-ade1-42d658191a91)
+![image](https://github.com/user-attachments/assets/490c6e9c-98af-45ce-b381-539134d1495b)
+
+* Just -> Fair. [Meaning]
+* Change -> Allowing the victims and allowing the mediation.
+* Option **A** -> Outside of scope.
+* Option **C** -> Outside of scope -> Allowing to mediate.
+* Option **D** -> Outside of scope.
+* Option **E** -> Outside of scope.
+
+![image](https://github.com/user-attachments/assets/0ac6118c-a48f-4217-893b-c85e5cbbf5eb)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/88dec18e-6bd0-4249-ac8f-a18a61fb98b5)
+
+* Option **B** -> Outside of scope -> Different perspective are given in the paragraph.
+* Option **C** -> Ever before -> Outside of scope.
+* Option **D** -> No evidence.
+* Option **E** -> Unfounded -> Claim again.
+
+![image](https://github.com/user-attachments/assets/f9b7a2b6-183e-4b3b-a695-5a08967ffd28)
+![image](https://github.com/user-attachments/assets/24bb02c1-fac9-4e93-8b05-d3b024d98b53)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/28845f74-6c01-4fd8-a6b4-81c0ac5132ab)
+![image](https://github.com/user-attachments/assets/4fb32e5c-f7bf-4d81-8af7-56edc1de9901)
+
+* Few <-> little. [Logic] [**VERY IMPORTANT**] 
+* Few -> For countable things.
+* Little -> For uncountable things.
+* Cars -> Few cars.
+* Sugar -> Little sugar.
+* Few, little -> They both mean **less** only.
+
+![image](https://github.com/user-attachments/assets/b84d8eb5-5c81-4105-8882-460e0e06ce78)
+![image](https://github.com/user-attachments/assets/0e4d9781-c925-48df-94e8-d5061e6dbb4f)
+
+* "Few" VS "a few". [**VERY IMPORTANT**] 
+* A few -> When quantity is low but still fine. It is low but still fine -> It serves our purpose.
+* Few -> When quantity is very low and it will not work. It is low and it will not work -> It doesn't serve our purpose.
+* **Few** is **more negative** word than **a few**.
+
+![image](https://github.com/user-attachments/assets/480a7be8-0894-4030-9b07-463a06133815)
+![image](https://github.com/user-attachments/assets/aac0e6f9-e3fc-4428-861c-758d5deed619)
+
+* Countable -> Many, a few, few.  [**VERY IMPORTANT**]
+* Uncountable -> Much, a little, little.
+
+![image](https://github.com/user-attachments/assets/e6f96ac5-810f-41e3-b245-39c349023e6b)
+
+* Don't **mix them together**.  [**VERY IMPORTANT**]
+* Few and little cannot be **compared** they are for '2' separate/different things.
+
+![image](https://github.com/user-attachments/assets/93256b89-033a-4701-abdb-97f01855260a)
+
+* A or D.
+* Option **A**.  [**VERY IMPORTANT**] [Doubt]
+
+![image](https://github.com/user-attachments/assets/dd99869a-8a20-4d7c-bc79-049be0e624cd)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f775b7cc-9740-470c-9dc2-8df58a6f2110)
+
+* Option **B**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1d84c217-5492-40f5-ab77-cb8906e5feb2)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8f446aaf-2593-40a5-b9cc-b281f7420101)
+
+* Option **C**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/903842ff-da0e-4f67-a161-7c64eff82c41)
+
+* Option **B**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cb6261c0-a524-4e5c-b15b-ddf8d171652f)
+
+* Option **E**.  [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
