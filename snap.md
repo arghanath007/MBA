@@ -1323,6 +1323,176 @@
 
 ### Parajumbles
 
+![image](https://github.com/user-attachments/assets/fe70c147-33db-4a83-8c20-53bfdcc1e6ed)
+![image](https://github.com/user-attachments/assets/11fb94a6-b7a3-4ab0-9308-a578785492f8)
+
+* Verb -> Shifted, could.
+* Shifted -> Nelson.
+* could -> the people.
+* **Shifted and could** cannot come parallely with each other.
+
+![image](https://github.com/user-attachments/assets/86d17ddc-0139-483f-9ae7-30daaef31e18)
+![image](https://github.com/user-attachments/assets/c8e631d9-22f3-464b-97ee-bdd88fe47dc7)
+
+* Answer -> Option **B** -> CDBA. [1] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/97493dfa-6978-4ada-80ae-c8d426d6a811)
+![image](https://github.com/user-attachments/assets/7126922e-ed6c-498d-8b39-8ad7ece85f37)
+
+* Idioms -> between 'X' and 'Y'. [**VERY IMPORTANT**]
+* Idioms -> Not just 'X' but 'Y'. [**VERY IMPORTANT**]
+* Idioms -> Not just 'X' but also 'Y'. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5514fecf-d431-406d-a6af-92807b23de11)
+
+* Answer -> Option **C** -> BADC. [2] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/09846145-5f6a-41a7-99d6-9f5011062534)
+
+* A -> already.
+
+![image](https://github.com/user-attachments/assets/edde7035-81d7-4fa2-923a-f1774878a606)
+
+* Answer -> Option **D** -> BDCA. [3] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f5509983-210c-4527-8bb7-0a52a8c525cd)
+
+* B -> Such a case -> The example is in 'D'.
+* C -> Each -> We should look at it logically also.
+
+![image](https://github.com/user-attachments/assets/54639dff-9635-427c-b8b9-165c75033b6c)
+![image](https://github.com/user-attachments/assets/16733151-f460-49bb-bf89-6ceaffbd8b08)
+
+* Answer -> Option **D** -> DBAC. [4] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/f406b1d3-1147-449a-83c4-f4bbf3842109)
+
+* Misnomer -> Something which doesn't have a very clear definition. People understand it incorrectly. [Meaning]
+* 'C' elaborates 'E'.
+
+![image](https://github.com/user-attachments/assets/f59d524f-336a-463d-bc1e-9855cc4c4e31)
+
+* Answer -> Option **D** -> CEBDA. [6] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6b98880e-1626-48a7-869e-d354e78ca2fa)
+
+* Gamut -> Scope/sphere.  [Meaning]
+* 34 -> Not making sense.
+
+![image](https://github.com/user-attachments/assets/30f2e15f-7f1b-4334-ac93-08241b73c40c)
+
+* Answer -> Option **A** -> 3241. [7] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/e5747772-c5b4-41a2-9a7a-403fae53d51a)
+
+* A, B -> It -> Pronoun.
+* 'C' elaborates 'E'.
+* General to specific.
+
+![image](https://github.com/user-attachments/assets/d7e12f9f-01e6-4e1e-bb71-0c57c75f1349)
+
+* Answer -> Option **C** -> CEBAD. [8] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2cadd2a4-3983-4bad-83b9-513f53336e92)
+
+* 2 -> They -> young generations.
+* 4 -> 2.
+* 3,4,2 -> After '1', reading statements '3,4,2' are a bit awkward.
+* 3 -> Introduced anxiety.
+* 3 -> 1.
+
+![image](https://github.com/user-attachments/assets/3d489155-3d72-48e1-a89d-bf8017e78bc7)
+
+* Answer -> Option **A** -> 4231. [9] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a6e338a7-ccdb-4670-8bb9-6ee84e024f64)
+![image](https://github.com/user-attachments/assets/af4dd9e1-7cd1-4a4d-bd7b-a1c89a97cd85)
+
+* Even -> Keyword.
+* Something should have come before **even**.
+* Significant phenomenon -> Significant experience.
+* D -> A
+* E -> Thus -> conclusion.
+
+![image](https://github.com/user-attachments/assets/a882c09c-0470-4b6b-bc03-f963f01faf7f)
+
+* Answer -> Option **B** -> BDACE. [11] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/8411af1a-59c7-44a9-bd9c-19f40db63199)
+![image](https://github.com/user-attachments/assets/2c3e2da2-d4d0-40e4-995e-fbc8e3fef3fb)
+
+* Answer -> Option **A** -> 1324. [12] [**VERY IMPORTANT**] [Got Wrong] 
+
+![image](https://github.com/user-attachments/assets/ae546a53-4d22-4e96-8266-5eb9d2c401cc)
+![image](https://github.com/user-attachments/assets/943b8ef0-0da7-4a9f-b891-612a27c5ef08)
+![image](https://github.com/user-attachments/assets/c7ee834a-ecf1-422d-91ef-cb4aab56c069)
+
+* Answer -> Option **A** -> 4231. [13] [**VERY IMPORTANT**] [Got Wrong] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
