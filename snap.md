@@ -13,7 +13,8 @@
 11) Statement andd Conclusion.
 12) Statement and Assumptions.
 13) Statement and Course of action.
-14) Cause and Effect. (Tomorrow)
+14) Cause and Effect.
+15) RC.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -1171,6 +1172,111 @@
 ![image](https://github.com/user-attachments/assets/d3c7606b-d5f0-4bff-97cf-17a2c9f514b4)
 
 * Option **B**. [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/5d30b1dc-687b-410a-aed3-173d4eabda5c)
+
+* 1 -> Effect.
+* 2 -> Cause.
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f577cb96-d77d-412d-99d6-1cd0df60780b)
+
+* 1 -> Effect.
+* 2 -> Cause.
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0672e82b-ba69-44a4-b797-41299ada5c51)
+
+* 1 -> Cause.
+* 2 -> Effect.
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bbd74cef-e1c6-4d1e-a285-546c6f1b7cee)
+
+* 1 -> Cause.
+* 2 -> Effect.
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/79431541-1d98-4736-a8ac-8c4a10201f09)
+
+* 1 -> Cause.
+* 2 -> Effect.
+* Option **A**. [**VERY IMPORTANT**]
+
+### RCs
+
+![image](https://github.com/user-attachments/assets/b9920b35-3da0-4e91-a009-ad0c363e4df5)
+
+* RC-1.
+* But -> Transition.
+* Keywords -> Philosophy.
+* Para '1' -> Philosophy is the biggest achievement and is one of the strongest contributer to India's civilization.
+* Para '2' -> Spiritual.
+* Para '3' -> Still talking about Philosophy, Spiritual, cultural -> Building from 'p2'.
+
+![image](https://github.com/user-attachments/assets/25adc69b-ec92-4cef-b78c-5895f8a00e20)
+![image](https://github.com/user-attachments/assets/feff3283-d0c4-408a-b4db-862aabedf057)
+![image](https://github.com/user-attachments/assets/e14f8f44-7dc7-4a7d-83fe-b8b19e06baf9)
+
+* Passivity -> Sleeping/Not active. [Meaning]
+* Option **C** -> Passivity.
+
+![image](https://github.com/user-attachments/assets/0f5171f0-1a6e-4167-8e8a-0ce3e0f25020)
+
+* Option **D**. [1] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/44d61f48-d6a2-4c3b-a8f9-23ac689d8b83)
+
+* Just because there is no evidence for it, we cannot say that the author is not implying about it.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4a67337c-7c4e-48cb-9161-e233165d7a50)
+![image](https://github.com/user-attachments/assets/04744a5e-b344-46f8-a52a-60407a3ecbc6)
+
+* Option **C**. [2] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/621cc783-3397-4df3-8637-73ac8acc0c01)
+![image](https://github.com/user-attachments/assets/1e26e015-8055-400f-886b-fd16afc4dbd4)
+
+* A -> Out of scope.
+* 'C' is secondary to 'B'.
+* D -> Very general.
+
+![image](https://github.com/user-attachments/assets/c41bab06-f101-46ce-8ed4-21cd97a1933a)
+![image](https://github.com/user-attachments/assets/459330c2-95b8-4ec9-9579-0e1b366ca80a)
+
+* Option **B**. [3] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/87baa47f-73cf-433a-bc69-8d4c6a0e3a39)
+
+* A -> Goal -> It was not the goal. It was a characteristic.
+
+![image](https://github.com/user-attachments/assets/797997f4-2317-4d28-b320-bc7bc693a2d8)
+
+* Option **A**. [4] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/104b4cba-13c8-4636-90df-b86ec2742a87)
+
+* RC-2.
+* Start from 36mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
