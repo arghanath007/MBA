@@ -994,6 +994,327 @@
 
 * Option **E**.  [**VERY IMPORTANT**]
 
+###  Cause and Effect
+
+![image](https://github.com/user-attachments/assets/11de70f1-f2a7-4330-b8f6-9492adb90020)
+
+* Cause is related to effect somewhere.
+* Should a cause(sentence) everytime result in an effect? [**VERY IMPORTANT**]
+
+> Not necessarily.
+
+* If 'X' then 'Y'.
+* Raining -> There are clouds in the Sky.
+* We **cannot say the above**. 
+* Only '1' relationship is True.
+* If 'Y' is not happening then 'X' is also not happening. [Logic] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/718b0738-8ee2-43b1-8b01-881bf211583e)
+
+* Statement '1' and Statement '2' -> They look like **outcome**. [**VERY IMPORTANT**]
+* Outcome -> It means that they are **effect/effects**. [**VERY IMPORTANT**]
+* Statement '1' and Statement '2' are **independent**.
+* Statement '1' and Statement '2' causes will be **different** most likely.
+* They are enough differences in both the sentences to not be classified as '1' statement.
+
+![image](https://github.com/user-attachments/assets/525e6f48-ea88-438d-8513-8727061dd536)
+![image](https://github.com/user-attachments/assets/c590d57f-fd69-4866-933b-77bb62a6e149)
+
+* Option **D**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b3209cd4-f9e9-488e-b9e3-ba51e4d892fe)
+
+* Statement '1' -> Effect.
+* Statement '2' -> Cause.
+
+![image](https://github.com/user-attachments/assets/9eee5a9a-caa6-4960-a2fe-4077dddedd45)
+
+* Option **B**.  [**VERY IMPORTANT**] [Got Wrong]
+
+* Statement '2' -> Main cause.
+
+![image](https://github.com/user-attachments/assets/e5942513-306d-47c6-b53c-b9922f123b1c)
+![image](https://github.com/user-attachments/assets/9305ffb9-02fe-420c-aac2-259af02fe565)
+
+* Statement '1' -> Observation/Outcome -> **Observation/Outcome** mostly likely become **effect**. [**VERY IMPORTANT**]
+* Statement '2' -> Cause.
+* Not independent causes.
+
+![image](https://github.com/user-attachments/assets/2b919895-d91e-42d4-af0c-7b968ed3287c)
+![image](https://github.com/user-attachments/assets/0085e09a-79d6-4718-94ef-742ae4ffea15)
+
+* Option **B**.  [**VERY IMPORTANT**]  [Got Wrong] [Practice]
+
+![image](https://github.com/user-attachments/assets/6a893eb9-8d01-49ac-b6ce-dffd98f72752)
+
+* Statement '1' -> Effect.
+* Statement '1' -> Effect.
+
+![image](https://github.com/user-attachments/assets/3c413fd9-22dd-4bc3-912a-47f59d505b00)
+![image](https://github.com/user-attachments/assets/4d8826c0-40a8-4d22-ab44-2c8723c1223f)
+
+* Option **D**.  [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/2d93fc03-fb39-4e0d-a772-6d1381d43a99)
+
+* 1 -> Cause and an Effect.
+* 2 -> Cause and an Effect.
+* No relationship between '1 and 2'.
+* General trend(GT).
+
+![image](https://github.com/user-attachments/assets/292e633d-4bec-430b-9058-849ccffde7ec)
+
+* Option **C or D** -> Both are **correct**.  [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/240a534f-8681-487f-92ac-73281fc59706)
+
+* 1 -> Effect -> Could be **Cause and an Effect**. [Got Wrong] 
+* 2 -> Effect. [Got Wrong] 
+* We have to be 100% sure that there is **no relation** between '1 and 2' then only we can go to 'D and E'. First check for 'A and B' options. [**VERY IMPORTANT**]
+* '1' and '2' are related.
+* 1 -> Cause.
+* 2 -> Effect.
+
+![image](https://github.com/user-attachments/assets/0de03874-8643-4661-b3ae-78267ef302b9)
+![image](https://github.com/user-attachments/assets/67f9cdb1-ebd4-46cd-844d-7f2738c71dc3)
+
+* Option **A**. [**VERY IMPORTANT**]  [Got Wrong] 
+
+![image](https://github.com/user-attachments/assets/e466e4c8-8abe-4a44-87cb-6e789be90c68)
+
+* 1 -> Effect.
+* 2 -> Effect.
+
+![image](https://github.com/user-attachments/assets/d473440c-4da1-4680-9bfc-608a58a39386)
+
+* Option **E** -> A or E both are possible. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/31d37766-9b42-466e-afdc-7941b5674641)
+
+* 1 -> Effect.
+* 2 -> Cause.
+
+![image](https://github.com/user-attachments/assets/0f7646e4-9a10-4c30-a5b3-784c70717b57)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/93ab5ce9-ec9c-4a24-85e2-cd9e42dff8a4)
+
+* 1 -> Effect.
+* 2 -> Cause.
+
+![image](https://github.com/user-attachments/assets/5fdc2b54-5113-4475-b3d1-c8ebded6806e)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6a27c6f3-e0d8-4848-ba36-ffffaf43c8aa)
+
+* 1 -> Cause.
+* 2 -> Effect.
+
+![image](https://github.com/user-attachments/assets/3b8b25f8-a1f4-443e-8937-6df8e9a543e7)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ac351f60-c0a2-4128-8d4a-58cec3798696)
+
+* 1 -> Cause.
+* 2 -> Effect.
+
+![image](https://github.com/user-attachments/assets/2877a918-6ff7-4d5e-8dc7-b09f736ade3a)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/11563dbe-9061-4f56-a617-dad82d6ea09a)
+
+* 1 -> Cause.
+* 2 -> Effect.
+
+![image](https://github.com/user-attachments/assets/c42091d7-01ff-4db1-b15b-4ca0e465fe6e)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7154eb82-77db-4e7c-baf2-aed01d454c65)
+
+* 1 and 2 -> Effect.
+* Expenses -> Price.  [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/523a28af-db58-4e2f-8626-c173f27282ee)
+
+* Scope is different in both the sentences.
+* We have to evaluate the observations or the responses? [**VERY IMPORTANT**]
+
+> We have to evaluate the responses.
+
+![image](https://github.com/user-attachments/assets/22fbcd71-78fd-4fc2-9250-776e8962ab2a)
+
+* Option **D** -> Not independent cause -> Common cause is price escalation.
+
+![image](https://github.com/user-attachments/assets/6d6a1453-f073-4413-a43e-898aac58f88c)
+![image](https://github.com/user-attachments/assets/167c6e86-bc7a-4696-85fd-27aaefbf8738)
+
+* 1 -> Enrollment is low/down.
+* 2 -> Enrollment is up.
+
+* Option **C**. [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/2b9b2806-75f9-440a-9d2d-faa0d72722f2)
+![image](https://github.com/user-attachments/assets/e58ff72d-d6f4-465e-8298-2364754dfbc2)
+
+* Option **E**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b8d36b2a-0b3d-41ad-8a46-5855ee9d42d6)
+
+* 1 -> Effect.
+* 2 -> Cause.
+
+![image](https://github.com/user-attachments/assets/d3c7606b-d5f0-4bff-97cf-17a2c9f514b4)
+
+* Option **B**. [**VERY IMPORTANT**] [Got Wrong]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
