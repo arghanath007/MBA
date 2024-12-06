@@ -15,6 +15,7 @@
 13) Statement and Course of action.
 14) Cause and Effect.
 15) RC.
+16) Parajumbles
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -1255,9 +1256,86 @@
 * Option **A**. [4] [**VERY IMPORTANT**] [Got Wrong]
 
 ![image](https://github.com/user-attachments/assets/104b4cba-13c8-4636-90df-b86ec2742a87)
+![image](https://github.com/user-attachments/assets/6bfbee85-22b6-4daa-8d7e-6ce966f0235e)
+![image](https://github.com/user-attachments/assets/82385eef-3749-4244-b078-518e01fd46fc)
 
 * RC-2.
-* Start from 36mins.
+
+![image](https://github.com/user-attachments/assets/5513a43b-b24e-449d-be12-f4baf27ab8c1)
+
+* Option **C**. [1] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/02baae6e-4cc3-4a15-9d62-7ed3681f7b79)
+
+* Option **E**. [2] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/4be29832-a374-4a9c-8991-5205c43ac498)
+
+* Characteristic is not asked.
+
+![image](https://github.com/user-attachments/assets/197ef156-3fef-480f-ac33-d1c56eb331e1)
+
+* Option **B**. [3] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a2013cb7-0da3-48bf-9738-569a10106268)
+![image](https://github.com/user-attachments/assets/0a4681c7-56f4-41d3-8fc2-6eb9b3ba471b)
+
+* Option **E**. [4] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/07599052-de50-4f27-bec8-3b351e88a438)
+![image](https://github.com/user-attachments/assets/4c3145b7-cf79-4a21-8bbd-d5a624566ed5)
+
+* RC-3.
+
+![image](https://github.com/user-attachments/assets/9d611858-85ca-4574-a7f1-08f386f84fe3)
+![image](https://github.com/user-attachments/assets/533dea83-f4dd-42ef-a3e3-dfdc165b9b6e)
+![image](https://github.com/user-attachments/assets/56f44c98-bd22-4678-8318-942a87f1916b)
+
+* C -> realpolitik.
+* Classical -> Less practical and more theoritical.
+
+![image](https://github.com/user-attachments/assets/6a3fbff3-e339-467c-bcb6-df7813dc8967)
+
+* Option **E**. [1] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/b4458145-681e-4e92-b5a3-e2fb4e6bf32b)
+
+* C > E.
+
+![image](https://github.com/user-attachments/assets/b00cf909-1b3f-42f7-81fe-10261693cdab)
+
+* Option **C**. [2] [**VERY IMPORTANT**] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/d21e06c9-fed0-4de8-b9ae-282c30658c50)
+
+* Faction -> Part of a larger group and the faction is created when there is a ***disagreement** with the other people. [Meaning]
+* Crew -> Refers to a group of people working together. [Meaning]
+* A > D.
+
+![image](https://github.com/user-attachments/assets/b54489fe-d602-468c-af65-a426c5498752)
+
+* Option **A**. [3] [**VERY IMPORTANT**] [Got Wrong] 
+
+![image](https://github.com/user-attachments/assets/dad08d52-bf6b-4ec1-aba3-5c141a1fda07)
+![image](https://github.com/user-attachments/assets/dfe747b0-6f8b-4b16-9f64-d25e41e1978a)
+
+* Option **D**. [4] [**VERY IMPORTANT**]
+
+### Parajumbles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
