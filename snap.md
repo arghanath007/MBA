@@ -16,6 +16,7 @@
 14) Cause and Effect.
 15) RC.
 16) Parajumbles
+17) Grammer.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -1428,6 +1429,33 @@
 ![image](https://github.com/user-attachments/assets/c7ee834a-ecf1-422d-91ef-cb4aab56c069)
 
 * Answer -> Option **A** -> 4231. [13] [**VERY IMPORTANT**] [Got Wrong] 
+
+### Grammer
+
+* I am a pilot.
+* am -> Auxillary verb.
+* The word which is showing the **tense** of the sentence. [**VERY IMPORTANT**]
+* I am a pilot -> Present tense.
+* am -> Showing the sentence is in Present tense.
+* I was a pilot -> Past tense.
+* was -> Auxillary verb -> Helping verb.
+* I will be a pilot -> Future tense.
+* will be -> Auxillary verb -> Helping verb.
+* Auxillary verb -> Do, does, did, is, was, had, have, has, might, may, can, should. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/051cbbe1-ad38-431b-afdf-b81f6b0655cd)
+
+* Start -> 6:20mins.
+
+
+
+
+
+
+
+
+
+
 
 
 
