@@ -1659,13 +1659,20 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/66450609-2d37-480f-b38f-ce4e0ba672b4)
 ![image](https://github.com/user-attachments/assets/5eb328b2-d8ff-4413-a513-d35455adb2f8)
 
+* Example.
 
+![image](https://github.com/user-attachments/assets/28edd8a5-f66f-4e23-95f9-c011bbd2aac3)
 
+* Pronoun -> Pro + noun -> It is replacing the noun. [**VERY IMPORTANT**]
+* Pro -> For -> Inplace of.
 
+* Ante -> Before. [Meaning]
+* Pronoun -> which, it.
+* which -> Wild fires.
 
+![image](https://github.com/user-attachments/assets/8c3b6509-0580-4723-ba6e-77e01e4018d0)
 
-
-
+# 5mins.
 
 
 
