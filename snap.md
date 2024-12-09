@@ -1445,9 +1445,309 @@
 
 ![image](https://github.com/user-attachments/assets/051cbbe1-ad38-431b-afdf-b81f6b0655cd)
 
-* Start -> 6:20mins.
+* Any word in a sentence which has/shows it's **past, present and future** then we call the word as the **verb** of the sentence. [**VERY IMPORTANT**]
+* Dancing -> It cannot tell the tense.
+
+![image](https://github.com/user-attachments/assets/dae6807b-84cf-412d-b3a6-9a3b66fb94f2)
+![image](https://github.com/user-attachments/assets/02a58430-946a-4720-a0e7-546d3559f567)
+
+* have participated -> verb.
+* Talented, several -> Adjective.
+* Successfully -> Adverb.
+* several -> Describing the competitions.
+
+![image](https://github.com/user-attachments/assets/a5c47d4e-0b26-465c-9314-8939a42b578a)
+![image](https://github.com/user-attachments/assets/52d09dcc-79ae-45a3-9913-fa88b3a04fe2)
+![image](https://github.com/user-attachments/assets/18f3e734-0d8a-4dc2-a1b9-f316f6c10065)
+
+* Read the sentence without 'talented, Successfully, several'.
+* verb -> Tells the tense of the statement. [**VERY IMPORTANT**]
+* Need to remember the helping/auxillary verb. [**VERY IMPORTANT**]
+* Adverb -> It talks about verb and other things but doesn't tell/talk about **noun** though.
+
+![image](https://github.com/user-attachments/assets/fd6b2ec7-06e3-492f-a025-260b03b5839a)
+
+* Noun(N) -> PM, india.
+* Preposition(PP) -> Identifies the relative position between '2' nouns -> of. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/13a1d943-1966-4f7e-bb46-b83787a307e5)
+
+* I love running and hate swimming.
+* Verb -> hate, love.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ffc6e554-fe8d-4c8d-b1f7-5019209c4ab6)
+![image](https://github.com/user-attachments/assets/98c8215f-1428-48ea-95c3-f70fc9ee901e)
+![image](https://github.com/user-attachments/assets/568c90fb-0282-41fe-85c9-0fac0ec30d33)
+
+* Single subject(SS) take a single verb(SV) and a plural subject(PS) take a plural verb(PV).  [**VERY IMPORTANT**]
+* Verb -> fits.
+* Noun -> Shoes.
+* Shoes -> Plural.
+* fits -> plural.
+* Never attack the **subject or the noun** because it will change the meaning of the sentence. We are not allowed to change the meaning of the sentence. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9aeafef3-d6c8-4b91-bb30-5009c243428c)
+
+* Verb -> Need.
+* Subject ->
+* Preposition(PP) -> of
+* Noun -> box, books.
+
+![image](https://github.com/user-attachments/assets/5c25306b-625d-4eba-a0c4-adbc39133a35)
+
+* We are trying to identify all of the **Preposition(PP) + Noun(N)** pattern so that we do not read them. [**VERY IMPORTANT**]
+* Preposition(PP) + Noun(N) -> of books.
+
+![image](https://github.com/user-attachments/assets/3d8769d6-fb7d-4007-b329-4d78dfa74fce)
+![image](https://github.com/user-attachments/assets/0ab74438-f236-4068-9c32-7935b5491e80)
+
+* box -> singular.
+* need -> Plural -> They come without any 's' at the end. [**VERY IMPORTANT**]
+* needs -> Singular.
+
+![image](https://github.com/user-attachments/assets/7ea54919-8edc-422e-b50f-387ef4e69d51)
+
+* of books -> Helping the grammer.
+
+![image](https://github.com/user-attachments/assets/868c65ea-46ae-43d7-b74f-b6d94a1d5ef7)
+
+* Noun -> my sisters.
+* Preposition(PP) + Noun(N) -> of my sisters.
+* Neither, Either -> Singular. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6a876793-4cbc-4bba-af68-065f3b8cd102)
+![image](https://github.com/user-attachments/assets/d3db1c07-287b-494f-b0dc-c7e80109c035)
+
+* These -> Plural(P). [**VERY IMPORTANT**]
+* This -> Singular.(S). [**VERY IMPORTANT**]
+* None -> Both singular and plural, depending on the preposition that the noun is referring. [**VERY IMPORTANT**]
+* No one -> Singular. [**VERY IMPORTANT**]
+* Some of the coffee is in the jar.
+* Preposition(PP) + Noun(N) -> of the coffee.
+* Some is/are in the jar -> Depends on what 'some' is referring/telling to.
+* Some -> Both singular and plural, depending on the noun that it is referring to. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5e7927ac-f563-4a55-b52c-01d41537a659)
+
+* Some of the cookies **are** in the jar -> cookies is countable.
+* Preposition(PP) + Noun(N) -> of the cookies.
+* Plural will exist for countable.
+* Some of the coffeee **is** in the jar -> coffeee is uncountable.
+* Any -> Both singular and plural, depending on the noun that it is referring to. [**VERY IMPORTANT**]
+* None -> Both singular and plural, depending on the noun that it is referring to. [**VERY IMPORTANT**]
+* All -> Both singular and plural, depending on the noun that it is referring to. [**VERY IMPORTANT**]
+* Most -> Both singular and plural, depending on the noun that it is referring to. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1dd6ecad-36f2-4e29-b20e-d97f2d1c89a0)
+![image](https://github.com/user-attachments/assets/e3396ed3-8de7-4957-a126-f0945fcee5f7)
+
+* SANAM -> Some Any None All Most.
+* If we add **one, body, thing** to **some, any** then **some, any** are by default in **singular** only -> Somebody, someone, something, anyone, anybody, anything.
+
+![image](https://github.com/user-attachments/assets/218a63a7-a465-49f3-8242-29367673a5bd)
+
+* Audience -> Atleast '2' people -> plural.
+* do -> Plural.
+* does -> singular.
+* There are collective nouns.
+* As there are collective nouns that's why they are singular.  [**VERY IMPORTANT**]
+* Collective nouns are singular but not always.  [**VERY IMPORTANT**]
+* Audience -> collective noun(CN).
+* If there is **no diagreement** among the members of a collective noun(CN) then we use it as a **singular case**. [**VERY IMPORTANT**]
+* Audience -> Singular -> Because of no diagreement.
+* Audience -> does -> Singular.
+
+![image](https://github.com/user-attachments/assets/49eab747-317f-4476-bfbc-75badde5f073)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a8144f8b-f9b2-4007-bb7a-e6c4b14aaefa)
+
+* Verb -> is fighting
+* Family -> collective noun.
+* Family -> fighting amongst themselves -> They are not acting as one -> **Plural**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6e429786-8539-4273-b247-f5dd26582d38)
+![image](https://github.com/user-attachments/assets/a20b4c1e-828a-4098-ba21-a558af068e4e)
+
+*  [**VERY IMPORTANT**]
+*  The team are undecided on the captain -> They are not acting as one -> **Plural**. [**VERY IMPORTANT**] 
+*  The team is coming to the hotel -> They are acting as one -> **Singular**. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/9e7d8249-6b57-47b1-bb95-b64b05fc9a83)
+
+* Preposition(PP) + Noun(N) -> of shoes.
+* Pair -> Singular.
+* Feel -> Plural.
+* Feels -> Singular
+
+![image](https://github.com/user-attachments/assets/b18a4254-5182-4e4a-a5c3-b7dc0536ab67)
+
+* Preposition(PP) + Noun(N) -> of my neighbour's kids.
+* One have -> Wrong.
+* One has -> Correct.
+
+![image](https://github.com/user-attachments/assets/ed0a5995-e7de-4acd-b27c-0e3e42c638f8)
+
+* the class -> collective noun(CN) -> They are acting as one -> **Singular**. [**VERY IMPORTANT**]
+* sits -> Singular. 
+* sit -> Pluaral.
+
+![image](https://github.com/user-attachments/assets/344960de-4cf1-4317-9d53-bc8012b92a2d)
+![image](https://github.com/user-attachments/assets/32c66db0-5eef-481e-bb53-939c95fed7cb)
+
+* Verb -> Walks, sits.
+* Principal -> Singular.
+* their -> Pluaral.
+* seats -> Pluaral.
+* Noun -> 's' -> Pluaral. [**VERY IMPORTANT**]
+* 'Their' is referring to the 'class'.
+* As the principal walks in -> Present.
+* Changing of the meaning is not allowed.
+
+![image](https://github.com/user-attachments/assets/bd719060-ca2e-4a63-893c-524f327024f9)
+![image](https://github.com/user-attachments/assets/46e7ea79-4bb2-4932-b1d9-eded40754e25)
+![image](https://github.com/user-attachments/assets/ff8b11c2-1f52-4a2e-b654-0dafe9d41873)
+
+* Students will seat on the seats.
+* 'Their' is referring to the 'class' but the intended meaning is for respect to the students.
+
+![image](https://github.com/user-attachments/assets/b2cc62c7-3da9-4b2c-b4fe-3b48b4ccd76d)
+
+* The meaning of the class was largly referring to the students.
+* We are still using a plural verb(sit) for a collective noun(CN). It is counterintuitive.
+* Class -> Plural -> We have students in the class.
+* Sit -> Plural.
+
+![image](https://github.com/user-attachments/assets/7abd1044-61c0-4d6d-8abe-2ee194aec33e)
+fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-659b1f801426)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/72457ff4-c52b-4fbd-97ab-208c608427d3)
+
+* it -> Pen.
+* Pronoun -> it.
+* Noun -> Pen.
+
+![image](https://github.com/user-attachments/assets/9312cba3-a2b4-4090-9ea3-865bfa194625)
+![image](https://github.com/user-attachments/assets/33727199-4f04-4716-9918-fe33e4d8079b)
+
+* He -> brother
+* it -> film
+* Every **pronoun** must have a **noun**. '1' pronoun can refer to only '1' noun at once and not more than '1'.
+
+![image](https://github.com/user-attachments/assets/4c0ac2cf-45e9-43ba-91d1-b53a433481cf)
+
+* Him -> Ravi
+
+![image](https://github.com/user-attachments/assets/acbb1bbe-2909-4036-9000-c04ec3be000b)
+![image](https://github.com/user-attachments/assets/1d36a061-67ce-4bc6-842f-093b59598ec6)
+![image](https://github.com/user-attachments/assets/0d1855a2-193c-4728-bb2f-8fd5b8d625ba)
+
+* A person -> Singular.
+* A person -> he/she.
+* One person -> Singular.
+* One person -> one.
+* your -> replace it with **ones**.
+
+![image](https://github.com/user-attachments/assets/5b5d322e-a9f4-4b28-b458-7a4ddff52e0a)
+![image](https://github.com/user-attachments/assets/2fac779d-0a16-457c-84e2-480582ad37f2)
+
+* When we refer ourselves we right **I** and not **me**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/66450609-2d37-480f-b38f-ce4e0ba672b4)
+![image](https://github.com/user-attachments/assets/5eb328b2-d8ff-4413-a513-d35455adb2f8)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
