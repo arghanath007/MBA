@@ -1666,13 +1666,207 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 * Pronoun -> Pro + noun -> It is replacing the noun. [**VERY IMPORTANT**]
 * Pro -> For -> Inplace of.
 
-* Ante -> Before. [Meaning]
+* Ante -> Root word -> Meaning **Before**. [Meaning]
+* antecedent -> a preceding occurrence or cause or event. [Meaning]
 * Pronoun -> which, it.
+* Article -> The
 * which -> Wild fires.
+* it -> park.
+* Park -> Used as an **adjective**.
 
 ![image](https://github.com/user-attachments/assets/8c3b6509-0580-4723-ba6e-77e01e4018d0)
+![image](https://github.com/user-attachments/assets/5dc9d9a3-2fcd-42d2-b3d1-4155f78ae4ce)
 
-# 5mins.
+* Wrong -> There was no **antecedent**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/65dad800-e8b8-41c7-9ef4-28fd0c4a69a4)
+![image](https://github.com/user-attachments/assets/415350d8-b5d3-4b32-afa7-c0b5758d4552)
+
+* Pronoun will always replace a **noun** and none else. [**VERY IMPORTANT**]
+* Ravi's pen is red in color.
+* I am making a PPT. I am making it on my system.
+* it -> ppt. [Correct]
+* My boss asked me to make a ppt. I am doing it on my system.
+* it -> ppt. [Wrong]
+* I am doing ppt on my system. [Correct]
+
+![image](https://github.com/user-attachments/assets/80889b72-7d42-4e5d-aede-35bf25ec9b89)
+
+* Pronoun -> it, that
+* it -> supercomputer. [Wrong]
+* that -> mainframe.
+* Verb -> may.
+* Noun -> term -> 1st part of the sentence.
+* Noun -> it -> 2nd part of the sentence.
+* it -> term. [Correct]
+
+![image](https://github.com/user-attachments/assets/a044f95a-530b-4fda-a895-90ee9f018d0d)
+
+* Verb -> refers.
+
+* Pronoun -> its
+* Antecedent ->
+* Noun -> studios.
+* studios -> plural. [**VERY IMPORTANT**]
+* its -> singular. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0313244e-c5cc-4519-9c2e-68e197cfd82b)
+
+* their -> plural. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/967f60ce-b216-4d29-9bda-d5878fecc819)
+
+* Pronoun -> they, them, which
+* which -> fibres
+* they -> researchers.
+* them -> nano-papers or fibres -> The sentence is ambigious.
+* Ram and sham were having a conversation that he was invited to the party -> We don't know who was invited -> The sentence is ambigious.
+* allege -> can be done by living beings only.
+
+![image](https://github.com/user-attachments/assets/f5def845-caed-497e-82d8-4ceaa6cc7936)
+![image](https://github.com/user-attachments/assets/a6cccd4d-2309-4aab-8e58-9ea2e3992eba)
+
+* which -> fibres.
+* these -> materials -> refer to nano-papers.
+
+![image](https://github.com/user-attachments/assets/129f91fc-ec66-4b42-b772-d7a40881ebaa)
+![image](https://github.com/user-attachments/assets/c63c83c9-4eaf-439c-8a83-56236f56ef12)
+
+* Pronoun -> They, it, their.
+* their, they -> supernovas.
+* they -> supernovas -> logically.
+* Replace 'they' with 'supernovas' then we will have a better statement.
+
+![image](https://github.com/user-attachments/assets/4c6c4bd4-60c2-4421-8e67-a74e448e9708)
+![image](https://github.com/user-attachments/assets/53dc5002-ccc3-4022-85a9-d4bb8759b22f)
+
+* 1
+* Noun -> guests
+* Pronoun -> their, they
+* The sentence is **correct**.
+
+![image](https://github.com/user-attachments/assets/5c12bcc8-d143-4670-94ee-15848b999d77)
+
+* 2 [**VERY IMPORTANT**]
+* Noun -> Everyone
+* Verb -> needs.
+* Pronoun -> Everyone, their
+* All of you -> To refer to everyone.
+* Everyone -> It is for each one of you -> It is individual.
+* Everyone -> Always singular. [**VERY IMPORTANT**]
+* needs -> singular.
+* their -> plural.
+* We should always attack the **pronoun**.
+* their -> replace it with **his/her**.
+* The sentence is **wrong**.
+
+![image](https://github.com/user-attachments/assets/559e86bb-e62d-4302-9b74-7888143e494f)
+![image](https://github.com/user-attachments/assets/cd045690-1ce9-44c3-9b31-334492088a2b)
+
+* 3 [**VERY IMPORTANT**]
+* Noun -> Jim, CEO, board
+* Pronoun -> he, their
+* board -> Singular. [**VERY IMPORTANT**]
+* board of directors -> plural. [**VERY IMPORTANT**]
+* their -> plural.
+* Example -> The board is meeting tomorrow.
+* their -> replace it with **its**.
+* The sentence is **wrong**.
+
+![image](https://github.com/user-attachments/assets/51fa101e-199f-48c5-a965-627acc10d2f7)
+![image](https://github.com/user-attachments/assets/a879a783-d6da-4333-96b3-b600b48a2025)
+
+* 4 [**VERY IMPORTANT**]
+* Noun -> Meg, school, class notes
+* Pronoun -> her, she, it
+* it -> class notes
+* it -> Singular.
+* class notes -> Plural.
+* it -> replace it with **their**.
+* class note -> Singular.
+* The sentence is **wrong**.
+
+![image](https://github.com/user-attachments/assets/a38fe278-a68b-413f-90da-f9bed7cb46b4)
+![image](https://github.com/user-attachments/assets/5b8a7549-c742-4f4e-b7e8-422ff265ed95)
+![image](https://github.com/user-attachments/assets/0628bb77-aa28-40a0-b380-4050a619fb71)
+
+* 5 [**VERY IMPORTANT**]
+* Noun -> benefits
+* Pronoun -> that -> 2nd that.
+* that -> benefits.
+* benefits -> plural.
+* that -> person. [**VERY IMPORTANT**]
+* those -> persons. [**VERY IMPORTANT**]
+* that -> replace it with **those**.
+* The sentence is **wrong**.
+
+![image](https://github.com/user-attachments/assets/66cbab62-3549-4716-a1ac-bc24fa418b17)
+![image](https://github.com/user-attachments/assets/3bd90fc9-72d0-4de5-8c83-46272a621c4c)
+![image](https://github.com/user-attachments/assets/ad9a481b-6b37-4846-841f-97c9b94980ef)
+
+* 7 [**VERY IMPORTANT**]
+* Noun -> player's helmets
+* Pronoun -> they.
+* The sentence is **Correct**.
+
+![image](https://github.com/user-attachments/assets/8e5fc663-b880-4dd9-96f7-f135f8ca5e45)
+
+* 9 [**VERY IMPORTANT**]
+* Noun -> No noun.
+* Pronoun -> its.
+* Oil -> Not mentioned as noun here.
+* its -> replace it with **oil's**.  [**VERY IMPORTANT**]
+* The sentence is incomplete without the word **oil**.
+* The sentence is **incorrect**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/50a0a717-3385-425c-956b-4cfed93729e9)
+
+* 10 [**VERY IMPORTANT**]
+* Noun -> .
+* Pronoun -> he, his.
+* he, his -> referring to Shakespear.
+* Adjective -> Shakespearean.
+* No mention of Shakespear in the whole sentence.
+* he -> replace it with **Shakespear** then the next word **him** will be justified and no need to replace it.  [**VERY IMPORTANT**]
+* The sentence is **incorrect**.
+
+![image](https://github.com/user-attachments/assets/8e66193a-e83a-48b3-bee9-31d2aa9ab4c5)
+
+* 12 [**VERY IMPORTANT**]
+* Noun -> test scores
+* Pronoun -> them.
+* students' test scores -> Plural.
+* students' -> Adjective.
+* them -> replace it with **students**.  [**VERY IMPORTANT**]
+* The sentence is **incorrect**.
+
+![image](https://github.com/user-attachments/assets/40d1ef8c-6cda-4818-acc0-8f93fc69a6dd)
+
+* 14 [**VERY IMPORTANT**]
+* Noun ->
+* Pronoun -> .
+* There was no pronoun in the sentence. We have to add pronoun to the sentence. [**VERY IMPORTANT**]
+* The sentence is **incorrect**.
+
+![image](https://github.com/user-attachments/assets/1aae9cd5-30e6-410d-9c50-ae4803aecbd8)
+
+* 15 [**VERY IMPORTANT**]
+* Noun -> No noun.
+* Pronoun -> she, her, these.
+* these -> laptop and her books.
+* We would want a proper noun.
+* these -> replace it with **them**. [**VERY IMPORTANT**]
+* The sentence is **incorrect**.
+
+
+
+
+
+
+
+
+
+
 
 
 
