@@ -4327,6 +4327,86 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 ### Profit, Loss and Discount
 
+![image](https://github.com/user-attachments/assets/af89b61a-8d4a-4b77-bc15-6675b440a8b8)
+![image](https://github.com/user-attachments/assets/2994cdbc-2fa3-4d85-afe1-0c1bf3cc68a6)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/436e00c9-1081-4ada-aa38-c1a0b85502c1)
+![image](https://github.com/user-attachments/assets/ca5c9926-ae77-468c-b97c-197176a8ad06)
+![image](https://github.com/user-attachments/assets/bea25234-ba7f-4daf-a33b-f2025bce622c)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/237e00aa-a6b3-49b5-9fd5-4e6f6e2ac807)
+
+* Example.
+* 40 is the LCM. 
+
+![image](https://github.com/user-attachments/assets/792295de-57f8-43fb-b264-2f2c16b0ed82)
+![image](https://github.com/user-attachments/assets/00954f82-9ada-4673-90b1-e7f86ab501a2)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/52c8ed11-d954-4398-9f2a-1c1e49ac1ef0)
+
+* Example. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6c8c6be3-50c4-49fc-8181-0d0d13578691)
+
+* **Profit or loss** comes when the transaction is completed. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c49dd03b-9277-459b-ae8f-9b3655a23d11)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/c6390bfe-2543-4d55-bf15-9475dfd0f5df)
+![image](https://github.com/user-attachments/assets/e655eecd-2a40-4292-a011-9e782cdc0890)
+
+* Start from 1hr 13mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
