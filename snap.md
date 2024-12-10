@@ -20,7 +20,8 @@
 18) Foreign phrases.
 19) Idioms.
 20) Vocab.
-21) Percentages.
+21) Percentages. (Done)
+22) Profit and Loss and Discount. (Done)
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -4323,6 +4324,25 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/258281f5-262e-4ea2-9513-009ae040825c)
 
 * Example.
+
+### Profit, Loss and Discount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
