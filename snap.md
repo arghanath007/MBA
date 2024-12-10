@@ -20,7 +20,7 @@
 18) Foreign phrases.
 19) Idioms.
 20) Vocab.
-21) 
+21) Percentages.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -4186,6 +4186,175 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 * Case '1' -> 255 * (2/11)
 * Case '2' -> 165 * (2/11)
 * [Answer]
+
+### Percentages.
+
+![image](https://github.com/user-attachments/assets/317a6a89-fb69-4f51-bf55-32b755e7d7ba)
+![image](https://github.com/user-attachments/assets/80b835c5-c596-455d-99db-a5456372e913)
+
+* **Base** is the **more important** thing.
+
+![image](https://github.com/user-attachments/assets/920a756a-10bf-4113-ba9d-2102884a0642)
+![image](https://github.com/user-attachments/assets/fc02c069-6ce4-474b-b838-c7eaca724904)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/c5034cb7-2e31-43d6-b7b8-c36a2be35477)
+
+* We are comparying with 'R'. Base will be 'R'.
+
+![image](https://github.com/user-attachments/assets/709bfb64-e0e9-4ebb-84f1-cb341b415151)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/5ccb5c8e-32d3-495f-ae0c-eaee028cd707)
+![image](https://github.com/user-attachments/assets/8fdc5a76-eace-44cf-8988-df1bef18f7ec)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/a1404918-7e89-42e5-aca4-98e3c67d75a6)
+![image](https://github.com/user-attachments/assets/9a13dd80-ab34-457a-a89a-21138025f9ee)
+
+* Shortcut. We have switched their positions.
+* 37.5 = 3/8.
+
+![image](https://github.com/user-attachments/assets/5a2bc94e-3688-4c7d-b362-511f1dc22774)
+![image](https://github.com/user-attachments/assets/39919e70-f8a6-47d7-8a2d-e556d2822462)
+![image](https://github.com/user-attachments/assets/9d576412-c3d2-4b40-8add-52f3781fc2dc)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/f902fe11-b598-442d-a6da-c82487c17ee2)
+
+* [Formula] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/bf46a693-a9e8-47af-a9e6-12aea6b182f3)
+![image](https://github.com/user-attachments/assets/88fc16da-ce85-49f9-8c33-bc8b9fedb18f)
+![image](https://github.com/user-attachments/assets/4da5c9fc-9a1a-4614-b73b-7ec05c30e477)
+
+* Example. 
+
+![image](https://github.com/user-attachments/assets/f56e425a-1d64-47a5-979d-498ef4cc8416)
+
+* 99% -> The no. will be multiple of **9 and 11**. [Formula] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/e7095d88-9938-42b2-9495-0f9ed027df66)
+
+* Perimeter(P) -> 2 * (l + b). [Formula] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/69401e93-c5df-4362-8cea-bc15d9490ed8)
+![image](https://github.com/user-attachments/assets/708fc4a2-b8aa-4c29-8208-ac8b2e5a5b00)
+
+* Cannot Be Determined(CBD) -> Depends on the actual values of length and breath.
+
+![image](https://github.com/user-attachments/assets/283adebc-290b-4993-87c6-cb037a005af3)
+
+* Perimeter(P) -> Cannot Be Determined(CBD)
+
+![image](https://github.com/user-attachments/assets/3b417ce1-73b5-4dce-81cd-48fedd97fb1f)
+![image](https://github.com/user-attachments/assets/a9904429-a51c-405e-9033-c011c2c4146d)
+![image](https://github.com/user-attachments/assets/6d83d0fe-c800-4c6f-af90-9ba10c149f7d)
+
+* 5/6 -> 1 - 5/6 -> 1/6 -> 16.66%.
+
+![image](https://github.com/user-attachments/assets/a2003de5-6f0f-43c5-9b4a-3886403d4f0d)
+
+* 11.11% -> 1/9 -> 1 + 1/9 -> 10/9.
+* 9/10 -> 1 - 9/10 -> 1/10 decrease -> 10%.
+
+![image](https://github.com/user-attachments/assets/edfcc31e-5800-464f-81a7-891e12975ccb)
+
+* 20/120 * 100 -> 16.67%.
+
+![image](https://github.com/user-attachments/assets/c4427e14-cf06-4116-ba34-41c305636651)
+
+* [Formula] [**VERY IMPORTANT**]
+* Increase -> a/b
+* Decrease -> a/(a + b).
+* Increase is given and we need to find decrease.
+
+![image](https://github.com/user-attachments/assets/948f93f5-ea55-4a04-8257-1bdd3d20f5a8)
+
+* [Formula] [**VERY IMPORTANT**]
+* Decrease -> a/b
+* Increase -> a/(b - a).
+* Decrease is given and we need to find increase.
+
+![image](https://github.com/user-attachments/assets/9d05b0ed-3237-431f-9d95-479787c9a942)
+![image](https://github.com/user-attachments/assets/d5293f4a-f522-43e3-9cf4-c2ff16181423)
+
+* Limitation is that the **area** needs to be the **same**.
+
+![image](https://github.com/user-attachments/assets/57a3e757-e518-4e3f-89f6-fb6d588dca34)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/d9142c00-255c-4262-9263-4f9ecb47c15e)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/345c0d2a-b309-470d-bb1d-db5b9339b918)
+![image](https://github.com/user-attachments/assets/d207e1b3-620b-45a5-92f9-593fe1a96635)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/cd606253-6e0b-4b87-b1da-e99f4acabdf2)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/5793ffd4-24cc-4d16-bda1-000b62ca53ab)
+
+* Example.
+
+ ![image](https://github.com/user-attachments/assets/4221febd-d1aa-4ac8-9190-04609607afa6)
+
+* Savings -> 125 - 75 ->  50.
+
+![image](https://github.com/user-attachments/assets/e0c6475c-ef68-4711-8a50-02739f2cc10d)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/b63f37c7-c761-4abd-bc83-e58a7aca6931)
+![image](https://github.com/user-attachments/assets/44a987a0-3ea3-44cc-a30a-e38a895e6e64)
+
+* original quantity -> 'x'.
+
+![image](https://github.com/user-attachments/assets/5037f950-aaa6-4893-b887-89f247ad0cb8)
+![image](https://github.com/user-attachments/assets/258281f5-262e-4ea2-9513-009ae040825c)
+
+* Example.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
