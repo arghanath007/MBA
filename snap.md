@@ -10,13 +10,17 @@
 8) Number Series.
 9) Clocks.
 10) Strong and Weak Arguments. (Done)
-11) Statement andd Conclusion.
-12) Statement and Assumptions.
-13) Statement and Course of action.
-14) Cause and Effect.
-15) RC.
-16) Parajumbles
-17) Grammer.
+11) Statement andd Conclusion. (Done)
+12) Statement and Assumptions. (Done)
+13) Statement and Course of action. (Done)
+14) Cause and Effect. (Done)
+15) RC. (Done)
+16) Parajumbles (Done)
+17) Grammer. (Done)
+18) Foreign phrases.
+19) Idioms.
+20) Vocab.
+21) 
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
