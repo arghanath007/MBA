@@ -4400,6 +4400,70 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 ![image](https://github.com/user-attachments/assets/d5eec460-d96a-4ec3-912c-5435b4736ad6)
 ![image](https://github.com/user-attachments/assets/2cf4528b-a53f-438b-ad66-96fae2f8774f)
+![image](https://github.com/user-attachments/assets/8c664c83-a404-465e-937a-9d4fcac3dd5e)
+![image](https://github.com/user-attachments/assets/af8f9fcb-4b42-4b11-b58a-3036d1396005)
+![image](https://github.com/user-attachments/assets/0033fc6e-1377-4e6f-b714-86327d1683f2)
+
+*  [**VERY IMPORTANT**]
+*  Overall -> 400.
+
+![image](https://github.com/user-attachments/assets/e8df27b2-40dc-4d55-b489-2cf5325339a8)
+![image](https://github.com/user-attachments/assets/f09ef014-0eaa-45b2-8987-6120493fb4e4)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/911a20bb-1763-4971-8f94-b1431d6821cb)
+
+* Discount % is always on marked price(MP). [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/25322c09-6f39-4d7d-b795-6478aa41d45f)
+![image](https://github.com/user-attachments/assets/1d1d3af7-b0fc-4d60-9735-e3f36ef8dbb5)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/dc2eef0a-48f7-4e26-8a98-5b481394c81c)
+
+* Everything's base is on **CP** expect discount(D) whose base is **MP**.
+
+![image](https://github.com/user-attachments/assets/a81fffd1-0293-4000-ab9a-f22fc771ad0b)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4685e6dd-f396-4990-91c0-0a0dcea45d7c)
+![image](https://github.com/user-attachments/assets/8868cfd8-e8cc-4eaa-8808-5d9697b0eab5)
+![image](https://github.com/user-attachments/assets/19114dd7-d1fd-4b12-9c2d-f0b036c15628)
+
+* 1hr 44mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
