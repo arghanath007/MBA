@@ -4361,9 +4361,49 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 * Example.
 
 ![image](https://github.com/user-attachments/assets/c6390bfe-2543-4d55-bf15-9475dfd0f5df)
-![image](https://github.com/user-attachments/assets/e655eecd-2a40-4292-a011-9e782cdc0890)
+![image](https://github.com/user-attachments/assets/946e7c0c-07c7-4f3b-87e4-913f6657eac6)
 
-* Start from 1hr 13mins.
+* Example.
+
+![image](https://github.com/user-attachments/assets/2a470e2e-fd22-4d8b-a93e-02700d3d396b)
+![image](https://github.com/user-attachments/assets/d7078fd7-884d-4f05-b393-c11683e52c3e)
+![image](https://github.com/user-attachments/assets/0d32e61f-9048-433d-aa24-b63ab868504c)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/75082116-2eed-401d-ba3b-8ad58541e3bf)
+![image](https://github.com/user-attachments/assets/8fe330d9-63b1-4435-80de-424c5df1b8b1)
+
+* bought -> CP.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/052aa313-0a74-40a4-b10a-d027cf431c7f)
+ ![image](https://github.com/user-attachments/assets/2525c327-fa61-47c3-9688-e83a698b6610)
+
+* sells -> SP.
+* SP is the same.
+* Percentage is the same.
+
+![image](https://github.com/user-attachments/assets/d65f1faa-aed1-4c72-b2a7-cc56e6334863)
+![image](https://github.com/user-attachments/assets/5f167028-e9ab-452f-8e60-e622028bef78)
+
+* To get rid of the fractions we need the SP to be a multiple of '11 and 8' which is '88'.
+
+![image](https://github.com/user-attachments/assets/601972be-a794-4a86-a120-87be7701a8d3)
+![image](https://github.com/user-attachments/assets/4cfeef5f-f31d-461f-8cfe-b63e24de17bd)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0172f697-cdcc-44b4-b239-a760e7223d55)
+
+* LCM(11, 12) -> 11 * 12 -> 132.
+
+![image](https://github.com/user-attachments/assets/d5eec460-d96a-4ec3-912c-5435b4736ad6)
+![image](https://github.com/user-attachments/assets/2cf4528b-a53f-438b-ad66-96fae2f8774f)
+
+
+
+
 
 
 
