@@ -4492,6 +4492,78 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/0874052b-d684-47bd-a399-fff63a6b32f7)
 ![image](https://github.com/user-attachments/assets/67784130-d760-4e16-bf6e-67fae613e59a)
 ![image](https://github.com/user-attachments/assets/fbeb32aa-149e-4541-8222-ffa0865803cd)
+![image](https://github.com/user-attachments/assets/9520339d-6945-41c5-a84b-31a8573fc613)
+
+* 8% * 5yrs -> 40% -> 1.4 [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e7550b43-358d-4708-a895-031edb13e479)
+
+* 1800 - 1650 -> 150.
+
+![image](https://github.com/user-attachments/assets/272d7317-e0a9-4450-93f8-0d4771e8dae0)
+
+* 5 * 4 -> 20%
+* 4 * 5 -> 20%.
+* 20 + 20 -> 40%
+* 800 * 40/100 -> 320. 
+
+![image](https://github.com/user-attachments/assets/7f4cc0cf-0af0-497d-a277-a576b4f186b3)
+![image](https://github.com/user-attachments/assets/203b8df2-19ca-4eea-ad81-bbf6d012a2f6)
+![image](https://github.com/user-attachments/assets/02b0fa7e-4abb-4719-a30a-6b8c18fe3aec)
+
+* 200%/10yrs -> 20%.
+* 7/4 -> 7/4 - 1 -> 3/4 -> 75%.
+* 75%/5 -> 15%
+
+![image](https://github.com/user-attachments/assets/f1ec50af-c7b7-4a2d-866c-641cf171b425)
+![image](https://github.com/user-attachments/assets/0ed82597-88cc-457c-8467-8a758c48ab25)
+![image](https://github.com/user-attachments/assets/83377064-6562-4803-bf7e-f9928789f8a1)
+![image](https://github.com/user-attachments/assets/5fb453a7-5158-4dbd-b4f0-15337f11420a)
+![image](https://github.com/user-attachments/assets/48741ca6-0dd1-417a-bd99-8c7b007e73cf)
+
+* 6.5 * 8 -> 52%.
+* 7.5 * 8 -> 60%.
+* 5.5 * 8 -> 44%.
+
+![image](https://github.com/user-attachments/assets/75f8ab90-9c9b-49c7-b5bb-0101742ce640)
+
+* Interest(I) will be double, triple and not the amount(A). [**VERY IMPORTANT**]
+* Work on the interest(I) and find how many times it is increasing then we can say by that **time**, the **years** is also increasing.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7262a881-ecaf-40d6-a718-e24abd611c96)
+![image](https://github.com/user-attachments/assets/7ad5b658-9503-49df-ba8b-960a24b7d114)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
