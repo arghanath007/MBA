@@ -4432,30 +4432,63 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/4685e6dd-f396-4990-91c0-0a0dcea45d7c)
 ![image](https://github.com/user-attachments/assets/8868cfd8-e8cc-4eaa-8808-5d9697b0eab5)
 ![image](https://github.com/user-attachments/assets/19114dd7-d1fd-4b12-9c2d-f0b036c15628)
+![image](https://github.com/user-attachments/assets/ce6e0071-3591-41f2-b7b7-262f619a24f3)
 
-* 1hr 44mins.
+* P = 10 - 8 = 2.
+* P% = 2/8 * 100 = 25%
 
+![image](https://github.com/user-attachments/assets/b6f79393-9cf4-4cf0-989e-4673cc187cb1)
+![image](https://github.com/user-attachments/assets/f741f9c8-f06e-41ac-beb0-68cce4907605)
+![image](https://github.com/user-attachments/assets/a74b3c73-6cbb-48ba-b867-8cf1ea09b485)
+![image](https://github.com/user-attachments/assets/86b42486-e738-431b-a618-b0594df81d03)
 
+* 0.5 * 0.3 -> 0.35 -> 1-0.35 -> 0.65 -> 65%.
 
+![image](https://github.com/user-attachments/assets/4f65a30e-d6f8-440f-b59b-69571098ae68)
 
+* 0.6 * 0.8 * 0.7 -> 0.336 -> 1-0.336 -> 0.674 -> 66.4%.
 
+![image](https://github.com/user-attachments/assets/a6d51824-ea5b-4350-84b2-04d8c336fcb8)
+![image](https://github.com/user-attachments/assets/63b84a40-f18c-4a43-8eee-555b53953268)
 
+* **FREE** is not written in the question.
+* Answer -> No discount -> 0%. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/96d22468-8615-4387-b283-d267dc117508)
 
+* Buy 4 get 6 -> Buy 4 get 2 Free.
+* They mean the **same** thing only. [**VERY IMPORTANT**]
+* We are not getting '6' for Free.
+* 2/6 -> 1/3 -> 33.33%.
 
+![image](https://github.com/user-attachments/assets/b194290a-31cb-4730-9f86-f14c7d6e1f18)
+![image](https://github.com/user-attachments/assets/bf3ad57c-6346-495a-92d7-b4e3da165d0a)
 
+* Profit in terms of grams -> 250. [**VERY IMPORTANT**]
+* Selling -> 750.
 
+![image](https://github.com/user-attachments/assets/39e7558a-0ef0-4c2d-ba2e-cb328d72aeff)
+![image](https://github.com/user-attachments/assets/d735c635-66a1-4776-ac9c-ddcbd8bdcad8)
 
+* 200/800 * 100 -> 25%
+* 25% * 20% -> 1.25 * 1.2 -> 1.5 -> 50% 
 
+![image](https://github.com/user-attachments/assets/9ca3cbbe-0426-4e25-bd92-bd2a1860fff5)
+![image](https://github.com/user-attachments/assets/a4c7cfa5-5aaf-4821-8e4a-db00ca8e997d)
 
+* 1000 * 1.20 -> 1200.
+* 1200 - 800 -> 400.
 
+![image](https://github.com/user-attachments/assets/b23e1821-a68c-4e12-83e9-ab2d7cf76988)
+![image](https://github.com/user-attachments/assets/dae05572-56e9-43c2-8a69-21c230aa3eae)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/242e3dec-1f80-4fc4-af6e-fe4585bee85e)
 
+### SI and CI
 
-
-
-
+![image](https://github.com/user-attachments/assets/0874052b-d684-47bd-a399-fff63a6b32f7)
 
 
 
