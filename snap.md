@@ -22,6 +22,7 @@
 20) Vocab.
 21) Percentages. (Done)
 22) Profit and Loss and Discount. (Done)
+23) SI and CI.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -4489,6 +4490,31 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ### SI and CI
 
 ![image](https://github.com/user-attachments/assets/0874052b-d684-47bd-a399-fff63a6b32f7)
+![image](https://github.com/user-attachments/assets/67784130-d760-4e16-bf6e-67fae613e59a)
+![image](https://github.com/user-attachments/assets/fbeb32aa-149e-4541-8222-ffa0865803cd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
