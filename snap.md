@@ -4532,6 +4532,51 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 ![image](https://github.com/user-attachments/assets/7262a881-ecaf-40d6-a718-e24abd611c96)
 ![image](https://github.com/user-attachments/assets/7ad5b658-9503-49df-ba8b-960a24b7d114)
+![image](https://github.com/user-attachments/assets/146a20b9-9de6-4c01-bede-8fb7c278d863)
+![image](https://github.com/user-attachments/assets/40125823-6d7b-4387-a936-84930309f988)
+![image](https://github.com/user-attachments/assets/e1b6fe3a-e9f6-4d67-8675-6e3b3e9e39ce)
+![image](https://github.com/user-attachments/assets/e4c37d67-dd7e-41b9-ba60-c05822b4d81f)
+![image](https://github.com/user-attachments/assets/7133a4cd-86f4-4972-8b17-669d24dd4720)
+![image](https://github.com/user-attachments/assets/ac3f7882-4d32-493a-84b3-dc83fea1bd76)
+![image](https://github.com/user-attachments/assets/9741bb65-b522-4ea0-8557-5f13e1d0af78)
+
+* This is **easier** to solve.
+
+![image](https://github.com/user-attachments/assets/93c082d1-c3e7-4908-8c54-633dc45c2bd3)
+![image](https://github.com/user-attachments/assets/5d56adf4-7619-4fd5-97d4-f6e250030b39)
+![image](https://github.com/user-attachments/assets/93d00812-0b3b-4112-8a4f-7dcd0c45e3ff)
+
+* [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
