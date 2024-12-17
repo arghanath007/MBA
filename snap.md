@@ -4621,12 +4621,20 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ### Arrangements
 
 ![image](https://github.com/user-attachments/assets/7595ae65-15d1-4e37-b03b-4b50ef4c6fac)
+![image](https://github.com/user-attachments/assets/f3b57432-c759-41a9-9a51-6c0a7281f811)
 
+* Both are correct. 
 
+![image](https://github.com/user-attachments/assets/f234c0e1-0685-46ca-bf89-0117c9293c57)
+![image](https://github.com/user-attachments/assets/fb86a763-cb78-4b21-b5bd-62f1865ce640)
+![image](https://github.com/user-attachments/assets/931273c8-a1d7-4e7b-a67f-df7a6a37c73c)
 
+* Left -> Gap can be there.
+* Immediate left -> No gap there.
 
+![image](https://github.com/user-attachments/assets/0db158bf-82de-439e-a34b-f511180175ed)
 
-
+* 2 gaps -> 3rd to the left.
 
 
 
