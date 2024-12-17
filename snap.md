@@ -22,7 +22,11 @@
 20) Vocab.
 21) Percentages. (Done)
 22) Profit and Loss and Discount. (Done)
-23) SI and CI.
+23) SI and CI. (Done)
+24) Ratio and Proportion.
+25) Proportion and Partnership
+26) Time and Work.
+27) Arrangements. (Done)
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -4613,6 +4617,31 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/22e15173-e674-4641-9023-5831ded62c71)
 
 * [**VERY IMPORTANT**] 
+
+### Arrangements
+
+![image](https://github.com/user-attachments/assets/7595ae65-15d1-4e37-b03b-4b50ef4c6fac)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
