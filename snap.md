@@ -4636,6 +4636,81 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 * 2 gaps -> 3rd to the left.
 
+![image](https://github.com/user-attachments/assets/85dddef2-93a7-4016-9f9a-bea2313e92f0)
+![image](https://github.com/user-attachments/assets/f493a883-3ca9-4ad6-9e1c-0737c8f572ef)
+![image](https://github.com/user-attachments/assets/da574387-cdaf-4f99-b48c-1e3755aa5bbc)
+![image](https://github.com/user-attachments/assets/389c164a-ed80-4ddb-bb22-052cccd0a93f)
+![image](https://github.com/user-attachments/assets/5aa84907-e689-4ef8-b944-0610baef8e03)
+![image](https://github.com/user-attachments/assets/934c1cb0-51f4-4206-b6ed-5cf17d8a71c2)
+![image](https://github.com/user-attachments/assets/016c1756-5f7f-445c-85e0-2c21ef009bf7)
+![image](https://github.com/user-attachments/assets/09cc1804-8ec1-41cd-baab-8cc19066bce4)
+![image](https://github.com/user-attachments/assets/f40a3fc9-8039-466e-9374-b629fd53a28d)
+
+* As the boys are facing the south so their left and right directions are opposite to the girls who are facing the north. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0cf5a0b2-369b-4055-bd9d-4558067cae79)
+![image](https://github.com/user-attachments/assets/78d9f32e-edae-41c0-87c8-435187ea869c)
+![image](https://github.com/user-attachments/assets/b1d12707-b227-490f-9d39-2a8de40e8088)
+![image](https://github.com/user-attachments/assets/5819be9f-1310-4453-87e1-9e1072dcb50b)
+![image](https://github.com/user-attachments/assets/80249f6b-e5df-4913-8c8a-ca7be13fc455)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f1281999-2e3b-4490-8ff2-fa2dec9c4c21)
+![image](https://github.com/user-attachments/assets/376fc3f3-14c0-4f15-9d29-1e445aed20eb)
+![image](https://github.com/user-attachments/assets/cd249ab8-7429-4969-8e8a-521ac3b5dcf3)
+
+* Circle -> Left -> Clock-wise direction. [Formula] [**VERY IMPORTANT**]
+* Circle -> Right -> Anticlock-wise direction. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f1407b61-7739-4a90-9a8f-cb9c7c02c365)
+![image](https://github.com/user-attachments/assets/ab5f4788-8dcb-43c0-b37b-2205b8cf7b75)
+![image](https://github.com/user-attachments/assets/3e174b91-1e1a-4cc8-ab34-01c15a5c4d1b)
+
+* Who -> Immediate letter. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b0280324-9dd2-43b8-b518-72c6570839ad)
+![image](https://github.com/user-attachments/assets/7f622bc2-abef-44c6-8bfb-afa7540e89a1)
+![image](https://github.com/user-attachments/assets/eea5f9d3-9911-4e82-938e-6de04b391271)
+![image](https://github.com/user-attachments/assets/e742d0c8-6093-4e78-bf56-d3d00844e692)
+![image](https://github.com/user-attachments/assets/a0576dfe-9f5e-4b22-b547-f7229c754bb6)
+![image](https://github.com/user-attachments/assets/96bc4dcb-66d4-43d0-98f6-44283efbd255)
+![image](https://github.com/user-attachments/assets/165562e6-9767-47ce-87bf-72a414de8ee7)
+![image](https://github.com/user-attachments/assets/9460d542-c33b-4fe4-9544-105d005bc226)
+![image](https://github.com/user-attachments/assets/6b6510ec-732b-4ae7-a55d-a2ea0c04ba27)
+![image](https://github.com/user-attachments/assets/e2d1fa36-923d-44eb-8f40-9d654531d16e)
+![image](https://github.com/user-attachments/assets/5ce248ff-d060-432e-ab01-7d16c283d67a)
+![image](https://github.com/user-attachments/assets/5164725c-5a46-4d1e-bac6-23852686a2c4)
+![image](https://github.com/user-attachments/assets/3ec7be31-b893-46aa-8753-78c1a615e728)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
