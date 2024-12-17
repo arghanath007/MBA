@@ -27,6 +27,7 @@
 25) Proportion and Partnership
 26) Time and Work.
 27) Arrangements. (Done)
+28) Linear Arrangements.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
