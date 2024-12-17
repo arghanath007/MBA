@@ -4548,6 +4548,126 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c301ccae-3b11-442d-ae37-9628286a1ebe)
+
+![image](https://github.com/user-attachments/assets/536c217a-9964-4965-9e1a-60404e93f8e9)
+![image](https://github.com/user-attachments/assets/23d5a0e0-3854-4b43-9448-00d70b3dc562)
+![image](https://github.com/user-attachments/assets/b5737276-b590-45c0-880a-40c154042f77)
+![image](https://github.com/user-attachments/assets/6d1c1eaa-b039-4c56-a476-b1dcf608f326)
+![image](https://github.com/user-attachments/assets/47ebe0fe-ec0d-443d-862e-70c5a0933ae7)
+![image](https://github.com/user-attachments/assets/9af8b9bf-99d1-44eb-988c-e69622106ca2)
+![image](https://github.com/user-attachments/assets/98950bd2-ecaa-492e-85e1-bed9106cd23b)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f7392f91-2cb2-474d-a256-f7a26e5f450f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/317f1e88-02e1-47d7-b509-13e91634a825)
+![image](https://github.com/user-attachments/assets/584166b0-0461-4f72-8bee-9a2de4c15583)
+![image](https://github.com/user-attachments/assets/aee4dfc8-cba2-4dd1-b53b-6ee0a17752d1)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d0bdeea4-eadb-49b9-82ab-8a3078bb9f3e)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7cec5599-f3e3-47f4-a2b7-66f6a308d31c)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/355bf2e6-b855-4f55-a86a-deaba36e9f0c)
+![image](https://github.com/user-attachments/assets/4ac46a84-ba2d-4e71-9f83-856fbe7a1440)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c3826f31-611c-4849-83be-f5b5b972f480)
+![image](https://github.com/user-attachments/assets/9f6912da-61d9-4bdc-ac37-88d04aa08680)
+![image](https://github.com/user-attachments/assets/31da5b27-58f0-4565-b11c-3d259f292a8c)
+
+* Difference of 2yrs -> D2.
+* Difference of 3yrs -> D3.
+* [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/0c68f62d-b117-4c5e-b882-eb92ee1d7307)
+![image](https://github.com/user-attachments/assets/1304ef78-32be-419b-b690-1990ed3b73e6)
+![image](https://github.com/user-attachments/assets/a82f155c-0ffb-44c5-b75b-3681ae4a20de)
+![image](https://github.com/user-attachments/assets/80aaeee3-ab51-416e-97c6-b0c217224241)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/f573212e-7b54-4946-bb42-7358248aa45c)
+![image](https://github.com/user-attachments/assets/c0c9a9b8-18f9-46a8-8994-6918bbd52b5d)
+![image](https://github.com/user-attachments/assets/9d7405f0-a726-4fef-9c20-5cb410ff1d4f)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/3d779766-83bc-4995-bad6-08ddfb7f8daa)
+![image](https://github.com/user-attachments/assets/cd1a94ae-7592-4d4e-b900-4328bc81aaf3)
+
+* Installments. [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/d8caa6da-d5d8-4838-8a4c-ea8149fc30e2)
+![image](https://github.com/user-attachments/assets/22e15173-e674-4641-9023-5831ded62c71)
+
+* [**VERY IMPORTANT**] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
