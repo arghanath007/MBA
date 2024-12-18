@@ -4756,15 +4756,27 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 * [**VERY IMPORTANT**] 
 
+![image](https://github.com/user-attachments/assets/70679726-9e53-4053-a484-78f04800dd4a)
+![image](https://github.com/user-attachments/assets/47c175bd-5999-4769-b8dc-351fadfd9a8b)
+![image](https://github.com/user-attachments/assets/80dce05f-5a50-4f43-b95e-799c423c1fdc)
 
+* Long way.
+* **Short-cut** -> First check for '5' then '9' then '4'. [**VERY IMPORTANT**]
+* '5' is divisible by '15, 20, 30'
+* Remainder of '15' is '11'.
+* 11/5 -> Rem. is 1.
+* Remainder of '20' is '16'.
+* 16/5 -> Rem. is 1.
+* Remainder of '30' is '26'.
+* 26/5 -> Rem. is 1.
+* Now check the options where dividing by '5' gives remainder of '1'.
 
+![image](https://github.com/user-attachments/assets/36f5e05f-8621-40b2-b081-48b01e584d88)
 
-
-
-
-
-
-
+* Option '1' -> Rem. is 2.
+* Option '2' -> Rem. is 1 -> 56/5 -> 1.
+* Option '3' -> Rem. is 0.
+* Option '4' -> Rem. is 4.
 
 
 
