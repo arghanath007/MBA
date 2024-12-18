@@ -4857,6 +4857,63 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 * Option '3' -> Rem. is 0.
 * Option '4' -> Rem. is 4.
 
+### Machine I/P, O/P
+
+![image](https://github.com/user-attachments/assets/5f8c4a04-9917-405a-8506-47434c0bc5f8)
+![image](https://github.com/user-attachments/assets/f9c8c830-944a-41ff-9c52-53b0ccd292f1)
+![image](https://github.com/user-attachments/assets/cb49d96c-ac03-47e5-87db-714fc1d33751)
+![image](https://github.com/user-attachments/assets/475d89df-2f40-4e8c-8575-ffea0a04bdd0)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/35af5f3e-d4ba-4267-8fd0-08036a2783be)
+![image](https://github.com/user-attachments/assets/54b3fba8-d3d6-4466-9e66-a4f8211525f0)
+![image](https://github.com/user-attachments/assets/58354f6c-dcbf-4993-8cba-d2ec66ffc5e3)
+![image](https://github.com/user-attachments/assets/e4432e9f-5fa0-4faa-81d3-61ee0e5950c5)
+![image](https://github.com/user-attachments/assets/d9bd2a5f-2ff5-4c16-b354-d4a55be42592)
+![image](https://github.com/user-attachments/assets/e9b716e7-8953-4feb-a781-a14d5740e951)
+
+* [Question]
+* Left most part -> Smallest prime number.
+* Right most part -> Smallest composite number.
+
+![image](https://github.com/user-attachments/assets/b1c4c16b-f734-446b-9ef1-383b0b71aa10)
+![image](https://github.com/user-attachments/assets/65731698-34c2-40af-ace8-3a22820a8181)
+![image](https://github.com/user-attachments/assets/23ea0ba5-f794-4deb-98b8-3fbf1c4a2c08)
+![image](https://github.com/user-attachments/assets/bc982061-756e-4db5-81cd-41d553f9d41b)
+
+* [Question]
+* As there are '2' words starting with 'c' in the new input. So we cannot use the descending order logic. We basically have to do shifting.
+
+![image](https://github.com/user-attachments/assets/0614cf6f-20af-4e89-bb10-b2b360a949ea)
+![image](https://github.com/user-attachments/assets/b1cb017e-0b34-402a-9b7d-299a98741081)
+![image](https://github.com/user-attachments/assets/cb1a05ac-c3d8-4ec5-a4c6-6efd392db428)
+![image](https://github.com/user-attachments/assets/9a1bdde0-a7fc-40e8-a1c9-f056f855847d)
+![image](https://github.com/user-attachments/assets/a93c89ee-2c6e-4087-8608-5d848853beb8)
+![image](https://github.com/user-attachments/assets/2b15bcee-858b-4a78-a1dd-57d721bb208b)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/cac821f5-f18d-47f2-a4a4-cb734ff8d095)
+![image](https://github.com/user-attachments/assets/fb82e562-e8dc-4f87-ac8d-29a9c746c7f0)
+![image](https://github.com/user-attachments/assets/6588b103-2049-4775-b324-8d86b3fb258f)
+![image](https://github.com/user-attachments/assets/f4739378-5f07-4ac7-b945-3ce5112b1c1a)
+![image](https://github.com/user-attachments/assets/ab2e773d-a67e-46f3-b126-422fa979171e)
+![image](https://github.com/user-attachments/assets/61e613fe-0d70-4e34-9f70-5222f51ebd79)
+![image](https://github.com/user-attachments/assets/5fbb223f-ce41-4964-a446-35e4bce82e14)
+
+
+### Machine Input Output 2
+
+
+
+
+
+
+
+
+
+
 
 
 
