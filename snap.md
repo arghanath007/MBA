@@ -4751,59 +4751,22 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e084cc79-0f38-4673-be41-a3acbd14091d)
+![image](https://github.com/user-attachments/assets/5bc5efc0-5ae0-49ae-9c2f-eb2c54af02b2)
+![image](https://github.com/user-attachments/assets/eb4f27da-b6c7-45fe-9cca-0c80812379dc)
+![image](https://github.com/user-attachments/assets/1a83e1f1-5513-45a7-8630-3affc5cfa70a)
+![image](https://github.com/user-attachments/assets/c7e9e652-0860-4832-84b5-0ae9b316772e)
 
+* [**VERY IMPORTANT**]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/c144d542-f099-4a92-8ded-df42fa283fc0)
+![image](https://github.com/user-attachments/assets/a72b0503-4a3e-40fd-ada8-cf12ee6fbdc8)
+![image](https://github.com/user-attachments/assets/0e26df1a-42b7-4591-837b-d8655ce759e8)
+![image](https://github.com/user-attachments/assets/4c0d2412-dcd2-4c4a-9b6e-742f388fbde9)
+![image](https://github.com/user-attachments/assets/42e8885d-0006-4f2a-b3a7-632725f24c82)
+![image](https://github.com/user-attachments/assets/c7ae57ae-acc8-40e7-9bb3-20c81b8711d9)
+![image](https://github.com/user-attachments/assets/4d232428-7c33-430a-8b8d-d463c6e5dd3f)
+![image](https://github.com/user-attachments/assets/5815d5eb-e95b-48a0-b491-63f2aa300aa8)
 
 ### Number System
 
