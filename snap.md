@@ -4684,6 +4684,120 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/5ce248ff-d060-432e-ab01-7d16c283d67a)
 ![image](https://github.com/user-attachments/assets/5164725c-5a46-4d1e-bac6-23852686a2c4)
 ![image](https://github.com/user-attachments/assets/3ec7be31-b893-46aa-8753-78c1a615e728)
+![image](https://github.com/user-attachments/assets/2770311a-6aec-4e5d-8947-1a323c9f29d1)
+![image](https://github.com/user-attachments/assets/52776383-f238-4071-b8e9-0b57a5057595)
+![image](https://github.com/user-attachments/assets/75e0ddc3-c791-4ad6-8448-d477a702524b)
+![image](https://github.com/user-attachments/assets/7070d233-de9a-43f4-b1f3-0dde44ef314b)
+
+* We eliminated the options based on the conditions given in the question.
+
+![image](https://github.com/user-attachments/assets/58ee75e2-2398-4658-87f8-ee95abfb4901)
+![image](https://github.com/user-attachments/assets/c23a87af-13a1-4949-b61d-cb05caf0178d)
+
+* Ans -> Option **B**.
+
+![image](https://github.com/user-attachments/assets/8be3ad85-096e-4b26-ba97-b93f4f600021)
+![image](https://github.com/user-attachments/assets/b463b030-3a97-4cdd-af16-aab9646a02fe)
+![image](https://github.com/user-attachments/assets/67340973-cea2-4c35-902d-3144058b8a3b)
+![image](https://github.com/user-attachments/assets/b47a1676-f0f0-4b6e-83f8-99600191ff2b)
+![image](https://github.com/user-attachments/assets/d77bfdec-f683-47ab-92d0-b4a4c1f2a244)
+![image](https://github.com/user-attachments/assets/7fc01eb0-f5f5-4bed-a261-ee229d2ed9ba)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/6125e724-0e20-42fd-a063-2a3ee75be2d7)
+![image](https://github.com/user-attachments/assets/a42397a0-6d56-4992-8088-72c081fcdc2d)
+![image](https://github.com/user-attachments/assets/15b38479-7a61-43c0-8971-d33561f7f6d8)
+![image](https://github.com/user-attachments/assets/802e2b1a-962c-4ae1-81dc-55d72e6af353)
+![image](https://github.com/user-attachments/assets/7437dc1a-5dcc-468a-8735-28b555e792e0)
+![image](https://github.com/user-attachments/assets/90498d8c-2d33-4836-b261-c0bdcbe74fc2)
+![image](https://github.com/user-attachments/assets/07d50f2a-b6d2-4f7f-bee1-dfef99a59568)
+![image](https://github.com/user-attachments/assets/d777456a-6568-40ee-8489-f568a42bca53)
+![image](https://github.com/user-attachments/assets/2b1fb222-6a5c-4280-bb60-e9507f12054d)
+![image](https://github.com/user-attachments/assets/af0b2476-fac4-41f1-b28f-539ac82b3ba7)
+![image](https://github.com/user-attachments/assets/87c917e7-ad52-4258-82c8-20b8d4ccb8ec)
+![image](https://github.com/user-attachments/assets/3932837f-fbbd-422e-9e18-eee5a5879375)
+![image](https://github.com/user-attachments/assets/ad906384-0f29-4209-9466-678eed4cd115)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5fad4ded-fb9a-4756-94cd-716e69146e37)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/3b87ba66-906b-40a5-94c5-6dcc2549112d)
+![image](https://github.com/user-attachments/assets/371b5394-4cd1-4a2f-8678-9d2277cfbacb)
+![image](https://github.com/user-attachments/assets/523c3068-a67d-4918-8b36-b5c8c089a8fa)
+![image](https://github.com/user-attachments/assets/11abd66f-c408-47ba-bf86-27ecb3459735)
+
+* Then we cannot put **G and B**.
+
+![image](https://github.com/user-attachments/assets/6954f0b2-116c-47e3-8413-523a35277811)
+
+* 'B' cannot come in top shelf because 'G' comes above 'B'.
+* If 'D' is coming then 'E' has to come with 'D' also.
+* 'C' cannot come in the top shelf because 'C' comes with only '1' item and we know that 4th shelf has only '1' item on it. So top shelf has to have '2' items on it.
+
+![image](https://github.com/user-attachments/assets/b8471fab-897c-4b22-a85a-4daa14a8a3da)
+
+* Done on the 1st question of these set.
+
+![image](https://github.com/user-attachments/assets/b9b1db1a-9887-4658-a436-9ed1e7bf4caf)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ee66e6ae-e502-4490-b6df-aff2c3d923ab)
+![image](https://github.com/user-attachments/assets/eb214000-69ec-49ee-8842-5e35f1d54ff0)
+
+* [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
