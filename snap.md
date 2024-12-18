@@ -28,6 +28,7 @@
 26) Time and Work.
 27) Arrangements. (Done)
 28) Linear Arrangements.
+29) Number System.
 
 ![image](https://github.com/user-attachments/assets/46708447-d1c8-418f-ad31-cc4aeeb2b01d)
 ![image](https://github.com/user-attachments/assets/c4e8fa19-d65d-4d7b-9676-bb82e3f12bba)
@@ -4689,8 +4690,71 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 
 
 
+### Number System
 
+![image](https://github.com/user-attachments/assets/48c517b2-3781-4707-b831-859b9ca10f71)
+![image](https://github.com/user-attachments/assets/38ff83da-ba42-477a-ab7f-1ac2cb5e1653)
 
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/7dbd9aec-4827-4bea-b6ec-43ad9014b5ed)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/a433550a-c9c8-4715-ac94-47aa766271fc)
+![image](https://github.com/user-attachments/assets/189c0580-75a2-496c-bef6-bc2c1f690457)
+![image](https://github.com/user-attachments/assets/9c7cebf1-6670-4909-a190-f2088150b1ba)
+![image](https://github.com/user-attachments/assets/c1981732-fd5c-4430-a733-2aa20da8621f)
+![image](https://github.com/user-attachments/assets/0e4f7db6-d849-4b32-aa25-f3dc8bd55c52)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9ec0f326-3d18-4a5f-885a-44a28752bdb9)
+![image](https://github.com/user-attachments/assets/fe217c5f-301a-467b-b816-2222f2ba8abf)
+![image](https://github.com/user-attachments/assets/f8c2fa3d-14db-41b3-bab5-b6411cf75e23)
+![image](https://github.com/user-attachments/assets/19397feb-824c-43f1-97da-bed7ced3d88f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f8706185-fe0d-4459-b9a4-12adcae406df)
+![image](https://github.com/user-attachments/assets/7562150e-331a-492b-8503-88e37918088a)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0be8fbde-6f35-410b-94fc-b960c5e09f91)
+![image](https://github.com/user-attachments/assets/87cc60df-1cf2-447d-ac32-1236ee1ea90b)
+![image](https://github.com/user-attachments/assets/9123ebc4-0577-4493-9717-1ac296b8e307)
+
+* No. of zeroes -> 2 * 5 = 10 -> 2.
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/ff68ef18-d528-4b13-bfa1-d563e4a1f6fb)
+![image](https://github.com/user-attachments/assets/5be91911-6325-42e6-b82b-5fb4b07aa80d)
+
+* Factor and divisor are the **same** only.
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/1b9b9eb1-4598-4188-9897-2ad678a73b3f)
+![image](https://github.com/user-attachments/assets/a8a56207-25c0-47ad-9170-0dc6c36261bb)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/ab809cbc-a088-4a8d-9486-e752aac51a69)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/e57d6279-f70d-470a-a26a-223ebba6b2ca)
+
+* [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/fba08122-61d5-4ec3-b51a-99d4916ec278)
+![image](https://github.com/user-attachments/assets/7b0c732b-235a-459c-886e-8689de560447)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a69a4d66-8f7c-490b-ae61-bde1cefb9c00)
+
+* [**VERY IMPORTANT**] 
 
 
 
