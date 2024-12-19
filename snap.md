@@ -4981,6 +4981,51 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/30a111ad-8401-46b6-9f27-db6e5af3a52f)
 ![image](https://github.com/user-attachments/assets/40702c3a-c487-4bc7-a63e-ab3ae9dd1241)
 ![image](https://github.com/user-attachments/assets/e6ca4179-5f6b-4697-a87b-23056f9d795a)
+![image](https://github.com/user-attachments/assets/59971193-e086-4013-93dc-7a0889dad7f8)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/f58ef56e-3aed-427d-89e7-077c16e03976)
+![image](https://github.com/user-attachments/assets/195d832e-6a50-47f4-8fe4-8a4a949e93cc)
+![image](https://github.com/user-attachments/assets/e2578ac5-9528-4e2f-922e-1174692a6187)
+![image](https://github.com/user-attachments/assets/dedb05a2-cffb-43d5-9dc9-c68a3b9a1078)
+![image](https://github.com/user-attachments/assets/30d12ea5-769e-4741-b428-5e92552f7738)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/6b5cfd10-b5bb-4640-9ebe-385193eb6a5d)
+
+* ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+![image](https://github.com/user-attachments/assets/08b9256c-c002-486e-bb44-7715f0f8c273)
+
+* 4,4,4,4
+* 4,4
+* NL
+
+![image](https://github.com/user-attachments/assets/adb11a0e-b767-458a-a7dd-acb0acf0b4e3)
+
+* 2,2,2,2
+* 2,2,2,11
+* MSYN [dOUBT]
+
+![image](https://github.com/user-attachments/assets/3f1977d4-bca5-439b-8b56-9c2f749df021)
+![image](https://github.com/user-attachments/assets/13e4c3b5-5bff-4d3f-98a5-bc3aedcb4cac)
+
+* 10,24,44,70
+* SYOTI -> 5,10,15,20,25. [Formula][**VERY IMPORTANT**]
+
+### Coding, Decoding and Directions
+
+
+
+
+
+
+
+
+
+
 
 
 
