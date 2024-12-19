@@ -4902,8 +4902,118 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/61e613fe-0d70-4e34-9f70-5222f51ebd79)
 ![image](https://github.com/user-attachments/assets/5fbb223f-ce41-4964-a446-35e4bce82e14)
 
+#### 2 
 
-### Machine Input Output 2
+![image](https://github.com/user-attachments/assets/47f3f558-a447-4ee2-89c9-f2658acdcc7d)
+![image](https://github.com/user-attachments/assets/c7321f9c-856f-4fe2-8f55-4014722ce4d1)
+![image](https://github.com/user-attachments/assets/c5673ff1-57f7-442a-9da0-8dd8e53c9018)
+
+* Question.
+
+![image](https://github.com/user-attachments/assets/775ed2ed-0e9d-4a9a-a03d-e5bcc67a1409)
+![image](https://github.com/user-attachments/assets/d96c9a6c-37bb-4ecf-90fe-212c0100ba60)
+![image](https://github.com/user-attachments/assets/b8ae9885-a190-4161-9e05-a687637b9176)
+![image](https://github.com/user-attachments/assets/3385a1e5-33c5-4067-8f85-b0af0a7cad9d)
+
+* Question.
+* Left most -> Numbers in descending order.
+* Right most -> Words arranged in increasing order of no. of letters in each word.
+
+![image](https://github.com/user-attachments/assets/974cd5a6-21c0-4f77-8c1c-73aef465b80b)
+![image](https://github.com/user-attachments/assets/2df491c3-a2e0-4897-bdbe-3d20a66ee3b6)
+![image](https://github.com/user-attachments/assets/85b3597a-c08d-43e8-8c7f-962d4b6d842f)
+![image](https://github.com/user-attachments/assets/f1fbd500-c0c7-4f45-b79c-80f3b80f78f7)
+![image](https://github.com/user-attachments/assets/862f8ad0-2eb7-43f5-87f4-f95c44ef0fbe)
+
+* Question.
+
+![image](https://github.com/user-attachments/assets/72b4cdc9-62b3-4126-8fcb-2047cceb5e3d)
+![image](https://github.com/user-attachments/assets/d66df68a-58d7-4645-b459-6abe7f578051)
+
+### Series
+
+![image](https://github.com/user-attachments/assets/55b2f36f-c5aa-4bff-9f66-e4f8b13a40a5)
+![image](https://github.com/user-attachments/assets/af5abc1f-4bb2-45ae-a953-e524111dff41)
+
+* 1996 -> Leap year -> 29 days in the month of feb(2). [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/27d8ac66-98ed-4076-b0a5-59cf301ca2e8)
+
+* Ignore the signs and calculate using their absolute values. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/49076d9c-1dd1-4389-a4f9-000f32cf677b)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/23c9113f-3400-48c1-bc05-be38acd9c9e2)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/8c5e186d-3796-4906-8f20-4871b89225cc)
+
+* Multiplying with '1.5' everytime.
+
+![image](https://github.com/user-attachments/assets/a0ac1d6d-41c3-4271-bb83-100b50a2a022)
+
+* 3,-1,3, -1
+* e, j
+
+![image](https://github.com/user-attachments/assets/c398041b-9b84-489a-a2a8-215aa9c5f2b2)
+
+* -20, -25, -30, -35, -40, - 45
+* 0 -> -5.
+
+![image](https://github.com/user-attachments/assets/ccb9e191-5631-4420-8315-2aa824946f47)
+
+* [Question] 
+
+![image](https://github.com/user-attachments/assets/ffe49faf-c0d6-46a8-b963-7508db58c595)
+
+* This is not working.
+
+![image](https://github.com/user-attachments/assets/6a8b6503-982c-4b8b-b64b-7fef12d06c48)
+![image](https://github.com/user-attachments/assets/5abd65e7-7525-403a-b032-751fbb4d9fd5)
+
+* Option **B** -> J10R.
+
+![image](https://github.com/user-attachments/assets/3788c66d-c75b-4039-8c40-383355553a8e)
+![image](https://github.com/user-attachments/assets/d4c44dbb-3260-46ea-8ae7-c649d58f2c43)
+![image](https://github.com/user-attachments/assets/30a111ad-8401-46b6-9f27-db6e5af3a52f)
+![image](https://github.com/user-attachments/assets/40702c3a-c487-4bc7-a63e-ab3ae9dd1241)
+![image](https://github.com/user-attachments/assets/e6ca4179-5f6b-4697-a87b-23056f9d795a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
