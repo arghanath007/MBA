@@ -5046,8 +5046,18 @@ fg![image](https://github.com/user-attachments/assets/0b889dfb-130a-4b92-ac87-65
 ![image](https://github.com/user-attachments/assets/05a15ba4-2c05-45f3-8421-9cee5e2c5083)
 ![image](https://github.com/user-attachments/assets/9564a791-3057-4bf9-8380-1472b4eae35f)
 
-
 ### Arithmetic
+
+![image](https://github.com/user-attachments/assets/3beee86e-a04e-46c9-972f-a71f0573f3bb)
+![image](https://github.com/user-attachments/assets/28d35da9-5475-43ec-8896-05ffc5b2d542)
+![image](https://github.com/user-attachments/assets/b446065c-dc12-4df4-9a55-c845af347ddd)
+![image](https://github.com/user-attachments/assets/761603ff-77aa-4882-a815-9e53992041eb)
+![image](https://github.com/user-attachments/assets/6d2bd0f6-2873-46db-bedc-c1e7d35a753c)
+![image](https://github.com/user-attachments/assets/9118c0c5-4a08-4a82-ad6e-b6bf462c5550)
+![image](https://github.com/user-attachments/assets/78d0250c-199f-4316-b6b1-3fc5d9a96595)
+![image](https://github.com/user-attachments/assets/86f7a6c9-07c7-4a55-a246-ac3ac57a6723)
+![image](https://github.com/user-attachments/assets/fab53ba0-6429-4091-8605-2082e4fbde08)
+
 
 
 
