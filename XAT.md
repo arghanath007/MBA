@@ -69,6 +69,115 @@
 
 * Logically Curious.
 
+![image](https://github.com/user-attachments/assets/c084cbfe-f653-443f-a135-e6947d28a6f6)
+
+* Premise -> It was the **why**.
+* **Why** helps us to reach the **conclusion** which is nothing but the **what**.
+* In the middle something is working which is called as the **assumptions**.
+* Premise + assumptions -> Conclusion.
+* Premise -> They are written.
+* Conclusion -> They are mostly written.
+* Assumptions -> They are unwritten.
+* This is called as **argument**.
+
+![image](https://github.com/user-attachments/assets/95dceb0b-9948-4805-8032-78fd7b7c1fd0)
+![image](https://github.com/user-attachments/assets/7820b6e1-0321-49ff-8420-378d51edf063)
+![image](https://github.com/user-attachments/assets/584cc695-5477-4290-a4ac-13813c6715cd)
+
+* Whatever we will deduce from an argument is called as **inference**.
+
+![image](https://github.com/user-attachments/assets/8d22278b-85fa-4537-a92d-3e47d80fe62d)
+
+* Option **C**. [**VERY IMPORTANT**]
+* Option **B** -> only -> strict word.
+
+![image](https://github.com/user-attachments/assets/113c6159-6fb0-4abb-aa34-4a3a6d10f51f)
+
+* If this is unpopular with management then it should be modified.
+* If it is not modified then it should be not unpopular with the management.
+
+![image](https://github.com/user-attachments/assets/e5466369-b462-4fb0-83ce-95915437844d)
+
+* If this is unpopular with workers then we should adopt a new policy.
+* If new policy is not adopted then it should be not unpopular with the workers.
+
+![image](https://github.com/user-attachments/assets/41059752-a26a-46e6-91f0-81a4b8f5f59a)
+
+* To introduce a **logical negation**, we either **intoduce a not** or we **drop a not**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3be35c7d-d654-4638-943b-e22b02ca3ce1)
+![image](https://github.com/user-attachments/assets/468bdf6b-7bab-4386-850b-e78f53198f72)
+
+* Answer.
+
+![image](https://github.com/user-attachments/assets/5ee6778a-5522-44b3-af95-b67eecacee65)
+![image](https://github.com/user-attachments/assets/a14d6afc-2f9a-44e7-901b-5b4474beea38)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7ecb1758-60be-4098-8891-ee8a2ad19035)
+![image](https://github.com/user-attachments/assets/7ef4117e-3755-42b1-b2f0-75427e96bfd1)
+![image](https://github.com/user-attachments/assets/86266492-1c87-4687-aeaa-8ae51484dc52)
+![image](https://github.com/user-attachments/assets/88ac3fd5-7aa4-4150-87eb-e1a7f30a8d5f)
+
+* Option **A**.
+* Do not overthink -> Only focus on the scope of the evidences given. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b55e7803-00f4-45c0-9a9b-66f2891e7fdb)
+
+* Option **E**. [Correct]
+
+![image](https://github.com/user-attachments/assets/bd5bd32d-21ee-484b-b013-2d5680d97d34)
+![image](https://github.com/user-attachments/assets/ff8f1d4e-9c3f-439a-86ea-254320dbbb59)
+![image](https://github.com/user-attachments/assets/97ecbb08-40a4-475c-89ff-f9276899a0dc)
+![image](https://github.com/user-attachments/assets/f770ddd3-9c2d-49a6-b24a-62b6313a402b)
+
+* Corelated -> They are related together. [Meaning]
+* Co -> Together. [Meaning]
+* Causation -> the act of causing something to happen. [Meaning]
+* Option **D** -> Vague option.
+
+![image](https://github.com/user-attachments/assets/6d601b64-c342-44d4-8a22-41b0407694a7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
