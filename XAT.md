@@ -80,7 +80,7 @@
 
 
 
-### VALR
+### Practice Questions
 
 ![image](https://github.com/user-attachments/assets/9ecea9a5-887b-4982-902d-c58d942175e4)
 
