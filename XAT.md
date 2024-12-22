@@ -138,6 +138,35 @@
 * It's me -> Wrong.
 * It's I -> Correct.
 
+![image](https://github.com/user-attachments/assets/5dfb04d0-6d02-4439-8822-188f9e350228)
+![image](https://github.com/user-attachments/assets/68e6d9ae-7e3c-4752-a9d7-5a40177e067f)
+![image](https://github.com/user-attachments/assets/525125db-3774-41be-900e-e41b2eca18de)
+
+* Option **A**. [Didn't mention answer]
+* inconsistent -> displaying a lack of consistency -> contradictory. [Meaning] [**VERY IMPORTANT**]
+* Logically it does not make sense. [**VERY IMPORTANT**]
+* Option **E** -> Cannot Be Determined(CBD) -> Extreme statement.
+
+![image](https://github.com/user-attachments/assets/3b3e1c2e-9d03-4c26-aade-f3a225941a5c)
+![image](https://github.com/user-attachments/assets/6355a721-cc9f-47a3-97d4-76e4d8e1f719)
+![image](https://github.com/user-attachments/assets/4721584e-737f-4ea2-9923-c8c82eebbf2d)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/c407d2ff-3bf9-4a87-87f4-b39851fc8138)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
