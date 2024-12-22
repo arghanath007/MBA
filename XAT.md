@@ -13,6 +13,9 @@
 ![image](https://github.com/user-attachments/assets/6aee32d1-230e-4bf5-b864-fea1672ad6d8)
 ![image](https://github.com/user-attachments/assets/911b4f04-ddd9-444e-b93c-c6a253237f43)
 ![image](https://github.com/user-attachments/assets/e2749d29-b1cb-4e7a-83fd-b0437a977797)
+![image](https://github.com/user-attachments/assets/63a8f968-03ec-4cdd-b97d-6914734df87f)
+
+* GMAT Club topics to do.
 
 ## VA and LR
 
@@ -139,12 +142,60 @@
 
 ![image](https://github.com/user-attachments/assets/6d601b64-c342-44d4-8a22-41b0407694a7)
 
+* [Answer]
 
+![image](https://github.com/user-attachments/assets/d1579acc-dd9f-423c-b72a-cd9a7731a0a3)
+![image](https://github.com/user-attachments/assets/7dc51003-1b73-4ad1-9cc8-b814b5e63147)
 
+* Option **D**. 
 
+![image](https://github.com/user-attachments/assets/47f0fe6a-1402-47a0-926f-308466388418)
 
+* Option **A**.
+* Excerpt -> a passage selected from a larger work ->  take out of a literary work in order to cite or copy. [Meaning]
 
+![image](https://github.com/user-attachments/assets/a714a399-613f-4677-baf8-0df4d6856bea)
+![image](https://github.com/user-attachments/assets/33d66702-6e63-47c5-9ec6-12d94435479d)
 
+* Option **C**. [Got Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f97baa7e-54de-4af1-89ad-0666169709de)
+![image](https://github.com/user-attachments/assets/5390db7f-1f57-4118-b114-56c23424837f)
+![image](https://github.com/user-attachments/assets/0392f4aa-5204-46e4-89a0-2b16313284be)
+![image](https://github.com/user-attachments/assets/a01eb36f-8582-424f-a4cd-4c04262f65b4)
+
+* Option **E**. [Got Wrong] [Answer]
+* Option **A** -> every -> can't say.
+
+![image](https://github.com/user-attachments/assets/5dff1507-b546-4dbe-bc36-632523e75fd5)
+![image](https://github.com/user-attachments/assets/1d68e600-58db-422d-90e6-9070347ed7a7)
+![image](https://github.com/user-attachments/assets/ef312232-4dcb-4f0d-84e7-e35fb8f6361a)
+![image](https://github.com/user-attachments/assets/13dae055-0d5e-40ea-9bf3-5d9601ef120e)
+
+* Last 2 lines belonged to the author.
+* Sporadic -> recurring in scattered and irregular or unpredictable instances. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d7dd7f16-d5a0-4818-a676-2e962bdeed09)
+![image](https://github.com/user-attachments/assets/ccaa741b-bda0-4d08-9025-fcae8edb335d)
+
+* Not all -> Includes '0' also. [Meaning]
+
+![image](https://github.com/user-attachments/assets/4827e630-33a3-419c-a845-8aa6a3315aeb)
+![image](https://github.com/user-attachments/assets/d4a8e090-a463-429e-a9ec-770969a8141a)
+![image](https://github.com/user-attachments/assets/e8b4c06f-9c1e-4c9e-9a37-248af60006b5)
+
+* Option **D**. [Correct]
+
+![image](https://github.com/user-attachments/assets/0890f72a-5d2d-4529-a1f9-22705bae5f6e)
+![image](https://github.com/user-attachments/assets/cb2d057c-63e4-4e30-8c76-bcfee3cef860)
+
+* bacchanalian -> used of riotously drunken merrymaking. [Meaning]
+* avert -> prevent the occurrence of; prevent from happening. [Meaning]
+
+![image](https://github.com/user-attachments/assets/02e6e77c-1e1b-45c2-9c78-df5dbf285955)
+![image](https://github.com/user-attachments/assets/bf016bf9-71f0-4015-90f9-d2aba27ba330)
+
+* [Answer]
 
 
 
