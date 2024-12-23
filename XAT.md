@@ -315,153 +315,481 @@
 
 ![image](https://github.com/user-attachments/assets/c407d2ff-3bf9-4a87-87f4-b39851fc8138)
 
+## Grammar
 
+![image](https://github.com/user-attachments/assets/fd7bee1d-7978-4791-a695-a801721ae5bb)
+![image](https://github.com/user-attachments/assets/3c72dab5-1ed2-42a3-afb6-65cbf89943ea)
+![image](https://github.com/user-attachments/assets/4d8ead6c-87e4-4e51-8966-fe6f551bafae)
+![image](https://github.com/user-attachments/assets/88794a08-321a-4663-9d2d-3c8a6860f759)
 
+* Option **C**.
+* A -> Article.
+* Articles are also adjectives. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/fdbf9293-e352-4702-b4b0-3f143a5611b3)
+![image](https://github.com/user-attachments/assets/d9a72abb-19dc-441f-a77a-af68d4c53d4a)
 
+* It is a **name** of anything.
+* Noun. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e32be764-d7fd-4a30-8bef-12e15eddd66b)
+![image](https://github.com/user-attachments/assets/9742e6c0-a317-4351-9444-dba111153696)
+![image](https://github.com/user-attachments/assets/19340cbc-c757-4548-9a6e-7fefe7fd2225)
+![image](https://github.com/user-attachments/assets/c93cf482-c0d1-40d8-932e-0b9c2ef58544)
 
+* Option **D**.
+* They -> Pronoun.
+* No noun is defined before where **they** should be referring to, so it is **wrong**.
+* which -> fieldwork.
 
+![image](https://github.com/user-attachments/assets/eb6410b7-c07d-4a7c-894d-a0de1bcd83d5)
+![image](https://github.com/user-attachments/assets/e340316f-f340-4c40-9af6-dac51f323594)
 
+* Logic -> Order of adjectives.
+* Don't try these **type of questions**. Skip them. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a3cda96a-8041-4b2f-9e6f-179d8fb2c501)
+![image](https://github.com/user-attachments/assets/f09a7870-6beb-4719-9c1f-04a6fd6bc447)
 
+* Option **B**. [Got Wrong] [**VERY IMPORTANT**]
+* IDK -> I Don't Know.
+* IDC -> I don't care.
 
+![image](https://github.com/user-attachments/assets/2ba64909-5abf-4f33-8d8f-cde0460d804b)
+![image](https://github.com/user-attachments/assets/02c311b7-8a6c-4359-9671-429712868c89)
+![image](https://github.com/user-attachments/assets/b6d94452-c23d-4693-9c55-34f95e32cb61)
 
+* Articles.  [Formula] [**VERY IMPORTANT**]
+* A/An -> Depends on the **pronunciation**.
+* indefinite ->  vague or not clearly defined or stated -> not decided or not known. [Meaning]
+* Definite -> precise; explicit and clearly defined ->  known for certain. [Meaning]
 
+![image](https://github.com/user-attachments/assets/6d2847b6-9d7f-4357-9eec-a0777966be43)
 
+* advice -> Uncountable/not countable.
+* That's why we cannot put 'an' before "advice".
 
+![image](https://github.com/user-attachments/assets/539b8074-f22e-484a-bd7b-a3ed425d2b2d)
 
+* peace -> Uncountable/not countable.
+* Piece -> countable.
 
+![image](https://github.com/user-attachments/assets/083dcf0d-e259-429e-b5c3-8d09b6cacff1)
+![image](https://github.com/user-attachments/assets/b18f62c9-73e0-483c-be94-61f905f77ce2)
 
+* I likes you.
+* With "I" , "likes" is wrong. So change what is wrong which is "likes" instead of changing "I". [Formula] [**VERY IMPORTANT**]
+* Don't change "I" according to "likes", change "likes" according to "I". [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2f87b90b-e336-4d8f-afbe-3adaa7a3c2bd)
+![image](https://github.com/user-attachments/assets/6c072938-b752-4616-b4be-4cac8e6c18e2)
+![image](https://github.com/user-attachments/assets/7079bd53-09a0-4fa6-bb46-262b03b4cd05)
+![image](https://github.com/user-attachments/assets/97eced5b-4a9e-44ba-b844-a704ae308697)
 
+* The secretary to the board and principal of the college **is** honored **guest** tonight. [Correct] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5437167d-a89d-46b0-acde-64a2fe23991f)
+![image](https://github.com/user-attachments/assets/9ed1e0b1-6a93-4d8f-993d-174cdba1aee0)
 
+* "**An**" word. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/dd15e39f-c14b-4f33-9664-3a58bdb30b81)
+![image](https://github.com/user-attachments/assets/812086aa-ff16-40fe-b838-f6de5c1c3713)
+![image](https://github.com/user-attachments/assets/449db33e-746b-43b9-abc5-bf1b8f14cc91)
 
+* First letter of the word we are using -> Sounds like the **vowels** -> a, i, o, ee, ai, ae.  [Formula] [**VERY IMPORTANT**]
+* heir -> eir -> 'h' is silent.
+* one -> no sound of vowels. [**VERY IMPORTANT**]
+* European -> no sound of vowels. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e2d9c5f9-edcd-49c1-8e99-3bf4e6c85510)
 
+* "**The**" word. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2ec72ad7-655c-4c83-97fc-556c12d532c7)
+![image](https://github.com/user-attachments/assets/52df3797-b443-4f67-82c2-de40b2d4e026)
+![image](https://github.com/user-attachments/assets/dc8eff6c-482f-4064-b88e-d59a2d9f1a38)
 
+* A gift -> Wrong.
+* The gift -> Correct.
 
+![image](https://github.com/user-attachments/assets/bf0eb292-4660-480f-b2f2-2baaa4c9f505)
 
+* [Examples]
 
+![image](https://github.com/user-attachments/assets/705fdcff-08c9-4bfb-b87c-918f8a5c8cf9)
+![image](https://github.com/user-attachments/assets/5e320c9b-5bd5-46ee-8a93-a4819365e8cc)
 
+* [Formula] [**VERY IMPORTANT**]
+* Rich, poor -> Adjectives. [**VERY IMPORTANT**]
+* The rich, The poor -> noun -> plural noun. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/921310db-21c6-46f0-b16a-f897a8b7c701)
+![image](https://github.com/user-attachments/assets/371a5d25-08d5-41ac-bb9b-9fd5d1a4d552)
+![image](https://github.com/user-attachments/assets/4bf1a1d5-13de-460d-a891-0f15180c5994)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/3bd36bb5-ce87-4102-8aad-e8a979a2620c)
+![image](https://github.com/user-attachments/assets/690c4d76-204a-48ab-b971-aa55f84292c4)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e11df3f3-c450-44bb-94a6-660633db6217)
+![image](https://github.com/user-attachments/assets/7879e793-6085-44da-ac3d-9fc7b0bc2f06)
+![image](https://github.com/user-attachments/assets/fb521a2b-a915-409b-a545-e91718a29f01)
+![image](https://github.com/user-attachments/assets/ffbb05ba-70c7-4926-b38a-0c41a7d8420c)
 
+* Option **C**. [Correct] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/44890e2b-0777-4e82-a67b-96b9a2917a04)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/425ac6d1-1704-47a8-890f-1e4fdcb4d5a7)
+![image](https://github.com/user-attachments/assets/fcae797c-0966-4ae7-a523-853161024b92)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5f61b68a-fc15-4dc4-a885-3bc03e858fcd)
+![image](https://github.com/user-attachments/assets/86583573-d781-4451-b988-6d50a649580c)
+![image](https://github.com/user-attachments/assets/86dba4f5-6dbc-4ea7-b01c-883ef27d56d8)
+![image](https://github.com/user-attachments/assets/654e440b-0386-4b1d-81e2-a4e4f5ec9703)
 
+ * He climbed the mount everest -> Wrong.
+ * He climbed mount everest -> Correct.
 
+![image](https://github.com/user-attachments/assets/8ffd7c28-e6ca-48db-952a-9ea5d3c17361)
+![image](https://github.com/user-attachments/assets/5f241c78-5a7e-44ca-bb3e-52c971964dd5)
+![image](https://github.com/user-attachments/assets/10f5d6e7-00b2-40b7-9d46-999ae3d78bde)
 
+* I am going to the North America today -> Wrong.
+* I am going to North America today -> Correct.
 
+![image](https://github.com/user-attachments/assets/12567454-d8de-4660-90bc-1502e4a3d9df)
+![image](https://github.com/user-attachments/assets/8d1500d9-451a-46bf-89a7-a9d67a77ae26)
 
+* Mamata Banerjee is the CM of the West Bengal -> Wrong.
+* Mamata Banerjee is the CM of West Bengal -> Correct.
+* West Sahara -> Correct.
+* The West Sahara -> Wrong.
+* I am going to the East tomorrow -> Correct.
+* The Eastern china -> Wrong.
+* Eastern china -> Correct.
+* [Examples] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a84e4d2a-eee3-45dc-8d42-9c40eae398bf)
+![image](https://github.com/user-attachments/assets/35bc458f-f17a-4c4f-a294-bcc614e3fb12)
 
+* I have played the guitar since I was a kid -> Correct.
+* Do you play the violin? -> Correct.
+* I sell guitars -> Correct.
+* I sell guitars on tuesday and violin on monday -> Correct.
 
+![image](https://github.com/user-attachments/assets/91cea676-88a1-4d77-91d4-1699fa97c581)
+![image](https://github.com/user-attachments/assets/de89c68a-d065-4f00-9d06-11f4b7b4905c)
+![image](https://github.com/user-attachments/assets/1f8b08f5-1a07-4604-bf0d-47187664e1f9)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/411e535f-a8ff-4585-ade2-b30c04f38a72)
 
+* Tonight we take the 7.30 from huda city centre -> Correct.
+* Tonight we take the 7.30 from the huda city centre -> Wrong.
 
+![image](https://github.com/user-attachments/assets/9e1a323b-4f1a-4d79-94e1-f8e40b27db5d)
+![image](https://github.com/user-attachments/assets/7afdfd79-4d6c-4f6c-805d-950ddd4aedda)
+![image](https://github.com/user-attachments/assets/75e79941-0af6-4054-98ce-4ac8694bb4a3)
 
+* Hyphernated words -> nouns and sometimes adjectives.
 
+![image](https://github.com/user-attachments/assets/3485bd75-a42d-4180-abb3-99d937daf8da)
+![image](https://github.com/user-attachments/assets/29053521-9882-40b7-8814-dad468404b4e)
+![image](https://github.com/user-attachments/assets/ace4ebc1-3027-4e7c-a5d3-faf3b2d3f152)
 
+* As evening fell, lights flickered on and the employees logged into their computers -> Correct.
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/28153229-223c-415b-a28f-a025d9c0dc45)
 
+* Hyphen -> '-'.
+* We cannot use it as a **verb**. We can use it as a **noun or an adjective**.  [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/0178af56-9a4f-49d7-964f-c863d56aa99c)
 
+* take-off -> verb -> hypehn cannot be there.
+* After the initial take off was aborted, the plane finally took off by 11pm.
 
+![image](https://github.com/user-attachments/assets/27bd6ea1-f846-4473-beee-2a7138b5522d)
 
+* Put 'a, an, the' before it(word). [Formula] [**VERY IMPORTANT**]
+* He is tall.
+* Put 'a, an, the' before "tall".
+* He is the tall -> Doesn't make sense or doesn't sound right.
+* Tall -> Cannot be a **noun**.
+* Put 'a, an, the' before a word and it **doesn't make any sense**, it **is not a noun**.  [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/41b43031-c030-4731-a20c-c937f73a23d7)
 
+* He is boy.
+* He is a boy -> He is the boy => It makes **sense**. 
+* To check a word if it is a **noun or not**? -> Put 'a, an, the' before it(word). [Formula] [**VERY IMPORTANT**]
+* If it makes **sense** -> It is a **noun**. [Formula] [**VERY IMPORTANT**]
+* If it doesn't makes any **sense** -> It is not a **noun**. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/45f2ef54-8946-48bc-a0a5-808ab33e66f8)
 
+* "The" is making sense with "take-off", so it(take-off) is a **noun**. It(take-off) is a **noun** which means that **hyphen(-)** will come. No problem. [**VERY IMPORTANT**]
+* "The" is not making sense with "take off", so it(take off) is a **verb**. **Hyphen(-)** will not come. [**VERY IMPORTANT**]
+* Noun/adjective -> **hyphen(-)** will come. [**VERY IMPORTANT**]
+* Verb -> **hyphen(-)** will not come. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1e92cf55-5ed2-4c25-89f2-42cd9699be2e)
+![image](https://github.com/user-attachments/assets/91eb4c0f-f448-45af-bbaa-d9a08f849e94)
+![image](https://github.com/user-attachments/assets/cea85bd1-2c02-4fd3-abb3-0bb7b6e339db)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b7c537ac-f0c4-467a-88b5-06a9db7b331e)
+![image](https://github.com/user-attachments/assets/4103b729-482b-4b2b-b063-47fe08366ac5)
 
+* Common Noun -> Category Name.
+* Proper Noun -> Specific person.
 
+![image](https://github.com/user-attachments/assets/37c32ec9-436b-4841-9953-8c819f597f98)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ad901fb7-a456-454a-bab4-c6b7059acf49)
+![image](https://github.com/user-attachments/assets/5b1dac1c-48f9-4341-b3e3-5e89ee473bf5)
+![image](https://github.com/user-attachments/assets/9b2c7388-f0da-434f-aabe-4284a457e84d)
 
+* [Formula] [**VERY IMPORTANT**]
+* The commitee, The jury, The family -> Collective nouns -> Can be **singular or plural** depending on the statement/situations. [Formula] [**VERY IMPORTANT**]
+* The commitee -> divided into '2' parties -> plural -> were.
+* Was -> Singular. [**VERY IMPORTANT**]
+* Were -> Plural. [**VERY IMPORTANT**]
+* The jury -> divided into '2' parties -> plural -> were.
+* The jury -> unanimous -> Singular -> it is.
+* they are -> Plural. [**VERY IMPORTANT**]
+* unanimous -> in complete agreement -> acting together as a single undiversified whole. [Meaning]
+* Wants -> Singular. [**VERY IMPORTANT**]
+* Want -> Plural.  [**VERY IMPORTANT**]
+* The family -> fighting among themselves ->  divided into parties/groups -> plural -> have.
+* have -> Plural.  [**VERY IMPORTANT**]
+* has -> Singular. [**VERY IMPORTANT**]
+* The family has been fighting with other families in the train compartment.
+* The family -> fighting with others -> Singular -> has.
 
+![image](https://github.com/user-attachments/assets/a0825183-98ff-4796-baa3-d025db7cdf9f)
+![image](https://github.com/user-attachments/assets/c6a39860-171b-417c-aeb7-6ac00905cd27)
+![image](https://github.com/user-attachments/assets/80b1145c-26c5-48f1-afdb-524de251d825)
 
+* The team -> practiced -> Singular -> has. [Example]
+* The team -> going home -> Going to their individual/separate homes -> Plural -> are.
+* The faculty -> great job -> Singular -> has.
+* The faculty -> eating lunch -> Having their lunch individual/separate -> Plural -> they are.
+* it -> Singular. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1cab42cc-aac7-4e41-8d32-e3a1d5e5be99)
+![image](https://github.com/user-attachments/assets/a79bb2bf-4a70-4217-aa28-18115ce1063c)
 
+* Answer -> Parliament. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ece5121f-e172-4963-a004-0e0a071a4705)
+![image](https://github.com/user-attachments/assets/ca2a0bcf-683e-47ea-9cd9-a3cf86b2c781)
 
+* [Example] [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/9ef7cacf-92c9-4a37-b27b-36b7d7ee49cc)
+![image](https://github.com/user-attachments/assets/52e919d0-b040-46b8-848b-a7d06a6f9a98)
 
+* 20 pieces of soap.
+* 20 bars of soap.
+* 15kgs of chocolate.
+* 30 loaves of bread.
+* 30 pieces of bread.
 
+![image](https://github.com/user-attachments/assets/19e2fb31-9e59-4cd8-bceb-81144fb79087)
 
+* [Correct]
 
+![image](https://github.com/user-attachments/assets/7827332b-5de5-428e-8a1d-320e6739d5a6)
+![image](https://github.com/user-attachments/assets/37e9df7d-686a-4381-92ee-7e0b4d099292)
+![image](https://github.com/user-attachments/assets/79b353b0-2249-4061-b5d8-3b43dfd1a8c4)
+![image](https://github.com/user-attachments/assets/b591df3e-94c9-4c30-b2b0-faca731cb220)
+![image](https://github.com/user-attachments/assets/b8120ccf-8c2c-4859-98fa-e17c32b088f5)
 
+* [Examples]
 
 
+![image](https://github.com/user-attachments/assets/d1388426-8e04-4298-ad6a-558a234b594c)
 
+* Don't use **numbers** with non-countable nouns which are material noun and abstract noun.
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f8f650eb-400c-42ab-8fdd-edf986a24647)
+![image](https://github.com/user-attachments/assets/4e0b4e55-99c7-4176-a7a5-89c67bec20c3)
 
+* We cannot buy '3' chocolate.
+* We can buy '3' bars of chocolate.
+* We can buy '3' pieces of chocolate.
+* We can buy '3kgs' of chocolate.
+* Soap -> Uncountable.
+* Pieces of soap -> Countable.
+* Pieces of chocolate, bars of chocolate -> Countable.
+* Loafs of bread.
 
+![image](https://github.com/user-attachments/assets/764ab593-4b77-4817-bf9f-cf3b4fa88e91)
+![image](https://github.com/user-attachments/assets/af07b176-fbd6-4f8e-9215-291394f0bec4)
+![image](https://github.com/user-attachments/assets/c103da6f-14fb-4749-b8c9-f1df02c96e5f)
 
+* Summons -> Court order -> a request to be present. [Meaning]
+* A summons -> Correct. [**VERY IMPORTANT**]
+* Summons -> Singular.
+* Summon -> Verb. [**VERY IMPORTANT**]
+* Summon -> ask to come. [Meaning]
+* Summons -> Noun. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c6caa137-6a44-496c-8d2d-6d5b45bc14bd)
+![image](https://github.com/user-attachments/assets/350fe374-d533-4540-b18b-48afe4d71f8a)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/56ac6aa5-4e0b-4f9a-b50e-af9a2108ef04)
+![image](https://github.com/user-attachments/assets/13a22920-b4c2-41be-a715-6b38605ba23f)
 
+* binoculars -> Plural. [Correct]
+* has -> Singular.
+* have -> Plural.
 
+![image](https://github.com/user-attachments/assets/e88c4188-9ec7-45fa-839a-9d1de2a52d2e)
+![image](https://github.com/user-attachments/assets/ab542521-81a5-483a-b05a-353212dceea9)
 
+* Whenever we are talking about **pairs**, to make it simplier we say **"a pair of" Or "the pair of"**. [Formula] [**VERY IMPORTANT**]
+* The binoculars you bought have a magnification quotient of 10. It is a pair of powerful binoculars no doubts. [Correct]
+* **"a pair of" Or "the pair of"** -> Collective noun -> Singular. [Formula] [**VERY IMPORTANT**]
+* The pair of binoculars you bought have a magnification quotient of 10. [Also Correct]
+* Both are **correct**.
 
+![image](https://github.com/user-attachments/assets/64d0dbe9-30ba-4237-9c87-35c49209e419)
+![image](https://github.com/user-attachments/assets/ea1073e7-a3ad-4e03-aa14-562affa34f60)
 
+* [Answer]
+* Make sure that the **verb** is always **plural**. [Formula] [**VERY IMPORTANT**]
+* binocular -> Singular.
+* binocular ->  relating to both eyes. [Meaning]
+* binoculars -> an optical instrument designed for simultaneous use by both eyes. [Meaning]
+* doubts -> Plural. [Correct]
+* doubt -> Singular.
 
+![image](https://github.com/user-attachments/assets/16b508b5-9d0c-4c40-b6ef-2a6e0c0b3397)
 
+* Wages -> It has '2' meanings.
+* Wages -> salary. [Meaning]
+* The wages were not paid. [Example]
+* Wages -> result. [Meaning]
+* Were -> Plural.
+* Wages -> salary -> Plural. 
+* Wages -> result -> Singular.
+* The wages of sin are death -> Wrong.
+* The wages of sin is death -> Correct.
+* Are -> Plural.
+* Is -> Singular.
 
+![image](https://github.com/user-attachments/assets/2f07f509-2cf2-4105-beee-5215ac41bb8d)
+![image](https://github.com/user-attachments/assets/9037dfc2-c18a-488a-95d1-ebe29d42d9e8)
 
+* [Correct]
+* The wages were not paid for '1' month.
+* Wages -> salary -> Plural. 
+* Were -> Plural.
+* The wages of sin is imprisonment -> Correct.
 
+![image](https://github.com/user-attachments/assets/f391975f-0304-4371-bcfd-0c00209d3220)
+![image](https://github.com/user-attachments/assets/5504936f-f1b7-4a5e-a7cd-f68cded645eb)
+![image](https://github.com/user-attachments/assets/99f650a0-5b56-4d3b-8f07-4a1e8a4719d1)
+![image](https://github.com/user-attachments/assets/3e498381-a932-4095-9afb-e3f001a4a153)
+![image](https://github.com/user-attachments/assets/ed9039ef-91c9-4108-82c4-2f37512e358a)
+![image](https://github.com/user-attachments/assets/7b89a392-6677-456f-8cbe-e0fc9c762c9d)
 
+* [Formula] [**VERY IMPORTANT**]
+* Don't say binocular, we have to say binoculars.
 
+![image](https://github.com/user-attachments/assets/18c2c31f-8eb8-4d7f-8c8b-f746c92c053c)
+![image](https://github.com/user-attachments/assets/76eaefc6-030c-48d9-9228-10040967362c)
+![image](https://github.com/user-attachments/assets/1ad101aa-51ec-4964-9a76-6965f0342b81)
+![image](https://github.com/user-attachments/assets/1b3745b0-3eea-4371-8f0f-5ee163ab36e8)
 
+* The word **police** is always **plural**. [Formula] [**VERY IMPORTANT**]
+* Department -> The Delhi police -> We are talking about the whole department at once or all together -> Singular. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/0a9da3df-39dd-4794-bf7e-f1c34c7a2067)
+![image](https://github.com/user-attachments/assets/2cf8a02a-8d4d-4f21-90cf-95dea98a46c8)
 
+* gentry -> Crowd -> the most powerful members of a society. [Meaning]
+* People -> Persons. [Meaning]
+* People -> Peoples. [Meaning]
+* People -> Persons -> Plural.  [**VERY IMPORTANT**]
+* People -> Peoples -> Plural. [Meaning]
+* Peoples -> Big communities of people -> the human beings of a particular nation or community or ethnic group. [Meaning]
 
+![image](https://github.com/user-attachments/assets/37fc53a2-1532-4c37-af0d-72f90c6be909)
+![image](https://github.com/user-attachments/assets/9dc6ac57-a0b5-4222-a9e2-9eb38c6fed14)
+![image](https://github.com/user-attachments/assets/f3f99135-a586-4f07-8295-cd225281add0)
 
+* Peoples of Asia -> Correct.
+* Peoples of India -> Correct.
+* Don't use **peoples** in the **sense of persons**.
+* Northern India, Southern India, Eastern India, Western India -> can be described with **Peoples** -> Correct.
 
+![image](https://github.com/user-attachments/assets/397c315c-04a8-49b7-a943-afca81af3d3f)
+![image](https://github.com/user-attachments/assets/66d35902-0edc-4774-ab2e-7f12e88dedf8)
 
+* Sheeps -> Wrong.
+* aircraft -> Correct.
 
+![image](https://github.com/user-attachments/assets/f306bb6a-5b9f-4a50-874e-00a99c4daf8e)
+![image](https://github.com/user-attachments/assets/31f02796-dfac-4389-9e5f-489a2907230a)
+![image](https://github.com/user-attachments/assets/9df11471-a5c9-4a7f-b4ba-009e9223d08b)
+![image](https://github.com/user-attachments/assets/8a14311a-5167-4a23-a94c-e8bf5ea5134e)
 
+* [Formula] [**VERY IMPORTANT**]
+* Furniture -> If we buy '1' or '50', we write **Furniture** only. [**VERY IMPORTANT**]
+* Fishes -> Multiple fish species.
 
+![image](https://github.com/user-attachments/assets/5eedca40-e9a6-4bbd-baf1-9a09454ba56e)
 
+* Aeroplanes -> Possible.
+* Aircraft -> Correct.
+* I went to kashmir and the scenery were very beautiful. [Correct]
+* sceneries -> Wrong.
+* Plenty of advice -> Correct.
+* Some information, plenty of information -> Correct.
+* **Scene** and **scenery** are '2' different words. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/044aa770-b393-4cb0-ac66-96c1cd4d64b6)
+![image](https://github.com/user-attachments/assets/61fa0ccd-9dd6-4525-8f98-48c376d763e6)
 
+* [Formula] [**VERY IMPORTANT**]
+* etiquette -> rules governing socially acceptable behavior -> Mannerism. [Meaning]
+* Mannerism -> a behavioral attribute that is distinctive and peculiar to an individual -> a deliberate pretense or exaggerated display. [Meaning]
 
+![image](https://github.com/user-attachments/assets/3db9bb56-a364-4fea-b7fa-ac296f337e34)
+![image](https://github.com/user-attachments/assets/0be36c25-7757-4abc-8076-d2fbb9deefc7)
 
+* airs -> Arrogant -> affected manners intended to impress others. [Meaning]
 
+![image](https://github.com/user-attachments/assets/2457c9e6-bf7b-45bf-931e-7574cde2c766)
 
+* quarter. [Meaning]
 
+![image](https://github.com/user-attachments/assets/4e0d97bc-31f2-4276-843c-dc029c1a8b33)
 
+* **PRONOUNS**. [**VERY IMPORTANT**]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/812eda39-1b7a-4945-b19b-b7bb1b41add5)
+![image](https://github.com/user-attachments/assets/488da160-9705-4ce8-a8f9-12337c6e4a2e)
 
 
 
