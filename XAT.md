@@ -197,6 +197,74 @@
 
 * [Answer]
 
+![image](https://github.com/user-attachments/assets/12deef7b-5768-4664-84a5-a276add14166)
+![image](https://github.com/user-attachments/assets/b0351cd6-36c4-4c45-8b0a-24866c995021)
+![image](https://github.com/user-attachments/assets/7381398f-ab59-4f4a-91fa-bc8c417e9f47)
+
+* Option **A**. [Got Wrong]
+* Correlation.
+
+![image](https://github.com/user-attachments/assets/0e11fe21-ecdd-4298-88e6-ca31c39009db)
+![image](https://github.com/user-attachments/assets/ad299bbf-654d-44da-b2cf-3ceeddb8c56d)
+
+* Option **D**. [Got Wrong]
+* proponent -> a person who pleads for a cause or propounds an idea. [Meaning]
+* estrangement -> separation resulting from hostility. [Meaning]
+
+![image](https://github.com/user-attachments/assets/e1f12480-a1f2-4f5a-bb40-dcee07ea40fd)
+![image](https://github.com/user-attachments/assets/56c2daa1-4009-484d-8041-6c32597685f8)
+
+* Option **A**. [Got Wrong]
+* Can Be Best **VS** must be Best. [Formula] [**VERY IMPORTANT**]
+* We have to focus on **can be true** in this question.
+
+![image](https://github.com/user-attachments/assets/5a8f635f-a394-4a99-ab36-647ed61c3ab9)
+
+* "Hiding the Truth about jellyfish sightings" is different from "Hiding about jellyfish sightings".
+* Option **D** -> We do not know -> We don't have any evidences.
+
+![image](https://github.com/user-attachments/assets/bd965d94-2bdf-4c11-9d0e-a9edfabf53bd)
+![image](https://github.com/user-attachments/assets/9b4bf071-bf5f-4d60-86cf-bc92b0d5d8e5)
+![image](https://github.com/user-attachments/assets/55da307d-cbbd-4690-8889-51c453be12e2)
+![image](https://github.com/user-attachments/assets/06622630-e41e-4332-a8a8-b870a26dcf32)
+
+* Option **D**. [Correct]
+* buoyed -> To keep afloat or aloft -> To hearten or inspire; uplift. [Meaning]
+
+![image](https://github.com/user-attachments/assets/fdb8194a-d23d-4dce-a201-e3173a3521a2)
+![image](https://github.com/user-attachments/assets/3216312b-08f2-4b7e-a72d-a067b2dfd1e6)
+![image](https://github.com/user-attachments/assets/d51552ec-fb2b-4457-99cf-2565a400ad1b)
+![image](https://github.com/user-attachments/assets/48d30fb5-840a-4741-af67-7ab14d736be5)
+
+* [Answer]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
