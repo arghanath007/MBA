@@ -791,14 +791,21 @@
 ![image](https://github.com/user-attachments/assets/812eda39-1b7a-4945-b19b-b7bb1b41add5)
 ![image](https://github.com/user-attachments/assets/488da160-9705-4ce8-a8f9-12337c6e4a2e)
 
+### Poems and Literary devices
+
+![image](https://github.com/user-attachments/assets/563f02bd-b291-4942-8300-dc4ec87a6d6f)
+![image](https://github.com/user-attachments/assets/8c574dfa-089e-44d8-9e80-5c6563f751e4)
+![image](https://github.com/user-attachments/assets/2bf60a38-d71a-405e-9d68-60d6dab43415)
+
+* Generally '2' questions are asked -> '1' question on theme and '1' question of any type.  
+
+![image](https://github.com/user-attachments/assets/97c722bb-94cb-4e21-967d-2c5018a2e324)
+![image](https://github.com/user-attachments/assets/af67edff-352a-4af4-9b38-cd50e3f59c9b)
+
+* [**VERY IMPORTANT**]
 
 
-
-
-
-
-
-
+8:23
 
 
 
