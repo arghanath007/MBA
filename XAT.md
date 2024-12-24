@@ -791,7 +791,8 @@
 ![image](https://github.com/user-attachments/assets/812eda39-1b7a-4945-b19b-b7bb1b41add5)
 ![image](https://github.com/user-attachments/assets/488da160-9705-4ce8-a8f9-12337c6e4a2e)
 
-### Poems and Literary devices
+
+### Poems and Literary devices (Later Video)
 
 ![image](https://github.com/user-attachments/assets/563f02bd-b291-4942-8300-dc4ec87a6d6f)
 ![image](https://github.com/user-attachments/assets/8c574dfa-089e-44d8-9e80-5c6563f751e4)
