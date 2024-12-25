@@ -1217,7 +1217,7 @@
 
 ![image](https://github.com/user-attachments/assets/e031f47f-03be-42ae-a54c-607c9bf029a7)
 
-* Option **B**. 
+* Option **B**.
 
 ![image](https://github.com/user-attachments/assets/62efc8b8-7145-49c0-9faa-68291d5e59d9)
 ![image](https://github.com/user-attachments/assets/2bf95f71-f157-47e7-90e4-fef642e09d8f)
