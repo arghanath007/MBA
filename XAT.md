@@ -858,6 +858,439 @@
 
 ![image](https://github.com/user-attachments/assets/812eda39-1b7a-4945-b19b-b7bb1b41add5)
 ![image](https://github.com/user-attachments/assets/488da160-9705-4ce8-a8f9-12337c6e4a2e)
+![image](https://github.com/user-attachments/assets/77efa9c7-5af2-457a-8552-858990838cba)
+
+* **PRONOUNS**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f7ea9868-0c0d-4636-9102-ac66d2af43c9)
+![image](https://github.com/user-attachments/assets/dc4bd3ef-8bfb-4e79-a088-f2c6011eaecc)
+
+* Subjective -> Doers, hero/heroine of the sentence -> Person is doing some **action** or the person is **important**. [**VERY IMPORTANT**]
+* I am taking a class -> "I" is the subjective pronoun -> Doer of an action.
+* I am a teacher -> "I" is the subjective pronoun -> Hero of the sentence.
+* In both the cases, "I" is the subject.
+* Subject -> Hero or doer of an action.
+* Objective -> Receives the effect of an action. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a7276a4f-efcd-4245-99e4-e7c9794e345f)
+![image](https://github.com/user-attachments/assets/4deee2ee-5325-448a-baac-cdfd4c48ca01)
+
+* He -> Subject. [Example]
+* her -> Object.
+
+![image](https://github.com/user-attachments/assets/19f85eca-8715-44a9-b0ab-c685d100e9ed)
+![image](https://github.com/user-attachments/assets/f33dc510-9c41-4e13-a347-029f69e22fe6)
+
+* Mike Tyson -> Subject. [Example] [Got Wrong]
+* We are not the receiver. We do not need a **objective** case here. We need a **subjective** case.
+* I -> Subject.
+* X, Y -> Subject.
+
+![image](https://github.com/user-attachments/assets/64f10824-296e-4875-9d3b-ba0f5484e609)
+![image](https://github.com/user-attachments/assets/9b36272c-508f-480a-bdb3-a20d799d51b7)
+
+* I -> Subject. [Correct]
+* Both are subject, don't use object unless we are receiving **some action**.
+
+![image](https://github.com/user-attachments/assets/68ea5b0d-5f9d-4b30-9b1d-91921b9884d7)
+![image](https://github.com/user-attachments/assets/21edbb98-d1f4-4ba5-9925-0fea810e2abc)
+
+* It is he who opened the door.
+* Who is speaking, this is she speaking.
+* 3 -> Don't write "us" -> "We" is correct.
+* Who could have taken the decision? -> It could have been they.
+
+![image](https://github.com/user-attachments/assets/f2e79e7c-5401-442c-be97-bc6afa4ae80c)
+![image](https://github.com/user-attachments/assets/e4cb6589-c7c7-4596-8e80-8293c77b0133)
+
+* [Formula] [**VERY IMPORTANT**]
+* I -> correct.
+
+![image](https://github.com/user-attachments/assets/f2e7143d-ab67-4fdd-b6fd-5b5c71ae4a74)
+
+* 3 -> who -> Referring to the **tallest boys**.
+* 4 -> who -> Referring to the **He**.
+
+![image](https://github.com/user-attachments/assets/9407796c-1c2f-4b5a-8f93-8ebcf3b60a0c)
+
+* 5 -> who -> Referring to **those men**.
+
+![image](https://github.com/user-attachments/assets/3816f09b-b22f-45be-b20a-65edf0dbf8d5)
+
+* He -> Singular.
+* He -> is -> Singular.
+* Those men -> Plural.
+* Those men -> are -> Plural.
+
+![image](https://github.com/user-attachments/assets/feaeee9f-29a8-41b6-b8d9-9da0a6e4354b)
+![image](https://github.com/user-attachments/assets/098ef616-4078-4b6c-ac21-a649ae5633fe)
+
+* I.
+* Between "us" -> It is a **secret** among ourselves. Don't tell it to anybody.
+* He gave it to him -> Correct.
+
+![image](https://github.com/user-attachments/assets/6c300e0d-f44a-4406-bc84-904c5f91e744)
+![image](https://github.com/user-attachments/assets/06cfcbe4-38f7-492d-89b7-6906a8d719de)
+![image](https://github.com/user-attachments/assets/ab549ed7-b94a-4059-841d-e7d2e8d18fc9)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4da00c3b-09a7-48f7-af53-883d470e1256)
+![image](https://github.com/user-attachments/assets/774ae421-c045-43a9-8065-5f2b99fffba6)
+
+* When the **gender** is **not very clear**, we use "it" there.
+* Child -> Gender is not clearly mentioned.
+
+![image](https://github.com/user-attachments/assets/1436ea61-9a74-42aa-a0d8-0616557eeaaa)
+![image](https://github.com/user-attachments/assets/33226220-a396-49b3-a97e-aaf86fcbd934)
+
+* Boy -> his.
+* child -> it/its.
+* Mare -> Female horse. [Meaning]
+* Mare -> Female horse -> she -> Correct.
+
+![image](https://github.com/user-attachments/assets/3f4c70ef-4d33-43e7-a7fe-476108342646)
+![image](https://github.com/user-attachments/assets/12a046d2-d5dd-4dd2-9c6b-ba899f2d105d)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0ab7108c-c428-4f88-acda-07e14ca6ac7b)
+![image](https://github.com/user-attachments/assets/792e9b0d-9463-415c-96f3-88c9ed60fc20)
+
+* Your's -> Wrong.
+* Yours -> Correct.
+* Yours -> Possessive pronoun -> Don't need "'s".
+
+![image](https://github.com/user-attachments/assets/37a97c91-5b92-4518-8e9f-de1acc6a5511)
+![image](https://github.com/user-attachments/assets/8f5e7b30-38de-4277-aa87-19cc9edf708f)
+
+* Its -> Wrong.
+* It's -> Correct.
+* It's -> It is not a Possessive pronoun -> We need "'s".
+
+![image](https://github.com/user-attachments/assets/e5a79a5d-1afd-4acf-9202-4b64b3504605)
+
+* It's -> It is. [Short form]
+* Its.
+
+![image](https://github.com/user-attachments/assets/f0fa300c-44bc-4368-b52c-991edfaf59ba)
+![image](https://github.com/user-attachments/assets/19fc0448-6ee5-4243-8c75-117c6b960435)
+![image](https://github.com/user-attachments/assets/f4376f9d-e564-49e0-ba93-d9f5653012d3)
+
+* Who's -> Who is. [Short form] [Examples]
+* Whose.
+* It's been a cold morning -> It has been a cold Morning -> Both are **correct**.
+
+![image](https://github.com/user-attachments/assets/d8ea4f9a-1c9f-4378-b328-590a5700135a)
+![image](https://github.com/user-attachments/assets/2f0b2826-1819-49e3-92fc-81f3840e4a65)
+
+* The statements are **vague** with **no concrete subjects**.
+* debase -> To make worse. [Meaning]
+
+![image](https://github.com/user-attachments/assets/39831c73-56f1-4076-beec-faeeb426e55b)
+![image](https://github.com/user-attachments/assets/a1862e69-6839-4474-bafe-bb51b5335771)
+![image](https://github.com/user-attachments/assets/43eb489e-cce6-4910-aec1-8e577a8bafcc)
+![image](https://github.com/user-attachments/assets/03bde32b-5c49-4c6a-9670-c905cbc59579)
+![image](https://github.com/user-attachments/assets/909257d4-d240-48ed-a69b-7343c23df03a)
+![image](https://github.com/user-attachments/assets/fd7a4e7c-3cf4-4194-909f-a7e17b338a6c)
+
+* [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/27257a83-9269-4088-855f-04ff4026ab87)
+
+* has/have -> Both are **correct**.
+* Indian Army -> Common term.
+* We don't have to write "the" necessarily before it though it can be used. Not required always.
+
+![image](https://github.com/user-attachments/assets/8016964a-8dcd-428c-aa99-8b9d3d1cb2bf)
+![image](https://github.com/user-attachments/assets/53aa3626-d982-4b67-aa2a-ae12e66492bd)
+
+* One should be physically fit if one wants to join Indian army -> Correct.
+
+![image](https://github.com/user-attachments/assets/beb046d6-f254-4ad8-989e-079288c4c0f6)
+![image](https://github.com/user-attachments/assets/fd6cd7a0-1f3c-4b54-b5e1-6809c15c2fb2)
+
+* he -> Wrong
+* one -> Correct.
+
+![image](https://github.com/user-attachments/assets/12d10cfb-6b79-4b5a-9045-015dc22362fa)
+![image](https://github.com/user-attachments/assets/434272ac-db54-46b4-80a6-42ca840828bc)
+![image](https://github.com/user-attachments/assets/e5bd12a2-a842-4549-ad0d-42cc99f87279)
+![image](https://github.com/user-attachments/assets/06b6a6cd-e60d-4626-9502-86fe03dc53fa)
+![image](https://github.com/user-attachments/assets/d122bc01-d32f-4526-95fd-f29207c1ae2f)
+
+* Few -> Almost finished/negligible -> Used for **countable things**. [Formula] [**VERY IMPORTANT**]
+* People -> Countable.
+* Little -> negligible -> Used for **non-countable things**. [Formula] [**VERY IMPORTANT**]
+* A Few -> Some -> Used for **countable things**.[Formula] [**VERY IMPORTANT**]
+* A little -> Some -> Used for **non-countable things**.[Formula] [**VERY IMPORTANT**]
+* The few, The little -> When the **quantity** is **known**. [Formula] [**VERY IMPORTANT**]
+* Sugar -> Uncountable/non-countable thing.
+
+![image](https://github.com/user-attachments/assets/aab32947-1788-4102-bbe8-9b900d58cf59)
+![image](https://github.com/user-attachments/assets/58c07142-1611-492a-889f-b08442b56960)
+
+* better -> Correct.
+* best -> Atleast '3' or more needed.
+
+![image](https://github.com/user-attachments/assets/300d5693-128f-43ec-94d1-affb0a559585)
+![image](https://github.com/user-attachments/assets/78098bc6-0250-4f70-a089-bec1e044bd90)
+
+* wiser.
+* Statement -> Comparing '2' qualities of the same person -> Use the word **more**. [Formula] [**VERY IMPORTANT**]
+* Statement -> Correct only.
+* Dr kalam is more wise than handsome -> Correct.
+* This car is more powerful than it is beautiful -> Correct.
+* This car is faster than energy efficient -> Wrong.
+* This car is more fast than energy efficient -> Correct.
+
+![image](https://github.com/user-attachments/assets/0a689c51-f8a0-4dc1-891d-6daa0da7989a)
+![image](https://github.com/user-attachments/assets/9a599ea6-c998-4931-bb48-6b862fde243d)
+![image](https://github.com/user-attachments/assets/daccbcb4-13ca-45ab-842d-c69f1366989c)
+
+* Dr kalam is more handsome than wise -> Correct.
+
+![image](https://github.com/user-attachments/assets/c6090b84-1a89-46fa-89da-bd84074fc993)
+
+* This is **wrong**.
+
+![image](https://github.com/user-attachments/assets/2c2b52fb-cec2-4cbd-abb2-0d86ee281067)
+
+* This is **correct**.
+
+![image](https://github.com/user-attachments/assets/90b2c7e9-412d-4af9-9e4e-66fb59c74039)
+![image](https://github.com/user-attachments/assets/5badc576-9870-4908-9873-1a166275b976)
+
+* Both are **correct** now.
+* We need **comparison**.
+* When **comparing** we need the word "more".
+
+![image](https://github.com/user-attachments/assets/c7025a5f-d2d6-410e-b827-59e10d404966)
+![image](https://github.com/user-attachments/assets/01d804f6-8949-4430-9093-6f80c8999f3f)
+![image](https://github.com/user-attachments/assets/c2db425d-55df-4db8-b7be-a0edd1ca34d2)
+![image](https://github.com/user-attachments/assets/c9257164-d4bd-4161-8a80-02b8095f9fc4)
+![image](https://github.com/user-attachments/assets/d8e2d280-2f0a-4741-9223-cbba79a90ada)
+![image](https://github.com/user-attachments/assets/ed83ffe1-d60a-47d2-ae19-d010e260198b)
+![image](https://github.com/user-attachments/assets/474905dc-7cb3-415c-a8f7-57fcf6a9c709)
+
+* Avoid comparison.
+* My village is more interior to your village -> Wrong.
+* My village is interior to your village -> Correct.
+* My project is more major than your project -> Wrong.
+* My project is major than your project -> Correct.
+
+![image](https://github.com/user-attachments/assets/df3dabf5-9b18-4f64-a2f4-6b45c2ef542d)
+![image](https://github.com/user-attachments/assets/3cb08e5d-4236-46e3-8527-8b46a7ad7b6e)
+
+* Preferable -> It also takes the word "to" like the word "prefer".
+
+![image](https://github.com/user-attachments/assets/f3946324-b67b-45a4-81ff-7f3a7c50bcb8)
+![image](https://github.com/user-attachments/assets/e91340ba-03fe-4ab5-bcce-bc64a18b6e9d)
+
+* Prefer, Preferable -> Used with the word "To".
+
+![image](https://github.com/user-attachments/assets/10cc93a6-14b9-4437-9d47-69223d55c4dd)
+
+* He is senior to you -> 1st sentence.
+* He is more experienced than you -> 2nd sentence.
+
+![image](https://github.com/user-attachments/assets/38b3db6c-cd66-47b7-8e24-81b203831d55)
+![image](https://github.com/user-attachments/assets/a682b0db-2b6d-4f52-bc60-03ea77cbf9af)
+![image](https://github.com/user-attachments/assets/23b32700-9a37-4b56-a4a2-7f22e0108f9a)
+
+* I am attracted to and distracted by her.
+
+![image](https://github.com/user-attachments/assets/b9468f9b-75ab-48ac-b58b-0c866ab5219f)
+![image](https://github.com/user-attachments/assets/ea227217-1b65-4cef-b40c-15492c098ef8)
+![image](https://github.com/user-attachments/assets/bc141de8-b9fc-438d-8f94-8ef72fd06270)
+
+* Correction -> Hyphen was missing.
+
+![image](https://github.com/user-attachments/assets/9fda6e5f-e45b-4009-91b2-f6fd3471e824)
+
+* 2 dozen pencils -> Correct.
+* 100 rupee note -> Correct.
+* 10 rupee note -> Correct.
+
+![image](https://github.com/user-attachments/assets/de802b10-20c8-49e3-bef7-5b4e61d3e13f)
+
+* Five year old child -> Correct.
+* 10 year experience -> Correct.
+* I have experience of 10 years -> Correct.
+
+![image](https://github.com/user-attachments/assets/4dc75969-39f0-4305-95f0-349b44b31f90)
+![image](https://github.com/user-attachments/assets/678b0422-25c5-4f8f-8af0-e14eb8121c0d)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/f477093d-11ad-48d7-a20f-dfc5ee72e71c)
+
+* Sooner, No sooner -> than
+* Scarcely -> when
+
+![image](https://github.com/user-attachments/assets/c157d17e-5937-4769-a313-157810343af9)
+![image](https://github.com/user-attachments/assets/39b81626-b53f-4a1c-98f3-8bab2f9e30cd)
+
+* When  -> Wrong.
+* than -> Correct.
+
+![image](https://github.com/user-attachments/assets/c0e8c792-9d73-43cb-bafa-6a9fb09d1bf9)
+![image](https://github.com/user-attachments/assets/d3c0f420-48e9-4fe4-a305-391c68791264)
+![image](https://github.com/user-attachments/assets/1267e8dc-16ab-4029-92bf-4ef6c3031f14)
+![image](https://github.com/user-attachments/assets/9e17bb53-fc6a-4426-8cbf-6e34cef4b0dd)
+
+* x,y -> They need to be the **same** only.
+* If 'x' is **adjective** then 'y' also has to be an **adjective**.
+
+![image](https://github.com/user-attachments/assets/ab96dd84-8977-43c2-a91d-84e55a565300)
+
+* Laila is either dumb or pretentious -> Correct.
+* dumb, pretentious -> adjective
+
+![image](https://github.com/user-attachments/assets/936c1576-3003-4c65-afbb-d2ed9cb21d1c)
+
+* Either laila is dumb or she pretends to be -> Correct.
+* laila, she -> Noun, pronoun.
+
+![image](https://github.com/user-attachments/assets/21794a87-e99e-4f21-bf65-0a2a473da430)
+![image](https://github.com/user-attachments/assets/f47bc6be-be45-4260-ac5a-4c8bb9c12867)
+
+* x,y -> Should have similar form.
+
+![image](https://github.com/user-attachments/assets/91a6c447-8d4b-43bb-bf07-1c72641d2a4b)
+![image](https://github.com/user-attachments/assets/65e985f9-a987-4129-83cc-feb41739acb7)
+
+* **STEPS**:-
+
+1) Check if **x,y** have similar form.
+2) Check the **helping verb**.
+
+![image](https://github.com/user-attachments/assets/97af3ceb-cd73-42fc-9d8f-7b00cfc60095)
+![image](https://github.com/user-attachments/assets/cba9c0fa-f6aa-4f10-9bcc-b912d7c97537)
+
+* **Helping verb** or the **main verb** is according to the 2nd subject which is **y**.
+* Teacher -> Singular.
+* was -> Singular.
+
+![image](https://github.com/user-attachments/assets/73c98606-d049-4f5a-87d7-2e6a7e090ad5)
+
+* This is **correct**.
+
+![image](https://github.com/user-attachments/assets/a361acdc-78d2-4912-8ecc-299a899d0711)
+![image](https://github.com/user-attachments/assets/64cb63ca-c7b7-4c30-afa5-b2a3829ba33c)
+
+* how long -> verb.
+* on -> preposition.
+* Option **B**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/a9ffee35-2a5a-4864-b619-5a7476012abc)
+![image](https://github.com/user-attachments/assets/1a3b80d1-0edc-4e04-ad06-88a53ec2d382)
+
+* The mistake is in **b** part.
+* Your success in the CAT examination depends not only **on** how long have you worked hard but also on the quality of that hard work -> Correct.
+* Option **A** -> Wrong.
+
+![image](https://github.com/user-attachments/assets/0907adf0-0d3e-4979-a360-bf51a2656dc4)
+![image](https://github.com/user-attachments/assets/7996c48a-72cb-49a1-b0a7-e948d99b4d65)
+
+* Option **C**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/bb86cbf8-7191-41d7-b2e9-51c7a5ed70f2)
+![image](https://github.com/user-attachments/assets/10f3e185-1464-476a-99bd-50f171ab367a)
+
+* Option **A**. [Got Wrong]
+* Unless -> If not. [Meaning]
+* Within the **unless** work, **do not** is **implicit**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8de5193d-551b-4fa0-ae21-91f81965a749)
+![image](https://github.com/user-attachments/assets/19124db6-7bd3-47a8-bef6-57f8c6f1f630)
+![image](https://github.com/user-attachments/assets/d33dcbed-9393-4a36-b150-cc84b25a05a6)
+![image](https://github.com/user-attachments/assets/4e4fe0ac-0d85-434f-ab97-b968d3078315)
+![image](https://github.com/user-attachments/assets/b34632fa-3c7e-4a1b-8f42-9bc0611512b5)
+
+* Option **C**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/4b9269dd-f672-48de-a14b-cc98d861f798)
+![image](https://github.com/user-attachments/assets/632e676f-cae4-4e38-90aa-b7cb06f3308c)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/e031f47f-03be-42ae-a54c-607c9bf029a7)
+
+* Option **B**. 
+
+![image](https://github.com/user-attachments/assets/62efc8b8-7145-49c0-9faa-68291d5e59d9)
+![image](https://github.com/user-attachments/assets/2bf95f71-f157-47e7-90e4-fef642e09d8f)
+
+* Both -> It uses the word "and".
+* Option **A**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/1ed4acf1-3365-4f6f-b884-fe615fa1dd99)
+![image](https://github.com/user-attachments/assets/3815373a-45ca-4e19-80cd-cef8bb68a9b2)
+
+* Option **D**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/7f68d139-7262-4109-88f2-1baa097d5cdb)
+
+* Helping verb(HV), verv(V).
+* The manager along with his workers is coming.
+* The manager is coming along with his workers.
+
+![image](https://github.com/user-attachments/assets/0aed0078-455e-444d-bb4e-40fd3f627f13)
+![image](https://github.com/user-attachments/assets/52d962f3-c7a4-4e17-bf01-e42cbde0b2ad)
+
+* Manager -> Is the **Hero** basically.
+
+![image](https://github.com/user-attachments/assets/f0e87548-5c12-43d3-a592-94dc69deaadc)
+![image](https://github.com/user-attachments/assets/4500250c-e1a5-454d-be4c-f9694e4be43e)
+
+* Ignore the words, "along with his crew members".
+* captain Earnest shackleton -> has -> correct.
+
+![image](https://github.com/user-attachments/assets/071f3bd0-cae5-43fb-92d0-0bb364da69c7)
+![image](https://github.com/user-attachments/assets/e693daf2-8696-4fae-b777-1116c2f5f5d2)
+
+* The president, unlike the soldiers is well dressed -> Correct.
+* president -> is.
+* "Is" is for the "president" and not for the "soldiers".
+
+![image](https://github.com/user-attachments/assets/bb448c75-5de1-4cbf-984c-b57773cea4dd)
+![image](https://github.com/user-attachments/assets/c5c247cf-7e95-4346-9870-1b4eb33688ae)
+![image](https://github.com/user-attachments/assets/13b6f6d8-97f6-4d29-9c8a-60d75d2506ac)
+![image](https://github.com/user-attachments/assets/addf2d33-7401-4187-8ad4-fde5810f2b85)
+![image](https://github.com/user-attachments/assets/2bdf125f-3892-44f1-918f-e59ab09a19d5)
+![image](https://github.com/user-attachments/assets/e3c3a080-e635-43fb-990a-7fd5fa85eb4f)
+
+* Modifier.
+* [Examples] [**VERY IMPORTANT**]
+* To be **done later**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Poems and Literary devices (Later Video)
@@ -872,9 +1305,7 @@
 ![image](https://github.com/user-attachments/assets/af67edff-352a-4af4-9b38-cd50e3f59c9b)
 
 * [**VERY IMPORTANT**]
-
-
-8:23
+* Time -> 8:23
 
 
 
