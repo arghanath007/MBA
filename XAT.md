@@ -238,31 +238,61 @@
 
 * [Answer]
 
+![image](https://github.com/user-attachments/assets/c39c642e-59c4-488b-81ec-8b060fd5d778)
+![image](https://github.com/user-attachments/assets/5107996d-f728-4b94-b8f5-54ab0c6a5409)
 
+* Option **B**. [Got Wrong]
+* Heats -> Pre-final events.
+* University events.
+* '2'.
+* Pathetic.
 
+![image](https://github.com/user-attachments/assets/8d618802-97a8-4c8a-aebc-fa33bc4f074f)
+![image](https://github.com/user-attachments/assets/99d8eb9a-6db3-44cf-ad75-ebddd9598ecc)
+![image](https://github.com/user-attachments/assets/1b9c7cc0-8195-4f1b-a89d-c44e6e779e3b)
 
+* Option **C** -> Vague excuse.
+* Option **D** -> Irrevalent.
 
+![image](https://github.com/user-attachments/assets/5a194b80-d0d9-470c-bce8-56f4ed26c3a0)
+![image](https://github.com/user-attachments/assets/40dc35ab-e87f-4d2c-9a43-005996329d55)
 
+* Option **E**. [Got Wrong]
+* Covert -> Covered + hidden -> Cover. [Meaning] 
+* Overt -> Open. [Meaning]
 
+![image](https://github.com/user-attachments/assets/6dac4aa2-81b6-4c3c-a459-afa47fb9c391)
+![image](https://github.com/user-attachments/assets/40a1460e-33b0-4c49-b0bb-1b6e40eb8893)
+![image](https://github.com/user-attachments/assets/f0a0a3e4-0e49-4a92-9dc6-0674f5c8fc8c)
+![image](https://github.com/user-attachments/assets/46833afb-306c-4676-a12f-a137c1e50168)
 
+* Option **A, B and C** -> "only" word is the **problem**.
+* Paragraph didn't have any strictness.
 
+![image](https://github.com/user-attachments/assets/279e612f-8772-4519-a435-f9681df32460)
+![image](https://github.com/user-attachments/assets/08fe4356-750c-4f8a-8181-c825156c65e3)
+![image](https://github.com/user-attachments/assets/646df0d8-76df-441a-85a8-8bd111336dfb)
+![image](https://github.com/user-attachments/assets/f432e41a-9b79-4bf8-aae8-df170d8cf5a1)
+![image](https://github.com/user-attachments/assets/619f78e3-a77e-453e-9622-0d776aa43921)
 
+* Option **C**. [Correct]
+* Corroborates -> Proves. [Meaning]
 
+![image](https://github.com/user-attachments/assets/b2d90ba2-976a-41a3-9efa-05a2b9d31f5c)
+![image](https://github.com/user-attachments/assets/f67a4034-be43-4c6f-8c2c-4ea947fd8706)
 
+* Market failure -> Ecosystem.
+* Statement '2' -> Solution/ Course Of Action(COA).
+* E -> Principal -> Main point.
+* Option **E** -> We are not able to develop any **relationship** between statment '1' and '2'.
 
+![image](https://github.com/user-attachments/assets/b6988655-693e-4da1-a6ff-4c39f3b2d73a)
+![image](https://github.com/user-attachments/assets/d14d4cfc-27c0-4b01-b36d-badffc0cb962)
+![image](https://github.com/user-attachments/assets/5ae044f1-1d68-45dd-b8e5-73d18862b29a)
 
+* Option **E**. [Got Wrong]
 
-
-
-
-
-
-
-
-
-
-
-
+1hr 13mins
 
 
 
