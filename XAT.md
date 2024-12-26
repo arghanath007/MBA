@@ -290,16 +290,27 @@
 ![image](https://github.com/user-attachments/assets/d14d4cfc-27c0-4b01-b36d-badffc0cb962)
 ![image](https://github.com/user-attachments/assets/5ae044f1-1d68-45dd-b8e5-73d18862b29a)
 
-* Option **E**. [Got Wrong]
+* Option **E**. [Got Wrong] [**VERY IMPORTANT**]
 
-1hr 13mins
+![image](https://github.com/user-attachments/assets/27f8b79e-abf6-4ab8-bb48-555cb6881dd1)
+![image](https://github.com/user-attachments/assets/725fedcc-4302-43ba-9228-d7eec732d5cb)
+![image](https://github.com/user-attachments/assets/8f22e862-4843-43f8-a998-10cbb99d3755)
+![image](https://github.com/user-attachments/assets/f4d420ab-8ba4-4d89-bb51-858ffaddc36b)
 
+* Can't say(CS).
+* Fairly.
 
+![image](https://github.com/user-attachments/assets/2a9df98c-281d-4bee-b41a-1d284db490a0)
+![image](https://github.com/user-attachments/assets/c819c835-6573-49c7-94dd-d01d2a4ac598)
+![image](https://github.com/user-attachments/assets/592c42af-638e-4718-b539-7db83ed51e68)
+![image](https://github.com/user-attachments/assets/984f54a9-befc-44df-b13a-198c57223600)
 
+* Option **D**. [Got Wrong] [**VERY IMPORTANT**]
+* meritocracy -> a form of social system in which power goes to those with superior intellects. [Meaning]
 
-
-
-
+![image](https://github.com/user-attachments/assets/c862a33c-52dc-4ceb-9a50-ddd220eaf3db)
+![image](https://github.com/user-attachments/assets/62d504fa-5d5d-48fc-ab76-5053cc98ab62)
+![image](https://github.com/user-attachments/assets/fc28c700-97e4-435c-baa0-0a69ad4901db)
 
 
 
