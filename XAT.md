@@ -1334,33 +1334,48 @@
 
 
 
-### Poems and Literary devices (Later Video)
+### Poems and Literary devices
 
 ![image](https://github.com/user-attachments/assets/563f02bd-b291-4942-8300-dc4ec87a6d6f)
 ![image](https://github.com/user-attachments/assets/8c574dfa-089e-44d8-9e80-5c6563f751e4)
 ![image](https://github.com/user-attachments/assets/2bf60a38-d71a-405e-9d68-60d6dab43415)
 
-* Generally '2' questions are asked -> '1' question on theme and '1' question of any type.  
+* Generally '2' questions are asked -> '1' question on theme and '1' question of any type.  [Formula] [**VERY IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/97c722bb-94cb-4e21-967d-2c5018a2e324)
 ![image](https://github.com/user-attachments/assets/af67edff-352a-4af4-9b38-cd50e3f59c9b)
 
-* [**VERY IMPORTANT**]
-* Time -> 8:23
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/8ed29f5b-572e-4ef7-b195-82a6e87b83c0)
+![image](https://github.com/user-attachments/assets/d74a97dc-20f7-434c-ac21-2336f8d9d5a0)
 
+* Overanalyzing -> Does not trust your instincts/ Very bad at elimination. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/0324d1bd-3d56-40c0-aa69-5e60f6a1b570)
+![image](https://github.com/user-attachments/assets/5e5242bd-5030-45f4-8c25-8cb80950ec55)
 
+* Perches ->  support consisting of a branch or rod that serves as a resting place (especially for a bird) -> sits. [Meaning]
+* "The tune" is about "hope" and "hope" is a positive tune.
 
+![image](https://github.com/user-attachments/assets/cd28b6e4-d1d9-4ded-aded-064ca4caf317)
+![image](https://github.com/user-attachments/assets/9ed8d858-0f84-4710-9b3d-d5d1af5aae51)
+![image](https://github.com/user-attachments/assets/6d62744f-c42b-4061-952d-944da79eb3ca)
+![image](https://github.com/user-attachments/assets/974cb48c-a4d8-4838-ab53-4b32fa769e1d)
 
+* Option **E**. [Got Wrong] [**VERY IMPORTANT**]
+* grackles -> long-tailed American blackbird having iridescent black plumage -> glossy black Asiatic starling often taught to mimic speech -> birds. [Meaning]
 
+![image](https://github.com/user-attachments/assets/99aa19cf-141d-4713-a5e1-b5de86958400)
+![image](https://github.com/user-attachments/assets/39645acb-f743-4b34-983b-ba5203171318)
+![image](https://github.com/user-attachments/assets/8abad28c-3746-4115-8393-bf9f628973e9)
+![image](https://github.com/user-attachments/assets/680a519c-763c-42c9-8504-ec37c70247c9)
 
+* Option **D**. [Got Wrong]  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/3888a7fa-8952-4100-9fe1-bfb34459ea54)
 
-
-
-
-
+* 35mins, 42secs.
 
 
 
