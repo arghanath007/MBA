@@ -382,35 +382,102 @@
 * [**VERY IMPORTANT**] [Formula]
 
 ![image](https://github.com/user-attachments/assets/10218b83-db4a-432b-ba10-0400b9b641aa)
+![image](https://github.com/user-attachments/assets/be283936-d63d-485f-a467-cfc3151bd43c)
+![image](https://github.com/user-attachments/assets/cafad693-718d-4d4b-807a-b42a17b7bff6)
+![image](https://github.com/user-attachments/assets/2b2fc023-84a3-4437-ad89-fa7fc5ff2314)
+![image](https://github.com/user-attachments/assets/c222263e-d5d9-4155-9be7-9e6aba73c7db)
+![image](https://github.com/user-attachments/assets/2a4f7921-ac38-4408-ad61-a38bda5c3fee)
+![image](https://github.com/user-attachments/assets/de3886fc-a748-436c-8add-f2ff8cc4843b)
 
+* Option **3**. [Correct]
 
+![image](https://github.com/user-attachments/assets/fcca77c8-e978-47e8-ba00-26cda4a39888)
+![image](https://github.com/user-attachments/assets/95b81f98-3a11-4cab-8c3a-ef17385b9a31)
+![image](https://github.com/user-attachments/assets/83a5117b-e84f-4fcf-961e-0b5e411be499)
+![image](https://github.com/user-attachments/assets/00d97161-47ab-4a30-8f81-dc4aec6ade85)
 
+* Option **B**. [Got Wrong]
+* Relevant -> having a bearing on or connection with the subject at issue. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f96692a4-a3f0-4e89-9a13-a41ad2daf85a)
+![image](https://github.com/user-attachments/assets/334fe99c-fdee-40de-9337-bba3adf2b435)
+![image](https://github.com/user-attachments/assets/a6e40c55-95e1-478d-a09a-beaaba5a9e26)
 
+* Option **B**. [Correct]
+* "Relevant" word -> Relevant to the conclusion of the author or the main point of the author. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/37bc9c32-9cc9-4d16-b628-3329fc6ffbdd)
+![image](https://github.com/user-attachments/assets/af465642-c85a-4df8-be66-55ece45e0503)
 
+* Option **4**. [Correct]
 
+![image](https://github.com/user-attachments/assets/83525a16-13dc-4f64-970a-2e9deea6fc18)
+![image](https://github.com/user-attachments/assets/71a1230f-88ac-4300-a9fc-f8b0631df3e1)
+![image](https://github.com/user-attachments/assets/2b48b9ba-3fb6-4b1f-94df-732ef6224247)
+![image](https://github.com/user-attachments/assets/5f59a781-a6a8-4f94-ad51-85014d7dc119)
 
+* Option **D**. [Got Wrong]
+* **Advice** is part of **conclusion**.
 
+![image](https://github.com/user-attachments/assets/ebe7435e-9f46-45b1-89ac-412d039464f5)
+![image](https://github.com/user-attachments/assets/87d09347-ded3-4e10-9126-4c5ad3190481)
+![image](https://github.com/user-attachments/assets/038dcbf0-ed89-4b41-b34e-84b5ba9e9469)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/50e1dbc9-5b0e-450e-85c9-d39775f94768)
 
+* Negation/negate it.
 
+![image](https://github.com/user-attachments/assets/6d1c2031-ac78-4cd6-9406-ba02199f453c)
+![image](https://github.com/user-attachments/assets/e322563d-bb2f-4388-a9d4-3225df95b613)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/42954544-db46-4b95-8baf-a4a78fda61f4)
 
+* Election increases depression.
+* Negation -> Election is not increasing depression.
 
+![image](https://github.com/user-attachments/assets/525d5649-e68b-4eee-b387-57dc33ec96e7)
+![image](https://github.com/user-attachments/assets/2956748a-3037-46a5-8dd8-024446756818)
+![image](https://github.com/user-attachments/assets/af127532-364b-4bc4-b24c-eb7b84be0b79)
 
+* Option **E**. [Correct]
+* **Create Shadow answers**.
 
+![image](https://github.com/user-attachments/assets/89a5fbb5-08c0-4a0f-8764-365b6a2a747e)
+![image](https://github.com/user-attachments/assets/cbb4cfbd-cd84-4eeb-a321-fda9ac7a051b)
 
+* Negation -> Learning several languages does not improve memory.
+* A can improve B.
+* Negation -> A cannot improve B. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/10710c2f-1790-495e-9b05-666aa206d7af)
+![image](https://github.com/user-attachments/assets/6441a8e8-728a-4719-be0c-92c422247225)
+![image](https://github.com/user-attachments/assets/3eae0ea6-44cf-43b7-952b-1ecfcce9f7a4)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/47527c7f-15a6-41a6-b086-09cd26655db8)
+![image](https://github.com/user-attachments/assets/72eee5e2-2926-4e6a-8d7d-ed48dd94a2bd)
 
+* Option **B**. [Got Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/fd29abd2-19ff-4675-8c35-8f0fafbca933)
+![image](https://github.com/user-attachments/assets/dafcb6cc-94d0-45b0-92b6-4ff348cd5b8d)
+![image](https://github.com/user-attachments/assets/9d047b7a-0281-4d01-80bf-5177cace1667)
+![image](https://github.com/user-attachments/assets/7e90bb19-6757-46b5-9987-ec2db055701b)
+![image](https://github.com/user-attachments/assets/d7c22d38-ba1e-405a-9589-b2915d952e31)
+![image](https://github.com/user-attachments/assets/84214191-1c7c-4ee6-974c-234081042adb)
 
+* Option **D**. [Got Wrong] 
 
+![image](https://github.com/user-attachments/assets/1e612605-e7e9-4ae2-a0e2-be957f0aded2)
+![image](https://github.com/user-attachments/assets/bed01c56-5fb8-4e7c-9c75-880ccaaae3a0)
+![image](https://github.com/user-attachments/assets/143bf32d-b730-4ab6-abc7-897d75b42699)
 
+* Option **B, C** -> Supporting the statement.
 
 
 
