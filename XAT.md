@@ -1374,75 +1374,169 @@
 * Option **D**. [Got Wrong]  [**VERY IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/3888a7fa-8952-4100-9fe1-bfb34459ea54)
+![image](https://github.com/user-attachments/assets/9f454edd-dfe9-49ef-8e32-bf68480bfc24)
+![image](https://github.com/user-attachments/assets/b3c470f9-59b8-444a-bd05-7f81cdd2c84a)
+![image](https://github.com/user-attachments/assets/d00de27b-f62b-45f7-9dcf-5586ac7a1eb3)
 
-* 35mins, 42secs.
+* Option **3**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/9ddb8591-102a-40b2-9ed3-2fb06566605f)
+![image](https://github.com/user-attachments/assets/463bdf8f-1adf-40d2-bef7-54ac376f090a)
 
+* Option **3**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/cb96816d-4536-4afe-a685-81fc8799cfcc)
+![image](https://github.com/user-attachments/assets/f18264f3-4c8c-4ded-9528-c0585628b491)
+![image](https://github.com/user-attachments/assets/a8d15e76-52fb-4b31-a00f-64def10e85c7)
 
+* [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/abfeee80-7c5d-4f04-9463-782454cd90df)
 
+* Option **B**.
 
+![image](https://github.com/user-attachments/assets/1289c403-b401-49ab-90bc-f8e35fb12b12)
 
+* Simile and Metaphor -> Used for **comparison**.
 
+![image](https://github.com/user-attachments/assets/769c2960-13dc-41d4-9b61-cffaf4abd190)
+![image](https://github.com/user-attachments/assets/5ea4b0d3-18d0-4fba-8894-e199d229e4e0)
+![image](https://github.com/user-attachments/assets/eb74a13f-6a93-42c5-8ac3-b4fd03dc6cc2)
+![image](https://github.com/user-attachments/assets/23a9f654-b254-4652-8b45-d33d09248caa)
+![image](https://github.com/user-attachments/assets/6a2944bf-040b-4669-85ad-c89b8fd160c0)
+![image](https://github.com/user-attachments/assets/8391ed7d-2a40-4215-a983-b643bbef1876)
 
+* Hyperbole -> Excessive statement -> Bara charaka bolna. [Meaning]
+* Hyper -> Excessive
+* bole -> statement
+* Rhetorical/interrogation -> A question as a statement. [Meaning] [Formula] 
 
+![image](https://github.com/user-attachments/assets/3e34f14f-f542-487f-90b5-89df46fe4f66)
+![image](https://github.com/user-attachments/assets/d8e6f7dd-a667-4d6a-ae06-aa17b150e0a4)
 
+* base -> lowlife. [Meaning]
+* Vile -> wicked. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/917c6e34-c360-47ae-88f6-2af6f9592fc5)
+![image](https://github.com/user-attachments/assets/bcced32d-8c5d-4614-a822-409683b92dd8)
 
+* Black Coat -> Lawyer.
+* White Coat -> Doctor.
+* We are associating them.
+* Metonymy -> Associate -> Thing represents something else. [Meaning]
 
+![image](https://github.com/user-attachments/assets/9a55dc70-fc58-4ba7-ad72-80d1d2b55b77)
+![image](https://github.com/user-attachments/assets/9e23e234-291d-44f4-9bb7-54f313c28835)
 
+* Roti -> Part of dinner -> Full dinner.
+* Synecdoche -> A parts represents the whole. [Meaning]
 
+![image](https://github.com/user-attachments/assets/856312df-f4be-4bc3-b231-bc2d0cfadf2a)
 
+* Epithets -> Title.
 
+![image](https://github.com/user-attachments/assets/181d4bb7-e42c-4fd5-9703-b80a8bd61e97)
+![image](https://github.com/user-attachments/assets/2d26633a-1076-4689-9a7b-b0b9c7752847)
 
+* The night is **not sleepless**. The person is **sleepless**.
+* Sleepless -> Adjective.
+* **Transferred Epithets** is very confusing with **personification**. [Formula] 
 
+![image](https://github.com/user-attachments/assets/1971514a-1c52-4363-8aa8-43df169dd688)
+![image](https://github.com/user-attachments/assets/e239dfc2-4330-49fe-b68c-0140a7d0378d)
 
+* The day is **not hard**. It is **hard** for the person.
+* **Transferred Epithets** -> The **feeling** is transferred to something else.
+* **Personification** -> We transfer **emotions, human like qualities** to something else.
 
+![image](https://github.com/user-attachments/assets/18cdef0f-11d0-4e97-8750-0e82442a27a9)
 
+* Eu -> Good.
+* Euphemism -> Use of **good, sweet** words instead of **offensive** words.
 
+![image](https://github.com/user-attachments/assets/d6d522cf-d1a9-43e7-acd3-7f5fa7ec75a3)
+![image](https://github.com/user-attachments/assets/0105f0eb-e964-45c3-9a26-558a2b050ece)
 
+* First-copy -> Poor person.
+* Dupe. 
 
+![image](https://github.com/user-attachments/assets/21657da7-c0c3-4139-9048-049a8dbe7987)
+![image](https://github.com/user-attachments/assets/69ae14cf-a697-4441-99a6-36c87b8d66d2)
 
+* Irony -> Outcome is opposite of what is expected -> Paradoxical situation basically. [Formula] 
+* Paradoxical -> seemingly contradictory but nonetheless possibly true. [Meaning]
 
+![image](https://github.com/user-attachments/assets/097bec0c-fe09-4a77-aff7-19837367b39f)
+![image](https://github.com/user-attachments/assets/7833f968-5b67-4229-8377-469bfbde2164)
+![image](https://github.com/user-attachments/assets/6c1e7151-355a-468b-8b43-b033d51d62e7)
+![image](https://github.com/user-attachments/assets/1732fe61-da30-430c-8c47-70bb0de0d153)
+![image](https://github.com/user-attachments/assets/d068d68b-7c9c-4d35-86d0-53e43ab20416)
 
+* Epigram -> Brief/short saying -> They are basically **proverbs**.
+* Epi -> Upon.
+* Gram -> To write.
 
+![image](https://github.com/user-attachments/assets/62916094-71f5-42a5-ae7a-6ce3f4e75553)
 
+* Anti -> Opposite.
+* Antithesis -> Contradictory situation/sentence.
+* thy -> your.
 
+![image](https://github.com/user-attachments/assets/c734714e-ef6b-4454-abd1-c58d5878faa7)
+![image](https://github.com/user-attachments/assets/0ba91012-1213-4b8b-8fcf-c66b07dedf98)
 
+* It is used for **impact**.
+* Oxy -> Sharp.
+* Moron -> Dumb.
+* Mission failed successfully.
+* Genuine fake.
+* Loud silence.
+* Screaming silence.
+* Living Dead.
+* Happily married. [JOKE]
 
+![image](https://github.com/user-attachments/assets/d8a58721-fcf5-4c7d-b285-9b7a658ab1c2)
 
+* Litotes -> Double negative.
 
+![image](https://github.com/user-attachments/assets/1f1cb764-894b-4c0a-a786-50b710442507)
+![image](https://github.com/user-attachments/assets/b5c7cc38-0bb8-40e6-811c-a109990d75d2)
 
+* Climax.
+* It goes from **low to middle to high**.
 
+![image](https://github.com/user-attachments/assets/bcf5fd60-e9fb-44f0-ad50-c511fb840ac0)
+![image](https://github.com/user-attachments/assets/39b9e920-f95f-44f7-a597-991fbcfb8641)
 
+* Anti-climax -> Bathos.
+* Buffoon -> Joker. [Meaning]
+* It goes from **high to middle to low**.
 
+![image](https://github.com/user-attachments/assets/fb95ea7a-c930-4170-877f-8c80baa324ac)
 
+* It is for **'2' or more** which means **atleast '3'**.
+* Meak as a monk.
 
+![image](https://github.com/user-attachments/assets/21188e1b-eef9-45f4-9259-bada795bd8b5)
+![image](https://github.com/user-attachments/assets/552875cf-1b8b-4d4c-97d1-475cba020502)
+![image](https://github.com/user-attachments/assets/8d70e592-194c-4d69-966d-fe1173bc0055)
+![image](https://github.com/user-attachments/assets/2134681b-d72e-4648-9f6c-fedd916b1b4f)
 
+* This is **not hyperbole**. That is **different**.
 
+![image](https://github.com/user-attachments/assets/96aa79c2-3b6c-4477-8d3c-e5fb51d41d5e)
+![image](https://github.com/user-attachments/assets/3126290b-73b9-407b-ad91-97b9682296be)
+![image](https://github.com/user-attachments/assets/882c1e7a-a245-48ad-a2f3-a55580f842d5)
+![image](https://github.com/user-attachments/assets/bb399238-ca3d-4556-b465-69cb8735686b)
+![image](https://github.com/user-attachments/assets/9bcd4c77-ea16-423b-839e-d7f47a9b9225)
 
+* Anaphora -> Another word for **alliteration**.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/25ebd1f9-4f3c-4adc-a924-003a9d431f6c)
+![image](https://github.com/user-attachments/assets/a0965c88-f77e-457c-9370-e43d9ccf6788)
+![image](https://github.com/user-attachments/assets/b9b44629-0724-42cb-9efe-5e3d98eca0b0)
+![image](https://github.com/user-attachments/assets/274c1d6e-5166-4f54-86cf-6b4f30b1a246)
+![image](https://github.com/user-attachments/assets/76d4cb5a-b7b5-4a25-9afc-a6dadb3ce1eb)
 
 
 
