@@ -17,6 +17,10 @@
 
 * GMAT Club topics to do.
 
+![image](https://github.com/user-attachments/assets/9bf8a652-ebcb-407c-a60c-9f0ad7cf34ab)
+![image](https://github.com/user-attachments/assets/7774e9aa-9ed8-437a-a90f-e0b5c2e949e6)
+![image](https://github.com/user-attachments/assets/ae7a9d3e-692b-4360-bf34-c312afca329c)
+
 ## VA and LR
 
 ![image](https://github.com/user-attachments/assets/a6bd1398-60f2-4ca5-b8c1-2c181b520889)
@@ -311,6 +315,85 @@
 ![image](https://github.com/user-attachments/assets/c862a33c-52dc-4ceb-9a50-ddd220eaf3db)
 ![image](https://github.com/user-attachments/assets/62d504fa-5d5d-48fc-ab76-5053cc98ab62)
 ![image](https://github.com/user-attachments/assets/fc28c700-97e4-435c-baa0-0a69ad4901db)
+![image](https://github.com/user-attachments/assets/a7fecec3-8430-4f99-bf45-314795b3b912)
+![image](https://github.com/user-attachments/assets/f5cfd317-22e1-4335-a728-f99cefe577ac)
+
+* **Conclusion**. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/8b7e4f1e-62df-4d4f-8515-e94f95ac5f62)
+![image](https://github.com/user-attachments/assets/24f0208b-188e-4d75-ba2c-f5d81081b01b)
+![image](https://github.com/user-attachments/assets/eb47eb40-7a08-43f8-ac2a-d5d0790dca5c)
+
+* **Inference**. [**VERY IMPORTANT**]
+* Conclusion -> Author's main point. [Formula] 
+* Inference -> Can be drawn from any part of the passage -> Most likely to be true questions -> Likely to be **true** based on the information, there is no 100% gurantee, very high probability. [Formula] 
+
+![image](https://github.com/user-attachments/assets/e29d3b30-ace2-43ff-97b7-352c80cf8267)
+![image](https://github.com/user-attachments/assets/fbbe6099-5a39-48e9-8489-6e8837437af2)
+![image](https://github.com/user-attachments/assets/e876cb4f-e627-4cde-9102-9d95aac85381)
+![image](https://github.com/user-attachments/assets/e1122924-ac71-4561-8fe5-b49b00e16082)
+![image](https://github.com/user-attachments/assets/d7bacf54-e3db-45cd-b3fd-9a011eaafd80)
+
+* Restatements, reiteration -> Considered as **inferences**. [Formula]
+
+![image](https://github.com/user-attachments/assets/ba3a6c6d-a101-4f2c-9467-247ad44ccd42)
+
+* Will be -> Certaininty.
+* Inference -> Likely to be **true** based on the information.
+
+![image](https://github.com/user-attachments/assets/39746921-c9c1-48d7-bc03-88f8f4ec5f29)
+
+* Bullet wounds -> He has been shot => Logical consequence.
+
+![image](https://github.com/user-attachments/assets/39a6d278-6214-45db-bc34-9131872f21f2)
+![image](https://github.com/user-attachments/assets/12e47a8c-d436-41cb-b324-4ad5fa5af511)
+![image](https://github.com/user-attachments/assets/aa09a0b0-d628-495c-829c-c75e685a8219)
+![image](https://github.com/user-attachments/assets/0b78ab2c-38c2-4f2b-a0f9-ea5e082c91a7)
+![image](https://github.com/user-attachments/assets/eca0d890-ed45-4237-8edc-4f97388ae763)
+![image](https://github.com/user-attachments/assets/f39550b7-c8d2-4955-b4db-5a3d76be3232)
+
+* Option **3**. [Correct]
+* Conclusion -> Must be **correct/True**. [Formula] [**VERY IMPORTANT**]
+* Inference -> Likely to be **correct/True**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1f7c5df0-563a-4000-8216-60a3f1571851)
+![image](https://github.com/user-attachments/assets/70b6664a-fd80-46ea-b71f-3c31273c5a3d)
+![image](https://github.com/user-attachments/assets/792bf76d-369b-4a3a-bcc4-caae2243de13)
+![image](https://github.com/user-attachments/assets/a1256cca-8224-4fea-b25d-54c6f8a545fb)
+
+* Option **5**. [Correct]
+
+![image](https://github.com/user-attachments/assets/27a7f122-b34f-4081-9a3a-788fd899cb85)
+![image](https://github.com/user-attachments/assets/b2801052-146d-4c24-87f9-18a608af1acf)
+
+* Option **3** -> Extreme statement.
+* Use **logic or evidence**.
+
+![image](https://github.com/user-attachments/assets/e60dd991-0e80-4d73-912d-3cacf403abf4)
+![image](https://github.com/user-attachments/assets/99fb71d8-742a-4617-b282-50c8adf088f6)
+![image](https://github.com/user-attachments/assets/7a94bc3d-8a6f-49d9-b42c-a6517e7b411b)
+
+* Option **3**. [Correct]
+* Option **1 and 5** -> Irrevalent information.
+* Normally, simply, apparently, sometimes, always -> Qualifiers. [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/fc5f596f-9935-44ed-9206-72d34363dc33)
+
+* [**VERY IMPORTANT**] [Formula]
+
+![image](https://github.com/user-attachments/assets/10218b83-db4a-432b-ba10-0400b9b641aa)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
