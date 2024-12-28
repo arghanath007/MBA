@@ -20,6 +20,8 @@
 ![image](https://github.com/user-attachments/assets/9bf8a652-ebcb-407c-a60c-9f0ad7cf34ab)
 ![image](https://github.com/user-attachments/assets/7774e9aa-9ed8-437a-a90f-e0b5c2e949e6)
 ![image](https://github.com/user-attachments/assets/ae7a9d3e-692b-4360-bf34-c312afca329c)
+![image](https://github.com/user-attachments/assets/d0b64367-1b5f-40af-a17a-a453d60602eb)
+![image](https://github.com/user-attachments/assets/a750e069-37ed-409e-8436-a701077710c6)
 
 ## VA and LR
 
@@ -478,6 +480,90 @@
 ![image](https://github.com/user-attachments/assets/143bf32d-b730-4ab6-abc7-897d75b42699)
 
 * Option **B, C** -> Supporting the statement.
+
+![image](https://github.com/user-attachments/assets/442f31c2-e969-498a-acf9-d4b5cc6a1aa7)
+![image](https://github.com/user-attachments/assets/cab640e2-360f-4ed6-878d-fb1b6358385c)
+![image](https://github.com/user-attachments/assets/3935303d-ebd3-4b05-a83c-4962ca1aceec)
+
+* Option **2**. [Got Wrong]
+* **Conclusion of the author** is slightly different from **primary purpose of the author**.
+* 1st statement -> Claim.
+* Rest of the statements -> Supporting the claim.
+
+![image](https://github.com/user-attachments/assets/37292b97-d414-4ad2-8fc7-100de4b071bc)
+![image](https://github.com/user-attachments/assets/895dd4ae-69bf-4a99-b9ed-3a7d9a6c43e3)
+
+* Option **1**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/f86a7724-d1f0-4ef5-aefc-2a12da657f06)
+![image](https://github.com/user-attachments/assets/b000ac80-cb6c-4441-a346-1f6c86f7696c)
+
+* Option **5**. [Got Wrong]
+* Passage states -> It is not an **inference**. It is written in the passage. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/588b8b8d-d2f3-4ca6-a8b7-bcda4d2149a4)
+![image](https://github.com/user-attachments/assets/b2a7c7dd-4611-4beb-9948-b2f221804723)
+![image](https://github.com/user-attachments/assets/58944def-ebb4-42a9-99a4-7efc038fa2d9)
+![image](https://github.com/user-attachments/assets/d2fbe116-9d78-4272-929b-047209812879)
+![image](https://github.com/user-attachments/assets/a3530c6c-b01f-4cee-a83a-74d0db7cef81)
+
+* Option **3**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/990f6ab6-6f8a-4256-b19f-cfe02cd91cc3)
+![image](https://github.com/user-attachments/assets/a3d05e24-f5b7-412a-8537-7ca95f6fbb1c)
+![image](https://github.com/user-attachments/assets/59bde1a3-588c-4b3f-9d64-8ed26566ce2e)
+
+* Option **2**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/4e7d59ca-1a50-4b3e-9e1b-558b5f890d2c)
+![image](https://github.com/user-attachments/assets/d602e38f-61a9-4110-8ce8-12492ee8eea5)
+![image](https://github.com/user-attachments/assets/4fc379a1-0e62-49e3-88a5-8566b4ed044d)
+
+* Agree(A).
+
+![image](https://github.com/user-attachments/assets/102f7d6e-a23b-45b0-aa9a-1693ef7736ac)
+![image](https://github.com/user-attachments/assets/938ca3e7-8b94-42b0-9f8a-ddb49913df0a)
+![image](https://github.com/user-attachments/assets/f8b7307f-b040-4a09-a4cc-a794e0e29b1a)
+
+* Option **B**. [Correct]
+
+![image](https://github.com/user-attachments/assets/39ba55ad-e7f9-4fa2-abf6-a34bd4b6ceaa)
+
+* Negate -> Soy consumption will **not** decrease over the next few years.
+
+![image](https://github.com/user-attachments/assets/70e53c2f-0f84-4fc1-b32a-ce1022ca3ec6)
+![image](https://github.com/user-attachments/assets/ad92df63-4d03-4617-a4b9-a55e077929d6)
+![image](https://github.com/user-attachments/assets/106d03c9-7ae8-40d9-bbd1-49e58a086e61)
+
+* Option **A**. [Correct]
+
+![image](https://github.com/user-attachments/assets/1a8f438e-bb39-4899-b6fb-8f890c45de27)
+![image](https://github.com/user-attachments/assets/c75118e9-2f8b-4bd4-9ea4-216d17969466)
+
+* Option **4**. [Correct]
+* Negate -> People would be better off taking anti-seasickness medications => Why should people take it.
+
+![image](https://github.com/user-attachments/assets/55cbcc53-8df1-46fa-b51e-2e9d4988a2f7)
+![image](https://github.com/user-attachments/assets/0835b717-87e4-4fe6-a3dc-aa189b0509e4)
+
+* Negate -> France does not have a higher level of documented interpersonal violence in the years 1300 to 1400 than in the years 1200 to 1300.
+
+![image](https://github.com/user-attachments/assets/766e6cd4-7cb7-421c-8bcc-05db41d65d51)
+![image](https://github.com/user-attachments/assets/5d9cb81d-9507-494a-a6f9-424fcf0b81b9)
+
+* Option **1**. [Correct]
+
+![image](https://github.com/user-attachments/assets/01a57882-f0e5-4433-a6cb-f6e12eed4150)
+![image](https://github.com/user-attachments/assets/763ecc1e-c177-416b-94fb-a4c8c5a2b325)
+![image](https://github.com/user-attachments/assets/f3a4c22e-5858-49e9-acde-f3d85deb4319)
+
+* **Assumptions**. [Formula] [**VERY IMPORTANT**]
+
+
+
+
+
+
 
 
 
