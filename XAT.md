@@ -772,6 +772,120 @@
 
 * Try to find the **negation**.
 
+![image](https://github.com/user-attachments/assets/a64e4b3f-42ae-4720-ad2f-12672ef0097e)
+![image](https://github.com/user-attachments/assets/145be704-4f4c-42d6-8e80-c42fa8b696c7)
+
+* Option **D**. [Correct]
+
+![image](https://github.com/user-attachments/assets/e0d37f0f-7ff6-4008-8326-ad7748f8ced7)
+![image](https://github.com/user-attachments/assets/f12aefda-6099-4033-bb4d-ed76bc081bc0)
+
+* Option **A**. [Correct]
+
+![image](https://github.com/user-attachments/assets/2622772d-48d0-4d92-9855-2d7bd992fc94)
+![image](https://github.com/user-attachments/assets/e71738c8-a624-49a8-a3e5-ac5b2d88c6dc)
+![image](https://github.com/user-attachments/assets/7abf3a5f-c5d4-4a03-bd4e-fef754c1106d)
+
+* Option **B**. [Correct]
+
+![image](https://github.com/user-attachments/assets/41083b24-c9c3-40d7-905a-cd355eb57bcf)
+
+* Killing -> More active.
+* Death -> Active, Passive, can be anything.
+* No. of killing is **everything**.
+
+![image](https://github.com/user-attachments/assets/6cf16076-83c9-48a5-bd9b-2d6f432f2f10)
+![image](https://github.com/user-attachments/assets/d2b958fa-bb74-46bf-b519-411c12714f73)
+![image](https://github.com/user-attachments/assets/bd380c5a-ce96-42b7-90a3-2c0ce4578620)
+
+* Option **2**. [Correct]
+
+![image](https://github.com/user-attachments/assets/81cfaa0b-545d-4e8b-b1bc-25dffe9134fc)
+![image](https://github.com/user-attachments/assets/5f85d76f-ad5a-4515-9988-b6e91a63c74a)
+![image](https://github.com/user-attachments/assets/535fc73e-8921-4586-8b29-12888f1a83d1)
+![image](https://github.com/user-attachments/assets/b60d2e72-0405-47fe-a217-11414ec9b1de)
+
+* Option **5**. [Got Wrong] [**VERY IMPORTANT**]
+* Nocturnal -> Roams in the night times only -> belonging to or active during the night. [Meaning]
+* Dawn to Dusk -> Sunrise to Sunset. [Meaning]
+
+![image](https://github.com/user-attachments/assets/21593544-f6e2-44ba-80e0-974fb26979fd)
+![image](https://github.com/user-attachments/assets/211c845e-6878-4419-bc8d-4e99611de640)
+
+* Option **2**. [Correct]
+
+![image](https://github.com/user-attachments/assets/c16e15a3-0da2-403c-8f0f-e566dba8200d)
+![image](https://github.com/user-attachments/assets/d4005a86-d107-42a3-9075-6593177378ce)
+![image](https://github.com/user-attachments/assets/950d8011-8aea-4138-84c2-9760d9aab467)
+
+* Option **4**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/cac9bed4-993e-41de-a9ef-253e5a5b27a7)
+![image](https://github.com/user-attachments/assets/fc00d00c-3049-47c1-9fd3-454ea95eb810)
+
+* Option **4**. [Got Wrong] [**VERY IMPORTANT**]
+* 1st part -> information.
+* 2nd part -> Govt. has made a rule.
+* Assessment -> the act of judging or assessing a person or situation or event. [Meaning]
+
+![image](https://github.com/user-attachments/assets/c3f1c206-14e9-4d0c-ad7a-4d266fa3b431)
+
+* The argument is valid or not, we have to check.
+
+![image](https://github.com/user-attachments/assets/89070734-a359-4eae-9c54-1833bb8e9855)
+![image](https://github.com/user-attachments/assets/64ebfa0a-b91d-424a-9e69-02f512922580)
+![image](https://github.com/user-attachments/assets/dfa7006a-d744-4f27-8ea3-662bb2854539)
+
+* Option **2**. [Got Wrong]
+* Most strengthens -> Find the optimal answer. [Formula]
+
+![image](https://github.com/user-attachments/assets/c78d4615-75a5-4b6d-836d-41c5dea1e133)
+![image](https://github.com/user-attachments/assets/292c97f0-9657-4936-8eaf-e2d296a54020)
+![image](https://github.com/user-attachments/assets/48089112-9d94-493d-9cac-349dcb894b51)
+
+* More people live there. It is a more congested area.
+* Option **2** -> Supporting statement.
+* Option **5** -> Inference type statement.
+
+![image](https://github.com/user-attachments/assets/b1c1c482-058d-4f4b-b1e0-7cadfab4de54)
+![image](https://github.com/user-attachments/assets/9cae30f8-0f62-45a0-a033-9917aa8cebcc)
+
+* Option **D**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/98b8131b-c66d-4878-92a8-aeee1ddb38b8)
+![image](https://github.com/user-attachments/assets/5bb12ef0-2f8c-4eac-b250-ad0588e81226)
+![image](https://github.com/user-attachments/assets/c580f7f6-3dd6-463a-93e6-df43cf533e72)
+
+* Option **D**. [Correct]
+
+![image](https://github.com/user-attachments/assets/42cc92fb-5db9-49d6-a2fb-8155cc586fbf)
+
+Next Class -> 20th 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
