@@ -559,6 +559,169 @@
 
 * **Assumptions**. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2a174df1-ec42-4c38-aed5-e0d1c0d3ead8)
+![image](https://github.com/user-attachments/assets/663c8d58-5f19-4440-8f8c-1a4da5aa80e9)
+
+* Unwritten statement -> Assumption -> Belief of the author that leads to a **conclusion**. [Formula] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/995fd60c-df9b-43a0-87d0-8a81d912f20b)
+
+* **Premise**. [Formula]
+
+![image](https://github.com/user-attachments/assets/84d4f63b-9cba-47b4-b4ea-092659549ea5)
+
+* **Assumption**. [Formula]
+
+![image](https://github.com/user-attachments/assets/2edf8463-eafb-4603-bbe9-84bc3ce65c85)
+![image](https://github.com/user-attachments/assets/727b4537-f6f2-40a4-8fd9-25304f5a2c22)
+![image](https://github.com/user-attachments/assets/cb95be6b-dc2f-4b37-aeb6-139cf504baea)
+![image](https://github.com/user-attachments/assets/4a74a04c-725c-46e5-8cdc-e3c17f90347d)
+
+* [Example]
+
+![image](https://github.com/user-attachments/assets/f1fb6a10-2b74-44ca-9dcc-908085317fca)
+
+* If statement '1' was -> It is a mercedes.
+* If statement '2' was -> It must be an expensive car.
+* Conclusion -> The brand would have been deciding the conclusion.
+
+![image](https://github.com/user-attachments/assets/985355f9-1cc8-4403-a73d-7a52940e5a6a)
+![image](https://github.com/user-attachments/assets/a1a21604-aaff-4d9c-8265-bd805ae9b0df)
+
+* You are driving it therefore it is expensive.
+* Who is making it expensive? 
+
+> **YOU**.
+
+* It is a mercedes therefore it is expensive.
+* Who is making it expensive? 
+
+> **Mercedes**.
+
+* Conclusion -> All mercedes are expensive.
+
+![image](https://github.com/user-attachments/assets/907ff538-0806-4c33-a894-4e981aac91df)
+
+* You are wearing a rolex watch, it must be a first copy.
+* Conclusion -> You/He only wears first copy. [Example] [**VERY IMPORTANT**]
+* Don't get biased because of the brand name.
+
+![image](https://github.com/user-attachments/assets/457ed1ea-87fa-4125-8cd1-73e8ddb23f4d)
+![image](https://github.com/user-attachments/assets/e0d2c631-7a60-4790-b3c8-4cbc4cfec2e7)
+
+* Option **A**. [Correct]
+
+![image](https://github.com/user-attachments/assets/72396329-a492-4026-ab6a-1010cb201b57)
+
+* Option **A**. [Correct]
+
+![image](https://github.com/user-attachments/assets/b59a5e37-a3ce-4f15-9468-73a1c5c4860e)
+![image](https://github.com/user-attachments/assets/fede313e-8672-4723-bd63-e71098f554c5)
+![image](https://github.com/user-attachments/assets/a3ec3b64-a6b1-4863-be44-6f4a5238b8b1)
+![image](https://github.com/user-attachments/assets/40e1aaf3-70bd-4339-8858-f85352445ece)
+
+* Option **C**. [Got Wrong]
+* Options which talk about fee -> B and C.
+
+![image](https://github.com/user-attachments/assets/3f21ff61-dd38-444a-b288-446b1fcdddff)
+![image](https://github.com/user-attachments/assets/63556676-5813-45b4-9411-c890f7fbf58e)
+![image](https://github.com/user-attachments/assets/c4d4e763-f619-4c64-91a0-b8198d54bebf)
+
+* **Assumptions** only.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ca27e79e-eaeb-44fc-a0ac-006301d25b35)
+
+* [Formula]  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2982e1a8-9eb6-4c97-bd9f-841c7de3c38f)
+![image](https://github.com/user-attachments/assets/4dfa43b9-22a3-47f9-bdda-91306d2b73b7)
+![image](https://github.com/user-attachments/assets/84d4cd45-e560-46a6-aa82-28c3ae505789)
+![image](https://github.com/user-attachments/assets/ef047f33-b75a-4b15-a3d0-6fcb2789a3cd)
+
+* [Example]
+
+![image](https://github.com/user-attachments/assets/4d3615cc-f1a5-4be3-bb7a-2d17b755d1e8)
+![image](https://github.com/user-attachments/assets/51e9131e-73b4-498d-b126-4e3afa75fcd1)
+![image](https://github.com/user-attachments/assets/ad46d979-980a-4850-9c43-d403b3f2fd56)
+![image](https://github.com/user-attachments/assets/d1b5f99e-6e0b-4485-8491-0db8421e08ff)
+
+* Option **E**. [Correct]
+
+![image](https://github.com/user-attachments/assets/1be2be82-9f22-4c78-8fd0-835d76267efa)
+![image](https://github.com/user-attachments/assets/4590a2ce-6d40-4ea3-9189-c0753bc82c26)
+![image](https://github.com/user-attachments/assets/84073d56-0f33-4cb9-b201-505b14e032f4)
+![image](https://github.com/user-attachments/assets/146c1fab-ec6d-4402-be2e-af523aee0c62)
+![image](https://github.com/user-attachments/assets/768d2d35-b49e-4411-9408-9e1fd324be2c)
+
+* Option **C**. [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/3d9ca63e-ab81-4a23-90de-e69ce9bf460b)
+![image](https://github.com/user-attachments/assets/bf83f7bb-fc17-4ade-9917-c68d291d1329)
+![image](https://github.com/user-attachments/assets/9e2812ff-11ea-466f-800d-4d815cd288e9)
+![image](https://github.com/user-attachments/assets/454087ab-dddd-4b96-89f3-631006671886)
+![image](https://github.com/user-attachments/assets/ce62d256-1c19-4349-9182-e1a2d0993150)
+
+* Option **A**. [Got Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/076c695a-bc77-4f16-9d4e-9753691f46cd)
+![image](https://github.com/user-attachments/assets/e5c43928-47b6-4a5b-a58c-66fd75363791)
+
+* Option **B**. [Correct] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5acb03bc-f55b-4600-943f-487032e69fb6)
+![image](https://github.com/user-attachments/assets/cd415224-bc9a-421d-8512-4f1e7013173b)
+![image](https://github.com/user-attachments/assets/a0b1f665-98ee-49b6-ad1c-e3900d3042a6)
+
+* **Inference**. [Formula]
+
+![image](https://github.com/user-attachments/assets/a5b15255-d682-45dc-8bdd-04c9b6799bd8)
+![image](https://github.com/user-attachments/assets/86046494-180a-426b-8166-374f2ebfa440)
+![image](https://github.com/user-attachments/assets/1cb61148-2d9a-49eb-8bed-7a5e6d3484c3)
+
+* Option **D**. [Correct]
+
+![image](https://github.com/user-attachments/assets/64fca0fa-5a66-4379-804c-44075114a81c)
+
+* Some -> Many, Little, few. [Similar Words] [Formula]
+* Some -> Atleast one.
+
+![image](https://github.com/user-attachments/assets/8682c5ea-548f-4bb4-82b3-3689fc1ad004)
+![image](https://github.com/user-attachments/assets/32d74550-69cc-419b-bf45-9b64fd8fc1cb)
+![image](https://github.com/user-attachments/assets/a99e4f5b-a6b8-416c-92b4-b3338738313c)
+![image](https://github.com/user-attachments/assets/1dcffb34-d753-4aa7-902a-1eafe0f35e98)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/ffc44f0b-060b-4f8d-893b-e15038c054f6)
+![image](https://github.com/user-attachments/assets/db0de2bf-74aa-4864-a700-59c89db3bce7)
+
+* Option **D**. [Got Wrong]
+* Likely to be **false**.
+
+![image](https://github.com/user-attachments/assets/20b4f066-eba2-4bb4-809f-8480cf3141f7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
