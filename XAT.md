@@ -2133,9 +2133,13 @@ Next Class -> 20th
 
 * DM -> according to the questions the options are framed. [Formula] [**VERY IMPORTANT**]
 
-1hr 6mins
+![image](https://github.com/user-attachments/assets/7bcce022-9bb0-421d-af32-408d289d899b)
+![image](https://github.com/user-attachments/assets/2f1311e6-2b80-45d1-842a-c30d84cbcc41)
+![image](https://github.com/user-attachments/assets/8a5044c6-bd27-4fc6-b8ca-e8aa57d7fb0c)
+![image](https://github.com/user-attachments/assets/59752b67-78b4-409a-9edf-c74dd0e0d236)
 
 
+* 1hr 42mins left.
 
 
 
