@@ -22,6 +22,20 @@
 ![image](https://github.com/user-attachments/assets/ae7a9d3e-692b-4360-bf34-c312afca329c)
 ![image](https://github.com/user-attachments/assets/d0b64367-1b5f-40af-a17a-a453d60602eb)
 ![image](https://github.com/user-attachments/assets/a750e069-37ed-409e-8436-a701077710c6)
+![image](https://github.com/user-attachments/assets/17e5ee25-f4b9-445c-a1fb-ac6c14c64baa)
+![image](https://github.com/user-attachments/assets/a4556054-8df2-4a2e-9164-9272cdba29c7)
+![image](https://github.com/user-attachments/assets/16cf5cb0-b7e5-4594-9988-09813e2644eb)
+![image](https://github.com/user-attachments/assets/0ac567ec-8dbc-4f2c-b3a3-cc80fa2636d5)
+![image](https://github.com/user-attachments/assets/ae22b42e-99d6-441b-8744-bbb8af512f9e)
+
+* Target -> 45 to 55 marks.
+
+![image](https://github.com/user-attachments/assets/6e31c537-b717-4663-9469-0798af2bc0dc)
+![image](https://github.com/user-attachments/assets/1b4a1e19-ad47-4b0c-bb2e-6dc0f3b8275e)
+![image](https://github.com/user-attachments/assets/f391c7c1-4d1a-4c8b-9d1d-a4b27baff48e)
+![image](https://github.com/user-attachments/assets/d4ecb8b2-f678-4e8a-b1d0-66d89589ab2b)
+![image](https://github.com/user-attachments/assets/28b056a2-ce08-4af6-bbc9-2ba9b42d21df)
+![image](https://github.com/user-attachments/assets/41308fa5-e0b8-46ad-918d-f7bd176c9349)
 
 ## VA and LR
 
@@ -2097,20 +2111,29 @@ Next Class -> 20th
 
 
 
+## DM(Decision Making)
 
+![image](https://github.com/user-attachments/assets/8832344f-7792-415d-873c-c61e51200e7e)
+![image](https://github.com/user-attachments/assets/cea721c7-38ea-4055-8889-f71d75149e3c)
+![image](https://github.com/user-attachments/assets/439f87a4-9327-4735-a593-52bae8492684)
+![image](https://github.com/user-attachments/assets/48751e58-05f8-426f-9a5f-f196131e60a0)
 
+* Weigh out all of the given options first. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f50d66f8-1e0e-4f2b-a4e9-807bc2efdf9d)
+![image](https://github.com/user-attachments/assets/aa0ff35b-6970-4b36-9f05-bac459de9d92)
+![image](https://github.com/user-attachments/assets/42423571-054a-4f44-a073-ce3fa2ab8bcf)
 
+* Option **B** -> Unethical.
+* Option **C** -> Too extreme.
 
+![image](https://github.com/user-attachments/assets/5f01ae87-ba0f-4680-b5df-a295b1cbf8a6)
+![image](https://github.com/user-attachments/assets/986d5b4f-c574-4db8-84b8-00ba46f2eb90)
+![image](https://github.com/user-attachments/assets/05a6410d-2edc-41f3-84f5-7098c80253ef)
 
+* DM -> according to the questions the options are framed. [Formula] [**VERY IMPORTANT**]
 
-
-
-
-
-
-
-
+1hr 6mins
 
 
 
