@@ -699,34 +699,78 @@
 * Likely to be **false**.
 
 ![image](https://github.com/user-attachments/assets/20b4f066-eba2-4bb4-809f-8480cf3141f7)
+![image](https://github.com/user-attachments/assets/b92cd836-e199-4f00-ba2c-ae784a7f124f)
+![image](https://github.com/user-attachments/assets/8676e205-5427-4dc0-9627-c0fe95943a13)
+![image](https://github.com/user-attachments/assets/24cee12a-ccaa-4586-9dfc-8806db592798)
 
+* Option **A**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/9a70d824-93d4-4fdc-8280-f53185e7cd2f)
+![image](https://github.com/user-attachments/assets/5fd03c39-48e4-42ab-9cda-0d98c6786d6a)
 
+* Literal -> Not likely.
 
+![image](https://github.com/user-attachments/assets/67080ae9-de87-44fd-9bcf-e02098f21b21)
+![image](https://github.com/user-attachments/assets/3b64ce40-dfa5-4137-b89b-57f95b90dea4)
+![image](https://github.com/user-attachments/assets/bfa2be2d-b73f-4e94-9a6f-da9b14e52a17)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/974bf828-4538-45c2-ab1b-4a0925afbc10)
+![image](https://github.com/user-attachments/assets/0c5c50a8-56cc-411c-bf59-5c53f9b1bdec)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/a02fa349-ebe6-414f-bfd5-97da5229ce7f)
+![image](https://github.com/user-attachments/assets/dc8206c2-57e5-4e37-b103-6348982af143)
+![image](https://github.com/user-attachments/assets/f5ebfbf3-9938-4284-89df-9552058703d3)
+![image](https://github.com/user-attachments/assets/b6a2773a-150b-4e25-8c23-ca259bec256c)
+![image](https://github.com/user-attachments/assets/63430ada-20c8-430b-980a-5b2e3d35a6a3)
+![image](https://github.com/user-attachments/assets/fbb9fc3e-f03d-4173-84f9-dbeec50db44c)
 
+* Option **B**. [Got Wrong]
+* Entirely, only -> **Extreme** words.
 
+![image](https://github.com/user-attachments/assets/65d5a1a2-912e-49e4-9249-690fa9322894)
+![image](https://github.com/user-attachments/assets/0655bf8e-b8e1-4f49-8d6e-4d1e70a649e3)
+![image](https://github.com/user-attachments/assets/9f68de29-55d0-4393-9969-5d83ed49676b)
 
+* Paradox -> Contradiction. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/ee7ecf5e-a3c8-4f26-9ec8-88485927e233)
 
+* Paradox -> logically absurd situations. [Meaning] 
 
+![image](https://github.com/user-attachments/assets/4bc1e717-387f-49db-9e60-70f2e5b06fdd)
+![image](https://github.com/user-attachments/assets/e26fc520-d5c6-482c-a399-ed7bb022f54b)
+![image](https://github.com/user-attachments/assets/b0a34ad4-0f48-45d7-9c36-cf7f2b1e17d8)
 
+* **Examples** of paradoxical situations.
 
+![image](https://github.com/user-attachments/assets/0266bf38-fe4a-412c-bbcc-413a566f6a4a)
+![image](https://github.com/user-attachments/assets/59136a1a-7984-4511-94c4-7e525705484d)
+![image](https://github.com/user-attachments/assets/1446f8ad-d8f9-4bf2-b0eb-0f1c40e12505)
+![image](https://github.com/user-attachments/assets/f6bfcc9f-f903-4f62-b723-21811ad0b700)
+![image](https://github.com/user-attachments/assets/cb105afd-f30f-482f-93a0-e70cc20d0102)
+![image](https://github.com/user-attachments/assets/79ac0b9c-0615-4ce2-8992-58ae9ee62c2a)
+![image](https://github.com/user-attachments/assets/1a19672c-33a8-411d-ac28-7c6dbaab7f31)
+![image](https://github.com/user-attachments/assets/af8c36df-107e-46c9-b973-633d1599da3f)
+![image](https://github.com/user-attachments/assets/e8396c95-000b-4b28-8c76-c826dd82832a)
 
+* Option **C**. [Correct]
 
+![image](https://github.com/user-attachments/assets/83c5edbe-80fe-4f3a-b030-b907f9d7db9e)
+![image](https://github.com/user-attachments/assets/2da5f2b7-8526-449a-9bc7-3badd2e94189)
+![image](https://github.com/user-attachments/assets/69c20950-b2fa-4a07-bc3f-6cbeaf891544)
+![image](https://github.com/user-attachments/assets/0e3acceb-4f45-4d1e-a78c-6e5ba7e8eff9)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/10a347b0-5973-43fd-b7d0-6e8f210258b9)
+![image](https://github.com/user-attachments/assets/6aba541c-2d2c-4924-8620-8b8f67e84671)
+![image](https://github.com/user-attachments/assets/8a41559e-9db2-4ec0-8196-843028ea6cdc)
 
-
-
-
-
-
-
-
+* Try to find the **negation**.
 
 
 
