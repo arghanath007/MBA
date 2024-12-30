@@ -2253,6 +2253,141 @@ Next Class -> 20th
 
 ![image](https://github.com/user-attachments/assets/d67b9c13-5cef-4c80-874b-8172a170cd44)
 ![image](https://github.com/user-attachments/assets/3686ee14-4961-4ca9-8a9b-622bc5d89197)
+![image](https://github.com/user-attachments/assets/e63859ab-2517-452d-8845-5dd06231d455)
+![image](https://github.com/user-attachments/assets/b00a309b-d0cc-4179-a616-b86ab0dd84a6)
+![image](https://github.com/user-attachments/assets/68327928-f5a7-48b8-bb73-37ceedac29dc)
+![image](https://github.com/user-attachments/assets/ea37965f-742a-4b01-87b6-a35df2660d84)
+![image](https://github.com/user-attachments/assets/a0a61209-b1f7-4694-be0e-40ed8b37237c)
+
+* Option **B**. [Got Wrong] [1]
+* Option **D** -> Limiting the possibility -> Thinking of zomato only. 
+* Option **B** -> More margin, revenue here.
+* B > D.
+
+![image](https://github.com/user-attachments/assets/fc14be2a-b2e5-4636-b134-6213c164d014)
+![image](https://github.com/user-attachments/assets/bd15e729-1be8-4387-a81b-b653db51d88d)
+![image](https://github.com/user-attachments/assets/bcb51257-59c2-416e-a3c3-a3267f64d2c0)
+![image](https://github.com/user-attachments/assets/efc234c3-6044-4908-812d-cd63110a55c3)
+![image](https://github.com/user-attachments/assets/d1884fba-ad10-4082-9d2b-f331cf026580)
+![image](https://github.com/user-attachments/assets/db731bf0-e6df-4bb6-b23c-4bd1516b47e6)
+![image](https://github.com/user-attachments/assets/fb3cf0e5-1185-41c9-aeaa-c4774cf371c3)
+
+* Option **C**. [Correct] [2]
+* Option **C** -> Proper planning.
+* Option **B** -> Without/verbal planning.
+* C > B.
+* 'B' alone is a good option.
+* Between 'B and C', 'C' is a better option.
+* C > D.
+
+![image](https://github.com/user-attachments/assets/b64ada40-f05f-49eb-90da-6923d1e42c3c)
+![image](https://github.com/user-attachments/assets/26a2955c-2325-4a37-82df-d936ad57e895)
+![image](https://github.com/user-attachments/assets/7c8d3d2e-557d-4670-a763-4dd6c37b1ef5)
+![image](https://github.com/user-attachments/assets/4b1fbf30-4ff6-47ca-b21b-e924adcf93aa)
+![image](https://github.com/user-attachments/assets/406150f5-6db4-4a57-ac75-4255fe9ae8b5)
+
+* Option **C**. [Got Wrong] [3] [**VERY IMPORTANT**]
+* Option **B** -> Generic option, sounds correct only.
+* C > D.
+
+![image](https://github.com/user-attachments/assets/398b4da1-99bc-4528-8276-522265da161b)
+
+* Very close options.
+
+![image](https://github.com/user-attachments/assets/84fd85b8-7663-4c00-a369-e55c559d125b)
+![image](https://github.com/user-attachments/assets/8a8ce26b-706d-437d-8de2-76af04fdd5d3)
+![image](https://github.com/user-attachments/assets/3929d83d-cfab-4abd-9f4c-62f38aa6c64d)
+
+* C > E.
+
+![image](https://github.com/user-attachments/assets/3ec03f8e-6365-49f3-a8d7-5c5201873dd1)
+![image](https://github.com/user-attachments/assets/bf50b60c-f6ef-49a0-95d4-1cbfe0d8ff3f)
+![image](https://github.com/user-attachments/assets/c139cbb5-7e72-461b-a023-70bc4d73f969)
+
+* Explainations.
+* E -> Over/Too much assumption.
+* C -> Balanced option.
+
+![image](https://github.com/user-attachments/assets/0f794349-104d-4ef0-8317-76dea5329e88)
+![image](https://github.com/user-attachments/assets/39b01078-fe45-41d9-8eb6-7c7db870b1cf)
+![image](https://github.com/user-attachments/assets/18dd688f-837e-4141-82b9-90f3c52602b8)
+![image](https://github.com/user-attachments/assets/ef70f07b-f1de-4567-af58-e480d86927d0)
+![image](https://github.com/user-attachments/assets/6b680a00-406f-478e-b221-438017e730d4)
+![image](https://github.com/user-attachments/assets/3128b14d-9e69-4f53-b248-f860b9dd75be)
+
+* Option **1**. [Correct] [1]
+* Stakes are very high.
+* D > E.
+* E -> Generic option.
+
+![image](https://github.com/user-attachments/assets/0134231c-527b-48f2-9273-281a82f1e034)
+![image](https://github.com/user-attachments/assets/10bcbe2b-2f1c-4cc5-8d44-824c5e29292a)
+![image](https://github.com/user-attachments/assets/4f90e536-0437-4415-9dc6-46a30246ec15)
+![image](https://github.com/user-attachments/assets/58d8e2b7-ccb4-46b0-a2d3-895c9a9f3a72)
+
+* Option **E**. [2] [Got Wrong]
+* A -> Cost is a useless/weak point/argument.
+* C -> Generic option.
+* D -> Weak point/argument.
+* We have to **defend our product**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6bc6ea04-07c2-4e2b-80a2-d47c70c7ec39)
+![image](https://github.com/user-attachments/assets/95e28491-d148-475b-913d-1c88c8f6a87b)
+![image](https://github.com/user-attachments/assets/8dcaeff0-e020-42eb-911f-a36f678d9e14)
+
+* Option **C**. [3] [Got Wrong]
+* D -> Weaker/wrong option -> Supporting safevalve.
+* E -> Irrevalent option -> Acceptance option.
+
+![image](https://github.com/user-attachments/assets/08eb5a79-a2a3-4946-abff-b827f7cb1be4)
+![image](https://github.com/user-attachments/assets/c4a3c2f1-0f1d-4804-9300-11d4d45025af)
+
+* 14 -> Option **D**. [1] [Got Wrong]
+
+![image](https://github.com/user-attachments/assets/a92f3d57-77ce-4b9c-b341-f3612ae68e20)
+
+* A, B -> We don't know -> Weak argument.
+* E -> Weak argument.
+
+
+* 15 -> Option **A**. [2] [Got Wrong]
+* A -> Not a brand feeling.
+* B -> 
+
+![image](https://github.com/user-attachments/assets/cd2da0c2-16e6-4645-9e4d-119e35f959ca)
+![image](https://github.com/user-attachments/assets/05381a58-4f87-4a30-b877-9a0a123801d4)
+
+* 16 -> Option **E**. [3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
