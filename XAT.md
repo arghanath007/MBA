@@ -2136,57 +2136,123 @@ Next Class -> 20th
 ![image](https://github.com/user-attachments/assets/7bcce022-9bb0-421d-af32-408d289d899b)
 ![image](https://github.com/user-attachments/assets/2f1311e6-2b80-45d1-842a-c30d84cbcc41)
 ![image](https://github.com/user-attachments/assets/8a5044c6-bd27-4fc6-b8ca-e8aa57d7fb0c)
-![image](https://github.com/user-attachments/assets/59752b67-78b4-409a-9edf-c74dd0e0d236)
 
+* [Example]
 
-* 1hr 42mins left.
+![image](https://github.com/user-attachments/assets/410dad6b-b290-4fc6-8c3f-079e14ded860)
+![image](https://github.com/user-attachments/assets/c35e674a-b1a4-4e96-a646-641d274d0228)
+![image](https://github.com/user-attachments/assets/6749c9b8-5f3a-4bf8-a56c-cae500edffb2)
 
+* Close Friend -> Doing same thing as above, unethical but not crime -> Call -> option **D**.
+* Close Friend -> Doing crime -> Options are not framed for this situation -> option **A or D**.
 
+![image](https://github.com/user-attachments/assets/9da80291-28c6-4d19-92f6-934320743982)
+![image](https://github.com/user-attachments/assets/2e8f0c4d-c2f3-4740-9662-ff24eade53ec)
+![image](https://github.com/user-attachments/assets/2b9e43e0-3814-4ca7-a365-b5ac22186a42)
+![image](https://github.com/user-attachments/assets/3908d2b2-6553-45f2-bd04-f508689957bb)
 
+* Broad of directors have created the **legal department**.
+* If **close friend** -> Always give him an **ethical warning**. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/45ddd10f-7c8c-4794-900e-3688a5c7c78f)
+![image](https://github.com/user-attachments/assets/a5165f49-0fb8-4e9c-a9ac-768d60497d31)
 
+* Option **A** -> Quality over quantity -> It is very unclear.
+* Not worked much -> As he has not worked much.
+* Option **B** -> Unclear option -> Too much assumption -> Generic statement.
+* We cannot be generic in decision making.
+* Option **C** -> Judging character. 
+* Option **D** -> Assumption.
 
+![image](https://github.com/user-attachments/assets/98a8c3c0-0581-41c7-af9f-02864cac9037)
+![image](https://github.com/user-attachments/assets/607dfcfc-686c-4381-95b7-61440060334d)
 
+* Option **E**.
 
+![image](https://github.com/user-attachments/assets/bdd02109-8aff-4f01-8d3f-a8cbc9ae5248)
+![image](https://github.com/user-attachments/assets/5d23ee26-e0ba-402b-a23b-a60151cfff17)
+![image](https://github.com/user-attachments/assets/33ebd528-ab20-4850-b1cd-e40370c1f2bf)
 
+* Option **A**.
+* Option **C** -> No course of action.
+* Option **D** and **E** -> Negative. 
 
+![image](https://github.com/user-attachments/assets/9437c76e-d9d1-4b72-bcda-eeb5fec6740d)
+![image](https://github.com/user-attachments/assets/06e6c947-6c15-4371-b590-77f612284da8)
+![image](https://github.com/user-attachments/assets/5f43e931-7fc3-4902-9d1c-d1d99944704e)
 
+* Option **B**. [Got Wrong]
+* Option **A** -> Extreme option.
+* Option **B** -> More official/authority.
+* Option **C** -> Too informal.
+* Option **D** -> Needs some authority.
 
+![image](https://github.com/user-attachments/assets/2f0c29d0-2d2e-4c6b-83aa-f290f8affe92)
 
+* Option **E** -> Giving an excuse and not being a leader -> Request/helplessness.
+* Option **E** -> Not a good example of leadership.
+* Option **E** -> Weak boss/leader.
 
+![image](https://github.com/user-attachments/assets/f54fe6e0-8ecc-4159-8cdb-44046645d6d0)
+![image](https://github.com/user-attachments/assets/250017f7-ab9b-4407-b7fb-f381cf4c03d0)
+![image](https://github.com/user-attachments/assets/03339618-12cd-41ec-b01a-63ba12dda8b5)
 
+* Option **C**. [Correct] [1]
+* Who is wrong?
+* Who is right?
+* Nobody knows, the set is hidden.
+* Option **A** -> Too extreme option.
+* Option **B** -> Making committee takes a long time -> **Decision will be delayed** -> It is not immediate. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/7c477263-55b8-47b6-b449-4387e5303d78)
+![image](https://github.com/user-attachments/assets/e7c6abcd-ceb8-4b8e-a24a-7adb7993e30d)
+![image](https://github.com/user-attachments/assets/fe07d188-9940-45d8-a291-d27bc123e741)
+![image](https://github.com/user-attachments/assets/d0cd3525-7ef9-41fe-bbf1-21eef1b0890e)
 
+* Stock prices is dependent on **trust, confidence and honesty**.
+* Option **D** -> Blaming Eric.
+* Option **E** -> Do nothing will not work here.
 
+![image](https://github.com/user-attachments/assets/bfa40c38-6aa0-42e3-b93d-04da1cafeb0d)
+![image](https://github.com/user-attachments/assets/b36763a3-fb08-41fe-9812-716775058e80)
 
+* Option **E**. [Correct] [2]
+* Exonerated -> Innocent. [Meaning]
+* Option **A** -> Do nothing will not work here.
+* Option **B** -> Wrong thing to happen -> Unethical.
+* Option **C** -> Wrong option.
+* CEO should make sure that work is going smoothly.
 
+![image](https://github.com/user-attachments/assets/a9cb7705-8a36-4d38-8969-d2ce8c5a1ae6)
+![image](https://github.com/user-attachments/assets/d4effb1f-e7ba-4ed3-9313-c93ca36626d4)
+![image](https://github.com/user-attachments/assets/a7f96553-3b73-4874-a082-3bb652c3e30d)
 
+* Option **D** -> Extreme option. 
 
+![image](https://github.com/user-attachments/assets/77ccc1fc-8455-4247-acc9-d18f2d2cdb8f)
+![image](https://github.com/user-attachments/assets/3795e152-4670-4e07-a426-dcc6a4bf6186)
+![image](https://github.com/user-attachments/assets/c3073626-8aa3-410c-ade9-c648a13abe2c)
+![image](https://github.com/user-attachments/assets/efdc0041-d447-4089-9b58-7fffe34ddca9)
 
+* Option **A**. [Got Wrong] [3] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/214b5cf2-a120-46db-aa1e-8bd8128d7881)
+![image](https://github.com/user-attachments/assets/1acb605e-3977-4bde-b396-6d8cd81efe3e)
 
+* Option **3** -> It is wrong.
+* Option **4** -> Irrevalent.
 
+![image](https://github.com/user-attachments/assets/baa1a70a-4686-4ce2-9b00-e91afb104657)
+![image](https://github.com/user-attachments/assets/16646c55-47a4-41b5-9762-66384a9538dc)
 
+* Vigilance committee -> Check for scams.
 
+![image](https://github.com/user-attachments/assets/12d75d18-16b5-4d8d-b39f-d15418648ce8)
 
+* [**VERY VERY IMPORTANT**] [Formula]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/d67b9c13-5cef-4c80-874b-8172a170cd44)
+![image](https://github.com/user-attachments/assets/3686ee14-4961-4ca9-8a9b-622bc5d89197)
 
 
 
