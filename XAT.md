@@ -2368,19 +2368,56 @@ Next Class -> 20th
 
 ![image](https://github.com/user-attachments/assets/e2b53d6e-5884-452d-bd4f-c4e932b245f6)
 ![image](https://github.com/user-attachments/assets/c8fde57c-46a2-47dd-8a22-ca5438624b88)
+![image](https://github.com/user-attachments/assets/816fb03a-b9cf-4d43-9e54-c9c61d9ae78d)
+![image](https://github.com/user-attachments/assets/af23bce8-261f-4195-a07e-b36026e39c39)
+![image](https://github.com/user-attachments/assets/4a609f76-0a65-49f4-a8a9-7336eac466d3)
 
+* Option **C**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/8128a3c6-c22e-48bf-b94f-efb48156ceaf)
+![image](https://github.com/user-attachments/assets/43f7e2d2-86eb-4922-be5f-43b2b767e088)
 
+* Emergency -> Fundraiser. [Formula] [**VERY IMPORTANT**]
+* Social/Normal issue -> 
+* Ethics issue -> Take stand. [Formula] [**VERY IMPORTANT**]
+* B, D -> Extreme option.
+* C > E.
+* C -> Better action.
+* E -> Escapism.
+* Always choose the **best options** and **not the best answer**. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/9ecf50a5-6d86-4a9c-a49c-7f42304da932)
+![image](https://github.com/user-attachments/assets/e06fa4d2-db00-4d30-8dcd-dce0110b07e9)
+![image](https://github.com/user-attachments/assets/e09a0184-20b0-4b06-b8a6-35f3ea329fe0)
 
+* Option **A**. [1] [Got Wrong]
+* Company's policy cannot have any exceptions. Cannot go against company's policy. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2e3a65d2-4293-403f-b4e3-d1dda682297c)
+![image](https://github.com/user-attachments/assets/bb163605-290c-4018-99f2-e52e8d119ed5)
+![image](https://github.com/user-attachments/assets/c1a4b182-8e34-427d-be13-c3ae1b99345c)
+![image](https://github.com/user-attachments/assets/97ac5920-e298-470b-9b1b-14e2a8de1cd8)
 
+* Option **A**. [2] [Got Wrong]
+* Don't counter negative with negative. [Formula] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c8e3be0e-825e-4e17-a858-e908df24d76e)
 
+* Option **D**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/f08bc143-78dd-4ccc-bf61-1b679d91309d)
+![image](https://github.com/user-attachments/assets/3bd06f8c-2b1c-4cdc-92b9-e9644fd381dc)
+![image](https://github.com/user-attachments/assets/dd73a6ac-854e-4292-a3a3-20e0be5be41a)
+![image](https://github.com/user-attachments/assets/f0014a60-db31-4475-88a5-4aef6511d241)
+![image](https://github.com/user-attachments/assets/9dd92445-d8d7-4baa-bf37-a2c6c3f78f0a)
 
+* Emotional -> Sensitive/afraid.
+* A -> General/generic Gyaan.
+* E -> Against her nature.
 
+![image](https://github.com/user-attachments/assets/4d0a0fea-85ae-45e5-acf9-94d31b97cd01)
 
+1hr 16mins.
 
 
 
