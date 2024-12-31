@@ -2416,27 +2416,43 @@ Next Class -> 20th
 * E -> Against her nature.
 
 ![image](https://github.com/user-attachments/assets/4d0a0fea-85ae-45e5-acf9-94d31b97cd01)
+![image](https://github.com/user-attachments/assets/e737e6c5-6665-4ed5-82ce-a844f510957a)
+![image](https://github.com/user-attachments/assets/a07ad4eb-e940-4213-8285-1aedc6460c5f)
+![image](https://github.com/user-attachments/assets/932d89e9-d057-4617-8b0f-41751b2cacd6)
+![image](https://github.com/user-attachments/assets/d260be49-6f33-4c2f-b5f7-ebf135f17e92)
 
-1hr 16mins.
+* Option **C**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/e097b4f8-adbb-4637-8b87-a20489f020a7)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/bb624bf8-77ef-4208-8824-fc65935c0e67)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/e435c4d7-c212-46df-8594-b37b2ea550f9)
+![image](https://github.com/user-attachments/assets/92ab3990-39d2-4ca9-91a3-b9982186840d)
 
+* Option **A**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/6e6ecbcd-1432-4ccc-8d99-2cd9a841de2b)
+![image](https://github.com/user-attachments/assets/06591af0-56e3-4e75-a124-62f19e24979e)
 
+* Option **B**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/3f07e069-34dc-45ba-9c4c-4d830075a379)
+![image](https://github.com/user-attachments/assets/2d737e1c-3ea4-4175-8089-41afe5cc435e)
+![image](https://github.com/user-attachments/assets/82108751-73c2-4570-8bdc-305387818202)
 
+* Option **A**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/780e7f59-afab-424b-82bd-ffb63e818170)
+![image](https://github.com/user-attachments/assets/323a2878-24e0-4f05-a07e-29832d54e4eb)
+![image](https://github.com/user-attachments/assets/ccbe90a0-abf4-4eda-b64f-745ba61b90cd)
 
-
-
-
-
-
-
-
+* Option **E**. [Got Wrong]
+* A -> Trust issues.
 
 
 
