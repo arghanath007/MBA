@@ -2349,16 +2349,25 @@ Next Class -> 20th
 * A, B -> We don't know -> Weak argument.
 * E -> Weak argument.
 
+![image](https://github.com/user-attachments/assets/16552381-b8fb-46a4-ad87-ac742e9891f8)
+![image](https://github.com/user-attachments/assets/d67de3c7-8eb6-4ac4-8d62-c0e3b232a3cb)
 
-* 15 -> Option **A**. [2] [Got Wrong]
-* A -> Not a brand feeling.
-* B -> 
+* 15 -> Option **D**. [2] [Got Wrong]
+* A -> Not a brand feeling -> Narrow.
+* B -> General argument.
+* D -> Broad.
 
 ![image](https://github.com/user-attachments/assets/cd2da0c2-16e6-4645-9e4d-119e35f959ca)
 ![image](https://github.com/user-attachments/assets/05381a58-4f87-4a30-b877-9a0a123801d4)
+![image](https://github.com/user-attachments/assets/cf3e6a01-a8fe-4897-8dd3-929c8cd2bdca)
 
-* 16 -> Option **E**. [3]
+* 16 -> Option **D**. [3] [Got Wrong] [**VERY IMPORTANT**]
+* A -> Pricing -> Not the main problem.
+* C -> Long-term plan -> Will take time -> Heavy task.
+* B -> Will not take time.
 
+![image](https://github.com/user-attachments/assets/e2b53d6e-5884-452d-bd4f-c4e932b245f6)
+![image](https://github.com/user-attachments/assets/c8fde57c-46a2-47dd-8a22-ca5438624b88)
 
 
 
