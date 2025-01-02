@@ -2454,26 +2454,47 @@ Next Class -> 20th
 * Option **E**. [Got Wrong]
 * A -> Trust issues.
 
+![image](https://github.com/user-attachments/assets/554f49f2-c360-4789-a090-421c26ab2493)
+![image](https://github.com/user-attachments/assets/13b56d22-3cce-4b8d-8046-0b87b0a2812b)
+![image](https://github.com/user-attachments/assets/203a9a49-e2bc-42b6-bd56-d072e5de2797)
+![image](https://github.com/user-attachments/assets/5c6c8000-d058-436f-aed7-bade6cef3cc9)
 
+* Option **C**. [Got Wrong]
+* I -> Generic.
+* I -> Weakest.
 
+![image](https://github.com/user-attachments/assets/d5a23e36-fe32-4241-aa8e-42c918a3d55a)
+![image](https://github.com/user-attachments/assets/8cc34c42-5be9-43cb-901b-19620e196ffc)
 
+* Option **C**.
+* B -> no physical presence.
+* C -> Physical presence.
 
+![image](https://github.com/user-attachments/assets/b5f71ce6-6832-4b04-81c0-82fac2016e86)
+![image](https://github.com/user-attachments/assets/9b08979e-bd3d-42cf-afa7-976886a48394)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/bf1d61e6-40d5-48ab-8851-0a2697f3abe1)
+![image](https://github.com/user-attachments/assets/5733e817-c54b-4db3-a93b-5fead0ab3f98)
+![image](https://github.com/user-attachments/assets/c4a62db1-e99d-41c1-917d-c712ab7bd142)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/d4fd6438-a2ef-4ae4-9768-abec9bf6834f)
+![image](https://github.com/user-attachments/assets/b3df352d-450a-4010-8db6-8b309ab9b85d)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/a303919d-919d-433c-9d27-33e042b29db7)
+![image](https://github.com/user-attachments/assets/c04b3849-8ae5-409a-ac98-6bf00dee7621)
 
+* Option **D**. [Correct]
 
+![image](https://github.com/user-attachments/assets/d6e97856-6bf9-493c-ad00-daa81f8e6ac1)
+![image](https://github.com/user-attachments/assets/697e7667-2726-44ca-8b96-e5b19d996648)
 
-
-
-
-
-
-
-
+* Option **D**. [Wrong]
 
 
 
