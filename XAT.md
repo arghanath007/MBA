@@ -2591,26 +2591,58 @@ Next Class -> 20th
 * '2' options are close -> Read the question again. [**VERY IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/4174d040-9998-40ac-8472-595c78a549ed)
+![image](https://github.com/user-attachments/assets/77529d30-f2d3-4cb4-a30d-e10b1105c955)
+![image](https://github.com/user-attachments/assets/23660ce7-d2c1-40f3-ba82-3a3c07bd3c31)
+![image](https://github.com/user-attachments/assets/fb544d24-4c39-4e5a-bf24-ab1d119b6264)
 
+* Option **D**. [Correct]
 
+![image](https://github.com/user-attachments/assets/51569e0a-7fcc-4866-8333-e3a58cf24a35)
+![image](https://github.com/user-attachments/assets/93c2865d-6f37-42c5-916f-e8182e8488b0)
+![image](https://github.com/user-attachments/assets/925de9b6-a114-42a7-9a2b-8c745ae60f74)
+![image](https://github.com/user-attachments/assets/7f46dc97-a4e7-474b-98a2-813a672c2d55)
 
+* Option **D**. [1] [Wrong]
+* D > C.
 
+![image](https://github.com/user-attachments/assets/cb0b84ca-b2a4-40cd-81d3-8eb6cecfef63)
 
+* Option **C**. [2] [Correct]
 
+![image](https://github.com/user-attachments/assets/f99d3091-0a1d-4b4f-a725-c0370d51cbcf)
 
+* Option **D**. [3] [Correct]
 
+![image](https://github.com/user-attachments/assets/cf45a267-4d06-4b9e-9a7f-f307f93806df)
+![image](https://github.com/user-attachments/assets/83c77d00-aa2a-44be-8b56-8ba54bca754f)
+![image](https://github.com/user-attachments/assets/1618183e-62e9-47bb-9c0b-ebb195711254)
 
+* Option **C**. [4] [Wrong]
 
+![image](https://github.com/user-attachments/assets/43a48fee-c150-4dcb-b20e-cd9866f35781)
+![image](https://github.com/user-attachments/assets/f4f0a9e9-2bd7-461f-9b8b-bc1ae550babb)
 
+* Option **C**. [1] [Wrong]
 
+![image](https://github.com/user-attachments/assets/e044c05b-dd48-4b42-83c9-4c9d3c78722a)
+![image](https://github.com/user-attachments/assets/b31184b8-f3b2-42d8-8922-64bb3ce387ed)
+![image](https://github.com/user-attachments/assets/c2af03ea-a3ad-4533-b6dd-830260049754)
 
+* Option **B**. [2] [Wrong]
 
+![image](https://github.com/user-attachments/assets/0d11d1cd-7c99-4f20-9b70-36ea961c105e)
+![image](https://github.com/user-attachments/assets/47d688df-3f82-47fe-919f-623b2065e7b9)
 
+* Option **B**.  [Wrong]
 
+![image](https://github.com/user-attachments/assets/6d826132-d6d6-4ef0-9a6f-3a5cb03f920a)
+![image](https://github.com/user-attachments/assets/8b0abf10-92e5-4eb3-a033-7ad884430d90)
 
+* Option **2**.  [Correct]
 
-
-
+![image](https://github.com/user-attachments/assets/14260e03-ecff-4176-b7cf-a47314073a6c)
+![image](https://github.com/user-attachments/assets/aff7bcdf-e395-404c-a2c6-83757f7af2d7)
+![image](https://github.com/user-attachments/assets/eef3eb6b-98c7-4718-9c09-bc6232dbe6eb)
 
 
 
