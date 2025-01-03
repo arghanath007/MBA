@@ -2643,17 +2643,27 @@ Next Class -> 20th
 ![image](https://github.com/user-attachments/assets/14260e03-ecff-4176-b7cf-a47314073a6c)
 ![image](https://github.com/user-attachments/assets/aff7bcdf-e395-404c-a2c6-83757f7af2d7)
 ![image](https://github.com/user-attachments/assets/eef3eb6b-98c7-4718-9c09-bc6232dbe6eb)
+![image](https://github.com/user-attachments/assets/4e7a9106-3cde-4262-981c-3f0ef62a9fde)
+![image](https://github.com/user-attachments/assets/fbd7f00e-8f39-40d6-ae8c-e6ab4fe7ed51)
+![image](https://github.com/user-attachments/assets/dd1719d2-3926-42b0-91c0-bf271de3a6f1)
 
+* Option **B**.  [Wrong]
 
+![image](https://github.com/user-attachments/assets/c14444ff-a363-45a7-a032-5a1802d566d2)
+![image](https://github.com/user-attachments/assets/857a0515-f582-4ab5-9bf1-32d0552ce3ae)
 
+* Option **1**.  [Wrong]
 
+![image](https://github.com/user-attachments/assets/4cace731-d85b-44dd-9f47-37e8a55f6354)
+![image](https://github.com/user-attachments/assets/7474d954-7f24-491a-8ba1-0580f8b7b557)
+![image](https://github.com/user-attachments/assets/db00a5a7-3bd3-4331-b4de-df268d1e2779)
+![image](https://github.com/user-attachments/assets/2a82cb89-403a-409b-8fd3-6a068d9b805f)
 
+* Option **E**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/34d736d7-8bcc-4591-b729-02d46522f4fb)
 
-
-
-
-
+* Start from 1hr 12mins.
 
 
 
