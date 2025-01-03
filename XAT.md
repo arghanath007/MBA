@@ -2496,26 +2496,50 @@ Next Class -> 20th
 
 * Option **D**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/692dcd13-db17-418e-b831-3236f76f2a56)
+![image](https://github.com/user-attachments/assets/4b0beb24-c3d0-4c96-986e-1735bd2b81cf)
+![image](https://github.com/user-attachments/assets/524fc201-6680-4568-89f8-e82c3f488c32)
 
+* Option **A**. [Correct]
 
+![image](https://github.com/user-attachments/assets/44f4123f-9dbc-46cc-936e-f90307fdb16e)
+![image](https://github.com/user-attachments/assets/2ced26b6-8d61-4c0c-9de6-34b32c06fbd6)
+![image](https://github.com/user-attachments/assets/2cc5b398-5dc1-4cea-8bf4-7342bfdde998)
 
+* Option **E**. [Correct]
 
+![image](https://github.com/user-attachments/assets/4cb5f6d0-9b4a-4633-8c69-f3f10f1d5d0e)
+![image](https://github.com/user-attachments/assets/c06b043c-35db-467a-a24c-e44118c4453d)
+![image](https://github.com/user-attachments/assets/2d7ce237-e01a-46aa-9285-84b13e7ce240)
 
+* Option **C**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/ce017640-af05-427a-aca6-76b2d82391cd)
+![image](https://github.com/user-attachments/assets/a83e1911-476c-4900-856a-2d1ef0d681b9)
+![image](https://github.com/user-attachments/assets/f319de8d-80e0-4164-8bb1-dd113cb926fd)
+![image](https://github.com/user-attachments/assets/935e5b46-b961-4b61-ade1-283ca8589aa0)
+![image](https://github.com/user-attachments/assets/be22ee37-4f7a-4fed-911a-620929449395)
+![image](https://github.com/user-attachments/assets/7bc0aaed-d45b-42c5-b74f-2744b80feae6)
 
+* Option **E**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/64156d24-c3ba-4b77-ab59-9f3fb37ebae6)
+![image](https://github.com/user-attachments/assets/52cf61ae-690c-455c-a6c6-2bc0fa14e0b8)
+![image](https://github.com/user-attachments/assets/e2d7ab43-99d8-48f4-9986-fd84f0603c4d)
+![image](https://github.com/user-attachments/assets/e43ef8e6-5034-4a9d-acab-1295a53e1090)
 
+* Option **A**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/56de0bbb-a7a7-4a34-bb6b-f3c1c8e17fdd)
+![image](https://github.com/user-attachments/assets/40668038-cb2a-4ac2-b87a-c65d46038473)
+![image](https://github.com/user-attachments/assets/c6fd24f1-bad3-4de4-97c4-a7d7dc5b5bc6)
 
+* Option **B**. [Correct]
 
+![image](https://github.com/user-attachments/assets/6d4ab478-7e2a-4fee-880f-ff82d19b3077)
+![image](https://github.com/user-attachments/assets/708453ab-b6ad-485c-bd44-f9568088c8bb)
 
-
-
-
-
-
-
-
+* Who -> Refers to living being.
 
 
 
