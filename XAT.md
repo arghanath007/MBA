@@ -2663,7 +2663,7 @@ Next Class -> 20th
 
 ![image](https://github.com/user-attachments/assets/34d736d7-8bcc-4591-b729-02d46522f4fb)
 
-* Start from 1hr 12mins.
+* 16th Dec -> Start from 1hr 12mins.
 
 
 
