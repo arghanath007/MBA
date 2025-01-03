@@ -2541,27 +2541,56 @@ Next Class -> 20th
 
 * Who -> Refers to living being.
 
+![image](https://github.com/user-attachments/assets/a26c96a5-21b3-4c1d-886d-553cccdb28a7)
+![image](https://github.com/user-attachments/assets/6daee729-8782-4ef5-b906-dc39d1a509a6)
+![image](https://github.com/user-attachments/assets/d5a54d29-3872-47e4-bf45-2e0b5b018098)
+![image](https://github.com/user-attachments/assets/6e0ce44e-f73d-4d66-a3b2-a6850e4eaf9a)
+![image](https://github.com/user-attachments/assets/eb697557-0228-4e5e-a4ad-9dbdb67ec3b8)
 
+* Option **B**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/e3143a9d-2810-4c32-8edd-4a4c231ee95c)
+![image](https://github.com/user-attachments/assets/8f9da0b9-949d-4ed9-b789-67e93540cbef)
 
+* Option **C**. [Correct]
 
+![image](https://github.com/user-attachments/assets/fdb2c5d1-f9d4-4fc6-9e7b-21e2ef388c01)
+![image](https://github.com/user-attachments/assets/4c3667c3-bba1-42c3-8a5e-b761df8b295f)
+![image](https://github.com/user-attachments/assets/1a2b8032-7966-4ab2-9edb-d44f0203e44e)
+![image](https://github.com/user-attachments/assets/b0373e47-b691-49cb-bba3-ee55d1a09100)
 
+* Option **2**. [Wrong]
+* Financial stability -> We want **immediate** money.
 
+![image](https://github.com/user-attachments/assets/7a65336f-6538-4af5-ad84-8723377eab3e)
+![image](https://github.com/user-attachments/assets/384f6017-6bc8-4b84-b073-b5f82c436c60)
+![image](https://github.com/user-attachments/assets/369780ab-08a5-44f8-acbb-5b9eae6359cc)
+![image](https://github.com/user-attachments/assets/fc238b42-2ce9-44b0-9975-e10be3449727)
 
+* P -> More wider audience/people than 'S'.
 
+![image](https://github.com/user-attachments/assets/163af3e5-c7c9-4288-844a-325b1cfeafc0)
+![image](https://github.com/user-attachments/assets/1b69d7aa-3401-42ca-90f0-2a75675adc9f)
+![image](https://github.com/user-attachments/assets/3e9e5c50-6b5a-49ea-a3d2-c3f0a3c5040e)
+![image](https://github.com/user-attachments/assets/815c5319-9491-47c4-b78d-75bf24fa39b3)
 
+* Option **B**. [Correct]
 
+![image](https://github.com/user-attachments/assets/e79583f4-83b7-4354-a28c-3259a8ebeda2)
+![image](https://github.com/user-attachments/assets/4bd3c27b-de5a-4e1b-a02c-613369e2fcd1)
 
+* Option **B**. [Wrong]
+* New condition.
 
+![image](https://github.com/user-attachments/assets/18a93c41-19a5-4d89-bafa-9246dad2ecc5)
+![image](https://github.com/user-attachments/assets/92904df9-5b49-4161-a6c2-61d3fb35f4cd)
+![image](https://github.com/user-attachments/assets/97a9d34f-d5d0-479b-b8de-3016f00418c5)
+![image](https://github.com/user-attachments/assets/03850f2e-7b8a-4986-9d22-0f15a621c313)
 
+* Option **B**. [Correct]
+* '2' options are close -> Read the question again. [**VERY IMPORTANT**]
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/4174d040-9998-40ac-8472-595c78a549ed)
 
 
 
