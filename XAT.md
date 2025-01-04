@@ -2662,10 +2662,37 @@ Next Class -> 20th
 * Option **E**. [Wrong]
 
 ![image](https://github.com/user-attachments/assets/34d736d7-8bcc-4591-b729-02d46522f4fb)
+![image](https://github.com/user-attachments/assets/4e5c3047-4df4-4f1a-80c5-780236eee323)
+![image](https://github.com/user-attachments/assets/4cdb9648-affe-495a-ac6b-75408979a6a6)
 
-* 16th Dec -> Start from 1hr 12mins.
+* Option **B**. [Wrong]
+* 4 -> Creating mindset.
 
+![image](https://github.com/user-attachments/assets/90fa9ec5-67a9-4577-a322-b449bdfba81a)
+![image](https://github.com/user-attachments/assets/b412cfca-1009-4b6b-9e17-1f832920b5d6)
+![image](https://github.com/user-attachments/assets/d33ea651-b164-4c96-bb4a-26d76c9b2266)
+![image](https://github.com/user-attachments/assets/e2c4afee-3949-4802-bdde-94c0372308e0)
+![image](https://github.com/user-attachments/assets/14b83b1d-8212-403a-be45-e256d7106214)
+![image](https://github.com/user-attachments/assets/65de9a41-f1da-4d12-a04d-06f8a908592c)
 
+* Option **A**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/873e3c63-1c79-4e0a-b574-71c42fafbaed)
+![image](https://github.com/user-attachments/assets/b4389f00-e310-460d-9910-468a08b2c8f4)
+![image](https://github.com/user-attachments/assets/a37116e1-2f50-42a0-b4f6-ef35381fd1c8)
+
+* Option **A**. [Wrong]
+* B = E
+
+![image](https://github.com/user-attachments/assets/df8c2c62-24eb-4a12-a93e-b96611385e39)
+![image](https://github.com/user-attachments/assets/596d641b-e3e2-48eb-8486-39ca0319a308)
+![image](https://github.com/user-attachments/assets/ae1fe714-a647-4b50-8a3a-7743ba379e4a)
+![image](https://github.com/user-attachments/assets/d8f77664-8365-46cc-b9c6-2544e917115b)
+
+* Option **E**. [Wrong]
+* A, B, C -> Infrastructure issues.
+* D -> Narrow/vague assumption.
+* A lot of assumptions -> Weak DM skill. [**VERY IMPORTANT**]
 
 
 
