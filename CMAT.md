@@ -325,6 +325,645 @@
 
 ## General Awareness
 
+![image](https://github.com/user-attachments/assets/98f85c52-c234-4f0f-95c0-87b6c8a3d8b5)
+![image](https://github.com/user-attachments/assets/a73c1a8a-74dd-4712-af1e-9516be584a53)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/184c7b50-c736-4801-bf55-c9ae4a857eb5)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/37bd01ef-70ca-4244-9c03-403caee01cc4)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/840ee540-5076-409e-a6bc-94451093644d)
+![image](https://github.com/user-attachments/assets/23167f93-f901-40ec-b6b9-b24c95011c5d)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/b1206064-63a7-45a8-8b90-00af75bb94fd)
+![image](https://github.com/user-attachments/assets/e48884c9-caf4-407d-b21e-8a5e14c3419d)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/1a6243c4-0862-4c55-87f8-d5f42558c286)
+![image](https://github.com/user-attachments/assets/20701b54-3f43-4caa-a0cb-ebd4f95ddb84)
+
+* Option **B**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/2656ef81-4a73-4167-a2f2-430532221bc8)
+![image](https://github.com/user-attachments/assets/5b476e8f-6022-4531-9fa7-170bd08e4158)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/7268e690-856e-4eb3-ac64-2ae2c74a4ebd)
+![image](https://github.com/user-attachments/assets/2f590991-89bd-4022-86d5-174bdb1657ba)
+
+* Option **D**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/0ccd7509-00c9-4929-a80d-f04370b4e496)
+![image](https://github.com/user-attachments/assets/8470d85b-c332-4f35-8c53-974765411805)
+![image](https://github.com/user-attachments/assets/9e1f754d-d92a-45d8-9033-5d236e5c9691)
+
+* Option **A**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/79863844-97f7-4a2b-86f1-04a7ba3b1f9d)
+![image](https://github.com/user-attachments/assets/cc830552-8b10-49f5-be4c-d21d14e0b860)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/6943ace8-d061-4155-88b5-7b35f3d96bbb)
+![image](https://github.com/user-attachments/assets/800787df-a221-4b5f-97c1-2e018682251e)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/7f39e928-7344-4711-909a-8052b03aad5a)
+![image](https://github.com/user-attachments/assets/3eb20ba5-6a93-49a5-a4fc-91b8802b58dd)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/4c986e58-6d06-4117-b8ca-a00e6e5b465a)
+![image](https://github.com/user-attachments/assets/565236c3-9fdf-44ae-8965-7ff88b995aaf)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d0ec6a6e-e5ab-49c7-a797-8c97666c809c)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/68eea5ae-1b74-47fe-96ef-6c97a06031e2)
+![image](https://github.com/user-attachments/assets/dcf74afc-3915-4479-8656-155577b5b8bd)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d0db0731-fc0c-4ab9-a83a-87f1a1d62a8e)
+![image](https://github.com/user-attachments/assets/b8d1e69d-16be-4a1a-8657-ac5cf63fa277)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/0e2882f8-3581-470f-8e07-6a7b0edbc111)
+![image](https://github.com/user-attachments/assets/d26a446c-96cc-413b-a1d9-1643fd6ba2a2)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/08521288-6355-42ec-8e1b-bf6fa0e17d62)
+![image](https://github.com/user-attachments/assets/a4e18bf9-7d0a-4472-b881-5e4495f52d91)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/c30ecc21-761b-4eac-8b3f-0363598d6a31)
+![image](https://github.com/user-attachments/assets/5d082ac8-5099-403e-8908-4711dd6baa10)
+
+* Option **D**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4b4b92d4-db1c-4d2f-a252-8c259bc12338)
+![image](https://github.com/user-attachments/assets/63d3f630-2ebd-4208-9036-3df4fd576180)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/617e2e63-2945-4c24-b936-3b00432b120a)
+![image](https://github.com/user-attachments/assets/7b0a403c-c245-4308-8d24-d81222a4491a)
+![image](https://github.com/user-attachments/assets/ac22792e-7594-4b71-883f-84e2eb6c948d)
+
+* Option **B**. [Wrong]
+* COBOL -> Common Business-Oriented Language. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8523aa3e-37a0-4b38-872b-3d1e927483b1)
+![image](https://github.com/user-attachments/assets/5ebbeed4-4be4-4ab2-a7c6-f65c26a4b93e)
+
+* Option **D**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/48030d95-a8a8-453a-ba9d-5dc28d9700c9)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/802c232f-1b9b-4610-9cc6-2d26627bc96c)
+![image](https://github.com/user-attachments/assets/bde8ab3d-491c-40af-9455-5e2d7ac83ee0)
+
+* Option **A**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/b87103ec-bd25-4ac8-b295-64910398a583)
+![image](https://github.com/user-attachments/assets/f86e1ebd-c0a2-49d0-bc13-8a23dc8083f4)
+
+* Option **C**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/fe389cb6-ba03-46aa-850d-1c0e82fed9a4)
+
+* 500 Note ->Red Fort. [**VERY IMPORTANT**]
+* 200 Note -> Sanchi Stupa. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/26a68cbc-bbec-4587-a466-4c55e6ef36bc)
+![image](https://github.com/user-attachments/assets/76471779-ad3b-4ba9-960a-0e1735429f82)
+![image](https://github.com/user-attachments/assets/c9af437f-2b7d-4e6c-911b-6b4195ff2eb0)
+
+* Option **C**.
+* Sir got it wrong.
+
+![image](https://github.com/user-attachments/assets/ae1e4338-5e91-472f-a10f-3b20469e173d)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cb64f7f3-c686-4818-b352-7d39c3fe2a1a)
+![image](https://github.com/user-attachments/assets/c98dd77b-a317-4594-8504-24f4cf26b31d)
+![image](https://github.com/user-attachments/assets/980f089b-b520-46e2-ac46-89dc303de5b6)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/73b2106f-e3ad-4b06-a0fb-17fbef1cff08)
+![image](https://github.com/user-attachments/assets/146774c8-cf7e-471e-8646-7b4eb50a4e3e)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/8718d44e-43b9-4c3e-8e98-deac47c0add4)
+![image](https://github.com/user-attachments/assets/0eddb74e-106b-436e-9ff0-44698c437b67)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ef7d70b4-f889-4fa1-b974-ff2cfc9b3613)
+![image](https://github.com/user-attachments/assets/8321ea24-8c20-4d44-b7c3-a3ef4b4ff596)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/299005ba-ed84-4be4-b594-3a321fb75ae1)
+![image](https://github.com/user-attachments/assets/858f0bce-262a-4846-9dec-a6503ddabda0)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/c86eeeaf-c73e-44a3-98a0-37d3b29c11b5)
+![image](https://github.com/user-attachments/assets/4366dff0-c53b-471f-b507-12d93d3b7eea)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/7ae6ccb8-686f-4483-9068-75df210ed3f1)
+![image](https://github.com/user-attachments/assets/45310006-8d11-4e06-ac18-94286cac2e12)
+
+* [**VERY IMPORTANT**]
+* Kula -> Family.
+
+![image](https://github.com/user-attachments/assets/1f7ab096-99c9-4f12-a5b9-097bcfa6cb6c)
+![image](https://github.com/user-attachments/assets/db12fee7-6a23-401f-a0ae-a2f98efe7ef7)
+
+* Option **C**.
+* UIDAI headquarters -> New Delhi. [**VERY IMPORTANT**]
+* UIDAI -> Unique Identification Authority of India. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/462ec347-373c-45c5-947f-5b925b0d64b6)
+![image](https://github.com/user-attachments/assets/4cfa6aad-d218-466d-a85a-47f0300fd69a)
+
+* Option **A**.
+* Knighthood -> Rabindranath Tagore. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b2b77127-fbd2-4646-ae4d-18780099efb6)
+![image](https://github.com/user-attachments/assets/8395e015-4b88-452d-9019-502fab09915a)
+
+* Option **D**. [Wrong]
+* Telangana -> MCKA.
+
+![image](https://github.com/user-attachments/assets/81a9212b-fe52-493b-b5b1-93c653ec5ff7)
+![image](https://github.com/user-attachments/assets/0edfa4a1-0f7d-46b8-9b70-f7cd8b5b7106)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/be9a9850-b88f-46b1-b240-8d2d264e2eb1)
+![image](https://github.com/user-attachments/assets/151d77d1-dfb2-4cb5-bdba-921c42f89b93)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/bba2339b-00ff-4f09-8373-5b195d8a9e03)
+![image](https://github.com/user-attachments/assets/1f395329-2319-4784-b1fe-a51466207a12)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/54e0470a-0e85-449b-b863-a37851ff43d9)
+![image](https://github.com/user-attachments/assets/74fa60a5-493d-44bb-af8b-5efb26a6023e)
+
+* Option **B**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/e8b116e0-558a-4e66-bdc4-4ee883ac46a5)
+![image](https://github.com/user-attachments/assets/be5e4db1-a173-4e0f-a742-753088a8bfd4)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/b736fac6-3cbb-4c1d-86c0-5ca2b9ec8bfd)
+![image](https://github.com/user-attachments/assets/0590adeb-8cc2-4ca8-b914-0d3ea55808b8)
+
+* Option **C**. [Wrong] [Doubt]
+
+![image](https://github.com/user-attachments/assets/938adb60-0c46-4987-96e8-2a5fa151265e)
+![image](https://github.com/user-attachments/assets/ab67d399-6df0-4c43-828c-832d0dc24ff1)
+
+* Option **D**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/9b49e60f-9173-43dc-bbf3-c8e6f6e3183f)
+![image](https://github.com/user-attachments/assets/144a738e-f5a1-4062-a9f2-b3d03469ad8f)
+
+* Bee keeping. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/57437bfb-99b1-4ef7-b94d-c96e94397299)
+![image](https://github.com/user-attachments/assets/2dd9508a-2262-4ead-84b6-de2988c38899)
+
+* Option **D**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/1f26d777-5317-4729-a014-ba2c6ab718d7)
+![image](https://github.com/user-attachments/assets/74b5389d-c52c-4fd5-ba80-feeaf18777b1)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5badef81-51ca-4275-a20c-858d9728f720)
+![image](https://github.com/user-attachments/assets/631cbfc3-d1bf-464e-9417-65a6d2756fbd)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/109bb33b-6c4e-49ec-8403-b0efa50c0e70)
+![image](https://github.com/user-attachments/assets/091bf0a2-c25e-4cc9-8c57-f9e5591afe8e)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/dff75537-db98-482a-9884-a9373647a34c)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/8db706f4-2844-4cb3-bb20-f736adeed213)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/2392d9fc-6de8-45d2-ac94-cbe520dfca78)
+![image](https://github.com/user-attachments/assets/0ca5fc91-851d-4700-b72c-2689139ce821)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/ba5ee770-eded-4f81-af8a-d9025cd225a9)
+![image](https://github.com/user-attachments/assets/3669c434-bd5e-4a3f-8e54-34051b43c469)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/054e389a-593d-4d25-bf84-cd8a8e8d1ba5)
+![image](https://github.com/user-attachments/assets/54838ee2-0d92-4d0d-a40a-cd3c57b42b56)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/654be904-c3fe-48ac-a96b-4143069e2307)
+
+* EXIM -> Export-Import Bank of India. [**VERY IMPORTANT**]
+* Also called as **foreign trade policy**.
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/9ed6109c-aec0-4498-9160-5a1b85cbfedd)
+
+* IMO -> International Maritime Organization. [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/7ed228c0-ee44-4873-aa94-fda63b379d8b)
+![image](https://github.com/user-attachments/assets/c7a1fd66-7e41-4d19-8de9-1e3f6e2d8e68)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/920b0381-7f23-4e66-ad99-7318846229cd)
+
+* Option **D**.
+* Numismatics -> It is the study or collection of currency, including coins, tokens, paper money, medals, and related objects.  [**VERY IMPORTANT**]
+* Archaeology -> It is the scientific study of past human life and activities through the analysis of material remains such as tools, pottery, jewelry, stone walls, and monuments.[**VERY IMPORTANT**]
+* Palaeography -> It is the study and analysis of ancient and medieval handwriting, focusing on reading old texts with accuracy and fluency. [**VERY IMPORTANT**]
+* Epigraphy -> It is the study of inscriptions, or epigraphs, as writing. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a3ab9ce1-e053-4337-9b75-37ff379739c5)
+
+* [**VERY IMPORTANT**]
+* Paleontology -> It is the scientific study of life that existed prior to the start of the Holocene epoch, roughly 11,700 years ago. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3958d2af-4a63-4f51-a091-623f23709fef)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/9d2f569a-ccb2-4d73-ba9f-93501e836873)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d0cfa8e6-f441-4380-80b5-c481fea76eb6)
+![image](https://github.com/user-attachments/assets/2ba00b7f-343b-48b7-9a20-c5e0806694a1)
+
+* Location -> Karnataka.
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/29710ceb-7ff2-4fe8-8a92-dca8ce55afea)
+![image](https://github.com/user-attachments/assets/9a301b3d-fcd8-468d-a232-dedef2f68b60)
+
+* MDMK -> Marumalarchi Dravida Munnetra Kazhagam. [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/a709f0d8-9a96-4d69-a079-b2912f1f864d)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ebca9545-575d-48bb-8efd-a23949519e63)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/caf0e679-2189-4dd2-9ac1-1f1a7c246171)
+![image](https://github.com/user-attachments/assets/a8bfb3e7-8f98-4ad3-9c6b-1f588304f270)
+
+* Option **C**. 
+
+![image](https://github.com/user-attachments/assets/129cc340-9e24-4c74-ac52-9e5365aa8c03)
+![image](https://github.com/user-attachments/assets/1a98cdc2-9dac-4e33-8200-fc1169b0ad00)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fe03f4ed-0e58-45ef-8b78-3e08d37b5589)
+
+* Option **A**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/0882f6f5-9559-4ea6-9f24-3ca8c7a65349)
+![image](https://github.com/user-attachments/assets/e2816692-56db-4c0d-815e-6e73e0147179)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6938d0d5-e31c-43d7-b17f-4ac0f9277d23)
+
+* Option **A**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/24ed06b7-bfa8-4a94-bae3-e0161f1e13fc)
+
+* Option **C**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/f52c4571-64ff-4975-9868-f4067d3d541f)
+
+* Option **D**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/9bc6b7c5-98c5-4af5-80f6-710d0f2da78a)
+![image](https://github.com/user-attachments/assets/666fa9fd-b660-46cc-bdfc-f73ff9193e59)
+
+* Option **D**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/6075e37f-405f-470e-b74d-c2613659c5ce)
+
+* Option **B**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/44d47a3a-c369-4f05-b2a1-4716cce1b6f7)
+![image](https://github.com/user-attachments/assets/5d1e91a8-1018-41d0-a0f3-0c5e29524819)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/f914cb9a-4989-4b59-94a9-cb609aa0626f)
+
+* Option **C**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/2cd31873-ba06-4ac2-8ce1-08639810457e)
+![image](https://github.com/user-attachments/assets/3d1c7b26-160d-4385-8bd0-c6ec31e2ee94)
+![image](https://github.com/user-attachments/assets/0859d010-f04e-47b7-8aa0-00feb8d0f392)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1da2d8f4-e6ba-4030-b645-81e20fdb209d)
+![image](https://github.com/user-attachments/assets/1e41fc2f-2993-44c0-be28-213357362c8f)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/68e62736-8b26-49aa-9799-f4145792dbaa)
+![image](https://github.com/user-attachments/assets/bf4c84c9-c80c-433a-a49f-b99855495a24)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/11b093bb-e73c-4d44-99dd-36d654ce937c)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/a464aab1-5dab-4af8-a9c9-ec3d335e8c8e)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/cc7b5da9-03d2-45c3-bcee-f827c0c1041a)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/6349d50c-8ab4-44a7-b275-56b18505df7f)
+![image](https://github.com/user-attachments/assets/4e9f74e3-619d-47c1-8c5d-40bf988519dc)
+
+* Previous Height -> 8,848m. [**VERY IMPORTANT**]
+* Current Height -> 8,848.86m. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5b6b0747-5e8d-4d7b-a27d-a31099d5010e)
+![image](https://github.com/user-attachments/assets/5aab3445-1a70-4ca8-bd23-50dd2d88be38)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/20d237b9-ddbc-43e3-84d3-d4d5af50eda0)
+![image](https://github.com/user-attachments/assets/e37d2d50-2fca-4941-830a-c404d25365a7)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a24e5c85-3145-4c4b-96bb-c0d71bc5a392)
+
+* Writs.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f1b70e5f-22ef-459c-a97d-694e76aa29a4)
+
+* CAG -> Comptroller and Auditor General of India. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cd459f2f-2c04-4c71-93f9-3e5f174cc582)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/f5d6290e-0c1d-40fc-88ff-bb86f54aabdf)
+![image](https://github.com/user-attachments/assets/82a62add-2ca6-4b35-9791-73a7f97b8a44)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/6af43498-f9d4-4ef6-b88b-4f03c0854a61)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/d872c748-a053-4608-af46-a9f600f896bd)
+![image](https://github.com/user-attachments/assets/9a765b95-dbf6-40f7-bad5-6d72a77774a6)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d1378d5e-b7c6-48a9-adbf-8b1f9bffc754)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/98482818-374d-42ef-83cc-43021da7912a)
+![image](https://github.com/user-attachments/assets/95557006-5a66-4832-8047-0f3e62ea8a33)
+![image](https://github.com/user-attachments/assets/45cd44d9-e5fa-402a-a55f-30d39f3ef04b)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9a0c2352-b9d9-42be-a860-ac06fcea2619)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/62a275b7-0a88-4989-915d-85966dd6173b)
+![image](https://github.com/user-attachments/assets/2689c6ab-0066-448d-a351-82aeef95c87a)
+
+* Option **D**.
+* Date -> 23rd June 2020 -> World Yoga Day.
+
+![image](https://github.com/user-attachments/assets/3c08ee48-b68a-467d-9699-361bd8aa6ca9)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5295753c-0991-4a6f-aed4-7019dd8b50e5)
+![image](https://github.com/user-attachments/assets/e467e589-baf6-4eef-a562-d15d3a46292f)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/c08f3619-0837-4674-8035-4cec01302738)
+![image](https://github.com/user-attachments/assets/66c043a2-b1fd-4012-a7c1-2aa4e2c4a415)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/9b72db0a-79cc-42a1-a0eb-92176738e1ae)
+![image](https://github.com/user-attachments/assets/fa7be8e4-02e3-4a8f-aae3-e5dacb382dcb)
+
+* Option **A**. 
+* B, C -> Too specific.
+
+![image](https://github.com/user-attachments/assets/a787ad97-49ed-4f86-a435-58731e0f4f26)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/d09595ab-6040-40dc-b2d3-7313a20f1fb6)
+
+* Option **C**. 
+
+![image](https://github.com/user-attachments/assets/f2512b17-5e33-42af-b562-6cbdd8b83fa8)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/e5513c1b-780b-4eb8-a2b5-57cd174599e8)
+![image](https://github.com/user-attachments/assets/147571bb-7e4d-499f-9008-f236b7c0669f)
+
+* WTO -> World Trade Organization -> Established in **January 1st, 1995** -> Headquartered in **Geneva, Switzerland**. [**VERY IMPORTANT**]
+* IMF -> International Monetary Fund -> Established in **July 22nd, 1944** -> Headquartered in **Washington, D.C., United States**.  [**VERY IMPORTANT**]
+* World Bank -> It is commonly referred to as the **International Bank for Reconstruction and Development (IBRD)** -> Established in **July 4, 1944** -> Headquartered in **Washington, D.C., U.S**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/10066264-d664-48ba-bcd7-aafd00d511fc)
+![image](https://github.com/user-attachments/assets/3c4b5e92-cd01-4103-90d4-77d94af79f39)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/a5e7233a-c117-4f1f-9cf4-4ed5ab2dc8d5)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/e9d2fb4b-4f68-4e5e-917f-cb3066a320d4)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/aa3c02b4-8edb-457c-989f-e7c4c6b6260f)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/cb17d2c2-5ed8-47eb-a702-7c7eec7bfd30)
+![image](https://github.com/user-attachments/assets/01a21d7e-38a3-433c-a8a3-4185865951f0)
+
+* Option **D**. [Wrong] [Doubt]
+
+![image](https://github.com/user-attachments/assets/f1449ed7-2755-4f5f-9fa6-a26de1a6f63c)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/4255c5da-3767-46ce-b80b-2ccaad6df049)
+![image](https://github.com/user-attachments/assets/20b95be2-544e-4104-8907-2e41270ffb14)
+
+* Option **A**. [Doubt]
+
+![image](https://github.com/user-attachments/assets/62242eb4-c751-4423-b15b-d7773462fb7e)
+![image](https://github.com/user-attachments/assets/a797f417-97ac-40c2-8ff1-c4d74b096fea)
+
+* Option **4**.
+
+![image](https://github.com/user-attachments/assets/3c18661f-d9dd-47ff-ae80-e1166291ab2d)
+
+* Option **2**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/94f426e7-59a2-4978-878d-fbb369aff100)
+![image](https://github.com/user-attachments/assets/523a118e-d668-4a76-9e28-603f2fc2a506)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e4ce24c6-0ae2-4943-893d-2cebcae34eed)
+
+* Option **1**.
+
+![image](https://github.com/user-attachments/assets/6ba778f4-d305-4452-a358-0a5057cce0a8)
+![image](https://github.com/user-attachments/assets/c84aafb1-64d1-4c3f-a075-a472b70a1bdb)
+
+* Option **3**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/c58fa599-7da8-4805-be61-5dfbb072a0c6)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c14ffe5f-6ef0-4567-a347-391240a5e029)
+![image](https://github.com/user-attachments/assets/3b13201a-93d2-4994-bcbd-652d885c6621)
+
+* Option **4**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/69093893-65d3-46a6-9371-713cebf3e645)
+
+* Option **4**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/f78eff7d-2f1e-4e1f-8058-6349fead63b8)
+![image](https://github.com/user-attachments/assets/836b75f7-3ab8-4e3f-a8ac-cc200395a908)
+
+* Option **4**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d9a398ca-c39e-4149-9f37-26d6b432efc5)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2c1783f0-e52a-46a9-a39d-e9f9ff1708f0)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/978504aa-bc88-480a-b728-0a7fe15b5725)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/06ce0d30-3d3d-491e-8afa-39f0e48dea96)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/13faab83-2d86-49c0-9c8b-e0d81954578e)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/7f853cde-61f9-4f3f-a1fd-61228a35ac79)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/f28011d6-bc12-460f-a3e5-6c0e88d9e1e6)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/b4e53985-7c2b-40a4-b9d5-290a1536d6aa)
+![image](https://github.com/user-attachments/assets/3cfb7a59-d8e5-438b-b2bc-bc22f2610a62)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/e3d95db6-6c44-475c-aa7d-7fd844e67008)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/12820500-d948-4a91-8f0f-0f2b0083fe87)
+![image](https://github.com/user-attachments/assets/32d5bf81-3d93-4fb6-a509-f76f4c7dafbf)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/5c7834c2-b727-4b11-8a84-15f6e043729f)
+![image](https://github.com/user-attachments/assets/a86c6630-14d2-4a19-84d4-358afb6799db)
+
+* [**VERY IMPORTANT**]
+
+* 14mins 30sec.
+
+
+
+
+
 
 
 
