@@ -958,7 +958,257 @@
 
 * [**VERY IMPORTANT**]
 
-* 14mins 30sec.
+![image](https://github.com/user-attachments/assets/55916c2f-1b5d-48d0-ae32-8c57da3619d8)
+![image](https://github.com/user-attachments/assets/f70a1332-a54c-490d-a2ea-b80614173479)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ba98a7a5-09a6-4f3d-a3d0-cc83810a5b9a)
+![image](https://github.com/user-attachments/assets/d912c964-767f-4e1c-af2d-2526c0cf03b8)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/c3395db6-237d-4c80-9aea-3b00e20a9f9c)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/137ff62a-6fb4-4efa-9dae-958bc12c6ee6)
+![image](https://github.com/user-attachments/assets/c9775f61-050b-4b18-8ebd-1a5bb723183a)
+![image](https://github.com/user-attachments/assets/6256e455-d48d-4d81-a5d5-e4b9849fd7b6)
+![image](https://github.com/user-attachments/assets/169dff30-c1a9-4e6d-970f-b49245bdf0e7)
+
+* Option **B**. [Doubt]
+
+![image](https://github.com/user-attachments/assets/8633f817-affe-421d-aa98-0703d4902aaf)
+![image](https://github.com/user-attachments/assets/77567554-3cbe-46aa-8cb8-c3a4eccc8fdb)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3fd88bcd-5fb9-4fe3-bbd3-c3c13f36c024)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/8e72165a-46dd-43ad-b30e-fd971db89acd)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/1452e7e3-2b59-458d-80ff-74011352a814)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/60f2b336-ccd0-4fd0-ad53-a20dc427e6bf)
+
+* Option **D**. [Wrong] [Doubt]
+
+![image](https://github.com/user-attachments/assets/4f8180f2-4b83-42dc-9a9b-ec78f6050654)
+![image](https://github.com/user-attachments/assets/b66dc0b8-153a-45b6-b30a-2caed0bed641)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/494a8271-7032-4703-8511-f8a8e0e58e52)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/b614cf95-3faf-4ed4-af7e-f6b9db5aef83)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/7e5da1de-9e97-44ac-b981-e7eeedc47365)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/91874640-49f2-42e2-b54f-2db8fcbb4f50)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ddf8d705-1047-451b-9268-4b930cb58122)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/2fa151bb-1c92-4131-96fe-c83eef8ae636)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/2a7fba49-3509-481c-af51-3ddb65c62b65)
+
+* Option **B**.
+* Bharat Ratna -> The Bharat Ratna is the **highest civilian award** in India. [**VERY IMPORTANT**]
+* Padma Vibhushan -> The Padma Vibhushan is the **second-highest civilian award** of the Republic of India. [**VERY IMPORTANT**]
+* Padma Bhushan -> The Padma Bhushan is the **third-highest civilian award** in the Republic of India. [**VERY IMPORTANT**]
+* Padma Shri -> The Padma Shri is the **fourth-highest civilian award** of the Republic of India. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/72fbbef8-0cea-44b9-a7bc-b5751613dab2)
+![image](https://github.com/user-attachments/assets/c6a48635-2218-453a-baf4-e779fa78347f)
+![image](https://github.com/user-attachments/assets/b626d0cc-3d83-4aa9-9b0a-c5f9bd2937e8)
+
+* Option **B**.
+* Ampere -> The term “ampere,” often shortened to “amp,” is the unit of **electric current** in the International System of Units (SI). [**VERY IMPORTANT**]
+* Ohm -> An ohm (Ω) is the standard unit of **electrical resistance** in the International System of Units (SI)
+* Volt -> The volt is the SI unit for **electric potential, voltage, and electromotive force**.
+* Joule -> The joule is the **unit of energy** in the International System of Units (SI)
+
+![image](https://github.com/user-attachments/assets/2151c495-2d5d-4ada-b77f-15d3d0dd300d)
+![image](https://github.com/user-attachments/assets/7794030a-09cb-483d-a427-5dee278be0f6)
+
+* Option **C**. [Wrong]
+* Homi bhabha -> Father of the Indian nuclear program. [**VERY IMPORTANT**]
+* APJ Abdul Kalam -> Missile Man of India.
+* Vikram Sarabhai -> Father of the Indian Space Program.
+* Satish dhawan -> Father of experimental fluid dynamics research in India.
+* Under whose leadership did India test their first nuclear bomb?
+
+> Prime Minister Indira Gandhi on May 18, 1974. The test was supervised by Dr. Raja Ramanna, who headed the team of scientists at the Bhabha Atomic Research Centre (BARC).
+
+![image](https://github.com/user-attachments/assets/6c84d3ee-ca39-4668-9898-9018828d075c)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/7288015f-7d46-4f0d-b750-8ea105c059b9)
+![image](https://github.com/user-attachments/assets/4b3c5426-8c08-456d-8877-9b3ef9400e25)
+
+* Option **A**. [Wrong]
+* Largest State in India by Area -> **Rajasthan**. [**VERY IMPORTANT**]
+* Largest State in India by population -> **Uttar Pradesh**. [**VERY IMPORTANT**]
+* Smallest State in India by population -> **Sikkim**. [**VERY IMPORTANT**]
+* Smallest State in India by Area -> **Goa**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6a19df1e-8879-4de3-a66a-5ee3aae760bf)
+
+* Option **A**. [Wrong]
+* Article 36-51 -> DPSP.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7f89a422-9a3b-49e7-8b90-535a19e4c73d)
+
+* Option **B**.
+* Yuan -> Chinese Yuan -> China. [**VERY IMPORTANT**]
+* Yen -> Japan.
+* Won -> South Korean won -> South Korean/Republic of Korea. [**VERY IMPORTANT**]
+* Dollar -> US.
+
+![image](https://github.com/user-attachments/assets/c4235700-a639-49f0-8fac-8ba2bae7cb95)
+![image](https://github.com/user-attachments/assets/280b54cd-2cb0-47e8-87d8-fc9639b63ec6)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/f2fb48fc-1790-4094-9b61-ae553fd3cebd)
+![image](https://github.com/user-attachments/assets/d78ecce0-c0b5-409d-9144-c38ec12875cc)
+
+* Option **B**. [Wrong]
+* Term of president of India -> 5yrs. [**VERY IMPORTANT**]
+* Term of vice-president of India -> 5yrs.
+* Term of prime-minister of India -> 5yrs.
+* Term of Attorney General of India -> Not fixed by the Constitution -> The Attorney General is appointed by the President of India.
+
+![image](https://github.com/user-attachments/assets/7bc86db4-0169-4d91-bfd6-57ae2ee159e7)
+
+* Option **B**. [Wrong]
+* Wular Lake location -> Bandipora district of Jammu and Kashmir, India.
+
+![image](https://github.com/user-attachments/assets/c8da5f58-e55c-4784-ba82-0edb2bb3145d)
+![image](https://github.com/user-attachments/assets/bd8de756-fb48-4d32-847a-335f72c6538b)
+
+* Option **B**.
+* Smallest bone in human body -> Stapes -> Located in the **middle ear**. [**VERY IMPORTANT**]
+* Femur -> The longest and strongest bone in the human body -> It extends from the **hip to the knee**.
+* Radius -> The radius bone is one of the two long bones in the forearm, alongside the ulna.
+* Tibia -> The tibia, also known as the shinbone, is the larger and stronger of the two bones in the leg below the knee, located on the medial side of the leg. 
+* Largest bone in human body -> Femur/Thigh bone. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0e9c5183-fbf9-4866-86dd-835ee90cfd19)
+
+* Option **C**.
+* Titles/Awards/Organizers.
+* Organizers -> The International Cricket Council (ICC).  [**VERY IMPORTANT**]
+* Host -> India.
+
+![image](https://github.com/user-attachments/assets/6238c5a5-e629-498d-8516-4ab4ea6f5972)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/28b667e3-755b-4ee7-b739-87a4c27372b6)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d3975e9d-0482-401b-9454-feb6cfc1f466)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/dab6820b-3342-44cb-8cb4-04d469fdeff8)
+![image](https://github.com/user-attachments/assets/d5096f83-64aa-4348-a12c-1fdfaf303f1d)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ab531177-a1d6-4611-882a-1b9ccc7ddce6)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/adf58351-286e-441b-9550-aee5737c01b7)
+
+* Option **C**. [Wrong]
+* won the nobel peace prize in 2024 -> Nihon Hidankyo. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d0b4522e-419b-4787-9238-d04d8cbf8525)
+![image](https://github.com/user-attachments/assets/331283c8-d459-4637-91ca-a5dbafe7e3c9)
+![image](https://github.com/user-attachments/assets/9bb9b91e-0d98-4f16-835f-b3834a5bea0b)
+![image](https://github.com/user-attachments/assets/edd3fd51-5e9f-4ce1-86fb-4d76071bb8cd)
+![image](https://github.com/user-attachments/assets/2c063dce-0870-4e64-b89d-a1921a6b72f5)
+![image](https://github.com/user-attachments/assets/92627bb4-874d-4947-a7c2-e71b02d4d20a)
+![image](https://github.com/user-attachments/assets/434ba209-5eea-499d-a635-93abeddfebde)
+![image](https://github.com/user-attachments/assets/76c6de3e-e67c-488c-bd1a-41219ec61d89)
+
+* [**VERY IMPORTANT**]
+* Amendments are taken from **south africa** only.
+* 42nd Amendments of 1976 -> Called as the **mini-constitution**.
+* 100th -> Bangladesh.
+* 101st -> GST.
+* 102 -> NCBC.
+* 103 -> EWS.
+* 106 -> Women's special rights.
+
+![image](https://github.com/user-attachments/assets/ff136365-0f14-46c7-a60d-f996ce77529e)
+![image](https://github.com/user-attachments/assets/9403bdd0-5d6a-4966-b024-a2d89249d84e)
+![image](https://github.com/user-attachments/assets/3981b3bc-a6d8-48f7-8b1c-1f92a4c3574b)
+![image](https://github.com/user-attachments/assets/fbd7c693-acbd-4414-ab25-2a963cb32a1f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d275b896-5c7f-451b-b42a-f3a81cf7fed0)
+![image](https://github.com/user-attachments/assets/bbf971f3-edff-461d-8310-be2d2a455b3b)
+![image](https://github.com/user-attachments/assets/02066d66-551f-4e7f-af76-24e52a62f825)
+
+* [**VERY IMPORTANT**]
+* 29mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
