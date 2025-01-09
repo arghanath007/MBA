@@ -1177,7 +1177,42 @@
 ![image](https://github.com/user-attachments/assets/02066d66-551f-4e7f-af76-24e52a62f825)
 
 * [**VERY IMPORTANT**]
-* 29mins.
+
+![image](https://github.com/user-attachments/assets/4b356591-916c-4dd5-bef3-8f82fdf4e204)
+![image](https://github.com/user-attachments/assets/9cee977a-54ed-4f3f-bbce-a91f833a654b)
+![image](https://github.com/user-attachments/assets/fb6cbf2f-44b8-4317-86d0-8a21054d83a7)
+![image](https://github.com/user-attachments/assets/c8372af9-ab2d-45fb-b791-92bb4f2c731a)
+
+* Articles. [**VERY IMPORTANT**]
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
