@@ -1184,11 +1184,39 @@
 ![image](https://github.com/user-attachments/assets/c8372af9-ab2d-45fb-b791-92bb4f2c731a)
 
 * Articles. [**VERY IMPORTANT**]
-* 35mins.
+* Article 19A -> Speech.
+* Article 19B -> Assemble.
+* Article 19C -> Association.
+* Article 19D -> Move.
+* Article 19E -> Settle.
+* Article 19F -> Not there.
+* Article 19G -> Service.
+
+![image](https://github.com/user-attachments/assets/1b3e6b4f-dc35-4ff2-aa90-ef71d6dbde6b)
+![image](https://github.com/user-attachments/assets/73a1d86e-3d50-4b85-b3f6-4a76b8def2af)
+![image](https://github.com/user-attachments/assets/54edf4b5-b20c-4567-8e8d-e21bd8c7313d)
+![image](https://github.com/user-attachments/assets/fe32f36c-6e38-4013-8e92-e39b12b3ffc1)
+![image](https://github.com/user-attachments/assets/e69ee93c-d6bf-4773-a713-a566637c4cc8)
+![image](https://github.com/user-attachments/assets/dc342ece-9201-495c-b90c-bc02ed3773ea)
+
+* Articles. [**VERY IMPORTANT**]
+* Minorities(M).
+* Religion(R).
+* Exploitation(E).
+
+![image](https://github.com/user-attachments/assets/056f47bd-369e-498d-8ab2-7e5cfef78d7a)
+![image](https://github.com/user-attachments/assets/7c4f02c2-6d87-46e6-981d-1a5c706da614)
+
+* Writs of Article 32. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/92c81619-de2d-471b-8d49-5f5be4150a01)
+![image](https://github.com/user-attachments/assets/6728be29-0b4a-4732-8369-4acf2e12e37b)
+![image](https://github.com/user-attachments/assets/22315b19-62c1-469e-b28d-cb714541c3b5)
+
+* DPSP. [**VERY IMPORTANT**]
 
 
 
-x
 
 
 
