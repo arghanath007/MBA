@@ -1235,9 +1235,24 @@
 ![image](https://github.com/user-attachments/assets/97f05479-0969-4188-92ef-5a0bdd73d8e5)
 ![image](https://github.com/user-attachments/assets/55f3e904-6217-4454-bdd3-fe944eb78329)
 ![image](https://github.com/user-attachments/assets/7558a4a0-e6f0-46f8-85d1-bbe7e10df468)
+![image](https://github.com/user-attachments/assets/aadd82bb-58cf-43c7-946d-344a2831cedf)
 
+* Mughal Emperor. [**VERY IMPORTANT**]
 
-
+![image](https://github.com/user-attachments/assets/bccadccf-021f-4733-8d4a-a35ae4d66893)
+![image](https://github.com/user-attachments/assets/bd8f1f24-df42-48b0-a1b4-6f28b86e4876)
+![image](https://github.com/user-attachments/assets/8ac7682c-0c59-4f53-bbe6-126e19304bdc)
+![image](https://github.com/user-attachments/assets/4f4778e9-7dc5-4d7b-981c-3939b5a2af86)
+![image](https://github.com/user-attachments/assets/6a482738-15b4-4694-b697-40f922655198)
+![image](https://github.com/user-attachments/assets/6ada3ea9-f8d7-4760-9008-d9c470ba6b74)
+![image](https://github.com/user-attachments/assets/6d4b4617-9c98-43b7-9c32-a15cb2bd1851)
+![image](https://github.com/user-attachments/assets/394ee722-7799-43e6-8f06-2bdfb70e2bd8)
+![image](https://github.com/user-attachments/assets/a8867462-709f-4bea-accd-135025379d3c)
+![image](https://github.com/user-attachments/assets/d4829edd-1cce-411f-9771-184ab80201dd)
+![image](https://github.com/user-attachments/assets/f4f598d7-feab-47cb-a24a-cfb8b34c8463)
+![image](https://github.com/user-attachments/assets/8a64f4b7-4375-4823-9486-a816e5046736)
+![image](https://github.com/user-attachments/assets/51ca15ac-1cec-47b1-8aeb-4d00a74fc12a)
+![image](https://github.com/user-attachments/assets/40754535-a1b8-4d5f-98d9-47bf04dc0d45)
 
 
 
