@@ -1212,15 +1212,29 @@
 ![image](https://github.com/user-attachments/assets/92c81619-de2d-471b-8d49-5f5be4150a01)
 ![image](https://github.com/user-attachments/assets/6728be29-0b4a-4732-8369-4acf2e12e37b)
 ![image](https://github.com/user-attachments/assets/22315b19-62c1-469e-b28d-cb714541c3b5)
+![image](https://github.com/user-attachments/assets/9959966f-81a2-4308-a29c-1d979d655136)
 
 * DPSP. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/9869063a-24cc-4254-8f71-d5d1115541f6)
+![image](https://github.com/user-attachments/assets/18c09235-4e1b-4185-950a-f5ab94b854fe)
+![image](https://github.com/user-attachments/assets/bff212e3-a870-4a25-b704-cff05cb23b3b)
+![image](https://github.com/user-attachments/assets/4000e0ad-c457-4313-938e-271c82810b6e)
 
+* The Union. [**VERY IMPORTANT**]
+* Article 108 -> Join sitting -> Is based on the Australian Constitution. [**VERY IMPORTANT**]
+* Article 110 -> Money Bill -> Lok Sabha -> A Money Bill can only be introduced in the Lok Sabha and not in the Rajya Sabha. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b59f3f91-22cc-4361-9ece-dd44ed77fdd8)
+![image](https://github.com/user-attachments/assets/d3605a8b-765c-48f7-8f8f-fbf72e619854)
+![image](https://github.com/user-attachments/assets/5cc6b4b4-252f-4263-b868-bce037a3bf6f)
+![image](https://github.com/user-attachments/assets/7fa96b1d-46e4-43ad-b127-e0189a0c14c1)
 
+* [**VERY IMPORTANT**]
 
-
-
+![image](https://github.com/user-attachments/assets/97f05479-0969-4188-92ef-5a0bdd73d8e5)
+![image](https://github.com/user-attachments/assets/55f3e904-6217-4454-bdd3-fe944eb78329)
+![image](https://github.com/user-attachments/assets/7558a4a0-e6f0-46f8-85d1-bbe7e10df468)
 
 
 
