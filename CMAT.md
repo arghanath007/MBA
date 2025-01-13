@@ -1366,6 +1366,21 @@
 
 * All Awards: Sep, Oct, Nov. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1f973c19-0076-47c0-9f74-42bfa124f963)
+![image](https://github.com/user-attachments/assets/dc68f03d-39de-486e-8382-744c60737976)
+![image](https://github.com/user-attachments/assets/a5f21378-f1e0-46fd-9750-9263e48110b5)
+![image](https://github.com/user-attachments/assets/69061e01-c451-4b9f-815a-73ecc8f1e025)
+![image](https://github.com/user-attachments/assets/877e30fb-9ae9-4b91-be20-6147a079e6df)
+
+* Decadal -> 10yrs.
+
+![image](https://github.com/user-attachments/assets/67129202-ad41-4d60-a238-4b4aae9eba67)
+
+* Mortality rate -> A mortality rate is a measure of the number of deaths in a specific population, scaled to the size of that population, per unit of time. [**VERY IMPORTANT**]
+* Fertility rate -> The total fertility rate (TFR) is a measure of the average number of children a woman is expected to have during her reproductive years, based on current fertility rates. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b279c945-63b1-4049-ac82-d1edf828a4ad)
+![image](https://github.com/user-attachments/assets/583d8fab-f482-440b-a0d9-abf5481c19b1)
 
 * CENSUS 2011.  [**VERY IMPORTANT**]
 
