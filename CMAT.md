@@ -1254,17 +1254,120 @@
 ![image](https://github.com/user-attachments/assets/51ca15ac-1cec-47b1-8aeb-4d00a74fc12a)
 ![image](https://github.com/user-attachments/assets/40754535-a1b8-4d5f-98d9-47bf04dc0d45)
 
+* Mughal Emperors. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/04f788e1-09cb-46fc-927d-38825cac0e8f)
+![image](https://github.com/user-attachments/assets/b7c4d606-b588-4b70-a114-d013a1c2ff33)
+![image](https://github.com/user-attachments/assets/aef36fcc-6992-42ce-bf71-7a1ff72f0884)
+![image](https://github.com/user-attachments/assets/fc003d57-38ed-4337-b7b3-8b48a3aa57d3)
+![image](https://github.com/user-attachments/assets/54989313-b05b-4269-b7ee-73124c0f47b6)
+![image](https://github.com/user-attachments/assets/2d4483ec-85eb-402c-871c-cb09564509b8)
+![image](https://github.com/user-attachments/assets/b4914659-a84b-473a-81a2-e9a15bbc2c0c)
+![image](https://github.com/user-attachments/assets/c1b7a88f-f0b5-4d03-af7b-419ff6fb2c8d)
+![image](https://github.com/user-attachments/assets/7173eb3d-3528-4437-aa58-4805d2cdf51c)
+![image](https://github.com/user-attachments/assets/4d147092-7d03-4190-bd48-a077b3260b92)
+![image](https://github.com/user-attachments/assets/d6ac5bc1-0670-4736-b499-bd9c77d12484)
+![image](https://github.com/user-attachments/assets/0f064119-08f0-4dc1-b118-f37b7898ca66)
+![image](https://github.com/user-attachments/assets/1837fdbd-cd71-42db-b865-70a2b05114e6)
+![image](https://github.com/user-attachments/assets/33ee5f46-dfb4-471f-9505-42dee8fda53d)
+![image](https://github.com/user-attachments/assets/839c9dc8-69fb-4873-a269-306f2f017f72)
+![image](https://github.com/user-attachments/assets/97b076a8-9ab8-446a-879c-e2992ba9a250)
+![image](https://github.com/user-attachments/assets/71817bec-c069-4b8f-b778-c052a6d01dcf)
+![image](https://github.com/user-attachments/assets/f50e3385-e2bb-4c75-b459-576cfa50a14d)
+![image](https://github.com/user-attachments/assets/a7b50e37-ed44-471b-92e6-6c6d24081f0f)
+![image](https://github.com/user-attachments/assets/7400417b-39de-4b04-88a8-6b4f4d6ad057)
+![image](https://github.com/user-attachments/assets/cd386840-a828-4219-8e37-fb8848396a8f)
+![image](https://github.com/user-attachments/assets/97e454d0-c611-4f7d-a2c9-75879bc3a1de)
+![image](https://github.com/user-attachments/assets/39fa53b9-1543-44d0-a37a-687b222fb5da)
+![image](https://github.com/user-attachments/assets/00b4cccb-1d5c-4b45-8cd9-02223c8a8f14)
+![image](https://github.com/user-attachments/assets/a53fe1c2-e63e-4343-abab-3fa941afae4a)
+![image](https://github.com/user-attachments/assets/6b89120c-ffb3-4121-938d-2dc0c63cabe0)
+![image](https://github.com/user-attachments/assets/04926cf3-a065-4af9-b6c7-66292b6f86a5)
+![image](https://github.com/user-attachments/assets/05851a47-4d6d-4f3d-9bfe-85fe75e2d409)
+![image](https://github.com/user-attachments/assets/2814e9ee-4dfa-4cf7-96bd-3a53414098f6)
+![image](https://github.com/user-attachments/assets/4110f984-9ab1-445f-b6ac-f9225e0967a0)
+![image](https://github.com/user-attachments/assets/6cf42fd0-e044-4058-b7b8-2124645cb1a0)
+![image](https://github.com/user-attachments/assets/5f4a5ec1-9037-46ea-ab35-8257d48cd0a1)
+![image](https://github.com/user-attachments/assets/1f8c28e7-0730-4689-85e1-c20a5afa50e3)
+![image](https://github.com/user-attachments/assets/ab5f928a-52aa-4683-868d-cbe04b67490a)
+![image](https://github.com/user-attachments/assets/b15152b6-782f-47a3-8310-248614320382)
+![image](https://github.com/user-attachments/assets/5b046f44-6cf7-4ea2-a946-0c53d4b2ff9c)
+![image](https://github.com/user-attachments/assets/09d33438-4bdd-49a0-ab65-1095bb142813)
+![image](https://github.com/user-attachments/assets/b5b62761-8776-4543-8fec-ed341aaf33e1)
+![image](https://github.com/user-attachments/assets/675cb2cb-202e-439c-822a-4e427a8c08a5)
+![image](https://github.com/user-attachments/assets/24ddec31-ff08-45b6-9fba-5fef35f6382a)
+
+* Rasgullas -> Orissa. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b32a9799-e65a-4211-a6f9-c6cc14dda1d5)
+![image](https://github.com/user-attachments/assets/cf5bea24-2e23-46da-ad27-b9fdf737921c)
+
+* GI tags, statewise. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2ee6fadf-ffff-41d3-b978-eaeed35664e0)
+![image](https://github.com/user-attachments/assets/b383e77f-5d10-4e2b-83c4-1cc1eca7d5d8)
+![image](https://github.com/user-attachments/assets/7d9a079a-5ebc-4a05-b2fd-5a3cd3b390ed)
+![image](https://github.com/user-attachments/assets/20f6c6ee-6cd3-4c38-b927-a47c42463737)
+
+* Serial No. is also **important**. Remember that also.
+
+![image](https://github.com/user-attachments/assets/053b8335-4b86-4559-92c5-c42854b208c8)
+![image](https://github.com/user-attachments/assets/d8e5c0df-e8e2-426a-a27e-2ab1952d8265)
+![image](https://github.com/user-attachments/assets/bbeac7fa-c971-4faf-a82f-4038ede49b44)
+![image](https://github.com/user-attachments/assets/5cee940d-2d4a-417d-8fb4-f798e565bb4e)
+
+* 2024 -> Assam. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/10dcc9cd-de56-4853-b958-fd5be4465f75)
+![image](https://github.com/user-attachments/assets/ede63aca-c678-4e4f-b11d-7478a0870b35)
+
+* UNESCO sites. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9793f134-3be7-45eb-bf57-7a8a74cde4f0)
+![image](https://github.com/user-attachments/assets/84aecd1b-54f7-4cf0-b4e0-44a31ccdaa0f)
+![image](https://github.com/user-attachments/assets/a06f621a-8d59-4edc-b718-d3a5db894809)
+
+* Pakistan(P).
+* Gujarat(G).
+
+![image](https://github.com/user-attachments/assets/babe9758-b278-4954-943f-187934e4e46e)
+![image](https://github.com/user-attachments/assets/766010fa-6144-4c60-a9d6-a7e8ab571317)
+![image](https://github.com/user-attachments/assets/dbb5c478-bcae-4b84-b23a-a981838c828d)
+![image](https://github.com/user-attachments/assets/404b0721-5e66-4e7a-add3-c1b12feb1643)
+![image](https://github.com/user-attachments/assets/32ee3168-8165-47b7-8092-1442364b7e2e)
+![image](https://github.com/user-attachments/assets/b36cb08a-0e87-4cda-819a-6085c7b8afcd)
+![image](https://github.com/user-attachments/assets/0663e859-9ac7-41d7-92da-5f26b0e9ef04)
+![image](https://github.com/user-attachments/assets/3458527e-690c-4712-bfdf-274d431eb0d2)
+![image](https://github.com/user-attachments/assets/ed29c9aa-7514-4e37-8a1f-81a6e0e5b0ae)
+![image](https://github.com/user-attachments/assets/ffb9e0f4-7487-499e-9d50-905818369691)
+![image](https://github.com/user-attachments/assets/b04d8f69-8077-48f6-8975-df855ce8eacb)
+
+* Western most -> It was called the **Dor**. [**VERY IMPORTANT**]
+* Harrapa bought gold from **karnataka**. [**VERY IMPORTANT**]
+* Indus Valley Civilizations.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0d28f456-c0f8-4af2-844f-4c2fb5d83ded)
+![image](https://github.com/user-attachments/assets/41c32c3e-8064-4f87-8506-b720befbcc72)
+
+* Word of the Year 2024 -> Collins Dictionary -> **Brat**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4d386c84-8eff-4d6d-ba28-121564364d75)
+
+* Chief of Indian Army(COAS) -> General Upendra Dwivedi -> He is a four-star general officer of the **Indian Army** and the current 30th Chief of the **Army Staff** -> Serving the Indian Army since June 30, 2024.  [**VERY IMPORTANT**]
+* Chief of Indian Navy -> **Admiral Dinesh Tripathi** is the Chief of the Naval Staff of India -> Assumed office on April 30, 2024.  [**VERY IMPORTANT**]
+* Chief of Indian Air Force(AF) -> Air Chief Marshal **Amar Preet Singh** -> Took office on September 30, 2024.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8cfc72b9-0b11-4500-b54d-5c6c5f14e566)
+![image](https://github.com/user-attachments/assets/9352462e-28aa-451d-b051-c5544c72fa18)
+![image](https://github.com/user-attachments/assets/115ea4d4-28b6-4602-8008-60aec4b58dad)
+![image](https://github.com/user-attachments/assets/d08dc609-fa65-40ca-aaf1-6e076c419065)
+![image](https://github.com/user-attachments/assets/9b58f562-1263-4ae5-9a44-902953e63647)
+![image](https://github.com/user-attachments/assets/4730527f-6dfa-45d3-8bd0-9af1f3f2f275)
+
+* All Awards: Sep, Oct, Nov. [**VERY IMPORTANT**]
 
 
-
-
-
-
-
-
-
-
-
+* CENSUS 2011.  [**VERY IMPORTANT**]
 
 
 
