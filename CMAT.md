@@ -584,47 +584,87 @@
 ![image](https://github.com/user-attachments/assets/9633c182-ec9a-4353-8db6-ee18db18cb1e)
 
 * Unicorns in India.  [**VERY IMPORTANT**]
+* **World Entrepreneurs Day** is celebrated annually on **August 21st** to honor the spirit and hard work of entrepreneurs who drive innovation, job creation, and economic growth. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2a505d37-7220-4e24-8cd8-387fe09ed3a9)
+![image](https://github.com/user-attachments/assets/3bbc988e-ff69-44df-93a7-915221f5404c)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/b1019043-8f2c-4ac2-bd74-fd5b458c289f)
+![image](https://github.com/user-attachments/assets/75620f16-8a1d-47fb-a407-f885b5a23f48)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/5bc56f79-1489-4b84-8a3b-90a56dec7dde)
+![image](https://github.com/user-attachments/assets/4cf95ecd-f39c-4803-8446-c831b041e817)
+![image](https://github.com/user-attachments/assets/8293f64d-e62c-4e5e-bea3-32539dfa1d2b)
 
+* Option **B**.
 
+![image](https://github.com/user-attachments/assets/a570c0ad-7f92-4c6d-ae3d-5dca1a4da875)
+![image](https://github.com/user-attachments/assets/902a756f-767b-463c-9969-7941910c6063)
 
+* Point **3 and 5** -> Generic/Basic necessities.
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/fbc16f0e-b615-4053-a44b-b3c21c830178)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/4da08fcf-fb19-4935-95d7-6ede8558993d)
+![image](https://github.com/user-attachments/assets/dd17e821-71d3-419b-b6a5-2fd3b6900f36)
 
+* Option **B**.
 
+![image](https://github.com/user-attachments/assets/dbc4222d-1876-46ab-85a6-006d9e2d5b13)
+![image](https://github.com/user-attachments/assets/4264bae1-4655-45bb-be38-1cd2aa32906e)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/00869e3d-f097-427b-9649-4921d5f5cb9e)
 
+* Option **C**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/2a5dadd3-ca68-4df2-b275-7972790771ce)
+![image](https://github.com/user-attachments/assets/c2c01fd5-772f-4739-a848-c0ac26f6894b)
+![image](https://github.com/user-attachments/assets/a6b88f7e-894c-4a0f-937b-a2d8c113e137)
 
+* Option **D**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/c480ff28-2926-46ef-b1e4-4bff608f4f3b)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/94f74ff7-3121-472e-a4ae-702f56e0875d)
 
+* Option **C**.
+* Data Mining -> 
 
+![image](https://github.com/user-attachments/assets/9c1e53bf-5d7a-4ec6-a590-719f8e600ca9)
+![image](https://github.com/user-attachments/assets/3b4150c8-97c6-4f26-b91d-7bb1b49f87f2)
 
+* Option **D**. [Wrong]
+* Activity Ratio or Efficiency ratio -> How much the company is efficient.
 
+![image](https://github.com/user-attachments/assets/bb4ca02e-1807-4357-8b32-46d88d9c9c27)
 
+* Option **A**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/a1ab6876-bfa0-489a-812c-30e598f40239)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/16de917d-2a33-4ad8-a237-e1f5be3c530b)
+![image](https://github.com/user-attachments/assets/7b38bdf7-a003-456e-a33e-cca44b788e83)
 
+* Option **C**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/09fcae88-1c32-4ff1-8947-0c0b383a0c98)
+![image](https://github.com/user-attachments/assets/937ac6c2-ea90-4a74-b843-5ce197d41b4c)
 
-
-
-
-
-
-
-
-
-
+* [**VERY IMPORTANT**]
+* Start from 32mins 58secs.
 
 
 
@@ -1770,11 +1810,16 @@
 
 * Delhi Dynasty. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/7c13d710-ea1f-450c-9666-2358a0158bb6)
 
+* Droupadi_Murmu. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/13a254cc-4546-4a19-819c-2f773bb2bf6e)
+![image](https://github.com/user-attachments/assets/6e511fb7-0fce-4e02-8568-816358380f47)
+![image](https://github.com/user-attachments/assets/810e4182-b384-432f-b222-095d77703497)
+![image](https://github.com/user-attachments/assets/33368aea-52dd-40b8-be83-6be5c40e4864)
 
-
-
+* Narendra_Modi. [**VERY IMPORTANT**]
 
 
   
