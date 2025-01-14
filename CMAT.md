@@ -1,5 +1,7 @@
 # CMAT
 
+![image](https://github.com/user-attachments/assets/88edc73b-c338-4ebe-9480-490037aaf3df)
+
 ## Innovation and Entrepreneurship
 
 ![image](https://github.com/user-attachments/assets/1b21b7fc-7fa8-4a35-8e2c-8fe10f11d577)
@@ -1384,6 +1386,66 @@
 
 * CENSUS 2011.  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/64e6cd28-a4a3-4def-b4a3-40336d774401)
+![image](https://github.com/user-attachments/assets/6ba4b3bd-1b4b-45a4-911f-6c8554e20524)
+![image](https://github.com/user-attachments/assets/bff09796-6d0c-455f-a87c-48fdb7afbcda)
+
+* First Governor General of India -> Lord William Bentinck. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/69d2af99-f6da-4708-ad48-d44995246f6c)
+![image](https://github.com/user-attachments/assets/a6e53c06-d45a-452b-8b41-5009c5cd3a28)
+
+* First Viceroy of India -> Lord Canning.
+
+![image](https://github.com/user-attachments/assets/d4ea5548-dc1d-4512-8379-4af76d2b88c5)
+![image](https://github.com/user-attachments/assets/0bbc502f-d42e-40b1-9ced-ef6534113563)
+![image](https://github.com/user-attachments/assets/2164397e-3504-42f4-bd7f-68fb66c75a74)
+
+* Government of India Act 1919 also called as **chelmsford act** -> The Government of India Act 1919, also known as the Montagu-Chelmsford Reforms. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b37a10eb-303b-4c4d-91d6-976d704b7da1)
+
+* The Dandi March, also known as the Salt March or Dandi Salt Satyagraha, was the initiating act of the Civil Disobedience Movement led by Mahatma Gandhi in 1930. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a962eff7-d5bf-43a0-aac8-4ae5055426e5)
+![image](https://github.com/user-attachments/assets/fa6362a6-14c4-408e-8e32-430a88b97b8a)
+![image](https://github.com/user-attachments/assets/96fbc9f9-4324-4662-955d-9f414d844e5c)
+
+* Governor General. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/67e14900-c49b-496b-9523-05070f1e1e2d)
+![image](https://github.com/user-attachments/assets/1402de58-35e7-4193-bf24-a07117de1418)
+![image](https://github.com/user-attachments/assets/f539c3e5-1145-4969-b70b-2fe187b0a835)
+![image](https://github.com/user-attachments/assets/1d8895e0-91cd-488d-b643-05f1842f7767)
+![image](https://github.com/user-attachments/assets/c059662c-2b59-4f4e-a1bc-07cb78816698)
+
+* Title(T), Qutub Minar(Q), Adhai din ka jopra(A).
+
+![image](https://github.com/user-attachments/assets/bf5c2ad8-c84e-4714-adcd-a7e2a5ebd2a3)
+![image](https://github.com/user-attachments/assets/e49fdfae-e73a-4b7e-9add-beeb027142b3)
+![image](https://github.com/user-attachments/assets/b715a305-70a5-47e1-ba1e-5e27373a2c6c)
+![image](https://github.com/user-attachments/assets/a5e43404-4817-4d8e-b7e5-313c5b4770e5)
+![image](https://github.com/user-attachments/assets/96a20556-67f0-4230-8381-dd660b83ed08)
+
+* Market office -> Shahna.
+
+![image](https://github.com/user-attachments/assets/1382407c-4cc2-4513-847c-36e860657e49)
+![image](https://github.com/user-attachments/assets/abdf3409-1c66-4153-81df-905c20ffd092)
+![image](https://github.com/user-attachments/assets/06ef2e89-a375-45f1-b412-e514302cae39)
+![image](https://github.com/user-attachments/assets/ed43b9f2-2e9b-40f3-9f0d-2b0ac5225c04)
+
+* Muhammad bin Tughlaq -> He is often noted for his ambitious and innovative policies, but whether he is considered the **smartest ruler of the Delhi Sultanate** is a matter of historical debate.
+
+![image](https://github.com/user-attachments/assets/68e60f07-36af-4128-ad2a-10dab95a1dd4)
+![image](https://github.com/user-attachments/assets/3712f1a1-ded6-4ac2-8ecf-76f7f26fdcd8)
+![image](https://github.com/user-attachments/assets/4b3a896e-14bb-4d62-8162-7a8d5fbf1d5b)
+![image](https://github.com/user-attachments/assets/e1ddfdb2-fbeb-4f5d-beea-028eef6bd5a8)
+![image](https://github.com/user-attachments/assets/44555563-3d47-49fa-ae3c-1f3f62ef4414)
+![image](https://github.com/user-attachments/assets/4e382403-ada5-43b9-917c-6555b3c0054b)
+![image](https://github.com/user-attachments/assets/157ed1d6-751c-4926-8ef0-39285ced0579)
+![image](https://github.com/user-attachments/assets/332544d8-62a1-4eba-9940-086b3ae713d7)
+
+* Delhi Dynasty. [**VERY IMPORTANT**]
 
 
 
@@ -1392,13 +1454,7 @@
 
 
 
-
-
-
-
-
-
-
+  
 
 
 
