@@ -323,6 +323,329 @@
 
 * Option **B**.
 
+![image](https://github.com/user-attachments/assets/f30ac8dd-be15-4daf-946a-b5dbc86994f3)
+![image](https://github.com/user-attachments/assets/3c4cf3a8-9361-4abe-b8a7-17d9fd302a69)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/7b3a1d81-863d-41e9-96c3-4c39913bcdaa)
+![image](https://github.com/user-attachments/assets/ce438d19-9346-4c25-a36d-3edef2137992)
+![image](https://github.com/user-attachments/assets/406ee18e-03ea-40c2-a7b1-60cb189f2ea0)
+![image](https://github.com/user-attachments/assets/ad626c8e-e90d-4d7c-bb51-5f5cfe952d10)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/c73687b2-956c-40cb-b4b2-7cba34671a2b)
+![image](https://github.com/user-attachments/assets/67850abd-fb66-407f-8999-280f5ed7befd)
+![image](https://github.com/user-attachments/assets/6e78ea32-baa8-43c0-9d3a-2c7bf5feba0b)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/e1d5d8eb-66b5-448e-b2a3-7dd8c5cc8d74)
+![image](https://github.com/user-attachments/assets/ae161480-173e-48d3-ae4b-8deee3c3163e)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/c02c45de-88be-4e14-a5e1-48a375706eef)
+![image](https://github.com/user-attachments/assets/a06767b5-8f2d-48da-a739-191c730849ca)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/bbd75e11-c7ef-4bf1-a2db-e06462ef4daf)
+![image](https://github.com/user-attachments/assets/5105e527-ff2f-4a66-ab90-93dafc79a65d)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/bf8da5cd-3876-4e67-ab83-2d50428c8d0d)
+![image](https://github.com/user-attachments/assets/c9780a9c-504a-44f3-83aa-33427412cda2)
+![image](https://github.com/user-attachments/assets/d9ca6357-cf00-4a10-b23d-44a94a21e011)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/51f97524-335f-4ae3-9582-879989b82147)
+![image](https://github.com/user-attachments/assets/5a38484b-51af-4d08-ad06-5561671120dd)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/fa026dcc-49b1-49fd-be70-ca995dc1e23b)
+![image](https://github.com/user-attachments/assets/a02d02f7-53d9-4a18-bc72-f0ccdafdc853)
+
+* **BRICS** countries. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/582545b5-8398-498a-930a-2a76e95ca9b6)
+![image](https://github.com/user-attachments/assets/28c9fabf-07b2-4d4b-8c94-a14d66cd062e)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ba8e727f-6c48-482d-b3af-5b0836b0c5a7)
+![image](https://github.com/user-attachments/assets/4aa5f0c0-24cb-4e19-98b6-db8beb9515b5)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/f0909a5e-ac01-4fc3-9ca7-4be1ff68ebad)
+![image](https://github.com/user-attachments/assets/717ac954-baad-4c2d-bda9-cc52cc2e438e)
+
+* Option **C**. 
+* UPI -> Unified Payments Interface. [**VERY IMPORTANT**]
+* NPCI -> National Payments Corporation of India. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/92e1d628-f9ca-485e-9cb7-516d112987ba)
+![image](https://github.com/user-attachments/assets/2f9089f8-13ba-4523-be4e-c39f5a9329f0)
+
+* Option **A**. [Doubt] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d8d15287-ca61-4eaa-b012-9ca79afa2c9c)
+![image](https://github.com/user-attachments/assets/29f2099c-beba-40ef-a0da-bb7d7fa7ca87)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/5fa59931-c5fb-4f68-ae37-4c36aefa9d0c)
+![image](https://github.com/user-attachments/assets/93099c77-76fe-4560-a71d-75bb6207e61b)
+![image](https://github.com/user-attachments/assets/fe7d042b-7327-406b-a554-1eba0ddaad14)
+
+* Option **C**. 
+* Krutrim was founded by **Bhavish Aggarwal**, the CEO of Ola. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d424d521-913f-4a2d-b8a0-ba488be24c63)
+
+* Link -> https://tracxn.com/d/unicorns/unicorns-in-india/__ujYf3QI9FSnpS3x-zJCSwnay2nENQhm1kAN-U8-6Kfg#t-117-money-view. [**VERY IMPORTANT**]
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5ec6630d-07f5-4a8d-849e-bcb0fdd5b92d)
+![image](https://github.com/user-attachments/assets/6147f1dc-d1d7-491c-bbb5-4bf4b09a15e6)
+![image](https://github.com/user-attachments/assets/a8bd2fbc-11ef-4783-a923-7c29d003c769)
+
+* Invention -> Linear Process. [**VERY IMPORTANT**]
+* Innovation -> Sudden Process. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7128087f-8260-4527-871c-0df35a2338a9)
+![image](https://github.com/user-attachments/assets/6d24ac38-3e5e-4f36-b574-54330920fad2)
+![image](https://github.com/user-attachments/assets/a1e5a348-01fa-4b62-90f1-532c4ff6b220)
+![image](https://github.com/user-attachments/assets/86df2edb-d502-4f6b-8f49-729c505de355)
+![image](https://github.com/user-attachments/assets/114246ce-57b4-4f51-bc93-b469dc4b9c58)
+![image](https://github.com/user-attachments/assets/6de99cff-1fd4-430d-9178-273836a11b71)
+![image](https://github.com/user-attachments/assets/ec5ee3c7-bca0-4100-9772-46ff76176fbf)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/9b773cc1-bad8-4561-9107-61fffaddaf9e)
+![image](https://github.com/user-attachments/assets/49cec576-e3a8-4489-a266-5cae8883a8a7)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/7baba824-719d-45d2-a17e-81d33e6af2b6)
+![image](https://github.com/user-attachments/assets/e19fd96e-40dc-4f1f-825c-9817490743fb)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/cc4e1a6b-283d-488c-a400-55da95b42941)
+![image](https://github.com/user-attachments/assets/b9336ec8-1fb8-4c88-9808-ad2f5528c7a3)
+![image](https://github.com/user-attachments/assets/831c90f9-e179-4142-8251-5dec794671fd)
+
+* Option **D**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/01756a18-c1fb-4504-bb54-5bda9682de27)
+![image](https://github.com/user-attachments/assets/ef1dfb84-58bf-47fe-91e6-b30628362372)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/2e555e54-f709-483c-bb11-84eb58a5f7ec)
+![image](https://github.com/user-attachments/assets/fbf9b4be-85dc-46b4-981c-da0afe9e0a44)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/4be7b98c-bb8d-443f-ac24-ce9372814698)
+![image](https://github.com/user-attachments/assets/8fb25308-5628-4381-b414-2b6db223f960)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ac57bd01-c7de-4e72-8dd8-1b6e500b9fd3)
+![image](https://github.com/user-attachments/assets/04bb984f-8524-42e1-a7aa-0515f042a623)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/c12c0875-1ce2-43e6-9ed3-177239b87b9e)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c15e4aff-8d03-4f03-a88b-ed3c1312ece6)
+![image](https://github.com/user-attachments/assets/c73c9390-10da-4f24-8040-7014eb7289c6)
+
+* Option **A**. 
+
+![image](https://github.com/user-attachments/assets/5b74216d-40fc-4bb4-b370-ec02a19e3087)
+![image](https://github.com/user-attachments/assets/5234664e-2470-458e-ab09-1670207cbb18)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/fb53dedc-2f3a-49f3-883d-35d315d30822)
+![image](https://github.com/user-attachments/assets/2f4e47df-79e9-4536-8e47-ee3df076b486)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/226e4983-0ed4-476c-8c46-34c40f71573e)
+![image](https://github.com/user-attachments/assets/48350434-aaa3-4f5c-82be-5dd1c5acc18d)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/093cc8e9-e2c0-4fad-bf0e-62258892a643)
+![image](https://github.com/user-attachments/assets/5931c322-6192-423c-850d-3c6a52310f3f)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/6f54a02e-a4f8-47b3-912c-a8482043bfe6)
+![image](https://github.com/user-attachments/assets/aa9b2a58-1deb-45cd-b3a7-587bad5eade1)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/c1997649-d709-4502-85ca-c3cdc107851e)
+![image](https://github.com/user-attachments/assets/03c36847-c6b5-4f66-ae72-da3c10ba152b)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/833df26d-275e-4754-89f2-065d45271518)
+![image](https://github.com/user-attachments/assets/6869e8f4-0866-47eb-9ba3-bbc80594ef97)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/b1acfdc7-a566-4272-86d5-109a901e4eb4)
+![image](https://github.com/user-attachments/assets/6ce00cdf-c945-4b22-a21e-5cf40b5ab88e)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/f4f856b8-dcc0-490a-a1fa-c7dc4fab7b36)
+
+* Command Economy -> Like **Socialist** economy. [**VERY IMPORTANT**]
+* Market Economy -> Like **Free/Capitalist** economy. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c14a1f98-1360-4e0b-8c69-b48b345f92ae)
+![image](https://github.com/user-attachments/assets/9afe4a9c-c0d3-487e-9bf1-1be459f79a6f)
+
+* Option **C**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d985f2b7-1d0d-4b76-881f-1b84cc580f47)
+![image](https://github.com/user-attachments/assets/0f261a73-ee65-4928-93dc-88b3d8f89802)
+
+* Option **B**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/098db501-66cc-442a-bf34-1e150fc908e8)
+![image](https://github.com/user-attachments/assets/634ed49d-2b7b-4736-901c-f769752c7885)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/d6d9dffe-942b-4ff7-a634-fa450b7f3d54)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b9868241-b132-4bd5-b6d2-6f9b538f42cc)
+![image](https://github.com/user-attachments/assets/6f9ae495-e581-4dfa-842c-f124fd8587db)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d7cc8cd5-f8f3-4dc5-83b1-8a10f25f2464)
+![image](https://github.com/user-attachments/assets/c14415c2-143b-4f61-9a40-ec3e4ab7f375)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/4f75b6b2-eac8-4118-80d1-563f96867c22)
+![image](https://github.com/user-attachments/assets/6967f2cd-43ee-49ee-94a4-d3bfe10e0144)
+![image](https://github.com/user-attachments/assets/9d7d2a53-bcc6-400a-b80d-1a9a079d03fd)
+![image](https://github.com/user-attachments/assets/92247f13-331c-4bb1-b820-4356ce512c07)
+![image](https://github.com/user-attachments/assets/358491b2-c1cd-49f0-8947-adee06b981d2)
+![image](https://github.com/user-attachments/assets/091af392-e731-4a02-92a0-001f2af17eea)
+![image](https://github.com/user-attachments/assets/fb3019df-e00d-4dc7-96c4-3217c873d848)
+![image](https://github.com/user-attachments/assets/dba3d51e-c9bb-4e94-affa-9dafca1493ee)
+![image](https://github.com/user-attachments/assets/9d7097a2-d61e-48f3-955c-2941c542d6f0)
+
+* Tata Nano -> Low-end disruption. [Example]
+* Unacademy -> Disruptive innovation. [Example]
+
+![image](https://github.com/user-attachments/assets/d949f95f-c1d7-4331-9293-e2a07cec91bb)
+![image](https://github.com/user-attachments/assets/5e93788f-c22d-49c0-a0fe-30dcca39cc27)
+![image](https://github.com/user-attachments/assets/94d54fff-998f-40a8-a46d-8c525a18e2f1)
+![image](https://github.com/user-attachments/assets/5a2fb38c-a678-4359-9189-6516a990a0d9)
+
+* ChatGPT -> Radical Innovation.  [Example]
+* OTT platforms ->
+* UPI -> Radical Innovation.  [Example]
+* Bitcoin -> Radical Innovation.  [Example]
+
+![image](https://github.com/user-attachments/assets/57372349-b192-4652-9bd0-aaf18575b01e)
+![image](https://github.com/user-attachments/assets/c292417d-c5b8-48de-bb9c-a750a52c4aef)
+![image](https://github.com/user-attachments/assets/985433d7-13c7-4003-9dd8-2d55228d7080)
+![image](https://github.com/user-attachments/assets/fa441032-9805-4ddb-949d-89da1dba0fca)
+![image](https://github.com/user-attachments/assets/d9ae1e3d-3078-4900-a5ee-3dd04655af39)
+
+* Food Delivery Service -> Swiggy -> Radical Innovation. [Example]
+* Ola Cabs -> **Disruptive innovation** but not Radical Innovation. [Example]
+* Oyo -> Disruptive innovation. [Example]
+* Innovation.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9633c182-ec9a-4353-8db6-ee18db18cb1e)
+
+* Unicorns in India.  [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## General Awareness
