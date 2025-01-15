@@ -664,7 +664,241 @@
 ![image](https://github.com/user-attachments/assets/937ac6c2-ea90-4a74-b843-5ce197d41b4c)
 
 * [**VERY IMPORTANT**]
-* Start from 32mins 58secs.
+* Radical Innovations -> Creates a **new market or market segment**. [**VERY IMPORTANT**]
+* Disruptive Innovations -> Replaces the existing market. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7e2ab005-1bb2-4ba4-aeef-fdb99fd684f6)
+![image](https://github.com/user-attachments/assets/ba6608fb-0c38-408e-ac2c-f91735bed09a)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6fe379f1-ae20-43d2-a738-f9fdbd12448b)
+![image](https://github.com/user-attachments/assets/91701f9c-6591-4034-8410-0dbdbb86cea9)
+![image](https://github.com/user-attachments/assets/e8bb23d9-9f71-4284-a35a-96127fc9cb23)
+![image](https://github.com/user-attachments/assets/2ad3ccdb-6634-4c69-99a4-1d8a25793c65)
+
+* Option **D**. [Wrong]
+* Statement 1 => laptop -> Increment/Sustainability innovation. [**VERY IMPORTANT**]
+* Analog phone to Digital phone -> Radical/Disruptive Innovation. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/81db88bc-3b51-4d1f-b9bf-839407d199c9)
+![image](https://github.com/user-attachments/assets/8b0d6ca4-00de-4a41-8166-79028486cb82)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/eae79af8-9e15-491c-8719-7d1137b9aec6)
+![image](https://github.com/user-attachments/assets/7d81dfe8-eb11-4423-a600-e1e82d916359)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/fea05177-81d9-4898-acdc-e69ea7c4dbb7)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/74e70cd1-1c07-423b-9b1a-1843859d5140)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fa189664-1993-432e-a6f9-c6fbc3b81a73)
+![image](https://github.com/user-attachments/assets/f5cf68c8-86fc-4ccc-ad22-68b6664982e7)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/ed92393c-6a79-4a7c-b3ad-efe7ae807af6)
+![image](https://github.com/user-attachments/assets/f47d4beb-df69-44a1-bd3d-4836aef1bf24)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/35432ce3-3da7-4567-ae20-2475c200eb6c)
+![image](https://github.com/user-attachments/assets/2e3ab1a2-4b0b-46a3-83a0-f3b5016a9567)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/6af93b4e-8d93-42f4-a95b-0b88cec4f4dc)
+![image](https://github.com/user-attachments/assets/6104d5ca-6aea-48e7-bdf0-290958e5595d)
+![image](https://github.com/user-attachments/assets/d7d1d33a-74a3-44e5-82cb-b2c88d7ef36c)
+
+* Option **B**. [Wrong]
+* Option **D** -> Marketing campaign/technique.
+* iphone -> Launch of iphone -> Disruptive Innovation. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4d3d0faf-2b13-4d85-9dd4-86fcb9586d71)
+![image](https://github.com/user-attachments/assets/3db5f6e8-1c42-4d00-a44e-1940d324010e)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/7626dddf-747d-4465-8213-2d2eb3fe9b67)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/2672a797-2474-49c0-ba17-b7fa53ea18cc)
+![image](https://github.com/user-attachments/assets/942ac21a-10d0-48c4-ac8b-7b8f24093025)
+
+* Strategic innovation. [**VERY IMPORTANT**]
+* Ola -> First it was in **cabs** -> Went to electric vehicles -> Strategic innovation for Ola.  [Example]
+
+![image](https://github.com/user-attachments/assets/0385b2ec-4663-44d7-be79-7f838970539a)
+![image](https://github.com/user-attachments/assets/eb40b5e0-b364-4c59-b003-c2392f8d3ea6)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/bd7ef4c8-7f54-42ab-a56c-e3aa15c9d672)
+![image](https://github.com/user-attachments/assets/d79d22e6-3eb9-41af-bb96-3738d04cdb0d)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ed54ec63-0de2-437e-b27d-845ec85bc718)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/1524a35f-fb84-4969-9501-dc850890a563)
+
+* Innovation matrix.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e3461b33-fb80-4b42-92a6-92e32b410944)
+![image](https://github.com/user-attachments/assets/dd87e83a-8165-40cb-afe5-c8c63debeefb)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/493f99d2-010e-4faf-b6b7-95d4b32b6c99)
+![image](https://github.com/user-attachments/assets/5313af81-8504-4906-b09e-055f958bad48)
+![image](https://github.com/user-attachments/assets/557fe567-60aa-41f8-9e12-df2d761083c2)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/d617c0ab-a657-45e3-970a-03d6ed2ff9e9)
+![image](https://github.com/user-attachments/assets/6676e40c-de8e-42e4-b209-51a1e3d1db2d)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/c311aacd-6c1a-4e51-a250-cda32abb9cf8)
+![image](https://github.com/user-attachments/assets/64857aea-5a45-41c8-bb4b-917cf852187e)
+
+* Option **4**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/f923c05b-0558-4e43-994a-9e9f43cfc7da)
+![image](https://github.com/user-attachments/assets/f30922f5-5717-4c83-b27a-fb7e0a2d0ada)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/d1e24a0e-4bab-42a7-929a-53eb49ad9bea)
+![image](https://github.com/user-attachments/assets/ce525310-7b95-4f4e-b4ec-eb6502ab90bf)
+![image](https://github.com/user-attachments/assets/2a22d7f0-f226-40c6-97ac-aafa10b44eb1)
+![image](https://github.com/user-attachments/assets/75a96057-6f5a-4835-b67b-2831ccf486b9)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/0052a3a8-8f2b-4ab3-95d2-fd57be3e2412)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/c81b6de8-5858-452c-9eca-576306b5a843)
+![image](https://github.com/user-attachments/assets/1e6dbd62-b9e4-4173-8ed0-1d478ee07858)
+![image](https://github.com/user-attachments/assets/43c095b1-3a30-4e45-b773-8e4bd96aedb2)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/02426ca1-1921-46d1-aeed-5739e4c69756)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/b96cdc54-f957-4cdc-8860-fa8397313deb)
+![image](https://github.com/user-attachments/assets/7e5f74b3-ca89-42ed-b18d-4a03433717dc)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/6d1d74c3-8962-4ddf-b327-5c1ac8652398)
+![image](https://github.com/user-attachments/assets/a11b7fcf-5bab-43f3-8afa-8b6b8a6d53f2)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/46ff1d44-3115-4e8c-ad99-16c7acf2cd56)
+![image](https://github.com/user-attachments/assets/67b1b2c7-c89f-452d-9865-66e643ce92e0)
+![image](https://github.com/user-attachments/assets/d5c1ec9d-e5ce-4c25-9b0a-04db78b1bf1d)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/b5488764-54e2-45a9-9df6-a29cb2f3b8cb)
+![image](https://github.com/user-attachments/assets/ba374549-4a4e-4eaa-853a-170644c5ab41)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/460169cf-e119-4f15-9768-3496c377e38b)
+![image](https://github.com/user-attachments/assets/b935c128-4045-4708-a36a-e81009d49d8f)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/b09e46a8-1a77-4045-bd7d-ad45af70795e)
+![image](https://github.com/user-attachments/assets/c0c6d95a-ef98-4e06-aa7d-75b05c7bf6ce)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/8cf21a2f-e891-47ab-b8ed-ee08a8c2577d)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/2245ebc8-6739-4014-83a7-21cb079c08bc)
+![image](https://github.com/user-attachments/assets/41d6668e-60db-4bbd-b8cf-8a848171e414)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/3a18c76b-0c58-4628-b9cd-dacccfda189d)
+![image](https://github.com/user-attachments/assets/73c77dd1-fd3f-41c1-924a-cccb92b8c721)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/8893bfa1-0eca-49b5-87c0-5057934e24fc)
+![image](https://github.com/user-attachments/assets/1a26e90b-be71-4408-9929-0020926d11fc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
