@@ -849,18 +849,45 @@
 
 ![image](https://github.com/user-attachments/assets/8893bfa1-0eca-49b5-87c0-5057934e24fc)
 ![image](https://github.com/user-attachments/assets/1a26e90b-be71-4408-9929-0020926d11fc)
+![image](https://github.com/user-attachments/assets/80737f0b-dc84-439b-91b6-6f153ed24be9)
+![image](https://github.com/user-attachments/assets/eeeee581-17c3-4c9a-8603-39efb31d2261)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/4b71888e-3395-4604-b6a6-0ac29f52f79f)
+![image](https://github.com/user-attachments/assets/afe01127-d54b-4b03-b97a-699b6b9f37b9)
 
+* Option **B**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/0b209dc0-0a75-4ba5-8df5-c35dbc48ede0)
+![image](https://github.com/user-attachments/assets/530aa4dd-f514-4382-97f5-2213db2fa660)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/ddcf8b2f-936f-4a53-a223-043188013f6a)
+![image](https://github.com/user-attachments/assets/08a39434-feab-4415-8f70-5b6f08624744)
 
+* Option **D**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/16c1ae7a-3060-4ebf-927d-3ec10d489c81)
+![image](https://github.com/user-attachments/assets/5d3028ee-0e32-4db3-bbf3-0e9e82dc832d)
 
+* Option **B**.
+* Johari window -> Helps you understand yourself -> Helps people understand thenselves. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e0dd6b7e-3dc3-45a1-ae62-edc0e2bba8ea)
 
+* Option **C**. [Wrong]
+* Worst case scenario.
 
+![image](https://github.com/user-attachments/assets/140b129e-80ec-45ca-9f87-83d0e9ae6dcc)
+
+* Option **A**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4bbae829-7ab3-479f-8afc-20fa14819c67)
+![image](https://github.com/user-attachments/assets/8fd20a17-e025-4f6b-b249-f4464bc7f842)
+
+* Option **D**. [Wrong] [**VERY IMPORTANT**]
 
 
 
