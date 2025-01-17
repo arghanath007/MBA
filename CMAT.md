@@ -1094,6 +1094,614 @@
 ![image](https://github.com/user-attachments/assets/0b8dcf42-12f3-435b-9153-d232a1dca35e)
 ![image](https://github.com/user-attachments/assets/bf97e786-28b8-49a2-8e1e-cdc96a735d14)
 ![image](https://github.com/user-attachments/assets/ef452b54-6d74-4a19-a19b-e46d60880a7d)
+![image](https://github.com/user-attachments/assets/d1f5ec98-ab25-4282-81b2-df14f5a3a61f)
+![image](https://github.com/user-attachments/assets/ac8a1cdd-c8d8-491d-b463-fe83e6e7b29c)
+![image](https://github.com/user-attachments/assets/1d5ec5ff-4197-4b47-af4a-43bb0ec3b26b)
+![image](https://github.com/user-attachments/assets/ee762fba-f461-4626-931a-99cd9e60c357)
+
+* Small Business -> Tapris, kirana ki dukan.
+* Scalable -> Swiggy, zomato.
+* Large -> Rilance, TATA.
+* Social -> Impacts/changes the society.
+
+![image](https://github.com/user-attachments/assets/3f970b15-ad81-4363-a34f-59021e614990)
+![image](https://github.com/user-attachments/assets/a6f00be5-d118-4094-8c6b-f3c8d1099c60)
+![image](https://github.com/user-attachments/assets/6489bfdd-7327-471f-ae8a-a74ca92c1adf)
+![image](https://github.com/user-attachments/assets/ffd08338-9234-45ce-afb8-8521a0931b56)
+![image](https://github.com/user-attachments/assets/a28ea1ff-7112-4a3b-b7be-dc0101c61775)
+![image](https://github.com/user-attachments/assets/0b3291c7-de82-4443-b71b-0ee50a9d5f55)
+![image](https://github.com/user-attachments/assets/17438508-5411-43c1-9f59-be5f3f447d88)
+![image](https://github.com/user-attachments/assets/32de80ce-19b7-467a-84db-fcacabbe36e2)
+
+* Option **D**. [Doubt]
+
+![image](https://github.com/user-attachments/assets/264ee23a-f11a-4939-aace-baa675d1146a)
+![image](https://github.com/user-attachments/assets/e7a50b50-0564-4be3-ae20-01b5f43476f4)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/f0367f67-c352-411a-9ca3-206d77ced695)
+![image](https://github.com/user-attachments/assets/c8ce535c-eb94-40c3-be42-623e83ce43a8)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/50e6e111-5886-4b83-8af3-167146bb8eaf)
+![image](https://github.com/user-attachments/assets/1679d327-b372-409a-8e0e-11072f513ec9)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/bdfe6a6d-7e39-4bf3-9fa4-85afbd53f949)
+![image](https://github.com/user-attachments/assets/fa26ccfb-2297-4d13-93a3-997b7792cce6)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/55dcdafe-2841-480a-a771-1e7fbaf29b1e)
+![image](https://github.com/user-attachments/assets/380e974d-8058-461e-b9a8-89d2431ecba0)
+
+* Option **A**. [Wrong]
+* Guerrilla Marketing -> Publicity Stunts.
+
+![image](https://github.com/user-attachments/assets/fef3cba7-72a2-4680-9de1-e313c8ea3ef4)
+![image](https://github.com/user-attachments/assets/e24ce0f4-a47e-4c7a-8217-d814b2a8a3ce)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/2ea6521d-7c63-46b1-b3f8-e647adf4729a)
+![image](https://github.com/user-attachments/assets/61b1dae4-950e-4306-95fe-ca8a06200f50)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/c20d10ce-c8f3-4eb0-8add-1dcc648d2fca)
+![image](https://github.com/user-attachments/assets/e900297c-6b4b-4694-a617-80f0f328ab2c)
+![image](https://github.com/user-attachments/assets/46c0379a-9b8e-4ea4-9f5c-9400851510c3)
+
+* Option **C**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/73eb4be1-0adb-4afe-976a-2ac29d4431c6)
+![image](https://github.com/user-attachments/assets/8b394b6e-0bb1-4ca2-b9bf-6fd839995f05)
+
+* Option **C**. [Wrong] 
+
+![image](https://github.com/user-attachments/assets/3e609dbd-c5d2-401c-ba00-d78fce719815)
+![image](https://github.com/user-attachments/assets/c8f5b0a9-82c7-498e-b8ea-ee9cd9b6bbc5)
+
+* Option **A**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/42179345-7fae-4db7-833e-758e29c3f027)
+![image](https://github.com/user-attachments/assets/cd1c0072-430d-4f9e-920c-f3e29f9200e6)
+![image](https://github.com/user-attachments/assets/15324fea-48a9-4c18-a90f-ca24c38731dd)
+![image](https://github.com/user-attachments/assets/275ff6a7-ced2-4cad-9d9e-f72a4ab86f4e)
+![image](https://github.com/user-attachments/assets/d6daade1-d6e1-4036-80f3-89f85452dc37)
+![image](https://github.com/user-attachments/assets/fc571ec4-d776-4faa-8656-683a0358fc12)
+
+* Companies under **HUL**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/077bbde9-2f46-4a9c-928e-b701eeaa9f0b)
+![image](https://github.com/user-attachments/assets/d34636db-f7e6-4fa8-9669-8891fce1ae5f)
+![image](https://github.com/user-attachments/assets/cade178d-2a86-441f-b18f-b41d22448f82)
+![image](https://github.com/user-attachments/assets/b521dbfb-cd80-45e1-824a-a38446d43282)
+![image](https://github.com/user-attachments/assets/7e83ffe0-475b-411d-97fd-0e1a9cf17a77)
+![image](https://github.com/user-attachments/assets/0c33bc2d-5a71-4a2c-98eb-248c62303199)
+![image](https://github.com/user-attachments/assets/e787c0ac-6999-4c4f-9adb-ac4a30e09013)
+![image](https://github.com/user-attachments/assets/7d2e26d2-c509-49df-ae35-f12230a3be91)
+
+* Companies under **P&G**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/44ffa640-5704-4e5c-8d36-5cdc823e8942)
+![image](https://github.com/user-attachments/assets/2b38ef15-4e7f-488e-a570-4344b8ba89b9)
+
+* Companies under **Colgate-palmoliv**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3e136225-a7aa-40e9-87c0-b6da24b0b169)
+![image](https://github.com/user-attachments/assets/31bbb66b-bf40-40f1-8aad-0587fab266ae)
+![image](https://github.com/user-attachments/assets/fffdeb9f-5916-461f-ba47-86ec80c8d16a)
+
+* Companies under **Nestle India**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7ab14a43-8d91-466a-9876-3c3c9dd4c8bc)
+![image](https://github.com/user-attachments/assets/b12075b7-1bcb-4922-b3cc-10058a7040d9)
+![image](https://github.com/user-attachments/assets/130be745-efe8-4510-8602-f988ef0bddea)
+
+* Option **B**. [Wrong]  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4e2b3456-fa72-43ae-8a82-56a31f25d90e)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5727af68-de14-425b-a77e-9f1365ab6ab3)
+
+* Option **D**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a9d2f21a-f872-46f7-adbb-019ceeab9555)
+![image](https://github.com/user-attachments/assets/3eac755d-55d0-4620-9f77-7959523ea7f8)
+
+* Option **C**. 
+
+![image](https://github.com/user-attachments/assets/c9b41a1b-3028-4949-a0a6-387c40c2c3be)
+![image](https://github.com/user-attachments/assets/46be88e6-4b16-4cae-bf4b-e293b2d760f7)
+
+* Option **D**. 
+
+![image](https://github.com/user-attachments/assets/60593e1e-dadd-4c2d-9bf8-7edec1bbb45e)
+![image](https://github.com/user-attachments/assets/6f710910-9dea-40d0-bc72-1ebef3832fbf)
+
+* Option **B**. 
+
+![image](https://github.com/user-attachments/assets/3cc467bb-02a2-492c-9a40-c712649af1c7)
+![image](https://github.com/user-attachments/assets/ceb869c6-b58a-485e-a7ff-2c0ecdb49258)
+
+* Fabian, Drone -> Low risk.  [**VERY IMPORTANT**]
+* Small bussiness entrepreneur = Solo entrepreneur -> It means the **same** thing only.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/dae9f811-ed5c-4a4d-b9a8-4418a6eca66e)
+![image](https://github.com/user-attachments/assets/33a5da3b-a830-4ee6-a3a8-ac15c047ed3d)
+![image](https://github.com/user-attachments/assets/be5c55bd-1be8-43d0-b365-716b8763dcfc)
+![image](https://github.com/user-attachments/assets/29218d4e-4d8b-45c7-b686-e8745a73f4d1)
+![image](https://github.com/user-attachments/assets/83614ba0-f68e-45ba-9761-ca805af283e7)
+![image](https://github.com/user-attachments/assets/6b250421-0651-4464-87fd-d3981dfec0a2)
+![image](https://github.com/user-attachments/assets/6be4ceec-c52e-4c6f-8fc7-1449b37f69a6)
+![image](https://github.com/user-attachments/assets/873b7d8a-aa5a-4353-9eb7-70141b5e1070)
+![image](https://github.com/user-attachments/assets/ec3be2d5-6087-41b4-84f0-911116dada96)
+![image](https://github.com/user-attachments/assets/edeee0d3-0fcc-4380-af92-a8493af7ec2e)
+![image](https://github.com/user-attachments/assets/3eadba02-ef76-4f17-8402-3989a7b44d9a)
+![image](https://github.com/user-attachments/assets/6208d743-7c72-4ae6-a8a5-4ede5885cbce)
+![image](https://github.com/user-attachments/assets/81b4038d-2239-4074-b82c-18e543f0ce26)
+![image](https://github.com/user-attachments/assets/9dd21b61-a916-4162-b68f-339ca158a8bf)
+![image](https://github.com/user-attachments/assets/402b8179-5d42-4d3a-947c-fe66ef9e831f)
+![image](https://github.com/user-attachments/assets/3912019b-ab16-45be-88a1-b96cb0718b9d)
+![image](https://github.com/user-attachments/assets/dcc14cd7-6b1a-471c-bd26-97da6541e067)
+![image](https://github.com/user-attachments/assets/e31cf616-b29d-4d2e-9661-1dc20594faec)
+![image](https://github.com/user-attachments/assets/ac5e81d8-cc9d-4a62-82aa-b72b0b52a90c)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/858e6d4e-b464-4544-a451-edf68ce13d53)
+![image](https://github.com/user-attachments/assets/33f07b1b-4193-4a80-99ae-8d58dfb063d6)
+
+* Option **B**.
+* Resistent to change -> Drone > Fabian. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/34eedf91-cb75-44e2-8770-28d552b4e5a1)
+![image](https://github.com/user-attachments/assets/e0092bf3-6423-4137-94b5-0b9e19d65443)
+![image](https://github.com/user-attachments/assets/186698e4-34c7-476a-a56f-0f9be5fbe6d3)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/550fa61d-6fd6-405d-832c-accce4952d96)
+![image](https://github.com/user-attachments/assets/bd2741d9-75bf-4d0c-8867-f90412259b66)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/b14d82c8-8274-4430-8c71-80246d6763f0)
+![image](https://github.com/user-attachments/assets/4eb2e81d-af39-4bb3-b8d0-70e8ee77bd24)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/7dbc7092-8397-4cd3-a6c3-4d8eb665644e)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/9b7b22a1-ef6d-4f10-896f-9dc64bf21412)
+![image](https://github.com/user-attachments/assets/8ea32722-e1b3-49e2-a0cc-b51670f89d93)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/da03aad2-a10f-46ae-b55d-0d393d07d0a2)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/4f6beb93-859e-46fc-a579-eee8031edf49)
+![image](https://github.com/user-attachments/assets/3f9a94cb-fb5e-4df4-afa8-b110e1a44480)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/a9b9c2a8-2f51-4a2c-ac67-2506b9478efd)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/68f3a213-7662-454d-8634-861889c179c9)
+![image](https://github.com/user-attachments/assets/62cf4d0b-cac4-4aaa-b427-c91fc07ddf84)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/f22f35a0-38f1-43cc-afa2-e39f63f210f6)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/080bc7ae-7ab3-4187-a87b-45bc98bdb134)
+
+* External factors/forces affecting a bussiness. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ae876d7e-2970-488c-9151-f82e30e2731a)
+![image](https://github.com/user-attachments/assets/5761652b-b9e8-4f61-8a72-d1a4aeaac1da)
+
+* Entrepreneurship development process.  [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/699dc0c7-028f-4b1b-8f68-1f889e1dc531)
+![image](https://github.com/user-attachments/assets/15ce2e6b-be37-4b64-a3f7-021b7241744d)
+![image](https://github.com/user-attachments/assets/07d62a46-033c-4cbb-90ae-b7e24cda93a6)
+![image](https://github.com/user-attachments/assets/9114bb7f-f20e-4ed0-9223-8a9f6dfbc64a)
+![image](https://github.com/user-attachments/assets/5679a6cf-e375-4704-b835-adf9410b4463)
+![image](https://github.com/user-attachments/assets/58812b49-078e-4206-924b-dd4946a9d4ef)
+![image](https://github.com/user-attachments/assets/6d38234e-1e2a-4ed5-a92d-4a72fef2a12f)
+
+* Bussiness Plan.  [**VERY IMPORTANT**] 
+* SKUs -> Stock Keeping Unit. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/f605b549-db9f-44a0-8c4e-16c0dd72fe64)
+![image](https://github.com/user-attachments/assets/e7cf88fe-4f6a-4f77-955b-75aec1951ae3)
+![image](https://github.com/user-attachments/assets/c33aa85c-a2a2-4154-9caa-ce40e18fd184)
+![image](https://github.com/user-attachments/assets/74319fb1-438b-49d5-9868-ed1efffab6f1)
+![image](https://github.com/user-attachments/assets/a22bfbb3-f7a5-4c55-ac33-d5cbd5dfcf6d)
+![image](https://github.com/user-attachments/assets/396bb708-a77c-4d4d-8777-1de0648980d3)
+![image](https://github.com/user-attachments/assets/a9d21bbf-3b7d-490a-9017-fc641481c15d)
+![image](https://github.com/user-attachments/assets/7e0ba325-060d-4e0a-9c4c-054741811e90)
+![image](https://github.com/user-attachments/assets/b4c8a178-a118-4c72-ae3e-d2b800d6d7cd)
+![image](https://github.com/user-attachments/assets/5a90b7d4-01b3-47f5-aac8-5acbe509931c)
+![image](https://github.com/user-attachments/assets/4364f874-0be3-4567-8971-6a2a2bb0cdd0)
+![image](https://github.com/user-attachments/assets/3ee1f5f2-42d8-4841-9292-73a0652800c6)
+![image](https://github.com/user-attachments/assets/3d90dc1f-b53b-4a51-b3e8-9935e2b078be)
+![image](https://github.com/user-attachments/assets/8bd0f20a-3417-456f-8051-38ab8e329db8)
+![image](https://github.com/user-attachments/assets/b8013042-ef78-4221-9d42-ccca3142ebd7)
+![image](https://github.com/user-attachments/assets/93ce204d-9e00-4891-bdcf-3bdf72150449)
+![image](https://github.com/user-attachments/assets/c8709556-4ee7-4b49-a602-f8e59882c8d6)
+![image](https://github.com/user-attachments/assets/8bc1109c-6c18-40f5-bef3-c97219d577fb)
+![image](https://github.com/user-attachments/assets/3dee6a2d-46d6-4b13-a4fd-42b26492c0ff)
+![image](https://github.com/user-attachments/assets/b7e0d3fb-82cf-46a4-81a7-18a7882f45d3)
+![image](https://github.com/user-attachments/assets/9aa03e24-b58e-4b87-95a8-6c11516d1258)
+![image](https://github.com/user-attachments/assets/67a0df0b-8971-4cff-9d2f-54f1c89f58b6)
+![image](https://github.com/user-attachments/assets/55cb5f2f-14b0-4ea3-98e4-eadbf907f761)
+![image](https://github.com/user-attachments/assets/11b4c3ad-979d-4247-83b9-fb4f5976cc77)
+
+*  [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/275f3904-2005-49f6-b1bd-9d4bae3da8fe)
+![image](https://github.com/user-attachments/assets/c17d2f99-bbf5-44c4-8e34-cb68afec436d)
+
+* Elevator pitch. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/4c70842d-5d7e-4d98-b7ff-2453470b8788)
+![image](https://github.com/user-attachments/assets/876bd586-87f5-4f73-b7ba-870c8b3ff83b)
+![image](https://github.com/user-attachments/assets/3714d33f-d16e-4a36-b1a7-58e3b94332dc)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/01c733e4-0f73-492a-80c0-3c10725d3e4c)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/23a29a76-66ce-4caa-82b3-8203e902f165)
+![image](https://github.com/user-attachments/assets/2f903f69-a303-44f4-9fc7-9883b64e6e31)
+
+* Option **C**. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/f3a361ad-f012-4797-9679-8c971b67d19d)
+![image](https://github.com/user-attachments/assets/23936324-3f6d-4aac-ac23-ef92b26f4a97)
+![image](https://github.com/user-attachments/assets/a1afdd1e-5428-42d5-9f6f-e05ef541d8d3)
+
+* Option **C**. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/880ae99f-0538-4c28-a2f5-7b2d073a6e9d)
+![image](https://github.com/user-attachments/assets/046a8603-91ae-4de0-ac77-937413a978ff)
+![image](https://github.com/user-attachments/assets/8244a424-539b-4567-b87e-9924cc1bc4a9)
+ 
+* Option **A**. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/9dbded4a-2f92-49a9-9a73-e7f548764ec5)
+![image](https://github.com/user-attachments/assets/176e5264-5c3f-499c-adcf-ad254bbff386)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/5d979086-0430-45ec-8a86-5ecaa1a7acb6)
+
+* It is **Upgrad**. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/85d94cb1-b126-4250-aa50-3034e22f817b)
+
+* **Udaan** app logo. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/7cdd763d-045f-495f-8ba4-c957ed4e85c8)
+
+* Option **B**. [Wrong] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/38518a75-4594-4e4d-94ca-ef89e9ca5bc7)
+![image](https://github.com/user-attachments/assets/e7f188f9-4120-4285-af99-ca1317c823b2)
+
+* Option **A**.
+* Differenciated based on country of origin. [**VERY IMPORTANT**] 
+* Britania -> Only Indian multinational company. [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/5438ade5-8fe9-4171-9e14-8a47f9334b31)
+![image](https://github.com/user-attachments/assets/429a91b2-7459-4181-a3a2-8d111dd642e5)
+
+* Option **C**. [Wrong] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/c75f84c3-3805-40d8-9fb1-136db1df4583)
+![image](https://github.com/user-attachments/assets/b9dccc35-d0eb-4b7f-ac80-119b9671092f)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/8bedab05-eadd-4799-b05d-3800e2cfedd7)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/a9c00d83-c5fc-4507-9334-1e1a3730d1f2)
+
+* Brainstorming -> Activity not a characteristic.
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/036b3d33-e81f-47cb-ad6f-75d96dba4931)
+![image](https://github.com/user-attachments/assets/32f22275-a1dd-4f29-b979-dc7e11e3cc57)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/b917cf66-954b-4cd0-b4f2-c3cf5d0ce5c0)
+![image](https://github.com/user-attachments/assets/f133ec30-318a-44b2-8f89-1b73e1d2a34f)
+![image](https://github.com/user-attachments/assets/824ade60-ccea-48d9-b0c4-24c5baf18a7b)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/149e2515-6101-44b9-b6de-0203a77b6d68)
+
+* Option **A**. [Wrong]
+  
+![image](https://github.com/user-attachments/assets/0fa82255-885e-4d7b-aff9-c507053134ca)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/b6d215ef-f206-4d07-99c6-5f150a388267)
+![image](https://github.com/user-attachments/assets/43bc6358-1774-444c-8425-fb88f599ecac)
+
+* Option **D**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/eec928c4-fa7d-403f-bda6-ab9e77143d89)
+
+* 1 -> Sociological approach.
+
+![image](https://github.com/user-attachments/assets/a5cd061c-5e16-48d6-9672-b68c49c9161b)
+
+* Approaches to Entrepreneurship study. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b51f1f4a-64d1-48a7-a697-cdb575c0cf8d)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/e0a1b80c-23c8-4ff2-a75f-8af5dad90e63)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/3441fd3c-5264-49b8-ab77-2f5bfaf4ccfc)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ee63a628-f45d-4957-b000-94300ea8c65a)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/a209217f-adc3-4660-a635-68ace33fbbf1)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/f59614f0-4dcf-4e48-85e9-3349ed0f8af4)
+![image](https://github.com/user-attachments/assets/b760b8b7-e82e-430e-82da-0cec71afb4a1)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/d9d9c6c4-f723-4f7f-b8c3-45ca6cb1cc07)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/f0b1b01f-0462-4c6d-93c8-7f548ee32446)
+
+* Option **C**.
+* MVP -> Minimum viable product. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/80fdc90b-87d9-40a7-bca5-c3cb0cb2f5d8)
+![image](https://github.com/user-attachments/assets/f16eade1-945f-4045-a295-2a12ab1dd1aa)
+![image](https://github.com/user-attachments/assets/54b2469a-96ca-4cf3-bd11-9e540536f400)
+![image](https://github.com/user-attachments/assets/8e944bbc-4684-41bf-b6c0-0e73dee77763)
+
+* Servicable market -> The total market. [**VERY IMPORTANT**]
+* Target market -> The actual market who will buy that particular product. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b65ff8f5-d4b7-4ad8-9343-d4383fb14911)
+![image](https://github.com/user-attachments/assets/af2fdfe7-0379-4067-ba90-1bd48d2b7ce4)
+![image](https://github.com/user-attachments/assets/0ddb4976-4677-42b9-8e6c-d38f55d6d742)
+![image](https://github.com/user-attachments/assets/cc236fe1-d854-432b-9c3c-c5cab6eba3ea)
+
+* Poc VS Prototype.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/94f39ee2-10d5-4ba2-8ed4-32f86332864d)
+![image](https://github.com/user-attachments/assets/04b56e85-b5d3-40be-aa4d-07f37dc28c1d)
+![image](https://github.com/user-attachments/assets/17e7d75f-7a65-4b42-9d2a-cab74bed722f)
+![image](https://github.com/user-attachments/assets/bd87b6bd-5ba4-4c2a-9467-41c7e3f498ca)
+![image](https://github.com/user-attachments/assets/a69c2dd3-ce86-4cd9-bf4b-9c9210df7f35)
+![image](https://github.com/user-attachments/assets/b63073c3-39e9-4296-bc97-34cd5c0e605d)
+![image](https://github.com/user-attachments/assets/b7e7c7e3-919c-4b7b-a531-54541ba6fa5d)
+![image](https://github.com/user-attachments/assets/f6d748ac-a45e-4f48-8166-98dd83888678)
+![image](https://github.com/user-attachments/assets/5adeac33-ae8d-4e5b-bd9a-89489a477f30)
+
+* NDA -> Non Disclosure Agreement. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8b0c9747-57bc-4d27-8493-fc1597735b9f)
+![image](https://github.com/user-attachments/assets/75a5bba2-ce0e-4493-a889-d59c55a74714)
+![image](https://github.com/user-attachments/assets/6941da03-73e4-4880-8bf0-e4bffb3064e6)
+
+* Invention -> Patent(P).
+* Trade Secret(TS).
+* Packaging -> Trademark.
+
+![image](https://github.com/user-attachments/assets/9e0e8b98-d2e1-4f99-a8ee-f75d0d17ff4e)
+![image](https://github.com/user-attachments/assets/b631fffc-74fa-45b7-8628-a668347aaac2)
+
+* [Example]
+* 4 -> Copyright.
+* 5 -> Trademark.
+* 6 -> Patent.
+
+![image](https://github.com/user-attachments/assets/3a75e0c4-2fbd-423b-9ec6-85e1c7e92bb7)
+![image](https://github.com/user-attachments/assets/39212ab6-8432-48eb-9ac7-531e5ea375d9)
+![image](https://github.com/user-attachments/assets/477f7003-1125-4141-ac9a-82f5f0a2eb58)
+![image](https://github.com/user-attachments/assets/9fbc3a0f-16bc-487b-b74e-4ca329429400)
+![image](https://github.com/user-attachments/assets/f20a4341-9ff6-4356-9062-328c65f48686)
+![image](https://github.com/user-attachments/assets/7269d690-338d-4a7c-85ab-14fcf1fe8b59)
+
+* MVP = Alpha version -> They are **same** only.
+
+![image](https://github.com/user-attachments/assets/930b8997-e3cf-4f8c-971f-76766e84c503)
+![image](https://github.com/user-attachments/assets/bd636baa-325e-4b45-8fc6-69b25f0a41fc)
+
+* POC -> Proof Of Concept.  
+
+![image](https://github.com/user-attachments/assets/b7eec64a-2c92-4994-9579-002e24e4b162)
+![image](https://github.com/user-attachments/assets/5c1d04cc-bad9-44e3-8f0c-03d4321fc2d2)
+![image](https://github.com/user-attachments/assets/02e60d53-89ef-49a3-9299-7595083c5c9f)
+![image](https://github.com/user-attachments/assets/3434293b-b554-4e4b-ab45-a016393f1a5d)
+![image](https://github.com/user-attachments/assets/ac71b16d-0494-4243-aec7-db61cbbac4ad)
+![image](https://github.com/user-attachments/assets/a6609f70-3a1d-4814-ae1f-086c2f2a21f6)
+![image](https://github.com/user-attachments/assets/d380f4ca-ba5a-451c-8238-d35aae5bbf2b)
+![image](https://github.com/user-attachments/assets/4a1f134a-3c15-456d-a249-e7b3395d1bfe)
+![image](https://github.com/user-attachments/assets/effab93e-5052-481d-8857-212d07448c88)
+![image](https://github.com/user-attachments/assets/d9bfe433-3eb5-4054-9a7c-2bd8d3b8b3bc)
+![image](https://github.com/user-attachments/assets/1ab7d74e-a632-4f70-ae2f-084fbf8f1db5)
+![image](https://github.com/user-attachments/assets/1ec94383-3314-4547-b798-23dfd9a57930)
+![image](https://github.com/user-attachments/assets/797fb493-a42f-4d3e-b92b-2acdb2d8dfe6)
+![image](https://github.com/user-attachments/assets/90bf8e07-a0ca-42b2-aaa5-05aba1e25c86)
+![image](https://github.com/user-attachments/assets/3cb3dbec-b55c-43a1-a4f9-14027d09a1f4)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/97fd82cb-8338-410b-9fdd-101fc9bc5005)
+![image](https://github.com/user-attachments/assets/ef35e22f-7750-4ea6-ad45-be64397fb0f4)
+![image](https://github.com/user-attachments/assets/cc52c5d4-b77e-4a0e-b3d0-980300466346)
+
+* Option **C**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/428b152b-900f-47a0-a264-51eebc2f433d)
+![image](https://github.com/user-attachments/assets/292cc1ef-668f-4c40-8a39-6400afb091cb)
+
+* Option **C**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f232651a-21ab-4384-b1a3-efd6c688bd32)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/787167e5-a34e-4233-b43c-24e0e9705a3c)
+
+* Option **A**. [Wrong] [**VERY IMPORTANT**]
+* Promoter = Founder -> They are usually the **same** person.
+
+![image](https://github.com/user-attachments/assets/1b975017-f828-44f7-a243-9e2bc2ba2c2a)
+![image](https://github.com/user-attachments/assets/ae8040de-d676-4ca8-bff8-d8d950565eb2)
+
+* Option **B**. [Wrong]
+* 1st sellable version -> MVP.
+* Prototype is not the sellable version.
+
+![image](https://github.com/user-attachments/assets/e25bbb4d-01cc-4ba1-b80b-ad778b8531cd)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/7ab96225-a173-4f39-8638-43b5ccc48f9e)
+![image](https://github.com/user-attachments/assets/6c169007-bd30-40d3-b4ed-a3fbb5545c83)
+![image](https://github.com/user-attachments/assets/964f70e1-7cb3-41e6-b160-075834f51c5b)
+
+* Option **A**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/779b19da-ecb4-487d-ba19-2f23b5279fba)
+
+* Option **C**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3313e0ef-b6be-4985-9de3-1615f59a8a9a)
+
+* Option **A**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8ffd5851-bcb2-403a-91d1-57fc33e4c54b)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/dcea7e9b-79d4-4727-802a-04db5c4089cf)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/6a01d533-0e80-4d6c-afff-09bf81e864b9)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/a2a7b689-620c-4850-b515-cc3e01baa208)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/6f8f3a7a-55d1-4f9c-8b34-c7942261462d)
+![image](https://github.com/user-attachments/assets/9a8ddd48-9b01-4b84-b63d-a420739d254d)
+
+* Option **C**. [Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5ec8ca24-4624-49c9-8735-98854df87179)
+![image](https://github.com/user-attachments/assets/15e6187a-a0e1-4266-a865-ec939cbeaa4a)
+![image](https://github.com/user-attachments/assets/0aef9da0-1e96-49e4-854b-b9e1a5c4f127)
+![image](https://github.com/user-attachments/assets/1b144dd3-9eae-4c29-88dc-3a05bf749408)
+![image](https://github.com/user-attachments/assets/bc75df23-b7f9-4161-a4cf-82a30dc003cc)
+![image](https://github.com/user-attachments/assets/1d979cb8-a018-4e74-b667-bbae204e40f1)
+![image](https://github.com/user-attachments/assets/8845566f-00a8-47ef-8643-ac84014453ee)
+![image](https://github.com/user-attachments/assets/6aa57780-f5e7-47a0-a727-8a224c76d2a4)
+![image](https://github.com/user-attachments/assets/64117728-4bea-4c48-8602-71d2ba635e41)
+
+* AOV -> Average Order Value. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ab09fd5c-0ed6-41d8-9b11-dc49f0d6b050)
+![image](https://github.com/user-attachments/assets/6844fe51-8390-42dc-ad30-d1cc1c40930d)
+
+* COGS -> Cost Of Goods Sold. [**VERY IMPORTANT**]
+* Direct Cost -> Raw material, packaging.
+* Indirect Cost -> Marketing/advertisement, overheads of a plant.
+* Marketing costs -> Indirect Cost -> When doing overall marketing.
+
+![image](https://github.com/user-attachments/assets/0cf9cf3a-d065-4f31-a083-4a401c858ff4)
+![image](https://github.com/user-attachments/assets/1239d174-56ab-4e7b-880a-6e4b926664de)
+![image](https://github.com/user-attachments/assets/ad18c04e-0c03-40ef-a475-06d7cdc3a381)
+![image](https://github.com/user-attachments/assets/36124f97-cc0d-457e-bb4a-31e9188c008b)
+![image](https://github.com/user-attachments/assets/9e6c0b35-0512-4782-b848-e3e0cb9f738b)
+![image](https://github.com/user-attachments/assets/fd4e23bd-d22d-465c-84ba-3854f85aff7c)
+![image](https://github.com/user-attachments/assets/bf9782e6-f80a-4a2f-8a36-dbdb93601a99)
+![image](https://github.com/user-attachments/assets/0e05f2dd-533e-4cc8-8dc0-d32159b6e82a)
+![image](https://github.com/user-attachments/assets/2d35a20f-bb78-4030-ae46-ddb8e73b8167)
+
+* ATL -> Above The Line -> Mass activity -> TV advertisement, newspaper advertisement.  [**VERY IMPORTANT**]
+* BTL -> Below The Line -> Customer specific activity -> Mail, Call.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/8adeb2be-6db1-4d3b-9a61-07e6acd93623)
+
+* KPI -> Key Performance Indicators.
+
+![image](https://github.com/user-attachments/assets/dae7a7a8-bce2-4854-8d44-16fe1fe46013)
+
+* Shark Tank terminologies. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3014b10b-a731-490b-a1f0-ff1f153579e3)
+![image](https://github.com/user-attachments/assets/7d3e9df6-f14e-431b-b961-3b85ea16ece9)
+
+* Self-funding = bootstrapping -> This is the **same**.
+
+![image](https://github.com/user-attachments/assets/41ed006b-4079-4d60-a20b-aa97ed69f598)
+![image](https://github.com/user-attachments/assets/fdf91a76-abb5-4bb1-b87a-7f4aa6f2e074)
+![image](https://github.com/user-attachments/assets/fa950656-12c5-4355-8963-f295940ee83b)
+![image](https://github.com/user-attachments/assets/bdf974e5-ff01-40fa-bef6-1db2c0a08afc)
+![image](https://github.com/user-attachments/assets/9e162e82-d29f-4ae3-a7d1-aebcf71393d3)
+![image](https://github.com/user-attachments/assets/9bd3ccaf-ad47-40ca-b8d1-ffb4a0b2215f)
+![image](https://github.com/user-attachments/assets/bd7271b6-3a4a-4bac-a67d-6326e506182d)
+
+* Funding. [**VERY IMPORTANT**]
+* 37min 19secs.
+
+
+
+
+
+
+
+
+
 
 
 
