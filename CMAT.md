@@ -889,42 +889,211 @@
 
 * Option **D**. [Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/6441eceb-c76e-4a0f-ad6f-04d86b9ab6a3)
+![image](https://github.com/user-attachments/assets/6c3b23b4-77b0-451a-9fe1-6ee147b1732a)
 
+* Option **C**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/60683455-7b63-41e9-89ea-95e5f0a0d1ed)
+![image](https://github.com/user-attachments/assets/fde078b4-aa48-40a3-8b5a-67b720000db5)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/f5ca57ba-3d26-44ad-b64d-ba60f2c0a126)
 
+* Option **A**. [Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/539314ab-270f-4c4d-b31b-b7caf7fdc178)
+![image](https://github.com/user-attachments/assets/fc0da3d0-1cce-4e4d-95cf-220805490c5b)
 
+* Option **B**.
+* Homogeneous product -> Same product.
 
+![image](https://github.com/user-attachments/assets/afb4a47b-4d1e-4e4e-a193-f80a8d4e8515)
+![image](https://github.com/user-attachments/assets/53d17602-dbd5-45b7-951f-5d9ad4ace361)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/0677a05d-2db2-476f-aaed-1bb960036400)
+![image](https://github.com/user-attachments/assets/b7e0929b-4803-489b-b9b1-0febfdc67f25)
 
+* **Shiprocket** is India’s leading eCommerce logistics platform, providing end-to-end shipping solutions to businesses of all sizes. Founded in 2017 by Saahil Goel and Gautam Kapoor, the company aims to simplify and streamline the shipping process for online sellers. [**VERY IMPORTANT**]
+* **Livspace** is a home interior and renovation company **headquartered in Singapore**, providing services in India and other regions. Founded in 2014 by Anuj Srivastava and Ramakant Sharma, Livspace offers interior design and renovation services in India, covering more than 50 cities.  [**VERY IMPORTANT**]
+* **XpressBees**, also known as BusyBees Logistics Solutions Pvt. Ltd., is a leading **logistics provider in India**. Established with the vision to revolutionize logistics in the country, XpressBees offers a wide range of services including same-day delivery, next-day delivery, and returns management.  [**VERY IMPORTANT**]
+* Livspace -> Home interior and renovation company
+* Shiprocket, Delhivery, XpressBess -> Logistic companies. 
+* Option **C**. [Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/22cca39a-d6a6-4f60-b461-0dc9916bd35d)
+![image](https://github.com/user-attachments/assets/c2e65996-f535-4d04-9f0f-45180693edcf)
 
+* Option **B**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/a446ca42-1de5-4d13-8370-9b8187003aeb)
+![image](https://github.com/user-attachments/assets/1ccb53a7-8cc8-4208-a8c2-240b668a5830)
 
+* Option **B**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/f86c7c40-1f09-46a8-985b-8833530c63ac)
+![image](https://github.com/user-attachments/assets/708b7597-5141-4ae7-8701-760e834d0017)
 
+* Option **D**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/80623948-e504-4c87-a31a-a0e550732464)
+![image](https://github.com/user-attachments/assets/b84e01e9-b3ce-4c47-a2de-91abfb17db9e)
 
+* Option **A**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/eb117dde-10a8-4473-9c57-d06c5ecb9878)
+![image](https://github.com/user-attachments/assets/13d59eaf-0879-4e03-abde-6ba5747f5d70)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/0e3572c6-203a-4600-8246-9e3a1532e79f)
 
+* Option **B**. [Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/13d81827-b405-421b-aa86-5a3987c6c61c)
+![image](https://github.com/user-attachments/assets/c9cb46f7-6eb2-46af-aeef-315d2e825d3a)
 
+* Option **C**. [Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/5688fd4e-e7cf-4036-86b0-5d46f8c76d61)
 
+* Option **D**. [Wrong] [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/834b7640-4da7-460d-8292-2740ea039eb9)
+![image](https://github.com/user-attachments/assets/23857510-9b3b-417b-9ffa-8e918e59df28)
+![image](https://github.com/user-attachments/assets/6fe3b727-6fec-4ff4-a8e2-663f066f2b61)
 
+* Option **A**. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c6bef126-d6e2-4aa0-a18c-1cc23f9277a0)
+![image](https://github.com/user-attachments/assets/1181077e-8a32-496d-b836-977d5dbf4ef3)
+![image](https://github.com/user-attachments/assets/3af2b7af-3e3a-42c2-98b2-ac92cc56eb8c)
+![image](https://github.com/user-attachments/assets/fe2505a5-ab4c-4564-ae8d-f95b059923e1)
+![image](https://github.com/user-attachments/assets/51f37856-f1a5-4da5-ae7d-3f21029e5ac6)
+![image](https://github.com/user-attachments/assets/e560de6a-e0cf-48d6-95a6-c5cc6ebc1412)
 
+* Innovation Adoption Lifecycle. [**VERY IMPORTANT**]
+* Adopters -> Customers.
 
+![image](https://github.com/user-attachments/assets/37ec59db-9659-4581-a61b-ff12f8b056c7)
+![image](https://github.com/user-attachments/assets/4c3f050c-c8f1-41c4-a041-115df3b003d1)
+![image](https://github.com/user-attachments/assets/33d7ec87-9dfb-4c33-8c8f-e42546fc892d)
+![image](https://github.com/user-attachments/assets/e54aa91d-5b29-4e55-8db7-8f7b166818af)
+![image](https://github.com/user-attachments/assets/c9959422-0152-4074-8637-6b867154337e)
+![image](https://github.com/user-attachments/assets/9b579899-469e-463a-b535-3a5a3c770c1d)
+![image](https://github.com/user-attachments/assets/0e9cb305-803b-4909-9a64-2ceb59a1389b)
+![image](https://github.com/user-attachments/assets/797bd270-a033-47dd-9780-887835fea415)
+![image](https://github.com/user-attachments/assets/969318cc-4095-4064-b2c2-b7c0ddfe36c2)
+![image](https://github.com/user-attachments/assets/2e2fc19c-f986-45b6-9604-a23118f86ce8)
+![image](https://github.com/user-attachments/assets/c8f184f7-545c-4e45-8958-0f9dbe6c043a)
+![image](https://github.com/user-attachments/assets/8ef8efd4-cc8a-4eac-92d9-82f0a2ff315e)
+![image](https://github.com/user-attachments/assets/ab344613-77d8-4d1f-9ed4-4c6c1482d5e0)
+![image](https://github.com/user-attachments/assets/ccf0f598-bc87-4896-a401-3d3b58a02021)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/33351172-8425-4394-a981-849c962a83d2)
+![image](https://github.com/user-attachments/assets/dda319b0-5dcf-4111-b117-5bd7eb7fd3de)
+![image](https://github.com/user-attachments/assets/170df40d-c613-4de4-a9eb-5ddc855599d6)
 
+* Option **B**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/50412a3b-13f9-48fd-bfbd-7994077000b1)
+![image](https://github.com/user-attachments/assets/59fb48a4-bab8-49cd-a98d-5e0519fa8a0b)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/78f25b34-e968-48e2-86a5-54c04affdc2e)
+![image](https://github.com/user-attachments/assets/d68efdd1-9abc-446c-9143-5ada334c5848)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/08394fd7-5930-4518-8f50-4533e3db6848)
+![image](https://github.com/user-attachments/assets/fbd3afac-57d1-47c5-996f-bb40e5e03870)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/d58b5b33-cb1c-4ef9-bb5a-65b5b745b72b)
+
+* [**VERY IMPORTANT**]
+* Observability -> Observe the benefit/innovation of the project. [**VERY IMPORTANT**]
+* Complexity -> The less the complexity of the product the faster it spreads in the market. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/aa58519b-877c-4206-82d6-7e19e6725364)
+![image](https://github.com/user-attachments/assets/00e678de-e0ac-4d2d-98e8-cc9a27d19872)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/ae6e308e-35dc-4f50-a4c2-8ddc28d12b43)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/ca83edb5-709e-44c9-a0ce-4d8c126f51bb)
+![image](https://github.com/user-attachments/assets/a91043d8-72e0-4230-9b76-29150b41afc1)
+
+* Option **B**.
+* Product adoption lifecycle = Innovation adoption lifecycle -> Both are the **same** thing.
+* Option **D** -> Bell Curve. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2c95656a-801a-42c1-bfc8-0fecbdfb5e99)
+![image](https://github.com/user-attachments/assets/bed38f06-9af4-4245-ba28-d3c653026e42)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/de58fe37-75ed-4147-82a5-fdda65b2e92f)
+![image](https://github.com/user-attachments/assets/d66f10ca-ea17-439d-9cfc-d7a62c5b3b76)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/0a0d459d-c76d-49c7-bdce-22870c1fa73e)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/4ac8fc8c-31fc-441c-82e0-51a1e566c4bd)
+
+* Adoption Gap = Chasm -> Mean the **same** thing only.
+
+![image](https://github.com/user-attachments/assets/98bcbf42-aabe-44ba-b9f7-cc9defa05a0c)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/fc4dc369-33cd-4c43-bda2-0beae9293397)
+![image](https://github.com/user-attachments/assets/1c58fd15-a5c1-4d39-9c48-841d0b07074d)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/e6bbbd91-5aa7-4053-83da-732badd746d6)
+![image](https://github.com/user-attachments/assets/fb515e61-5bff-40cf-baa9-06312fc520f8)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/6dad1c16-1037-423c-8de9-1e848f2b38b2)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/55bb4b0f-502d-4a00-8e8a-6aede44348ab)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/21508bf6-5d04-4ee0-b0c3-5641ac021b64)
+
+* Option **B**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/fcc85479-2ee4-44a6-8ed9-6f3243c32d30)
+![image](https://github.com/user-attachments/assets/44fad760-4457-4a7a-a8e0-47f26d05266d)
+![image](https://github.com/user-attachments/assets/87c58e99-2a55-4f8f-ae39-3be856d2c990)
+![image](https://github.com/user-attachments/assets/7c4f1e6d-a3df-4d2f-bc52-fb0f2edd00ea)
+![image](https://github.com/user-attachments/assets/1d8754e8-9afb-4a9f-922c-0d815ae7bdcb)
+![image](https://github.com/user-attachments/assets/0a34eefb-71cb-45e7-b6d6-039e9a3f4886)
+![image](https://github.com/user-attachments/assets/c83652f1-a109-433e-9f14-0fe2ac1b35ef)
+![image](https://github.com/user-attachments/assets/be131eab-d275-45f8-b804-bec4ac0e14d1)
+![image](https://github.com/user-attachments/assets/318c6acf-50bc-45c5-a8e6-cc473d6f06a5)
+![image](https://github.com/user-attachments/assets/0b8dcf42-12f3-435b-9153-d232a1dca35e)
+![image](https://github.com/user-attachments/assets/bf97e786-28b8-49a2-8e1e-cdc96a735d14)
+![image](https://github.com/user-attachments/assets/ef452b54-6d74-4a19-a19b-e46d60880a7d)
 
 
 
