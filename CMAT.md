@@ -2,6 +2,15 @@
 
 ![image](https://github.com/user-attachments/assets/88edc73b-c338-4ebe-9480-490037aaf3df)
 
+## Important Topics.
+
+![image](https://github.com/user-attachments/assets/2207260b-b353-4ed1-b543-7fa5662dc384)
+![image](https://github.com/user-attachments/assets/63fe8976-02f9-4a08-ac27-89089cf6a508)
+![image](https://github.com/user-attachments/assets/cae4ec62-0b59-4254-a9bd-b969b75ad1dd)
+![image](https://github.com/user-attachments/assets/8f68d112-e894-40af-ad7c-344a84aeae10)
+![image](https://github.com/user-attachments/assets/d64cd65e-f3c7-4ad6-ae09-c18fb6ac9a36)
+![image](https://github.com/user-attachments/assets/ec358e98-3e81-4450-b001-4de03680b2b6)
+
 ## Innovation and Entrepreneurship
 
 ![image](https://github.com/user-attachments/assets/1b21b7fc-7fa8-4a35-8e2c-8fe10f11d577)
@@ -1692,29 +1701,209 @@
 ![image](https://github.com/user-attachments/assets/bd7271b6-3a4a-4bac-a67d-6326e506182d)
 
 * Funding. [**VERY IMPORTANT**]
-* 37min 19secs.
 
+![image](https://github.com/user-attachments/assets/73773746-99cd-4626-8d31-51a7a2c941fc)
+![image](https://github.com/user-attachments/assets/15a55d24-4ae9-4c2b-8c0b-ddd012c99fa8)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/7e6ce36a-b24c-4fd0-951c-7cea79d0f61e)
+![image](https://github.com/user-attachments/assets/32d7811a-6f57-4eae-83b0-13882ef68a03)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/0a74eb34-4cbc-4bfe-b63d-ad9c65330462)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/42f95f8d-a45c-4a44-abb6-fc2a3fa6e870)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/2a7df004-d87e-416e-a806-a18760c61b40)
 
+* Option **D**. [Wrong]
 
+![image](https://github.com/user-attachments/assets/4adb9ed4-8e7f-44bf-a910-ae7b6382101f)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/fd923761-1309-4435-9843-6d67ac831b0e)
 
+* Popular Indian VCs. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a0dfcaef-df8a-4a27-92c7-975258e039d1)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/62d96431-5704-4dbf-9263-337c90dcf62f)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/abd86ea2-6fe0-404c-acd1-d4d1521e01bb)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/0d0e4fc9-d171-45fa-b5e4-496d0d2f2661)
 
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/546b5f16-9201-4276-9f1e-630121ccc99c)
+![image](https://github.com/user-attachments/assets/17fe15d1-3662-4b33-bae1-2c3609923d7d)
+
+* Option **D**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/31cddcb1-a5de-4a3c-81e1-4dbcef8dbffc)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/9ae53a84-ed6a-4448-917e-af4fb6a56e04)
+![image](https://github.com/user-attachments/assets/9d8d978d-d20a-4964-8efd-6cc353721b29)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/5a3f373f-1dc1-4907-9f2b-ad8c222f6223)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/32f82f21-9564-4540-9df1-c43814bf5a30)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/da8e2edf-55b5-478b-89b0-ecd587757e75)
+
+* Option **C**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/3cdd850b-b3dd-4241-bb41-2111ee4d7ae8)
+![image](https://github.com/user-attachments/assets/968d47ec-3de3-4809-b853-28b808a46c86)
+![image](https://github.com/user-attachments/assets/6a7ace93-4e78-43d5-8a9d-91eb84f10b05)
+
+* Option **D**.
+* Mezzanine Financing -> Hybrid financing -> Debt + Equity. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b0ad7082-cf1d-4c2e-ba37-8f271069a487)
+![image](https://github.com/user-attachments/assets/bd7520b7-406c-46be-887b-2c3fe49ed117)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/49a25b04-3054-4329-aa07-ef835794f767)
+
+* Option **D**. [Wrong]
+* Angel investors -> Invest in early stage. [**VERY IMPORTANT**]
+* Venture capitalists -> Invests in late/later stages. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/44488e12-8fff-40cf-99dc-66f4dbc2c5a2)
+![image](https://github.com/user-attachments/assets/893f4d74-b6e5-4d6a-bb51-22861d202435)
+![image](https://github.com/user-attachments/assets/d514b8db-8e5a-498f-bb26-ead400a55654)
+
+* EDIPT. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5139d462-cfc1-4a02-a894-18258d871f61)
+![image](https://github.com/user-attachments/assets/f20af8aa-b809-4943-9afc-e82eb8f8ee89)
+
+* Design Thinking. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b9608aa0-5a29-48ea-91fd-4023c91b8d83)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/93986d71-073d-479a-af29-a7d5f5be1c59)
+
+* Option **C**.  [Wrong]
+
+![image](https://github.com/user-attachments/assets/4ffc08ee-9c4d-4888-b370-34ce58555497)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/f5967a0d-d68d-4210-aa46-7ef7f218383d)
+
+* Option **A**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/9cd50bb9-7323-43ec-9e58-cb8ac2aee13b)
+
+* Option **D**. [Wrong]
+
+![image](https://github.com/user-attachments/assets/e21a49ba-ce32-4a36-963b-29b4c0a9fb1a)
+![image](https://github.com/user-attachments/assets/f7e2ff9b-7477-46f7-8183-83fe5d57bb46)
+![image](https://github.com/user-attachments/assets/c7032902-ced0-4a74-b68b-e2f94ad20233)
+![image](https://github.com/user-attachments/assets/1d17a557-4f12-4069-8647-0d0a37f88257)
+![image](https://github.com/user-attachments/assets/b2e7edaf-339c-4e50-ac6f-29ebe8080277)
+
+* Government Schemes. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6c7d83b9-e0eb-40da-8296-9f0f4d307177)
+![image](https://github.com/user-attachments/assets/0d3431e9-6714-4f64-ba11-e0b266fa9da8)
+![image](https://github.com/user-attachments/assets/8d596c4e-feb3-4ead-8a20-297893a8a6b3)
+![image](https://github.com/user-attachments/assets/e1a5dfeb-5896-4d26-9802-fb00a8e1d872)
+![image](https://github.com/user-attachments/assets/9261e919-22be-45dd-862d-550a149bba30)
+![image](https://github.com/user-attachments/assets/4a01aa0f-106c-4dc8-9c9a-4880ffdc8502)
+![image](https://github.com/user-attachments/assets/89f1109b-5d11-488a-b4a0-fdf91963e386)
+![image](https://github.com/user-attachments/assets/1d890f29-d899-440a-bc57-8a5634924f11)
+![image](https://github.com/user-attachments/assets/a7088319-4d2d-4f52-b705-9e692190473e)
+![image](https://github.com/user-attachments/assets/b78940b1-472e-47b4-b6bd-9716a8b1e17a)
+![image](https://github.com/user-attachments/assets/3f5ef27e-1cc2-4255-bed2-a4e9861e7055)
+![image](https://github.com/user-attachments/assets/0f656b03-d8a9-416d-bc6e-378ef824aa99)
+![image](https://github.com/user-attachments/assets/b53321b7-cd54-4523-88ce-193044e8ae89)
+
+* MUDRA -> Micro Units Development Refinance Agency. [**VERY IMPORTANT**]
+* PMMY -> Pradhan Mantri Mudra Yojna. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9d58cf85-fe4b-40b4-8c2b-8e2e03239ed3)
+![image](https://github.com/user-attachments/assets/7837e149-e51d-4f16-835c-23a323ee1a6f)
+
+* AIM -> Atal Innovation Mission. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cb1c12de-0efa-4d88-81e3-71cc0bdd6965)
+![image](https://github.com/user-attachments/assets/2660854c-02c3-45e0-baa8-3289fd8b0760)
+![image](https://github.com/user-attachments/assets/e6667f50-d23e-4995-bef5-65cddfd96869)
+![image](https://github.com/user-attachments/assets/ac38f9bf-fdc6-4535-bd8a-df1db43fd57e)
+![image](https://github.com/user-attachments/assets/a7391290-1439-488b-881a-7a0296508d53)
+![image](https://github.com/user-attachments/assets/6e5de984-c04e-44d4-a1a3-d79c5a2c5adf)
+![image](https://github.com/user-attachments/assets/3846014e-61bf-4502-b49c-3003aa25ca1c)
+![image](https://github.com/user-attachments/assets/9eaaaeec-de55-4be8-a2d2-25e61d2f61ad)
+
+* CGTMSE -> Credit Guarantee Trust Fund For Micro and Small Enterprises. [**VERY IMPORTANT**]
+* MSME -> Micro Small and Medium Enterprises. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e8370e1c-2f54-48c8-89ec-e4f8088a880b)
+![image](https://github.com/user-attachments/assets/af1bcb5a-cee7-45eb-bad6-09d83b4b3537)
+![image](https://github.com/user-attachments/assets/d174a295-c8d5-40c3-b7ce-27a7f65fe663)
+![image](https://github.com/user-attachments/assets/99fad5cb-3990-4dd1-bb53-85943a230409)
+
+* Loan ranges -> VERY IMPORTANT
+
+![image](https://github.com/user-attachments/assets/98d421a1-2d55-4c73-8df3-634f51ece4d7)
+![image](https://github.com/user-attachments/assets/4fd0d60a-7f66-4fb2-aa9d-706d70b6331e)
+![image](https://github.com/user-attachments/assets/840468c8-3f7b-4a29-93f0-2526e3e710b4)
+![image](https://github.com/user-attachments/assets/c3852ffe-218f-4f26-bb22-b2865a4ff404)
+
+* DEITY -> Department of Electronics and Information Technology.  [**VERY IMPORTANT**]
+* MEITY -> Ministry of Electronics and Information Technology.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5657ff14-f272-44ad-8271-518863f661ec)
+![image](https://github.com/user-attachments/assets/7d413dc5-e5f0-4fe3-bab2-fe48ec57f14d)
+![image](https://github.com/user-attachments/assets/6dee3223-b4ba-46de-b1b0-dbbd908e8d9e)
+![image](https://github.com/user-attachments/assets/b65127b9-8348-47d1-bbb3-d8eb95743e43)
+![image](https://github.com/user-attachments/assets/42a49d76-71d2-448b-8353-6608e4c84c5e)
+![image](https://github.com/user-attachments/assets/b23dafb2-1419-45f0-887e-a176b7ee33d6)
+
+* Certification.
+
+![image](https://github.com/user-attachments/assets/19776fd1-0fcd-4e8d-8c30-a5c8d1270dac)
+![image](https://github.com/user-attachments/assets/c581adb6-060d-4046-afe4-0f7557afebda)
+![image](https://github.com/user-attachments/assets/cc1a2a98-6110-418b-8e9a-bc0a821452c9)
+
+* SAMRIDH -> Startup Accelerator of Meity for Product Innovation, Development and Growth.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1dfe026a-6a00-479c-9e73-3b83efde952a)
+![image](https://github.com/user-attachments/assets/4f3f2695-3eef-4c15-999a-850e8fffe7bc)
+![image](https://github.com/user-attachments/assets/81e7ee31-b9da-45d7-ad9d-3a3f261b2ec8)
+![image](https://github.com/user-attachments/assets/686e9dd5-f1cb-4188-abfb-6afae91aa23a)
+![image](https://github.com/user-attachments/assets/2be91c91-51f9-4621-ad63-a0122a894579)
+![image](https://github.com/user-attachments/assets/68069454-b6e6-4e2a-8062-c36af37828dd)
+![image](https://github.com/user-attachments/assets/6eccfda5-a71f-4416-beae-c19f45314dd7)
+
+* [**VERY IMPORTANT**]
 
 
 
