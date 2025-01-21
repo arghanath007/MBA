@@ -3048,20 +3048,59 @@
 
 * Narendra_Modi. [**VERY IMPORTANT**]
 
-
+## Quant
   
+![image](https://github.com/user-attachments/assets/704a82ea-d679-429f-a0d8-d80f399e8a37)
+![image](https://github.com/user-attachments/assets/77aaf5dc-cab4-431d-9990-df614f14239c)
+![image](https://github.com/user-attachments/assets/35e5ed7f-4cd7-48f3-9bf7-1aebb95ddcb6)
+![image](https://github.com/user-attachments/assets/bdf4f9bd-56a3-44e8-aa7b-5d38827ea3b9)
 
+* [Questions]
 
+![image](https://github.com/user-attachments/assets/1ff6a62b-98cd-4c3c-a303-619b67bef7e0)
+![image](https://github.com/user-attachments/assets/0c146e9e-5dca-43cd-8e6e-a37601324d19)
+![image](https://github.com/user-attachments/assets/19b91d01-b494-44de-bda5-ae000f21efa3)
+![image](https://github.com/user-attachments/assets/22a7bc3c-940e-4e97-a8e0-92e8c63f0b07)
 
+* Minute Hand.  [**VERY IMPORTANT**]
+* Hour Hand -> 1/2 or 0.5 degree per minute.  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ffe80f0d-125f-4e70-91bc-c7beccd9a5bf)
+![image](https://github.com/user-attachments/assets/81ca0ce6-ca90-40f5-b1d6-6fae49731a6a)
+![image](https://github.com/user-attachments/assets/8c46c839-dd09-41d7-9e19-797b4744dc6b)
+![image](https://github.com/user-attachments/assets/51365256-c7c1-47d6-a559-912420b3fe8a)
+![image](https://github.com/user-attachments/assets/3fbac361-91ab-4f1b-ba7f-a991cce54723)
+![image](https://github.com/user-attachments/assets/7515e82e-a4f7-4c13-b95b-ba50a6971b7b)
 
+* 25 * 4 = 100.
+* 24 * 4 - 1 = 96 - 1 = 95.
+* 23 * 4 - 2 * 1 = 92 - 2 = 90.
+* Multiples of '5'. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a7833f2c-9998-4522-9b58-83b2e9732420)
+![image](https://github.com/user-attachments/assets/a1a1c98a-4f0b-4f27-938e-ca12a4ce9c0e)
+![image](https://github.com/user-attachments/assets/6b96d220-21c7-4515-b414-1f2707444315)
+![image](https://github.com/user-attachments/assets/a28b84c0-ae21-45f4-8410-085dcd94c85c)
+![image](https://github.com/user-attachments/assets/0fce70f4-cb7e-4b90-a293-4fa3ccc5e804)
+![image](https://github.com/user-attachments/assets/0a9aad03-7407-40ce-8c2e-d184aef8e88e)
+![image](https://github.com/user-attachments/assets/4b3a1c73-a343-4c97-9301-6a9511be38c0)
 
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/80c4159e-8c8e-49fa-93d3-4c50a349a983)
+![image](https://github.com/user-attachments/assets/3b7f63ec-c136-4089-985d-ecb5a1ce87f2)
 
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ebf45e7a-4047-4d99-8715-a40ab801f726)
+![image](https://github.com/user-attachments/assets/75127ad3-fd36-4c15-9ac8-aef551d664c2)
+![image](https://github.com/user-attachments/assets/ee347046-2173-4514-8ebc-1c9d45994526)
+![image](https://github.com/user-attachments/assets/58a31a0b-3456-43b0-9ec2-2b2388fa842d)
+![image](https://github.com/user-attachments/assets/5d3e2f68-a9df-4503-83a9-57979363b34d)
 
+* Answer -> 70%.
 
+![image](https://github.com/user-attachments/assets/ce965d0c-c6be-4c0e-b6dd-339b1539b8d2)
 
 
 
