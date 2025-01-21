@@ -3285,6 +3285,133 @@
 
 * Narendra_Modi. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e9f1d9c5-11e7-4493-ac52-a87c3c477d7e)
+![image](https://github.com/user-attachments/assets/42bc7365-4e4a-4be4-acdd-734a0cc0d1d9)
+![image](https://github.com/user-attachments/assets/e6de1ae7-c34f-40d1-9b1d-49dc60b3a829)
+
+* Muhammad Ghori 's Slave -> Qutb ud-Din Aibak, also known as Qutubuddin Aibak. [**VERY IMPORTANT**]
+* Qutubuddin Aibak was later purchased by Muhammad Ghori, who eventually appointed him as the officer of the royal stables and later as the governor of Ghurid territories in northern India. After Muhammad Ghori’s death in 1206, Aibak established his own independent rule in Lahore and laid the foundations for the Sultanate of Delhi. He died in 1210 in a polo accident.
+* First Battle of Panipat -> From where the **Mughal Empire** had started. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b66d6a76-b4ee-497a-bfa1-3eea263fa7e8)
+![image](https://github.com/user-attachments/assets/edfe63d6-fbb2-41bb-befb-6630d0eb9ce2)
+![image](https://github.com/user-attachments/assets/63286c82-b709-4b8b-8631-705ee9d2fc70)
+![image](https://github.com/user-attachments/assets/a5de11ab-65bf-4b36-8b7a-6a6750925e2c)
+
+* **Ahmad Shah Abdali**, also known as **Ahmad Shah Durrani**, is famous for constructing the **Mosque of the Cloak of the Prophet Muhammad** in **Kandahar, Afghanistan**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/56bd14bd-114a-430b-9040-f32450738b64)
+![image](https://github.com/user-attachments/assets/d3e96133-3c67-4685-959b-c32e410f2b49)
+
+* **Daulat khan lodi** had called **Babur** to India.
+* **Daulat Khan Lodi invited Babur** to invade India in 1522 CE. He sought Babur’s assistance to overthrow **Ibrahim Lodi**, who was the cruel and unpopular sultan of Delhi. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/4675c8ca-d9bf-4b1f-8feb-38f57ee28650)
+![image](https://github.com/user-attachments/assets/fdb1555c-7b45-4e27-b777-f1387590bbac)
+![image](https://github.com/user-attachments/assets/f4fc9653-2bf9-4bdf-856c-9b56e1e82d02)
+![image](https://github.com/user-attachments/assets/fd79ca2a-ec81-47f7-a8e4-5325bbbeeb4b)
+
+* All Battles. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/75be22dc-c4e8-43f7-94eb-50fa74f0f236)
+![image](https://github.com/user-attachments/assets/4543c79b-25a2-497f-a396-4be3e47a91c8)
+
+* MD -> Managing Director.
+* CMD -> Chairman and Managing Director.
+
+![image](https://github.com/user-attachments/assets/7375b437-a0f6-4d08-bdc1-5c3007f33729)
+![image](https://github.com/user-attachments/assets/f7eaaee9-175c-4694-be5b-3b852fd914a5)
+![image](https://github.com/user-attachments/assets/720ec312-2d82-4258-9c78-c46555b5f8de)
+
+* Jay Shah -> He is also the son of **Amit Shah, India’s Minister of Home Affairs**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ccf2efd6-8d37-4493-9d6f-dcbff0c61749)
+![image](https://github.com/user-attachments/assets/9c5abcf3-da05-4008-b99d-934e431ce2c7)
+![image](https://github.com/user-attachments/assets/882e6294-bd26-487e-aa71-b7386af1b500)
+![image](https://github.com/user-attachments/assets/ce2ce741-2334-453a-b97c-c9a107e35094)
+
+* WTO -> World Trade Organization. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d30ed913-36bc-4e91-8242-2d58172ef023)
+
+* ICC total members -> 108.
+* WTO total members -> 166.
+
+![image](https://github.com/user-attachments/assets/5e807251-e8f4-44c0-a0f6-5314a90e0a50)
+![image](https://github.com/user-attachments/assets/32ee888f-66bc-4583-90d5-528a04654a64)
+
+* Kash Patel -> Indian origin.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9021ae23-2f0e-4f84-874d-65340131702f)
+![image](https://github.com/user-attachments/assets/2869cc22-f76d-4e18-aff6-b5567039f284)
+![image](https://github.com/user-attachments/assets/a09f701e-ee68-4a30-b647-120ea06f9463)
+
+* ADB -> Asian Development Bank -> For the development of **Asian** countries only.  [**VERY IMPORTANT**]
+* Masato Kanda -> Japanese.
+* ADB members -> 69.
+
+![image](https://github.com/user-attachments/assets/c985df8c-1fab-4702-b4c1-2d7ec4771cb7)
+![image](https://github.com/user-attachments/assets/a54b4031-872f-47c1-9539-d865319f8b15)
+![image](https://github.com/user-attachments/assets/cce1fb8c-0bf4-499e-a705-82d61238b210)
+![image](https://github.com/user-attachments/assets/42b043a1-941a-4464-bf0e-f89718eeb853)
+![image](https://github.com/user-attachments/assets/5e6051a9-dbc6-49d2-95f4-5b7992a817a2)
+![image](https://github.com/user-attachments/assets/58a41570-1d0b-4980-8cff-853074ba3e8a)
+
+* Eurogrip Tyres -> European private company.
+
+![image](https://github.com/user-attachments/assets/61c97f44-a74a-4ed3-9720-5b6a6236572a)
+![image](https://github.com/user-attachments/assets/cc25ae76-9da3-4622-8c2f-4016eeb4c2ca)
+![image](https://github.com/user-attachments/assets/e9bdbabb-06d5-401a-ae20-f347dcbeccfe)
+![image](https://github.com/user-attachments/assets/49c59099-0658-4f7f-af6f-a1a3914636ea)
+![image](https://github.com/user-attachments/assets/37953457-55a8-4373-a346-296973929733)
+![image](https://github.com/user-attachments/assets/bc5c265a-e69b-452e-bd9c-4a74f68d1d1d)
+![image](https://github.com/user-attachments/assets/9fd0311c-caa4-4d68-b15a-f6571006ddfe)
+![image](https://github.com/user-attachments/assets/a53179d4-08e6-49ff-8b70-dfff877ed3ad)
+![image](https://github.com/user-attachments/assets/f67d0f41-f638-4622-b99c-813a1037e8ec)
+![image](https://github.com/user-attachments/assets/5bfa3751-bee8-43f4-9c3a-45e9b9bb371e)
+![image](https://github.com/user-attachments/assets/b40a9749-0731-4aab-91f3-b2c6cab75dc9)
+![image](https://github.com/user-attachments/assets/9147d450-bb44-4b4b-a0d6-af0bb1b9f6ee)
+
+* Appointment & Resignation. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Quant
   
 ![image](https://github.com/user-attachments/assets/704a82ea-d679-429f-a0d8-d80f399e8a37)
