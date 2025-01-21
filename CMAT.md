@@ -3467,11 +3467,27 @@
 ![image](https://github.com/user-attachments/assets/ce965d0c-c6be-4c0e-b6dd-339b1539b8d2)
 
 
+## LR
 
+![image](https://github.com/user-attachments/assets/015002e4-66a8-4a02-9df9-6fd6697ebfba)
+![image](https://github.com/user-attachments/assets/0bec48ab-32d3-4341-bde2-bf78fa1805d7)
+![image](https://github.com/user-attachments/assets/0b873300-8e01-41c6-b173-63bdabe1201e)
+![image](https://github.com/user-attachments/assets/8d4f6672-b548-4d89-ab69-8bef25d4e52a)
+![image](https://github.com/user-attachments/assets/b2da0dd9-f3de-41a5-8c41-5734eab28363)
+![image](https://github.com/user-attachments/assets/6b7bc3de-d8d3-44fa-a684-2075af9ab0ec)
+![image](https://github.com/user-attachments/assets/15ab11e8-6043-45dd-b39c-bbb3aead4b9e)
+![image](https://github.com/user-attachments/assets/5428cec5-7367-4e56-8dd0-02913ae1ffcd)
+![image](https://github.com/user-attachments/assets/5f27fcb6-f522-4b6f-bc85-d26e575fe153)
+![image](https://github.com/user-attachments/assets/488c0d9f-7bfe-41fc-9e3c-3df95fca2504)
 
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/19ec0633-8f96-486c-bad0-7893f7c6b27c)
 
-
+* Heat -> A calorimeter is the device used for the measurement of heat.
+* Mercury -> Sphygmomanometer.
+* Pressure -> Digital Pressure Gauge.
+* 19mins 52secs.
 
 
 
