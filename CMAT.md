@@ -1905,6 +1905,243 @@
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/50f497e4-7c83-44da-9d96-3399e20fb639)
+![image](https://github.com/user-attachments/assets/f019a664-cd91-482b-9337-c35e3aae1f85)
+![image](https://github.com/user-attachments/assets/f0103d53-9c08-4007-a373-8ad4af3645cf)
+![image](https://github.com/user-attachments/assets/493249a4-252b-430a-a32b-f04429a75bfa)
+![image](https://github.com/user-attachments/assets/638dd60e-a01f-405a-9788-11d1413f826d)
+![image](https://github.com/user-attachments/assets/ddecc8ff-6846-425a-9c92-7c849b12c1a9)
+![image](https://github.com/user-attachments/assets/80d00dbf-584d-4a6d-a144-94fc50c0fdbb)
+![image](https://github.com/user-attachments/assets/e730c52e-a791-4ed0-9bc4-216854cab579)
+![image](https://github.com/user-attachments/assets/3ec96a8b-121e-4755-b59e-13344f842042)
+![image](https://github.com/user-attachments/assets/41657add-0b9d-43f8-9096-0ddf1c62bb79)
+![image](https://github.com/user-attachments/assets/4b04ea20-16d4-4e2b-a764-d2aca8f010a9)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0a040e21-7856-4a93-893d-828b2adcc99f)
+![image](https://github.com/user-attachments/assets/c7d8ecad-bbfd-442d-901d-e27ef4b2d287)
+![image](https://github.com/user-attachments/assets/db91bd40-d91e-4264-b6ff-c1d9dfac0fdd)
+![image](https://github.com/user-attachments/assets/71a756dc-e822-44e3-9159-bf35834b1df7)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/6efa2416-ca6e-4597-b785-ef8ed3367acd)
+![image](https://github.com/user-attachments/assets/5a6065d3-6319-4ce3-9483-27173bff3029)
+![image](https://github.com/user-attachments/assets/a7136e88-3f18-4a2c-9dfc-dd487e2b3453)
+![image](https://github.com/user-attachments/assets/3ecccc30-8320-469b-9b2f-707abd804514)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7c65351e-d9d7-4ff0-bb18-4510d3fe19f4)
+![image](https://github.com/user-attachments/assets/e99cba6b-0210-423d-9330-6491733316f7)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3d8ef47c-04d1-4ce8-bdc4-645530783d41)
+![image](https://github.com/user-attachments/assets/cad0e615-3f43-4a1d-a86e-3bdb184fd960)
+![image](https://github.com/user-attachments/assets/f46c5146-a590-4950-8cde-680fcc769f52)
+![image](https://github.com/user-attachments/assets/10ba521a-c7d2-43c6-a1a9-1c406ccfb353)
+![image](https://github.com/user-attachments/assets/8a91fd28-c9ab-4f17-a25d-be646c05a13f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9569bdeb-93e4-4619-a3df-750eacdede24)
+![image](https://github.com/user-attachments/assets/5cc1fe9a-5c39-4231-bfc3-450d387cd700)
+
+* [**VERY IMPORTANT**]
+* SKT -> Shishu Kishor Tarun.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fea5f40f-7ebc-44fa-a881-72ca4b2bec18)
+![image](https://github.com/user-attachments/assets/c0aee9f3-2089-4c79-9572-8db03749c28b)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b113b33b-5e4f-4329-94f9-d33f69b9c06e)
+![image](https://github.com/user-attachments/assets/c8749d0f-ff42-4f6f-952d-784195afc083)
+![image](https://github.com/user-attachments/assets/c0d7d7a6-4040-4f7f-b68b-362171d7f5b2)
+
+* [**VERY IMPORTANT**]
+* MSE -> Micro and Small Enterprises. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c1069fa8-9a2e-438d-af17-20bd64055212)
+![image](https://github.com/user-attachments/assets/1c94cd5a-51e3-4550-b317-fee4a94a4cc9)
+![image](https://github.com/user-attachments/assets/d2c52ac0-165a-409c-b0ed-45d89bcbfad9)
+
+* [**VERY IMPORTANT**]
+* It provides colateral for loan upto 5Crores -> It gives Gurantee, it doesn't give the loan. [Correct] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ca7b5a63-4db9-48e7-b833-d59fe315fcc3)
+![image](https://github.com/user-attachments/assets/ad6e1f79-20ad-4c28-b832-5240097beecb)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2671bddc-7885-49df-aa71-42d9233791e0)
+![image](https://github.com/user-attachments/assets/efcd6b37-41fe-4f54-982c-2f8643552b5e)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/929cf99f-5c7f-49aa-bf6a-ab49e8d56c6a)
+![image](https://github.com/user-attachments/assets/77cd3152-1c43-431f-887f-06ff93e43329)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/438ccd5f-cee4-4bae-b478-37f488e0bfe3)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1be55a62-ac5c-4b02-85a5-a6a0f378972d)
+![image](https://github.com/user-attachments/assets/08521e67-1d00-4fe8-aacb-19348cc7bf5f)
+
+* Discounting of Bills =  Factoring Service -> They are the **same** only.
+
+![image](https://github.com/user-attachments/assets/7350dee2-9cbc-47ad-af14-9fa44d3e1e2e)
+
+* SIDBI -> SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/bee080e4-277d-45c8-b9d6-6abdbbfbf39f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7a51ba25-85f6-4980-acb2-263aa8ee3d71)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/778b4ade-d3ae-49d8-99ef-51a7c8e8d07b)
+![image](https://github.com/user-attachments/assets/bac5f013-b935-41ea-9a01-22d376436115)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/98d5edc2-2ac1-4b3c-8690-adb10f3f914f)
+![image](https://github.com/user-attachments/assets/5651b1e1-9a35-4db6-b208-20b5f624805a)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3b4585d7-b0f9-44e5-9f40-f9d846614972)
+![image](https://github.com/user-attachments/assets/6ff945e3-8cee-4f8b-9635-8010180966db)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/682104ae-e9c0-4cdd-97d1-9ad53c2806e9)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/53dbb855-783f-45ca-a8fa-cbed97f67b41)
+![image](https://github.com/user-attachments/assets/60275221-3796-4488-a1ef-5b1e4c52969d)
+
+* SMILE -> SIDBI make in India Soft Loan for Enterprises. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5c95d99d-dd0e-4b01-abed-6f3d5c37bc2e)
+![image](https://github.com/user-attachments/assets/9f34f359-4019-4b5f-8a31-68842a4412a6)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1a76b0a4-bcb1-4bac-8283-5aba4319edb7)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/65be3c65-f2cb-4168-bab7-64ef6a9ad663)
+![image](https://github.com/user-attachments/assets/22e82672-301e-4f64-a31a-e4026a08e8f3)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b812e0aa-2fa7-4c10-92b7-130f8658400b)
+![image](https://github.com/user-attachments/assets/825dd478-986c-4580-9f2b-21851b34db1e)
+![image](https://github.com/user-attachments/assets/1af79343-2470-4a48-a321-457ad7a2d283)
+![image](https://github.com/user-attachments/assets/f4d436ac-5d21-4825-8589-3abaf740e696)
+![image](https://github.com/user-attachments/assets/0386a806-2ab4-4802-aeae-4a50ec30e698)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/728cdb59-3fdd-4618-aeed-f8ed87678b69)
+![image](https://github.com/user-attachments/assets/cbef97da-ca84-44ff-88ac-f9b3fae7057c)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cbefb2b0-c0e1-4131-9cbd-0e21410cf0a5)
+![image](https://github.com/user-attachments/assets/ea04b290-bc63-4285-b69e-a9cd55e63f26)
+![image](https://github.com/user-attachments/assets/86c2e7dc-326b-40f6-b6de-b44fbcc4e228)
+![image](https://github.com/user-attachments/assets/9acd79a4-6b75-48e3-b181-708edc1b5801)
+![image](https://github.com/user-attachments/assets/f7a328c7-2615-4c06-8cff-3bb223016714)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7b94072f-ba41-498a-bb3a-55dfa48f8dff)
+![image](https://github.com/user-attachments/assets/ec7d6f10-d0fe-486d-9f91-ed29d156f7b0)
+![image](https://github.com/user-attachments/assets/275b7172-51d6-4319-b15b-29bc19a477f5)
+![image](https://github.com/user-attachments/assets/7e76aa8d-5fb6-414b-81cf-ba083dd1a06d)
+![image](https://github.com/user-attachments/assets/d20dab0c-bac0-4860-aebe-67ce08c29c2d)
+![image](https://github.com/user-attachments/assets/4579a2f9-b31e-43ae-808e-ad526922728f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/512dbb51-57b0-4bdf-a5d2-3632cce004b4)
+![image](https://github.com/user-attachments/assets/b1ac6127-561e-4805-8898-a6feda76aa47)
+![image](https://github.com/user-attachments/assets/839fa879-ea5c-44e2-ba58-45157577a89c)
+![image](https://github.com/user-attachments/assets/5b86ac05-7c49-4036-aa28-4dd2e60534ef)
+
+* [**VERY IMPORTANT**]
+* Angel Investor -> Early stage.
+* VCs -> Last stage -> Opposite of **Early** stage.
+
+![image](https://github.com/user-attachments/assets/1f792f67-7c2e-427b-8ab7-3aafa83922c5)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0947589a-ed16-4692-bc5d-40af5590936e)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a395f720-b45f-41ad-a227-d544192670a1)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ee575e80-4a28-42db-bdf6-24b1b17271a0)
+![image](https://github.com/user-attachments/assets/4a2ba778-d24a-4059-938b-eac594c647bf)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/59c6d568-d4ea-4097-9344-b32854628a8b)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/33e36a78-b829-4e88-99dd-0830a86011c1)
+![image](https://github.com/user-attachments/assets/50800f63-e296-49d6-a15d-270a40ca1890)
+![image](https://github.com/user-attachments/assets/26e82eff-6514-49e9-906f-8d697a010b9e)
+
+* Option **A**.  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/44c4b977-33af-4e42-9a9d-0105dab9242c)
+![image](https://github.com/user-attachments/assets/c9a6c090-603e-4279-9c6a-1e2bac83aadb)
+
+* [**VERY IMPORTANT**]
+* CPM, PERT -> Operation management tools. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/58414713-9b8e-4789-a532-38ce0b28e5f2)
+![image](https://github.com/user-attachments/assets/1482f400-2d17-4bba-bc55-819cc8b2acc9)
+![image](https://github.com/user-attachments/assets/3fd60005-4af0-43a4-9001-8af0ff81399b)
+![image](https://github.com/user-attachments/assets/a896efd7-351a-4d3c-8775-9e0a04fb2980)
+![image](https://github.com/user-attachments/assets/57f919e1-970d-4010-bea1-48be869afe06)
+
+* MVP -> Minimum Viable Product. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7fc2e33b-05b3-4e1c-9ba4-ef185cf24639)
+![image](https://github.com/user-attachments/assets/887be1a2-dd7e-4f61-a9b0-e6c6684788c8)
+
+* [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
