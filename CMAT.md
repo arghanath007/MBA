@@ -3484,16 +3484,67 @@
 
 ![image](https://github.com/user-attachments/assets/19ec0633-8f96-486c-bad0-7893f7c6b27c)
 
-* Heat -> A calorimeter is the device used for the measurement of heat.
-* Mercury -> Sphygmomanometer.
-* Pressure -> Digital Pressure Gauge.
-* 19mins 52secs.
+* Heat -> A **calorimeter** is the device used for the measurement of heat. [**VERY IMPORTANT**]
+* Mercury -> Sphygmomanometer -> Thermometer -> There are **many**.
+* Pressure -> Digital Pressure Gauge -> Barometer. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/d376d3f1-d8a1-4dc7-b6e5-7495113260ba)
+![image](https://github.com/user-attachments/assets/47e51192-6723-4bce-b178-8b1c2479bcee)
+![image](https://github.com/user-attachments/assets/c132f770-e617-49b2-a323-a2e0b1abeb18)
+![image](https://github.com/user-attachments/assets/ab2e3591-5fbf-467f-9ebe-d5f7934d70ef)
+![image](https://github.com/user-attachments/assets/d3b8aa34-ddb9-478b-aec9-272ddc69a450)
 
+* Option **B**.
 
+![image](https://github.com/user-attachments/assets/f180059c-10d9-4ffd-91ee-597aeff714e7)
+![image](https://github.com/user-attachments/assets/223304ed-9384-42a8-b0cc-08ed0f926f91)
+![image](https://github.com/user-attachments/assets/1372507f-8206-4410-8946-c943a9ae4496)
 
+* Root 2: The value of 2 is approximately 1.414.
+* Root 3: The value of 3 is approximately 1.732.
+* Root 5: The value of 5 is approximately 2.236.
+* Root 7: The value of 7 is approximately  2.646.
+* Root 11: The value of 11 is approximately 3.317.
+* Root 13: The value of 13 is approximately 3.606.
+* Root 15: The value of 15 is approximately 3.873.
+* Root 10: The value of 10 is approximately 3.162.
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ea733696-ac88-4ba3-95fb-8b393b6bf63c)
+![image](https://github.com/user-attachments/assets/054888a1-dd5d-4a44-b382-e916ac3d29f6)
+![image](https://github.com/user-attachments/assets/856c770a-fdf4-4ff8-8051-534150e51f19)
 
+* Answer -> 'S'. [Doubt] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cc5def9b-9d5f-47a7-8efa-75002479d0ec)
+![image](https://github.com/user-attachments/assets/bc9bfaae-2bb0-4e4c-99f5-d0851eb91143)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cee4d36e-da7c-4e18-bfbd-5c63950213a3)
+![image](https://github.com/user-attachments/assets/e1e15077-30b5-4951-8574-613374a0244e)
+![image](https://github.com/user-attachments/assets/a7ffa863-28f8-4a04-a10a-42e4fa38af90)
+![image](https://github.com/user-attachments/assets/e952199b-40e1-4388-9d54-3f1e71d10c92)
+![image](https://github.com/user-attachments/assets/1946f019-e21d-4f1e-a55e-fbbecef61698)
+
+* Option **A** -> 7.
+
+![image](https://github.com/user-attachments/assets/36e94790-29f8-48e8-8660-a80581423e1a)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e43a1607-489a-4b05-85a6-90b64c87d5e2)
+![image](https://github.com/user-attachments/assets/31098288-3554-4ace-9740-c0efa6fa0093)
+![image](https://github.com/user-attachments/assets/455ba387-6d1e-4f42-b683-0539a1a7a9a3)
+![image](https://github.com/user-attachments/assets/9e0e2d73-5f0b-4619-a257-3590b2b5925b)
+
+* Option **B**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/580efde0-2391-46c5-bf3e-9703f3dfa913)
+![image](https://github.com/user-attachments/assets/7c33215f-9033-4750-9ce2-5bb96b1efa94)
+
+* Option **B**. [**VERY IMPORTANT**]
+* Conclusion **II** follows. 
 
 
 
