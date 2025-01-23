@@ -3653,13 +3653,57 @@
 ![image](https://github.com/user-attachments/assets/a943679f-6b3e-4b23-b923-9132f6b4365d)
 ![image](https://github.com/user-attachments/assets/775a83ff-ccab-4053-9cdd-3971303b62c7)
 
+## GK
 
+![image](https://github.com/user-attachments/assets/e799347c-244e-4775-b24f-e8fefca38567)
+![image](https://github.com/user-attachments/assets/96cd847c-7a6d-4913-a219-9d4f7b7c265c)
+![image](https://github.com/user-attachments/assets/4d88b08b-4058-48b9-ac07-eda36d62bcbb)
+![image](https://github.com/user-attachments/assets/f41cdf4f-4f62-44de-a705-47ba24bcef68)
+![image](https://github.com/user-attachments/assets/7389d1ae-816a-4749-b4ab-c1f8a21e1bf6)
+![image](https://github.com/user-attachments/assets/fce05d71-9e7a-488c-8c5c-3529ca064260)
+![image](https://github.com/user-attachments/assets/48c1bc29-0821-48af-b296-57ac0a30f1db)
+![image](https://github.com/user-attachments/assets/616f6262-84c7-4e22-a76a-80e54db01b9f)
+![image](https://github.com/user-attachments/assets/7f02eb76-d8d5-4ca4-9649-03ff6ed61d69)
 
+* Tributaries of Ganga River -> Yamuna, Son, Ramganga, Gomti, Ghaghara, Gandak, Kosi, Chambal, Damodar, Falgu. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/b4de31ad-35b4-47bd-b63c-ab386b600946)
+![image](https://github.com/user-attachments/assets/4405cb2d-9d9e-4f9e-8926-8198c9597910)
 
+* Azerbaijan -> The currency of Azerbaijan is the **Azerbaijani manat (AZN)**, and its capital is **Baku**. [**VERY IMPORTANT**]
+* The Gambia -> The currency of The Gambia is the **Gambian Dalasi (GMD)**, and its capital is **Banjul**. [**VERY IMPORTANT**]
+* Hungary -> The capital and most populous city of Hungary is **Budapest**, which is also the country’s financial center and a global city. Hungary’s official currency is the **Hungarian Forint (HUF)**. [**VERY IMPORTANT**]
+* Latvia -> The capital of Latvia is Riga. Latvia’s official currency is the Euro (EUR). [**VERY IMPORTANT**]
+* Currency and Capital
 
+![image](https://github.com/user-attachments/assets/f3b9a36a-0d02-4910-addd-a712c5f9f28f)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/0551ed0a-d8bf-4d83-a17e-50780da514bf)
+![image](https://github.com/user-attachments/assets/a99e4706-6d1d-4680-82fe-b090734725cb)
+
+* Because of the **wavelength**.
+
+![image](https://github.com/user-attachments/assets/e250776f-9433-4917-9363-02f5773c427a)
+![image](https://github.com/user-attachments/assets/369467f6-a6ed-43cd-9043-66f1d5608c23)
+![image](https://github.com/user-attachments/assets/42c86bf2-93e7-4a17-aaea-a6b48fdcf2c4)
+![image](https://github.com/user-attachments/assets/f1d39ff0-3712-425f-a41d-bc3d06521bfc)
+![image](https://github.com/user-attachments/assets/464492b8-600e-43de-bdae-f4a503693109)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/64bf214e-6375-4f12-ba67-b047e2b6d670)
+![image](https://github.com/user-attachments/assets/cae03c56-fed2-488c-ac69-eacd3dcbd04b)
+![image](https://github.com/user-attachments/assets/baaca71d-c5e0-4ec7-8edd-94c70d1a48bc)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a9834b58-b11c-4737-a5b0-26962f15c2fa)
+
+* **The Ramsar Convention**, officially known as the Convention on Wetlands of International Importance Especially as Waterfowl Habitat, is an international treaty for the conservation and sustainable use of wetlands. It was signed on **February 2, 1971**, in the city of **Ramsar, Iran,** and came into force on December 21, 1975. [**VERY IMPORTANT**]
+* World Wetlands Day is celebrated annually on **February 2nd** to raise awareness about the importance of wetlands and their conservation.  [**VERY IMPORTANT**]
+* Deepor Beel, located in **Kamrup district, Assam, India**, is a significant Ramsar site and the only one in Assam. Designated as a Ramsar site in **2002**, it is recognized for its ecological and biological importance, supporting a diverse range of aquatic life forms and 219 bird species.  [**VERY IMPORTANT**]
 
 
 
