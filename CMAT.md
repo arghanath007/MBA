@@ -3795,6 +3795,47 @@
 ![image](https://github.com/user-attachments/assets/9732ca2a-b6f1-46bc-a72d-9876d59c6864)
 ![image](https://github.com/user-attachments/assets/f1c3a5d7-e6e6-43df-8089-31714d37ba89)
 
+## Chem and Bio
+
+![image](https://github.com/user-attachments/assets/444a47f6-3b42-4041-8a91-4ed55a5b1eec)
+![image](https://github.com/user-attachments/assets/5f843a50-197e-4132-93b9-9472d2aef937)
+![image](https://github.com/user-attachments/assets/a87fecbc-e3c4-45af-af4e-ea2745176a0a)
+![image](https://github.com/user-attachments/assets/0a58b362-a2eb-4849-a30c-5e0a71f2127c)
+![image](https://github.com/user-attachments/assets/8f22de32-9c1e-4082-a427-044bdecf2645)
+![image](https://github.com/user-attachments/assets/8fe5e0ac-06a0-474c-a7db-c7d536a71213)
+
+* Chem. 
+
+![image](https://github.com/user-attachments/assets/8ce19a32-6096-4d80-ad44-7351eee0c633)
+![image](https://github.com/user-attachments/assets/d37efb44-63d2-4ce4-a7a2-1df6a378772a)
+
+* Osteology -> Osteology is the **scientific study of bones**, which includes analyzing their shape, structure, and composition.
+* In medical terminology, “ost” is often used as a suffix to indicate **a condition related to bones**. For example, “osteoporosis” is a condition where bones become brittle and fragile due to a loss of tissue.
+
+![image](https://github.com/user-attachments/assets/09f72a57-22ec-46ca-84ee-caee6434a16b)
+![image](https://github.com/user-attachments/assets/60a13c91-6d41-4863-a8c3-5627ef7514ff)
+![image](https://github.com/user-attachments/assets/ad499ab5-d338-4f35-8afd-777ae814d91f)
+![image](https://github.com/user-attachments/assets/6ae44502-fa55-47a7-b685-043b97231551)
+
+* Bio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
