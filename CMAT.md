@@ -3632,6 +3632,28 @@
 ![image](https://github.com/user-attachments/assets/c6e87d4e-c20e-47fe-b059-865f55715042)
 ![image](https://github.com/user-attachments/assets/4e443b26-9062-424c-8f61-26a3586f871b)
 ![image](https://github.com/user-attachments/assets/c6b27d0d-7b19-482d-aa94-1a155be4f17f)
+![image](https://github.com/user-attachments/assets/cf7ed4b4-ff10-4d67-95df-897e24a63de7)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/653609a6-0b79-42d9-bd41-507ecae46784)
+![image](https://github.com/user-attachments/assets/223ed115-5129-4972-9d85-fbdfa393e7f0)
+
+* AP -> Equal gap.
+* Option **B** -> Equal gap of '6'. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c8cf58d8-a8b8-4a4a-aa96-9a5c4c5319f1)
+![image](https://github.com/user-attachments/assets/2cb18afe-269c-4bdc-adf4-2055c60a25b9)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d05d69af-73ca-4786-9ff0-6fef027568dc)
+![image](https://github.com/user-attachments/assets/03ad9f4e-daed-4177-b1ef-0e7b92b4061b)
+![image](https://github.com/user-attachments/assets/bacd6f74-621b-490d-a9a3-bdf06cca5a63)
+![image](https://github.com/user-attachments/assets/a943679f-6b3e-4b23-b923-9132f6b4365d)
+![image](https://github.com/user-attachments/assets/775a83ff-ccab-4053-9cdd-3971303b62c7)
+
+
 
 
 
