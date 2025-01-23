@@ -3819,22 +3819,100 @@
 
 * Bio.
 
+## GK
 
+![image](https://github.com/user-attachments/assets/b7f051d0-754d-4569-a7a8-4a94edb5dd82)
+![image](https://github.com/user-attachments/assets/4101d013-d8ce-47b1-9ff9-831e103b7c95)
 
+* Rasa -> Feelings -> Taken from **Athraveda**.
+* Words -> Taken from **Rigveda**.
+* Geet -> Taken from **Yajurveda**.
 
+![image](https://github.com/user-attachments/assets/cbc8c7d4-3424-44bc-9320-2dd512c9ab8d)
+![image](https://github.com/user-attachments/assets/787bb9d3-18c6-4ee3-80e2-c46a10391f45)
+![image](https://github.com/user-attachments/assets/4a404c80-001e-472a-8005-d47a006ee083)
 
+* Female -> Lasya.
+* Male -> Tandava.
 
+![image](https://github.com/user-attachments/assets/58f661d0-7425-4789-9b06-d9ff390825fb)
 
+* Tandava is a part of Nritta.
 
+![image](https://github.com/user-attachments/assets/c38d9174-9e56-4ce1-a0c6-5b55418fd472)
+![image](https://github.com/user-attachments/assets/364c36e8-384d-4b30-859a-f84f19e7d951)
+![image](https://github.com/user-attachments/assets/0aec1322-bbbf-4e5e-8470-2c7da93a85c7)
+![image](https://github.com/user-attachments/assets/d44dbb3d-2a8f-4992-90d3-15aeea59b43b)
 
+* Revived Bharatnatyam -> Option **A** and E. Krishna Iyer.
 
+![image](https://github.com/user-attachments/assets/da9e4831-3e11-44f2-9a36-27eb24eebb4b)
+![image](https://github.com/user-attachments/assets/b5967802-ec28-4956-9b1a-fe7817f0abd6)
+![image](https://github.com/user-attachments/assets/f85f2cf1-a9a1-4e84-a938-aeb2f14de675)
 
+* **Mudrarakshasa was written by **Vishakhadatta**, an Indian Sanskrit poet and playwright.**.
 
+![image](https://github.com/user-attachments/assets/666ca73a-5c7a-4253-8ec3-0f7bd7ba8529)
+![image](https://github.com/user-attachments/assets/2702b59a-df08-4702-8cc0-f7c377f8a94a)
+![image](https://github.com/user-attachments/assets/5f0f2f28-2600-4bcd-9f1a-f56ce4e9fad4)
+![image](https://github.com/user-attachments/assets/f0440e93-89b7-4a71-9c63-3fee540d705f)
 
+* Option **A, C and D** -> Warm ocean currents.
 
+![image](https://github.com/user-attachments/assets/e131ad13-f0c9-42f1-8b2c-58e5b01a2187)
+![image](https://github.com/user-attachments/assets/a863637f-843d-4207-832f-e8f3129fbdeb)
+![image](https://github.com/user-attachments/assets/9661eff8-0c9c-4537-9436-1be0252a20c4)
+![image](https://github.com/user-attachments/assets/4d7776a8-6bca-4273-a697-18ec6c487319)
 
+* The full form of TRAFFIC is **Trade Records Analysis of Flora and Fauna in Commerce**.
 
+![image](https://github.com/user-attachments/assets/1e651147-7436-440b-b25d-4b9b495da203)
 
+* Option **A** -> 1987.
+
+![image](https://github.com/user-attachments/assets/de263604-843f-4553-b917-b7f18d4d2857)
+![image](https://github.com/user-attachments/assets/356c3366-cbd1-49d0-b503-98e376a95074)
+![image](https://github.com/user-attachments/assets/f53e7fc9-13d9-4b17-94e9-07daee1f4442)
+
+* Alexander crossed the **Indus** river.
+* Alexander the Great invaded India in 326 BC. After crossing the Indus River, he advanced towards **Taxila**.
+
+![image](https://github.com/user-attachments/assets/5d76fd12-793f-493d-b5ff-ff188f5ae9a5)
+![image](https://github.com/user-attachments/assets/64efb4bb-66a4-46f9-a007-fec911cbd2c2)
+![image](https://github.com/user-attachments/assets/a639ac54-776d-4f62-b84f-757bebd991c8)
+![image](https://github.com/user-attachments/assets/74a0f197-7158-454c-a0e7-3b43752cf09e)
+![image](https://github.com/user-attachments/assets/57576266-0a57-4034-bcbe-42bb0c48126c)
+![image](https://github.com/user-attachments/assets/e25c73bb-adcc-4435-9dcc-0d6eb090c543)
+![image](https://github.com/user-attachments/assets/0fc4caa3-0ac9-403e-81b4-fe4e9ff8590d)
+
+* Highest density -> Osmium.
+* Lowest density -> Hydrogen.
+
+![image](https://github.com/user-attachments/assets/38194411-4bb0-4ddc-bfd9-0bce423ed8b7)
+![image](https://github.com/user-attachments/assets/685394cc-ee8d-4e5c-8693-a0217c8624fb)
+![image](https://github.com/user-attachments/assets/842f5c0c-4acb-419d-9701-979a9364c19c)
+![image](https://github.com/user-attachments/assets/9b0142e1-290d-4f1d-a798-e6658d222a30)
+![image](https://github.com/user-attachments/assets/8a3d6ead-311b-4660-9a77-c7e8a59ac0ca)
+![image](https://github.com/user-attachments/assets/339cc30d-8e62-47c1-8d3d-f9af22ce1966)
+![image](https://github.com/user-attachments/assets/ae5d29e7-58a1-430c-9979-6e68330991a6)
+![image](https://github.com/user-attachments/assets/eb06645f-78f5-4038-854b-801e3ee7c0e3)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/b50c7eb0-b38b-4be9-a4b5-d3e5dd96a2ea)
+![image](https://github.com/user-attachments/assets/be54ab7c-add5-447f-85bb-13e1c5665d49)
+![image](https://github.com/user-attachments/assets/9ecc24ee-ee92-4a9a-9add-6fab73985e86)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/c50676db-0107-476e-8042-4748a69b951e)
+![image](https://github.com/user-attachments/assets/82358984-2f20-4697-af08-37b786622337)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/252419b4-89bc-479c-bb62-85d29e7c4676)
+
+* Start from 36mins 35secs.
 
 
 
