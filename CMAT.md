@@ -3705,6 +3705,127 @@
 * World Wetlands Day is celebrated annually on **February 2nd** to raise awareness about the importance of wetlands and their conservation.  [**VERY IMPORTANT**]
 * Deepor Beel, located in **Kamrup district, Assam, India**, is a significant Ramsar site and the only one in Assam. Designated as a Ramsar site in **2002**, it is recognized for its ecological and biological importance, supporting a diverse range of aquatic life forms and 219 bird species.  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/54a28e9e-531d-4e1c-97ee-24262d77a36a)
+![image](https://github.com/user-attachments/assets/52756d28-992d-4d3b-a103-812ad781ce64)
+
+* Mahatma Buddha. [Answer] [**VERY IMPORTANT**]
+* Enlightment -> Bodhgaya under the bodhi tree.
+* Dharmachakrapravartan's symbol -> Wheel.
+* The Dharmachakra, also known as the Wheel of Dharma, is a significant symbol in Buddhism, representing the teachings of the Buddha and the path to enlightenment.
+* Buddha's Mother Names -> Mahamaya or Maya.
+* Buddha's name -> Siddhartha Gautama.
+
+![image](https://github.com/user-attachments/assets/f5a9081d-8ceb-4abe-9bb1-0d3fea9bbff3)
+![image](https://github.com/user-attachments/assets/4df37833-401f-476f-bdfc-f3cf3311ac02)
+
+* The pillar became famous after the **kalinga war**.
+
+![image](https://github.com/user-attachments/assets/fd815891-30c9-4e8e-a05b-b10e0f5b275b)
+
+* Place -> Gujarat.
+
+![image](https://github.com/user-attachments/assets/7926dead-be00-418b-abad-23e00660630f)
+![image](https://github.com/user-attachments/assets/f188ab0d-6fae-41d3-836f-ef4c467b2d61)
+![image](https://github.com/user-attachments/assets/dae0fb6a-c6f9-43ec-91cf-d1e47ff3d08e)
+![image](https://github.com/user-attachments/assets/adf511f7-6275-4665-9b81-52ee70169f93)
+
+* Ramakrishna Mission established -> 1897.
+
+![image](https://github.com/user-attachments/assets/f10daeb0-8439-4ba8-8a72-216454147f52)
+![image](https://github.com/user-attachments/assets/54a5224a-7c3a-4736-a239-9b04f5c4d86e)
+
+* Roopkund Lake location -> Uttrakhand.
+
+![image](https://github.com/user-attachments/assets/62b5cc9f-a0e7-4870-a954-1551e58c46da)
+![image](https://github.com/user-attachments/assets/2fb820ea-18fa-400c-b7ba-c8479c0cb157)
+![image](https://github.com/user-attachments/assets/132ec7a6-9b4b-47c0-8995-4c38dd6f777b)
+![image](https://github.com/user-attachments/assets/62a06f6f-57d9-4b3d-91a3-a175e7e9712f)
+![image](https://github.com/user-attachments/assets/1e829c25-b126-4727-a9c3-af6105a6fc8d)
+![image](https://github.com/user-attachments/assets/d134f35a-0ded-416c-8b14-0c250da7c8d3)
+![image](https://github.com/user-attachments/assets/f5cdbb86-62f3-4e01-b92b-dff1c0c84e6b)
+
+* We have taken **DPSP** from Ireland.
+* We have taken **strong centre** from Canada.
+
+![image](https://github.com/user-attachments/assets/bc448bbb-4eb2-4da5-900b-46d8fa134bfe)
+
+* The **Morley-Minto Reforms**, also known as the **Indian Councils Act 1909**, were introduced by John Morley, the Secretary of State for India, and Lord Minto, the Viceroy of India.
+* The **Chelmsford Act**, more accurately referred to as the **Government of India Act 1919**, was a significant piece of legislation that aimed to expand Indian participation in the administration of their country.
+
+![image](https://github.com/user-attachments/assets/2a0aa727-1375-47c1-a94f-cdc9cfe65dd1)
+
+* A -> 1957
+* B -> 1977
+* C -> 1985
+* D -> 1986
+
+![image](https://github.com/user-attachments/assets/927e7a48-58a9-4ea7-ad7e-2a9499c178f6)
+![image](https://github.com/user-attachments/assets/cedfc26e-9276-45a3-b792-856463c8553c)
+![image](https://github.com/user-attachments/assets/3558c98b-4d70-4eaf-8160-cd61854a99e4)
+![image](https://github.com/user-attachments/assets/5b5e0021-5996-4cb1-989a-919a9a5c2a31)
+
+* The Ring of Fire, also known as the Pacific Ring of Fire, is a tectonic belt surrounding the **Pacific Ocean** characterized by **active volcanoes and frequent earthquakes**. About 90% of the world’s earthquakes, including most of its largest, occur within this belt.
+
+![image](https://github.com/user-attachments/assets/30ba1c78-9f14-4598-848f-e28abd3727ad)
+![image](https://github.com/user-attachments/assets/dd7ab602-e0c3-4557-8b36-43075a774bc6)
+![image](https://github.com/user-attachments/assets/ac5be5f2-738b-4a9c-9ef9-5f98f4a36fe8)
+
+* Death Valley is a desert valley located in** Eastern California, in the northern Mojave Desert, bordering the Great Basin Desert**. It is known for being one of the **hottest places on Earth during summer**, with the highest recorded temperature being 134°F (56.7°C) on July 10, 1913. The valley is also the lowest point in North America, with Badwater Basin at 282 feet (86 meters) below sea level.
+
+![image](https://github.com/user-attachments/assets/e025f9c5-3390-4a21-a756-8449afc02e5d)
+![image](https://github.com/user-attachments/assets/d919807f-59a5-48f5-a00c-3a9163a7a05f)
+![image](https://github.com/user-attachments/assets/8aaf6719-0e4e-40bf-b78d-1619c995025f)
+![image](https://github.com/user-attachments/assets/703afc87-b3ae-4958-9a5b-09cc3e0e7f0d)
+
+* Jittal -> Copper.
+
+![image](https://github.com/user-attachments/assets/4326cc95-927f-426c-8c51-7b90459181b9)
+![image](https://github.com/user-attachments/assets/dd93764c-6463-4e85-bffa-3885a26edb91)
+![image](https://github.com/user-attachments/assets/98020e2a-7b85-4e1e-a869-93d203278f71)
+
+* Brahma Samaj -> Raja Ram Mohan Roy.
+
+![image](https://github.com/user-attachments/assets/b9eaa283-5ab6-4488-aa2b-d0eacf67e600)
+![image](https://github.com/user-attachments/assets/87c68b51-72a2-42a0-899b-b773d966f6e5)
+![image](https://github.com/user-attachments/assets/a3f71827-9310-45aa-93e4-ce8ab74fa97e)
+
+* First Women -> Annie besant -> 1916.
+
+![image](https://github.com/user-attachments/assets/eabd3f74-fdbd-4e3d-a0c0-c92f05df0f1e)
+![image](https://github.com/user-attachments/assets/9732ca2a-b6f1-46bc-a72d-9876d59c6864)
+![image](https://github.com/user-attachments/assets/f1c3a5d7-e6e6-43df-8089-31714d37ba89)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
