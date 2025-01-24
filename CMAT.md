@@ -4029,6 +4029,75 @@
 ![image](https://github.com/user-attachments/assets/bf31ae9c-03d2-493a-8818-1c7bd2a80dbd)
 ![image](https://github.com/user-attachments/assets/5981c501-8e16-4a16-b21a-3940c0b31354)
 
+## VARC
+
+![image](https://github.com/user-attachments/assets/d23a611f-0422-479b-906e-de4c05253e07)
+![image](https://github.com/user-attachments/assets/3209f32c-554d-4e63-9df1-012bc3d7328f)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/d27bc919-0ccd-4186-94fa-225312f178b7)
+![image](https://github.com/user-attachments/assets/1b5f0642-52ae-4049-a29f-85ed8d921de1)
+![image](https://github.com/user-attachments/assets/2d6176fb-cab0-4aa4-ae58-7f9109bafff0)
+
+* News -> Singular -> It -> brings.
+* News -> Non-living.
+* Soldiers -> Plural.
+* Soldiers -> bring.
+
+![image](https://github.com/user-attachments/assets/88bba4f1-c35c-4065-999d-9e6f773866e9)
+![image](https://github.com/user-attachments/assets/3cc8d6a3-19cf-4728-af05-cd0fa983d6f5)
+![image](https://github.com/user-attachments/assets/2dd7f629-966a-4ab7-93c3-ab67c6b788d6)
+![image](https://github.com/user-attachments/assets/ac86ba20-9b57-4ad4-90a9-54be95358366)
+![image](https://github.com/user-attachments/assets/9c68feb1-c993-4d55-9c7d-75eaef6e7a71)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/031a6669-453d-4d10-a923-f6d17a7a9d34)
+
+* Vehicles -> Plural. [**VERY IMPORTANT**]
+* Traffic -> Uncountable -> Singular.
+
+![image](https://github.com/user-attachments/assets/c595f0f2-0476-4717-8e1b-5707b442b589)
+![image](https://github.com/user-attachments/assets/a07cdaf6-efbd-4b58-9aba-da005bf9206f)
+
+* Rise -> Self.
+* Raise -> Someone else doing it.
+* Raze -> Demolish/Destroy.
+
+![image](https://github.com/user-attachments/assets/02549ea8-73dc-45e9-af03-9c95f3cef900)
+![image](https://github.com/user-attachments/assets/c332c36a-4ef9-4e13-ae6a-3a39f7ccc9c3)
+![image](https://github.com/user-attachments/assets/b838c09e-4d9e-4dad-96dc-965a2ab83ee1)
+![image](https://github.com/user-attachments/assets/e4cc7f5a-0ad8-4cd4-a344-660cc3254ea4)
+![image](https://github.com/user-attachments/assets/e12b38f2-adb6-4235-9deb-5bc7a89e7be8)
+
+* Option **D** -> Must have been -> Past.
+
+![image](https://github.com/user-attachments/assets/767cb1e4-2a78-4ee2-b90c-dd67e0dad5db)
+![image](https://github.com/user-attachments/assets/3e16ca9f-c446-4d49-b11f-870152ebc966)
+![image](https://github.com/user-attachments/assets/28d7400f-7af5-4233-b13f-73ce234e05b4)
+![image](https://github.com/user-attachments/assets/43a36762-f09a-43a3-a8a8-fe14f20c2f6a)
+
+* have had -> Already taken something.
+
+![image](https://github.com/user-attachments/assets/c2776ee9-f2b2-4b99-93dc-aa4776799656)
+![image](https://github.com/user-attachments/assets/ddf4f79a-e241-4b8d-992d-c2d603b6d740)
+![image](https://github.com/user-attachments/assets/be64f1bf-5f2c-4235-b81b-0196f31f9830)
+![image](https://github.com/user-attachments/assets/8211edae-2eb0-4f9c-a506-d1b94abe3cff)
+
+* Whether -> Choice.
+* Option **D** -> Assertion -> affirmation.
+
+A
+
+
+
+
+
+
+
+
+
 
 
 
