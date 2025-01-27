@@ -25,17 +25,56 @@
 
 ![image](https://github.com/user-attachments/assets/5f7f1352-93e1-4e39-8633-cfe514cfafe0)
 ![image](https://github.com/user-attachments/assets/5b2a4b3a-e4d0-4511-9673-4a2587474818)
+
+* Magnanimous -> noble and generous in spirit. [Meaning]
+* callous -> emotionally hardened -> having calluses; having skin made tough and thick through wear. [Meaning]
+* pernicious -> exceedingly harmful -> working or spreading in a hidden and usually injurious way. [Meaning]
+* vindictive -> disposed to seek revenge or intended for revenge. [Meaning]
+
 ![image](https://github.com/user-attachments/assets/8658303c-9030-434e-86e4-ac02fe46c5c3)
+
+* ponderous -> slow and laborious because of weight. [Meaning]
+* ponder -> reflect deeply on a subject. [Meaning]
+* sporadic -> recurring in scattered and irregular or unpredictable instances. [Meaning]
+* scarce -> deficient in quantity or number compared with the demand. [Meaning]
+* prolific -> intellectually productive -> bearing in abundance especially offspring. [Meaning]
+
 ![image](https://github.com/user-attachments/assets/1aae4de2-df79-477c-9123-b71f350d5712)
+
+* benevolent -> showing or motivated by sympathy and understanding and generosity -> intending or showing kindness -> generous in providing aid to others -> generous in assistance to the poor. [Meaning]
+* altruistic -> showing unselfish concern for the welfare of others. [Meaning]
+
 ![image](https://github.com/user-attachments/assets/f28aa35c-8813-47b7-80ef-8f5294b0b7c7)
 
+* ebullient -> joyously unrestrained. [Meaning]
+* enthusiastic -> having or showing great excitement and interest. [Meaning]
+* melancholic -> characterized by or causing or expressing sadness. [Meaning]
 * Ebullient. [**VERY IMPORTANT**]
 
 ![image](https://github.com/user-attachments/assets/3470b90c-ed89-4f75-9aad-6676ab5639ee)
+
+* gallant -> having or displaying great dignity or nobility. [Meaning]
+* feckless -> generally incompetent and ineffectual -> Inept. [Meaning]
+* Inept -> revealing lack of perceptiveness or judgment or finesse. [Meaning]
+
 ![image](https://github.com/user-attachments/assets/04043ccb-9acf-41f6-ad84-ce9dd1fc230c)
+
+* pliable -> capable of being shaped or bent or drawn out. [Meaning]
+
 ![image](https://github.com/user-attachments/assets/65adeb7c-7904-4e70-bddb-b14d5779aad2)
 ![image](https://github.com/user-attachments/assets/df40b09e-6aec-42ad-b921-dffb23145274)
+
+* [Idieoms]
+* Kick the bucket -> To die/dead -> pass from physical life and lose all bodily attributes and functions necessary to sustain life. [Meaning]
+* Pushing Up Daisies -> to be dead. [Meaning]
+* A Penny Saved is Earned -> Saving money -> emphasizes the importance of saving money, suggesting that the money you save is as valuable as the money you earn. [Meaning]
+* Bite the Bullet -> It is a metaphor that describes a situation where one **accepts an inevitable hardship** and endures it with fortitude. [Meaning]
+* Hit the Sack -> going to bed to sleep. [Meaning]
+
 ![image](https://github.com/user-attachments/assets/5e627e9e-ca69-47a7-939d-5eaa8d4b998e)
+
+* [Tomorrow]
+
 ![image](https://github.com/user-attachments/assets/beb1af3b-9e25-44a9-b343-ba42a9e25061)
 ![image](https://github.com/user-attachments/assets/50045c95-0eb8-40bf-b67b-2be7833b3cb2)
 ![image](https://github.com/user-attachments/assets/59353688-c38a-4598-ab52-8de291f6bf8c)
