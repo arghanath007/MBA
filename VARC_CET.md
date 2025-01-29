@@ -355,21 +355,121 @@
 ![image](https://github.com/user-attachments/assets/881698af-e5fb-4e3a-8434-821574de6fe4)
 ![image](https://github.com/user-attachments/assets/8ea46d00-6e66-46cd-afe8-754ac109bdb2)
 
+* [Questions]
 
+![image](https://github.com/user-attachments/assets/b6427fb9-4c30-4470-943a-26cba757c962)
 
+* Miso -> Bad/Hate. [Meaning]
+* Gyny -> Women/Female. [Meaning]
+* Misogyny -> Hatred towards Women. [Meaning]
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2df3d95f-7a16-4229-bf32-a0ce3960e204)
+![image](https://github.com/user-attachments/assets/e5333288-ac3f-4dc6-bb7a-742ba06a7cec)
+![image](https://github.com/user-attachments/assets/536b8c97-ad45-4fa2-b4cd-054142bf78a1)
 
+*  [**VERY IMPORTANT**]
+*  Impetuosity -> Impatience. [Meaning]
+*  Zealousness -> Enthusiastic. [Meaning]
+*  Effervescence -> Stays there for sometime and then vanishes. [Meaning]
+*  Equa -> Same. [Meaning]
+*  Animus -> Mind/Spirit. [Meaning]
+*  Equanimity -> Same mind no matter what the situation is. [Meaning]
 
+![image](https://github.com/user-attachments/assets/26444264-1e23-4739-a91a-269b17685b21)
+![image](https://github.com/user-attachments/assets/b6e0d3fb-0da8-49da-bf7c-da2827077f79)
 
+* Duplicity -> Trying to dupe/trick others.
+* Art -> Positive word.
+* Others '3' words -> Negative words.
+* Artfulness -> Crafty/Clever.
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/44455f4f-3e37-44e9-a045-89b53950623f)
+![image](https://github.com/user-attachments/assets/a2df2003-d510-44c2-8ade-7242f7aa736f)
 
+*  [**VERY IMPORTANT**]
+*  Doubt -> Positive.
+*  Faith -> Negative.
+*  Theo -> God/Religion. [Meaning]
+*  Atheo -> No God/Religion. [Meaning]
+*  Pious -> Holy. [Meaning]
+*  Iconoclast -> Destroys/hates/against idols.  [Meaning]
+*  Apostate -> Betrayer/Turn-coat. [Meaning]
+*  Turncoat -> It is defined as a person who switches to an opposing side or party, often specifically referred to as a traitor. [Meaning]
 
+![image](https://github.com/user-attachments/assets/a80dd561-3763-41ff-af58-0d27d14989e8)
+![image](https://github.com/user-attachments/assets/fe5de184-3f25-49d6-b7cf-67a371302b64)
+![image](https://github.com/user-attachments/assets/3219c870-4790-4c7f-9ad6-fade50bbb1b2)
 
+* Dulcet -> Low/sweet. [Meaning]
+* Raucous -> Harsh sound. [Meaning]
+* cacophonous -> Having a harsh, unpleasant sound; discordant. [Meaning]
+* Palliative -> Makes/Making things better. [Meaning]
+* Exacerbating -> Makes/Making things worse. [Meaning]
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ae5ba22b-5a9c-4d5f-85f5-de2870fbe0c3)
+![image](https://github.com/user-attachments/assets/25a4f847-c2b2-469d-98a1-ddb416c9ea60)
 
+* 'ous' -> Full of/having the quality of -> Adjective.  [Meaning]
+* Chivalrous -> Very well mannered/Very gallent/Cultured.  [Meaning]
+* gallant -> Smartly or boldly stylish; dashing.  [Meaning]
+* Indignant -> Angry person.  [Meaning]
 
+![image](https://github.com/user-attachments/assets/fcd6c5ea-e62a-4687-b10a-4ccc82aa466e)
+![image](https://github.com/user-attachments/assets/4d393c4e-335b-47d3-8588-7231c45df7eb)
 
+* Exultant -> Very very happy/Very enthusiastic/Full of energy. [Meaning]
+*  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/efa6fe39-23bb-4d7d-bc84-55eb6cb23b23)
+![image](https://github.com/user-attachments/assets/33fe2ed7-bf45-4f58-9c54-dcf13f1ad8dc)
+
+* Innate -> Something which is inborn. [Meaning]
+* Inborn -> Innate, Native. aboriginal. [Meaning]
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1b124d2d-5070-4bc9-983e-cfc231ee9bfa)
+
+* Turbid -> Muddy -> Comes from Turbullance. [Meaning]
+
+![image](https://github.com/user-attachments/assets/c4eb76b3-3aac-4aa8-83fe-55524f120746)
+![image](https://github.com/user-attachments/assets/1eaa6ce3-ad24-41ff-b39c-84485bff36e8)
+
+* Impede -> To stop something from happening. [Meaning]
+* Expedite -> To make something faster.
+
+![image](https://github.com/user-attachments/assets/fd448819-8fc0-4308-9e09-f54ba99fc612)
+![image](https://github.com/user-attachments/assets/701b2929-31d5-4de2-861f-3543394b3b0e)
+
+* Repugnant -> Something that puts you off/Something we hate/Something we dislike.
+* Sombre -> Serious.
+*  Austere -> Spartan/Very strict/Disciplined/abstemious.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2aeb22bc-1d97-49d3-9626-cade440558da)
+![image](https://github.com/user-attachments/assets/ad1a20d6-fe3a-4ebc-a185-0a4f598d5a5a)
+
+* Sagacious -> Sage + ous -> Sage like/very wise/Savant/Prudent/Perspicacious/Judicious.
+* Ingenious -> Sharp/Clever/Smart -> 'i' for intelligent.
+* Ingenuous -> Not very smart/Innocent/artless.
+* Astute -> Synonyme of Ingenious.
+* Ignoramus -> I do not know/Idiot/Ignorant.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/76e4a445-7770-4587-91d0-352a590c5a6d)
+![image](https://github.com/user-attachments/assets/b2f3432f-c211-4a84-9b1e-4ac47422b1e2)
+
+* Reprimand -> To Rebuke/Scold/To upbraid/To criticize.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/889cd289-434a-4578-9189-02a39d764cc9)
+![image](https://github.com/user-attachments/assets/1d3ba942-5186-4f5b-82f1-509425feed61)
+![image](https://github.com/user-attachments/assets/ff019ede-c66d-42c0-aeaf-a25460ecbf59)
+
+* Beguile -> To enchant/To entice.
+*  [**VERY IMPORTANT**]
 
 
 
