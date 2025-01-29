@@ -4,17 +4,39 @@
 
 1) Vocab.
 2) Grammer.
+3) Parts Of Speech, Ative and Passive, Tenses -> YT video. [**VERY IMPORTANT**]
+4) Sir's PDF -. Each word's **5 synonymes or similar words** must.
 
 ![image](https://github.com/user-attachments/assets/84b97e5c-0693-4ed6-a967-cc67330b4f77)
 
-* Resources.
+* Resources. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/675308eb-a2b3-4ec4-99e5-2326cf6825b5)
+![image](https://github.com/user-attachments/assets/694021b7-82c3-47ad-9501-36b4cb802e47)
+![image](https://github.com/user-attachments/assets/78b46760-3a91-4d0b-ac90-0c14ce8e5b23)
+![image](https://github.com/user-attachments/assets/7b57270d-6020-4b8f-9a22-678bb1ed1ec6)
+
+* Word Ending with 'ous' -> Adjective.
+
+ ![image](https://github.com/user-attachments/assets/84689e6b-5328-47b3-b083-a7b7a79bcec2)
+
+* How to practice **VOCAB**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3e05c11d-b950-4abf-95b7-75d2a94b77dc)
+![image](https://github.com/user-attachments/assets/a2b814ff-d2f1-418a-ae0d-291656f592da)
+![image](https://github.com/user-attachments/assets/e09b3f0b-9993-4540-8972-df8ada5d4c7c)
+![image](https://github.com/user-attachments/assets/ed21539c-8f2f-4cb0-8d1d-d64c748a24a0)
+![image](https://github.com/user-attachments/assets/3bdcd8ac-a350-4e47-8129-e3cf2871ee14)
+![image](https://github.com/user-attachments/assets/461adf64-2d6b-4c84-978f-8f1a686e89d5)
+![image](https://github.com/user-attachments/assets/3918ad01-5872-4e64-a2e6-e10a434d5c3c)
+
+* Every Words -> 5 synonymes or similar words.
 
 ![image](https://github.com/user-attachments/assets/5e2dd868-42ae-46e2-af25-0b5e2cc0ca16)
 ![image](https://github.com/user-attachments/assets/3565e7c9-2ec6-4e31-be53-1320f52ea060)
 ![image](https://github.com/user-attachments/assets/a5af5fc9-e2f7-4079-9efa-ca261701e4fe)
 ![image](https://github.com/user-attachments/assets/718f893d-4541-471a-904b-52e6bdb29a83)
 ![image](https://github.com/user-attachments/assets/a5f32842-506c-4dcb-b857-f2180c2022b8)
-
 
 ## Intro
 
@@ -274,20 +296,69 @@
 
 * [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/06ead568-2f49-48dd-aa0d-3d0a0a2b0bd4)
+
+* SPICE -> Letter of words.
+* BOATMN -> Letter of words.
+
+![image](https://github.com/user-attachments/assets/79ffa808-7dec-4297-b460-783c01a8a9dd)
+![image](https://github.com/user-attachments/assets/632e7685-f49c-4203-9b33-62b77dfa7fe5)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/997da814-693d-4d6d-9503-2c9ba86a5c80)
+![image](https://github.com/user-attachments/assets/56a53d27-4bb3-4345-9856-aea566992486)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7d137577-ccba-42d9-b788-fb3b3df98754)
+![image](https://github.com/user-attachments/assets/ccc8a450-d25e-46a4-91db-7bc2c87fc929)
+![image](https://github.com/user-attachments/assets/cbaa383a-02e1-453f-a6b1-af5ce5957335)
+
+* Candor -> Honesty. [Meaning]
+
+![image](https://github.com/user-attachments/assets/80389722-5baf-4934-8929-44724205e760)
+![image](https://github.com/user-attachments/assets/6a543244-37ff-491c-979a-7111af6af55b)
+![image](https://github.com/user-attachments/assets/db83976c-e179-48c2-a9ba-8689efa72e92)
+
+* Good Point.[**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0219c60c-198c-4236-92d0-28d6d47a9e59)
+![image](https://github.com/user-attachments/assets/e6ea404c-f0a1-4520-82b4-72f49dc67533)
+![image](https://github.com/user-attachments/assets/4adfccf6-4438-4ca3-97bd-38f1ca0a4fa5)
+![image](https://github.com/user-attachments/assets/7d0abdb6-47fb-4823-ae9a-55322144ea38)
+
+* Charlatan -> Quaks. 
+
+![image](https://github.com/user-attachments/assets/83075bf2-6909-427d-aa3a-fec3e2185a35)
+![image](https://github.com/user-attachments/assets/fe377e57-1934-4a84-bfc9-3dc7f5fb9886)
+![image](https://github.com/user-attachments/assets/053444ab-da65-4b32-bd4d-4378b20e7a02)
+
+* Circum -> Round.
+* Scribe -> To write.
+* Circumscribe -> Drawing a line around something. [Meaning] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5469ac0a-0daa-4c01-852a-ce83acd917c9)
+![image](https://github.com/user-attachments/assets/c2731e43-9e48-4804-926a-64222459a1fe)
+
+* Circumvent -> To avoid/To dodge. [Meaning]
+
+![image](https://github.com/user-attachments/assets/51913121-f766-43e6-b795-fcd52e355981)
+![image](https://github.com/user-attachments/assets/d24db872-8acb-444c-994e-796bea49baf7)
+
+* Chairvoyant -> Seer/Fortune tellers.[Meaning] [**VERY IMPORTANT**]
+* Seer -> A seer is someone who can see the future. [Meaning]
+* Sear -> burn slightly and superficially so as to affect color -> To sear something is to quickly cook or burn its surface by applying intense heat.[Meaning]
+
+![image](https://github.com/user-attachments/assets/7d1f3e38-2f20-46f7-bc9a-59d400ebe6ac)
+![image](https://github.com/user-attachments/assets/17f1f7e4-a7ca-4924-a609-c6b68283e430)
+![image](https://github.com/user-attachments/assets/881698af-e5fb-4e3a-8434-821574de6fe4)
+![image](https://github.com/user-attachments/assets/8ea46d00-6e66-46cd-afe8-754ac109bdb2)
 
 
 
 
 
-
-
-
-
-
-
-
-
-* Parts Of Speech, Ative and Passive, Tenses -> YT video. [**VERY IMPORTANT**]
 
 
 
