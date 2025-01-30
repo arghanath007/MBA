@@ -613,6 +613,61 @@
 * Chapter is like categorization.
 * Ocean has uncountable drops. Book doesn't have uncountable chapters. 
 
+## Cause and Effect
+
+* Cause -> Reason.
+* Effect -> Outcome.
+
+![image](https://github.com/user-attachments/assets/a7d8fd7b-5734-4955-9dc9-c7065fcd8ea9)
+![image](https://github.com/user-attachments/assets/a0d60d8c-c8b5-4434-a015-8e12d79920d9)
+![image](https://github.com/user-attachments/assets/a60c04fd-6a87-46e6-bad5-926c52638e02)
+![image](https://github.com/user-attachments/assets/3b3f21b7-5794-4258-8361-410cbf7dcd91)
+![image](https://github.com/user-attachments/assets/347ff5b0-be8e-4a79-ae2d-1fb0820e5be0)
+
+* Option **1**.
+
+![image](https://github.com/user-attachments/assets/518a5864-5a8c-457b-9964-9bec63b6e113)
+![image](https://github.com/user-attachments/assets/0d913d2d-131c-4098-ac1d-bfccfc7efa23)
+![image](https://github.com/user-attachments/assets/b2d58e36-5fe9-46fc-be8d-eb6a08b28bd3)
+![image](https://github.com/user-attachments/assets/5401f34d-f80c-4ce0-a51e-abf1bdb3f03f)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0bd9d10f-ebe9-4a63-bd12-0b24136fb206)
+![image](https://github.com/user-attachments/assets/1a527006-d356-4bc8-9846-483b451b034b)
+![image](https://github.com/user-attachments/assets/e8b6a56e-ab9c-47e0-8f0c-489021fa8265)
+
+* 2 to 1.
+
+![image](https://github.com/user-attachments/assets/857413e5-e5b4-48b1-affc-c99a441f9194)
+![image](https://github.com/user-attachments/assets/0d19036d-f859-47d0-8bac-f93cc0ce860e)
+![image](https://github.com/user-attachments/assets/291b9d38-b1bc-48c3-b386-c1fb1d5d8546)
+![image](https://github.com/user-attachments/assets/d00b78fb-8ead-469c-bc5c-a077196efc04)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/f62ca616-7ef9-4f28-bec6-808761cb7595)
+
+* Outcome + Observation -> Looks like an Effect.
+* 2 to 1.
+
+![image](https://github.com/user-attachments/assets/df01f308-4b97-4cbb-a80c-dbb8cc50e187)
+![image](https://github.com/user-attachments/assets/3f1464c7-e7a4-4abb-a561-c726fa674e23)
+![image](https://github.com/user-attachments/assets/87f08a12-353e-4c1a-ab38-29ee467a32b6)
+
+* Option **2**.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
