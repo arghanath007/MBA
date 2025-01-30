@@ -468,12 +468,150 @@
 ![image](https://github.com/user-attachments/assets/1d3ba942-5186-4f5b-82f1-509425feed61)
 ![image](https://github.com/user-attachments/assets/ff019ede-c66d-42c0-aeaf-a25460ecbf59)
 
-* Beguile -> To enchant/To entice.
+* Beguile -> To enchant/To entice/To attract.
 *  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/81bb8bd1-9452-487b-94d3-69c6c3b93bfc)
+![image](https://github.com/user-attachments/assets/44cabcc9-508c-47a9-a921-4d2790a05171)
 
+* Exasperate -> To frustate.
+* Infuriate -> Fire coming out of someone's mouth.
 
+![image](https://github.com/user-attachments/assets/e5c81359-dc02-41d8-bb28-7e49d5ee8126)
+![image](https://github.com/user-attachments/assets/d784c8fa-3943-461d-9a1e-5065e45c253e)
 
+* Efficacious -> Having the quality of being effective.
+* Voracious -> Hungry.
+* Audacious -> brave.
+* Impotent -> Without power.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/44706a5c-4aea-4899-8ea1-cbf4caf2f0d5)
+![image](https://github.com/user-attachments/assets/90bbd43a-19e9-4f2c-82db-d21e1ba712d7)
+![image](https://github.com/user-attachments/assets/77c0f6e1-e43e-4d26-8b81-2b80e5513559)
+![image](https://github.com/user-attachments/assets/c55eb722-9248-4938-a385-e7df0a5d9692)
+
+*  [**VERY IMPORTANT**]
+*  Inimival -> Hostile/Harmful/Deleterious/Evil/Baleful/Insidious.
+*  Deleterious -> Something that deletes you.
+
+![image](https://github.com/user-attachments/assets/636067c8-c9c1-4efc-b421-4cb7ea057f8a)
+![image](https://github.com/user-attachments/assets/5389e172-c086-4a7e-9aa4-c9e728dc1596)
+
+*  [**VERY IMPORTANT**]
+*  Barge -> Kind of vessel.
+*  Anthology -> Collection of work -> Generally collection of poems.
+*  Anthology is a kind of book.
+*  Book is not an Anthology.
+*  Shovel is a type of implement.
+*  Implement is a category.
+
+![image](https://github.com/user-attachments/assets/f694fdcc-1828-418c-a789-a9ad2ed8e12f)
+![image](https://github.com/user-attachments/assets/caec903b-4ba4-4156-bc28-1e6f2b1c6c99)
+
+* Analogy Questions. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/81c43f28-ee89-417b-81a9-a4fed48084f4)
+![image](https://github.com/user-attachments/assets/f62c7323-b0f2-4a3e-90f1-55ef03837a1a)
+![image](https://github.com/user-attachments/assets/9ee733a8-9716-4802-9732-029172fcf034)
+
+* Degree based analogy.
+
+![image](https://github.com/user-attachments/assets/6197c696-cf0a-42e8-9bb0-cacd673daad7)
+![image](https://github.com/user-attachments/assets/88d2c2fc-7105-419c-a9cc-5d2657aa75f7)
+
+* Fussy -> Particular about everything.
+* Subservient -> Someone who is always bend -> compliant and obedient to authority.
+* Meek ->
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/42447265-5d20-4149-b689-626cfbe1babf)
+![image](https://github.com/user-attachments/assets/90361cbb-8136-444a-9016-f9e7ee9f4350)
+
+* We board a train.
+* We ride a horse.
+* board, ride -> verb
+* train, horse -> noun.
+* Saddle -> The thing we sit on while riding a horse.
+
+![image](https://github.com/user-attachments/assets/1c874b5c-8e88-4913-a9ca-d5203db18839)
+![image](https://github.com/user-attachments/assets/6d4ccb56-9360-4f97-bf7b-817a49fe202d)
+
+*  [**VERY IMPORTANT**]
+* junk, trash -> noun.
+* Refuse -> To say no/Rubbish/Junk -> Synonyme of Junk.
+* Junket -> Trip -> To get trashed.
+* Trinket -> Valueless, small small things.
+
+![image](https://github.com/user-attachments/assets/09818559-a51b-4f24-a26a-309cf8236f38)
+![image](https://github.com/user-attachments/assets/ccc07b74-74a7-434c-9f0e-5d7368d9937b)
+
+* Bog -> Slough/Quagmire/Mire/Marsh.
+* Slumber -> Deep sleep.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7b3b3971-1122-496b-8d1e-744ccd857953)
+![image](https://github.com/user-attachments/assets/802ff046-5b3c-4aea-8677-b81acc093e48)
+
+* Whisper -> Type of speaking where we speak in hushed manner.
+* Whisper is a kind of hushed speaking.
+* Siren -> Piercing sound.
+* Piercing, Hushed -> Sound.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9a276d2e-d59e-4209-b4d6-3ec900cbc341)
+![image](https://github.com/user-attachments/assets/73551303-49cb-4b02-afcc-94fb978d730b)
+
+* Outwit -> When we show that we are smarter than others.
+
+![image](https://github.com/user-attachments/assets/8bf2313e-a2f5-4738-996e-cc57733712be)
+![image](https://github.com/user-attachments/assets/b587499b-877c-4483-8498-50bae2c032ce)
+![image](https://github.com/user-attachments/assets/4bc6773b-ce84-4574-90ee-3432c8fe6307)
+
+* Goose -> Female.
+* Gander -> Male.
+* Geese -> Plural of Goose.
+* 2 Goose and 2 Gander -> 4 Geese.
+* 4 Goose -> 4 Geese.
+* Male Honey Bee -> Drone/Drones.
+* Duck -> Female.
+* Drake -> Male.
+
+![image](https://github.com/user-attachments/assets/3beea778-c311-41a8-92f8-28b3564a2a88)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/823a6922-30ca-4ba0-a6c8-f0c536a41729)
+![image](https://github.com/user-attachments/assets/bc3510b8-ed3b-4700-95ed-2443a5f2849c)
+
+*  Monarch butterfly.
+*  Varity of cobra is king.
+*  butterfly -> Used to be called as "flutter by".
+*  King Cobra -> Most Venomous snake in the world.
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/992069f4-7c0e-4e30-b8f6-ccf463aa57e1)
+![image](https://github.com/user-attachments/assets/007a14a3-9df0-4040-b7ed-77e7b3437a9c)
+
+* Venomous VS Poisonous.  [**VERY IMPORTANT**]
+* Venomous -> It is always natural.
+* Poisonous -> Can be natural as well as artificial.
+
+![image](https://github.com/user-attachments/assets/68210c1e-76f9-4f7b-b499-a6f47882a552)
+![image](https://github.com/user-attachments/assets/b6b0bab5-7332-4e08-ab19-ce820cb31332)
+
+*  [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/eb64f931-1387-4543-a12f-0b91ecc0556c)
+![image](https://github.com/user-attachments/assets/6d4fb16f-8be2-407c-a5c3-471ee04936b9)
+
+* Fleet -> Group of ships.
+* Book is make up of multiple chapters.
+* Auditoriumm is not made up of group of seats.
+* Box is not made up of letter.
+* Ocean is made up of drop. True.
+* Chapter is like categorization.
+* Ocean has uncountable drops. Book doesn't have uncountable chapters. 
 
 
 
