@@ -867,6 +867,68 @@
 
 * Option **1**.
 
+## Course of Action
+
+![image](https://github.com/user-attachments/assets/725b237e-77c3-4475-a088-84ee08379b9d)
+![image](https://github.com/user-attachments/assets/6ac10b18-31ca-490f-b5e3-1b53de602ef6)
+![image](https://github.com/user-attachments/assets/19661a84-f62e-42e6-bc2a-402fe4a126e8)
+
+* lament/lamented -> a cry of sorrow and grief. [Meaning]
+* Emphasised -> Restate -> spoken with emphasis. [Meaning]
+* emphasis -> intensity or forcefulness of expression -> special importance or significance. [Meaning]
+
+![image](https://github.com/user-attachments/assets/8706fdba-ad27-4109-8350-a917823a7029)
+![image](https://github.com/user-attachments/assets/39959762-db07-4bf7-bd98-87255981419d)
+
+* Option **5**. [Got Wrong] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/bdc7593d-e61b-4492-b99c-4433292c50ec)
+![image](https://github.com/user-attachments/assets/e2395c23-14b7-4296-a406-9fea99e4642b)
+![image](https://github.com/user-attachments/assets/03478c9c-3ff8-4253-8219-73fc3f278eee)
+![image](https://github.com/user-attachments/assets/432c9d8b-84bb-41ca-b941-44789ec2b985)
+
+* Option **5**. [Got Wrong] [**VERY IMPORTANT**] 
+* Midstream -> In the middle. [Meaning]
+* Demographic -> Population Change. [Meaning]
+* Consequence -> Outcome. [Meaning]
+* Revitalize -> Re-gain/Re-implement.
+
+![image](https://github.com/user-attachments/assets/bbf74892-7486-4b23-bb57-3f41201afc7f)
+![image](https://github.com/user-attachments/assets/c5c89b19-f406-4063-a5d7-1905cc65f85c)
+
+* Option **5**. [Got Wrong] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/3e95b2be-20b1-44bd-8221-3d0af8a56908)
+![image](https://github.com/user-attachments/assets/df6a01d5-680b-4552-8af9-143124a289f8)
+
+* Option **5**. [Got Wrong] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/d138c4d7-1290-4130-8f59-741ec319a007)
+![image](https://github.com/user-attachments/assets/5c8ec4f5-6c6c-4780-af61-ad2f84ea06c4)
+![image](https://github.com/user-attachments/assets/a393ee16-d14e-4c5a-96a6-05402d0c486f)
+![image](https://github.com/user-attachments/assets/8dcb8ce6-75b2-4f01-ac56-d04bbd429c6b)
+![image](https://github.com/user-attachments/assets/44135ecd-a164-4948-af56-54bfe304608b)
+![image](https://github.com/user-attachments/assets/c2764082-d65c-4ed6-849a-35696bfcf9e8)
+
+* Option **1**. [Got Wrong] [**VERY IMPORTANT**] 
+
+![image](https://github.com/user-attachments/assets/0fd1de38-50cd-4ad7-8dac-c900c881f29c)
+![image](https://github.com/user-attachments/assets/56c61bba-2293-4c60-8592-4509510bb0ce)
+![image](https://github.com/user-attachments/assets/72a1cfd4-6d4c-48f5-830e-4e6f2ff5c3cf)
+![image](https://github.com/user-attachments/assets/0b389c60-79f6-46d4-bc8d-9d4d194e306c)
+![image](https://github.com/user-attachments/assets/5a292711-5859-44bf-8c13-9481309f6ce6)
+
+* Option **1**.
+
+## Statement Conclusion
+
+
+
+
+
+
+
+
 
 
 
