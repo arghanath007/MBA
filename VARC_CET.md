@@ -613,6 +613,169 @@
 * Chapter is like categorization.
 * Ocean has uncountable drops. Book doesn't have uncountable chapters. 
 
+![image](https://github.com/user-attachments/assets/89d61f86-0575-4ab1-bf7d-907045b996b7)
+![image](https://github.com/user-attachments/assets/44fb4173-b5f8-4b09-93ad-eb01ce3e4489)
+
+* Ascendancy -> Height. [Meaning]
+
+![image](https://github.com/user-attachments/assets/6974c63f-3ff6-43aa-96d1-c733be1f7388)
+![image](https://github.com/user-attachments/assets/bab89054-a6d7-47d6-b492-a2caf63cd044)
+
+* Option **D**. [Got Wrong] [**VERY IMPORTANT**]
+* Pristine -> Untouched/Purest form. [Meaning]
+* Disinterested -> Unbiased/Not influenced by emotion. [Meaning]
+* Uninterested -> Not interested. [Meaning]
+
+![image](https://github.com/user-attachments/assets/a0da9a35-a526-442c-9f05-17d377651e09)
+![image](https://github.com/user-attachments/assets/8d492cb2-dd07-426f-b1fb-607d2a0aa46e)
+
+* Option **D**. [Got Wrong] [**VERY IMPORTANT**]
+* Jockeying -> Looking. [Meaning]
+
+![image](https://github.com/user-attachments/assets/8b0058d7-36f4-496b-b0c2-4758b53131bb)
+![image](https://github.com/user-attachments/assets/20528da7-4281-48f6-9237-0138088dacd1)
+![image](https://github.com/user-attachments/assets/3351ac45-ebdc-4e14-b269-60930b8bc311)
+
+* Option **C**. [Got Wrong] [**VERY IMPORTANT**]
+* for -> Because.
+
+![image](https://github.com/user-attachments/assets/edc7af40-2a10-44ef-8395-eff3db396532)
+![image](https://github.com/user-attachments/assets/caf319d7-bea9-45ac-977b-67d34f2defbf)
+![image](https://github.com/user-attachments/assets/559621be-d337-4ffa-898c-c87d7ab3c1b0)
+
+* Option **B**. [Got Wrong] [**VERY IMPORTANT**]
+* Efficacy -> Effectiveness. [Meaning]
+
+![image](https://github.com/user-attachments/assets/1c1ac768-712b-4868-ab02-6e5211f87341)
+![image](https://github.com/user-attachments/assets/9686bcfd-ee08-4aca-aecc-eec2064376e0)
+![image](https://github.com/user-attachments/assets/bb8f93cf-191e-42c3-acb7-470778333fec)
+
+* Conniving -> Conspiring.
+* Riveting -> capable of arousing and holding the attention. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d756db09-66e5-4824-888d-b237ef039efa)
+![image](https://github.com/user-attachments/assets/886c3b91-c67e-4387-baaf-3dda481866ff)
+
+* Option **D**. [Got Wrong] [**VERY IMPORTANT**]
+* Veil -> Cover of the face. [Meaning]
+* Upholstery -> covering (padding and springs and webbing and fabric) on a piece of furniture. [Meaning]
+
+![image](https://github.com/user-attachments/assets/4ec4ca18-8014-4c59-8a3e-3e89447dd260)
+![image](https://github.com/user-attachments/assets/66d6e464-4384-4f61-87c7-5975ff4b146b)
+
+* Option **E**. [Got Wrong] [**VERY IMPORTANT**]
+* Unfasten -> cause to become undone -> become undone or untied. [Meaning]
+
+![image](https://github.com/user-attachments/assets/f088e3ef-eeab-4106-9c11-e5565eeecb10)
+![image](https://github.com/user-attachments/assets/32719e4d-7ca2-4700-aad8-da0dac70b11a)
+
+* Frac -> Break. [Meaning]
+* Frac -> Coming from fracture.
+* Infraction ->
+* Fractious ->
+* Relic -> Old thing. [Meaning]
+
+![image](https://github.com/user-attachments/assets/4d95e4de-10c0-4396-b85e-ffafd03a45e5)
+![image](https://github.com/user-attachments/assets/a7a7fdec-4290-4d4d-91cd-4e4971ca3659)
+
+* Option **A**. [Got Wrong] [**VERY IMPORTANT**]
+* Grating Sound -> Grate -> reduce to small shreds or pulverize by rubbing against a rough or sharp perforated surface.
+
+![image](https://github.com/user-attachments/assets/5f994ee6-a7bc-4ab9-add9-3f60fe5a9c99)
+![image](https://github.com/user-attachments/assets/37dceea0-03c2-4bf0-8bed-33ea791dfd4c)
+
+* Hyper -> More than required. [Meaning]
+* Hyperbole -> Exaggeration. [Meaning]
+* Equivocation -> To lie/Prevaricate. [Meaning]
+
+![image](https://github.com/user-attachments/assets/615e883c-0f4b-4bc5-8142-b3212346f80f)
+![image](https://github.com/user-attachments/assets/fabe2bf0-7607-4734-afda-899461faae93)
+
+* Option **D**. [Got Wrong] [**VERY IMPORTANT**]
+* Err -> To make a mistake
+* Err -> Came from error. 
+* Errancy -> Making mistake. [Meaning]
+* Inerrancy -> Not capable of making mistakes. [Meaning]
+* Generosity -> Big hearted. [Meaning]
+* Volubility -> Quality of speaking too much. [Meaning]
+* Voluble -> When we speak/talk too much -> Prolix/Verbose/Talkative/Garrulus. [Meaning]
+* Fallibility -> Capable/Ability of falling/making mistakes. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d1cb646b-035d-4666-8f7a-99d686eab86c)
+![image](https://github.com/user-attachments/assets/3333cec5-8224-4ed8-9743-b213c2e489d1)
+
+* Option **B**. [Got Wrong] [**VERY IMPORTANT**]
+* Recumbent -> Reclined.
+* Recumbent -> Lying on your back. [Meaning]
+* Recliner -> Recumbent chair.
+
+![image](https://github.com/user-attachments/assets/a3a58629-0182-4ce4-8a84-9cae58cc600c)
+
+* Option **A**. [Got Wrong] [**VERY IMPORTANT**]
+* Natty -> Tip-top/Well dressed/Well articulated/Well mannered/Civilized. [Meaning]
+
+![image](https://github.com/user-attachments/assets/849b0487-9af0-4788-86eb-ed7539175a37)
+![image](https://github.com/user-attachments/assets/c828d38a-816e-4d90-8d53-c2b0eb112c31)
+![image](https://github.com/user-attachments/assets/75bdd0d0-ccef-45eb-8c83-2e075e58f146)
+
+* Option **B**. [Got Wrong] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/ecdc6be3-c28c-4ef2-b6b1-7e8b6eb3d597)
+![image](https://github.com/user-attachments/assets/09d8531a-d6b8-4c9e-8ed6-9fd65c344317)
+
+* Option **E**. [Got Wrong] [**VERY IMPORTANT**]
+* talon -> a sharp hooked claw especially on a bird of prey. [Meaning]
+* For grabing.
+
+![image](https://github.com/user-attachments/assets/be1f034c-1524-4fc9-9985-1cf0cfc33292)
+![image](https://github.com/user-attachments/assets/ae78d5dd-73c4-42e2-8f9f-8bedd4383646)
+
+* Orate -> To speak on a topic. [Meaning]
+* Malign ->
+* Incoherently -> 
+* Jest -> To make fun/To crack jokes/To mock. [Meaning]
+* Belligerently -> In a very aggressive manner. [Meaning]
+
+![image](https://github.com/user-attachments/assets/3ce07f37-6893-47c2-a310-2c76dc8329dc)
+![image](https://github.com/user-attachments/assets/bec06916-5916-49fb-852f-08f6a9bc6e7e)
+![image](https://github.com/user-attachments/assets/755f952d-ea47-436c-9fa5-9a8fbd96afd5)
+
+* Option **C**. [Got Wrong] [**VERY IMPORTANT**]
+* Nuance -> Small difference. [Meaning]
+* Remnant -> Reminds you of something. [Meaning]
+* Splinter -> Small broken part of something. [Meaning]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Cause and Effect
 
 * Cause -> Reason.
