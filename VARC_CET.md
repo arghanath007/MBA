@@ -657,13 +657,36 @@
 
 * Option **2**.
 
+![image](https://github.com/user-attachments/assets/b08672ed-e84c-44c6-987c-5daff192c5bb)
+![image](https://github.com/user-attachments/assets/38b37adf-1b27-472b-b1a6-2ae5fa6b00ff)
 
+* Option **1**.
 
+![image](https://github.com/user-attachments/assets/5c77fc64-2c29-465b-9182-0bcc55fe7795)
+![image](https://github.com/user-attachments/assets/fb97686d-5df8-4bd1-aef1-245edc62feff)
+![image](https://github.com/user-attachments/assets/03d9b007-be7a-4393-83c7-b69d234497d9)
 
+* Option **1**. [Got Wrong]
 
+![image](https://github.com/user-attachments/assets/c0a5b410-4d09-48c5-a825-1693ff8b601e)
+![image](https://github.com/user-attachments/assets/4ccd04cd-451c-45e8-8355-9d002680ebd0)
 
+* Option **1**. [Got Wrong]
+* Quantum -> Number. [Meaning]
 
+![image](https://github.com/user-attachments/assets/1547f464-faf1-4073-b352-9bc69833238c)
+![image](https://github.com/user-attachments/assets/22b05831-8113-43c6-aa3c-b3561cf7efee)
+![image](https://github.com/user-attachments/assets/49f0930a-9f7c-4cb0-a75a-ce0c9d6807c7)
+![image](https://github.com/user-attachments/assets/7d484596-e721-40aa-be1e-d6cea483877c)
 
+* Option **3**. [Got Wrong]
+* Scopes are different -> Decision points are also different -> They are not impacting each other -> Can be independent effects -> Can be independent causes also.
+* Difficult question. Open ended answers. Leave this type of question in exams.
+
+![image](https://github.com/user-attachments/assets/c062c905-356b-42b8-a8c7-6771ce58fa83)
+![image](https://github.com/user-attachments/assets/2722aeef-2c6a-4e62-becb-f737c53554de)
+
+* Option **2**. 
 
 
 
