@@ -46,6 +46,66 @@
 ![image](https://github.com/user-attachments/assets/bfec9431-5c86-47b2-b38e-99ce17f1ac32)
 ![image](https://github.com/user-attachments/assets/c14f58cd-3d06-4360-8238-56cb7bd51d69)
 ![image](https://github.com/user-attachments/assets/f7d7b0e4-f6a8-4970-b923-969528b263f6)
+![image](https://github.com/user-attachments/assets/c389893a-4448-4a3d-aebb-bd5d76b5403a)
+![image](https://github.com/user-attachments/assets/d8d60bdd-5e10-4dde-b9f4-e3b39ed18fc8)
+![image](https://github.com/user-attachments/assets/7054a76a-cb81-435d-ae24-973abd5a9a75)
+![image](https://github.com/user-attachments/assets/2fc27130-e3a9-40b6-b896-b939476f0673)
+
+* IMPORTANT questions.
+
+![image](https://github.com/user-attachments/assets/193c2c62-716c-4c8d-86d8-79b129c21371)
+![image](https://github.com/user-attachments/assets/ab3496cd-137a-46bb-9b97-95637cd3d4d2)
+
+* Interview.
+
+![image](https://github.com/user-attachments/assets/97c9af66-8b89-44d5-bed0-7ee8ab635268)
+![image](https://github.com/user-attachments/assets/211ac83b-145c-4734-b0ef-6c4b026a4175)
+![image](https://github.com/user-attachments/assets/f4c6dd44-4911-42f7-a260-d124ef2c98a6)
+![image](https://github.com/user-attachments/assets/400b19b3-ff40-4766-a1ef-2cee2760887f)
+
+* Finance.
+
+![image](https://github.com/user-attachments/assets/0d7b86a6-c909-4d91-b901-e6a706d98b86)
+
+* Marketing.
+
+![image](https://github.com/user-attachments/assets/ce941589-3150-4e97-8946-354ff99d74c8)
+![image](https://github.com/user-attachments/assets/6ad939e9-a110-448a-8bf5-0977f49ea45b)
+![image](https://github.com/user-attachments/assets/08367446-901b-4380-9043-9899b3239f9c)
+![image](https://github.com/user-attachments/assets/e54f235e-b4df-4007-9f17-63dcd6f650be)
+![image](https://github.com/user-attachments/assets/564059c0-3018-4799-8c25-4cbf02ae02d1)
+![image](https://github.com/user-attachments/assets/8b0f0b74-1722-4c62-8234-8e48b38c416f)
+![image](https://github.com/user-attachments/assets/5443d3d4-e64b-4908-a544-32ad68429f82)
+
+* Tell me about yourself question. 
+
+![image](https://github.com/user-attachments/assets/bb627c80-4833-436b-91dc-6687c15dba6b)
+![image](https://github.com/user-attachments/assets/ce784e7b-4b26-46d4-9602-bbe64e7e81ff)
+![image](https://github.com/user-attachments/assets/7a7f180f-da98-4841-97d7-4e048cc8c69c)
+
+* The state "I" am from -> Current city/Hometown -> Learning everything about it as above and also learn about all of the **current developments**, **challenges**, **historical importance**.
+* Current city/Hometown -> Current CM, current Governor, last CM, last Governor, 1st CM, 1st Governor -> Remember them.
+
+![image](https://github.com/user-attachments/assets/ffd97c98-b62e-4513-986e-ddc8a125f2ec)
+![image](https://github.com/user-attachments/assets/4642b968-3ab3-41d0-9cb0-b256b43b6e43)
+
+* Central Goverment
+* MSME minister.
+
+![image](https://github.com/user-attachments/assets/e1784ae0-c0f1-4063-9d06-9512d2d7cf3e)
+
+* Gap year question.
+
+![image](https://github.com/user-attachments/assets/8b2dc31c-cb6c-4253-a8c3-c7e240340ca9)
+
+1) TMAY
+2) Everything about Current city/Hometown
+3) Current CM, governor.
+4) List of cabinet ministers
+5) Gap year
+
+![image](https://github.com/user-attachments/assets/325f9a95-8531-4c0d-8658-07be71998332)
+
 
 
 
