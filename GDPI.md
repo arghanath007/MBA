@@ -15,6 +15,56 @@
 * Hobbies -> Atleast '2' hobbies.
 
 
+## PIs
+
+![image](https://github.com/user-attachments/assets/c2ade36d-f2e8-4722-92d0-5ff42262e15f)
+![image](https://github.com/user-attachments/assets/0c206c3f-f7f2-434d-a7a4-0bdbeea2e0b5)
+
+* Name, Surname -> What does it mean.
+* Tell/Mention some famous people with your name.
+* Do you justify your name? Please explain.
+
+![image](https://github.com/user-attachments/assets/c282d816-ad64-4b4e-8a70-19e6167cbf6a)
+
+* Not a good answer.
+* Phone no -> is it a prime number? They can ask many type of questions.
+* Email -> Check if the email is a professional email or not.
+* Native place -> Learning everything about that place as much as possible. Ratta mar loh -> Me and parents also.
+
+![image](https://github.com/user-attachments/assets/c6892fb3-54ca-468b-b50c-5200bcb82da3)
+![image](https://github.com/user-attachments/assets/fedbaa3c-2e74-49a2-916f-443116656998)
+![image](https://github.com/user-attachments/assets/8db28c71-333c-45a6-b8f2-8bb7a4cb9aa2)
+![image](https://github.com/user-attachments/assets/11342b1c-abec-4a56-b03e-66773da2e6eb)
+
+* We need to build **depth** in any topic we are studying/studied.
+* Build depth in **current awareness** also.
+
+![image](https://github.com/user-attachments/assets/080b3936-b2ae-44a4-bbb3-fe83214f35c2)
+
+* '5' points each.
+
+![image](https://github.com/user-attachments/assets/bfec9431-5c86-47b2-b38e-99ce17f1ac32)
+![image](https://github.com/user-attachments/assets/c14f58cd-3d06-4360-8238-56cb7bd51d69)
+![image](https://github.com/user-attachments/assets/f7d7b0e4-f6a8-4970-b923-969528b263f6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
