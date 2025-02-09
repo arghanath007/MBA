@@ -124,6 +124,63 @@
 * Low Academics -> Accepting responsibility. Tried and failed.
 * Knowledge -> Need a lot of depth.
 * We need to be **honest** in the interview but **not blunt**.
+* Why MBA -> baby steps + achievements + triggers.
+
+![image](https://github.com/user-attachments/assets/f48b3d22-0970-4dc4-9e8e-3dfe785c4553)
+![image](https://github.com/user-attachments/assets/8cce8254-0c71-405f-a456-6ba4daad3c99)
+![image](https://github.com/user-attachments/assets/614fee20-3b3b-40b8-837e-6178ead5a3e6)
+
+* Bribing, cheating -> NO -> B-schools have an paper/subject called as **ethics**.
+* Bribing, cheating, ethical based question -> Will remain **ethical** -> Except when saving someone's life -> hostage deal, ransom pay.
+
+![image](https://github.com/user-attachments/assets/34aef364-0bb7-4838-a834-0e7f8e2e1ab0)
+
+* Good Answer.
+* Always put conditions before answering the question.
+
+![image](https://github.com/user-attachments/assets/6bab2fbb-3320-454a-9cc9-d9b64fc2ad91)
+  
+* Puzzles/Teasers:-
+
+1) Check your thought process.
+2) Stress handling abilities.
+
+![image](https://github.com/user-attachments/assets/f581b9eb-ec5e-4a39-94af-e1ba10463020)
+![image](https://github.com/user-attachments/assets/0a18b318-fb43-49e3-9a88-a70eb97b23df)
+![image](https://github.com/user-attachments/assets/1f9a938d-c572-4b18-9da6-1853b1c10e4d)
+
+* I am so sorry, I am not aware of it, I will go and check.
+
+![image](https://github.com/user-attachments/assets/62552fb4-988b-41a0-9b0e-d8948325a8d9)
+
+* Hobbies, Role model.
+* Telling why you wearing that ugly tie/blazer, take it off -> Sir I agree it may not look nice to you, it did look nice when I tried it out -> Accept responsibility but don't be arrogant. 
+
+![image](https://github.com/user-attachments/assets/5fcf2cef-7489-4f97-bffc-0cd86b2f7322)
+![image](https://github.com/user-attachments/assets/945bebc1-6bc1-44ab-bfb2-3c878d42f0f9)
+![image](https://github.com/user-attachments/assets/f6232709-ba15-474b-9843-b84a9b5fbd8b)
+
+* Is it an official gathering or a private dinner? Because if it is an official gathering, I will come no problem. I might get to meet other students and faculty members. If it is a private dinner then I will politely refuse sir. [Good Answer]
+
+![image](https://github.com/user-attachments/assets/ae3f5de9-267a-49b6-b2f8-cee9704379e9)
+
+* Thank you so much for your time, I really appreciate it. Have a good day sir/mam.
+
+![image](https://github.com/user-attachments/assets/fcc4b2ea-dd63-43c6-a06d-cfcdffd6083d)
+![image](https://github.com/user-attachments/assets/f2b33bbc-3d58-4ca2-90e4-100dfd28780d)
+
+* 1hr 15mins.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
