@@ -105,11 +105,25 @@
 5) Gap year
 
 ![image](https://github.com/user-attachments/assets/325f9a95-8531-4c0d-8658-07be71998332)
+![image](https://github.com/user-attachments/assets/edc3c41c-6faa-4314-9810-e04da9b824ec)
 
+* Folder -> Black/Brown/Grey.
 
+![image](https://github.com/user-attachments/assets/78ae68b9-fbdf-4c67-9d57-66abef948bad)
+![image](https://github.com/user-attachments/assets/649206db-4fd4-44fc-bdd4-3aecd8efa3b5)
+![image](https://github.com/user-attachments/assets/81bca884-9927-4a64-be42-a5e2f2d26c01)
+![image](https://github.com/user-attachments/assets/04cf16c5-466e-4aa4-ab10-6fdccc2e4503)
+![image](https://github.com/user-attachments/assets/4b200f8c-b24d-4fa8-be48-79ffae314702)
 
+* Important documents first -> Secondary/less important later.
 
+![image](https://github.com/user-attachments/assets/af88c632-78a1-4782-8525-7be4fbeb9fd1)
+![image](https://github.com/user-attachments/assets/4525fcb1-378d-4f97-9dc8-06e62c9451a5)
+![image](https://github.com/user-attachments/assets/364a9bc0-41a4-4a7d-98d6-65bea67b9f89)
 
+* Low Academics -> Accepting responsibility. Tried and failed.
+* Knowledge -> Need a lot of depth.
+* We need to be **honest** in the interview but **not blunt**.
 
 
 
