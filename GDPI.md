@@ -206,6 +206,58 @@
 
 * While answering, use bullet points.
 
+![image](https://github.com/user-attachments/assets/35511633-3cd0-491f-91da-736331f03eb3)
+![image](https://github.com/user-attachments/assets/406b1e97-6261-4d12-ac06-b476bd918a5c)
+![image](https://github.com/user-attachments/assets/1b154df9-e237-4c3e-8351-34134c376cb1)
+![image](https://github.com/user-attachments/assets/7c037159-832e-4200-8ed9-98c1cd3539b4)
+![image](https://github.com/user-attachments/assets/f9013d62-820a-4d78-91d9-7d9222ca006b)
+![image](https://github.com/user-attachments/assets/e0dbe4d8-8d96-4535-a873-a7fa6289bcc7)
+
+* Criteria you would use to select students -> Then judge yourself.
+* Criteria -> Then judge yourself.
+
+![image](https://github.com/user-attachments/assets/9ced8624-e895-4c04-8b81-3d6dbba16ef4)
+
+* Always give criteria first.
+
+![image](https://github.com/user-attachments/assets/8595db21-3f9a-4bbf-bae6-ad348c6f01ee)
+
+* Read the FAQs.
+
+![image](https://github.com/user-attachments/assets/05a68b8c-a3f6-40bc-8fd7-e46105765464)
+![image](https://github.com/user-attachments/assets/309d1bf2-c52d-4c62-bbe5-21f79ceb1522)
+![image](https://github.com/user-attachments/assets/d7755f45-573f-4e83-b7d6-f613c5cc124e)
+![image](https://github.com/user-attachments/assets/a53e74cf-2d4d-4a73-989f-0ee28477af3f)
+![image](https://github.com/user-attachments/assets/ddb223d9-2d9a-4bcd-b9e1-1b2aa408a86d)
+![image](https://github.com/user-attachments/assets/2e49d4e3-0c96-4443-bbaa-e3e33aa845fb)
+
+* CS -> Questions on AI, quantum computing etc. 
+
+![image](https://github.com/user-attachments/assets/160e81ff-404a-4035-9422-ac19b4d36afb)
+![image](https://github.com/user-attachments/assets/1d19d598-04e4-4efd-a381-617efd8f6fa4)
+
+* Achievements -> Scalable and measurable -> Class 8 onwards.
+* Failures -> Wanted to achieve something but could not.
+
+![image](https://github.com/user-attachments/assets/f88fe5a0-b0f9-4af4-bf05-7d5a9d3c68ec)
+![image](https://github.com/user-attachments/assets/2280eb70-9e1d-4596-81db-4d32cf935974)
+![image](https://github.com/user-attachments/assets/0af124eb-22ea-46b4-8ba5-a80855377f0d)
+
+* Most embarrassing moment -> Expectation VS reality/situation -> Not sadness -> Felt ashamed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
