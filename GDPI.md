@@ -168,8 +168,44 @@
 
 ![image](https://github.com/user-attachments/assets/fcc4b2ea-dd63-43c6-a06d-cfcdffd6083d)
 ![image](https://github.com/user-attachments/assets/f2b33bbc-3d58-4ca2-90e4-100dfd28780d)
+![image](https://github.com/user-attachments/assets/8aa54779-810b-4bd5-82ef-cfa433addbfc)
 
-* 1hr 15mins.
+* Don't talk negatively about other students.
+* '2' or few reasons why we should select you:-
+
+1) The school is famous for it's academic rigor, it is clear from my academic record I have been able to do well academically. I am pretty sure that I would be able to take the academic rigor of this clg. [General]
+2) This school values leadership/this school values strength of character, I have been the captain of my club's cricket team for 3yrs. I would been able to imbibe those qualities in the class also. [General]
+
+![image](https://github.com/user-attachments/assets/48fc1c12-cdb1-4a8c-99c6-1ee7f2d1cb18)
+
+3) When I was looking at the student breakup of the clg, I saw that 14% of the students had 0-2yrs of work experience. I have 6 months of work experience and as a result I can bring in my own insights to the class. [KIIT clg specific] [Clg specific]
+
+* '2' reasons why not to select you:-
+
+1) I saw that 25% of the students had atleast 1yr of work experience, me on the other hand have 6 months of work experience **may** face problems while discussing case studies, though I think that I can cover them sir. Yes, this **could/might** be a reason. [KIIT clg specific] [Clg specific]
+2) This clg gets absolutely brilliant students and as I have slightly lower marks in class 12th that **could** be a reason why I **may** not be selected. [General]
+
+![image](https://github.com/user-attachments/assets/2b4b1a19-478b-4f87-8431-8c341dc7c44c)
+![image](https://github.com/user-attachments/assets/06c7bc91-e3f3-421c-b218-1725c1f61e9d)
+
+* Ask politely -> I think I would need 30secs to solve the questions.
+
+![image](https://github.com/user-attachments/assets/4f58648f-66af-4d05-b8b2-dee1422f8db4)
+![image](https://github.com/user-attachments/assets/fb84512f-328c-4016-bfdf-fa97d7558c0c)
+![image](https://github.com/user-attachments/assets/e70bb664-f3f9-483c-baf5-83c1cc8467b0)
+![image](https://github.com/user-attachments/assets/6da3f127-68b1-4604-b698-483224ae81fa)
+![image](https://github.com/user-attachments/assets/a32aae6f-4937-415c-adb7-84f907d643c6)
+
+* Ask for permission -> Sir, I am not sure about the correct answer but I may guess with your permission/if you allow.
+* Do everything with permission. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fc83ece1-6c42-4a47-b5fb-ee869ffa25df)
+![image](https://github.com/user-attachments/assets/00bebf87-fe66-4bc3-ad5a-27e8f073a40a)
+![image](https://github.com/user-attachments/assets/e7b198a8-fa7d-41e1-880c-d8749fd640c0)
+![image](https://github.com/user-attachments/assets/942989c7-5282-4104-866a-dc74b266acb4)
+
+* While answering, use bullet points.
+
 
 
 
