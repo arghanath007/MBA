@@ -344,3 +344,25 @@
 > I was working and I was thinking of preparing for the entrance exams so that I can do my higher studies. At the end of 2022, my company gave me notice that from next month onwards I had to come to office. Their office was in Bangalore and I was living in Kolkata. After weighing my options, I decided that I will just resign from my job and persue my preparation of GATE exam full-time. That was not the best decision on my end definitely, I should have continued with my job. I was over my head as I was able to secure a job right after graduation and I thought I could do the same thing after I left my current job but that did not happen. It was a very bad decision/choice from my end and I completely own my mistake and it will never happen again.
 
 ![image](https://github.com/user-attachments/assets/4e0f73ee-0b38-4093-9b3a-f330f8c222bb)
+
+## Tapmi
+
+![image](https://github.com/user-attachments/assets/e6f5e7f4-89ba-4195-8265-68f02859cad0)
+
+> I am really passionate about cricket. I played in a cricket club from 5th grade to 9th grade. We regularly participated in many tournaments. We played against many school teams.  Nowadays, I usually go to the nearby playgrounds and play with the people who are playing cricket there on a daily basis. On the weekends, I usually try to organize a couple of matches with my friends. You are playing, enjoying, having fun as well as getting a good amount of physical exercise is also being done.
+Another topic which intrigues me the most is currency collecting which is collecting currencies of various countries. Currencies can be new or old or both. My father introduced me to this topic as he had already been collecting currencies from his younger days. He gave me his collection and told me to do research about the currencies he had. After that I was instantly interested. Whenever I meet someone new, I ask them if they have some old currency they have if they are willing can I have them or when I learn about someone who will be visiting a foreign country, I always request them if possible could they bring me some currency of that country.  In 2023, I visited Nepal and I was able to get some of their currently used currencies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
