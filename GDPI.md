@@ -343,4 +343,4 @@
 * Explanation if there is gap in experience between companies?
 > I was working and I was thinking of preparing for the entrance exams so that I can do my higher studies. At the end of 2022, my company gave me notice that from next month onwards I had to come to office. Their office was in Bangalore and I was living in Kolkata. After weighing my options, I decided that I will just resign from my job and persue my preparation of GATE exam full-time. That was not the best decision on my end definitely, I should have continued with my job. I was over my head as I was able to secure a job right after graduation and I thought I could do the same thing after I left my current job but that did not happen. It was a very bad decision/choice from my end and I completely own my mistake and it will never happen again.
 
-
+![image](https://github.com/user-attachments/assets/4e0f73ee-0b38-4093-9b3a-f330f8c222bb)
