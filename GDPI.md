@@ -245,7 +245,23 @@
 
 * Most embarrassing moment -> Expectation VS reality/situation -> Not sadness -> Felt ashamed.
 
+## TMAY (Tell me about yourself)
 
+![image](https://github.com/user-attachments/assets/38cb458a-b2dc-481b-8991-661d70b6709c)
+
+* Talk about TMAY for about 50 to 55secs.
+* Good afternoon, my name is Argha Nath. I was born and raised in West Bengal, Kolkata. I graduated in Computer Science Engineering from Greater Kolkata College of Engineering and Management. I constantly ranked among the top 10 students of my batch. Beyond academics, I actively persue diverse interests, exploring fields like personal fitness and personal finance. Beyond my specilization, I persue online courses and seeking internships. I am a very cheerful person and I like travelling a lot. After graduating, I joined Go with Dot a startup based in Haryana as a back-end developer. I like playing cricket, collecting currencies and learning about the history of humankind.
+
+![image](https://github.com/user-attachments/assets/7088b3e0-562a-40c8-9c6b-f15c296bc664)
+![image](https://github.com/user-attachments/assets/744e468b-1c6e-4705-97ce-08239614c859)
+![image](https://github.com/user-attachments/assets/719a5281-8f19-4ff3-9b90-fd93c33cccfa)
+
+* Personalized answer is needed.
+
+![image](https://github.com/user-attachments/assets/707a151a-1551-44aa-aad9-c001db5d1052)
+![image](https://github.com/user-attachments/assets/a19ea397-e622-4853-958f-2d5d7ea73a65)
+
+*30mins
 
 
 
