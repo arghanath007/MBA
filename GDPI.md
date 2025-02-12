@@ -260,19 +260,55 @@
 
 ![image](https://github.com/user-attachments/assets/707a151a-1551-44aa-aad9-c001db5d1052)
 ![image](https://github.com/user-attachments/assets/a19ea397-e622-4853-958f-2d5d7ea73a65)
+![image](https://github.com/user-attachments/assets/830d7e07-f522-4051-884e-239e4e2dacd2)
+![image](https://github.com/user-attachments/assets/e25b306b-88b4-4e6d-a605-50557636cca1)
 
-*30mins
+* If you get interupted in the middle of something -> Don't panic, keep calm, relaxed and be a **good listener** -> Never interupt the interviewer.
+* Good listener, learning/growth mindset.
 
+![image](https://github.com/user-attachments/assets/14a49659-d0fc-42e1-b186-e2ac28e8de79)
 
+* Stage '1'.
 
+![image](https://github.com/user-attachments/assets/ab511d4d-7dcc-4bbd-93e0-2bc5ba056d6d)
 
+* They may not ask directly "Why MBA". They can ask "why did you give CAT exam"? -> Basically to do MBA.
+* Why CAT.
 
+![image](https://github.com/user-attachments/assets/1fb77e9c-966b-425a-bd50-dd084177175d)
 
+* Stage '2'.
 
+![image](https://github.com/user-attachments/assets/b21257de-b4c0-43dd-9025-1af03e77246f)
 
+* Why MBA -> Trigerring point -> Relate it to internship. 
 
+![image](https://github.com/user-attachments/assets/4c9bebcc-1e9a-438d-b961-071f9b0f093b)
+![image](https://github.com/user-attachments/assets/94fc1369-19ec-4ce5-bd62-84b4a961f4ed)
+![image](https://github.com/user-attachments/assets/6ff676bc-918a-4de0-a3e9-8b54b702b93c)
+![image](https://github.com/user-attachments/assets/63e513b7-434a-4925-bd4c-50aa2f53f1d6)
+![image](https://github.com/user-attachments/assets/605ca028-f84b-42db-9337-5900a1615752)
 
+* MBA is the path where we want to reach, not the destination. If not MBA, then CFA for finance people.
+* Interview -> To check your character.
 
+![image](https://github.com/user-attachments/assets/16324b9e-8806-4c12-ba59-1f2133d1967c)
+
+* Need personalized touch. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cea67aac-187e-4ea4-a702-4ce176cf5748)
+![image](https://github.com/user-attachments/assets/eb7d88f8-7f2c-4f4a-9997-9b8dc518fdc9)
+![image](https://github.com/user-attachments/assets/697a848f-e329-4e02-866b-5449053ac1e7)
+![image](https://github.com/user-attachments/assets/6c778a8f-01e8-4065-a103-79bd7d18b9bb)
+![image](https://github.com/user-attachments/assets/9d87ed5f-7273-49e9-8ed7-bb3a4f63800d)
+![image](https://github.com/user-attachments/assets/238b36b6-1feb-44ec-88c6-078993f0525e)
+![image](https://github.com/user-attachments/assets/c368e31d-d0f8-426a-b35f-c32078d966d6)
+![image](https://github.com/user-attachments/assets/180ff030-e741-47d0-af71-79ec111fc62e)
+![image](https://github.com/user-attachments/assets/28c10afa-ab3a-4b80-92a1-140e52495514)
+
+* Courses/Certificates to boost up the CV -> Digital Marketing, MS excel, Stock market, Data Analyst, Power BI.
+
+![image](https://github.com/user-attachments/assets/d54fa1b7-4d09-4d23-a8a1-8dfe1e3e329a)
 
 
 
