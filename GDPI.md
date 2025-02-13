@@ -310,8 +310,7 @@
 
 ![image](https://github.com/user-attachments/assets/d54fa1b7-4d09-4d23-a8a1-8dfe1e3e329a)
 
-* CV -> Curriculum Vitae -> Course of life.
-* Resume -> For a specific institution -> Company/College.
+
 
 
 
@@ -338,6 +337,78 @@
 ![image](https://github.com/user-attachments/assets/ba33bde1-28a2-4dd9-9690-5ef269689e28)
 
 * Good points.
+* CV -> Curriculum Vitae -> Course of life.
+* Resume -> For a specific institution -> Company/College.
+
+![image](https://github.com/user-attachments/assets/c390adab-69bc-48db-a1f6-8b7a7c54ee4b)
+![image](https://github.com/user-attachments/assets/943043d7-95ad-4c75-8709-3cb52ac8db86)
+![image](https://github.com/user-attachments/assets/ac9eef65-3090-4152-b1f7-0ee981e5c33c)
+![image](https://github.com/user-attachments/assets/05a21a42-d31e-4141-bba7-ac77a7e584d9)
+![image](https://github.com/user-attachments/assets/60695eac-b166-499c-8d02-af283d966dbf)
+
+* Yes.
+
+![image](https://github.com/user-attachments/assets/48d40732-65ec-4591-94c5-8c298f573587)
+
+* SOP.
+
+![image](https://github.com/user-attachments/assets/436fd876-f06b-4fc5-a7cf-415bdac6d72e)
+![image](https://github.com/user-attachments/assets/98a7c1a2-8e3d-4262-8440-cf97b3f8fb75)
+![image](https://github.com/user-attachments/assets/4fc0207d-7660-4cfc-a28e-2132bbf6bd44)
+![image](https://github.com/user-attachments/assets/b6aa73d6-344b-4651-b92a-5e57998f14df)
+![image](https://github.com/user-attachments/assets/1d57cdd7-ceb0-4d42-9a74-164f371ea9e2)
+![image](https://github.com/user-attachments/assets/4a162e23-c8d9-4e86-8e64-72014ba98f96)
+![image](https://github.com/user-attachments/assets/279d2344-8713-473c-9488-b102b87db417)
+![image](https://github.com/user-attachments/assets/f6782910-6ce6-4550-b404-c7406272f15e)
+![image](https://github.com/user-attachments/assets/27bc9e12-891e-4b3f-81d0-b3150d1266ec)
+
+* Roles you don't want to do/go into:-
+
+
+1) Finance.
+2) Operations.
+3) HR.
+4) 
+
+* Roles you want to do/go into:-
+
+1) Marketing.
+2) Analytics.
+
+![image](https://github.com/user-attachments/assets/b18d51fb-153b-4d61-a738-7420b31daeaf)
+
+* Example.
+
+![image](https://github.com/user-attachments/assets/eb1396d0-47cc-4401-9cce-17300b5721e5)
+![image](https://github.com/user-attachments/assets/fa6d076f-7f0c-4bc2-8d5d-7c9f692ae833)
+![image](https://github.com/user-attachments/assets/408074aa-55d6-4c03-bf79-564504917c12)
+![image](https://github.com/user-attachments/assets/e8c78019-6989-4d67-8691-aaec14f670c2)
+![image](https://github.com/user-attachments/assets/aaf7cf14-7b38-4885-a2fa-0636e873b7da)
+![image](https://github.com/user-attachments/assets/a7cc6ed0-05ab-453a-bde4-65caa37cae98)
+![image](https://github.com/user-attachments/assets/4f537ae9-d76a-489a-9405-eab98eb2e9fe)
+![image](https://github.com/user-attachments/assets/949d293d-4520-4397-9e9c-c1f1f02f8f87)
+![image](https://github.com/user-attachments/assets/3e7358e6-090d-4e21-b856-3143cf90c0fa)
+
+* Can write about coming 2nd on the final year project competition.
+
+![image](https://github.com/user-attachments/assets/bec60aba-795d-4463-b617-81242078adac)
+
+* Try to be **unique**.
+
+![image](https://github.com/user-attachments/assets/25ef9027-93ad-4799-92ec-d43f3d3fb501)
+![image](https://github.com/user-attachments/assets/be57d1bd-1160-487b-8d83-5741e741071b)
+![image](https://github.com/user-attachments/assets/a58ef546-85d3-4831-9302-81fe0286f453)
+![image](https://github.com/user-attachments/assets/7e893688-494a-4560-a551-313055528998)
+![image](https://github.com/user-attachments/assets/e2987b57-b543-4f4f-aaf3-9bb39d288d7f)
+![image](https://github.com/user-attachments/assets/32048dd9-2f97-45ca-92ce-fea7fdb3556f)
+
+
+
+
+
+
+
+
 
 
 
