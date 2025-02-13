@@ -310,6 +310,8 @@
 
 ![image](https://github.com/user-attachments/assets/d54fa1b7-4d09-4d23-a8a1-8dfe1e3e329a)
 
+* CV -> Curriculum Vitae -> Course of life.
+* Resume -> For a specific institution -> Company/College.
 
 
 
@@ -330,10 +332,12 @@
 
 
 
+## SOP writting
 
+![image](https://github.com/user-attachments/assets/38605d1c-9d1d-412b-a2de-47ad822741c4)
+![image](https://github.com/user-attachments/assets/ba33bde1-28a2-4dd9-9690-5ef269689e28)
 
-
-
+* Good points.
 
 
 
