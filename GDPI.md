@@ -493,18 +493,26 @@ Another topic which intrigues me the most is currency collecting which is collec
 ![image](https://github.com/user-attachments/assets/4d8aadfe-2f43-4aa8-960c-ce36945c22ee)
 
 > I constantly ranked among the top 10 students of my batch. Beyond academics, I actively pursue diverse interests, exploring fields like personal fitness and personal finance. Beyond my specialisation, I pursue online courses and seeking internships. I am a very cheerful person and I like playing cricket a lot. After graduating, I joined Go with Dot a startup based in Haryana as a back-end developer. I like collecting currencies and learning about the history of humankind.
+
 > Teamwork- During my final years project, I was put in a group of 5 people. We started sharing our ideas, received feedback on our ideas. We collectively decided on a topic for our project. Each team member helped in the project by providing their unique sets of skills for completing the project. 
 Resilience - Placements had started and all of my friends and my batch mates were all gets placed in good companies with good roles and packages. I was not getting any placements calls from companies. I didn't give up and I was persistent for months and I finally got placed during off-campus placements into a startup company as an intern. 
 Analytical Skills - I wanted to reduce my body weight. I started by analysing all of the different foods I was having throughout the day. I analysed all of the calorie intake and calories burnt throughout the day. In-order to loose weight I had to have a calorie deficit.
+
 > Weak at prioritising multiple tasks - Working on it by creating a To-do list for that day early in the morning without fail. 
 Emotional integrity - Working on it by doing meditation everyday in the morning. 
 Listening Skills - Working on it by having more conversations with friends, family members, neighbours, relatives.
+
 > It is very relevant. From my short-term goal, my long term goal would be to see myself at a mid to a senior level position in a very big, reputed company. From that my ultimate goal would be to start my own business or join my family business.
+
 > KJSIM institute is a very famous and reputed college. It's name is known among the top business schools of India. It has a very strong alumni base. It is very known among professional people as well as students and their parents. The programs and courses offered at KJSIM are top notch and are based on industry requirements. The institute's strong emphasis on industry collaborations provides students with opportunities for career growth.
+
 > With the reputation of KJSIM and the quality of education they provide I am confident that I can work and improve on a lot of skills which I already have or new skills I can acquire. The skill which I get to learn and improve is the managerial skill. Based on the domain I choose, I will learn all of the skills of that particular domain. I also get to know all of the technical know hows which are needed for enhancing my skills.
+
 > When I started working, I noticed a hierarchy of people working at the company. I was working within a team, we would be reporting to the senior developer who was managing our team. The senior developer would then be reporting to the upper management people. After doing some research about the senior management people, I learnt that all of them had done their management studies from good reputed business schools, which landed them those higher level management positions.
 The management programme aligns with my short term and long term goals of my working career and eventually my ultimate goal.
+
 > I want to see myself at a junior position in a very big, reputed company.
+
 > I am very dedicated to cricket. Most days if not everyday I would go to the nearby grounds to play cricket with the people who are playing cricket there on a daily basis. 
 
 
