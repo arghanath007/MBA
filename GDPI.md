@@ -405,11 +405,13 @@
 ![image](https://github.com/user-attachments/assets/7e893688-494a-4560-a551-313055528998)
 ![image](https://github.com/user-attachments/assets/e2987b57-b543-4f4f-aaf3-9bb39d288d7f)
 ![image](https://github.com/user-attachments/assets/32048dd9-2f97-45ca-92ce-fea7fdb3556f)
+![image](https://github.com/user-attachments/assets/6dc505ce-0f11-4a94-a6d0-8d1d6fb45e91)
 
+* SOPs guide.
 
+![image](https://github.com/user-attachments/assets/2dc9ea27-a1cb-4a25-81a7-38d518c72d8d)
 
-
-
+* Course certifications I can do.
 
 
 
