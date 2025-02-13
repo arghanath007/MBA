@@ -2,12 +2,16 @@
 
 ### Weakness
 
-1) Emotional Intigrity -> Taken for granted. They give their work to me and my work goes lower down in the priority. Quality is impacted.
-2) Weak at prioritizing multiple tasks.
-
+* Emotional Intigrity -> Taken for granted. They give their work to me and my work goes lower down in the priority. Quality is impacted.
+1) Weak at prioritising multiple tasks - Working on it by creating a To-do list for that day early in the morning without fail. 
+2) Emotional integrity - Working on it by doing meditation everyday in the morning. 
+3) Listening Skills - Working on it by having more conversations with friends, family members, neighbours, relatives.
 
 ### Strengths
 
+1) Teamwork- During my final years project, I was put in a group of 5 people. We started sharing our ideas, received feedback on our ideas. We collectively decided on a topic for our project. Each team member helped in the project by providing their unique sets of skills for completing the project. 
+2) Resilience - Placements had started and all of my friends and my batch mates were all gets placed in good companies with good roles and packages. I was not getting any placements calls from companies. I didn't give up and I was persistent for months and I finally got placed during off-campus placements into a startup company as an intern. 
+3) Analytical Skills - I wanted to reduce my body weight. I started by analysing all of the different foods I was having throughout the day. I analysed all of the calorie intake and calories burnt throughout the day. In-order to loose weight I had to have a calorie deficit.
 
 
 
