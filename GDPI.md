@@ -413,7 +413,11 @@
 
 * Course certifications I can do.
 
+![image](https://github.com/user-attachments/assets/6e01ba7e-98ae-4f1c-89c3-57d364389e34)
+![image](https://github.com/user-attachments/assets/2dae0d13-8398-401c-8033-694362d7c6cc)
+![image](https://github.com/user-attachments/assets/077221a7-1daa-40ce-a147-b638a8460608)
 
+* Finance Minister of pakistan/Sri Lanka -> Startup culture, manufacturing, safe culture.
 
 
 
