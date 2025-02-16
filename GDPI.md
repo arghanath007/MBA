@@ -419,6 +419,78 @@
 
 * Finance Minister of pakistan/Sri Lanka -> Startup culture, manufacturing, safe culture.
 
+![image](https://github.com/user-attachments/assets/96629233-5f33-4f6b-b9f5-97f60e7954b7)
+![image](https://github.com/user-attachments/assets/7f93a811-694b-4ec1-bab6-7a8ca4adbfc6)
+
+### Case Study(1)
+
+![image](https://github.com/user-attachments/assets/1aa25cfc-0dc8-4b63-8836-fa886abc01b7)
+![image](https://github.com/user-attachments/assets/ed7c53f5-d8b2-4287-89a8-842f9206993d)
+![image](https://github.com/user-attachments/assets/f533d7d8-35e3-4777-b64c-82a82f865d66)
+![image](https://github.com/user-attachments/assets/8884a747-1a55-4c15-b31c-e605651d8d6f)
+![image](https://github.com/user-attachments/assets/537c8d53-1930-4ccb-8e85-1161171a6d8d)
+![image](https://github.com/user-attachments/assets/473cc4c0-96d2-46da-bed4-97e87399b098)
+![image](https://github.com/user-attachments/assets/b5b857d0-857a-4103-bc38-6a7b07df6e12)
+![image](https://github.com/user-attachments/assets/fa28d61c-aa2a-4cc7-8c44-d84a715040ff)
+![image](https://github.com/user-attachments/assets/0f946f76-39da-41cf-a689-4149df542f41)
+![image](https://github.com/user-attachments/assets/77cde483-e9c9-4637-9f79-2b43ced89e15)
+![image](https://github.com/user-attachments/assets/0c553a6a-0814-4bdd-8752-5d4e2f25c675)
+![image](https://github.com/user-attachments/assets/614be854-4a00-4a14-8aac-a3ecf7d4c55a)
+![image](https://github.com/user-attachments/assets/f3ce8045-a414-446c-a242-64234eab09b6)
+
+* Quick Commerce.
+
+![image](https://github.com/user-attachments/assets/72aaad2a-1f66-40ce-a879-f9ef9076f741)
+![image](https://github.com/user-attachments/assets/122d8b1d-464e-43ba-9f2a-1a3e9478c32b)
+![image](https://github.com/user-attachments/assets/22d8e80f-e7a0-4010-9420-53e37647ba10)
+![image](https://github.com/user-attachments/assets/fbeb9ff7-8a16-428b-894b-6b232e72910f)
+
+* Information.
+
+## XIME
+
+![image](https://github.com/user-attachments/assets/a218009c-3411-454d-b76d-af00200e6401)
+![image](https://github.com/user-attachments/assets/6538204b-b5e5-4625-9f4c-91b245fb2a05)
+![image](https://github.com/user-attachments/assets/e67b286e-658c-4850-8462-a7c4f8622e16)
+![image](https://github.com/user-attachments/assets/cf2cf2e7-1918-4b9c-aa99-7fde73899c22)
+![image](https://github.com/user-attachments/assets/67e97b23-74d2-4c61-8d2f-41ab3e8cd4cc)
+![image](https://github.com/user-attachments/assets/90603b27-59ba-4965-8d3e-5130e079d3e0)
+![image](https://github.com/user-attachments/assets/b3054511-a773-465f-9c5e-ad9d93fa1626)
+![image](https://github.com/user-attachments/assets/76795582-b447-4814-b636-29dbfa1633b2)
+![image](https://github.com/user-attachments/assets/66967c84-1e2f-4317-bb2b-cbb57b1b0fb1)
+![image](https://github.com/user-attachments/assets/4f2c5249-5aa7-4f0f-a34f-ca7c46007ef0)
+![image](https://github.com/user-attachments/assets/cc68fe23-f301-4eb6-92c0-4dbed32dd879)
+![image](https://github.com/user-attachments/assets/8cafa9a7-4053-4b68-a6b2-de5f07eef02d)
+![image](https://github.com/user-attachments/assets/d7442184-1ca2-438f-8c58-2b9555fb2dc7)
+![image](https://github.com/user-attachments/assets/c0273411-a71e-4713-beba-43f26ec32d77)
+![image](https://github.com/user-attachments/assets/2580f0f9-ff4f-43fd-b1c1-2dd8085049e5)
+
+* Do the GK classes.
+
+![image](https://github.com/user-attachments/assets/6b3b480d-f0ff-4327-938b-04be640daead)
+![image](https://github.com/user-attachments/assets/6945d815-9af3-44f2-aae6-08a22fda0673)
+![image](https://github.com/user-attachments/assets/64754b41-7016-4bf8-80e4-d571d70185da)
+![image](https://github.com/user-attachments/assets/fa219fc7-2f26-4ff4-bafc-3489f288fa20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
