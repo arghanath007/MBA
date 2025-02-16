@@ -922,9 +922,12 @@
 
 ## Statement Conclusion
 
+![image](https://github.com/user-attachments/assets/2366f375-d492-4bfa-9958-ea5b4c131f37)
 
+* Statement -> Given.
+* Conclusion -> Learn/Deduce.
 
-
+![image](https://github.com/user-attachments/assets/5534da3e-cb48-478a-80eb-28d9e0dddc38)
 
 
 
