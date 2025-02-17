@@ -1027,8 +1027,55 @@
 
 ![image](https://github.com/user-attachments/assets/76683c49-a534-4d67-85e7-1b8c509eb403)
 ![image](https://github.com/user-attachments/assets/6b626d5a-f5d1-4234-9661-25966f473158)
+![image](https://github.com/user-attachments/assets/fd19ac1d-72d1-470f-bdc0-1885d1172188)
+![image](https://github.com/user-attachments/assets/25e5437e-17e4-4bd5-a753-d73de83b549f)
+![image](https://github.com/user-attachments/assets/54f4423a-6ea0-40d8-ba6a-bfa290d00a9d)
+![image](https://github.com/user-attachments/assets/a22af403-5381-41cf-aa9b-5bed46d397c9)
 
-* 22mins.
+* intolerant -> When you're intolerant, you can't or won't put up with something -> unwilling to tolerate difference of opinion -> narrow-minded about cherished opinions. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d30d0005-76fe-4b64-af80-1c88fd3a9f8a)
+![image](https://github.com/user-attachments/assets/5d9a354f-472f-496b-8543-37ef0dc52972)
+![image](https://github.com/user-attachments/assets/58dc3de7-bdb7-46c9-aff9-64c34d06af85)
+![image](https://github.com/user-attachments/assets/bedaa7ce-9174-4d64-b2e3-bc5bac5d31c6)
+![image](https://github.com/user-attachments/assets/2907e198-4c7f-47f1-98af-4ed5cd78ae45)
+![image](https://github.com/user-attachments/assets/7fc18061-74f2-4787-a5e3-f6dbc0dd785a)
+
+* VARC section time needed.
+
+![image](https://github.com/user-attachments/assets/d5676d52-b827-4ea1-89f7-ec444e5a7192)
+![image](https://github.com/user-attachments/assets/5dfe935a-9923-4426-8fdb-e52bc735f221)
+![image](https://github.com/user-attachments/assets/74e416d4-c361-4061-a35e-4535ec714aa1)
+![image](https://github.com/user-attachments/assets/c8958e8c-fbb3-4052-964c-4fd000dbea44)
+
+* Got Wrong. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/60635332-e07b-4945-a3fd-c20f2fc6d451)
+![image](https://github.com/user-attachments/assets/6ec393fb-55c5-46f6-8dbb-2f09bbec8dab)
+![image](https://github.com/user-attachments/assets/8cb5b730-b51f-416d-b474-e2b9e5bf8cf8)
+
+* appalled -> Shocked. [Meaning]
+
+## Statement Assumptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
