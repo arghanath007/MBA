@@ -928,12 +928,70 @@
 * Conclusion -> Learn/Deduce.
 
 ![image](https://github.com/user-attachments/assets/5534da3e-cb48-478a-80eb-28d9e0dddc38)
+![image](https://github.com/user-attachments/assets/82f3a472-9c4d-4ad7-9ce7-0911a7fb9bf1)
+![image](https://github.com/user-attachments/assets/297b014c-b828-4ce1-baec-6721fd3f7669)
 
+* Option II -> Too extreme statement.
 
+![image](https://github.com/user-attachments/assets/71097388-29dc-4388-b2ec-7c3c4bcb08ae)
 
+* Websites for practice.
 
+![image](https://github.com/user-attachments/assets/8c70f52b-f02f-4127-84f9-1e5a0494a75e)
+![image](https://github.com/user-attachments/assets/c22b6b49-90de-47bd-ad9d-3984d245708b)
+![image](https://github.com/user-attachments/assets/3efde4e4-becf-4864-9c34-cc76121fcf14)
 
+* Statement -> Positive.
+* Option I -> Negative -> Cannot relate.
 
+![image](https://github.com/user-attachments/assets/a5d21ccf-3243-41bc-8342-51f510fd5511)
+
+* Got Wrong.
+
+![image](https://github.com/user-attachments/assets/92c291e2-78f1-4e3e-90ed-218bacf2c55e)
+![image](https://github.com/user-attachments/assets/795f7ae3-b061-4d32-9739-f0dad61d418f)
+![image](https://github.com/user-attachments/assets/41fb5c21-9dd8-4414-be7b-a0e114fa8501)
+
+* Got Wrong.
+* Statement -> Positive.
+
+![image](https://github.com/user-attachments/assets/13958839-cbca-4bf0-a055-ded2ab38fb6e)
+![image](https://github.com/user-attachments/assets/5fe909a1-5ba2-42c1-8a8f-7bf6297425ff)
+![image](https://github.com/user-attachments/assets/79d8f5d3-1db9-439f-8444-83542d26ed36)
+
+* Languished -> Struggle.
+
+![image](https://github.com/user-attachments/assets/6e6c86e2-2bb5-4d0f-a442-8e050c117116)
+
+* Got Wrong.
+
+![image](https://github.com/user-attachments/assets/c0d6bb7b-1523-4095-93c9-366e1cc853be)
+![image](https://github.com/user-attachments/assets/26e6b9d5-95aa-4e7b-b4e3-f312f8726072)
+![image](https://github.com/user-attachments/assets/d9005007-bd42-4d3a-b746-96ff75fc48bf)
+![image](https://github.com/user-attachments/assets/f735a8fd-710b-46d5-88b3-c00af95bf927)
+![image](https://github.com/user-attachments/assets/04de0f71-1f17-4492-a950-d6620f3edf20)
+![image](https://github.com/user-attachments/assets/010156fc-21fe-44f8-8dc7-8a9b77db6f34)
+![image](https://github.com/user-attachments/assets/c150b575-28b2-44c9-8d72-b34d5ddd6ed6)
+![image](https://github.com/user-attachments/assets/91023a09-350b-455f-8d86-4f32ac707ec6)
+![image](https://github.com/user-attachments/assets/de9363b5-f4e6-4b45-bdb2-923690ee1f88)
+![image](https://github.com/user-attachments/assets/81b06148-8046-4ef9-8bd7-3688946c9963)
+
+* Got Wrong. [**VERY IMPORTANT**]
+* When a leading company is making a change -> We can say that the particular industry is changing.
+* Option II -> Too strict.
+
+![image](https://github.com/user-attachments/assets/42201391-9454-4b19-85cf-dd5212331e31)
+
+* Law -> Compulsory.
+
+![image](https://github.com/user-attachments/assets/ac079369-78d5-47e5-9744-80578826c4c4)
+![image](https://github.com/user-attachments/assets/f192eaf9-d901-47b9-9697-10fb47b5ea44)
+![image](https://github.com/user-attachments/assets/c6671bfb-8095-4756-982a-5b8546e97a4d)
+
+* Abhor -> Intense Hate. [Meaning]
+* Bhor -> Early morning. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b57be074-a044-4d33-9cb7-5b26e2b8d901)
 
 
 
