@@ -992,6 +992,51 @@
 * Bhor -> Early morning. [Meaning]
 
 ![image](https://github.com/user-attachments/assets/b57be074-a044-4d33-9cb7-5b26e2b8d901)
+![image](https://github.com/user-attachments/assets/df823bd4-df42-47e4-b3b6-76f235860c39)
+
+## Para-Jumble
+
+![image](https://github.com/user-attachments/assets/34b5413c-7d8e-4009-a6a7-757f0d2c6d3d)
+![image](https://github.com/user-attachments/assets/6fabb890-c94c-41d4-b29e-4d6bd9afcb34)
+
+* Got Wrong.
+* Urbane -> Sophisticated. [Meaning]
+* Gaucherie -> Uncouth/uncivilized. [Meaning]
+* Coterie -> Member of a small group/club. [Meaning]
+* Diffident -> Shy/Submissive. [Meaning]
+* Guileless -> Ingenuous/artless/naive. [Meaning]
+* Chicanery -> Trickery. [Meaning]
+
+![image](https://github.com/user-attachments/assets/995fd594-a023-4fd5-8d6f-30e86836c2f4)
+![image](https://github.com/user-attachments/assets/ed53f9c0-c8b3-4f61-93db-5a0450be90b1)
+
+* Got Wrong.
+* Miser -> Negative word.
+* Miser -> Stingy person -> Too much thrifty.
+* Thrifty -> Frugal person/ being frugal.
+* 'X' has too much of 'Y'.
+* Chauvinist -> Negative word.
+
+![image](https://github.com/user-attachments/assets/98a37b3e-9926-45e2-9144-3fbe9f9db459)
+
+* Got Wrong.
+
+![image](https://github.com/user-attachments/assets/c6b1c6ac-013f-4f05-8b36-69894440fe9c)
+
+* We can use all '3' strategies for doing **para-jumbles**.
+
+![image](https://github.com/user-attachments/assets/76683c49-a534-4d67-85e7-1b8c509eb403)
+![image](https://github.com/user-attachments/assets/6b626d5a-f5d1-4234-9661-25966f473158)
+
+* 22mins.
+
+
+
+
+
+
+
+
 
 
 
