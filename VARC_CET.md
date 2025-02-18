@@ -1058,6 +1058,104 @@
 
 ## Statement Assumptions
 
+![image](https://github.com/user-attachments/assets/f4252224-f2fc-4076-95c1-9e11f984e400)
+
+* Assumptions.
+
+![image](https://github.com/user-attachments/assets/f2745004-3c5e-4ac7-80de-c9e15f9e0d51)
+![image](https://github.com/user-attachments/assets/0d90edf7-c4c4-45d3-9342-88c619db7cf5)
+![image](https://github.com/user-attachments/assets/c3b8005f-4b5a-4489-9af3-0a7c34c63e39)
+
+* Assumption I -> No evidence.
+
+![image](https://github.com/user-attachments/assets/9c6de9b2-5028-4bb7-b674-59e5189f4ded)
+![image](https://github.com/user-attachments/assets/9fea68c6-3810-47f9-90e5-bee972d0f836)
+
+* Got Wrong. [**VERY IMPORTANT**]
+* Author is positive about nano-technology.
+* Option D -> Too strict.
+
+![image](https://github.com/user-attachments/assets/faf4f84a-2c48-4e86-9a6c-8f65a0234325)
+![image](https://github.com/user-attachments/assets/419205f2-0d30-41ef-83a9-21d24dffd972)
+![image](https://github.com/user-attachments/assets/35db689a-3ac1-4093-be9d-5a00c3a0deee)
+
+* Got Wrong. [**VERY IMPORTANT**]
+* Assumption I and II -> Course of Actions.
+
+![image](https://github.com/user-attachments/assets/8b5d254b-2aa5-483d-9d7f-72e3b7f16149)
+![image](https://github.com/user-attachments/assets/528ae401-d3ed-40d7-95d4-325b905a359d)
+![image](https://github.com/user-attachments/assets/2bbbde2d-7450-4321-b0fb-47962716029d)
+![image](https://github.com/user-attachments/assets/07ba204a-b797-43f2-bf06-a8ef7eb04c15)
+
+* Got Wrong. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7e78069a-8868-4ac2-9285-5eba69fd6a39)
+![image](https://github.com/user-attachments/assets/e84024aa-d982-4506-8e9b-79db2ad49ef1)
+![image](https://github.com/user-attachments/assets/778e82cd-2407-4812-8eda-7496a13a1820)
+![image](https://github.com/user-attachments/assets/4fc01d88-9dc3-405a-b8f6-6a8e54094c2d)
+![image](https://github.com/user-attachments/assets/3da34fcd-5037-4534-b4d1-d1a961a1989c)
+![image](https://github.com/user-attachments/assets/61a9f6ae-71ad-4941-b427-008fd7bce0dc)
+![image](https://github.com/user-attachments/assets/ec01b564-2969-42d8-928b-f1bb3249a7d3)
+![image](https://github.com/user-attachments/assets/cc1962f4-3950-4323-ba62-da5edd768fee)
+![image](https://github.com/user-attachments/assets/76811b52-ddb7-445d-9764-60f13ca2e3a9)
+![image](https://github.com/user-attachments/assets/d49213be-7384-471d-9247-663da15fe5c0)
+![image](https://github.com/user-attachments/assets/efa04ecc-8c0e-4b01-8e81-be1a8df790be)
+
+* Got Wrong. [**VERY IMPORTANT**]
+* Mandatory -> Compulsory. [Meaning]
+* Assumption II -> Inefficiency -> Problamatic word.
+
+![image](https://github.com/user-attachments/assets/ffeb6066-ea3e-477a-ac7e-421e57495865)
+![image](https://github.com/user-attachments/assets/1d0f17d1-7cea-4599-bd7b-e911a4f1b083)
+![image](https://github.com/user-attachments/assets/54acaf39-c768-4e1f-bc32-cf99465af0ab)
+![image](https://github.com/user-attachments/assets/0c1fb3cb-9ed4-447b-9786-1e7ab25090c5)
+![image](https://github.com/user-attachments/assets/9fd15063-cec0-41a4-aa40-e3689d9e54d9)
+![image](https://github.com/user-attachments/assets/0a59a1c1-49c0-485e-9a11-e33d4f09dd10)
+
+## RCs
+
+![image](https://github.com/user-attachments/assets/c230b125-6bac-4716-b964-0d8511590285)
+![image](https://github.com/user-attachments/assets/4faf5030-f795-4da2-b35c-0ad0e2d6bde8)
+
+1) Speed.
+2) Accuracy.
+
+![image](https://github.com/user-attachments/assets/12de6b1f-8ebf-44e6-873c-b4d2a0f638cb)
+![image](https://github.com/user-attachments/assets/5e04968f-8845-4082-939f-7a50208de454)
+![image](https://github.com/user-attachments/assets/21e278da-a129-4a25-8715-74b0ec3c028c)
+![image](https://github.com/user-attachments/assets/914ab364-06f1-41c8-a284-528857521dc5)
+![image](https://github.com/user-attachments/assets/5f1da0ba-82b1-4265-8995-257342f653c7)
+![image](https://github.com/user-attachments/assets/9bab48ed-7298-4aea-ba48-24863f3362aa)
+![image](https://github.com/user-attachments/assets/b1a6ea44-8b36-44e0-a0e6-f3ac6bc14d79)
+![image](https://github.com/user-attachments/assets/4dbc6182-0138-4f21-b640-9b98bc9e2e11)
+
+* Before reading the passage, look/read the **questions**. Don't read the **options**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/968f8d2d-bc44-46b1-9e69-a6d897eaf669)
+![image](https://github.com/user-attachments/assets/8151d027-a422-4dfc-9819-48394b0ad7d4)
+
+
+* In the black -> Idiom -> To be in the profit or debt-free. [Meaning]
+* In the red -> Idiom -> To be in loss or in debt. [Meaning]
+
+![image](https://github.com/user-attachments/assets/87e482e6-a980-44ce-873b-82b4aecc39eb)
+![image](https://github.com/user-attachments/assets/a49c8f1e-32b5-459b-a07b-5dcee6e3e49b)
+![image](https://github.com/user-attachments/assets/6b87406b-50b8-4d0e-88ec-278ecdcae2a3)
+![image](https://github.com/user-attachments/assets/a7b24010-81b2-4370-80b3-fe5eb8d2088c)
+![image](https://github.com/user-attachments/assets/3ba23b9a-1c91-4de4-8f7e-52b2c42d4f9f)
+![image](https://github.com/user-attachments/assets/52c4e586-e800-4ec1-afcc-fd3def428b3e)
+![image](https://github.com/user-attachments/assets/65d7812b-9e8f-41bb-91fb-0bae47c022e5)
+![image](https://github.com/user-attachments/assets/d0f2a3db-2b74-40e1-9650-1987bd0c9962)
+![image](https://github.com/user-attachments/assets/0d6273bd-b639-4091-8849-85b3af498cd4)
+
+* 6th Feb 2025 RC class.
+
+
+
+
+
+
+
 
 
 
