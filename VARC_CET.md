@@ -1150,26 +1150,59 @@
 
 * 6th Feb 2025 RC class.
 
+![image](https://github.com/user-attachments/assets/f0b52c4a-4d01-470f-80e4-c758c8e715f6)
+![image](https://github.com/user-attachments/assets/6447e31c-09a6-4a43-a33b-4f308f4a5be4)
 
+* Got Wrong. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/d0209e14-8378-4281-9f19-ec2b4b71e92d)
+![image](https://github.com/user-attachments/assets/ea7a8672-70ba-48a2-a8e8-8edf4053b21f)
 
+* Enjoins -> To request. [Meaning]
+* Effaces -> Wipe off/Cancel out. [Meaning]
+* Obtrudes -> Kind of an obstacle. [Meaning]
 
+![image](https://github.com/user-attachments/assets/4b9f1163-b5db-4c3a-bcdd-83baa107b155)
+![image](https://github.com/user-attachments/assets/1983e828-5a54-4056-bf90-5aece6d1ae5b)
+![image](https://github.com/user-attachments/assets/346f0a38-3bc8-4331-bf34-402f2fe5dbe3)
+![image](https://github.com/user-attachments/assets/96bed5a7-1b5d-4a35-8457-db339eb4f875)
 
+* Option **A**.
+* Got Wrong. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/66816e77-7f1e-4fd5-81f3-69e6a9aa6874)
+![image](https://github.com/user-attachments/assets/dbae3348-cad3-4b10-8b9b-b1670a0c3e90)
+![image](https://github.com/user-attachments/assets/f8af0529-c632-4917-8a95-9b5a3f8196aa)
+![image](https://github.com/user-attachments/assets/e2344679-b883-428d-9d9b-9181cf96e385)
+![image](https://github.com/user-attachments/assets/9b11dd4b-0ad2-40a4-9ffd-2500896d2145)
+![image](https://github.com/user-attachments/assets/16ed898b-54d7-453f-94fa-dc8c264b0e12)
+ 
+* Secularization of curriculum -> Religion and education will not be connected. [Meaning] [**VERY IMPORTANT**]
+* No religious teachings in schools.
 
+![image](https://github.com/user-attachments/assets/d1f3e562-a3f0-47c3-bcf5-cf0c999d302b)
+![image](https://github.com/user-attachments/assets/38e264eb-0ed2-4339-af2b-4b38d2fd13dc)
 
+* Clerical -> Related to religious studies. [Meaning]
+* Clergy -> Priests. [Meaning]
 
+![image](https://github.com/user-attachments/assets/f8e0ad87-d6bc-45b0-881f-e75f0f60b8f8)
+![image](https://github.com/user-attachments/assets/41ec34c9-e40a-48fd-ae08-ff9d0ac25182)
+![image](https://github.com/user-attachments/assets/3f45d892-bb98-4585-b530-d5dbccf7fca1)
+![image](https://github.com/user-attachments/assets/cb097bc7-a992-46ca-9b8a-85292b8bca56)
+![image](https://github.com/user-attachments/assets/2df5a82b-b2ec-4858-bdac-7f34e1960bbf)
+![image](https://github.com/user-attachments/assets/ee60d39f-018f-4f94-9ef3-909a78cb656f)
+![image](https://github.com/user-attachments/assets/cf42c3e0-b835-4052-a96b-d7ba0f4ba933)
+![image](https://github.com/user-attachments/assets/34b156eb-a993-4871-a047-41cc3998d33b)
+![image](https://github.com/user-attachments/assets/9021c1cf-a8e8-4fbf-b54b-a0f493a37884)
+![image](https://github.com/user-attachments/assets/dd49eeb9-5381-4310-86ef-c0628c66b4c9)
 
+* Got Wrong. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/fb433df3-68a8-41a1-a5db-497b7022ce0a)
+![image](https://github.com/user-attachments/assets/0507ee62-ad1c-4641-bbf9-4594246acc9b)
 
-
-
-
-
-
-
-
-
+## Grammer
 
 
 
