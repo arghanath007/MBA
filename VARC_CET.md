@@ -1343,6 +1343,31 @@
 * [**VERY IMPORTANT**]
 * measures -> Plural.
 
+![image](https://github.com/user-attachments/assets/434fa3f9-02f8-4bd1-a582-5ee9408c855e)
+![image](https://github.com/user-attachments/assets/78a43edd-d8ab-4b51-bec1-7d3db7d801af)
+![image](https://github.com/user-attachments/assets/64767e8f-6139-4205-be62-d1387b424ae4)
+![image](https://github.com/user-attachments/assets/9fe3337d-a33b-4441-b16c-743c52dd8dbe)
+![image](https://github.com/user-attachments/assets/b48c3925-1eb0-4a8a-944d-622be293d3f0)
+![image](https://github.com/user-attachments/assets/d8dd1166-ce6e-4a39-84f2-19b975ecc5ae)
+![image](https://github.com/user-attachments/assets/bae60098-669b-49f8-bb2e-ba1262056120)
+![image](https://github.com/user-attachments/assets/b75aaad3-b753-4e06-950a-10cef0feb9ae)
+![image](https://github.com/user-attachments/assets/99050a96-319c-46ca-b8d2-6cc66cdce4be)
+![image](https://github.com/user-attachments/assets/3972de50-1525-4b08-8b2c-33c8eadeaac3)
+![image](https://github.com/user-attachments/assets/c35e6812-9db4-4c54-b660-d0ea280f740a)
+![image](https://github.com/user-attachments/assets/5bed4482-1f71-45aa-945c-4d2edd46f17e)
+![image](https://github.com/user-attachments/assets/4bbc990a-9646-4cca-b37f-13405e6f91d5)
+![image](https://github.com/user-attachments/assets/c39731d6-a537-4bde-9a17-ff0361771824)
+![image](https://github.com/user-attachments/assets/fa974077-fe8a-4076-a16b-70827cdcdd87)
+![image](https://github.com/user-attachments/assets/7e207d96-7650-42ce-9851-f8a7e975d739)
+![image](https://github.com/user-attachments/assets/813e923b-b01f-472e-9385-7a16744773ab)
+![image](https://github.com/user-attachments/assets/d71cc088-edf1-4ff4-85ae-64de10f73ac1)
+![image](https://github.com/user-attachments/assets/8e419435-446d-491c-969b-46a8c3c6d39a)
+![image](https://github.com/user-attachments/assets/c5d5dc80-08f5-4a1c-80eb-555a16adca56)
+![image](https://github.com/user-attachments/assets/e0ddfcef-db96-4517-928a-d02ceec7c43d)
+![image](https://github.com/user-attachments/assets/cbe89919-1a73-4d1f-95a0-617840cf82c7)
+![image](https://github.com/user-attachments/assets/6b3f4a5d-7809-4a7d-8a44-238deaa65765)
+![image](https://github.com/user-attachments/assets/5bd06897-453c-411e-9a37-193632d8f590)
+![image](https://github.com/user-attachments/assets/82e9e90c-c893-4de9-8a56-59f131709b64)
 
 
 
