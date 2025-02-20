@@ -1204,6 +1204,170 @@
 
 ## Grammer
 
+![image](https://github.com/user-attachments/assets/a2727752-406d-4bd6-925d-077803ec70a7)
+![image](https://github.com/user-attachments/assets/3bf5b84e-50c3-4012-bcad-0e119001b9d1)
+
+* Ignore punctuations. It should be either a grammartical rule or spelling. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/cffdb521-e995-40a5-a4f1-83bb1d1eb2e1)
+![image](https://github.com/user-attachments/assets/452ad2f4-fff3-4000-8af2-9a6926c0b9d1)
+
+* Plural of equipment -> "equipment" only. [**VERY IMPORTANT**]
+* Plural of deer -> "deer" only. [**VERY IMPORTANT**]
+* Plural of sheep -> "sheep" only. [**VERY IMPORTANT**]
+* Singular/Plural of news -> "news" only. [**VERY IMPORTANT**]
+* Plural of information -> "information" only. [**VERY IMPORTANT**]
+* Plural of advice -> "advice" only. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/0016de08-60b1-4ea2-8ca5-36d346b66486)
+![image](https://github.com/user-attachments/assets/c2759237-60ba-4223-b2d0-ccc7de4aa3a4)
+![image](https://github.com/user-attachments/assets/c11744af-99bd-4d30-b290-f3f6e10d2443)
+
+* Each -> Singular word.
+* Themselves -> Plural word.
+* Oneself -> Singular word.
+* Yes, "themselves" is the plural form of the reflexive pronoun "themself" when referring to a plural subject. It is used both for living things and inanimate objects.
+
+![image](https://github.com/user-attachments/assets/ffcb3bfb-1afc-4219-9a4d-c576de422b03)
+
+* Economical -> Reasonably priced. [Meaning]
+* Conducive -> Good for something. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/75b7d16c-2c0e-4242-8622-41d4cf9c042e)
+![image](https://github.com/user-attachments/assets/0b5c8d12-3a07-4f9e-a0c8-52ba53e7a6dc)
+![image](https://github.com/user-attachments/assets/af77b6b5-8c85-4751-a4d2-7fb746cda9fd)
+
+* it's -> it is -> shortform.
+* its -> Shows ownership/Belongings.
+
+![image](https://github.com/user-attachments/assets/1b4632ae-8e8b-4564-9031-42d88aea63d7)
+![image](https://github.com/user-attachments/assets/adfa6710-b994-43dc-aeb7-236db860021e)
+
+* I have a car, its color is black -> Correct. 
+
+![image](https://github.com/user-attachments/assets/d8b4f2a9-6def-458c-8d77-a7dba0cf17fd)
+![image](https://github.com/user-attachments/assets/2981d03d-dda5-456a-8218-5e0ea147d9f9)
+![image](https://github.com/user-attachments/assets/be919028-ff0b-46f3-892f-2bd4e87a0fde)
+![image](https://github.com/user-attachments/assets/dd4f4506-3294-4a26-b1df-1bee5944fd56)
+![image](https://github.com/user-attachments/assets/0d824018-e76b-402d-8bce-83be98a27dfa)
+![image](https://github.com/user-attachments/assets/dcbf45a0-69fe-4b04-a85f-b3177e555dfe)
+
+* Correct -> in/into -> Depends on the context.
+* Dwell -> on -> On comes with dwell.
+
+![image](https://github.com/user-attachments/assets/37507a23-372c-49d4-8a92-3745c17d14d9)
+![image](https://github.com/user-attachments/assets/c583fade-a0d7-4b6d-be18-ef81ee7fc055)
+![image](https://github.com/user-attachments/assets/5ead10a2-5fc4-44ab-bba7-e79d60c69fee)
+
+* School -> Singular.
+* Their -> Plural.
+* its -> Singular.
+
+![image](https://github.com/user-attachments/assets/63c43016-0896-46f0-bc23-444d662bf71b)
+![image](https://github.com/user-attachments/assets/03009b8c-4dd2-47ec-be16-b4f33739123f)
+![image](https://github.com/user-attachments/assets/9761726c-942c-45bf-8c46-4f48fd1e64a0)
+![image](https://github.com/user-attachments/assets/a16fc2fb-a576-4989-988a-89c9e3d3c8d7)
+![image](https://github.com/user-attachments/assets/56bd6e6e-4638-42c9-b1f6-d91b68fd457a)
+![image](https://github.com/user-attachments/assets/87105e1e-5ca8-441a-936d-02e7b2c4db89)
+![image](https://github.com/user-attachments/assets/6c2f00fe-b4f7-462c-a560-2679f07f73ac)
+
+* Multitude of strategies -> Correct.
+* Multitude of strategy -> No.
+
+![image](https://github.com/user-attachments/assets/e088b79f-1fed-4edc-93bc-02431b7fc47b)
+![image](https://github.com/user-attachments/assets/66bd63f1-4ff3-4595-856c-df1615bdef5e)
+
+* Got Wrong. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9d08647a-b2e1-4469-9599-84e288905ff9)
+![image](https://github.com/user-attachments/assets/020bf810-c1cf-4d06-a700-7e17964f36e9)
+
+* Actually all '3' are correct.
+
+![image](https://github.com/user-attachments/assets/94b992b4-b9a6-490c-a802-9eb6fbe295e2)
+![image](https://github.com/user-attachments/assets/9edf6988-242d-4ca1-bb64-ab7def1ab1a1)
+
+* battles -> Plural. [**VERY IMPORTANT**]
+* its -> Singular.
+* their -> Plural.
+
+![image](https://github.com/user-attachments/assets/44fe0155-66f8-4306-aeac-4c9672eb5121)
+![image](https://github.com/user-attachments/assets/fdac9643-a7af-4a03-80b1-a45dc7742094)
+
+* [**VERY IMPORTANT**]
+* Statement is in the **past**.
+* had -> Past.
+* have -> Present.
+
+![image](https://github.com/user-attachments/assets/c31e6e7a-397c-47b1-b077-f5f40de940f2)
+![image](https://github.com/user-attachments/assets/0d2af473-6af1-409a-b656-e115012ee75f)
+![image](https://github.com/user-attachments/assets/59f03aca-da49-4157-87c4-ca7b6eed6836)
+
+* [**VERY IMPORTANT**]
+* Relics -> Old things. [Meaning]
+* Showcase -> Already known/ Already have it and you show it to the world. [Meaning]
+* Bring to light -> Discovering them rather than showing them/Attention/Focus/Highlight. [Meaning]
+* Highlight -> Bringing attention to them. [Meaning]
+
+![image](https://github.com/user-attachments/assets/5ecc8e80-4522-4ad4-a5ca-08e3b9534e69)
+![image](https://github.com/user-attachments/assets/80673b97-f54d-40c6-9879-1e7efa4cdd58)
+![image](https://github.com/user-attachments/assets/8f71b2a7-605a-41c7-83e2-2bc7613a2397)
+![image](https://github.com/user-attachments/assets/80481142-9761-48c8-9f98-94b4f811b794)
+![image](https://github.com/user-attachments/assets/910c1266-ed2b-4c40-b3cf-ef74ece6b7fc)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9eb6da3e-566c-44c7-bd93-53ec175b8e46)
+
+* [**VERY IMPORTANT**]
+* "To" is used -> When "A" is doing something to "B". [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9f355241-9e48-4b68-880d-a7a13dd73eee)
+
+* of.
+
+![image](https://github.com/user-attachments/assets/5ac7b4fa-d9de-4274-bd6c-1c13c41db3d7)
+![image](https://github.com/user-attachments/assets/6e2e9f9f-025a-4834-bde7-60d089ee86e2)
+
+* of/for.
+
+![image](https://github.com/user-attachments/assets/9d86343f-e82a-4eac-99e9-4dc6c4f29802)
+![image](https://github.com/user-attachments/assets/154d1600-9d21-4dca-9ae2-028745ec2535)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/e55b8d43-17de-4689-9d0d-92e714ae8eff)
+![image](https://github.com/user-attachments/assets/7fb916bd-730c-448c-8781-92caf6761278)
+![image](https://github.com/user-attachments/assets/5cc1c4cc-ea55-471d-ad0f-bd35ca84d0fa)
+
+* [**VERY IMPORTANT**]
+* measures -> Plural.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
