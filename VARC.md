@@ -71,6 +71,180 @@
 
 ![image](https://github.com/user-attachments/assets/db00187a-eebe-434f-8387-40d334d0f1bf)
 
+### RC (3)
+
+![image](https://github.com/user-attachments/assets/aee4e280-3056-491e-9583-6b9fd3889e70)
+![image](https://github.com/user-attachments/assets/be117172-ae10-422f-ab32-c3d9e2d838f5)
+![image](https://github.com/user-attachments/assets/92c4cb21-bd2f-4d50-9942-24d152c2f6e2)
+![image](https://github.com/user-attachments/assets/5beff149-5723-4754-bf3f-b77717281a04)
+![image](https://github.com/user-attachments/assets/5b1cd883-30b3-4a83-bc2e-5e1314ccf859)
+
+* Link -> https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/readers
+
+![image](https://github.com/user-attachments/assets/c26ee86a-a535-49d2-91c6-092105c974e7)
+
+* Vocab(2) revision.
+
+![image](https://github.com/user-attachments/assets/4ce59d09-f753-417d-8873-777f7f93213b)
+![image](https://github.com/user-attachments/assets/12c93d7f-1f8d-4b8c-a382-0bbfc982da96)
+
+* Conundrum -> Confusion/Dilemma. [Meaning]
+* Inhibition -> When something stops us from doing something. [Meaning]
+
+![image](https://github.com/user-attachments/assets/2a855241-925b-477a-9258-ae145251deff)
+![image](https://github.com/user-attachments/assets/98744e7e-d381-4965-914a-179dc0664583)
+
+* Patronage -> Supporter/Financial backer. [Meaning]
+* Clientelism -> You have my back, I will have your back. [Meaning]
+* Venality -> Corruption. [Meaning]
+* Preferment -> Preference and advancement. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b9a05a8b-8e2e-412c-b4a6-f1f922803c97)
+
+* Critical -> Analysing/Analytical/Reading between the lines. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d5969f02-d7a5-4d4b-b555-ea8bc85ab723)
+![image](https://github.com/user-attachments/assets/bf5eaf4c-49c9-404e-8e67-f57c6bced20c)
+![image](https://github.com/user-attachments/assets/f6c69724-1558-4b51-b70c-436fc5c6315f)
+![image](https://github.com/user-attachments/assets/a1684bf2-8417-40aa-b9da-7e27b20228b5)
+![image](https://github.com/user-attachments/assets/6e364499-5774-4086-a387-3cf664ba8f07)
+![image](https://github.com/user-attachments/assets/53f6117a-8e3c-44ee-9c1e-4dcd4a8ef2fb)
+
+* Transition words.
+
+![image](https://github.com/user-attachments/assets/4a2598e2-4571-42a1-a04f-0c182536ecf1)
+
+* extravagant -> A lot of expenditure. [Meaning]
+
+![image](https://github.com/user-attachments/assets/e9b5e366-5eb7-4eaa-b08e-39de8a67e589)
+![image](https://github.com/user-attachments/assets/301fb910-ca2d-416c-89a6-deae38e51617)
+![image](https://github.com/user-attachments/assets/2ede1411-5354-44f2-a44a-315e637ce6b7)
+![image](https://github.com/user-attachments/assets/77fa2c59-91d4-4384-84e9-686fbafca37e)
+
+* redundant -> Extra/Not needed. [Meaning]
+
+![image](https://github.com/user-attachments/assets/f6cde563-6bf1-45b5-bdb0-e9837f14a9c1)
+
+* Sarcastic -> Taunting me/Ironically making fun -> Mocking effect. [Meaning]
+
+![image](https://github.com/user-attachments/assets/67d2f4e8-aa79-40ad-8ed2-c20ea0083004)
+![image](https://github.com/user-attachments/assets/cd0097b2-b704-48c6-a2ce-20d9dbf59cfe)
+![image](https://github.com/user-attachments/assets/4a4d8f4c-ee04-4a9a-bddb-a9f10ac4ca49)
+
+* Humorous -> Plain Joke. [Meaning]
+* sarcastic -> Taunting/Mocking/Irony. [Meaning]
+
+![image](https://github.com/user-attachments/assets/22997fd3-a50c-4c31-bf21-6e310d39d8df)
+
+* Tragic tone -> Sad/Lament.
+
+![image](https://github.com/user-attachments/assets/e9d0ad7b-b913-494e-8d0e-74d970bd45fd)
+![image](https://github.com/user-attachments/assets/fc7ff297-497f-448e-ac48-ce022f97b3cf)
+![image](https://github.com/user-attachments/assets/14e0dbc4-2d58-461a-b57f-7264ceb0c772)
+![image](https://github.com/user-attachments/assets/0fedd848-a40f-440e-b248-5fc84da77c62)
+![image](https://github.com/user-attachments/assets/1d1606bb-bd8c-45ae-aed8-a7544e29eca0)
+![image](https://github.com/user-attachments/assets/1827bb4b-8cf6-4d58-829f-a87cbd13a9b8)
+
+* 1st paragraph.
+
+![image](https://github.com/user-attachments/assets/af0848c7-ac84-4682-852b-b059297fd72c)
+![image](https://github.com/user-attachments/assets/0e93d86b-6c06-462d-a16a-ce43daf6963b)
+![image](https://github.com/user-attachments/assets/34f7f59a-b92e-4a78-92bc-9feb2b4a384f)
+![image](https://github.com/user-attachments/assets/da4ebf5e-65a1-40b5-b5e6-c31b5ea8790c)
+![image](https://github.com/user-attachments/assets/4c0862fa-b675-407c-8a7c-c8e664a0cd30)
+![image](https://github.com/user-attachments/assets/c3abbd8c-1ddb-464e-97a1-619a7f2da705)
+
+* Posit -> To put forward an idea. [Meaning]
+
+![image](https://github.com/user-attachments/assets/2f1acb58-4285-4e27-bfe9-b9e2a2993f51)
+![image](https://github.com/user-attachments/assets/dde3e48e-b345-4bb9-b8fa-40c214b211d0)
+![image](https://github.com/user-attachments/assets/a235b26d-f5d3-4ba3-a17d-416739d651bd)
+
+* Factual -> Facts, Facts and more facts. [Meaning]
+
+![image](https://github.com/user-attachments/assets/5005b97a-d293-474b-92e2-02503e97d978)
+![image](https://github.com/user-attachments/assets/97b27a10-d5ae-4716-8189-bc9cc8dcde48)
+![image](https://github.com/user-attachments/assets/9de53de7-273f-4467-b906-b2263e161586)
+
+* Important words from Author(Pay extra attention) -> Somewhat suprisingly/Ironically/suprisingly/unfortunately. [**VERY IMPORTANT**]
+* Findings in a passage -> Always read them carefully. [**VERY IMPORTANT**]
+* Premise -> Reason. [Meaning]
+
+![image](https://github.com/user-attachments/assets/665e402c-cdb6-44e1-8830-e80f8f357b45)
+![image](https://github.com/user-attachments/assets/2e9f143b-9508-4702-bc2a-f3ab94ae4bb8)
+![image](https://github.com/user-attachments/assets/11406a62-65f7-492b-ade6-94816ae90197)
+![image](https://github.com/user-attachments/assets/72abd723-8b24-49a4-ac4f-a7f5d3ab9de8)
+![image](https://github.com/user-attachments/assets/07a501b7-430d-44a3-9659-b3fc2c85c01b)
+![image](https://github.com/user-attachments/assets/5e5f3732-2d02-4b11-8312-1636d4ab69ae)
+![image](https://github.com/user-attachments/assets/a2143be0-6afa-4886-bb1f-34db0a9fa188)
+![image](https://github.com/user-attachments/assets/6888265e-3fdd-43a8-ab0f-89d138a40db6)
+![image](https://github.com/user-attachments/assets/0aa6c612-55c4-41c8-9b8a-0b16c470e06c)
+![image](https://github.com/user-attachments/assets/5f5f940d-f479-4414-a949-da5599fb1f0a)
+
+* diff between evidence and speculation?
+* Evidence -> Did some tests/Scientic evidence/Facts. [Meaning]
+* Speculation -> Reasoning based on inconclusive evidence; conjecture or supposition. [Meaning]
+
+![image](https://github.com/user-attachments/assets/0c417902-8ccf-45f8-9b0e-641d162c3264)
+![image](https://github.com/user-attachments/assets/ae258a86-b603-4923-92d3-71158dfc2400)
+
+* Speculation meaning.
+
+![image](https://github.com/user-attachments/assets/be5bf03b-cf81-42bf-bf1f-b5f652c9a480)
+
+* Confusing option.
+
+![image](https://github.com/user-attachments/assets/577389a6-af83-43a7-96f7-529e0f23c2c5)
+
+* Yes.
+
+![image](https://github.com/user-attachments/assets/1e694160-5af2-4522-9175-ec6e2f63b707)
+![image](https://github.com/user-attachments/assets/d9036682-6f9e-4b4d-8cc9-4a7f69b22aea)
+
+* Analysis -> Opposite of synthesis.
+* Analysis -> Don't have preformed opinion there, Arrive at an opinion/Conclusion. [Meaning]
+* Argumentative -> Persuasive Convincing. [Meaning]
+
+![image](https://github.com/user-attachments/assets/f6b1d28f-486c-4ed5-aa5c-024c607cd27e)
+![image](https://github.com/user-attachments/assets/06658b16-48fb-4dbe-819a-ef191dac89ce)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Vocab (2)
 
 ![image](https://github.com/user-attachments/assets/f9a068d3-31ce-451d-84c2-4e42ace0739f)
