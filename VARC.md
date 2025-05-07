@@ -526,6 +526,204 @@
 
 ### Vocab (4)
 
+![image](https://github.com/user-attachments/assets/c5e9b69b-9de6-47b6-b9be-1c2df2336c4c)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/34c36e34-2e4a-4184-927c-3848acc7328f)
+![image](https://github.com/user-attachments/assets/968d910e-646e-46d7-88ed-f8c97e381e8a)
+![image](https://github.com/user-attachments/assets/68a75b19-cfc5-4bdb-bde2-8b340e5fe85f)
+
+* Enervation -> Drained of energy/Tired/Fatigue. [Meaning]
+* Synonymes of Enervation -> Ennui/lassitude/Languor.
+* Vigour -> Energy.
+* Lethargy -> 
+
+![image](https://github.com/user-attachments/assets/d4788eaf-9687-4068-8494-34f10ba91e25)
+![image](https://github.com/user-attachments/assets/b4593192-0d9e-45ca-b5de-e9226f824c05)
+![image](https://github.com/user-attachments/assets/df263e6c-a16b-4d12-a92f-e7464e6b2ac4)
+
+* Defect(Noun) ->
+* Defected(Verb) -> Abandon and change sides. [Meaning]
+* Renegade(Noun) -> Traitor/defector -> Negative connotation.
+* Tergiversate(Verb) -> Back Turn. [Meaning]
+* Ver -> Turn.
+* Tergi -> Back.
+* Relegate(Verb) -> Whatever your rank is and I have given you a rank below that rank -> Demotion. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b19083a5-fb06-4890-8984-ce87efa1acdb)
+
+* Option **C**.
+* Abstruce -> Synonymes of Esoteric.
+* Esoteric -> Difficult to understand. [Meaning]
+* Recondition -> To condition someone again. [Meaning]
+* Recondite -> Synonymes of Esoteric.
+* Recondite, Esoteric, Abstruce -> Synonymes.
+
+![image](https://github.com/user-attachments/assets/80fdf04a-a7e9-4820-9c22-19c199b5d0fb)
+![image](https://github.com/user-attachments/assets/c9d3c6af-825e-434b-8c86-1adac05dd9dd)
+
+* Interstices -> Small little time interval. [Meaning]
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/02fcfaf6-1cbe-4295-92d8-42f1a8807b00)
+![image](https://github.com/user-attachments/assets/9cd70b00-8ae0-46fa-8f74-cfb764cca630)
+![image](https://github.com/user-attachments/assets/958d2aea-fde7-4f4c-84b5-2c865015a2f1)
+
+* Amicable -> Cordial/Peaceful -> Used for situations. [Meaning]
+* Acrimonious ->
+* Acri -> Bitter/Acid/Hostile -> Used for speak. [Meaning]
+* Acrid -> Pungent smell. [Meaning]
+* Amiable -> Cordial/Peaceful -> Used for people/persons. [Meaning]
+* Amiable -> Synonyme of Agreeable. [Meaning]
+* Nonchalant -> I don't care/Calm/Unbothered/Couldn't care less/very chilled out -> Slightly negative. [Meaning]
+
+![image](https://github.com/user-attachments/assets/6aa6953c-cdf3-48db-91ad-34eff315d554)
+![image](https://github.com/user-attachments/assets/0e139830-bfef-45b5-b876-518ff2d88e14)
+![image](https://github.com/user-attachments/assets/7cf27ac8-055f-4c97-99bc-2d0333a0c6ea)
+![image](https://github.com/user-attachments/assets/317bfa33-727d-4d35-8be8-27ec484da08d)
+![image](https://github.com/user-attachments/assets/7c238f27-b0b3-4069-87c8-13419b048b07)
+
+* Inky -> Associated with Ink -> Color of ink is very dark. [Meaning]
+* Iridescent, Opalescent, Kaleidoscope -> Related to brightness/presence of color/vibrant.
+
+![image](https://github.com/user-attachments/assets/a0756617-2b79-4519-bc51-14fe5ea5e130)
+![image](https://github.com/user-attachments/assets/d706f48f-a3ff-470c-aabe-800dd36f7477)
+![image](https://github.com/user-attachments/assets/63fd80be-c359-42fd-a8a1-2c73808f2b16)
+![image](https://github.com/user-attachments/assets/8d0d12aa-ae9e-4b07-a3eb-f15318fcc569)
+![image](https://github.com/user-attachments/assets/76e5a829-fa11-427d-ac19-788e4892586e)
+
+* Nonchalance -> Indifferent -> Can be used negatively as well. [Meaning]
+* Lucid -> Clearly expressed. [Meaning]
+* Luc -> light.
+* Panacea -> Cure for all. [Meaning]
+* Elucidation -> To explain something/To throw light on something. [Meaning]
+* Warped -> Twisted. [Meaning]
+* Specious -> An argument for which we give XYZ reasons -> Misleading arguments. [Meaning]
+
+![image](https://github.com/user-attachments/assets/63c355d7-22ba-4756-9ddf-e970a2229ec9)
+![image](https://github.com/user-attachments/assets/b92907a3-7e9e-4e8f-b584-b8fddb8eb205)
+
+* Quixotic -> Very idealistic/Unrealistic. [Meaning]
+* Distopian -> Worst imageneable world. [Meaning]
+* Orwellian -> Synonyme of Distopian.
+* Regressive -> 
+
+![image](https://github.com/user-attachments/assets/114eb0f7-c0d9-4b7e-9465-92b1ee145d25)
+![image](https://github.com/user-attachments/assets/4be3582e-641b-4a3a-86df-6bdef8d6f799)
+![image](https://github.com/user-attachments/assets/06e12e1b-1c47-4a48-83e6-6f3a2806a677)
+![image](https://github.com/user-attachments/assets/82713286-8ae3-42c3-b57c-2e7895c6b008)
+![image](https://github.com/user-attachments/assets/3a7bb3c3-8803-4724-a9ae-83b8da316973)
+![image](https://github.com/user-attachments/assets/9810fc02-5c7b-4bbe-b02e-7dbb1851b658)
+![image](https://github.com/user-attachments/assets/aa9e0396-38f2-472e-ab3d-65ea38338f3c)
+![image](https://github.com/user-attachments/assets/43d48a10-ec06-452c-b43d-feb263d5713b)
+![image](https://github.com/user-attachments/assets/03480ccc-87f9-4451-80a6-aa7997ed9b69)
+![image](https://github.com/user-attachments/assets/b097c493-75e0-4e69-8398-6a0ea5aabbaf)
+![image](https://github.com/user-attachments/assets/05d4e6ba-1789-404a-8db5-02f38c0f182d)
+
+* Luddite -> Someone who is conservative.
+* Start from 1hr 18mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
