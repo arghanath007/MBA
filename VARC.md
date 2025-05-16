@@ -632,10 +632,73 @@
 * Blandishment -> the act of urging by means of teasing or flattery. flattery intended to persuade. [Meaning]
 * Coax(Verb) -> Synonyme of Blandishment.
 
+![image](https://github.com/user-attachments/assets/e009cfff-fcbf-4832-af0d-ff73a3e3760c)
+
 * Compliment -> Praising someone. [Meaning]
 * Complement -> When something goes along with other things -> Means to complete. [Meaning]
 * Principle -> Adarsh(Hindi meaning) -> The collectivity of moral or ethical standards or judgments. [Meaning] 
-* Principal -> Amount
+* Principal -> Amount/A main participant in a situation, especially a financial transaction -> One who holds a position of presiding rank, especially the head of an elementary school, middle school, or high school. [Meaning]
+* Homophones -> Similar sounding words. [Meaning]
+* Homo -> Similar.
+* Phone -> Sounding.
+
+![image](https://github.com/user-attachments/assets/0bedc370-eb9a-4884-b4af-62a7b39be6d2)
+![image](https://github.com/user-attachments/assets/e5026a04-f874-41b5-b3d9-50fc992ca9c1)
+
+* Reticence -> Reluctant/shy/diffident/reserved. [Meaning]
+* Equity(Noun) -> Fairness. [Meaning]
+* Equality(Noun) -> Same amount for all.
+* Iniquitous(Adjective) -> Immoral/sinful. [Meaning]
+
+![image](https://github.com/user-attachments/assets/5df5dff6-246f-4925-9c94-4c02e4904371)
+![image](https://github.com/user-attachments/assets/f699a2b9-bc58-4400-9291-1e050ac03f75)
+
+* Sobriety(Noun) -> Have been drunk for a long amount of time. [Meaning]
+* Moniker -> Synonyme of Sobriety.
+
+![image](https://github.com/user-attachments/assets/4afd32cf-ded9-4d43-8d15-b268d26eb4d9)
+![image](https://github.com/user-attachments/assets/54dec237-0c94-4136-ac09-acea7212afe4)
+
+* Cor -> Association of a body of people. [Meaning]
+
+![image](https://github.com/user-attachments/assets/73936778-93e3-43b3-9149-6f5c7b26827d)
+
+* Clinging -> Negative trait.
+
+![image](https://github.com/user-attachments/assets/13f28fcd-2b52-46e9-a26f-26aba7b256ea)
+![image](https://github.com/user-attachments/assets/dc279e9b-252c-43c1-8794-5c2c5f4e341e)
+![image](https://github.com/user-attachments/assets/2adb1474-886e-4f18-a53e-dbaf5f2dc5d2)
+![image](https://github.com/user-attachments/assets/1131ee83-9456-4864-bbf6-cdf7ee249538)
+![image](https://github.com/user-attachments/assets/261d9c1d-39ce-4e44-a45c-e090f60181b8)
+
+* Catholic -> Embracing diversity. [Meaning]
+* Apocryphal -> Dubious Authencity. [Meaning]
+* Sanguine -> Someone who is optimistic. [Meaning]
+* Cynical -> Someone who is extremely pessimistic. [Meaning]
+* Iconoclast -> Someone who breaks idols. [Meaning]
+* Icon -> Idol.
+* Clast -> breaks
+
+![image](https://github.com/user-attachments/assets/d4b59d4e-0a5d-42b5-b1d6-87863fd41324)
+
+* Inviolable -> Flout. [Meaning]
+* Invaluable -> Precious. [Meaning]
+* Valueless -> Having no value. [Meaning]
+* Voluble -> Talks a lot. [Meaning]
+* Prate(Verb) -> Very Talkitive. [Meaning]
+
+![image](https://github.com/user-attachments/assets/cf2994fd-2268-4b15-9c67-35217923c206)
+
+* Naivety(Noun) -> Gullibility. [Meaning]
+
+![image](https://github.com/user-attachments/assets/8d54cd4d-4df7-4598-9860-6c47938e4db7)
+![image](https://github.com/user-attachments/assets/9bd5183e-0ed1-4cf5-ad55-4f9a7722ed24)
+![image](https://github.com/user-attachments/assets/00e89ee3-f3a9-4933-86b4-c68e1ca3819b)
+
+
+
+
+
 
 
 
@@ -790,6 +853,7 @@
 ![image](https://github.com/user-attachments/assets/5214e666-5200-4cc2-a3cd-3e72656c23c1)
 ![image](https://github.com/user-attachments/assets/5bea245b-bfcc-49b7-b204-52af52d0d8bc)
 ![image](https://github.com/user-attachments/assets/f70f5ac7-ccc9-4db7-a2ed-4e173b18b47f)
+![image](https://github.com/user-attachments/assets/42a8d63c-aeb5-46ae-9d96-ef14be124625)
 
 
 
