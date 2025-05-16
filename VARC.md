@@ -621,8 +621,44 @@
 ![image](https://github.com/user-attachments/assets/b097c493-75e0-4e69-8398-6a0ea5aabbaf)
 ![image](https://github.com/user-attachments/assets/05d4e6ba-1789-404a-8db5-02f38c0f182d)
 
-* Luddite -> Someone who is conservative.
-* Start from 1hr 18mins.
+* Luddite -> Someone who is conservative. [Meaning]
+
+![image](https://github.com/user-attachments/assets/799f9712-13ac-4f4c-96ea-a59a21122f10)
+![image](https://github.com/user-attachments/assets/ec156fc7-86e9-415b-83b0-8f43c4b4cf2a)
+![image](https://github.com/user-attachments/assets/b61af571-916e-44d9-b3c4-a2f286e2b47b)
+![image](https://github.com/user-attachments/assets/f7928dc4-75b2-47bd-a009-a1251838c875)
+![image](https://github.com/user-attachments/assets/2681208c-8850-4040-87ce-0a7cad87198e)
+
+* Blandishment -> the act of urging by means of teasing or flattery. flattery intended to persuade. [Meaning]
+* Coax(Verb) -> Synonyme of Blandishment.
+
+* Compliment -> Praising someone. [Meaning]
+* Complement -> When something goes along with other things -> Means to complete. [Meaning]
+* Principle -> Adarsh(Hindi meaning) -> The collectivity of moral or ethical standards or judgments. [Meaning] 
+* Principal -> Amount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
