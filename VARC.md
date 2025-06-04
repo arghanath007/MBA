@@ -32,6 +32,7 @@
 
 ## VARC Course
 
+## RC Lectures
 ### RC (1)
 
 ![image](https://github.com/user-attachments/assets/7a3d8b1d-e535-41c1-addf-24c607b2a285)
@@ -243,8 +244,7 @@
 
 
 
-
-
+## Vocab Lectures
 ### Vocab (2)
 
 ![image](https://github.com/user-attachments/assets/f9a068d3-31ce-451d-84c2-4e42ace0739f)
