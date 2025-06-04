@@ -934,9 +934,37 @@
 
 ![image](https://github.com/user-attachments/assets/df8a6280-6d46-4ba6-bd43-54304d057601)
 
-### CR(7)
+### CR(6)
 
-* Conclusion 
+![image](https://github.com/user-attachments/assets/be797ec9-9b6f-4a39-a771-fc2dc1371378)
+
+* Conclusion -> Supported by all of the premises. [**VERY IMPORTANT**]
+* Inference -> Need not be supported by all of the premises. [**VERY IMPORTANT**]
+* Every conclusion is an inference but every inference is not a conclusion. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c5403589-1b4e-4fed-b58c-55708ea13813)
+![image](https://github.com/user-attachments/assets/87eed592-8177-4b96-80ef-11874eb7e646)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/d2adcd31-3c40-47c9-a5f9-232c8ddc3846)
+
+* Start from 16mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
