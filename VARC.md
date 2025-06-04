@@ -835,6 +835,10 @@
 
 
 
+## Critical Reasoning(CR) lectures
+
+### CR
+
 
 
 
