@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)# VARC
+# VARC
 
 ## VARC Article Reading Resources
 
@@ -1014,7 +1014,9 @@
 ![image](https://github.com/user-attachments/assets/f70f5ac7-ccc9-4db7-a2ed-4e173b18b47f)
 ![image](https://github.com/user-attachments/assets/42a8d63c-aeb5-46ae-9d96-ef14be124625)
 
+## Misc
 
+![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
 
 
 
