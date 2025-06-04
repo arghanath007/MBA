@@ -1,4 +1,4 @@
-# VARC
+![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)# VARC
 
 ## VARC Article Reading Resources
 
@@ -837,7 +837,162 @@
 
 ## Critical Reasoning(CR) lectures
 
-### CR
+### CR(5)
+
+![image](https://github.com/user-attachments/assets/691d3ffe-e0f0-4334-a770-5e8630f5258c)
+![image](https://github.com/user-attachments/assets/296d1aa0-23c0-45d1-bf50-1182d830e4ee)
+![image](https://github.com/user-attachments/assets/1def4cf5-ca83-4671-8146-b4764018be4b)
+
+* Premise -> Reason.
+
+![image](https://github.com/user-attachments/assets/d8ded25e-79ce-44f6-9c7d-7454ef1d466e)
+![image](https://github.com/user-attachments/assets/2642e25f-8918-40be-a00e-4acbcbbcd41c)
+
+* Evidence -> Numbers, Expert Opinions. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/7f292442-78c3-4399-9d8a-3fb832e3834c)
+
+* May/Will -> Probability -> Inductive arguments.
+
+![image](https://github.com/user-attachments/assets/b04b8cc8-f31d-45ca-a41a-6b7d6ac0914c)
+![image](https://github.com/user-attachments/assets/61cdfe7a-5396-44d7-a170-ae9c4b164202)
+![image](https://github.com/user-attachments/assets/f1d0f442-7769-459f-ad38-f58b0b5820fa)
+![image](https://github.com/user-attachments/assets/a8ca1c3d-89ea-4804-90c4-c16d3b3c6bc4)
+![image](https://github.com/user-attachments/assets/c5557b8e-8e69-4a82-87c7-7c77627be907)
+
+* Opinions -> Personal Views, Feelings. [**VERY IMPORTANT**]
+* The conclusion will never be within the premise itself. We have to derive the conclusion from the premises.
+
+![image](https://github.com/user-attachments/assets/9acbd4b1-7f73-4aae-864d-269c01a95dbf)
+![image](https://github.com/user-attachments/assets/2edebd63-ebb2-4c25-bf80-eb1e7c7472de)
+![image](https://github.com/user-attachments/assets/112892da-6837-4b5c-89f4-0d858f8ecbfa)
+![image](https://github.com/user-attachments/assets/56cbc501-5dca-42e9-bac4-26deeaebc596)
+![image](https://github.com/user-attachments/assets/b1a4307f-e6af-4bc5-95ef-a3de25fa3413)
+![image](https://github.com/user-attachments/assets/e0fde894-41b5-47c8-98e3-d23693a6cce4)
+
+* Cannot conclude.
+* Excellent is a very strong word.
+
+![image](https://github.com/user-attachments/assets/ee36ac7f-eac7-4df4-9505-f6a6d848b638)
+![image](https://github.com/user-attachments/assets/18ac055d-919f-4ab4-83b9-77f1cd6c43b0)
+![image](https://github.com/user-attachments/assets/eae7ccce-f302-4e7c-b890-f26f80b95e31)
+![image](https://github.com/user-attachments/assets/471e218e-cedd-4dab-bfc2-e550a6130d84)
+
+* Reverse causality -> Reverse causality, also known as **reverse causation**, is a phenomenon where the outcome influences the cause rather than the other way around. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/a86ba193-fdbc-41d6-8ff8-5a8f918076c9)
+![image](https://github.com/user-attachments/assets/f6e96779-81db-4710-88a5-10277f230394)
+
+* If a premise is repeated or a thing which is already written and it is being repeated then it is a valid inference/conclusion. It is **YES**. We will mark **YES** only. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/c269bddd-4460-424f-b8ee-752df8ab0a7f)
+
+* Arguments.
+
+![image](https://github.com/user-attachments/assets/01d69258-cd54-40ca-9193-eb7ae6b6b213)
+
+* Stimulus -> Premises.
+
+![image](https://github.com/user-attachments/assets/8e1607a7-1e22-4c77-a30b-cb5510a86c5b)
+![image](https://github.com/user-attachments/assets/4912d75d-1738-46aa-8a91-e1c02f3675de)
+![image](https://github.com/user-attachments/assets/ea7d23fb-a592-40be-aaea-7e3e6226618e)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/3b837779-1490-4ce7-a594-3d315bfb68e1)
+![image](https://github.com/user-attachments/assets/82d2ef7e-05d4-43a8-aa08-6d2fcd41af13)
+
+* Traps to be aware of. [**VERY IMPORTANT**]
+* Correlation doesn't imply causation. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/2d65b88b-2aa6-4ff7-83b4-4bac96c725df)
+
+* Conclusion -> It is the mainpoint -> It follows all of the premises. [**VERY IMPORTANT**]
+* Inference -> Anything that is not explicitely stated but which can be understood from the premises. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/292bfce0-845f-41ee-b636-2390d42f6618)
+![image](https://github.com/user-attachments/assets/a0eaff3b-85b9-41a1-82a2-c5fc4adc80c7)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/58e1129d-2d86-4fae-9dc4-4fa16a385722)
+![image](https://github.com/user-attachments/assets/646ffb1a-6327-4f39-9115-dc6992bb06ce)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/ec73e954-0986-4fba-953b-71a55828188a)
+![image](https://github.com/user-attachments/assets/cfbf4bde-9f38-453b-b0f9-9749e728f2f2)
+![image](https://github.com/user-attachments/assets/0d3b5792-3154-40fa-a9b7-f7092cc6ced6)
+![image](https://github.com/user-attachments/assets/a0081ef2-d3cd-44b7-9b85-98f26cc2bb1b)
+![image](https://github.com/user-attachments/assets/6a12f12a-f70f-4342-b0ac-3c23490f1008)
+
+* [Question]
+
+![image](https://github.com/user-attachments/assets/9f0aa4d5-5ee6-4e10-8741-8dac39301012)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/df8a6280-6d46-4ba6-bd43-54304d057601)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
