@@ -949,7 +949,6 @@
 
 ![image](https://github.com/user-attachments/assets/d2adcd31-3c40-47c9-a5f9-232c8ddc3846)
 
-* Start from 16mins.
 
 
 
