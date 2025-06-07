@@ -948,6 +948,39 @@
 * [Question]
 
 ![image](https://github.com/user-attachments/assets/d2adcd31-3c40-47c9-a5f9-232c8ddc3846)
+![image](https://github.com/user-attachments/assets/ac6badd1-e477-4cd8-a8f1-d1b3e7d24b07)
+![image](https://github.com/user-attachments/assets/57d31b84-c413-4579-920b-e26b59fa14cf)
+
+* Wellfare state -> Government that is based on socialist ideas.
+* Feasible -> Something that is possible to do. [Meaning]
+
+![image](https://github.com/user-attachments/assets/c44c5493-d93e-4978-bddb-0d2862c1c676)
+![image](https://github.com/user-attachments/assets/3aeea835-c687-4b44-a2da-81afa74f6318)
+![image](https://github.com/user-attachments/assets/32953841-3cfc-49a3-9e23-b4b18fccfa69)
+![image](https://github.com/user-attachments/assets/bac0968c-6c39-4b51-8437-4c3f6f819237)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/7cbe374b-f7b5-483a-a049-138e2074d196)
+![image](https://github.com/user-attachments/assets/5b4120ba-70ff-4b58-8d01-19e956928a84)
+![image](https://github.com/user-attachments/assets/9aaec212-56ce-4afc-aa82-60331d3f1c8e)
+![image](https://github.com/user-attachments/assets/215b630a-23c5-4b90-9ab2-c6b92e407dc3)
+
+* Option **D**.
+
+![image](https://github.com/user-attachments/assets/54407c13-ce62-43c3-a676-d2fc0c0277d6)
+![image](https://github.com/user-attachments/assets/95b94d67-1184-4c02-80d0-ddcfeb658359)
+![image](https://github.com/user-attachments/assets/4dcfcacb-3f59-46b0-993d-b1e3310fe658)
+![image](https://github.com/user-attachments/assets/df782c4e-57d1-442b-87ce-f1a237d0bd3e)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/daec5d6b-1a22-437a-91d0-605cb5fdf9fb)
+
+
+
+
+
 
 
 
