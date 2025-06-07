@@ -976,24 +976,52 @@
 * Option **B**.
 
 ![image](https://github.com/user-attachments/assets/daec5d6b-1a22-437a-91d0-605cb5fdf9fb)
+![image](https://github.com/user-attachments/assets/3055afe9-c51d-4ef3-8f20-e62c4da4d872)
+![image](https://github.com/user-attachments/assets/7492fb96-3c83-45a8-8510-8f8ad0d064f8)
+![image](https://github.com/user-attachments/assets/48cc541b-333f-48ea-96ad-17ac19b48c62)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/4df3598c-e1d4-4b1f-ac97-61b53db623e7)
 
+* Will -> Option **A** -> Very strong word.
 
+![image](https://github.com/user-attachments/assets/5a7a679a-53e2-40a5-ba51-db136603498a)
+![image](https://github.com/user-attachments/assets/76fc6d55-b401-480c-83bf-0208888d7ba8)
+![image](https://github.com/user-attachments/assets/31a3869e-f700-41b2-9fba-b8b215be124a)
+![image](https://github.com/user-attachments/assets/9b5e8871-0da4-417b-ba9e-17f83f1028dd)
+![image](https://github.com/user-attachments/assets/f9e373fb-81e4-4e59-8f84-403079db66c6)
 
+* Reprehensive -> Worth criticism/morally just unacceptable. [Meaning]
 
+![image](https://github.com/user-attachments/assets/2b54b209-20c3-42cf-b8de-142b8d32a827)
+![image](https://github.com/user-attachments/assets/117f2c00-d820-4ff8-ad65-ab06fcdd4c5a)
+![image](https://github.com/user-attachments/assets/8306f89a-8769-4e9a-9ed2-ce51d3925591)
+![image](https://github.com/user-attachments/assets/2c139796-056a-4d67-b708-709bc42803d6)
+![image](https://github.com/user-attachments/assets/e1752c5a-f212-46a4-9096-b5cabdf4fc7a)
+![image](https://github.com/user-attachments/assets/cc468534-30c6-46cc-a3b5-9fcc8bcf163e)
 
+* Option **D**.
 
+![image](https://github.com/user-attachments/assets/3020961d-0a32-48e5-b4da-588ce3b21f91)
+![image](https://github.com/user-attachments/assets/8d924129-ac48-4e24-a4f3-6df8a89bcb0f)
+![image](https://github.com/user-attachments/assets/a2a5ea9f-46f8-4d13-9d92-5333f50d615d)
+![image](https://github.com/user-attachments/assets/70decab6-72e7-44d0-b621-92e3e6fbd7ea)
 
+* Option **C** -> only -> Extreme word.
 
+![image](https://github.com/user-attachments/assets/2adda898-a626-47f8-9fc7-b67e1babe321)
+![image](https://github.com/user-attachments/assets/198ab57a-c831-4746-8fd6-8c5c12d969a9)
+![image](https://github.com/user-attachments/assets/b7bea0d2-71d1-4c2a-8e92-cfdf49873e95)
+![image](https://github.com/user-attachments/assets/a29e250b-8c6f-401c-97d7-27684aa93830)
+![image](https://github.com/user-attachments/assets/18dd60b1-6f39-4077-9761-92c2305243dc)
 
+* Altruism -> Generosity. [Meaning]
 
+![image](https://github.com/user-attachments/assets/2a62e95f-c346-4bbb-ad41-b8b3ace3c4a8)
+![image](https://github.com/user-attachments/assets/473de19b-f6b3-4d62-90a7-3c9a3e0e25c8)
 
-
-
-
-
-
+* Start from 29mins. (May 12th)
 
 
 
