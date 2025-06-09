@@ -1053,7 +1053,141 @@
 
 * Questions.
 
-### CR(6)
+### CR(7)
+
+![image](https://github.com/user-attachments/assets/e8814369-6e45-47ee-9f7a-03dffb02d0db)
+![image](https://github.com/user-attachments/assets/68552fc2-c0ce-45ef-9698-b67ba3c505bb)
+![image](https://github.com/user-attachments/assets/5980c4e5-d2cf-4a60-a3f2-553e174e1b19)
+
+* Option **A**.
+
+![image](https://github.com/user-attachments/assets/8c30a924-9082-44e8-9ad9-6fbc35640ca7)
+![image](https://github.com/user-attachments/assets/d7069bf0-b354-4000-8284-ddf643d61ec3)
+![image](https://github.com/user-attachments/assets/6a49871d-a1d5-4979-89e6-8b146809ab4d)
+![image](https://github.com/user-attachments/assets/6f240cff-b963-4858-9e16-073189e07ea9)
+![image](https://github.com/user-attachments/assets/815e6abd-dacf-4286-9d2a-9283fbe4339d)
+![image](https://github.com/user-attachments/assets/270a5a21-943a-4ca7-912e-a01170a16a72)
+
+* Repertory -> Collection/Stock. [Meaning]
+
+![image](https://github.com/user-attachments/assets/f79f8f37-660c-4ebe-af31-7f216047aba8)
+![image](https://github.com/user-attachments/assets/fa8f2606-0683-4b6d-a03a-5780369939cd)
+![image](https://github.com/user-attachments/assets/b9722278-a32b-4813-8aac-0a3263a18bc6)
+![image](https://github.com/user-attachments/assets/6779e7f0-eb94-4fa3-9343-a3559d315882)
+![image](https://github.com/user-attachments/assets/6a9f4195-598c-4a23-81e7-de4713d91f26)
+![image](https://github.com/user-attachments/assets/a0db4390-dc95-44d5-9b5c-069c61b0392b)
+
+* Got Wrong.
+* Answer -> Option **D**.
+* Option **A** -> Require -> It means that seratonin is the only one who can do this.
+
+![image](https://github.com/user-attachments/assets/18d94022-1d51-427a-b2d7-50bb7c0f69ca)
+
+* Mam is confused between option **A and D**.
+
+![image](https://github.com/user-attachments/assets/d3a84c65-607d-4e4f-9f21-8801fda744b3)
+
+* Final Answer -> Option **D**.
+
+
+![image](https://github.com/user-attachments/assets/92d2d88d-dfde-4e14-8d10-733bd2c03647)
+![image](https://github.com/user-attachments/assets/4931fe2c-f13f-44b0-b350-760860c79cd0)
+![image](https://github.com/user-attachments/assets/05e24984-5dbc-4bfd-8dda-d381bea56ca9)
+![image](https://github.com/user-attachments/assets/8733f36d-a5fc-4190-956a-af5148801f29)
+
+* Strengthening an Argument -> Supporting statements that are supporting the current premises.
+
+![image](https://github.com/user-attachments/assets/a9b9c386-b4ff-4906-b6d7-8f64089e37fa)
+![image](https://github.com/user-attachments/assets/df5dce94-8ed9-4fe6-aca1-597ffe7e6296)
+![image](https://github.com/user-attachments/assets/6698a788-e91e-42d8-a410-fcf149eb71ab)
+![image](https://github.com/user-attachments/assets/67622289-8412-4b64-ab1d-243e2d052619)
+
+* Strengthening an Argument.
+
+![image](https://github.com/user-attachments/assets/889ee8ba-78eb-4a11-96c5-ea8582f1de06)
+![image](https://github.com/user-attachments/assets/19a22d63-c8e6-45d6-b9b7-12692eb8dfa7)
+![image](https://github.com/user-attachments/assets/5c222769-45b2-45f7-9d97-91790d37b2a7)
+
+* Questions on Strengthening an Argument.
+* Nevertheless, Nonetheless -> They are used, when we want to introduce contradictory statements. [Meaning] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b601a583-e214-45ef-91f5-24e78678da53)
+![image](https://github.com/user-attachments/assets/fda2a8e7-f627-4172-82c2-81f87e82c723)
+
+* It dilutes the previous statement.
+
+![image](https://github.com/user-attachments/assets/6b87d17b-3900-4e77-83bd-b613874f2e51)
+![image](https://github.com/user-attachments/assets/c91fd10b-0d8d-4f8e-bd5a-903127480ccf)
+
+* Support -> Strengthen. [Meaning] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5223d739-0c7e-4643-9206-a0f782b9fd0b)
+
+* Not significantly less expensive -> Slightly less expensive or Equally priced or More expensive. [Meaning]
+
+![image](https://github.com/user-attachments/assets/f3509b23-dedb-44a2-877a-4801b37c9d0f)
+![image](https://github.com/user-attachments/assets/fffab4b4-a856-4d42-8476-475f1d27dfef)
+![image](https://github.com/user-attachments/assets/b32c38e1-b977-4cd7-bb00-818ab2f13b7e)
+![image](https://github.com/user-attachments/assets/d992e66e-7040-4b39-86a3-acbff684dbc9)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/05949625-9100-45d5-b84b-f6971a06a375)
+![image](https://github.com/user-attachments/assets/3cb82cc0-14e3-4bdb-b5f6-365f73f692d6)
+![image](https://github.com/user-attachments/assets/3e8f18c4-a5aa-46ce-999e-9a80283733ae)
+![image](https://github.com/user-attachments/assets/fdc2f712-21f1-470f-945e-f664cffee1d1)
+![image](https://github.com/user-attachments/assets/a1e20a34-7249-4891-b50b-af0fb90f6f26)
+![image](https://github.com/user-attachments/assets/789d5e25-dc72-4609-9523-27b1d297da95)
+
+
+
+* Weakening the Argument -> 1hr 40mins -> 15th May.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
