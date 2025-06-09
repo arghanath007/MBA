@@ -1020,8 +1020,105 @@
 
 ![image](https://github.com/user-attachments/assets/2a62e95f-c346-4bbb-ad41-b8b3ace3c4a8)
 ![image](https://github.com/user-attachments/assets/473de19b-f6b3-4d62-90a7-3c9a3e0e25c8)
+![image](https://github.com/user-attachments/assets/82c7b9bb-b62c-4955-9cbe-dce9cc397848)
 
-* Start from 29mins. (May 12th)
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/48db02a5-96ca-44ea-9d6a-43f72b71d4db)
+![image](https://github.com/user-attachments/assets/53be8235-27f1-4ead-8c98-ea698876f7f5)
+![image](https://github.com/user-attachments/assets/250be7af-1509-4865-ba84-9a51c7f4f6c9)
+![image](https://github.com/user-attachments/assets/9224e2f6-81b0-4c28-9896-3972a9aaa7ff)
+![image](https://github.com/user-attachments/assets/6993c90c-309b-48ee-8485-ae735188ed07)
+![image](https://github.com/user-attachments/assets/8bd74d0a-d544-491e-b87d-f240ead1285f)
+![image](https://github.com/user-attachments/assets/88dd877f-393c-4b20-be42-d5aaf66ec7f0)
+
+* Assumption.
+
+![image](https://github.com/user-attachments/assets/c532f816-4694-4be3-a937-6faaae7ee7e3)
+![image](https://github.com/user-attachments/assets/c9e64aaa-960e-443e-b484-4982a948c145)
+![image](https://github.com/user-attachments/assets/16f22c17-3176-403a-8d50-50f23e5f39c4)
+![image](https://github.com/user-attachments/assets/5e4ab207-2410-4c3a-9ea6-65f93562308e)
+![image](https://github.com/user-attachments/assets/efe4c5a8-ec76-410d-be94-be0695a7c5bc)
+![image](https://github.com/user-attachments/assets/11378b82-98e5-4e6f-83da-567b12a23305)
+![image](https://github.com/user-attachments/assets/324ade38-58bb-4d9c-84aa-12e1010edb47)
+![image](https://github.com/user-attachments/assets/eb35854f-64ab-4481-b47d-fd4abc242fc0)
+![image](https://github.com/user-attachments/assets/bb7caafa-2314-4761-86c4-08541205ffbb)
+![image](https://github.com/user-attachments/assets/f9daebc6-c205-4f65-9894-ab8723a4970d)
+![image](https://github.com/user-attachments/assets/84704215-99f2-4b6f-ba16-7e1caa10c6a8)
+![image](https://github.com/user-attachments/assets/f6131bc7-febc-44fd-bbf7-0fe252633f77)
+![image](https://github.com/user-attachments/assets/b40012b0-75c2-4e03-ac4c-ece4baf5dd00)
+![image](https://github.com/user-attachments/assets/091004d7-dfb3-4020-b419-a19dcbabd7bb)
+![image](https://github.com/user-attachments/assets/def326b8-7922-4876-8686-246253bcc780)
+![image](https://github.com/user-attachments/assets/4e35d7fb-2e37-4371-a13d-309ee9ff84b1)
+
+* Questions.
+
+### CR(6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
