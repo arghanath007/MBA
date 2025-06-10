@@ -209,10 +209,12 @@
 ![image](https://github.com/user-attachments/assets/f6b1d28f-486c-4ed5-aa5c-024c607cd27e)
 ![image](https://github.com/user-attachments/assets/06658b16-48fb-4dbe-819a-ef191dac89ce)
 
+### RC(9)
 
+![image](https://github.com/user-attachments/assets/6f48b959-1bc0-49f9-b286-e995c16faf68)
 
-
-
+* TMI -> Too Much Information -> Not needed.
+* Start from 14mins RC practice 2nd video. 
 
 
 
