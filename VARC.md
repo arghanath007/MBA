@@ -1223,8 +1223,11 @@
 
 * Weakening of arguments -> Elimination/Elimination of options -> Contradictory to the premise/Restatement to the premise/anything that is going to support the conclusion/any possible inference/something that is true and is reiterated.  [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c7011587-6ab7-454d-9d44-295728c27198)
+![image](https://github.com/user-attachments/assets/2432486d-e99f-4bea-a701-d5cd763caf76)
+![image](https://github.com/user-attachments/assets/2426f3b5-fcd6-4aa4-b45b-93a2bd3f7020)
 
-
+* [Questions]
 
 
 
