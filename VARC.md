@@ -1138,10 +1138,62 @@
 ![image](https://github.com/user-attachments/assets/fdc2f712-21f1-470f-945e-f664cffee1d1)
 ![image](https://github.com/user-attachments/assets/a1e20a34-7249-4891-b50b-af0fb90f6f26)
 ![image](https://github.com/user-attachments/assets/789d5e25-dc72-4609-9523-27b1d297da95)
+![image](https://github.com/user-attachments/assets/ecf87e75-82d0-4bde-be9b-79f75b31bd85)
+![image](https://github.com/user-attachments/assets/8520f0ce-ad68-43d7-9c03-9ecb09cbc1cc)
+
+* [Questions]
+
+![image](https://github.com/user-attachments/assets/e9760abe-6d4d-4f3f-a362-9ad1b2c07892)
+![image](https://github.com/user-attachments/assets/8785161d-bb2e-495d-9483-adc1329e46dc)
+
+* Weakening the Argument -> Mirror of strengthening of argument.
+
+![image](https://github.com/user-attachments/assets/df3b007b-8ea8-40b6-a92d-8685914c12e2)
+![image](https://github.com/user-attachments/assets/9557e039-d9ca-4dda-9ee1-3d1dd025af57)
+![image](https://github.com/user-attachments/assets/030a7198-ea86-4a86-96ed-c492496577af)
+![image](https://github.com/user-attachments/assets/5d9690fd-a4f4-483c-a658-2dfaa6cc10fc)
+![image](https://github.com/user-attachments/assets/d58b7f0f-59da-45b4-b82b-1ca1e5cabe30)
+![image](https://github.com/user-attachments/assets/cecee765-bee0-4a4a-9475-1d254fd1752c)
+![image](https://github.com/user-attachments/assets/a3f9ac63-526c-43bb-ad68-73e1ce56f8be)
+
+* Doubt -> Weaken. [Meaning] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/39f6a431-2294-4365-b89f-02c7b35cf0ec)
+
+* Answer -> Option **D**.
+* Option **C** -> Strengthening the argument.
+* Undermines -> Weaken. [Meaning] [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/b1cbccc5-53b4-4a39-a4a7-98347f6b1c03)
+
+* Answer -> Option **A**.
+* Option **C** -> Strengthening the argument.
+
+![image](https://github.com/user-attachments/assets/620ca19f-7620-4a87-bd1d-da299c1f68b1)
+![image](https://github.com/user-attachments/assets/fb3ef2c3-0c98-4369-8a43-2baad56067a9)
+![image](https://github.com/user-attachments/assets/45f8045e-db6b-48b9-86a2-79f68ac2ae47)
+![image](https://github.com/user-attachments/assets/8bfb0f4e-9e06-46e6-bb44-eaa4b87446fe)
+
+* Correlation but not causation.
+
+![image](https://github.com/user-attachments/assets/236f15fd-5a20-4226-bfe1-39c02fae3551)
+![image](https://github.com/user-attachments/assets/4c9fc4e7-90d4-4eed-97fe-ff9540763b43)
+![image](https://github.com/user-attachments/assets/392581c3-2bad-44cd-ae02-c96e2555a351)
+![image](https://github.com/user-attachments/assets/59d54a2b-54b4-41f4-87d7-b338ce505c7d)
 
 
 
-* Weakening the Argument -> 1hr 40mins -> 15th May.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1334,6 +1386,8 @@
 ![image](https://github.com/user-attachments/assets/5bea245b-bfcc-49b7-b204-52af52d0d8bc)
 ![image](https://github.com/user-attachments/assets/f70f5ac7-ccc9-4db7-a2ed-4e173b18b47f)
 ![image](https://github.com/user-attachments/assets/42a8d63c-aeb5-46ae-9d96-ef14be124625)
+![image](https://github.com/user-attachments/assets/00b04b81-08da-4306-b85b-9ce1b317b018)
+![image](https://github.com/user-attachments/assets/a688b041-80fc-46f9-804f-5b131f5a39b1)
 
 ## Misc
 
