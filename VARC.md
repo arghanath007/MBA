@@ -1181,6 +1181,57 @@
 ![image](https://github.com/user-attachments/assets/392581c3-2bad-44cd-ae02-c96e2555a351)
 ![image](https://github.com/user-attachments/assets/59d54a2b-54b4-41f4-87d7-b338ce505c7d)
 
+### CR(8)
+
+![image](https://github.com/user-attachments/assets/78efc057-ff97-4401-acca-75f0598da02d)
+![image](https://github.com/user-attachments/assets/87177453-d8d0-4008-8417-6650caf87480)
+![image](https://github.com/user-attachments/assets/caed7292-f498-4e7d-99de-fc842ad129e3)
+![image](https://github.com/user-attachments/assets/7b355be6-b427-4fca-928f-8e1c8a465db5)
+![image](https://github.com/user-attachments/assets/8bc602d2-eb92-4cc0-abc6-2603c9c75734)
+![image](https://github.com/user-attachments/assets/4997f0cd-03c8-43c6-8d73-5bb2774e37ec)
+![image](https://github.com/user-attachments/assets/60ff256d-e22c-47e3-a29b-0b68980a46a8)
+![image](https://github.com/user-attachments/assets/964e38ca-230d-4c4b-af47-e1c17ee15783)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/9ba10249-b7c5-4f79-b408-3d3b43cc8dcb)
+![image](https://github.com/user-attachments/assets/5e69a672-5bbc-4853-bdf6-473869113c49)
+
+* Ceased -> Stopped. [Meaning]
+* Assumption type questions -> Answer cannot be  irrevalent option/restatement of the premises/out of scope information. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/1a20f3bd-c1a6-491d-80d3-57483abc185e)
+![image](https://github.com/user-attachments/assets/c61765a2-8c8b-4abf-9f73-8c5220bc9baa)
+
+* Answer -> Option **C**.
+* Exacerbates -> Make it worse/intensify. [Meaning]
+
+![image](https://github.com/user-attachments/assets/eb4321fa-d1ef-45f0-9a75-54ee96b07e03)
+![image](https://github.com/user-attachments/assets/ba3c4fa0-9ccc-4802-a1d1-4ceccd42c188)
+![image](https://github.com/user-attachments/assets/8db3c613-810a-486d-b986-50290ab0556b)
+
+* We have to **strengthen/weaken** the **claim**. [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/5d5eaf5f-13e6-48e1-98c0-ba2129ad0aae)
+![image](https://github.com/user-attachments/assets/cffa0fe1-e76e-4408-9e47-ecefe1c73929)
+
+* Adorned -> provided with something intended to increase its beauty or distinction -> Sajana/Decorate. [Meaning]
+* Unadorned -> Without adornment or embellishment; simple or plain -> No sajana/Undecorated. [Meaning]
+
+![image](https://github.com/user-attachments/assets/bd4b201f-d27f-4536-9598-78812b00d2fc)
+![image](https://github.com/user-attachments/assets/ce7e9bdb-3d7d-4b16-bcea-76c74800e658)
+
+* Weakening of arguments -> Elimination/Elimination of options -> Contradictory to the premise/Restatement to the premise/anything that is going to support the conclusion/any possible inference/something that is true and is reiterated.  [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
 
 
 
