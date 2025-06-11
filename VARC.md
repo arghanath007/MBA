@@ -249,6 +249,93 @@
 ![image](https://github.com/user-attachments/assets/1153cdbb-e585-471c-b151-673304938e54)
 ![image](https://github.com/user-attachments/assets/20b596fd-0336-4420-b238-ceb26cfaf05d)
 ![image](https://github.com/user-attachments/assets/00c6d472-ef5b-4fb6-a15e-a03f02df06a2)
+![image](https://github.com/user-attachments/assets/65f0d377-1fb8-4230-9e73-97326c7ce77a)
+
+* RC 2.
+* Ethos -> Spirit. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d01a695d-e150-4cca-b69d-43b43d9c48a1)
+
+* Obscure -> Mask/Blur. [Meaning]
+
+![image](https://github.com/user-attachments/assets/d7905002-1140-4aa1-9620-93a71c3f94fc)
+![image](https://github.com/user-attachments/assets/0fcacff7-b486-4461-a47b-37e0fa42f572)
+
+* Option **C**.
+
+![image](https://github.com/user-attachments/assets/3e0977b6-be64-437e-adc5-e612a8d7e9c0)
+![image](https://github.com/user-attachments/assets/45ab9102-9c2a-4a60-8bce-9fe02d5698b9)
+
+* allegiance -> devotion or loyalty to a person, group, or cause. [Meaning]
+
+![image](https://github.com/user-attachments/assets/af24d6f5-e9c0-4f1b-b39e-a829a85ea27f)
+![image](https://github.com/user-attachments/assets/76de2f12-add0-45f4-98ee-b16676918a9b)
+
+* Option **B**.
+
+![image](https://github.com/user-attachments/assets/f6da947e-7c3c-47b1-bfb0-09386c83cba5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
