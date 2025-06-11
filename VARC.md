@@ -214,13 +214,41 @@
 ![image](https://github.com/user-attachments/assets/6f48b959-1bc0-49f9-b286-e995c16faf68)
 
 * TMI -> Too Much Information -> Not needed.
-* Start from 14mins RC practice 2nd video. 
 
+![image](https://github.com/user-attachments/assets/456b9d7f-d4ea-4232-9776-4ff3a0a6f676)
+![image](https://github.com/user-attachments/assets/35136912-cbde-4fb1-98a1-fae2dabdd019)
 
+* RC 1.
+* Despite, so, hence, therefore, finally, eventually, inspite of, nonetheless, nevertheless, but -> Transition words -> Transition in my means/transition in my thought process -> Whenever there is a shift in the thought process. [**VERY IMPORTANT**]
+* Disinterested -> Unbiased/Neutral. [For the sentence context] [Meaning]
+* Disinterested -> Not interested, Unbiased/Neutral. [2 meanings] [Meaning]
+* rhetoric ->  the art of speaking or writing effectively.  [Meaning]
+* unwillingly -> done or given reluctantly. [Meaning]
+* Reluctant -> feeling or showing aversion, hesitation, or unwillingness. [Meaning]
 
+![image](https://github.com/user-attachments/assets/f61829db-9f3c-4408-94d8-cf3636ca0d30)
+![image](https://github.com/user-attachments/assets/14fdb327-2def-4a0a-99e2-869e4d61bd12)
+![image](https://github.com/user-attachments/assets/ab888315-5bd0-4e38-aa78-5b6a0f6ddad7)
+![image](https://github.com/user-attachments/assets/779674d7-f2c6-4122-9556-906c25cbfbab)
+![image](https://github.com/user-attachments/assets/769dbc71-5350-4035-b22f-690be76b0e57)
+![image](https://github.com/user-attachments/assets/26a91066-8a82-46f1-8279-fec885584a32)
+![image](https://github.com/user-attachments/assets/24884579-1091-43d6-8f33-fb4a01af30ee)
+![image](https://github.com/user-attachments/assets/d181ca1a-d9e7-472a-ba6a-05946bd4ae2d)
 
+* Illustrates -> Shows/proves. [Meaning]
 
+![image](https://github.com/user-attachments/assets/b4c81dce-63ad-4018-b402-5b1831da0fb8)
+![image](https://github.com/user-attachments/assets/e8f1c950-c614-4d7e-b1e9-385713bcfc13)
+![image](https://github.com/user-attachments/assets/ea4d6246-082c-4fb3-8a9b-c5551754d354)
 
+* Refrain -> Shouldn't be doing/avoid. [Meaning]
+
+![image](https://github.com/user-attachments/assets/b5a6f527-a9c4-41c5-ab87-0a782a338563)
+![image](https://github.com/user-attachments/assets/76df5e24-96c4-4133-88a7-cd171d93827e)
+![image](https://github.com/user-attachments/assets/2c3bf04e-5377-41a0-b61b-7cc392626dcc)
+![image](https://github.com/user-attachments/assets/1153cdbb-e585-471c-b151-673304938e54)
+![image](https://github.com/user-attachments/assets/20b596fd-0336-4420-b238-ceb26cfaf05d)
+![image](https://github.com/user-attachments/assets/00c6d472-ef5b-4fb6-a15e-a03f02df06a2)
 
 
 
