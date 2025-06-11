@@ -275,10 +275,37 @@
 
 ![image](https://github.com/user-attachments/assets/f6da947e-7c3c-47b1-bfb0-09386c83cba5)
 
+## RC(10)
 
+![image](https://github.com/user-attachments/assets/cfd10296-bb9b-49a0-9a6c-000e8c9e4483)
 
+* Rudimentary ->  of a primitive kind/very raw/very unformed/very basic. [Meaning]
+* Detrimental -> Harmful/Unhealthy. [Meaning]
+* exemplify -> to show or illustrate by example/Best example/Ideal for something else. [Meaning]
+* mythologize -> to relate, classify, and explain myths. [Meaning]
 
+![image](https://github.com/user-attachments/assets/44532310-6a20-476f-8145-5390f2e1d134)
 
+* threshold -> Boundary. [Meaning]
+* aristocracy -> a governing body or upper class usually made up of a hereditary nobility. [Meaning]
+* Retro -> Old. [Meaning]
+* retrospective -> retrospection -> the act or process or an instance of surveying the past. [Meaning]
+
+![image](https://github.com/user-attachments/assets/8dfb515a-f12d-4c0f-aad1-481670873d6d)
+![image](https://github.com/user-attachments/assets/6fe163b6-9185-4276-8c93-1f4482151137)
+
+* insofar -> to such extent or degree. [Meaning]
+
+![image](https://github.com/user-attachments/assets/f331b2d3-cb9f-44b8-9473-c9ed5bfa3402)
+![image](https://github.com/user-attachments/assets/6efebf84-85c8-4c11-928c-0cd0df924618)
+
+* specious ->  having deceptive attraction or allure/false/something that seems true but is misleading. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/4dffe571-0850-4f62-9ce8-eab28e6b5dd9)
+![image](https://github.com/user-attachments/assets/ce13b607-c675-4923-a425-1b5f0adb6fd7)
+
+* Option **C**.
+* 1hr 1min -> RC practice 29th May.
 
 
 
