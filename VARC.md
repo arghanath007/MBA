@@ -275,11 +275,11 @@
 
 ![image](https://github.com/user-attachments/assets/f6da947e-7c3c-47b1-bfb0-09386c83cba5)
 
-## RC(10)
+### RC(10)
 
 ![image](https://github.com/user-attachments/assets/cfd10296-bb9b-49a0-9a6c-000e8c9e4483)
 
-* Rudimentary ->  of a primitive kind/very raw/very unformed/very basic. [Meaning]
+* Rudimentary ->  of a primitive kind/very raw/very unformed/very basic/coarse. [Meaning]
 * Detrimental -> Harmful/Unhealthy. [Meaning]
 * exemplify -> to show or illustrate by example/Best example/Ideal for something else. [Meaning]
 * mythologize -> to relate, classify, and explain myths. [Meaning]
@@ -305,10 +305,21 @@
 ![image](https://github.com/user-attachments/assets/ce13b607-c675-4923-a425-1b5f0adb6fd7)
 
 * Option **C**.
-* 1hr 1min -> RC practice 29th May.
 
+![image](https://github.com/user-attachments/assets/511fdbac-2c9a-485a-b822-0e536ef24cdd)
+![image](https://github.com/user-attachments/assets/efaa73fd-ab67-49ed-81d7-a2fa8abf2870)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/14e35399-ce5d-4d1c-a0ea-a4d0c826e453)
+![image](https://github.com/user-attachments/assets/1baaa461-ac5f-4d7d-8c23-df22b62e16f5)
+![image](https://github.com/user-attachments/assets/fb716c32-3c65-45ea-912c-b678c98ac216)
+![image](https://github.com/user-attachments/assets/51c05183-71f4-4a0d-a88c-5f830fbcc131)
+![image](https://github.com/user-attachments/assets/cd9b1c78-62f1-42c9-87ed-13c228b31c6d)
+![image](https://github.com/user-attachments/assets/62343181-400a-4c12-a453-fb0dd59c0dab)
+![image](https://github.com/user-attachments/assets/fa119bbf-2ef4-4457-a56f-f622b5d63865)
+
+### RC(11)
 
 
 
