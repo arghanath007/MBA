@@ -322,6 +322,7 @@
 ### RC(11)
 
 * assimilate -> to take into the mind and thoroughly understand
+* RC practice -> 30th may class.
 
 
 
