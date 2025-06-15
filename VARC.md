@@ -321,16 +321,55 @@
 
 ### RC(11)
 
-* assimilate -> to take into the mind and thoroughly understand
-* RC practice -> 30th may class.
+* assimilate -> to take into the mind and thoroughly understand. [Meaning]
+* Assimilation -> Absorption. [Meaning]
 
+![image](https://github.com/user-attachments/assets/fa673410-4c20-4e63-ac10-86ec3228f58a)
+![image](https://github.com/user-attachments/assets/93f52947-7065-4f69-8d32-ce8f18710fd2)
 
+* RC 1.
 
+![image](https://github.com/user-attachments/assets/31651991-0a3c-4562-8b2c-8b230621df46)
+![image](https://github.com/user-attachments/assets/b67cf43c-db22-4866-ae65-5d456c0d2906)
 
+* Culmination -> Climax. [Meaning]
+* Sway -> Convince. [Meaning]
+* In lieu -> Instead. [Meaning]
+* Perpetuity -> Forever. [Meaning]
 
+![image](https://github.com/user-attachments/assets/43db0936-fc9b-402b-81bc-3a12f104b833)
 
+* Possess -> You owe it.[Meaning]
+* Dispossess -> You do not owe it/Dis owening it.[Meaning]
+* Unscrupulous -> Dishonest. [Meaning]
+* Speculators -> Sellers. [Meaning]
+* Jeopardize -> To put in danger. [Meaning]
+* Monies -> Money in financial terms. [Meaning]
+* Monies -> Plural of money.
+* lobbying -> to conduct activities aimed at influencing public officials and especially members of a legislative body on legislation. [Meaning]
 
+![image](https://github.com/user-attachments/assets/b578ae68-9499-4a60-8f40-842dab7027bd)
+![image](https://github.com/user-attachments/assets/696912d0-32ff-4118-a2ee-f2e2503f9683)
+![image](https://github.com/user-attachments/assets/cc2aedba-e2dc-4faa-b34a-62e26a8fce7b)
 
+* POE -> Process of Elimination.
+
+![image](https://github.com/user-attachments/assets/a35418b4-d51f-4402-9700-9bfb76b0c9d2)
+![image](https://github.com/user-attachments/assets/675d3889-d445-496b-acf8-be72d20f5bea)
+![image](https://github.com/user-attachments/assets/eb5c616b-6d86-4df0-8362-62e763caeda8)
+![image](https://github.com/user-attachments/assets/faaa13ad-352c-4bf1-b53b-b0edfba7806a)
+![image](https://github.com/user-attachments/assets/27f5651d-a0cd-4b4b-9a28-0da8d4587d04)
+![image](https://github.com/user-attachments/assets/5abf8910-bbb9-4c2b-a273-ad35b8def8c3)
+
+* Option **B**.
+* Delegates -> Representative members. [Meaning]
+* Obsolete -> Outdated. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/c12f7c0c-70af-405c-a090-9d9a640ceff7)
+![image](https://github.com/user-attachments/assets/b39dede9-6919-4641-930f-8086b8f08977)
+![image](https://github.com/user-attachments/assets/af677602-e33e-4379-bc21-8e8a377c4b92)
+
+* Start from 1hr 10mins.
 
 
 
