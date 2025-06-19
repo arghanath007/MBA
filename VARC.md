@@ -368,15 +368,36 @@
 ![image](https://github.com/user-attachments/assets/c12f7c0c-70af-405c-a090-9d9a640ceff7)
 ![image](https://github.com/user-attachments/assets/b39dede9-6919-4641-930f-8086b8f08977)
 ![image](https://github.com/user-attachments/assets/af677602-e33e-4379-bc21-8e8a377c4b92)
+![image](https://github.com/user-attachments/assets/108bdcd0-152e-43fc-a95c-259bb5890d9f)
 
-* Start from 1hr 10mins.
+* outstanding -> unpaid amount. [Meaning]
 
+![image](https://github.com/user-attachments/assets/6a88cc85-b31e-41cd-ac8d-c58a23d80837)
+![image](https://github.com/user-attachments/assets/854ab014-8e45-4d75-b23a-58ba04c04afa)
+![image](https://github.com/user-attachments/assets/ad6885c7-dd66-49f9-9883-2ac2c967c96f)
 
+* RC-2
+* cynical -> Negative/pessimistic. [Meaning]
+* pessimistic ->
+* pessimism ->  an inclination to emphasize adverse aspects, conditions, and possibilities or to expect the worst possible outcome. [Meaning]
+* preconceive -> to form (an opinion) prior to actual knowledge or experience. [Meaning]
+* preconception -> a preconceived idea.
+* preconception -> Pre idea. [Meaning]
 
+![image](https://github.com/user-attachments/assets/5202e70d-5c6e-4c23-aa68-a5e080d2fda1)
+![image](https://github.com/user-attachments/assets/54d15e44-7f11-4ad2-a45b-8a3a64ebbf5d)
+![image](https://github.com/user-attachments/assets/fa43b4d8-2195-467d-b4a2-dd081ec6cda7)
+![image](https://github.com/user-attachments/assets/d6d3f563-dde4-42a2-8b32-eed6cfa0556d)
 
+* preempt -> Replace. [Meaning]
 
-
-
+![image](https://github.com/user-attachments/assets/8e6fd3a5-010d-4bba-97c3-dea69daa1e26)
+![image](https://github.com/user-attachments/assets/49044e2e-9a84-4035-86bf-e96ebac17a0b)
+![image](https://github.com/user-attachments/assets/caa7adb9-a5f6-4318-a554-b00088930e3b)
+![image](https://github.com/user-attachments/assets/29a32c7d-6d63-4ff2-8926-dca4baf26d4a)
+![image](https://github.com/user-attachments/assets/b16dbbe0-fe5a-48c2-abad-77f245dd53b2)
+![image](https://github.com/user-attachments/assets/1878cc64-462e-46b0-b5bb-5017ea94d273)
+![image](https://github.com/user-attachments/assets/acd78040-a216-4e81-86b9-ada0fb35d7fd)
 
 
 
