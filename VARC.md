@@ -1447,35 +1447,61 @@
 
 * [Questions]
 
+### CR(12)
 
+* **Strengthening** Questions. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/2617ff50-6456-45f0-b8ee-749908c42e11)
 
+* Counterproductive -> Unproductive. [Meaning]
+* confrontation -> Any talk that can turn into violence. [Meaning]
+* lax -> deficient in firmness : not stringent. [Meaning]
 
+![image](https://github.com/user-attachments/assets/ccf73c67-e4d9-4a1d-bc53-ca0d60539408)
+![image](https://github.com/user-attachments/assets/6ed5a825-f59d-4db6-a053-8d6d03213e79)
 
+* Option **C**.
 
+![image](https://github.com/user-attachments/assets/4e6f919d-633c-4b8b-803d-f1827ef9b2b4)
 
+* **Strengthening** Questions. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/cf43b2d6-5db2-4e67-9d4d-77c0e88c97ff)
 
+* conventional -> according with, sanctioned by, or based on convention. [Meaning]
 
+![image](https://github.com/user-attachments/assets/152c7263-f71b-4f9c-84ef-a7ff5a08407b)
+![image](https://github.com/user-attachments/assets/968aac12-b751-46f7-a41a-5c73b478f9df)
+![image](https://github.com/user-attachments/assets/8a0c967f-a8ff-4c55-beeb-bcd7c2b944c3)
+![image](https://github.com/user-attachments/assets/aa9a1702-1d4e-4abb-ae78-7c43fa5ad91f)
 
+* confer/conferred -> to compare views or take counsel : consult. [Meaning]
 
+![image](https://github.com/user-attachments/assets/3fa20b81-3551-4091-984a-18af6f503a54)
+![image](https://github.com/user-attachments/assets/a53b47f6-9542-475b-b1b8-0ee3ee77cf7b)
+![image](https://github.com/user-attachments/assets/f3aecd15-012b-468e-a3e9-3b047e24e5cf)
 
+* hides -> Animal Skin. [Meaning]
 
+![image](https://github.com/user-attachments/assets/188bf439-16b8-494a-a8e3-091a7356fc6a)
+![image](https://github.com/user-attachments/assets/f5d02909-08bd-4b1d-8f1a-f3b168ed6176)
+![image](https://github.com/user-attachments/assets/bf028d14-131e-4fe5-a28d-9ca63dc0aaa2)
 
+* Except -> not.
 
+![image](https://github.com/user-attachments/assets/efe0f022-2150-4350-8f22-51f906b9e2c8)
 
+* Flaw -> Logical mistake. [Meaning]
+* Vulnerable -> More at risk. [Meaning]
+* Pre eminence -> Very famous from the beginning. [Meaning]
 
+![image](https://github.com/user-attachments/assets/8bb58dd4-08a1-4ea7-a822-6141749346de)
 
+* albeit -> even though : although. [Meaning]
 
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/b04b6a00-0c4f-42f6-ba78-883e08b7d43f)
+![image](https://github.com/user-attachments/assets/42c12bec-9fd2-434e-809c-07f22af1c1a8)
+![image](https://github.com/user-attachments/assets/efb5f24b-9ad3-4e74-9431-d571f2034996)
 
 
 
