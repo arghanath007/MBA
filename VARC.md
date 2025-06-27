@@ -1503,23 +1503,50 @@
 ![image](https://github.com/user-attachments/assets/42c12bec-9fd2-434e-809c-07f22af1c1a8)
 ![image](https://github.com/user-attachments/assets/efb5f24b-9ad3-4e74-9431-d571f2034996)
 
+### CR(13)
 
+![image](https://github.com/user-attachments/assets/41e1bf31-18ee-4fa2-ba6d-f188b2d59fa9)
 
+* Slant -> Affect. [Meaning]
 
+![image](https://github.com/user-attachments/assets/c6977235-ce92-4b41-9c0f-225b87b81bae)
 
+* **Assumption** question. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/71893d71-c7e3-495c-95b4-49516741493c)
+![image](https://github.com/user-attachments/assets/884997dc-36ed-45c8-932d-915592d2b421)
 
+* Answer -> Option **D**.
 
+![image](https://github.com/user-attachments/assets/58a9ddaa-39a4-4590-9cb4-d44e29a50f5b)
+![image](https://github.com/user-attachments/assets/5b6da771-d5f4-41db-aea9-28133d8cea38)
+![image](https://github.com/user-attachments/assets/0e93d6ac-a605-4744-b17f-9c10950d2f76)
 
+* ascribe -> attribute. [Meaning]
 
+![image](https://github.com/user-attachments/assets/f7147258-d0f2-47d1-8507-cda910b6f4f1)
+![image](https://github.com/user-attachments/assets/ccad9de0-200b-4421-8ef4-7ff5f575dc92)
 
+* incumbent  ->  the holder of an office or ecclesiastical benefice. [Meaning]
 
+![image](https://github.com/user-attachments/assets/6941c73e-1adb-4487-99f8-05ad6e3bb23f)
+![image](https://github.com/user-attachments/assets/d6196b15-18fe-429a-be6e-43a54e19541c)
+![image](https://github.com/user-attachments/assets/5d1db77c-d01c-4359-8ddd-7b5ec1e02b2a)
 
+* Option **D**.
+* inconclusive -> leading to no conclusion or definite result. [Meaning]
 
+![image](https://github.com/user-attachments/assets/3810ae16-e31c-44a9-8750-2a5064c04979)
+![image](https://github.com/user-attachments/assets/94f8121f-23f1-4f41-88db-bd03b1dde02e)
+![image](https://github.com/user-attachments/assets/f03a4c42-00ed-43df-a483-7d9edce1bb70)
+![image](https://github.com/user-attachments/assets/929f84a8-2266-4946-a88b-d3a8b8a64f09)
+![image](https://github.com/user-attachments/assets/c1112dc2-1f22-4166-b802-b7ab303a9efb)
 
+* forbade/forbid ->  to hinder or prevent as if by an effectual command/prohibit. [Meaning]
 
-
-
+![image](https://github.com/user-attachments/assets/86a6e334-6e3a-4da3-bd7a-85ffbd3d8f21)
+![image](https://github.com/user-attachments/assets/aec590d1-2488-4487-9c2c-39e926013bfb)
+![image](https://github.com/user-attachments/assets/e91940d2-d986-445d-a89f-19ab813f4a84)
 
 
 
