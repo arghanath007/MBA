@@ -1,5 +1,10 @@
 # VARC
 
+## Next Class
+
+![image](https://github.com/user-attachments/assets/a0be6a4d-67fb-46a1-9c48-600a95812640)
+
+
 ## VARC Article Reading Resources
 
 * https://cat.crookshanksacademy.com/angrezi100.html [**VERY IMPORTANT**]
