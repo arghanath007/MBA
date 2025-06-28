@@ -2,8 +2,7 @@
 
 ## Next Class
 
-![image](https://github.com/user-attachments/assets/a0be6a4d-67fb-46a1-9c48-600a95812640)
-
+![image](https://github.com/user-attachments/assets/8f66f13d-603d-4cdd-8fa8-51e932e8bde3)
 
 ## VARC Article Reading Resources
 
@@ -1553,22 +1552,99 @@
 ![image](https://github.com/user-attachments/assets/aec590d1-2488-4487-9c2c-39e926013bfb)
 ![image](https://github.com/user-attachments/assets/e91940d2-d986-445d-a89f-19ab813f4a84)
 
+## Verbal Ability(VA)
 
+### VA(14)
 
+![image](https://github.com/user-attachments/assets/2cfd4b4c-da89-4fe4-9208-d3af057ddf15)
+![image](https://github.com/user-attachments/assets/cf5ea2a9-439e-48b3-a493-129f4610696c)
+![image](https://github.com/user-attachments/assets/09a61915-4533-45e8-8f97-c6561a22f5a9)
+![image](https://github.com/user-attachments/assets/fd9086f4-5ce2-4e8d-8b1b-9192f29e5338)
+![image](https://github.com/user-attachments/assets/21f05e2e-37cd-4c7d-b7e2-291920f82a73)
 
+#### Vara Jumbles
 
+![image](https://github.com/user-attachments/assets/aee83dba-b648-41bd-a176-0e15fac28faf)
 
+* Point. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ca97f77a-88ab-45a8-aaca-b5e00a6eb0b1)
+![image](https://github.com/user-attachments/assets/ae89593d-ad13-4331-b4c8-57002ee6ddbc)
+![image](https://github.com/user-attachments/assets/6eb86cf0-0173-4b8a-9c15-8f4b3124de0d)
+![image](https://github.com/user-attachments/assets/5e7efd57-2e4b-4a9b-ad20-d4a2527dba55)
 
+* Purple Highlights -> Theme based clues.
 
+![image](https://github.com/user-attachments/assets/5d1726f2-e860-438c-ab9b-da7b6cdefe18)
 
+* pantheon -> Group/collection of gods. [Meaning]
 
+![image](https://github.com/user-attachments/assets/5b685e6d-f57c-4297-9ae5-93827de7ffb0)
+![image](https://github.com/user-attachments/assets/9cd17fa2-ac83-4ac7-8238-3acfd736e2c5)
+![image](https://github.com/user-attachments/assets/adf74162-a746-4f0f-9eba-3d944014c5b8)
+![image](https://github.com/user-attachments/assets/bc48d94f-e45f-4a99-8b07-1eacb6bfd169)
+![image](https://github.com/user-attachments/assets/081c78b7-aa39-43b7-a33d-2c87464d944e)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f62ccc5a-ed24-4e91-af8f-b667b30a543e)
+![image](https://github.com/user-attachments/assets/11f737a2-ab25-4ea3-ac75-0e91e9375ca5)
+![image](https://github.com/user-attachments/assets/48e99e33-432b-4f14-b052-0dc02dfa1bb9)
+![image](https://github.com/user-attachments/assets/1e652b1c-7cb8-469c-b00c-ca819aaa2391)
+![image](https://github.com/user-attachments/assets/e9233c7c-113f-4e52-a263-7cafd92ecc1a)
 
+* ostensibly -> at the outset. [Meaning]
 
+![image](https://github.com/user-attachments/assets/25adcc66-57ff-4e02-a353-4bc95004a442)
+![image](https://github.com/user-attachments/assets/f2bf3d8e-0235-47d2-8ca9-3893c5b6a809)
+![image](https://github.com/user-attachments/assets/49d30fd9-2c1e-4fb0-81aa-1b42cd1add0a)
+![image](https://github.com/user-attachments/assets/f6e037fe-b9c7-40a8-9182-0f2c799168df)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/c17eddf2-442f-42b6-b60d-b6b05fb75d4e)
+![image](https://github.com/user-attachments/assets/3aca8c09-2cde-4213-8d1f-9e95be8fe3ff)
+![image](https://github.com/user-attachments/assets/d4347636-5f96-457f-8835-d6e052684b79)
+
+* Answer -> ADCB.
+
+![image](https://github.com/user-attachments/assets/0d85d44a-b1ca-4edb-a951-c0a1aba35818)
+![image](https://github.com/user-attachments/assets/82af50d9-f74a-4318-b211-0cc03440ccb4)
+![image](https://github.com/user-attachments/assets/35d12acb-e80d-4681-ba8f-95d4c749e142)
+
+* suffrage -> The right to vote. [Meaning]
+* Answer -> BCDA.
+
+![image](https://github.com/user-attachments/assets/a2842a75-29cf-4cd3-9eb9-8ab5806374ac)
+![image](https://github.com/user-attachments/assets/5809c4da-326b-47c7-b26f-58c8310fc064)
+
+* [**VERY IMPORTANT**]
+
+![image](https://github.com/user-attachments/assets/fcf8ed11-f039-4a20-8083-48f98e1f0813)
+![image](https://github.com/user-attachments/assets/5fc2d6ed-6187-43c8-a516-c3003bf04c7f)
+![image](https://github.com/user-attachments/assets/31825bfc-8e11-4756-b1fa-ed400a37ecdb)
+
+* Answer -> BCDA.
+
+![image](https://github.com/user-attachments/assets/a3f1fcb5-2549-488f-8e83-2445de005ad1)
+![image](https://github.com/user-attachments/assets/886a917f-a853-49bf-b2e2-ca26358c5598)
+![image](https://github.com/user-attachments/assets/f768764a-845e-4479-962b-b7b801b5250f)
+![image](https://github.com/user-attachments/assets/1ba92bf7-8f02-4923-9bb0-6e6507f44c6c)
+![image](https://github.com/user-attachments/assets/db3e2544-428b-4d3c-9799-cac1666bf51e)
+
+* Answer -> CDBA.
+
+![image](https://github.com/user-attachments/assets/0855a43b-d9d3-46b8-86a5-0396c37bb69a)
+![image](https://github.com/user-attachments/assets/0cca5af5-86cc-4fe6-9218-d5bc3f6993b1)
+
+* Answer -> CDBA.
+
+![image](https://github.com/user-attachments/assets/24a26292-045b-4910-8fad-aacb0a70e54a)
+![image](https://github.com/user-attachments/assets/74d166ed-2a36-4b5a-b9ca-809f3baf2e52)
+
+* Answer -> DACB.
+
+![image](https://github.com/user-attachments/assets/8b3b042a-4368-414a-8236-b749b792520e)
 
 
 
@@ -1718,6 +1794,7 @@
 ![image](https://github.com/user-attachments/assets/42a8d63c-aeb5-46ae-9d96-ef14be124625)
 ![image](https://github.com/user-attachments/assets/00b04b81-08da-4306-b85b-9ce1b317b018)
 ![image](https://github.com/user-attachments/assets/a688b041-80fc-46f9-804f-5b131f5a39b1)
+![image](https://github.com/user-attachments/assets/2f36354d-7281-44d5-af5c-7c26cafd55b7)
 
 ## Misc
 
