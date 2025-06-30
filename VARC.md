@@ -1646,9 +1646,17 @@
 
 ![image](https://github.com/user-attachments/assets/8b3b042a-4368-414a-8236-b749b792520e)
 
+### VA(15)
 
+#### Para Jumbles
 
+![image](https://github.com/user-attachments/assets/0010bbda-dd88-4888-98b8-f3956d61a568)
+![image](https://github.com/user-attachments/assets/967a998e-0ec4-4944-ad77-9d2c30b276a5)
+![image](https://github.com/user-attachments/assets/6e64fd6b-5ff5-4551-be32-b2e658615e52)
+![image](https://github.com/user-attachments/assets/1c9fbb2c-a565-43de-8e68-6e8b26474ea9)
+![image](https://github.com/user-attachments/assets/f52d275a-70b6-4e4d-b195-f9046814f61d)
 
+* Start from 17mins.
 
 
 
