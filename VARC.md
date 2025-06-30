@@ -1655,14 +1655,22 @@
 ![image](https://github.com/user-attachments/assets/6e64fd6b-5ff5-4551-be32-b2e658615e52)
 ![image](https://github.com/user-attachments/assets/1c9fbb2c-a565-43de-8e68-6e8b26474ea9)
 ![image](https://github.com/user-attachments/assets/f52d275a-70b6-4e4d-b195-f9046814f61d)
+![image](https://github.com/user-attachments/assets/fd9acc4c-4b31-47ab-aab8-396c4a8d75db)
 
-* Start from 17mins.
+* lace-up -> Stacking. [Meaning]
 
+![image](https://github.com/user-attachments/assets/a664b227-6805-440f-aa91-d9e40cd55e2a)
+![image](https://github.com/user-attachments/assets/368c2264-0f4e-4297-bf74-2870e10496d8)
+![image](https://github.com/user-attachments/assets/bf57247b-b2a3-4e94-b4ec-59202b7ab21d)
+![image](https://github.com/user-attachments/assets/b865004f-f27f-44c4-82be-0ecea22ae4cc)
 
+* conscript -> Drafted. [Meaning]
+* Answer -> Option **1**.
 
+![image](https://github.com/user-attachments/assets/3ff5bda8-30ca-4a84-b728-976fbd7a046b)
 
-
-
+* epoch -> Era/Time period. [Meaning]
+* Start from 31mins.
 
 
 
