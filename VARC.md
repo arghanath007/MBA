@@ -2,7 +2,7 @@
 
 ## Next Class
 
-![image](https://github.com/user-attachments/assets/8f66f13d-603d-4cdd-8fa8-51e932e8bde3)
+![image](https://github.com/user-attachments/assets/9bb3498c-5472-4ec8-97ef-98a940cf52f0)
 
 ## VARC Article Reading Resources
 
@@ -1670,38 +1670,71 @@
 ![image](https://github.com/user-attachments/assets/3ff5bda8-30ca-4a84-b728-976fbd7a046b)
 
 * epoch -> Era/Time period. [Meaning]
-* Start from 31mins.
 
+![image](https://github.com/user-attachments/assets/728c943b-81f8-4614-b67d-1e2c5071204e)
+![image](https://github.com/user-attachments/assets/f054d3db-c6ce-4e59-8a3b-f7af0cb834de)
 
+* androcentric -> Centered around Men. [Meaning]
+* Relegate -> Assign. [Meaning]
 
+![image](https://github.com/user-attachments/assets/7aa99805-ff0c-443d-9d83-bc820e8520c2)
 
+* Canon -> The entire body of work/A collection. [Meaning]
 
+![image](https://github.com/user-attachments/assets/dd14d896-3b3c-43b6-86c3-61d4d7650420)
+![image](https://github.com/user-attachments/assets/33d72926-8222-47aa-8417-a289a28f20b4)
+![image](https://github.com/user-attachments/assets/341edc39-6662-40f9-9f76-7ff370d28f73)
+![image](https://github.com/user-attachments/assets/42288d31-1a1b-4d4d-be80-f64229a425bf)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/f610f5bb-4929-4ddf-88d7-3ac09163460c)
+![image](https://github.com/user-attachments/assets/283c85c3-1b70-4fcb-882a-41746ce13632)
+![image](https://github.com/user-attachments/assets/300bcb45-b0b1-4c24-a188-edeadf14a48d)
+![image](https://github.com/user-attachments/assets/bc144c05-4da4-472e-8c82-9684ccde23ee)
+![image](https://github.com/user-attachments/assets/7cd1201e-bf64-45d6-bb22-c0f1bc909890)
 
+* Good Question.
 
+![image](https://github.com/user-attachments/assets/de08c850-3255-4b02-9a7c-553ae4886dd3)
+![image](https://github.com/user-attachments/assets/8bfac057-c806-40d0-964d-9aa10d12ee5f)
+![image](https://github.com/user-attachments/assets/18db6221-72dd-4bb2-807b-2c96139e8b92)
+![image](https://github.com/user-attachments/assets/725435dc-1392-4b18-8176-6aa0f812ee44)
+![image](https://github.com/user-attachments/assets/7fbbc7ac-f523-41a8-9f76-b1203204983c)
+![image](https://github.com/user-attachments/assets/ab386df9-50bf-4d07-a23e-dcc2809e29b9)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/07e4da78-a281-4100-b4e0-a16a8415f09e)
 
+* incarceration -> imprisonment. [Meaning]
 
+![image](https://github.com/user-attachments/assets/628ca84c-af33-4ea8-af84-f09460163243)
+![image](https://github.com/user-attachments/assets/9b68238d-4e7f-4986-82b9-3e5d94861c8c)
 
+* Good Question.
 
+![image](https://github.com/user-attachments/assets/5c4d864d-eac6-411c-aec3-56f91529537f)
+![image](https://github.com/user-attachments/assets/d0a8c803-6b56-474e-9668-0de0fa5f22bd)
 
+* 4, 5 -> Opinion Sentences.
 
+![image](https://github.com/user-attachments/assets/aea49adb-71e9-4bcf-9fca-b2800beb5996)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/a9f1fd9e-d493-43bb-adcd-746d7a46caed)
+![image](https://github.com/user-attachments/assets/a5304e79-f0aa-479b-9f26-c1059b7c3099)
 
+* Trotted -> Presented. [Meaning]
+* Deliberation -> Discussion. [Meaning]
 
+![image](https://github.com/user-attachments/assets/8de9fda7-2d32-4af2-ad0e-8ecafc13eee2)
+![image](https://github.com/user-attachments/assets/8442a5c7-b32b-49da-9d96-d839ec94cb12)
+![image](https://github.com/user-attachments/assets/28b94d7b-d5e2-4adb-b565-e1632a0708e2)
+![image](https://github.com/user-attachments/assets/35eb11df-2954-49cf-a394-ed75d8be86d5)
 
-
-
-
-
-
-
-
-
-
+* [**VERY IMPORTANT**]
 
 
 
