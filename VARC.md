@@ -1562,7 +1562,7 @@
 ![image](https://github.com/user-attachments/assets/fd9086f4-5ce2-4e8d-8b1b-9192f29e5338)
 ![image](https://github.com/user-attachments/assets/21f05e2e-37cd-4c7d-b7e2-291920f82a73)
 
-#### Vara Jumbles
+#### Para Jumbles
 
 ![image](https://github.com/user-attachments/assets/aee83dba-b648-41bd-a176-0e15fac28faf)
 
