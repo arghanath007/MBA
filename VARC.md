@@ -1736,32 +1736,70 @@
 
 * [**VERY IMPORTANT**]
 
+### VA(17)
 
+#### Para Summary
 
+![image](https://github.com/user-attachments/assets/099fa3c4-2ad4-449a-b601-6061ab9095c0)
+![image](https://github.com/user-attachments/assets/d590c073-b3b5-4712-93ff-26451293f745)
+![image](https://github.com/user-attachments/assets/3ad0723e-fb1e-4830-af8f-ed6178c7ea07)
 
+* Para Jumble.
+* sesquipedalian -> given to or characterized by the use of long words. [Meaning]
+* bemused -> marked by confusion or bewilderment. [Meaning]
+* periphrastic -> of, relating to, or characterized by periphrasis. [Meaning]
+* pedantic -> Enthusiasm. [Meaning]
+* exposition -> Explanations. [Meaning]
+* esoteric -> Hard to understand. [Meaning]
+* discerning -> Distinguish between right and wrong. [Meaning]
+* Brevity -> Quality of being brief. [Meaning]
+* enigmatic -> Mysterious/profound. [Meaning]
 
+![image](https://github.com/user-attachments/assets/8bc14c64-90cd-4ff3-9d81-f945f02cef7e)
+![image](https://github.com/user-attachments/assets/542a4c12-b9f1-41fc-b92e-d7df80edd407)
 
+* verbosity -> the use of too many words. [Meaning]
+* Erudite -> Well learned. [Meaning]
 
+![image](https://github.com/user-attachments/assets/827d12d5-dae7-4682-b64f-d079d6081958)
+![image](https://github.com/user-attachments/assets/52f5c865-dfd6-45cf-b16b-8de98615e386)
+![image](https://github.com/user-attachments/assets/5b10ebce-be90-45a3-98da-02e088cd62c9)
 
+* We can't take any extra information. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/cc8e53ea-d047-4b69-b5ae-340de131023d)
+![image](https://github.com/user-attachments/assets/6a26e6e7-1ff5-4507-9145-f1c1a7a9d9fe)
+![image](https://github.com/user-attachments/assets/14532edb-0603-4550-83c0-3db1ceb1b732)
+![image](https://github.com/user-attachments/assets/27a3ad6a-35a1-4fc3-9d6c-d35810c7895c)
 
+* Option **3** -> Unwarranted conclusion -> Avoid this type of options.
 
+![image](https://github.com/user-attachments/assets/e2d27aa1-86e7-496b-8095-7307407abf6c)
+![image](https://github.com/user-attachments/assets/beb80f67-c462-492a-96eb-bc7373701fe9)
 
+* rogue -> rebels. [Meaning]
 
+![image](https://github.com/user-attachments/assets/cad4cb7f-df2d-4545-9bb0-6c15d7ff1393)
 
+* Passage Tone -> Analytical.
 
+![image](https://github.com/user-attachments/assets/1c4809ca-af59-4eb6-bbce-4f45e022a0a4)
+![image](https://github.com/user-attachments/assets/4fabb26d-8008-4718-be9c-46ec486b3374)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/ce19d42a-fb03-405e-8638-3456f798ba7b)
 
+* Extreme Words -> Definitely, Certainly, Most, always, almost, all, never. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/d269e6a1-071c-4c16-8c75-71a42f282e4c)
+![image](https://github.com/user-attachments/assets/5bedeb8b-b81c-4b3e-8b07-3f645e8fca0a)
 
+* accord -> Consistent. [Meaning]
 
+![image](https://github.com/user-attachments/assets/7e6d83e2-b5b1-4053-8bf0-f759a89b28b5)
 
-
-
-
-
-
+* Start from 1hr 2mins.
 
 
 
