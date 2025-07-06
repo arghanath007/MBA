@@ -1798,8 +1798,34 @@
 * accord -> Consistent. [Meaning]
 
 ![image](https://github.com/user-attachments/assets/7e6d83e2-b5b1-4053-8bf0-f759a89b28b5)
+![image](https://github.com/user-attachments/assets/13e57b58-74c7-4812-8530-10366a97015a)
 
-* Start from 1hr 2mins.
+* continuum -> Spectrum/Range. [Meaning]
+* Heterogeneity -> Variety and differences. [Meaning]
+* Threshold -> Limit. [Meaning]
+* multifaceted -> many angles/sides to it. multifaceted
+
+![image](https://github.com/user-attachments/assets/e3cefbc0-af13-461a-8c23-aa45243ec917)
+![image](https://github.com/user-attachments/assets/ab519582-9f8a-44ea-afcd-98e9fec9d3c9)
+![image](https://github.com/user-attachments/assets/9872a40c-c121-4d05-bb25-6f411def2bf3)
+
+* [**VERY IMPORTANT**]
+* oeuvre -> The body of work of an author. [Meaning] 
+
+![image](https://github.com/user-attachments/assets/32a5d0fc-32b9-4d6a-b1b9-2fa45c0801a1)
+![image](https://github.com/user-attachments/assets/0b72465d-3330-4f85-a90c-8716239c67a3)
+
+* Formulaic -> predictable. [Meaning]
+
+
+
+
+
+
+
+
+
+
 
 
 
