@@ -1736,7 +1736,7 @@
 
 * [**VERY IMPORTANT**]
 
-### VA(17)
+### VA(16)
 
 #### Para Summary
 
@@ -1836,22 +1836,47 @@
 
 ![image](https://github.com/user-attachments/assets/bf674e25-40cf-4915-b1c3-94b6c7f61889)
 
+### VA(17)
 
+#### Odd One Out Para Jumbles
 
+![image](https://github.com/user-attachments/assets/52fb2b71-81a8-420c-9e11-82cddb2da8e4)
+![image](https://github.com/user-attachments/assets/265d43bb-13ba-4c71-a8db-b94f34c6cac3)
+![image](https://github.com/user-attachments/assets/768a1f5c-13e7-4427-9406-fa5ddee00863)
 
+* paraphrase >  a restatement of a text, passage, or work giving the meaning in another form. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/94f1ba6b-b3bf-4769-97ef-36c590049e6f)
 
+* Rest in Next class.
 
+#### Missing Link/Sentence.
 
+![image](https://github.com/user-attachments/assets/cf7b97fd-efbd-481b-81f2-62fd0fa56fc2)
+![image](https://github.com/user-attachments/assets/ffe82c2c-39af-4af2-9389-91c468fbef94)
 
+* Yet -> Used for **contrast** -> 180 degree word. [**VERY IMPORTANT**]
+* But, however -> 180 degree word. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1e1c74e0-3b28-44ab-a904-6d743eef1311)
+![image](https://github.com/user-attachments/assets/89c0bf24-a1a3-4720-a863-b56bd1f5d9c5)
 
+* Missing Link/Sentence. [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/7431b12b-edf1-44be-8906-7410e76f4834)
+![image](https://github.com/user-attachments/assets/2b2d8188-2582-4854-889e-37ceb2b7bc4d)
 
+* Answer -> A -> Option **2**.
 
+![image](https://github.com/user-attachments/assets/c792c726-94f6-4eaa-8f96-f4afc61584b3)
+![image](https://github.com/user-attachments/assets/138383a4-9c87-45fe-9339-7f4f554e5d91)
+![image](https://github.com/user-attachments/assets/54e63e4d-51c2-4feb-8a54-30a59494dd28)
+![image](https://github.com/user-attachments/assets/2c2941de-d188-460e-a03b-91d58d9d1ae3)
+![image](https://github.com/user-attachments/assets/fb2a9103-cd0c-43c3-ab32-f283cb256f18)
+![image](https://github.com/user-attachments/assets/db020010-4fd9-44f4-92fd-f61c5bb50d18)
 
-
-
+* Missing Link/Sentence. [**VERY IMPORTANT**]
+* Start from 48mins.
 
 
 
