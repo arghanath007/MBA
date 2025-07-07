@@ -2,7 +2,7 @@
 
 ## Next Class
 
-![image](https://github.com/user-attachments/assets/9bb3498c-5472-4ec8-97ef-98a940cf52f0)
+![image](https://github.com/user-attachments/assets/0b1de3cc-8a0c-4d71-a6f8-b8d5d45bfb75)
 
 ## VARC Article Reading Resources
 
@@ -1817,16 +1817,24 @@
 
 * Formulaic -> predictable. [Meaning]
 
+![image](https://github.com/user-attachments/assets/553ba314-9491-4d7b-81c6-e63f0ab369e2)
+![image](https://github.com/user-attachments/assets/48a64e99-077e-4dff-9601-8037f589bf96)
 
+* Answer -> Option **D**. [**VERY IMPORTANT**]
+* drudgery -> fatiguing work : uninspiring or menial labor. [Meaning]
 
+![image](https://github.com/user-attachments/assets/a90e3beb-6d08-4e34-9872-800e5f500eff)
+![image](https://github.com/user-attachments/assets/ea98aab1-1114-4ecf-a5af-f1bc5c438fc4)
 
+* debauchery ->  extreme indulgence in bodily pleasures and especially sexual pleasures : behavior involving sex, drugs, alcohol, etc. that is often considered immoral. [Meaning]
 
+![image](https://github.com/user-attachments/assets/9be9f59d-2eaf-47b7-8756-83fa02337ca1)
+![image](https://github.com/user-attachments/assets/6f4837f3-c754-48df-a21c-553a09581cca)
+![image](https://github.com/user-attachments/assets/38783f20-7123-4122-9f5b-e4b0cd1c56f5)
 
+* Option **B**. [**VERY IMPORTANT**]
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/bf674e25-40cf-4915-b1c3-94b6c7f61889)
 
 
 
@@ -1908,6 +1916,9 @@
 ![image](https://github.com/user-attachments/assets/00b04b81-08da-4306-b85b-9ce1b317b018)
 ![image](https://github.com/user-attachments/assets/a688b041-80fc-46f9-804f-5b131f5a39b1)
 ![image](https://github.com/user-attachments/assets/2f36354d-7281-44d5-af5c-7c26cafd55b7)
+![image](https://github.com/user-attachments/assets/6f48940a-32c4-497f-b3de-8c4dfd5d1cbb)
+
+
 
 ## Misc
 
