@@ -2,7 +2,8 @@
 
 ## Next Class
 
-![image](https://github.com/user-attachments/assets/0b1de3cc-8a0c-4d71-a6f8-b8d5d45bfb75)
+![image](https://github.com/user-attachments/assets/c876e945-0afa-47f9-abc4-3a8f839ef574)
+
 
 ## VARC Article Reading Resources
 
