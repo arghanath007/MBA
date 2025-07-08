@@ -1876,23 +1876,44 @@
 ![image](https://github.com/user-attachments/assets/db020010-4fd9-44f4-92fd-f61c5bb50d18)
 
 * Missing Link/Sentence. [**VERY IMPORTANT**]
-* Start from 48mins.
 
+![image](https://github.com/user-attachments/assets/7a2099c1-32b0-41b5-994a-04c081710b2b)
+![image](https://github.com/user-attachments/assets/c1591768-2bac-4735-b2a5-5a842e2b3dd1)
+![image](https://github.com/user-attachments/assets/231c7701-d696-4521-9241-06ad910133f0)
+![image](https://github.com/user-attachments/assets/2a37c4bd-f71e-4cdf-8067-7488781a78a3)
 
+* Option **A**.
 
+![image](https://github.com/user-attachments/assets/d29882b8-d202-4953-9800-8eec2589a054)
 
+* conspicuous -> Stands out. [**Meaning**]
 
+![image](https://github.com/user-attachments/assets/2fd0172b-126f-448a-8e81-90a1886b01b6)
+![image](https://github.com/user-attachments/assets/7f8d82c3-7d05-4eae-b82d-49fc639fc137)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/e8bd2bf8-6f31-41f5-9d38-89ddeb1e2829)
+![image](https://github.com/user-attachments/assets/866ebaa0-6743-4435-ac86-f25f2e3ec8cc)
+![image](https://github.com/user-attachments/assets/5fbe45cb-a023-4159-8418-9f89ce847840)
 
+* Option **B** -> Option **3**. [Answer]
 
+![image](https://github.com/user-attachments/assets/556f0a15-e51c-434c-9a3b-67c0a18eb97b)
+![image](https://github.com/user-attachments/assets/29447a8f-9026-4128-ba7c-e3b7c642c838)
 
+* [**VERY IMPORTANT**]
 
+![image](https://github.com/user-attachments/assets/1b90a2a2-98e3-4475-80da-130b03b1ae96)
 
+* curmudgeon -> ill-tempered, and usually old man. [**Meaning**]
 
-
-
-
+![image](https://github.com/user-attachments/assets/ac73dea7-42e4-4dab-bb6c-f56f26ba19ae)
+![image](https://github.com/user-attachments/assets/4ce90578-3607-4b53-8a00-2a1715f3c305)
+![image](https://github.com/user-attachments/assets/d41dcb4a-4611-418a-ae6b-2180a6126355)
+![image](https://github.com/user-attachments/assets/ea4469ed-e82a-4f84-8457-1b9cd88bd006)
+![image](https://github.com/user-attachments/assets/1d19b4d0-d41a-4283-b559-13b976c57562)
+![image](https://github.com/user-attachments/assets/a70362dd-4773-4af9-9e88-999bd4f46057)
 
 
 
