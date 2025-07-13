@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="1314" height="498" alt="image" src="https://github.com/user-attachments/assets/0c68ec06-ad8f-4f3a-94ce-f8480369b58e" />
+<img width="1502" height="560" alt="image" src="https://github.com/user-attachments/assets/821f7c12-91af-49b7-9a65-7795115092b4" />
 
 ## VARC Article Reading Resources
 
@@ -2019,30 +2019,59 @@
 
 <img width="2134" height="1188" alt="image" src="https://github.com/user-attachments/assets/82896a04-f91e-4447-9af6-7cbc0a4985f5" />
 
+### VA(19)
 
+#### Para Jumbles
 
+<img width="2128" height="1320" alt="image" src="https://github.com/user-attachments/assets/4d668eb9-3e1f-4d6e-bbbc-01a35b4c3998" />
+<img width="2134" height="1324" alt="image" src="https://github.com/user-attachments/assets/babd6cd1-8c29-4892-943f-d84d01b21822" />
+<img width="2132" height="1174" alt="image" src="https://github.com/user-attachments/assets/7d22b43d-4201-4e50-a858-0af6bbd2804e" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2132" height="1322" alt="image" src="https://github.com/user-attachments/assets/f7d1a996-0037-4117-b3b2-84b4850ed7b7" />
+<img width="2126" height="1170" alt="image" src="https://github.com/user-attachments/assets/5efa9087-7634-4f14-b032-84ce540d5f22" />
+<img width="2126" height="1172" alt="image" src="https://github.com/user-attachments/assets/98ae8997-0c3b-4944-a269-c03b9cd6e785" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2136" height="1324" alt="image" src="https://github.com/user-attachments/assets/a125a213-73a6-4752-bb92-62808736f440" />
+<img width="2128" height="1320" alt="image" src="https://github.com/user-attachments/assets/29f279e2-2f2e-46f2-bc12-6de1c07a2dbe" />
+<img width="2128" height="1322" alt="image" src="https://github.com/user-attachments/assets/27b5ec11-6a17-4991-8825-5648155fcfc5" />
+<img width="2120" height="1180" alt="image" src="https://github.com/user-attachments/assets/8e725231-6f76-4d26-a5ed-0e172703ea6a" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2132" height="1320" alt="image" src="https://github.com/user-attachments/assets/0976e1c0-5b3b-45aa-a3d4-fa885a31ca10" />
+<img width="2126" height="1322" alt="image" src="https://github.com/user-attachments/assets/b7f07a0d-0ad2-4e38-a106-e7739d7f0641" />
+<img width="2134" height="1318" alt="image" src="https://github.com/user-attachments/assets/1b90535a-8bec-4b64-9414-61e16eb02444" />
+<img width="2130" height="1318" alt="image" src="https://github.com/user-attachments/assets/a5b3e5c8-3259-42f8-b3cb-b44f342858ef" />
+<img width="2128" height="1322" alt="image" src="https://github.com/user-attachments/assets/a80f4507-d988-43d3-aff9-f4a76e3420f6" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2122" height="1176" alt="image" src="https://github.com/user-attachments/assets/3cf47f51-41ed-42ba-84d1-cd8db15f4548" />
+<img width="2130" height="1170" alt="image" src="https://github.com/user-attachments/assets/e1e97e0e-d717-4935-9e69-9c173b6b0088" />
 
+* [**VERY IMPORTANT**]
+* capricious -> impulsive. [**Meaning**]
 
+<img width="2130" height="1316" alt="image" src="https://github.com/user-attachments/assets/2f9dc47b-5840-4ed7-9a40-2bb83831f79a" />
+<img width="1514" height="1150" alt="image" src="https://github.com/user-attachments/assets/3cbd09db-cfab-4a0d-8ba6-5cdd1ff1f866" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2128" height="1182" alt="image" src="https://github.com/user-attachments/assets/980c7ce8-0785-4884-96f6-1cc7a35cd3b1" />
+<img width="2130" height="1314" alt="image" src="https://github.com/user-attachments/assets/cc571266-ce42-4e54-8d1f-141f3160c285" />
+<img width="600" height="406" alt="image" src="https://github.com/user-attachments/assets/db9ce892-161a-4789-80aa-9cd6c29d853c" />
 
+* Para Summary Question.
 
+<img width="1744" height="960" alt="image" src="https://github.com/user-attachments/assets/191417b2-4ada-4676-985a-e8463f29ceda" />
 
+* Answer -> Option **D**.
 
-
-
-
-
-
-
+<img width="2126" height="1168" alt="image" src="https://github.com/user-attachments/assets/12fc3acd-e693-423f-a0e3-85d70aeae9c1" />
 
 
 
