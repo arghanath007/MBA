@@ -2,8 +2,7 @@
 
 ## Next Class
 
-![image](https://github.com/user-attachments/assets/c876e945-0afa-47f9-abc4-3a8f839ef574)
-
+<img width="1314" height="498" alt="image" src="https://github.com/user-attachments/assets/0c68ec06-ad8f-4f3a-94ce-f8480369b58e" />
 
 ## VARC Article Reading Resources
 
@@ -1918,19 +1917,107 @@
 
 ### VA(18)
 
-#### Para Completion
-
 <img width="2134" height="1322" alt="image" src="https://github.com/user-attachments/assets/79cd1f10-26fa-497e-a689-a6eae3119d82" />
 <img width="2842" height="1318" alt="image" src="https://github.com/user-attachments/assets/5558decb-a13a-4471-8e7c-8667dc24ad13" />
+<img width="2130" height="1170" alt="image" src="https://github.com/user-attachments/assets/eb57cb70-149d-4479-8b9d-656309698788" />
+
+* benign -> Not harmful/Good. [**Meaning**]
+* malign -> Harmful/Not good. [**Meaning**]
+* cavil -> Trivial concern/complain. [**Meaning**]
+
+<img width="2128" height="1328" alt="image" src="https://github.com/user-attachments/assets/34038b67-b258-4d72-aad2-c018b49c85d3" />
+
+* egalitarian -> Equal opportunity. [**Meaning**]
+
+<img width="2134" height="1172" alt="image" src="https://github.com/user-attachments/assets/570cac5b-f959-46b9-bd6c-88ca6c42a043" />
+
+* Option **B** -> Distorted.
+* Option **D** -> Incomplete.
+
+#### Para Completion
+
+<img width="1612" height="710" alt="image" src="https://github.com/user-attachments/assets/aee4d3f7-5272-4253-918e-65c2bb6c960c" />
+<img width="1472" height="704" alt="image" src="https://github.com/user-attachments/assets/1b0059b3-d919-4323-b139-2f1349261fce" />
+<img width="2126" height="1318" alt="image" src="https://github.com/user-attachments/assets/92a9c5f6-7411-4afb-950f-f28abd22cc14" />
+
+* Option **A**.
 
 
+<img width="2022" height="720" alt="image" src="https://github.com/user-attachments/assets/d7459281-c748-45f9-830a-78aefdb2f388" />
+<img width="1378" height="524" alt="image" src="https://github.com/user-attachments/assets/63c9f21b-336d-4647-ba4c-3ab777c8b26c" />
+<img width="2010" height="1024" alt="image" src="https://github.com/user-attachments/assets/8719efea-d7d5-4db4-a32e-c294ab0c44ea" />
+<img width="2126" height="1176" alt="image" src="https://github.com/user-attachments/assets/eff854f6-31ad-40cf-af92-d0759d638dee" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2132" height="1316" alt="image" src="https://github.com/user-attachments/assets/ebf8ed29-b5cf-47a1-8395-bc55f684d780" />
+<img width="2134" height="1320" alt="image" src="https://github.com/user-attachments/assets/fa46792d-cbf4-47d5-8073-b2dda4be33d4" />
 
+* allegory -> Symbolical Tail. [**Meaning**]
+* elegy -> Poem.  [**Meaning**]
+* proffer -> To offer.  [**Meaning**]
+* contemplation -> Deep thought. [**Meaning**]
 
+<img width="594" height="178" alt="image" src="https://github.com/user-attachments/assets/3d26d485-1777-4741-863e-bff97242615c" />
 
+* Yes.
 
+<img width="2126" height="1322" alt="image" src="https://github.com/user-attachments/assets/b70982e4-f6fe-4635-a99e-1624cc6785d1" />
+<img width="2130" height="1172" alt="image" src="https://github.com/user-attachments/assets/ae0df981-8c04-4f95-97a3-50a4b11c0843" />
 
+* [**VERY IMPORTANT**]
+* populist -> They want to appeal to the masses only. [**Meaning**]
+
+<img width="2132" height="1162" alt="image" src="https://github.com/user-attachments/assets/8ab4b3f8-4fcf-4793-887a-814803a8ec1c" />
+<img width="2128" height="1160" alt="image" src="https://github.com/user-attachments/assets/1a7ae0d2-c4a5-40b4-bb4f-e57ef8aa6e90" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2134" height="1320" alt="image" src="https://github.com/user-attachments/assets/d581ca2a-b764-408b-abe6-e2c134d4f591" />
+<img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/039f259b-42bd-47b2-a382-07ff9d4a8646" />
+<img width="2132" height="1184" alt="image" src="https://github.com/user-attachments/assets/b504471c-15c2-4640-9d28-67eef8acfdfa" />
+
+* jingoism -> extreme chauvinism or nationalism marked especially by a belligerent foreign policy -> Negative Word. [**Meaning**]
+
+<img width="2132" height="1320" alt="image" src="https://github.com/user-attachments/assets/b2c58807-5a3d-486f-be77-f798e072e8fd" />
+<img width="2122" height="1320" alt="image" src="https://github.com/user-attachments/assets/60654847-f90c-4047-855c-cf0f55f76a25" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2122" height="1170" alt="image" src="https://github.com/user-attachments/assets/bd72cf55-dee8-4d3a-ab9a-b81057c2f6fe" />
+
+* Occidentalism -> Westernism. [**Meaning**]
+* Orientalism -> Easternism. [**Meaning**]
+* dichotomy-> a division into two. [**Meaning**]
+* adherent -> followers. [**Meaning**]
+
+<img width="2126" height="1322" alt="image" src="https://github.com/user-attachments/assets/97bd2c89-74cc-46bd-bfde-c350610bdf1a" />
+<img width="2806" height="1270" alt="image" src="https://github.com/user-attachments/assets/c144c118-b48a-487d-bf38-d406e2e39ff5" />
+<img width="2096" height="1194" alt="image" src="https://github.com/user-attachments/assets/b5813d44-b128-4119-b4ad-bf3f9f56b4bd" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2128" height="1322" alt="image" src="https://github.com/user-attachments/assets/c0234b06-c8dd-4f3a-9c5c-1e7463a5a4c6" />
+
+* impeccable -> flawless. [**Meaning**]
+
+<img width="2134" height="1320" alt="image" src="https://github.com/user-attachments/assets/61f319a3-0b96-4dc3-8aa0-9629bcde1e62" />
+<img width="2136" height="1176" alt="image" src="https://github.com/user-attachments/assets/d9581b87-cdef-49ba-8ad5-3b26c14ef3e3" />
+<img width="2132" height="1170" alt="image" src="https://github.com/user-attachments/assets/ab39c8f1-3cf1-49d4-bc39-522c1c9b0f08" />
+
+* equanimity -> Equal Mind/Calmness/Composure. [**Meaning**]
+* efficacy -> Effective. [**Meaning**]
+
+<img width="2132" height="1324" alt="image" src="https://github.com/user-attachments/assets/7f9953d4-00a1-495a-b1b4-ce1aed9744a9" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2130" height="1196" alt="image" src="https://github.com/user-attachments/assets/fafb3879-07ae-4339-a072-df6277225d49" />
+<img width="1558" height="662" alt="image" src="https://github.com/user-attachments/assets/35a26bbb-388b-4654-9207-de25c89a81b9" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2134" height="1188" alt="image" src="https://github.com/user-attachments/assets/82896a04-f91e-4447-9af6-7cbc0a4985f5" />
 
 
 
