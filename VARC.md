@@ -403,19 +403,34 @@
 ![image](https://github.com/user-attachments/assets/1878cc64-462e-46b0-b5bb-5017ea94d273)
 ![image](https://github.com/user-attachments/assets/acd78040-a216-4e81-86b9-ada0fb35d7fd)
 
+### RC(20)
 
+<img width="2136" height="1176" alt="image" src="https://github.com/user-attachments/assets/c694db87-1c60-4b68-9c8b-257d5b29f254" />
+<img width="2128" height="1174" alt="image" src="https://github.com/user-attachments/assets/5e92eca7-28ce-42bb-a5d2-1436255a8c48" />
+<img width="2134" height="1168" alt="image" src="https://github.com/user-attachments/assets/744a3772-3469-4867-b91f-a20dc6860cea" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2120" height="1102" alt="image" src="https://github.com/user-attachments/assets/d92125f1-2558-4923-8359-0ba301a3fc21" />
+<img width="2136" height="1172" alt="image" src="https://github.com/user-attachments/assets/c52f2cac-a946-4bf4-8f27-05933cbcea47" />
+<img width="2134" height="1324" alt="image" src="https://github.com/user-attachments/assets/e2b55379-c233-4993-ac90-3eef0847a5a2" />
+<img width="2134" height="1314" alt="image" src="https://github.com/user-attachments/assets/b01199d5-8b4d-4860-a23c-a777269f66c4" />
+<img width="2138" height="1314" alt="image" src="https://github.com/user-attachments/assets/5c04c81e-db61-4c01-b5c6-edb0f5e6e07a" />
+<img width="2130" height="1168" alt="image" src="https://github.com/user-attachments/assets/fa667b0c-a113-49f4-b98e-c1a3ad8f4993" />
+<img width="2128" height="1172" alt="image" src="https://github.com/user-attachments/assets/cce62230-c329-452d-9c7e-1c8ffd32a283" />
+<img width="2130" height="1168" alt="image" src="https://github.com/user-attachments/assets/db01d623-c5a4-4b58-b79c-33f99f52ee54" />
 
+* Answer -> Option **A**.
 
+<img width="2122" height="1186" alt="image" src="https://github.com/user-attachments/assets/bfa1773b-9645-48c0-af0c-ebce0dcdf54e" />
 
+* Option **C**.
+* [**VERY IMPORTANT**]
 
+<img width="1212" height="1026" alt="image" src="https://github.com/user-attachments/assets/550c5b68-0267-4f7b-b0fb-b9f69e13e1e1" />
+<img width="1262" height="968" alt="image" src="https://github.com/user-attachments/assets/0caa9d3e-5499-464d-8c32-6de54854ebc0" />
 
-
-
-
-
-
+* 1hr 3mins.
 
 
 
