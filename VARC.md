@@ -1920,6 +1920,8 @@
 
 #### Para Completion
 
+<img width="2134" height="1322" alt="image" src="https://github.com/user-attachments/assets/79cd1f10-26fa-497e-a689-a6eae3119d82" />
+<img width="2842" height="1318" alt="image" src="https://github.com/user-attachments/assets/5558decb-a13a-4471-8e7c-8667dc24ad13" />
 
 
 
