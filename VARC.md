@@ -393,7 +393,7 @@
 ![image](https://github.com/user-attachments/assets/fa43b4d8-2195-467d-b4a2-dd081ec6cda7)
 ![image](https://github.com/user-attachments/assets/d6d3f563-dde4-42a2-8b32-eed6cfa0556d)
 
-* preempt -> Replace. [Meaning]
+* preempt -> Replace. [**Meaning**]
 
 ![image](https://github.com/user-attachments/assets/8e6fd3a5-010d-4bba-97c3-dea69daa1e26)
 ![image](https://github.com/user-attachments/assets/49044e2e-9a84-4035-86bf-e96ebac17a0b)
@@ -429,8 +429,39 @@
 
 <img width="1212" height="1026" alt="image" src="https://github.com/user-attachments/assets/550c5b68-0267-4f7b-b0fb-b9f69e13e1e1" />
 <img width="1262" height="968" alt="image" src="https://github.com/user-attachments/assets/0caa9d3e-5499-464d-8c32-6de54854ebc0" />
+<img width="2118" height="1190" alt="image" src="https://github.com/user-attachments/assets/d7dd166d-a7f1-424a-aa23-033ba7f7d3d4" />
+<img width="2022" height="950" alt="image" src="https://github.com/user-attachments/assets/f7c3014d-a188-46d3-8853-5f2134c5d41c" />
+<img width="1892" height="1140" alt="image" src="https://github.com/user-attachments/assets/27b01f74-827d-4fcb-93f2-a7f90ab4999b" />
+<img width="2150" height="1162" alt="image" src="https://github.com/user-attachments/assets/cda87515-8b0d-4c1c-bf94-73eac3b3db20" />
 
-* 1hr 3mins.
+* [**VERY IMPORTANT**]
+
+<img width="2142" height="1312" alt="image" src="https://github.com/user-attachments/assets/76572637-d20c-4a09-a813-7f8d57bdf13d" />
+<img width="2158" height="1314" alt="image" src="https://github.com/user-attachments/assets/45e87ba6-0041-4acc-9f0d-44f97ddc630c" />
+<img width="2160" height="1320" alt="image" src="https://github.com/user-attachments/assets/d0aeb550-9164-4b77-a584-331ef09ed2c5" />
+<img width="2150" height="1310" alt="image" src="https://github.com/user-attachments/assets/c129cad7-76be-444b-8295-9fd64eccb46f" />
+
+* allusion -> hint/refer. [**Meaning**]
+* exuberant -> joy/enthusiastic. [**Meaning**]
+* paranoia -> fear. [**Meaning**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2124,6 +2155,7 @@
 ![image](https://github.com/user-attachments/assets/a688b041-80fc-46f9-804f-5b131f5a39b1)
 ![image](https://github.com/user-attachments/assets/2f36354d-7281-44d5-af5c-7c26cafd55b7)
 ![image](https://github.com/user-attachments/assets/6f48940a-32c4-497f-b3de-8c4dfd5d1cbb)
+<img width="1080" height="1054" alt="image" src="https://github.com/user-attachments/assets/654f66a1-fcd7-45cb-868b-a39a11f10a44" />
 
 
 
