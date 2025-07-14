@@ -445,6 +445,15 @@
 * exuberant -> joy/enthusiastic. [**Meaning**]
 * paranoia -> fear. [**Meaning**]
 
+### RC(21)
+
+* Watch from start only.
+
+
+
+
+
+
 
 
 
