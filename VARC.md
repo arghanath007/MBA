@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="1502" height="560" alt="image" src="https://github.com/user-attachments/assets/821f7c12-91af-49b7-9a65-7795115092b4" />
+<img width="1408" height="568" alt="image" src="https://github.com/user-attachments/assets/74a85855-6a92-4ced-9196-37b624116821" />
 
 ## VARC Article Reading Resources
 
