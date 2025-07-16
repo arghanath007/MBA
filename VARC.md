@@ -447,35 +447,71 @@
 
 ### RC(21)
 
-* Watch from start only.
+<img width="2130" height="1180" alt="image" src="https://github.com/user-attachments/assets/d7721959-6605-4487-a3e9-bc9b4e5b442b" />
+<img width="1474" height="852" alt="image" src="https://github.com/user-attachments/assets/9469eb63-a6cc-400a-8104-a6fd4b988714" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2126" height="1188" alt="image" src="https://github.com/user-attachments/assets/4b0a8db4-d225-4cf3-bb87-9512cf6bcede" />
+<img width="2128" height="1184" alt="image" src="https://github.com/user-attachments/assets/5138f13e-a045-4303-806f-5afc5ffddb16" />
+<img width="2138" height="1166" alt="image" src="https://github.com/user-attachments/assets/8e372c79-d648-4281-9294-ac091155d06f" />
+<img width="2130" height="1176" alt="image" src="https://github.com/user-attachments/assets/e2545e95-535f-400a-91d0-d2d635694399" />
+<img width="612" height="472" alt="image" src="https://github.com/user-attachments/assets/548934f5-b2d2-4232-9bad-5ccd7ebb35e3" />
+<img width="608" height="678" alt="image" src="https://github.com/user-attachments/assets/c6f5ae5e-e609-4890-9b89-2846d399cdaf" />
+<img width="614" height="156" alt="image" src="https://github.com/user-attachments/assets/651da4c0-4ee5-4a13-872a-0955a52ecbb6" />
 
+* Summary.
 
+<img width="2136" height="1322" alt="image" src="https://github.com/user-attachments/assets/4d45c004-d547-4fb4-8107-5f50aacae3c2" />
+<img width="2138" height="1188" alt="image" src="https://github.com/user-attachments/assets/c09e2e66-e82c-43a4-aac6-f19221368886" />
 
+* BANE -> Broad Alien Narrow Extreme. [**VERY IMPORTANT**]
 
+<img width="2136" height="1320" alt="image" src="https://github.com/user-attachments/assets/bfff8dc4-d722-44f6-8f4d-80f2ce2769c5" />
+<img width="1602" height="890" alt="image" src="https://github.com/user-attachments/assets/318bdf48-65a7-4bdb-8693-26c84e0b30f4" />
 
+* Option **A**.
 
+<img width="2122" height="1170" alt="image" src="https://github.com/user-attachments/assets/7a3e6eac-8780-47ed-b0cc-557151fc44b5" />
 
+* Option **C**.
 
+<img width="2132" height="1324" alt="image" src="https://github.com/user-attachments/assets/2edff9e5-6698-453b-96a8-b3c756eceb85" />
 
+* Option **C**.
 
+<img width="1726" height="1002" alt="image" src="https://github.com/user-attachments/assets/6c4fc87e-793c-445b-9b46-b0e742731a6b" />
+<img width="2140" height="1182" alt="image" src="https://github.com/user-attachments/assets/98384b1e-29c1-4c0f-974d-d93e9adae436" />
 
+* Option **B**.
 
+<img width="2136" height="1220" alt="image" src="https://github.com/user-attachments/assets/28db1d82-611a-42c4-a41c-1abe5610e2ef" />
+<img width="2126" height="1170" alt="image" src="https://github.com/user-attachments/assets/1aaa4cf8-5697-4293-9442-c9ddb660a95c" />
 
+* [**VERY IMPORTANT**]
 
+#### Logical Structure Questions
 
+<img width="1288" height="836" alt="image" src="https://github.com/user-attachments/assets/da59aa73-29f0-4215-9a66-e9ff8d1d7f2b" />
+<img width="2130" height="1192" alt="image" src="https://github.com/user-attachments/assets/674857d4-32ee-40e4-ae25-f4c0cc6ca995" />
 
+* rhetoric -> persuasive speaking. [**Meaning**]
+* concession -> Acknowledged some of it. [**Meaning**]
+* Counterpoint -> Rebuttle. [**Meaning**]
 
+<img width="2128" height="1174" alt="image" src="https://github.com/user-attachments/assets/69f83240-f869-4558-931a-70956ab9a4bf" />
+<img width="1572" height="718" alt="image" src="https://github.com/user-attachments/assets/a4e900ae-72ad-42f5-8afd-1b311549823d" />
+<img width="1992" height="846" alt="image" src="https://github.com/user-attachments/assets/b1158d5b-3895-437b-8362-f173a2758c1c" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2100" height="1100" alt="image" src="https://github.com/user-attachments/assets/76f16c7b-0dbd-4aa1-a8e2-b44cc2ca6836" />
+<img width="2068" height="1172" alt="image" src="https://github.com/user-attachments/assets/62669746-f25d-4401-9742-73fafff91840" />
+<img width="2128" height="1318" alt="image" src="https://github.com/user-attachments/assets/462c5b2d-0309-445e-ae1b-fd9eb32c0b46" />
+<img width="2130" height="1322" alt="image" src="https://github.com/user-attachments/assets/572be19f-f6f2-4260-9f4b-c0032df33cab" />
 
-
-
-
-
-
-
+* Answer -> Option **B**.
+* 1hr 38mins
 
 
 
