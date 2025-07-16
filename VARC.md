@@ -2,7 +2,8 @@
 
 ## Next Class
 
-<img width="1408" height="568" alt="image" src="https://github.com/user-attachments/assets/74a85855-6a92-4ced-9196-37b624116821" />
+<img width="1456" height="538" alt="image" src="https://github.com/user-attachments/assets/46338913-927b-4c33-b1d1-471cd0212276" />
+
 
 ## VARC Article Reading Resources
 
@@ -511,8 +512,12 @@
 <img width="2130" height="1322" alt="image" src="https://github.com/user-attachments/assets/572be19f-f6f2-4260-9f4b-c0032df33cab" />
 
 * Answer -> Option **B**.
-* 1hr 38mins
 
+<img width="2130" height="1320" alt="image" src="https://github.com/user-attachments/assets/62b446b7-b8b3-4ecb-95a6-f5811e478e00" />
+<img width="2124" height="1322" alt="image" src="https://github.com/user-attachments/assets/918b83f7-5eed-4d59-969f-9615b5aea881" />
+<img width="2130" height="1204" alt="image" src="https://github.com/user-attachments/assets/9acd5369-44bb-494b-b2c9-740c78347638" />
+
+* Answer -> Option **B**.
 
 
 
@@ -2201,6 +2206,7 @@
 ![image](https://github.com/user-attachments/assets/2f36354d-7281-44d5-af5c-7c26cafd55b7)
 ![image](https://github.com/user-attachments/assets/6f48940a-32c4-497f-b3de-8c4dfd5d1cbb)
 <img width="1080" height="1054" alt="image" src="https://github.com/user-attachments/assets/654f66a1-fcd7-45cb-868b-a39a11f10a44" />
+<img width="1314" height="398" alt="image" src="https://github.com/user-attachments/assets/f80ee5ef-5021-4b93-9e3c-a44d4f3af1a0" />
 
 
 
