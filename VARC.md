@@ -519,13 +519,29 @@
 
 * Answer -> Option **B**.
 
+### RC(22)
 
+<img width="1988" height="1130" alt="image" src="https://github.com/user-attachments/assets/ad6f9df5-8561-4495-8c20-b0f2f1d9f85a" />
+<img width="2134" height="1172" alt="image" src="https://github.com/user-attachments/assets/4842df96-5701-4ad9-915c-583f9dc04ec3" />
+<img width="1728" height="1134" alt="image" src="https://github.com/user-attachments/assets/7b4cdcb0-20f4-42e7-93e9-eae97ed2aebc" />
+<img width="2130" height="1176" alt="image" src="https://github.com/user-attachments/assets/af104497-88ae-4df3-98cf-64052d48a21f" />
+<img width="2130" height="1318" alt="image" src="https://github.com/user-attachments/assets/2a0cc9ae-540d-4e5a-98c6-1ec0fa5f8443" />
+<img width="644" height="216" alt="image" src="https://github.com/user-attachments/assets/2e73b4b7-8907-47d0-86e1-df2d8de0bd5a" />
 
+* Same.
 
+<img width="2126" height="1318" alt="image" src="https://github.com/user-attachments/assets/621108f9-4395-46b2-a726-747e8df0931f" />
+<img width="2128" height="1172" alt="image" src="https://github.com/user-attachments/assets/5aaad421-bb28-4a2a-81b9-dc5d262b7a38" />
 
+* Answer -> Option **D**.
 
+<img width="2130" height="1316" alt="image" src="https://github.com/user-attachments/assets/251ad573-6fcb-4680-b36e-6dfddac90ff5" />
+<img width="2126" height="1168" alt="image" src="https://github.com/user-attachments/assets/25fd5382-28c7-4c62-a8bd-72e0563d8606" />
+<img width="2128" height="1184" alt="image" src="https://github.com/user-attachments/assets/4838efa6-dd49-4750-8a7d-05152ba0f995" />
+<img width="2134" height="1176" alt="image" src="https://github.com/user-attachments/assets/0e22bd3d-d3f1-468f-a445-cb3ecab133eb" />
 
-
+* [**VERY IMPORTANT**]
+* Start from 28mins.
 
 
 
