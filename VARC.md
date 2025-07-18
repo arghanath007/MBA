@@ -539,19 +539,35 @@
 <img width="2126" height="1168" alt="image" src="https://github.com/user-attachments/assets/25fd5382-28c7-4c62-a8bd-72e0563d8606" />
 <img width="2128" height="1184" alt="image" src="https://github.com/user-attachments/assets/4838efa6-dd49-4750-8a7d-05152ba0f995" />
 <img width="2134" height="1176" alt="image" src="https://github.com/user-attachments/assets/0e22bd3d-d3f1-468f-a445-cb3ecab133eb" />
+<img width="2138" height="1164" alt="image" src="https://github.com/user-attachments/assets/e59787ac-c20d-4c14-9d30-33290b4c0834" />
 
 * [**VERY IMPORTANT**]
-* Start from 28mins.
 
+<img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/a1686bbb-e3d5-40a6-bfa0-21dff1cecd2d" />
+<img width="2082" height="1138" alt="image" src="https://github.com/user-attachments/assets/0ff863ec-cae8-4fbf-b26e-aafddf4fe6c1" />
+<img width="2118" height="1162" alt="image" src="https://github.com/user-attachments/assets/444f8110-31b7-4c1b-a471-fcc7723152ce" />
+<img width="2132" height="1320" alt="image" src="https://github.com/user-attachments/assets/ed5a420a-f96b-4b72-ab82-0ce33347f8c3" />
+<img width="2138" height="1322" alt="image" src="https://github.com/user-attachments/assets/a904290c-854b-4768-901a-ebc259b60447" />
 
+* Option **B and C** -> Anyone -> **Extreme** work/option.
 
+<img width="2128" height="1324" alt="image" src="https://github.com/user-attachments/assets/8fa2e7f2-ab32-443d-b8f3-5dcdbbcdd1c7" />
+<img width="2132" height="1326" alt="image" src="https://github.com/user-attachments/assets/5e2e45f1-3b62-4b16-a9b0-99e773a78811" />
 
+* threaded -> Tied with/tied with certain underlying plan/Woven with. [Meaning]
 
+<img width="2120" height="1178" alt="image" src="https://github.com/user-attachments/assets/c61396ed-dfc1-42df-b82d-7fdd8b5051ae" />
+<img width="2024" height="956" alt="image" src="https://github.com/user-attachments/assets/b3081ae7-bbf3-400c-96b4-add43e5fa7b4" />
+<img width="2134" height="1318" alt="image" src="https://github.com/user-attachments/assets/602826f5-0951-4bf1-8e9e-f7e88b978f40" />
+<img width="2124" height="1324" alt="image" src="https://github.com/user-attachments/assets/2229efad-c7d7-4f18-b227-5ab52120416c" />
+<img width="2134" height="1322" alt="image" src="https://github.com/user-attachments/assets/854a0af5-c4d1-4314-801f-2bf691626b4f" />
+<img width="2132" height="1316" alt="image" src="https://github.com/user-attachments/assets/d05f0b6f-f5ec-4404-80b7-d537702ec875" />
 
+* Mam marked the wrong answer.
 
+<img width="2130" height="1320" alt="image" src="https://github.com/user-attachments/assets/dfc1b633-1208-44f0-b18c-ef2d6b6dfd2f" />
 
-
-
+* Answer -> Option **D**.
 
 
 
@@ -2223,6 +2239,7 @@
 ![image](https://github.com/user-attachments/assets/6f48940a-32c4-497f-b3de-8c4dfd5d1cbb)
 <img width="1080" height="1054" alt="image" src="https://github.com/user-attachments/assets/654f66a1-fcd7-45cb-868b-a39a11f10a44" />
 <img width="1314" height="398" alt="image" src="https://github.com/user-attachments/assets/f80ee5ef-5021-4b93-9e3c-a44d4f3af1a0" />
+<img width="1888" height="522" alt="image" src="https://github.com/user-attachments/assets/db1b4152-c119-4211-b941-6b4888fd3983" />
 
 
 
