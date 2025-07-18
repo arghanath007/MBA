@@ -2,8 +2,7 @@
 
 ## Next Class
 
-<img width="1456" height="538" alt="image" src="https://github.com/user-attachments/assets/46338913-927b-4c33-b1d1-471cd0212276" />
-
+<img width="1410" height="586" alt="image" src="https://github.com/user-attachments/assets/2526fe33-fc68-4b0d-a149-d5d76f63cbd9" />
 
 ## VARC Article Reading Resources
 
@@ -569,23 +568,38 @@
 
 * Answer -> Option **D**.
 
+### RC(23)
 
+* Q&A with Mam.
+* Strategies and discussion. Look at the PDF of the lecture.
 
+### RC(24)
 
+<img width="2124" height="1296" alt="image" src="https://github.com/user-attachments/assets/c850b5a4-037a-4a11-ae17-87e80a266066" />
+<img width="2130" height="1320" alt="image" src="https://github.com/user-attachments/assets/a801cd7e-3065-429f-acbe-c362b496b795" />
+<img width="2130" height="1330" alt="image" src="https://github.com/user-attachments/assets/9a16fc17-504f-46cd-a971-5dbaa164dd7c" />
+<img width="2054" height="1318" alt="image" src="https://github.com/user-attachments/assets/4b37644f-34d9-4588-b54d-82d4e1bf46a6" />
 
+* anecdote -> short real/true story. [Meaning]
 
+<img width="2130" height="1176" alt="image" src="https://github.com/user-attachments/assets/0a476dc8-55a4-4116-875e-71532430fbda" />
 
+* Analogy questions are **VERY IMPORTANTT**.
 
+<img width="346" height="144" alt="image" src="https://github.com/user-attachments/assets/5d1397eb-b2fb-46f3-a947-53d4f7fc798c" />
 
+* Option **C** -> Trying
+* Option **A** -> Believing.
 
+<img width="2764" height="1238" alt="image" src="https://github.com/user-attachments/assets/27931788-946e-4200-aa96-ba015fa938bf" />
+<img width="2118" height="1174" alt="image" src="https://github.com/user-attachments/assets/8964c36d-2c88-48c2-b2f1-04be4452260e" />
+<img width="2134" height="1170" alt="image" src="https://github.com/user-attachments/assets/e98a9039-2ba0-4a06-95d2-541d4ee3e07c" />
 
+* Behind Us -> Days are gone/no problem there. [Meaning]
 
+<img width="2130" height="1152" alt="image" src="https://github.com/user-attachments/assets/6a0a18f0-ba23-4a6e-9efe-e9f32a592752" />
 
-
-
-
-
-
+* Start from 45mins.
 
 
 
@@ -2240,6 +2254,7 @@
 <img width="1080" height="1054" alt="image" src="https://github.com/user-attachments/assets/654f66a1-fcd7-45cb-868b-a39a11f10a44" />
 <img width="1314" height="398" alt="image" src="https://github.com/user-attachments/assets/f80ee5ef-5021-4b93-9e3c-a44d4f3af1a0" />
 <img width="1888" height="522" alt="image" src="https://github.com/user-attachments/assets/db1b4152-c119-4211-b941-6b4888fd3983" />
+<img width="1292" height="888" alt="image" src="https://github.com/user-attachments/assets/c9079084-2c4a-46f5-9423-8e617289e5d9" />
 
 
 
