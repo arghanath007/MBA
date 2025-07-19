@@ -2,7 +2,11 @@
 
 ## Next Class
 
-<img width="1478" height="548" alt="image" src="https://github.com/user-attachments/assets/e8d31d03-8b63-4039-a17d-5702a351e9fe" />
+<img width="1466" height="570" alt="image" src="https://github.com/user-attachments/assets/cf8cc9b4-d678-4f3e-bbf6-91965203097d" />
+
+## Vocabulary
+
+* Tone -> https://www.writerswrite.co.za/155-words-to-describe-an-authors-tone/
 
 ## VARC Article Reading Resources
 
@@ -624,9 +628,77 @@
 
 <img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/60ee181e-963a-4b59-8f46-1352886674ca" />
 
+### RC(25)
 
+<img width="2026" height="1140" alt="image" src="https://github.com/user-attachments/assets/80b6d2d8-ab1c-4edf-8fed-9ca99f4fb783" />
 
+* Hyperbolic -> exaggerating. [**MEANING**]
 
+<img width="2130" height="1192" alt="image" src="https://github.com/user-attachments/assets/4f39daa2-08ca-4e21-8b50-9c5e626fe19d" />
+
+* Quote -> Verbal Irony/Ironic.
+
+<img width="2128" height="1168" alt="image" src="https://github.com/user-attachments/assets/b1b0bd38-7e89-4178-b84a-1c8f35499756" />
+<img width="614" height="458" alt="image" src="https://github.com/user-attachments/assets/52044992-d9b4-4151-ab1b-098639807603" />
+<img width="624" height="724" alt="image" src="https://github.com/user-attachments/assets/5cec7b1b-7ca0-4be7-81dc-9808ad8ea197" />
+
+* Selling Short -> Finance term -> Trading -> Short selling. [**VERY IMPORTANT**]
+
+<img width="2132" height="1320" alt="image" src="https://github.com/user-attachments/assets/e7190c7c-c431-4d4e-93d1-047c18c05225" />
+
+* grim -> Somber and Sad. [**MEANING**]
+* sanguine -> Optimistic/Hopeful. [**MEANING**]
+* exuberant -> joyously unrestrained and enthusiastic. [**MEANING**]
+
+<img width="2120" height="1166" alt="image" src="https://github.com/user-attachments/assets/0774d6c3-86e5-4f68-99aa-955871f79304" />
+<img width="1544" height="628" alt="image" src="https://github.com/user-attachments/assets/a940fa53-1f35-4aa9-aaa5-0e96a39d7751" />
+<img width="1878" height="804" alt="image" src="https://github.com/user-attachments/assets/02f2b52c-c258-4145-a6c3-30de8e98b1c4" />
+<img width="2088" height="1038" alt="image" src="https://github.com/user-attachments/assets/deaed305-b9e6-4b0e-89df-1d728091e870" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2130" height="1318" alt="image" src="https://github.com/user-attachments/assets/1100df7f-e82d-478d-ab1d-933ea83ff9b8" />
+<img width="2128" height="1194" alt="image" src="https://github.com/user-attachments/assets/afbdac3f-3928-4dc8-bac4-75680d5657b8" />
+
+* Underweight, Thin -> Neutral Tone.
+* Skinny -> Negative Tone.
+* Slender -> Positive Tone.
+
+<img width="2134" height="1172" alt="image" src="https://github.com/user-attachments/assets/10e68b62-826d-40d5-907e-c8c454386cc1" />
+<img width="2130" height="1318" alt="image" src="https://github.com/user-attachments/assets/95e7fa7d-f7fb-4e3c-a430-c7037c7ecf79" />
+
+* sardonic -> mocking, condescending, contemptuous. [**MEANING**]
+* microcosms -> Small universe. [**MEANING**]
+* macrocosms -> Larger Context. [**MEANING**]
+
+<img width="2128" height="1178" alt="image" src="https://github.com/user-attachments/assets/691d8b25-c1ab-4b8d-9554-4e4b6be6ebc5" />
+<img width="2132" height="1162" alt="image" src="https://github.com/user-attachments/assets/7e011237-70e7-42b2-8861-35e392b768bc" />
+<img width="2134" height="1322" alt="image" src="https://github.com/user-attachments/assets/86713ff4-1a53-44ce-ba5c-6ecd0253180a" />
+<img width="2132" height="1170" alt="image" src="https://github.com/user-attachments/assets/395fb96a-b7b3-4a3c-8891-2665952e6ff5" />
+
+* Answer -> Option **C**.
+
+<img width="2132" height="1166" alt="image" src="https://github.com/user-attachments/assets/98c8fc16-885e-463a-a024-9420646ab4fc" />
+<img width="1506" height="1156" alt="image" src="https://github.com/user-attachments/assets/7f3a1694-c253-4d31-a0e1-22ade4758150" />
+
+* [**VERY IMPORTANT**]
+* Tone words -> https://www.writerswrite.co.za/155-words-to-describe-an-authors-tone/. [**VERY IMPORTANT**]
+* incendiary -> provoking, instigating, inciting. [**MEANING**]
+
+<img width="2130" height="1320" alt="image" src="https://github.com/user-attachments/assets/382351d3-7e20-471d-bc2f-2e267f84beb7" />
+<img width="2138" height="1320" alt="image" src="https://github.com/user-attachments/assets/03081cdf-bdcd-41c0-8b7c-5129a48a64c9" />
+<img width="2136" height="1322" alt="image" src="https://github.com/user-attachments/assets/8274fbfb-fea5-423f-8db8-b6be7846aa9c" />
+<img width="2132" height="1202" alt="image" src="https://github.com/user-attachments/assets/3e0d2e56-d053-4361-ade3-d501d25ae743" />
+<img width="2134" height="1320" alt="image" src="https://github.com/user-attachments/assets/bd216668-d775-401b-adcb-34fd88862bd2" />
+<img width="2038" height="1146" alt="image" src="https://github.com/user-attachments/assets/0bee7ab0-d312-4d61-8329-06c25254f3a9" />
+<img width="2082" height="1172" alt="image" src="https://github.com/user-attachments/assets/c9ae54d7-9587-4439-9bf3-08261fe8a17e" />
+<img width="2134" height="1324" alt="image" src="https://github.com/user-attachments/assets/63d8e1de-6783-4530-b410-d9c88866ddc7" />
+<img width="2136" height="1314" alt="image" src="https://github.com/user-attachments/assets/c4951439-bf48-41d5-8f5d-088ee64b1431" />
+
+* Tone -> Concern.
+
+<img width="2138" height="1312" alt="image" src="https://github.com/user-attachments/assets/eae3f33e-5fbb-4f6a-9b18-88d08de2610f" />
+<img width="2138" height="1324" alt="image" src="https://github.com/user-attachments/assets/0701d9d5-7ddb-4ef8-a6fa-7f60a06ce076" />
 
 
 
