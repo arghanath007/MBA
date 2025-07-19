@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="1410" height="586" alt="image" src="https://github.com/user-attachments/assets/2526fe33-fc68-4b0d-a149-d5d76f63cbd9" />
+<img width="1478" height="548" alt="image" src="https://github.com/user-attachments/assets/e8d31d03-8b63-4039-a17d-5702a351e9fe" />
 
 ## VARC Article Reading Resources
 
@@ -598,8 +598,50 @@
 * Behind Us -> Days are gone/no problem there. [Meaning]
 
 <img width="2130" height="1152" alt="image" src="https://github.com/user-attachments/assets/6a0a18f0-ba23-4a6e-9efe-e9f32a592752" />
+<img width="2130" height="1166" alt="image" src="https://github.com/user-attachments/assets/3273ce66-453c-43dd-8490-563530c28288" />
+<img width="2132" height="1328" alt="image" src="https://github.com/user-attachments/assets/aeaef858-00b4-453a-b18e-367123ad276d" />
+<img width="2138" height="1318" alt="image" src="https://github.com/user-attachments/assets/56341cdd-fd15-453a-859c-1c8f5a0284eb" />
+<img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/190c9a32-e268-4a10-b7e4-9156606592da" />
+<img width="610" height="686" alt="image" src="https://github.com/user-attachments/assets/57f1e0aa-d643-4e93-a79a-13511fd78d24" />
 
-* Start from 45mins.
+* [**VERY IMPORTANT**]
+
+<img width="2130" height="1320" alt="image" src="https://github.com/user-attachments/assets/447f55b7-5536-486f-bc36-6f9aed963769" />
+<img width="2126" height="1172" alt="image" src="https://github.com/user-attachments/assets/1e411440-a2ec-4a19-9ecb-8d1068ebe3ca" />
+
+* Regression -> going back. [**MEANING**]
+
+<img width="2136" height="1320" alt="image" src="https://github.com/user-attachments/assets/6faa206a-7794-47ac-8e8d-76659c210eec" />
+<img width="2134" height="1318" alt="image" src="https://github.com/user-attachments/assets/abe67d2c-3f52-409f-8dc3-70a3cd64a529" />
+<img width="2132" height="1322" alt="image" src="https://github.com/user-attachments/assets/018038e2-fd4d-40cb-ab87-145f6c859754" />
+<img width="606" height="422" alt="image" src="https://github.com/user-attachments/assets/9cd9445c-327c-47c1-b385-03b561345ca0" />
+
+* Yes.
+
+<img width="604" height="542" alt="image" src="https://github.com/user-attachments/assets/1985b5a9-ca39-44ab-8dad-f23b9cd1ca79" />
+
+* Yes.
+
+<img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/60ee181e-963a-4b59-8f46-1352886674ca" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2255,6 +2297,7 @@
 <img width="1314" height="398" alt="image" src="https://github.com/user-attachments/assets/f80ee5ef-5021-4b93-9e3c-a44d4f3af1a0" />
 <img width="1888" height="522" alt="image" src="https://github.com/user-attachments/assets/db1b4152-c119-4211-b941-6b4888fd3983" />
 <img width="1292" height="888" alt="image" src="https://github.com/user-attachments/assets/c9079084-2c4a-46f5-9423-8e617289e5d9" />
+<img width="1884" height="518" alt="image" src="https://github.com/user-attachments/assets/f6d67a1c-bb46-47c0-aba6-08f2d7c998d0" />
 
 
 
