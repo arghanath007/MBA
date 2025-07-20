@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="1404" height="584" alt="image" src="https://github.com/user-attachments/assets/b901b30f-6d6f-4d5a-b31a-8bcaff885c91" />
+<img width="1398" height="600" alt="image" src="https://github.com/user-attachments/assets/73df2333-ebf1-4868-ade2-4ad203a52f10" />
 
 ## Vocabulary
 
@@ -1885,30 +1885,73 @@
 <img width="2132" height="1322" alt="image" src="https://github.com/user-attachments/assets/a6a86d8f-d8c2-4754-81af-170d89778707" />
 <img width="2126" height="1180" alt="image" src="https://github.com/user-attachments/assets/b0ff1490-dd6f-4318-ab52-36ff089d242d" />
 
+### RC(27)
 
+<img width="2134" height="1320" alt="image" src="https://github.com/user-attachments/assets/b3d8cffd-ad52-4d06-a27f-9ffa053c4437" />
+<img width="2128" height="1208" alt="image" src="https://github.com/user-attachments/assets/efc28d42-9529-4068-abb5-e12cae4dbd5b" />
 
+* Paradox Question. [**VERY IMPORTANT**]
 
+<img width="2132" height="1172" alt="image" src="https://github.com/user-attachments/assets/59093e9c-faa3-4afb-bd50-1fd420865dd0" />
 
+* Tricky Question.
 
+<img width="2130" height="1322" alt="image" src="https://github.com/user-attachments/assets/735dd761-82a1-4379-bec4-f1bfa345f5a5" />
+<img width="2134" height="1190" alt="image" src="https://github.com/user-attachments/assets/41411879-f690-4aac-844a-c5152415258c" />
 
+* Option **B and D** -> Irrevalent options.
 
+<img width="2126" height="1172" alt="image" src="https://github.com/user-attachments/assets/f10d9e78-72a0-47a1-8c9f-6bd71c3b97d9" />
 
+* Tricky Question. [**VERY IMPORTANT**]
 
+<img width="2128" height="1322" alt="image" src="https://github.com/user-attachments/assets/b40dd5af-c511-4fb8-b5b1-3ec1b3acdbbd" />
+<img width="438" height="142" alt="image" src="https://github.com/user-attachments/assets/b1e855d3-0137-4cb6-9047-a521149c8e67" />
+<img width="2126" height="1296" alt="image" src="https://github.com/user-attachments/assets/bc9f8f6b-bbf7-4fbd-8ae1-6d5d44653651" />
+<img width="2134" height="1324" alt="image" src="https://github.com/user-attachments/assets/2123857a-253c-4b20-990e-9a991a7c979a" />
+<img width="2134" height="1174" alt="image" src="https://github.com/user-attachments/assets/9da72321-5a4b-4ca4-ac64-a564960885c0" />
 
+* Tricky Question. [**VERY IMPORTANT**]
 
+<img width="2748" height="1238" alt="image" src="https://github.com/user-attachments/assets/5598cc68-d596-4476-9a92-6a24ab122593" />
 
+* Don't get confused with the content, focus on the structure. [**VERY IMPORTANT**]
 
+<img width="2134" height="1324" alt="image" src="https://github.com/user-attachments/assets/f921909f-b55b-407e-aa52-edabde83680f" />
 
+* MC -> Main Conclusion.
+* SC -> Secondary Conclusion.
 
+<img width="2124" height="1154" alt="image" src="https://github.com/user-attachments/assets/b8758359-8bd2-468e-b492-d55ac22aed3c" />
+<img width="2120" height="1206" alt="image" src="https://github.com/user-attachments/assets/9fa59999-a1fa-4b56-96f5-ddfe4149af67" />
 
+* Answer -> Option **C**.
 
+<img width="2124" height="1320" alt="image" src="https://github.com/user-attachments/assets/888a9cef-75f8-445a-846f-c9482966c0c7" />
+<img width="2130" height="1176" alt="image" src="https://github.com/user-attachments/assets/8948230f-27c6-4d54-b39a-85a7cf79f266" />
 
+* Whether -> Evaluating an argument.
+* Tricky Question. [**VERY IMPORTANT**]
 
+<img width="2136" height="1316" alt="image" src="https://github.com/user-attachments/assets/420a0899-f5df-4d56-98ee-ddd9b1b3b5a9" />
+<img width="2134" height="1164" alt="image" src="https://github.com/user-attachments/assets/858e6680-d34b-4fb6-b5a2-e82eb253eaef" />
+<img width="2132" height="1166" alt="image" src="https://github.com/user-attachments/assets/495774d1-e02c-4bd6-abec-4b2dfe0aaf7f" />
+<img width="2132" height="1180" alt="image" src="https://github.com/user-attachments/assets/c5c5ea0b-f8db-4b65-a7aa-4fc9e8895626" />
+<img width="2132" height="1186" alt="image" src="https://github.com/user-attachments/assets/dba292d0-de68-4f4f-9204-79cbcfa180ad" />
 
+* Tricky Question. [**VERY IMPORTANT**]
 
+<img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/4de75d4b-bf7b-4e2f-9e07-9c407846cfdf" />
+<img width="616" height="290" alt="image" src="https://github.com/user-attachments/assets/3bc0aad5-3897-4ef3-9190-36e6ba70a764" />
 
+* Tricky Question. [**VERY IMPORTANT**]
 
+<img width="2132" height="1168" alt="image" src="https://github.com/user-attachments/assets/9570bb37-2ede-46ae-8ace-31a9e26b234b" />
+<img width="2758" height="1266" alt="image" src="https://github.com/user-attachments/assets/b39c7193-5c47-4f31-bcb6-2043e022233a" />
+<img width="2770" height="1268" alt="image" src="https://github.com/user-attachments/assets/85e79e83-7553-4754-b84b-67b0986bf003" />
+<img width="2134" height="1176" alt="image" src="https://github.com/user-attachments/assets/8c5bfa37-7c0b-457f-878b-54266a3e2985" />
 
+* [**VERY IMPORTANT**]
 
 
 
@@ -2489,6 +2532,7 @@
 <img width="1888" height="522" alt="image" src="https://github.com/user-attachments/assets/db1b4152-c119-4211-b941-6b4888fd3983" />
 <img width="1292" height="888" alt="image" src="https://github.com/user-attachments/assets/c9079084-2c4a-46f5-9423-8e617289e5d9" />
 <img width="1884" height="518" alt="image" src="https://github.com/user-attachments/assets/f6d67a1c-bb46-47c0-aba6-08f2d7c998d0" />
+<img width="1904" height="810" alt="image" src="https://github.com/user-attachments/assets/43649be3-cbe3-45f5-bad8-8687a2f41b69" />
 
 
 
