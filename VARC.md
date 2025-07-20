@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="1466" height="570" alt="image" src="https://github.com/user-attachments/assets/cf8cc9b4-d678-4f3e-bbf6-91965203097d" />
+<img width="1404" height="584" alt="image" src="https://github.com/user-attachments/assets/b901b30f-6d6f-4d5a-b31a-8bcaff885c91" />
 
 ## Vocabulary
 
@@ -1807,6 +1807,125 @@
 ![image](https://github.com/user-attachments/assets/86a6e334-6e3a-4da3-bd7a-85ffbd3d8f21)
 ![image](https://github.com/user-attachments/assets/aec590d1-2488-4487-9c2c-39e926013bfb)
 ![image](https://github.com/user-attachments/assets/e91940d2-d986-445d-a89f-19ab813f4a84)
+
+### CR(26)
+
+<img width="1732" height="946" alt="image" src="https://github.com/user-attachments/assets/ba68b6d0-9ba8-40c3-9ea2-1a10ced253dd" />
+<img width="1518" height="860" alt="image" src="https://github.com/user-attachments/assets/68769126-baa7-4d22-9a2b-71653067c95d" />
+
+* These can be asked as RC questions as well. [**VERY IMPORTANT**]
+
+<img width="2126" height="1320" alt="image" src="https://github.com/user-attachments/assets/e132d401-1f18-4bb7-b545-a662b5460b52" />
+
+* Option **A** -> Extreme option.
+
+<img width="2122" height="1170" alt="image" src="https://github.com/user-attachments/assets/90ed4080-2675-451f-98b1-aab4bda19dac" />
+<img width="2124" height="1318" alt="image" src="https://github.com/user-attachments/assets/ecb9c7bf-e26b-4b97-9ef0-a0e4959affc1" />
+<img width="2130" height="1190" alt="image" src="https://github.com/user-attachments/assets/0bc59faf-5237-4efb-aeef-3fb09924c547" />
+
+* [**VERY IMPORTANT**]
+
+#### BoldFace
+
+<img width="1014" height="1038" alt="image" src="https://github.com/user-attachments/assets/9f078dde-4fc9-4e37-857a-f2315606c8eb" />
+<img width="2128" height="1172" alt="image" src="https://github.com/user-attachments/assets/269aee04-d27c-460b-a694-8d3ea438ae61" />
+
+* engender -> generate. [**MEANING**]
+
+<img width="2134" height="1326" alt="image" src="https://github.com/user-attachments/assets/7d590994-b82d-477f-8a18-d58b334bbdce" />
+<img width="2134" height="1176" alt="image" src="https://github.com/user-attachments/assets/7825c891-30d8-4e8f-82b0-bdc69a532edb" />
+
+* concession -> Context. [**MEANING**]
+* Context -> Background. [**MEANING**]
+* discredit -> incorrect/Unreliable. [**MEANING**]
+* Last Statement of the passage -> Conlusion.
+* Answer -> Option **B**.
+
+<img width="2120" height="1198" alt="image" src="https://github.com/user-attachments/assets/f63dae9c-3606-481f-95eb-df052c9b4cdc" />
+<img width="2128" height="1172" alt="image" src="https://github.com/user-attachments/assets/a82f25a1-a99b-4be3-b6e7-83906a09df03" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2132" height="1318" alt="image" src="https://github.com/user-attachments/assets/9538eda3-19aa-45e4-8bb8-0aa70cd3dbd8" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2136" height="1168" alt="image" src="https://github.com/user-attachments/assets/705b0cad-e6d7-4a29-b224-5a635f3eaf4f" />
+
+* AP -> Author Premise.
+
+<img width="2122" height="1192" alt="image" src="https://github.com/user-attachments/assets/beca4db8-eed3-4d2d-a055-061083017d70" />
+
+* Circular reasoning.
+
+<img width="2136" height="1158" alt="image" src="https://github.com/user-attachments/assets/b59820bf-22cf-404e-a070-5d68b2f18bb9" />
+<img width="2130" height="1314" alt="image" src="https://github.com/user-attachments/assets/08479cac-5b4b-434a-815f-70123ab7bb68" />
+<img width="2132" height="1186" alt="image" src="https://github.com/user-attachments/assets/40004671-01e7-407c-86b6-8e9307557992" />
+<img width="2136" height="1176" alt="image" src="https://github.com/user-attachments/assets/dff41ad7-58d6-48a4-a22f-9fb661e859f3" />
+<img width="2132" height="1326" alt="image" src="https://github.com/user-attachments/assets/2eba7621-35ec-4755-97b9-52e3a50a3123" />
+<img width="2134" height="1174" alt="image" src="https://github.com/user-attachments/assets/28f7fc3f-9dd0-460a-ba4a-0a68ceda06d1" />
+
+* Answer -> Option **A**.
+
+<img width="2142" height="1172" alt="image" src="https://github.com/user-attachments/assets/4e667f55-4998-424e-a544-15d4b8ddc5bb" />
+<img width="2138" height="1188" alt="image" src="https://github.com/user-attachments/assets/175e5470-b8bc-4f4f-ba24-badd03e4fafd" />
+<img width="2130" height="1316" alt="image" src="https://github.com/user-attachments/assets/192bb652-8923-4cd5-8177-77d63856554b" />
+
+* supposition -> something that is supposed. [**MEANING**]
+
+<img width="2130" height="1192" alt="image" src="https://github.com/user-attachments/assets/1c888d66-9fad-4ead-8c7a-a7b04962ed10" />
+
+* discrepancy -> [**MEANING**]
+
+<img width="2126" height="1178" alt="image" src="https://github.com/user-attachments/assets/1aa1811a-47f5-47ee-b5b3-8e81b850f9d1" />
+
+* [**VERY IMPORTANT**]
+
+<img width="598" height="600" alt="image" src="https://github.com/user-attachments/assets/79cffdf7-b73c-4373-a093-240b29a09081" />
+<img width="2132" height="1322" alt="image" src="https://github.com/user-attachments/assets/a6a86d8f-d8c2-4754-81af-170d89778707" />
+<img width="2126" height="1180" alt="image" src="https://github.com/user-attachments/assets/b0ff1490-dd6f-4318-ab52-36ff089d242d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Verbal Ability(VA)
 
