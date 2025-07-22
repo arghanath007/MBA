@@ -223,16 +223,193 @@
 <img width="2100" height="1250" alt="image" src="https://github.com/user-attachments/assets/8beaf206-2a8c-474b-a0df-51a312471c67" />
 <img width="2142" height="1274" alt="image" src="https://github.com/user-attachments/assets/7dded709-ed1b-429e-931b-1ecb85ded7b6" />
 <img width="2144" height="1206" alt="image" src="https://github.com/user-attachments/assets/8c62c76b-0319-4fb8-a90d-440f3268478f" />
+<img width="2072" height="1174" alt="image" src="https://github.com/user-attachments/assets/d89e89a2-b784-4bd5-af91-c94ada38ba17" />
+<img width="2126" height="1218" alt="image" src="https://github.com/user-attachments/assets/198b6166-e4b6-4964-8f0c-85154bf547d4" />
 
+* No. of pieces -> 2*n + 1. [Formula] [**VERY IMPORTANT**]
 
+<img width="2134" height="1204" alt="image" src="https://github.com/user-attachments/assets/dc56d77c-93c3-44f9-8aca-ddbf9229d7bc" />
+<img width="2150" height="1210" alt="image" src="https://github.com/user-attachments/assets/5a03b5a4-5a93-4ddd-a6ef-2ff7bf48a155" />
+<img width="2136" height="1194" alt="image" src="https://github.com/user-attachments/assets/c0f935ab-7059-480e-9220-3c7836e9b883" />
+<img width="2136" height="1216" alt="image" src="https://github.com/user-attachments/assets/fffe66d8-8fe7-436e-b2ce-eee1e58d1eb7" />
 
+* 1 -> 2cuts.
+* 2 -> 63
+* 3 -> 159
+* 4 -> 383.
+* Answers.
 
+<img width="2126" height="1248" alt="image" src="https://github.com/user-attachments/assets/5d8595c9-606c-46c8-b962-340a23434c13" />
+<img width="2136" height="1340" alt="image" src="https://github.com/user-attachments/assets/457e5949-4dce-477d-a5d0-222ebd5b28f2" />
+<img width="2146" height="1406" alt="image" src="https://github.com/user-attachments/assets/cc9f408e-2943-42b6-98c4-8ef5c7ab4b78" />
 
+* 9 -> 8+1.
+* 10 -> 8+2.
+* 11 -> 8+3
+* 12 -> 8+4
+* 13 -> 8+4+1
+* 14 -> 8+4+2
+* 15 -> 8+4+2+1.
+* 16 -> New bar of 16g. 
 
+<img width="2148" height="1258" alt="image" src="https://github.com/user-attachments/assets/21b2a0ef-20c7-4cb8-aa12-f58ee4d35792" />
+<img width="1722" height="920" alt="image" src="https://github.com/user-attachments/assets/54d8114a-affc-4e6a-af7c-8f4664858e55" />
 
+* Q4
 
+<img width="814" height="804" alt="image" src="https://github.com/user-attachments/assets/da0af5bd-3783-4580-92c1-3333b7b81e79" />
+<img width="866" height="828" alt="image" src="https://github.com/user-attachments/assets/552c153e-0921-45d5-b7b2-35a214e321d3" />
+<img width="926" height="954" alt="image" src="https://github.com/user-attachments/assets/9e67cd17-a2b0-4d66-ab08-856d9e81863e" />
+<img width="1562" height="1068" alt="image" src="https://github.com/user-attachments/assets/6e8ce99a-db7b-443f-a6c5-c1f5049ac4b3" />
+<img width="1740" height="1164" alt="image" src="https://github.com/user-attachments/assets/3aff6184-8395-4c94-8246-2ac15f7617d9" />
+<img width="1612" height="1104" alt="image" src="https://github.com/user-attachments/assets/018b3971-fb49-4cd4-87d5-7e3b0fc56c38" />
+<img width="1724" height="1154" alt="image" src="https://github.com/user-attachments/assets/4afdd4d9-416c-41c4-9ffe-cbf749a4fea4" />
+<img width="1814" height="1160" alt="image" src="https://github.com/user-attachments/assets/ffab8a09-d985-4a39-a4a0-8de33e12c9a6" />
+<img width="2034" height="1148" alt="image" src="https://github.com/user-attachments/assets/0356d663-f872-47fa-8bb5-5b1945dd9fbc" />
+<img width="2126" height="1184" alt="image" src="https://github.com/user-attachments/assets/ec2d55a0-880c-4fcb-8ff1-a5bb704a94c5" />
+<img width="2130" height="1182" alt="image" src="https://github.com/user-attachments/assets/403de8ec-79e1-4c84-bb3a-73ec47897b71" />
 
+* Start from '1'
+* 1st round -> All even nos. gone.
+* After round 1, '1' has the sword.
 
+<img width="2126" height="1174" alt="image" src="https://github.com/user-attachments/assets/3ac8f342-1b65-431b-b328-5aea31eaaf47" />
+
+* After round 2, '1' has the sword.
+
+<img width="2118" height="1168" alt="image" src="https://github.com/user-attachments/assets/8c7ec801-65d3-4031-8057-9b7a6d20c4b8" />
+
+* After round 3, '1' has the sword.
+
+<img width="2132" height="1180" alt="image" src="https://github.com/user-attachments/assets/49605ca2-6329-4f1b-9a95-7bb5edc24dc8" />
+
+* After round 4, '1' has the sword.
+
+<img width="2122" height="1176" alt="image" src="https://github.com/user-attachments/assets/f0b69c70-2dcb-4a48-8668-491e37b332a9" />
+
+* Survivor=1.
+* Penultimate survivor=9.
+
+<img width="2758" height="1270" alt="image" src="https://github.com/user-attachments/assets/8ba0cfe2-9685-4769-8655-b6c762526c88" />
+
+* We are working on powers of '2' -> Survivor is always '1'. [Formula] [**VERY IMPORTANT**]
+
+<img width="2134" height="1174" alt="image" src="https://github.com/user-attachments/assets/b03548f1-b886-458b-9234-09f8ec297df0" />
+<img width="2126" height="1168" alt="image" src="https://github.com/user-attachments/assets/6ad872dc-4bb9-4ea7-9f23-c3b981310c7a" />
+
+* WHEN, n = 2^k. [Powers of '2']
+* Survivor -> 1
+* Penultimate survivor -> (2^k)/2 + 1. [Formula] [**VERY IMPORTANT**]
+
+<img width="2090" height="1150" alt="image" src="https://github.com/user-attachments/assets/12964bb6-be4d-4aef-9580-6a20d69a8627" />
+<img width="1986" height="1114" alt="image" src="https://github.com/user-attachments/assets/df820ab2-fbb2-4ae5-a19f-c6b2a57b4579" />
+
+* Started from '1'.
+* Round '1'.
+
+<img width="2086" height="1148" alt="image" src="https://github.com/user-attachments/assets/29578a4e-e8f9-45f5-82e5-5487166629c2" />
+
+* Round '2'.
+* Started from '3'.
+
+<img width="2020" height="1130" alt="image" src="https://github.com/user-attachments/assets/f6abdab8-c28f-42fb-935c-979a07cd7c48" />
+
+* Round '3'.
+
+<img width="2060" height="1156" alt="image" src="https://github.com/user-attachments/assets/6ad2f319-b42c-4984-b9c1-571dfc779d78" />
+<img width="1808" height="1098" alt="image" src="https://github.com/user-attachments/assets/2b3add62-8179-42a9-a7c0-692afff7a7c2" />
+
+* Survivor -> 11.
+* Penultimate survivor -> 3.
+* '13' is not in the power of '2'.
+* Closest power of '2' which is less than 13 is '8'. [2^3=8]
+
+<img width="1998" height="1106" alt="image" src="https://github.com/user-attachments/assets/b032ded9-8f2b-40e6-af17-9a7b466f5e91" />
+
+* Sequence of person killed -> 2, 4, 6, 8, 10 -> The 1st '5' people who were killed.
+* The 1st person after '5' people are killed -> 11.
+* That's why our survivor is '11' at the end because '11' is the 1st person after '5' people are killed.
+* If only '2^3=8' people there in the group then the answer would have been '1' only who is the survivor. As we have seen earlier.
+
+<img width="2126" height="1182" alt="image" src="https://github.com/user-attachments/assets/30ce0525-d3c4-4519-8567-f53c67368034" />
+<img width="2116" height="1138" alt="image" src="https://github.com/user-attachments/assets/c6cf9d1a-d48e-4a6b-876d-adc79a9ea804" />
+<img width="2138" height="1200" alt="image" src="https://github.com/user-attachments/assets/f430bd81-eb8f-4d03-8a6b-5b1ca51782e2" />
+
+* Closest power of '2' which is less than 5 is '4'. [2^2=4]
+* 5 -> 2^2 + 1.
+* Penultimate survivor -> 1*2 + 1 -> 3.
+* To kill '5' people we would need exactly '10' people.
+
+<img width="2134" height="1202" alt="image" src="https://github.com/user-attachments/assets/fe77f24d-d98c-4547-8f2d-1b474fcfae79" />
+
+* survivor -> 5*2 + 1 -> 11.
+
+<img width="2036" height="1146" alt="image" src="https://github.com/user-attachments/assets/8ba1e44b-5fce-4b6d-ae3e-198201eabfec" />
+
+* To kill '1' people we would need exactly '2' people.
+
+<img width="1154" height="730" alt="image" src="https://github.com/user-attachments/assets/3b0505dd-f623-44fc-9f0b-fa1ce14f1e45" />
+
+* To kill '7' people we would need exactly '14' people. We doing '+1' because after those '7' people are killed the next person is going to be the survivor as we have seen earlier.
+* For **Penultimate survivor** we are focussing on the extra people who are not in the power of '2'.
+* Closest power of '2' which is less than 7 is '4'. [2^2=4]
+* 7 -> 2^2 + 3.
+
+<img width="2092" height="1184" alt="image" src="https://github.com/user-attachments/assets/c263089c-69d8-49c9-b3d2-bb587c427229" />
+
+* Extra people we have '3'.
+* To kill '3' people we would need exactly '6' people.
+
+<img width="2032" height="1162" alt="image" src="https://github.com/user-attachments/assets/e2fc8249-ffd9-48c0-a137-a82da914aac9" />
+<img width="2088" height="1190" alt="image" src="https://github.com/user-attachments/assets/cec303ae-29ab-456b-bb25-dad1be2cb265" />
+<img width="2024" height="1174" alt="image" src="https://github.com/user-attachments/assets/528f93c7-1b16-4264-9d3f-59fe2f00d9ef" />
+<img width="1962" height="1144" alt="image" src="https://github.com/user-attachments/assets/d6bc4c9e-2eb0-4445-9703-59d0a14ef00d" />
+
+* [Formula] [**VERY IMPORTANT**]
+
+<img width="1446" height="1152" alt="image" src="https://github.com/user-attachments/assets/c326d4a6-1eb3-4d01-b97e-5f7111d72028" />
+<img width="2100" height="1170" alt="image" src="https://github.com/user-attachments/assets/785dca20-2e62-484f-a5ee-99381b6caad5" />
+
+* 1
+
+<img width="2048" height="1168" alt="image" src="https://github.com/user-attachments/assets/e1dc532f-cbc7-43d1-8df7-c4369365a32d" />
+<img width="1524" height="1020" alt="image" src="https://github.com/user-attachments/assets/c2076fad-cc53-4763-b2f4-98c604439fec" />
+
+* 2
+* Penultimate survivor -> n/2 + 1. [Formula] [**VERY IMPORTANT**]
+
+<img width="708" height="748" alt="image" src="https://github.com/user-attachments/assets/282b6b17-82ea-469c-9fb3-74bcb89045f3" />
+
+* Doubt. [Wrong]
+
+<img width="924" height="910" alt="image" src="https://github.com/user-attachments/assets/7f3ce9b9-fe9a-49b3-bf9d-27fb08608f26" />
+
+* Correct.
+
+<img width="2102" height="1182" alt="image" src="https://github.com/user-attachments/assets/6ed3142d-b829-4c8b-90c9-3b85742e057f" />
+
+* 3.
+
+<img width="2092" height="1174" alt="image" src="https://github.com/user-attachments/assets/b237b564-fd7b-47a6-9c1a-82499832f4c6" />
+<img width="2790" height="1250" alt="image" src="https://github.com/user-attachments/assets/ad3b9fe0-8eda-4930-8cd9-5a546a6f1e4d" />
+<img width="2048" height="1174" alt="image" src="https://github.com/user-attachments/assets/946c0d07-298d-4df8-b4f0-d62289520759" />
+<img width="2096" height="1188" alt="image" src="https://github.com/user-attachments/assets/1727764b-089a-4f2e-a23e-cc78f1d0033b" />
+<img width="2114" height="1174" alt="image" src="https://github.com/user-attachments/assets/392a6a6a-62d2-4c5f-9493-8825306e1059" />
+<img width="2080" height="1190" alt="image" src="https://github.com/user-attachments/assets/49ce0077-3443-4ae8-92b9-20cd4749616f" />
+
+* 4.
+
+<img width="2114" height="1190" alt="image" src="https://github.com/user-attachments/assets/87261e26-5022-4303-8354-8283f601338e" />
+<img width="2114" height="1162" alt="image" src="https://github.com/user-attachments/assets/c5f9c19c-00e2-472d-9d80-aea8ea7b3cda" />
+<img width="2122" height="1208" alt="image" src="https://github.com/user-attachments/assets/b1c91e7b-8fb5-4573-ba40-130cf5738ede" />
+<img width="2078" height="1118" alt="image" src="https://github.com/user-attachments/assets/6b413d97-866c-488e-bbba-fc1f4b3d5074" />
+<img width="1700" height="806" alt="image" src="https://github.com/user-attachments/assets/9bdf32bc-15bc-4518-b73a-3e8a767c6484" />
+<img width="1438" height="596" alt="image" src="https://github.com/user-attachments/assets/a026ac85-2912-41e6-a2c4-f4556ad7cddf" />
+
+* 5
+* Start from 54mins.
+
+<img width="2014" height="1128" alt="image" src="https://github.com/user-attachments/assets/74d3878f-4c7e-4a93-8992-0575a6db46e0" />
 
 
 
