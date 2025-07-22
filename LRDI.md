@@ -133,14 +133,96 @@
 <img width="2126" height="1168" alt="image" src="https://github.com/user-attachments/assets/ff28fbf6-5974-43e9-b236-2f6193a6117a" />
 
 * If we have 'n' weights then we can measure upto '((3^n) - 1)/2'. [Formula] [**VERY IMPORTANT**]
-* Start from 22mins.
 
+<img width="2034" height="1150" alt="image" src="https://github.com/user-attachments/assets/a5d745f5-0d3b-4680-8142-01901604fe9f" />
 
+* Q3.
 
+<img width="2020" height="1114" alt="image" src="https://github.com/user-attachments/assets/45cb53a1-d87d-4938-8127-ae586321ec57" />
+<img width="2128" height="1196" alt="image" src="https://github.com/user-attachments/assets/c156a3e5-af93-4f1d-b471-bf9f0429c176" />
+<img width="2126" height="1188" alt="image" src="https://github.com/user-attachments/assets/4500ba6f-8d0a-4540-aae7-ab64082c7e60" />
+<img width="2130" height="1172" alt="image" src="https://github.com/user-attachments/assets/a1bcb7c3-dd68-46f2-a2ed-0e5a01e0c51d" />
+<img width="2126" height="1210" alt="image" src="https://github.com/user-attachments/assets/264841b7-2b84-4684-b7af-899c198cd0ec" />
+<img width="2122" height="1208" alt="image" src="https://github.com/user-attachments/assets/c5e58245-c28f-4401-960c-1b6c3d0b0f28" />
+<img width="2118" height="1190" alt="image" src="https://github.com/user-attachments/assets/34fdf6c0-bf54-46b7-ba19-f51ada7b1ef9" />
 
+* If we do '3' cuts then we will get '3' 1g rings of gold.
 
+<img width="2150" height="1280" alt="image" src="https://github.com/user-attachments/assets/a91646df-582a-41b7-bd9a-b5eef7570e78" />
 
+* If we do '4' cuts then we will get '4' 1g rings of gold.
 
+<img width="2124" height="1240" alt="image" src="https://github.com/user-attachments/assets/4edd46d5-a6da-48b2-b1ee-6eb68f4287d7" />
+<img width="2124" height="1240" alt="image" src="https://github.com/user-attachments/assets/78ac35a4-159e-4772-a7ac-e1837aa3dd08" />
+
+* 5+8 -> 13
+
+<img width="2124" height="1240" alt="image" src="https://github.com/user-attachments/assets/85a7a58b-1112-459d-bdcc-dbf219fe5d36" />
+<img width="2136" height="1208" alt="image" src="https://github.com/user-attachments/assets/9a3768f4-fcfb-4511-acf3-a764e94a6f82" />
+<img width="2146" height="1296" alt="image" src="https://github.com/user-attachments/assets/f9098285-e2e6-44a6-9e54-46ab6abebc88" />
+
+* The 1st cut was made on 5th ring.
+* The 2nd cut was on 14th ring.
+* If we cut on 31st ring -> 31-15 -> 16g loop -> From 15th ring to 30th ring.
+* 16+8+4+3*1 -> 31 rings -> We can make payments upto 31g.
+
+<img width="2144" height="1286" alt="image" src="https://github.com/user-attachments/assets/4a4959dc-ca78-4ba2-bb81-b8fe4f700ba1" />
+
+* We cannot do payment of 32g. So the loop after 31st ring has to be 32g so that we can make 32g payments as well.
+
+<img width="2142" height="1340" alt="image" src="https://github.com/user-attachments/assets/a399e702-f3c2-4009-a632-e579e27f1c46" />
+<img width="2142" height="1250" alt="image" src="https://github.com/user-attachments/assets/87ffbd73-7876-4b9a-93b4-b19c62d73b32" />
+
+* 3*1g -> 5th, 14th and 31st rings.
+* '2' cuts -> 1+1+3+6+12 -> 23g.
+* '3' cuts -> 3*1+4+8+16+32 -> 63g.
+
+<img width="2094" height="1172" alt="image" src="https://github.com/user-attachments/assets/8fbf6c45-21c8-4438-8e1f-7fbd253d5a8d" />
+<img width="2144" height="1276" alt="image" src="https://github.com/user-attachments/assets/a6e3a5c1-a9fc-43f2-a975-4fe21f02edb2" />
+
+* We now want 10 loop ring as we cannot do 10g payment.
+* 6+10 -> 16.
+* We will do cut on 17th loop. [2nd Cut]
+* 16-7+1=10g. 
+
+<img width="2158" height="1234" alt="image" src="https://github.com/user-attachments/assets/b04d2aff-65ac-48b6-b37e-b1bffd3e7bbf" />
+
+* 4*1+5+10 -> 19g
+* We can do payment still 19g.
+* We cannot do payment of 20g. We need a loop of 20g next.
+* 17+1+20 -> 38th loop. [3rd Cut]
+
+<img width="2154" height="1258" alt="image" src="https://github.com/user-attachments/assets/e81558e5-2d40-4f50-93b2-c1b86dd359af" />
+<img width="2120" height="1278" alt="image" src="https://github.com/user-attachments/assets/f6790184-a51b-44b0-9dfd-a3fe46e0532b" />
+
+* 4*1+5+10+20 -> 39g
+* We can do payment still 39g.
+* We cannot do payment of 40g. We need a loop of 40g next.
+* 38+1+40 -> 79th loop. [4th Cut]
+
+<img width="2144" height="1210" alt="image" src="https://github.com/user-attachments/assets/3343170d-aec4-4288-8f11-693efbcbe056" />
+<img width="2134" height="1258" alt="image" src="https://github.com/user-attachments/assets/564e6ce8-d47b-40c2-bf64-ee072cdbf87c" />
+
+* We will put cut on 79th ring and not on 80th ring. We want 40g loop next.
+
+<img width="2136" height="1324" alt="image" src="https://github.com/user-attachments/assets/c408e974-0c26-4075-9d55-3ee4f60a6638" />
+<img width="2160" height="1242" alt="image" src="https://github.com/user-attachments/assets/3884e5e2-2318-4a9a-88cb-dec9aaf08e8c" />
+
+* 4*1+5+10+20+40 -> 79g
+* We can do payment still 79g.
+* So the remaining loop is of size 80g.
+* 4*1+5+10+20+40+80 -> 159g
+* We can now many any payment from 1 to 159g.
+
+<img width="2154" height="1228" alt="image" src="https://github.com/user-attachments/assets/115646ce-39f8-4361-bcf1-e5972df03fd1" />
+<img width="2136" height="1234" alt="image" src="https://github.com/user-attachments/assets/8109459f-0d30-417a-aa18-71e5fa2a71a4" />
+<img width="346" height="168" alt="image" src="https://github.com/user-attachments/assets/b9dcea4b-9b0c-40a0-8702-48b5ae4b2441" />
+
+* Yes correct.
+
+<img width="2100" height="1250" alt="image" src="https://github.com/user-attachments/assets/8beaf206-2a8c-474b-a0df-51a312471c67" />
+<img width="2142" height="1274" alt="image" src="https://github.com/user-attachments/assets/7dded709-ed1b-429e-931b-1ecb85ded7b6" />
+<img width="2144" height="1206" alt="image" src="https://github.com/user-attachments/assets/8c62c76b-0319-4fb8-a90d-440f3268478f" />
 
 
 
