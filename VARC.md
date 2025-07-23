@@ -1885,7 +1885,7 @@
 <img width="2132" height="1322" alt="image" src="https://github.com/user-attachments/assets/a6a86d8f-d8c2-4754-81af-170d89778707" />
 <img width="2126" height="1180" alt="image" src="https://github.com/user-attachments/assets/b0ff1490-dd6f-4318-ab52-36ff089d242d" />
 
-### RC(27)
+### CR(27)
 
 <img width="2134" height="1320" alt="image" src="https://github.com/user-attachments/assets/b3d8cffd-ad52-4d06-a27f-9ffa053c4437" />
 <img width="2128" height="1208" alt="image" src="https://github.com/user-attachments/assets/efc28d42-9529-4068-abb5-e12cae4dbd5b" />
@@ -1952,6 +1952,200 @@
 <img width="2134" height="1176" alt="image" src="https://github.com/user-attachments/assets/8c5bfa37-7c0b-457f-878b-54266a3e2985" />
 
 * [**VERY IMPORTANT**]
+
+### CR(28)
+
+#### Logical Connectives
+
+<img width="1756" height="662" alt="image" src="https://github.com/user-attachments/assets/cc55915b-0a0f-4678-ba12-4618003fbb36" />
+<img width="2128" height="1180" alt="image" src="https://github.com/user-attachments/assets/c719b63e-848d-4c04-a6eb-81f5af869325" />
+<img width="2124" height="1184" alt="image" src="https://github.com/user-attachments/assets/8c71c006-a57f-4edd-9af8-6aaaf758bf9a" />
+<img width="2122" height="1192" alt="image" src="https://github.com/user-attachments/assets/566fa67e-69cb-4909-9506-676018e3b2e8" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2130" height="1174" alt="image" src="https://github.com/user-attachments/assets/87fc4550-b824-4ab5-9593-2faf0c14b535" />
+
+* Spending time in nature -> p.
+* she feels relaxed -> q.
+* P2 -> p inplies q.
+
+<img width="2116" height="1170" alt="image" src="https://github.com/user-attachments/assets/73bc8f58-cb90-467d-9a33-3b086a050ac3" />
+<img width="2036" height="1170" alt="image" src="https://github.com/user-attachments/assets/49236cc9-576b-474f-be61-5ad92d650bbe" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1256" height="1030" alt="image" src="https://github.com/user-attachments/assets/ba4ca64b-b0ad-48cf-87ae-4df156cfb2a6" />
+<img width="1486" height="1142" alt="image" src="https://github.com/user-attachments/assets/f7cec21c-d680-48c8-a65b-86bb521f650f" />
+<img width="2022" height="1128" alt="image" src="https://github.com/user-attachments/assets/805af623-862e-4d45-bda8-ddacdb4565fb" />
+<img width="2130" height="1178" alt="image" src="https://github.com/user-attachments/assets/2070d217-8feb-4163-8f44-46a2ef4108d7" />
+
+* Mirror images.
+
+<img width="2018" height="1160" alt="image" src="https://github.com/user-attachments/assets/d8a44713-1756-415f-8674-a51b6b6e5346" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2064" height="1318" alt="image" src="https://github.com/user-attachments/assets/2caf4ffb-8600-4135-80a3-5f5ea93c3400" />
+<img width="2128" height="1170" alt="image" src="https://github.com/user-attachments/assets/30484f64-60aa-41bd-9473-876c029ba2e9" />
+
+* 1-> If p then q.
+* 2 -> not p.
+
+<img width="2082" height="1168" alt="image" src="https://github.com/user-attachments/assets/69d9e8ca-df20-42cf-825c-c3cadcfa69ca" />
+<img width="2056" height="1178" alt="image" src="https://github.com/user-attachments/assets/280597bf-1b47-4bd9-aa45-5f13d58b75fb" />
+
+* I do not have a key -> I cannot open my locked door.
+
+<img width="2130" height="1316" alt="image" src="https://github.com/user-attachments/assets/8d319ef1-8e96-4606-b4a5-0e20b4017329" />
+<img width="2128" height="1182" alt="image" src="https://github.com/user-attachments/assets/12d5dd6d-e30c-4f5f-8c83-3be79ec920e9" />
+<img width="1966" height="1118" alt="image" src="https://github.com/user-attachments/assets/44202fd6-6977-4352-9b6c-350d83c1fd17" />
+<img width="2132" height="1190" alt="image" src="https://github.com/user-attachments/assets/8f7253a7-81dd-4ccc-8add-79b8ae60e795" />
+<img width="422" height="192" alt="image" src="https://github.com/user-attachments/assets/c1e7c77f-57ce-4595-b86c-f81d1a2c7231" />
+
+* not p -> may or may not be q.  [**VERY IMPORTANT**]
+
+<img width="2064" height="1170" alt="image" src="https://github.com/user-attachments/assets/a0dcb02b-b888-4fee-8695-572b2399115d" />
+<img width="2000" height="1150" alt="image" src="https://github.com/user-attachments/assets/c9562615-4685-4299-883f-b38dfdd08657" />
+<img width="1968" height="1116" alt="image" src="https://github.com/user-attachments/assets/bc53ea4a-f94d-4607-8cd1-84c200a148f5" />
+<img width="2126" height="1182" alt="image" src="https://github.com/user-attachments/assets/676acfda-2657-45d2-a17d-7e1bc282ac1a" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1696" height="990" alt="image" src="https://github.com/user-attachments/assets/6b3c0c1a-f421-4940-93a3-cc637eb2b3e2" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2014" height="1180" alt="image" src="https://github.com/user-attachments/assets/713ee2b4-5f6f-4d23-8213-58fff07e7c2f" />
+<img width="2124" height="1198" alt="image" src="https://github.com/user-attachments/assets/c812e069-5a31-4166-a18f-898a6499c455" />
+
+* To attack 'P1' or negate 'P1' then we have to use 'P -> not q'.
+* P -> not q --> If divya spends time in nature, she doesn't feel relaxed.
+* Negation --> P -> not q.
+
+<img width="1808" height="550" alt="image" src="https://github.com/user-attachments/assets/ddf74201-b87c-4dd9-9612-5b0e64839319" />
+
+* If -> Whenever/Everytime.
+
+<img width="610" height="204" alt="image" src="https://github.com/user-attachments/assets/59677412-4f3e-419b-9413-a481376552a7" />
+
+* Not weaken -> Possibility.
+
+<img width="2132" height="1186" alt="image" src="https://github.com/user-attachments/assets/6a141a91-8a4e-42e7-aad2-d37e860b6013" />
+<img width="2848" height="1274" alt="image" src="https://github.com/user-attachments/assets/f67209cd-d17f-44d9-b759-f6f4ba276215" />
+
+* Negation --> q -> not p.
+
+<img width="2130" height="1182" alt="image" src="https://github.com/user-attachments/assets/4eb6aeee-2e6f-437a-b492-17b5b2aa25ae" />
+<img width="2124" height="1182" alt="image" src="https://github.com/user-attachments/assets/1a9fa61a-5a4a-462a-a24c-989e595ffad1" />
+
+* Unless -> Agar nhi. [Meaning]
+* Unless -> If not. [Meaning]
+* Convert **unless** into **if not** and then solve the question as **If p then q** format. [**VERY IMPORTANT**]
+
+<img width="2122" height="1176" alt="image" src="https://github.com/user-attachments/assets/2310ac73-dc83-4c43-8534-ac0e99783b8b" />
+<img width="2868" height="1312" alt="image" src="https://github.com/user-attachments/assets/92c85df2-d4b9-4475-8c1f-bcf342d069ed" />
+
+* Negation.
+
+<img width="2120" height="1172" alt="image" src="https://github.com/user-attachments/assets/74aa616d-d92a-47b7-a3f3-86c354eee9f2" />
+<img width="2168" height="1318" alt="image" src="https://github.com/user-attachments/assets/45e2935b-4740-488b-80e2-6b4c6fb0580f" />
+<img width="2128" height="1200" alt="image" src="https://github.com/user-attachments/assets/679bc776-9c42-4da8-8e54-5e4e3749d7da" />
+<img width="1432" height="696" alt="image" src="https://github.com/user-attachments/assets/85b73038-2d55-4673-b45a-ddd01aec351d" />
+<img width="2126" height="1180" alt="image" src="https://github.com/user-attachments/assets/625a605d-f348-45e5-93c9-44699de11357" />
+<img width="2130" height="1184" alt="image" src="https://github.com/user-attachments/assets/11ee4aff-0f72-450e-b1e4-52d761ba918d" />
+<img width="2120" height="1190" alt="image" src="https://github.com/user-attachments/assets/0db80398-49e0-4260-950c-ffff1ca770e4" />
+
+* Answer -> Option **C** -> maybe.
+* Start from 1hr 6mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
