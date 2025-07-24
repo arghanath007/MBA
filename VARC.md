@@ -1,8 +1,9 @@
 # VARC
 
-## Next Class
+## Next/Current Class
 
-<img width="1398" height="600" alt="image" src="https://github.com/user-attachments/assets/73df2333-ebf1-4868-ade2-4ad203a52f10" />
+<img width="1496" height="594" alt="image" src="https://github.com/user-attachments/assets/517d2a2f-2150-4059-80e2-8835bb8fa80d" />
+
 
 ## Vocabulary
 
@@ -2057,103 +2058,187 @@
 <img width="2120" height="1190" alt="image" src="https://github.com/user-attachments/assets/0db80398-49e0-4260-950c-ffff1ca770e4" />
 
 * Answer -> Option **C** -> maybe.
-* Start from 1hr 6mins.
 
+<img width="1970" height="1112" alt="image" src="https://github.com/user-attachments/assets/50b273d5-ee53-4af9-8e8f-957b919f8163" />
+<img width="1974" height="1118" alt="image" src="https://github.com/user-attachments/assets/6f53a5e4-3ec2-41a7-bcd6-44e8314812f1" />
 
+* 'P or Q' and 'Either P or Q', they both are same only. They are **inclusive**. [**VERY IMPORTANT**]
 
+<img width="2140" height="1220" alt="image" src="https://github.com/user-attachments/assets/2adfb70e-90a6-46ed-9049-2a8577120f59" />
+<img width="2040" height="1150" alt="image" src="https://github.com/user-attachments/assets/d0555e03-f305-4869-9548-860368324b32" />
 
+* A union B -> Atleast one of the two has happened. [**VERY IMPORTANT**]
 
+<img width="2118" height="1178" alt="image" src="https://github.com/user-attachments/assets/0489146a-334d-45d7-bd5b-01e574009e61" />
+<img width="2150" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb30b415-840a-43fc-b7af-199875be7e1f" />
 
+* p -> not q
+* q -> not p
+* We cannot state the above '2'. They are not possible.
 
+<img width="2132" height="1188" alt="image" src="https://github.com/user-attachments/assets/7b76e07b-fd0c-44d9-b0d1-bc3f5f272919" />
+<img width="2010" height="1150" alt="image" src="https://github.com/user-attachments/assets/cf29e94d-a10c-4daf-ba49-6e3eedceb0bf" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2130" height="1318" alt="image" src="https://github.com/user-attachments/assets/68e5ee81-1a73-40c4-91f1-0fc533415a62" />
+<img width="1932" height="1110" alt="image" src="https://github.com/user-attachments/assets/1ec5b242-2183-448e-aa30-d566a28b5ea3" />
+<img width="2050" height="1158" alt="image" src="https://github.com/user-attachments/assets/7a4677b2-8f51-4909-8c4f-ea3367542670" />
 
+* Option **D** -> Definitely False option.
+* Option **A and B** -> False(f) -> Because if we do either, work hard or work smart, we will succeed.
+* Option **C** -> True(T).
 
+<img width="2126" height="1320" alt="image" src="https://github.com/user-attachments/assets/da43ae37-7f67-4bff-9c6a-c712a7f7a8fd" />
+<img width="2132" height="1318" alt="image" src="https://github.com/user-attachments/assets/1ddafedf-6a11-4dd5-92b0-367235b48507" />
 
+* Option **C** -> Definitely True(T).
+* Option **D** -> Definitely False(F).
+* Work hard and smart -> and -> It means we have to do **both**, doing either will not work.
+* Option **A and B** -> Maybe(M).
 
+<img width="2018" height="1158" alt="image" src="https://github.com/user-attachments/assets/bae81639-9450-4b6c-8eed-b912c54fe86d" />
+<img width="2120" height="1178" alt="image" src="https://github.com/user-attachments/assets/7eca53d1-6f87-48bc-a615-ea6fff7f8f37" />
+<img width="2740" height="1262" alt="image" src="https://github.com/user-attachments/assets/52cb791e-5a89-4716-92d0-97aabfcbb377" />
+<img width="2056" height="1318" alt="image" src="https://github.com/user-attachments/assets/5f4cdbb8-e4b8-4076-b49e-ab355dcd2077" />
+<img width="2044" height="1150" alt="image" src="https://github.com/user-attachments/assets/3c356357-c4d1-4174-bf22-852a7ce0a957" />
 
+* Option **C** -> False(F).
 
+<img width="2032" height="1294" alt="image" src="https://github.com/user-attachments/assets/a58c8531-950c-4897-8e02-24b6855a9657" />
+<img width="2748" height="1248" alt="image" src="https://github.com/user-attachments/assets/7590854e-2122-41ee-95c1-19634d1bbe95" />
 
+* Answer -> Option **D**.
+* And -> Union -> Both have to be True.
 
+<img width="2124" height="1190" alt="image" src="https://github.com/user-attachments/assets/840d60f0-be3b-4506-9b53-f0b763be2256" />
+<img width="646" height="680" alt="image" src="https://github.com/user-attachments/assets/8533341e-d6cd-45a0-bcd2-8d0f940b5a68" />
 
+#### Analogy/Parallel Logic.
 
+<img width="2120" height="1170" alt="image" src="https://github.com/user-attachments/assets/a2d552dd-b143-4d60-8600-379ba4b29cac" />
 
+* Analogy -> Comparison between '2' things.
 
+<img width="1890" height="964" alt="image" src="https://github.com/user-attachments/assets/40be0483-b9ee-49a5-838e-0d44eb1c37f2" />
 
+* Focus on the structure of the argument and not on the content. [**VERY IMPORTANT**]
 
+<img width="1960" height="1148" alt="image" src="https://github.com/user-attachments/assets/a93a36de-6ea7-401a-9b93-66617818783c" />
+<img width="2116" height="1198" alt="image" src="https://github.com/user-attachments/assets/22d31057-3b59-4785-9afc-502d85467f41" />
 
+* Unless statement -> If you do not climb mountains -> not p.
+* not p -> r.
 
+<img width="2138" height="1322" alt="image" src="https://github.com/user-attachments/assets/814d9ab6-79f4-4caf-9474-1e6aeef03fea" />
+<img width="614" height="318" alt="image" src="https://github.com/user-attachments/assets/5d424531-2585-45f1-a052-070066951d13" />
 
+* [**MEANING**]
 
+<img width="2042" height="1148" alt="image" src="https://github.com/user-attachments/assets/2ad49fd8-8e52-4d46-8b9b-392535a1d5f9" />
+<img width="1898" height="1082" alt="image" src="https://github.com/user-attachments/assets/f47b24ea-b695-4e31-b7b6-e39762ebb751" />
+<img width="2050" height="1318" alt="image" src="https://github.com/user-attachments/assets/0eb2fa7e-fc15-4232-97d7-89e843017687" />
+<img width="2052" height="1318" alt="image" src="https://github.com/user-attachments/assets/9322077f-a7a3-49b9-8db2-b998471081d7" />
+<img width="2020" height="1152" alt="image" src="https://github.com/user-attachments/assets/62d4ba52-31ff-40bb-9117-f9f9e92d8e20" />
 
+* Next Class Explaination.
 
+### CR(29)
 
+#### Logical Connectives
 
+<img width="1630" height="586" alt="image" src="https://github.com/user-attachments/assets/60307bbc-01f1-4750-a0de-2a6596fb6e90" />
+<img width="1674" height="962" alt="image" src="https://github.com/user-attachments/assets/bc025f4f-996d-43f2-b58c-256db38bf861" />
 
+* If. [**VERY IMPORTANT**]
 
+<img width="1568" height="988" alt="image" src="https://github.com/user-attachments/assets/ec6c3273-2138-4146-bfd2-4b9a62994bf7" />
 
+* Only If. [**VERY IMPORTANT**]
 
+<img width="1302" height="498" alt="image" src="https://github.com/user-attachments/assets/da83172a-98fc-4854-ac6e-e213f201cac0" />
+<img width="1996" height="1154" alt="image" src="https://github.com/user-attachments/assets/88df18bb-359f-4f4e-b5dd-782e565b78a1" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2012" height="1140" alt="image" src="https://github.com/user-attachments/assets/52c2fa79-1903-4695-ae1c-f49ae54805a2" />
 
+* Not this conversion.
 
+<img width="640" height="196" alt="image" src="https://github.com/user-attachments/assets/2c50b2d7-8776-4dd5-84e1-ddb2adebd36d" />
 
+* This conversion.
 
+<img width="2108" height="1196" alt="image" src="https://github.com/user-attachments/assets/3cf87636-e6cd-41f5-8065-c2ae42337d41" />
 
+* We can convert an 'if' statement to 'only if' statement, we just need to invert the **cause and effect** statements.
 
+<img width="2006" height="1150" alt="image" src="https://github.com/user-attachments/assets/0327c02c-59e3-4eec-aef5-d510173559cd" />
+<img width="2108" height="1214" alt="image" src="https://github.com/user-attachments/assets/74cce288-7e06-4052-b011-85a42cb562d3" />
 
+* Example 1.
 
+<img width="2034" height="1152" alt="image" src="https://github.com/user-attachments/assets/d0e47938-347a-4363-9734-e4dde965929d" />
+<img width="2042" height="1164" alt="image" src="https://github.com/user-attachments/assets/765c7525-4210-45f6-8d98-4520f5d224ba" />
 
+* Example 2.
 
+<img width="2130" height="1186" alt="image" src="https://github.com/user-attachments/assets/0a285acf-2151-48a4-a68e-87934dd2df10" />
+<img width="2134" height="1330" alt="image" src="https://github.com/user-attachments/assets/99151624-b04b-4173-b8e2-0d147ec1707f" />
+<img width="2030" height="1188" alt="image" src="https://github.com/user-attachments/assets/22b8113c-b294-4de1-b164-50cd900940fb" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2002" height="1158" alt="image" src="https://github.com/user-attachments/assets/f7faaa43-09b4-4f31-9adc-cb7bca980c63" />
 
+* Range -> The area is going to increase.
 
+<img width="2020" height="1148" alt="image" src="https://github.com/user-attachments/assets/dd8d3adb-698a-4046-8a1d-a88b88dd04db" />
 
+* Answer -> Option **D**.
 
+<img width="2046" height="1160" alt="image" src="https://github.com/user-attachments/assets/336450b2-6675-40df-9963-b6cb85971e01" />
+<img width="1998" height="1156" alt="image" src="https://github.com/user-attachments/assets/0231ba1b-1284-4ad9-a3ad-c7dfd7ea76e3" />
+<img width="582" height="420" alt="image" src="https://github.com/user-attachments/assets/f0337576-d5c5-4bc5-bf0f-fb9ccbaa0e83" />
 
+* If -> p not q.
 
+<img width="2136" height="1318" alt="image" src="https://github.com/user-attachments/assets/cf6d66ef-7421-4471-b4ad-ffd1e86f7db7" />
 
+* Answer -> Option **D**.
 
+<img width="2044" height="1156" alt="image" src="https://github.com/user-attachments/assets/94733b30-73e3-441a-a052-1ef8d1df9fd1" />
+<img width="2040" height="1168" alt="image" src="https://github.com/user-attachments/assets/d64b484b-8355-4d36-a3a2-0fdfed5b81e7" />
+<img width="2056" height="1176" alt="image" src="https://github.com/user-attachments/assets/a9ac21dc-d911-4e09-a16a-96a5729ecfe1" />
 
+* Answer -> Option **C**.
 
+<img width="2126" height="1174" alt="image" src="https://github.com/user-attachments/assets/e008c0e0-837e-4c59-a445-dcdf74d506fb" />
+<img width="2134" height="1318" alt="image" src="https://github.com/user-attachments/assets/2d304267-2b2b-4ee5-a807-0badd7c081df" />
+<img width="1970" height="1108" alt="image" src="https://github.com/user-attachments/assets/57a72666-2786-4f92-8f80-982d84d59461" />
 
+* [**VERY IMPORTANT**]
 
+<img width="2126" height="1188" alt="image" src="https://github.com/user-attachments/assets/80bc23f4-6ab0-40b6-93fd-0d68e1c941d4" />
 
+* Flawed Analogy.
 
+<img width="1916" height="1084" alt="image" src="https://github.com/user-attachments/assets/b97f6fc9-5cde-4f1f-abf1-ad08237a511f" />
 
+* Weakening -> Doesn't mean we have to **destroy** the argument. Weakening means to **cast a doubt or casting a doubt**.
 
+<img width="2124" height="1186" alt="image" src="https://github.com/user-attachments/assets/4f2f13f7-05cd-4da5-9ecd-50f86637cba3" />
+<img width="2122" height="1318" alt="image" src="https://github.com/user-attachments/assets/524a24be-2a36-40d1-8dd8-7d3fc6c45fd5" />
 
+* Answer -> Option **D**.
 
+<img width="2122" height="1176" alt="image" src="https://github.com/user-attachments/assets/2320ee9b-f76a-46f5-a12e-182e2f780b49" />
 
+* Survivor Bias.
 
+<img width="2042" height="1180" alt="image" src="https://github.com/user-attachments/assets/9ca5c0f2-9c0c-4abb-a5c9-ef95143d2ee6" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Next Class.
 
 
 
@@ -2727,6 +2812,7 @@
 <img width="1292" height="888" alt="image" src="https://github.com/user-attachments/assets/c9079084-2c4a-46f5-9423-8e617289e5d9" />
 <img width="1884" height="518" alt="image" src="https://github.com/user-attachments/assets/f6d67a1c-bb46-47c0-aba6-08f2d7c998d0" />
 <img width="1904" height="810" alt="image" src="https://github.com/user-attachments/assets/43649be3-cbe3-45f5-bad8-8687a2f41b69" />
+<img width="1310" height="596" alt="image" src="https://github.com/user-attachments/assets/ff3a1a63-d591-46ea-834b-b233ce189ae7" />
 
 
 
