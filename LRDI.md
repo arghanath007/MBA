@@ -407,11 +407,10 @@
 <img width="1438" height="596" alt="image" src="https://github.com/user-attachments/assets/a026ac85-2912-41e6-a2c4-f4556ad7cddf" />
 
 * 5
-* Start from 54mins.
 
 <img width="2014" height="1128" alt="image" src="https://github.com/user-attachments/assets/74d3878f-4c7e-4a93-8992-0575a6db46e0" />
 
-
+* start from 1hr.
 
 
 
