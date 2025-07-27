@@ -795,31 +795,45 @@
 * 4
 * Option **D** -> Purpose of the paragraph.
 
+### RC (32)
 
+<img width="1187" height="673" alt="image" src="https://github.com/user-attachments/assets/e12818ee-7103-4dc8-8752-83eb61b445fb" />
+<img width="1025" height="678" alt="image" src="https://github.com/user-attachments/assets/19e0871c-8513-4b50-be93-4a0708b80963" />
+<img width="1205" height="434" alt="image" src="https://github.com/user-attachments/assets/18dda9b4-515b-4557-b0bd-1a9b755139fa" />
 
+* [**VERY IMPORTANT**]
 
+<img width="1345" height="732" alt="image" src="https://github.com/user-attachments/assets/c9bdd5fb-fc59-48d8-a435-10abc654d919" />
+<img width="1322" height="748" alt="image" src="https://github.com/user-attachments/assets/214ecac7-b556-443b-9f0f-ae77e1569b7e" />
+<img width="1366" height="840" alt="image" src="https://github.com/user-attachments/assets/4ac97ca5-b191-4877-94a7-e85808768eb3" />
 
+* 1
 
+<img width="1356" height="837" alt="image" src="https://github.com/user-attachments/assets/6bef723f-ca7a-452e-9042-9459173e762b" />
 
+* 2
 
+<img width="1357" height="837" alt="image" src="https://github.com/user-attachments/assets/9a616589-b1bb-48d6-91b4-e0a461cfcbb2" />
 
+* 3.
 
+<img width="1356" height="836" alt="image" src="https://github.com/user-attachments/assets/393bc154-1e7f-476a-bb1a-a823a450bd71" />
 
+* 4.
 
+<img width="1358" height="842" alt="image" src="https://github.com/user-attachments/assets/a5e79582-a687-425d-a539-9b96954d8774" />
 
+* 5
 
+<img width="1359" height="757" alt="image" src="https://github.com/user-attachments/assets/542201fd-d845-404e-997c-48dd2e14c5fe" />
+<img width="1326" height="762" alt="image" src="https://github.com/user-attachments/assets/573df3aa-4d21-4d26-a4fe-f32cc61bb455" />
 
+* Answer -> Option **B**.
 
+<img width="1366" height="774" alt="image" src="https://github.com/user-attachments/assets/2dbc20e1-a9bd-4e84-b0c9-cb18e832c353" />
+<img width="1362" height="762" alt="image" src="https://github.com/user-attachments/assets/2b1559bc-2004-4540-9742-4c9bd6868ca0" />
 
-
-
-
-
-
-
-
-
-
+* Start from 1hr 24mins.
 
 
 
