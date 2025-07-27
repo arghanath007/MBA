@@ -2,8 +2,7 @@
 
 ## Next/Current Class
 
-<img width="1496" height="594" alt="image" src="https://github.com/user-attachments/assets/517d2a2f-2150-4059-80e2-8835bb8fa80d" />
-
+<img width="776" height="325" alt="image" src="https://github.com/user-attachments/assets/7f271c0e-6ed6-46c6-a3ab-3e84de133222" />
 
 ## Vocabulary
 
@@ -707,8 +706,129 @@
 
 <img width="1355" height="754" alt="image" src="https://github.com/user-attachments/assets/51dbadf5-94ad-4387-9896-c72a371a775d" />
 <img width="1312" height="753" alt="image" src="https://github.com/user-attachments/assets/d886c7c3-58a3-4309-b94f-0599838ae073" />
+<img width="1349" height="750" alt="image" src="https://github.com/user-attachments/assets/01225069-9142-40e0-be5b-4f62a71e922a" />
 
-* 13mins.
+* [**VERY IMPORTANT**]
+
+<img width="1231" height="513" alt="image" src="https://github.com/user-attachments/assets/9d1015f7-6805-4cb8-8f1f-6c9aede1f04e" />
+<img width="1314" height="505" alt="image" src="https://github.com/user-attachments/assets/18ae6e16-a417-446f-8021-a1a4bca5cfb6" />
+
+* 1st statement -> Define visual culture.
+* 2nd statement -> Study of visual culture.
+
+<img width="1357" height="752" alt="image" src="https://github.com/user-attachments/assets/1436af96-b34a-45bc-83c6-2adc6eccdbfa" />
+
+* IMPORTANT -> Nouns, Verbs. [**VERY IMPORTANT**]
+* Nouns -> What
+* Actions -> Verbs.
+
+<img width="1318" height="738" alt="image" src="https://github.com/user-attachments/assets/1cf0d5b0-3ab7-46d1-bf04-da939134c6b7" />
+<img width="426" height="220" alt="image" src="https://github.com/user-attachments/assets/6314e09d-240c-4cf9-8f72-f3d02b348883" />
+
+* Accordingly, Indeed -> important words.
+
+<img width="1297" height="738" alt="image" src="https://github.com/user-attachments/assets/5356177a-3ec2-40c0-8777-d083c7b80940" />
+
+* Concers of visual culture.
+* Notice the structure in this way.  [**VERY IMPORTANT**]
+* epistemology -> Study of knowledge. [**VERY IMPORTANT**]
+* etymology -> Study of words. [**VERY IMPORTANT**]
+
+<img width="1339" height="755" alt="image" src="https://github.com/user-attachments/assets/44fc9488-3dcd-4f2b-a1e2-45a9fbcecbab" />
+<img width="1372" height="839" alt="image" src="https://github.com/user-attachments/assets/5bfc58a0-ced6-41e7-a1d5-d32636496358" />
+
+* 1
+* amenable -> Favourable conditions. [**VERY IMPORTANT**]
+* supplemental -> In addition/in addition to. [**VERY IMPORTANT**]
+* overarching -> All encompassing/Pretty Comprehensive. [**VERY IMPORTANT**]
+
+<img width="303" height="84" alt="image" src="https://github.com/user-attachments/assets/8df7fde6-3145-41e1-ab7e-c0a1b3c8dafd" />
+
+* Epiphenomenon -> Secondary phenomenon that is not made.  [**VERY IMPORTANT**]
+
+<img width="1364" height="829" alt="image" src="https://github.com/user-attachments/assets/3a6cdb5a-1980-4298-90d8-b0de14fec5b2" />
+<img width="1345" height="836" alt="image" src="https://github.com/user-attachments/assets/15e33c07-ab04-4d85-829d-68c3a9383402" />
+
+* 2
+
+<img width="1376" height="838" alt="image" src="https://github.com/user-attachments/assets/aa6afad5-fb0a-49a3-9277-63d69f767009" />
+
+* 3
+* covenants -> Agreements. [**MEANING**]
+* gaze -> as in to stare. [**MEANING**]
+
+<img width="1340" height="755" alt="image" src="https://github.com/user-attachments/assets/4df444bb-3ca9-4b52-a2a3-48ae44d0d594" />
+<img width="1364" height="824" alt="image" src="https://github.com/user-attachments/assets/e5753ace-5138-4297-81a8-1fe5566ca066" />
+
+* 4.
+
+<img width="1354" height="761" alt="image" src="https://github.com/user-attachments/assets/555c71cb-2a73-4bfe-872b-c2d192bfc2c6" />
+
+* [**VERY IMPORTANT**]
+* scrutinize -> Examine/Investigate. [**MEANING**]
+
+<img width="1108" height="734" alt="image" src="https://github.com/user-attachments/assets/64aaec2a-cf98-4b58-b36d-604c933fb262" />
+
+* Q2.
+
+<img width="1388" height="770" alt="image" src="https://github.com/user-attachments/assets/072fb4f0-28b7-4f39-b015-c12dec7964c8" />
+
+* diachronous -> Somthing that extends through time. [**MEANING**]
+
+<img width="430" height="67" alt="image" src="https://github.com/user-attachments/assets/3b26198b-e7fc-4833-a253-61b4051c4068" />
+<img width="1406" height="755" alt="image" src="https://github.com/user-attachments/assets/30ffb327-7d12-4244-835b-30a68074f928" />
+<img width="1436" height="919" alt="image" src="https://github.com/user-attachments/assets/90dbbb67-6562-4435-87a3-85155a857648" />
+
+* 1.
+
+<img width="1399" height="762" alt="image" src="https://github.com/user-attachments/assets/433f4658-0627-4f9f-8cb8-79a65f60b2d4" />
+<img width="1374" height="833" alt="image" src="https://github.com/user-attachments/assets/b8992d22-81a0-44cd-ab3c-25c3c1885ea9" />
+
+* 2
+
+<img width="1377" height="840" alt="image" src="https://github.com/user-attachments/assets/62d51e2d-3cf1-472b-99f4-b12283a52427" />
+
+* 3
+
+<img width="1370" height="837" alt="image" src="https://github.com/user-attachments/assets/9d6aae6b-74bf-4f3d-bb7c-5fd47781e1c6" />
+
+* 4
+* Option **D** -> Purpose of the paragraph.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
