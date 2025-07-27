@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="776" height="325" alt="image" src="https://github.com/user-attachments/assets/7f271c0e-6ed6-46c6-a3ab-3e84de133222" />
+<img width="723" height="282" alt="image" src="https://github.com/user-attachments/assets/fd2c511d-5963-447e-bf02-d10c132cc000" />
 
 ## Vocabulary
 
@@ -2926,18 +2926,102 @@
 
 <img width="2126" height="1168" alt="image" src="https://github.com/user-attachments/assets/12fc3acd-e693-423f-a0e3-85d70aeae9c1" />
 
+### VA(31)
 
+<img width="1301" height="727" alt="image" src="https://github.com/user-attachments/assets/c9175b04-2ea6-4dca-b6ea-fc32c1b26e9f" />
+<img width="1346" height="823" alt="image" src="https://github.com/user-attachments/assets/4c9f63e1-30a5-4f65-9a63-379a9eef2a38" />
 
+* Answer -> Option **B**.
+* Option 'B' is a better option than Option 'C'.
 
+<img width="1358" height="764" alt="image" src="https://github.com/user-attachments/assets/82822fdd-9efd-4e35-8e29-961b048670e1" />
+<img width="1364" height="835" alt="image" src="https://github.com/user-attachments/assets/fa2cdc2a-e98e-48d5-b004-a48f92a4b2df" />
 
+* thinking ego -> Sense of I.
 
+<img width="1355" height="759" alt="image" src="https://github.com/user-attachments/assets/c018bd53-e139-4eb0-a5db-ade81e75f18d" />
+<img width="1363" height="758" alt="image" src="https://github.com/user-attachments/assets/d376cbb2-da84-424a-bf44-4620a775ed19" />
 
+* [**VERY IMPORTANT**]
 
+<img width="1347" height="492" alt="image" src="https://github.com/user-attachments/assets/b9b5470e-9021-443e-bb0c-0687ed8d3941" />
 
+* OOO PJs
 
+<img width="1372" height="839" alt="image" src="https://github.com/user-attachments/assets/9153dd71-470d-404e-a9cc-4eab6e08cabf" />
+<img width="1296" height="729" alt="image" src="https://github.com/user-attachments/assets/a89a4648-7571-4ca9-be89-979a57957cd5" />
+<img width="1365" height="837" alt="image" src="https://github.com/user-attachments/assets/04bf4534-71ef-4317-88d8-d1eeb25d9993" />
+<img width="427" height="285" alt="image" src="https://github.com/user-attachments/assets/70696062-ac21-42b6-b3f3-091c6a8602ea" />
 
+* [**MEANING**]
+* these days, by the hour, roiling -> Current times/Immediate situation.
 
+<img width="1294" height="732" alt="image" src="https://github.com/user-attachments/assets/1dd57bf6-ad5a-4518-91aa-2dde3fe40a48" />
+<img width="997" height="455" alt="image" src="https://github.com/user-attachments/assets/56376eb4-833e-49a8-9ded-b4fe71f6303f" />
 
+* PJs. [1]
+
+<img width="1011" height="586" alt="image" src="https://github.com/user-attachments/assets/5429a9ea-f596-4f48-813f-d95c31459abe" />
+
+* 1324. [Wrong]
+
+<img width="1313" height="582" alt="image" src="https://github.com/user-attachments/assets/32fde50b-bcaf-457e-8f02-b30788f0cf9a" />
+
+* 4123. [ANSWER] [Correct]
+
+<img width="1350" height="752" alt="image" src="https://github.com/user-attachments/assets/eb730f46-1e56-407a-ad7d-261810b0dd5b" />
+<img width="1066" height="615" alt="image" src="https://github.com/user-attachments/assets/eaaa750f-4bc1-4c62-b61e-16ac8f445c17" />
+
+* 2431. [ANSWER] [Correct]
+
+<img width="1370" height="757" alt="image" src="https://github.com/user-attachments/assets/24ad1322-de22-40ae-a94b-b3e90a270b64" />
+<img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/527c8602-751e-44ac-88d4-452a5e4b59f3" />
+<img width="882" height="324" alt="image" src="https://github.com/user-attachments/assets/0bb59455-10f6-41ec-9c1e-ff7a94be4441" />
+
+* Missing Link. [1]
+
+<img width="1371" height="835" alt="image" src="https://github.com/user-attachments/assets/6b5df7cc-626b-4440-a21c-af0ec44a2828" />
+
+* Malaise -> A problem. [**MEANING**]
+* clique -> Group that excludes others. [**MEANING**]
+
+<img width="1309" height="723" alt="image" src="https://github.com/user-attachments/assets/723525ca-fd6c-4436-8a2a-a0ac7103ff43" />
+<img width="1285" height="810" alt="image" src="https://github.com/user-attachments/assets/43bf271d-2340-45b6-a557-388f740071a0" />
+
+* 2
+
+<img width="1306" height="734" alt="image" src="https://github.com/user-attachments/assets/2791fd91-cc46-43d8-aa76-440f3face013" />
+<img width="940" height="340" alt="image" src="https://github.com/user-attachments/assets/c3186e8a-8788-47fb-b47c-64276535fd2a" />
+
+* PS
+
+<img width="1364" height="834" alt="image" src="https://github.com/user-attachments/assets/a286ab7e-6e96-4690-b68b-bb68257a883b" />
+
+* 1
+
+<img width="1364" height="837" alt="image" src="https://github.com/user-attachments/assets/911334b1-c1ef-4a1e-a422-6b4903101f16" />
+
+* 2
+* exacerbated -> worsened. [**MEANING**]
+
+<img width="1327" height="740" alt="image" src="https://github.com/user-attachments/assets/4c7e4c03-8254-4861-a835-649838cfd13d" />
+
+* Answer -> Option **D**.
+
+<img width="1377" height="837" alt="image" src="https://github.com/user-attachments/assets/2b76a480-cf10-4f85-86fb-cb64c4cce62e" />
+
+* 1
+* Option **A** -> Pre-pandemic, pushed to a breaking point.
+* Pushed to a breaking point -> They resigned.
+
+<img width="1360" height="758" alt="image" src="https://github.com/user-attachments/assets/ad442cce-fc42-411a-a4c9-6eb02f24556e" />
+<img width="1361" height="836" alt="image" src="https://github.com/user-attachments/assets/e565f423-df8d-4d0a-a015-a18e729927d5" />
+
+* 2.
+
+<img width="1300" height="733" alt="image" src="https://github.com/user-attachments/assets/84e4b2cd-059b-4f96-8963-7c64a9491e0f" />
+
+* Answer -> Option **1**.
 
 
 
@@ -2969,6 +3053,7 @@
 <img width="1884" height="518" alt="image" src="https://github.com/user-attachments/assets/f6d67a1c-bb46-47c0-aba6-08f2d7c998d0" />
 <img width="1904" height="810" alt="image" src="https://github.com/user-attachments/assets/43649be3-cbe3-45f5-bad8-8687a2f41b69" />
 <img width="1310" height="596" alt="image" src="https://github.com/user-attachments/assets/ff3a1a63-d591-46ea-834b-b233ce189ae7" />
+<img width="828" height="569" alt="image" src="https://github.com/user-attachments/assets/1abb92d6-da08-457c-831c-78497dd3b571" />
 
 
 
