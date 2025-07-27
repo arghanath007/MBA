@@ -701,6 +701,42 @@
 <img width="2138" height="1312" alt="image" src="https://github.com/user-attachments/assets/eae3f33e-5fbb-4f6a-9b18-88d08de2610f" />
 <img width="2138" height="1324" alt="image" src="https://github.com/user-attachments/assets/0701d9d5-7ddb-4ef8-a6fa-7f60a06ce076" />
 
+### RC(30)
+
+#### Dense/Unfamiliar RC passages
+
+<img width="1355" height="754" alt="image" src="https://github.com/user-attachments/assets/51dbadf5-94ad-4387-9896-c72a371a775d" />
+<img width="1312" height="753" alt="image" src="https://github.com/user-attachments/assets/d886c7c3-58a3-4309-b94f-0599838ae073" />
+
+* 13mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
