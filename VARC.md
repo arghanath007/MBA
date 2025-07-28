@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="723" height="282" alt="image" src="https://github.com/user-attachments/assets/fd2c511d-5963-447e-bf02-d10c132cc000" />
+<img width="1392" height="540" alt="image" src="https://github.com/user-attachments/assets/f667959c-ff20-4e03-b7cb-7ba9d352dd53" />
 
 ## Vocabulary
 
@@ -832,28 +832,34 @@
 
 <img width="1366" height="774" alt="image" src="https://github.com/user-attachments/assets/2dbc20e1-a9bd-4e84-b0c9-cb18e832c353" />
 <img width="1362" height="762" alt="image" src="https://github.com/user-attachments/assets/2b1559bc-2004-4540-9742-4c9bd6868ca0" />
+<img width="2118" height="1186" alt="image" src="https://github.com/user-attachments/assets/89efdfd7-579f-4326-8d52-0707960dba8e" />
+<img width="2036" height="1318" alt="image" src="https://github.com/user-attachments/assets/b28f7a0d-bd8e-4f9a-9a5f-668d293ff8ba" />
 
-* Start from 1hr 24mins.
+* 1
 
+<img width="2068" height="1324" alt="image" src="https://github.com/user-attachments/assets/961da287-6800-4788-9520-7cba5cc53687" />
 
+* 2
 
+<img width="2046" height="1318" alt="image" src="https://github.com/user-attachments/assets/90d9fc71-771b-49df-bb68-a316f6ed061f" />
 
+* 3
 
+<img width="2038" height="1320" alt="image" src="https://github.com/user-attachments/assets/9322e134-3875-48e4-ab7e-f11222b012f0" />
 
+* 4.
 
+<img width="2052" height="1178" alt="image" src="https://github.com/user-attachments/assets/b0a7fc85-b61a-4031-ae32-f55ece975c9d" />
 
+* Option **C**.
 
+<img width="2050" height="1160" alt="image" src="https://github.com/user-attachments/assets/0464e71e-2418-4bda-b659-b689f8e07a3a" />
 
+* Option **B**.
 
+<img width="2046" height="1174" alt="image" src="https://github.com/user-attachments/assets/49ce8bfa-2158-49fa-9747-8d71996c2572" />
 
-
-
-
-
-
-
-
-
+* Option **C and D** -> Extreme options.
 
 
 
