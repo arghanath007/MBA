@@ -861,7 +861,9 @@
 
 * Option **C and D** -> Extreme options.
 
+### RC(33)
 
+<img width="2044" height="1318" alt="image" src="https://github.com/user-attachments/assets/cab37171-b5d8-4e07-99f1-cb9db45f90a1" />
 
 
 
@@ -2415,6 +2417,31 @@
 <img width="2042" height="1180" alt="image" src="https://github.com/user-attachments/assets/9ca5c0f2-9c0c-4abb-a5c9-ef95143d2ee6" />
 
 * Next Class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
