@@ -4,6 +4,11 @@
 
 <img width="1558" height="604" alt="image" src="https://github.com/user-attachments/assets/82cbd288-6ff4-4353-9c50-8c391e97038f" />
 
+## Descriptions
+
+* When Things Fall Apart: Transformation Through Difficulty -> https://notebooklm.google.com/notebook/18c1852a-fa59-4d13-a1a3-4d0ca72411e0.
+* Einstein and Tagore: On Truth, Beauty, and Reality -> https://notebooklm.google.com/notebook/9eb4359d-0df9-4212-8932-9ac492e18a43.
+
 ## Vocabulary
 
 * Tone -> https://www.writerswrite.co.za/155-words-to-describe-an-authors-tone/
