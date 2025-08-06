@@ -3120,6 +3120,39 @@
 
 * Answer -> Option **1**.
 
+### VA(32)
+
+<img width="1462" height="694" alt="image" src="https://github.com/user-attachments/assets/137a29c9-5cb6-4643-89a8-90f9833cef2f" />
+
+* 3412 [Wrong]
+
+<img width="2034" height="1138" alt="image" src="https://github.com/user-attachments/assets/a2ac4b87-e12a-4a39-a8d6-2c2719551636" />
+
+* 42 -> It is an example.
+
+<img width="2052" height="1154" alt="image" src="https://github.com/user-attachments/assets/f33c51b0-80ee-4517-8cdc-c51a9cf78e42" />
+
+* 3142 [Correct]
+* Start from 13mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
