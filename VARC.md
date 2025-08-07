@@ -3176,8 +3176,11 @@
 
 #### Para Summary(PS)
 
-* Start from 54mins.
+<img width="2040" height="1290" alt="image" src="https://github.com/user-attachments/assets/b8aa0266-7f9d-4327-9479-b6a5eea99c75" />
+<img width="2024" height="1148" alt="image" src="https://github.com/user-attachments/assets/751b6905-05e1-450b-985a-85fc810c356b" />
+<img width="2114" height="1180" alt="image" src="https://github.com/user-attachments/assets/6509c0e2-a568-4bb8-8baa-cbaf18080d84" />
 
+* 1hr 4mins.
 
 
 
