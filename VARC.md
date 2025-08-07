@@ -3133,7 +3133,54 @@
 <img width="2052" height="1154" alt="image" src="https://github.com/user-attachments/assets/f33c51b0-80ee-4517-8cdc-c51a9cf78e42" />
 
 * 3142 [Correct]
-* Start from 13mins.
+
+<img width="1466" height="778" alt="image" src="https://github.com/user-attachments/assets/8a74eb62-7167-4c33-8c73-3b9008761b12" />
+
+* 1342. [Wrong]
+
+<img width="2002" height="1146" alt="image" src="https://github.com/user-attachments/assets/5e06a19f-9811-4b19-be65-e4f47a131741" />
+<img width="2014" height="1148" alt="image" src="https://github.com/user-attachments/assets/5c77ed54-09e0-4c7c-97ba-b6078782c4a7" />
+
+* 1 -> eggs.
+* 2 -> the egg.
+* 3124. [Correct]
+
+<img width="1464" height="994" alt="image" src="https://github.com/user-attachments/assets/1d4f5041-2e39-4ad1-a817-5e9df7bc5b12" />
+
+* 2413. [Correct]
+* ontology -> The philosophy of being/existance. [**MEANING**]
+
+<img width="2030" height="1150" alt="image" src="https://github.com/user-attachments/assets/5c597ee9-ff32-4711-b9c6-7a802f5647be" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2038" height="1148" alt="image" src="https://github.com/user-attachments/assets/86ffe93c-9c75-41a6-a871-24febdd4b0f6" />
+
+#### Missing Link
+
+<img width="2046" height="1314" alt="image" src="https://github.com/user-attachments/assets/17412c5b-d671-427a-9f55-b20069e15ace" />
+
+* and -> It means that the **list is ending** -> It had to be either option **A or B**. [**VERY IMPORTANT**]
+
+<img width="2052" height="1152" alt="image" src="https://github.com/user-attachments/assets/de176504-3ec2-48ca-b3a9-9e60217a3586" />
+<img width="2048" height="1150" alt="image" src="https://github.com/user-attachments/assets/eab68455-31ab-40f4-9d99-06d4cfe26086" />
+<img width="2048" height="1324" alt="image" src="https://github.com/user-attachments/assets/7b61a299-b3ec-49b4-a687-d43d06c79c0c" />
+
+* Why not option **1**?
+
+<img width="2028" height="1146" alt="image" src="https://github.com/user-attachments/assets/06241b06-8f10-42f1-908c-fd338483e536" />
+<img width="2048" height="1314" alt="image" src="https://github.com/user-attachments/assets/732059b5-d80e-477a-8f81-9f9bbe27db56" />
+<img width="2128" height="1174" alt="image" src="https://github.com/user-attachments/assets/1b821715-0245-498a-81b1-6d689505dc54" />
+
+* [**VERY IMPORTANT**]
+
+#### Para Summary(PS)
+
+* Start from 54mins.
+
+
+
+
 
 
 
