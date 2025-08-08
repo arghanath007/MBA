@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="1558" height="604" alt="image" src="https://github.com/user-attachments/assets/82cbd288-6ff4-4353-9c50-8c391e97038f" />
+<img width="1394" height="624" alt="image" src="https://github.com/user-attachments/assets/c41d44ba-3caf-464d-87fa-b6225a17cd7f" />
 
 ## Descriptions
 
@@ -3179,17 +3179,30 @@
 <img width="2040" height="1290" alt="image" src="https://github.com/user-attachments/assets/b8aa0266-7f9d-4327-9479-b6a5eea99c75" />
 <img width="2024" height="1148" alt="image" src="https://github.com/user-attachments/assets/751b6905-05e1-450b-985a-85fc810c356b" />
 <img width="2114" height="1180" alt="image" src="https://github.com/user-attachments/assets/6509c0e2-a568-4bb8-8baa-cbaf18080d84" />
+<img width="2046" height="1286" alt="image" src="https://github.com/user-attachments/assets/6cc5d094-c2ea-4e92-af6e-fa0c10ed6ed8" />
+<img width="606" height="398" alt="image" src="https://github.com/user-attachments/assets/6e6c0c08-8750-4a99-a8e5-5be60cbcfc4c" />
+<img width="328" height="182" alt="image" src="https://github.com/user-attachments/assets/6ed335c7-c6d3-41a2-a1ee-2a85f3509fa1" />
+<img width="2024" height="1146" alt="image" src="https://github.com/user-attachments/assets/6a1357b3-3021-4574-b20e-4d7aa7e96d9e" />
+<img width="2046" height="1296" alt="image" src="https://github.com/user-attachments/assets/2360d44f-90ad-4971-8553-db2a5c91c2b5" />
 
-* 1hr 4mins.
+#### OOO PJs
 
+<img width="2048" height="1286" alt="image" src="https://github.com/user-attachments/assets/c993c923-5ff9-4cf6-972e-1e31640c7f03" />
 
+* [**VERY IMPORTANT**] 
 
+<img width="1978" height="1150" alt="image" src="https://github.com/user-attachments/assets/5e7f5863-6671-4fad-b30d-a9194f968764" />
+<img width="2754" height="1244" alt="image" src="https://github.com/user-attachments/assets/dab81642-1641-41ee-9782-b2df62f43487" />
+<img width="2040" height="1288" alt="image" src="https://github.com/user-attachments/assets/56ec73e2-96db-4e79-b57c-8b2db59d4c59" />
 
+* rejoinder -> rebuttal. [**MEANING**]
 
+<img width="2040" height="1156" alt="image" src="https://github.com/user-attachments/assets/ffcdaed3-f13b-4938-86e2-40a4df77d9d4" />
+<img width="2044" height="1294" alt="image" src="https://github.com/user-attachments/assets/706508d4-b269-43f9-b763-e04878d8b87e" />
+<img width="2044" height="1144" alt="image" src="https://github.com/user-attachments/assets/a1339ffe-741c-437b-a8dd-24100c3ca1db" />
+<img width="2026" height="1142" alt="image" src="https://github.com/user-attachments/assets/7cd5f108-f362-47b5-abf2-16aa356663bf" />
 
-
-
-
+* [**VERY IMPORTANT**] 
 
 
 
@@ -3240,6 +3253,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
