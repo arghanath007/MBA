@@ -949,7 +949,47 @@
 <img width="1384" height="790" alt="image" src="https://github.com/user-attachments/assets/33b543a2-f2e9-43f9-927d-dc3d97b6fcd5" />
 <img width="1248" height="775" alt="image" src="https://github.com/user-attachments/assets/cf366b2b-413e-4dfa-ae5e-206f71a7c845" />
 
-* 3142
+* 3142 [Wrong]
+* Counter-cultural -> anti-modern.
+* 3412. [Correct] [**VERY IMPORTANT**]
+
+<img width="1385" height="796" alt="image" src="https://github.com/user-attachments/assets/48400c07-0647-4308-b7d5-8e7c2a445ada" />
+<img width="1381" height="861" alt="image" src="https://github.com/user-attachments/assets/8899b062-52ca-4477-bf49-52e765d987dd" />
+<img width="1382" height="856" alt="image" src="https://github.com/user-attachments/assets/4c0e6026-f3a8-4151-89a5-2f24d83ecbb7" />
+<img width="1377" height="854" alt="image" src="https://github.com/user-attachments/assets/0acb375a-ffcb-4405-8ccd-5434956302ce" />
+<img width="1387" height="851" alt="image" src="https://github.com/user-attachments/assets/bde55327-9822-4773-b4c7-751ac0ba77e2" />
+
+* Cosmopolitan -> Citizen of the world. [**MEANING**]
+* Cosmo -> Universe. [**MEANING**]
+* Politan -> Polity. [**MEANING**]
+
+<img width="1391" height="791" alt="image" src="https://github.com/user-attachments/assets/2095bfc9-cf7c-4acb-8683-ae7d6efaff2e" />
+
+### RC(35)
+
+<img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/71cd78e1-8071-4764-b3d8-f5aab9c6454b" />
+<img width="1377" height="786" alt="image" src="https://github.com/user-attachments/assets/6194028f-c6c3-4f70-9537-6e31331d5f83" />
+<img width="1384" height="787" alt="image" src="https://github.com/user-attachments/assets/cfdd39f4-ca46-4d93-81b9-86c3fef34d48" />
+<img width="1380" height="867" alt="image" src="https://github.com/user-attachments/assets/4ec5bd8c-868d-4d26-b81b-00718f1a616f" />
+<img width="1377" height="856" alt="image" src="https://github.com/user-attachments/assets/f110989e-4c67-4b24-ba11-233b6ed94428" />
+<img width="1385" height="857" alt="image" src="https://github.com/user-attachments/assets/a806b006-fabf-4345-92f3-52a3ef58a71d" />
+<img width="1384" height="861" alt="image" src="https://github.com/user-attachments/assets/7bc7e500-c89a-48bc-9ebf-b41044d0ccb1" />
+<img width="1397" height="854" alt="image" src="https://github.com/user-attachments/assets/371a9bf4-e1ae-4a84-b434-cd63296389b6" />
+
+* 1432. [Wrong]
+* 1342. [Correct]
+
+<img width="1382" height="791" alt="image" src="https://github.com/user-attachments/assets/434d640c-3d6b-44b8-8060-60b834b7824a" />
+<img width="1405" height="810" alt="image" src="https://github.com/user-attachments/assets/39e40d8f-3711-470d-8275-4d33751f7308" />
+
+* Start from 1hr 10mins.
+
+
+
+
+
+
+
 
 
 
@@ -3326,6 +3366,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
