@@ -928,9 +928,28 @@
 <img width="2076" height="1174" alt="image" src="https://github.com/user-attachments/assets/9c82ed3a-c307-4c2b-ac01-c083baf3f8a1" />
 <img width="1874" height="544" alt="image" src="https://github.com/user-attachments/assets/eeba0899-48bd-4c07-bfcc-9a9dd57541db" />
 
+### RC(34)
 
+<img width="1381" height="849" alt="image" src="https://github.com/user-attachments/assets/09fc7fa2-c27c-453f-9197-7d358fa7a939" />
+<img width="1375" height="791" alt="image" src="https://github.com/user-attachments/assets/bf007961-9384-4c0e-a021-f816e16b04ae" />
 
+* Ans -> Option **D**.
 
+<img width="1384" height="855" alt="image" src="https://github.com/user-attachments/assets/c44fdbe1-8154-45b0-9682-e71f19694b98" />
+<img width="1381" height="865" alt="image" src="https://github.com/user-attachments/assets/3441b166-15b5-4663-b74e-0aa88afe65b0" />
+<img width="1393" height="801" alt="image" src="https://github.com/user-attachments/assets/146e2c2d-6984-46f8-9830-7b193bcada39" />
+<img width="1387" height="803" alt="image" src="https://github.com/user-attachments/assets/bebe0385-559a-435e-977e-69c7fda108f0" />
+
+* Evaluating the argument:- [**VERY IMPORTANT**]
+* One Way -> Strengthen.
+* Other way -> Weaken. 
+
+<img width="1383" height="859" alt="image" src="https://github.com/user-attachments/assets/3855c643-60ca-4934-b1d8-3b3b0fa026df" />
+<img width="1379" height="783" alt="image" src="https://github.com/user-attachments/assets/45d12692-86f6-41d3-aabe-55658281a10b" />
+<img width="1384" height="790" alt="image" src="https://github.com/user-attachments/assets/33b543a2-f2e9-43f9-927d-dc3d97b6fcd5" />
+<img width="1248" height="775" alt="image" src="https://github.com/user-attachments/assets/cf366b2b-413e-4dfa-ae5e-206f71a7c845" />
+
+* 3142
 
 
 
@@ -3307,6 +3326,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
