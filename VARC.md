@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="1394" height="624" alt="image" src="https://github.com/user-attachments/assets/c41d44ba-3caf-464d-87fa-b6225a17cd7f" />
+<img width="848" height="356" alt="image" src="https://github.com/user-attachments/assets/43762b09-46c2-4b53-9f0f-eb3c238da515" />
 
 ## Descriptions
 
@@ -3214,6 +3214,59 @@
 
 
 
+### Practice Questions(33)
+
+<img width="3200" height="1080" alt="image" src="https://github.com/user-attachments/assets/8204f63f-4eea-4185-ace8-f3e9d06872fa" />
+<img width="1378" height="773" alt="image" src="https://github.com/user-attachments/assets/fa06c7ff-541f-44c3-8e03-77915dddf6f1" />
+<img width="1379" height="776" alt="image" src="https://github.com/user-attachments/assets/11145caf-c981-49d3-aee1-66a3ab028717" />
+
+* [**VERY IMPORTANT**] 
+* personal interest -> Self interest. 
+* View -> perspective -> They are synonymes.
+* disinterested -> Unbised. [**MEANING**]
+
+<img width="1391" height="780" alt="image" src="https://github.com/user-attachments/assets/4255fc4f-7ef4-4c95-853c-95bb1da2ae65" />
+
+* Answer -> Option **C**. [**VERY IMPORTANT**] 
+* despair -> Hopelessness. [**MEANING**]
+
+<img width="1381" height="779" alt="image" src="https://github.com/user-attachments/assets/ae2c6684-1a10-416b-ae2f-284060df55e9" />
+<img width="1378" height="847" alt="image" src="https://github.com/user-attachments/assets/643794f9-7e1c-47e4-b4f4-1920cb4a7062" />
+<img width="1378" height="849" alt="image" src="https://github.com/user-attachments/assets/36e02a1f-27d3-4d8d-8c91-deacf984266b" />
+<img width="1381" height="849" alt="image" src="https://github.com/user-attachments/assets/f9814103-10f1-4242-91c0-747e4f18c61b" />
+<img width="1385" height="852" alt="image" src="https://github.com/user-attachments/assets/521d648a-e2e4-4b66-b81b-0bc0a607492d" />
+<img width="1382" height="851" alt="image" src="https://github.com/user-attachments/assets/c54a4338-8d90-4f56-874d-1ded2ea97bc0" />
+<img width="1383" height="783" alt="image" src="https://github.com/user-attachments/assets/7108b82f-a9a7-4d71-ac10-e5e39c644533" />
+
+* 4231. [Wrong]
+* Avian Influenza -> Bird Flu. [**MEANING**]
+
+<img width="1377" height="773" alt="image" src="https://github.com/user-attachments/assets/96364b5e-f318-4379-8f0e-da3b59d199e8" />
+
+* 4213. [Correct]
+
+<img width="1376" height="851" alt="image" src="https://github.com/user-attachments/assets/ab1eff69-6fb0-44e3-b5c7-db45db42cb54" />
+<img width="1378" height="856" alt="image" src="https://github.com/user-attachments/assets/0eab73ca-d9c4-463f-acf7-dedb2d18851c" />
+<img width="1379" height="856" alt="image" src="https://github.com/user-attachments/assets/941b18df-e54a-49c8-a24c-e3d751fbb2df" />
+<img width="1384" height="856" alt="image" src="https://github.com/user-attachments/assets/760f5b02-8f47-4be4-ba37-05f2253048dc" />
+<img width="1386" height="846" alt="image" src="https://github.com/user-attachments/assets/6378ef7f-ed71-42ad-932e-895e989f6eeb" />
+<img width="1354" height="786" alt="image" src="https://github.com/user-attachments/assets/635aac26-b9db-4365-93bc-a469751f3e9b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3247,12 +3300,14 @@
 <img width="1904" height="810" alt="image" src="https://github.com/user-attachments/assets/43649be3-cbe3-45f5-bad8-8687a2f41b69" />
 <img width="1310" height="596" alt="image" src="https://github.com/user-attachments/assets/ff3a1a63-d591-46ea-834b-b233ce189ae7" />
 <img width="828" height="569" alt="image" src="https://github.com/user-attachments/assets/1abb92d6-da08-457c-831c-78497dd3b571" />
+<img width="1031" height="648" alt="image" src="https://github.com/user-attachments/assets/cb46a22c-e2ed-4a1e-b627-41c0a575c2b5" />
 
 
 
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
