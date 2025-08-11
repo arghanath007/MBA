@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="1420" height="596" alt="image" src="https://github.com/user-attachments/assets/0e615c8f-34b5-4caf-bfb9-71c72eca4629" />
+<img width="1470" height="626" alt="image" src="https://github.com/user-attachments/assets/0ed9ee96-ada2-4148-b0d6-740285b1ae33" />
 
 ## Descriptions
 
@@ -994,8 +994,11 @@
 ### RC(36)
 
 <img width="2038" height="1292" alt="image" src="https://github.com/user-attachments/assets/c186efeb-c7f4-4b7f-b96a-277211dff1c4" />
+<img width="2032" height="1300" alt="image" src="https://github.com/user-attachments/assets/60a63939-431d-4533-95f8-264fd448d514" />
+<img width="2044" height="1292" alt="image" src="https://github.com/user-attachments/assets/108c7569-6fce-435e-9d3c-8878a261aee1" />
+<img width="2046" height="1298" alt="image" src="https://github.com/user-attachments/assets/39a13238-a22d-4ec0-962f-50e346259a55" />
 
-* Start from 7mins.
+
 
 
 
@@ -3374,6 +3377,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
