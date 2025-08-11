@@ -991,8 +991,11 @@
 <img width="2040" height="1300" alt="image" src="https://github.com/user-attachments/assets/d67730e4-b9ca-44d6-8008-4ce5cdf4a673" />
 <img width="2044" height="1174" alt="image" src="https://github.com/user-attachments/assets/5d848bc1-e3ff-496b-9c73-d2c1dad17bf4" />
 
+### RC(36)
 
+<img width="2038" height="1292" alt="image" src="https://github.com/user-attachments/assets/c186efeb-c7f4-4b7f-b96a-277211dff1c4" />
 
+* Start from 7mins.
 
 
 
@@ -3371,6 +3374,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
