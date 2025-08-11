@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="785" height="346" alt="image" src="https://github.com/user-attachments/assets/f0548b76-2623-4460-8cbb-b5b5dab08b15" />
+<img width="1420" height="596" alt="image" src="https://github.com/user-attachments/assets/0e615c8f-34b5-4caf-bfb9-71c72eca4629" />
 
 ## Descriptions
 
@@ -981,10 +981,15 @@
 
 <img width="1382" height="791" alt="image" src="https://github.com/user-attachments/assets/434d640c-3d6b-44b8-8060-60b834b7824a" />
 <img width="1405" height="810" alt="image" src="https://github.com/user-attachments/assets/39e40d8f-3711-470d-8275-4d33751f7308" />
+<img width="2038" height="1302" alt="image" src="https://github.com/user-attachments/assets/d4b4ec76-7ce4-473e-be5b-eeaf3df130b2" />
+<img width="2036" height="1292" alt="image" src="https://github.com/user-attachments/assets/191036fd-f9da-4508-970e-64435daf4f77" />
+<img width="614" height="720" alt="image" src="https://github.com/user-attachments/assets/b82bd688-f1c4-4737-8641-6c5a7909fce6" />
 
-* Start from 1hr 10mins.
+* [**VERY IMPORTANT**]
 
-
+<img width="2040" height="1300" alt="image" src="https://github.com/user-attachments/assets/b3f217c8-c6bd-460c-99b5-6e0ac76f48c4" />
+<img width="2040" height="1300" alt="image" src="https://github.com/user-attachments/assets/d67730e4-b9ca-44d6-8008-4ce5cdf4a673" />
+<img width="2044" height="1174" alt="image" src="https://github.com/user-attachments/assets/5d848bc1-e3ff-496b-9c73-d2c1dad17bf4" />
 
 
 
@@ -3366,6 +3371,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
