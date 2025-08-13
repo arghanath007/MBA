@@ -3190,7 +3190,7 @@
 
 * Answer -> Option **1**.
 
-### VA(32)
+### VA(36)
 
 <img width="1462" height="694" alt="image" src="https://github.com/user-attachments/assets/137a29c9-5cb6-4643-89a8-90f9833cef2f" />
 
@@ -3284,7 +3284,7 @@
 
 
 
-### Practice Questions(33)
+### Practice Questions(37)
 
 <img width="3200" height="1080" alt="image" src="https://github.com/user-attachments/assets/8204f63f-4eea-4185-ace8-f3e9d06872fa" />
 <img width="1378" height="773" alt="image" src="https://github.com/user-attachments/assets/fa06c7ff-541f-44c3-8e03-77915dddf6f1" />
@@ -3377,6 +3377,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
