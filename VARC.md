@@ -2,7 +2,7 @@
 
 ## Next/Current Class
 
-<img width="1470" height="626" alt="image" src="https://github.com/user-attachments/assets/0ed9ee96-ada2-4148-b0d6-740285b1ae33" />
+<img width="1400" height="622" alt="image" src="https://github.com/user-attachments/assets/f78f99cc-ac37-4d48-a532-820fd2b62f25" />
 
 ## Descriptions
 
@@ -3190,7 +3190,7 @@
 
 * Answer -> Option **1**.
 
-### VA(36)
+### VA(37)
 
 <img width="1462" height="694" alt="image" src="https://github.com/user-attachments/assets/137a29c9-5cb6-4643-89a8-90f9833cef2f" />
 
@@ -3274,6 +3274,67 @@
 
 * [**VERY IMPORTANT**] 
 
+### VA(39)
+
+#### PJ
+
+<img width="1614" height="958" alt="image" src="https://github.com/user-attachments/assets/f3a88c03-71d8-4893-94df-df7bb233fad5" />
+
+* 1324 [Wrong]
+* 1243 [Correct]
+* temerity -> Boldness/Audacity. [**MEANING**]
+
+<img width="1586" height="966" alt="image" src="https://github.com/user-attachments/assets/267168a1-5c79-4278-9dbd-73e20f919ff2" />
+
+* 3142 [Correct]
+* folly/follies -> Flaws. [**MEANING**]
+
+<img width="622" height="734" alt="image" src="https://github.com/user-attachments/assets/a7df1cdf-7e5d-484e-8ba8-cbe03ac3b839" />
+<img width="1664" height="1044" alt="image" src="https://github.com/user-attachments/assets/68b26e0a-0359-49f4-8497-42e72c43c05f" />
+
+* 2134. [Wrong]
+* 2314. [Correct] [**VERY IMPORTANT**]
+* Statement '1' is an example of statement '3'.
+
+#### Missing Link
+
+<img width="2044" height="1290" alt="image" src="https://github.com/user-attachments/assets/c9992e6c-59e3-4ae3-abe6-01aa75aefae9" />
+
+* gastronomy ->  the art or science of good eating or good food. [**MEANING**]
+
+<img width="2050" height="1292" alt="image" src="https://github.com/user-attachments/assets/039b0a75-e236-4ac3-a405-d1081ceffbd4" />
+<img width="2036" height="1294" alt="image" src="https://github.com/user-attachments/assets/04f683c4-e923-4c29-9c0e-4ac2f299a5d7" />
+
+* epiphany -> Sudden profound realization. [**MEANING**]
+
+<img width="2068" height="1164" alt="image" src="https://github.com/user-attachments/assets/f65f9dc1-d062-4525-a19e-838884e9e4bd" />
+
+#### OOO PJ
+
+<img width="2042" height="1298" alt="image" src="https://github.com/user-attachments/assets/a803fd1f-7f22-4ae0-a66d-514700c510e0" />
+<img width="2048" height="1174" alt="image" src="https://github.com/user-attachments/assets/9ed4aa3c-6b23-4469-8343-cd7f27a5ba61" />
+<img width="2050" height="1298" alt="image" src="https://github.com/user-attachments/assets/6e9190b4-afd3-44ae-b1e6-c5daf57967b2" />
+<img width="2128" height="1178" alt="image" src="https://github.com/user-attachments/assets/dab6d8b3-5015-49c7-9b5a-9b04a974e847" />
+<img width="2046" height="1160" alt="image" src="https://github.com/user-attachments/assets/30e1a9e3-1c4b-40c8-a0e3-cf760f882c92" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2046" height="1296" alt="image" src="https://github.com/user-attachments/assets/3767770e-1a9c-4aff-a54a-e2ce0d8dc389" />
+
+* [**VERY IMPORTANT**]
+
+#### Para Summary
+
+<img width="2046" height="1296" alt="image" src="https://github.com/user-attachments/assets/8818b3d1-6da3-49e1-aeba-6134656183a9" />
+
+* Most -> Includes "many" as well. [**VERY IMPORTANT**]
+
+<img width="2046" height="1294" alt="image" src="https://github.com/user-attachments/assets/7b270c44-8a75-4c6a-a80d-a447a6425a55" />
+
+* Unctuous -> sly, liar. [**MEANING**]
+* platitude -> Cliche/flat. [**MEANING**]
+* glib -> Smooth Talker. [**MEANING**]
+* ambivalent -> Those whose feelings keep changing/undecided. [**MEANING**]
 
 
 
@@ -3284,7 +3345,27 @@
 
 
 
-### Practice Questions(37)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Practice Questions(38)
 
 <img width="3200" height="1080" alt="image" src="https://github.com/user-attachments/assets/8204f63f-4eea-4185-ace8-f3e9d06872fa" />
 <img width="1378" height="773" alt="image" src="https://github.com/user-attachments/assets/fa06c7ff-541f-44c3-8e03-77915dddf6f1" />
@@ -3377,6 +3458,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
