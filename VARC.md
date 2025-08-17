@@ -998,10 +998,25 @@
 <img width="2044" height="1292" alt="image" src="https://github.com/user-attachments/assets/108c7569-6fce-435e-9d3c-8878a261aee1" />
 <img width="2046" height="1298" alt="image" src="https://github.com/user-attachments/assets/39a13238-a22d-4ec0-962f-50e346259a55" />
 
+### RC(40)
 
+* epistemology -> Study of Knowledge. [**MEANING**]
+* logy -> Study. [**MEANING**]
+* Ontology -> Study of Beings/Existance/Reality.  [**MEANING**]
+* Ornithology -> Study of Birds. [**MEANING**]
+* Existentialism -> Why we are born? Purpose?  [**MEANING**]
+* Nihilism -> No purpose to existance. [**MEANING**]
+* tabula rasa -> A clean slate/ A blank slate.  [**MEANING**]
+* Existance before essance.
 
+<img width="1386" height="784" alt="image" src="https://github.com/user-attachments/assets/a63cb166-a90b-4bb2-b712-20e8c977d81b" />
+<img width="1382" height="851" alt="image" src="https://github.com/user-attachments/assets/3bb3fd9e-09b8-4762-9caa-6efcbd3fdc9c" />
+<img width="1384" height="846" alt="image" src="https://github.com/user-attachments/assets/d2912667-ea29-48b5-8bcd-0e76db074b95" />
+<img width="1383" height="852" alt="image" src="https://github.com/user-attachments/assets/e7ad82bf-aead-45f6-a871-b4f22bb5027c" />
+<img width="1381" height="853" alt="image" src="https://github.com/user-attachments/assets/8c2a1b9e-e552-4a9f-bead-5d9cab2dfb8b" />
+<img width="1422" height="782" alt="image" src="https://github.com/user-attachments/assets/11237cc5-26ae-4670-ac6a-3be493bad62b" />
 
-
+* Start from 1hr 10mins.
 
 
 
@@ -3458,6 +3473,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
