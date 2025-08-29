@@ -3438,6 +3438,71 @@
 
 
 
+## VARC Marathon LIVE(YT)
+
+* Link -> https://www.youtube.com/watch?v=532i8yG99Gc
+
+<img width="1351" height="911" alt="image" src="https://github.com/user-attachments/assets/a65a1c66-7638-4f66-8488-a028fb97993f" />
+<img width="1604" height="909" alt="image" src="https://github.com/user-attachments/assets/03a2a3ed-06e1-48aa-a54f-6fc70f3fe991" />
+
+* RC1.
+
+<img width="1613" height="912" alt="image" src="https://github.com/user-attachments/assets/0149a965-5255-4b1a-beac-034c31e5c726" />
+
+* Option **C**. [Wrong]
+
+<img width="1634" height="915" alt="image" src="https://github.com/user-attachments/assets/55e5fcf2-e5a1-4b64-a2f3-b6420bc4dc7a" />
+<img width="1628" height="922" alt="image" src="https://github.com/user-attachments/assets/941cb6b6-e2a4-4d65-9449-4f08a3f93b09" />
+<img width="1639" height="919" alt="image" src="https://github.com/user-attachments/assets/705140df-7dce-4235-81e1-40bdd33e72b1" />
+
+* Option **B**. [Correct]
+
+<img width="1636" height="921" alt="image" src="https://github.com/user-attachments/assets/38fd1d0b-9e8e-4b07-9cab-c80f60e006bd" />
+
+* argot -> Jargon. [**MEANING**]
+* pretty out there -> Unusual. [**MEANING**]
+* de facto -> By default.  [**MEANING**]
+* orthodoxy -> Established Belief. [**MEANING**]
+* antagonistic -> Hostile. [**MEANING**]
+* pathology -> Tendency.  [**MEANING**]
+
+<img width="1618" height="913" alt="image" src="https://github.com/user-attachments/assets/b8876336-0e78-48e3-8fe3-9b0fcff08413" />
+<img width="1635" height="927" alt="image" src="https://github.com/user-attachments/assets/1f4877d1-7b5c-4fad-8184-4994f93dc526" />
+<img width="1637" height="926" alt="image" src="https://github.com/user-attachments/assets/19d77f69-a2d5-4c51-83cf-7125cbb376e8" />
+<img width="1511" height="868" alt="image" src="https://github.com/user-attachments/assets/77c0f19b-d52e-479c-a88a-b823e76cf5c2" />
+
+* Option **A**. [Correct]
+
+<img width="1620" height="909" alt="image" src="https://github.com/user-attachments/assets/10b012ec-5279-48dc-bd2c-01b4ca733b61" />
+
+* Option **A**. [Correct]
+
+<img width="1625" height="910" alt="image" src="https://github.com/user-attachments/assets/44fb1fa6-e409-4618-be0c-c8a8b1ec180f" />
+<img width="1520" height="870" alt="image" src="https://github.com/user-attachments/assets/15fe2dc1-2fa3-4754-9c2d-55e6a7e89b70" />
+
+* Option **C**. [Correct]
+* contrarian -> iconoclast. [Synonymes]
+
+<img width="1631" height="922" alt="image" src="https://github.com/user-attachments/assets/685c101e-3b81-4ae2-a9ba-ec274a10cfc4" />
+
+* Option **C**. [Wrong]
+
+<img width="1513" height="870" alt="image" src="https://github.com/user-attachments/assets/3a361a54-9811-42aa-b8c1-b7344269482e" />
+
+* Option **D**. [Correct]
+
+<img width="1518" height="866" alt="image" src="https://github.com/user-attachments/assets/c30e5076-6d23-4b0c-8cd7-6fa9cdfef587" />
+<img width="1514" height="856" alt="image" src="https://github.com/user-attachments/assets/ceb67f2c-a8fc-45d5-bdb7-1a1f58dd8c99" />
+
+* Start from 1hr 3mins.
+
+
+
+
+
+
+
+
 
 
 
@@ -3473,6 +3538,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
