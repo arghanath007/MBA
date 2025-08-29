@@ -3440,6 +3440,8 @@
 
 ## VARC Marathon LIVE(YT)
 
+### VARC(RC)
+
 * Link -> https://www.youtube.com/watch?v=532i8yG99Gc
 
 <img width="1351" height="911" alt="image" src="https://github.com/user-attachments/assets/a65a1c66-7638-4f66-8488-a028fb97993f" />
@@ -3493,8 +3495,124 @@
 
 <img width="1518" height="866" alt="image" src="https://github.com/user-attachments/assets/c30e5076-6d23-4b0c-8cd7-6fa9cdfef587" />
 <img width="1514" height="856" alt="image" src="https://github.com/user-attachments/assets/ceb67f2c-a8fc-45d5-bdb7-1a1f58dd8c99" />
+<img width="1352" height="918" alt="image" src="https://github.com/user-attachments/assets/72bca779-05dd-4a86-815c-4326b033b473" />
 
-* Start from 1hr 3mins.
+* RC2.
+
+<img width="1644" height="920" alt="image" src="https://github.com/user-attachments/assets/59e0389a-67f2-46f9-8397-37d7beff0ad7" />
+  
+* Option **C**. [Wrong]
+
+<img width="1642" height="921" alt="image" src="https://github.com/user-attachments/assets/740cddc6-ef3d-49f8-ba3b-191766493f26" />
+
+* Option **D**. [Correct]
+
+<img width="1635" height="914" alt="image" src="https://github.com/user-attachments/assets/e80523a1-7d45-484a-a4d3-63a3b3325cbb" />
+
+* Option **C**. [Wrong]
+
+<img width="1627" height="912" alt="image" src="https://github.com/user-attachments/assets/330509cf-4d2b-4afd-b3ac-cccd9368ccb2" />
+
+* Option **B**. [Correct]
+
+<img width="1632" height="919" alt="image" src="https://github.com/user-attachments/assets/febeae37-bda3-4e43-8c8a-fb2f35cd5e71" />
+
+* Option **B**. [Wrong]
+
+<img width="1333" height="827" alt="image" src="https://github.com/user-attachments/assets/8731b9b0-c23d-4a93-a696-73c15e586d8a" />
+<img width="1627" height="918" alt="image" src="https://github.com/user-attachments/assets/429abce6-4c98-46b3-8a54-ba25b72d5348" />
+
+* Option **C**. [Correct]
+* Answer -> 1, 2, 4 Questions.
+* Skip -> 3 Question.
+* Always -> Extreme word. [**VERY IMPORTANT**]
+
+<img width="1365" height="921" alt="image" src="https://github.com/user-attachments/assets/9727c13a-9981-45d2-a9de-fc0072b7444d" />
+<img width="1626" height="915" alt="image" src="https://github.com/user-attachments/assets/3cfc6566-af01-40eb-944e-f6975399ad39" />
+<img width="1619" height="913" alt="image" src="https://github.com/user-attachments/assets/d4cb0ca8-553d-48ab-b070-fc942ec2c1d4" />
+
+* Option **B**. [Correct]
+
+<img width="1650" height="921" alt="image" src="https://github.com/user-attachments/assets/1aa9877e-8a01-4ce3-a81c-b9be012f82d0" />
+
+### VARC(VA)
+
+<img width="673" height="421" alt="image" src="https://github.com/user-attachments/assets/9a60e65b-809e-44f5-8acf-df825cc12a38" />
+<img width="1045" height="401" alt="image" src="https://github.com/user-attachments/assets/2a6508a3-4e2e-4324-aaea-b7e0112ba71b" />
+
+* ParaJumbles -> Find mandatory Pairs. [**VERY IMPORTANT**]
+
+<img width="1208" height="528" alt="image" src="https://github.com/user-attachments/assets/4e9194d4-e83c-438e-b13c-6f9415e63957" />
+
+* 4312. [Wrong]
+* 2314. [Correct]  
+
+<img width="1256" height="743" alt="image" src="https://github.com/user-attachments/assets/c41967c3-bfc8-4618-a36e-6c495b82f28c" />
+
+*  [**VERY IMPORTANT**]
+
+<img width="1186" height="828" alt="image" src="https://github.com/user-attachments/assets/faebcbc8-05aa-41fd-bce2-72427b67880b" />
+
+* Option **B**. [Got Correct]
+* treatise -> Formal writing. [**MEANING**]
+* aer -> Latin, ancient word for air.  [**MEANING**]
+* succumbed -> Gave in. [**MEANING**]
+* Option **A** -> Too specific option.
+* frail -> Fragile. [**MEANING**]
+* Option **C** -> Experts -> Too extreme option.
+* Option **D** -> Superior -> Too extreme option.
+
+<img width="1494" height="918" alt="image" src="https://github.com/user-attachments/assets/597f4123-1315-412e-93fd-bc8502e91b98" />
+<img width="1457" height="914" alt="image" src="https://github.com/user-attachments/assets/5c9012c7-9aeb-4fc9-946c-3c3f73e552d0" />
+
+* Beware of **Secondary Detail options**. They are also given. It is a **Trap** option. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3532,12 +3650,14 @@
 <img width="1310" height="596" alt="image" src="https://github.com/user-attachments/assets/ff3a1a63-d591-46ea-834b-b233ce189ae7" />
 <img width="828" height="569" alt="image" src="https://github.com/user-attachments/assets/1abb92d6-da08-457c-831c-78497dd3b571" />
 <img width="1031" height="648" alt="image" src="https://github.com/user-attachments/assets/cb46a22c-e2ed-4a1e-b627-41c0a575c2b5" />
+<img width="1178" height="715" alt="image" src="https://github.com/user-attachments/assets/96d9b5e0-f721-4a2b-bb2e-119a9c4e494e" />
 
 
 
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
