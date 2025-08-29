@@ -3567,19 +3567,34 @@
 
 * Beware of **Secondary Detail options**. They are also given. It is a **Trap** option. [**VERY IMPORTANT**]
 
+<img width="950" height="491" alt="image" src="https://github.com/user-attachments/assets/2e9f4dea-75d0-4089-bb85-ec0a04ee03fa" />
 
+* 3241. [Wrong]
+* 4132. [Correct]  
 
+<img width="973" height="616" alt="image" src="https://github.com/user-attachments/assets/cbd2ec07-ceee-4846-ab8a-8f275927139b" />
+<img width="902" height="646" alt="image" src="https://github.com/user-attachments/assets/1fdb1521-2211-4e74-9d2b-e1287d0637a5" />
 
+* gloaming -> Sundown/dusk/twilight. [**MEANING**]
+* acoustics -> Sound system of a place. [**MEANING**]
 
+<img width="1054" height="781" alt="image" src="https://github.com/user-attachments/assets/2a42fa0d-67db-47c0-964b-5a53658ed8de" />
 
+* Option **B**. [Wrong]
+* presage -> Foretell/foreshadow. [**MEANING**]
+* Option **C**. [Correct]
+* Threatning ->  [**Meaning**]
 
+<img width="1502" height="810" alt="image" src="https://github.com/user-attachments/assets/e0acc99b-d473-47af-af6d-55a877cb11fb" />
+<img width="1504" height="804" alt="image" src="https://github.com/user-attachments/assets/0331b2b5-0c06-473d-a403-837aaef3cd21" />
 
+* Arrangement -> 5214.
+* Odd One Out -> Option/Statement **3**.
 
+<img width="1498" height="810" alt="image" src="https://github.com/user-attachments/assets/0ed894aa-52f9-468c-91b2-942800cec7c1" />
+<img width="1429" height="776" alt="image" src="https://github.com/user-attachments/assets/f35a52fa-4c39-413d-a78f-b9c2b726e3d0" />
 
-
-
-
-
+* Start from 3hrs 19mins.
 
 
 
@@ -3657,6 +3672,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
