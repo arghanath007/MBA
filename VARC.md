@@ -3594,20 +3594,33 @@
 <img width="1498" height="810" alt="image" src="https://github.com/user-attachments/assets/0ed894aa-52f9-468c-91b2-942800cec7c1" />
 <img width="1429" height="776" alt="image" src="https://github.com/user-attachments/assets/f35a52fa-4c39-413d-a78f-b9c2b726e3d0" />
 
-* Start from 3hrs 19mins.
+* Option **B** -> Option **4**. [Wrong]
 
+<img width="1501" height="869" alt="image" src="https://github.com/user-attachments/assets/2756813d-d959-42ce-b1f2-a43c4b655d8c" />
+<img width="1218" height="927" alt="image" src="https://github.com/user-attachments/assets/c2a2f885-c1c1-49ef-b54d-c0539c1bc87c" />
+<img width="1193" height="920" alt="image" src="https://github.com/user-attachments/assets/e9fdf84c-fecf-4ae6-a49e-c8ddc092005b" />
 
+* Option **A** -> Option **2**. [Correct] [**VERY IMPORTANT**]
+* Tenured -> Permanent College Professor.  [**Meaning**]
+* Sophomore -> 2nd year of college.  [**Meaning**]
+* Option **B** -> Option **4** -> Emotional and then going to practical.
+* Option **D** -> Option **3** -> Practical and then going to emotional.
 
+<img width="1144" height="911" alt="image" src="https://github.com/user-attachments/assets/dd6520d8-e447-4d03-9ec0-a9191bc25b7d" />
+<img width="1400" height="929" alt="image" src="https://github.com/user-attachments/assets/a33b8770-264f-46c5-9be5-8f4324f93919" />
 
+* Option **D**. [Got Correct]
 
+<img width="954" height="846" alt="image" src="https://github.com/user-attachments/assets/971f5d29-6739-40a0-8f09-38e7142f5f0f" />
+<img width="949" height="913" alt="image" src="https://github.com/user-attachments/assets/5aa41c0e-2024-4652-8894-85e088bd677f" />
 
+* Option **D** -> Option **4**. [Got Correct]
+* Put Off -> Postpone. [**MEANING**]
 
+<img width="960" height="886" alt="image" src="https://github.com/user-attachments/assets/e5126584-e59e-45ed-a509-7a2918436d5a" />
+<img width="957" height="759" alt="image" src="https://github.com/user-attachments/assets/59ed237b-d090-463b-921d-cae659f8f942" />
 
-
-
-
-
-
+* 3241. [Wrong]
 
 
 
@@ -3672,6 +3685,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
