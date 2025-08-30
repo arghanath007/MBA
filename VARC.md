@@ -3622,24 +3622,88 @@
 
 * 3241. [Wrong]
 
+<img width="1846" height="1056" alt="image" src="https://github.com/user-attachments/assets/7cdde0d6-631c-402c-81da-47c6895e9f0e" />
 
+* 2314. [Correct] [**VERY IMPORTANT**]
 
+<img width="1846" height="1050" alt="image" src="https://github.com/user-attachments/assets/cfaf4f87-a80f-4a28-9405-186a83cd70cd" />
 
+### VARC(RC)
 
+<img width="1886" height="832" alt="image" src="https://github.com/user-attachments/assets/d87d2c7a-b494-42e2-9f02-79fa5aaf80f7" />
+<img width="1870" height="1022" alt="image" src="https://github.com/user-attachments/assets/582e8bb6-a93b-48eb-bfc7-0e38d4565dd4" />
+<img width="1868" height="702" alt="image" src="https://github.com/user-attachments/assets/2a6c0f23-8994-4cf8-9d68-8f58a34b16a8" />
+<img width="1884" height="710" alt="image" src="https://github.com/user-attachments/assets/363a666c-8eb2-4961-b157-567977b3bd7d" />
+<img width="1876" height="1074" alt="image" src="https://github.com/user-attachments/assets/506e91b7-d987-4366-b284-a999e061c0ea" />
+<img width="1882" height="998" alt="image" src="https://github.com/user-attachments/assets/443cdfc3-3943-426d-a134-d70c040fdda9" />
+<img width="1864" height="724" alt="image" src="https://github.com/user-attachments/assets/e2d44ba4-6181-4f98-b1c8-d68b67e70c15" />
+<img width="1872" height="888" alt="image" src="https://github.com/user-attachments/assets/d02a83f0-55c9-4ad7-a10e-d56f242cc859" />
+<img width="1878" height="1068" alt="image" src="https://github.com/user-attachments/assets/3b39b87c-f01c-4cd5-b769-d48a0c864a85" />
 
- 
+* Learnings. [**VERY IMPORTANT**] 
 
+<img width="1872" height="1050" alt="image" src="https://github.com/user-attachments/assets/115e8612-283a-42a5-9fbb-b42d51337bee" />
+<img width="1392" height="1054" alt="image" src="https://github.com/user-attachments/assets/097fdf4e-0189-45b0-874f-b32a8b7b6a95" />
 
+* RC3.
 
+<img width="1870" height="1084" alt="image" src="https://github.com/user-attachments/assets/326d739b-fcb3-417e-bdee-f7230f7d915c" />
+<img width="1880" height="1052" alt="image" src="https://github.com/user-attachments/assets/4084ae71-de86-4168-b158-75c31924ff24" />
 
+* Option **D**. [Got Correct]
 
+<img width="1880" height="1078" alt="image" src="https://github.com/user-attachments/assets/9a8ad63e-91ac-49e9-84e6-bf6ec47d6f47" />
 
+* Option **D**. [Wrong]
 
+<img width="1878" height="1074" alt="image" src="https://github.com/user-attachments/assets/0c099320-40f7-4acd-a7c2-de15b21d8008" />
 
+* Option **C**. [Correct]
 
+<img width="1880" height="1070" alt="image" src="https://github.com/user-attachments/assets/731355d5-c43c-4ea3-9390-f582716ca32d" />
 
+* Option **B**. [Wrong]
 
+<img width="1878" height="1070" alt="image" src="https://github.com/user-attachments/assets/81696993-0f95-457a-a030-7a84248d4749" />
 
+* Option **D**. [Correct]
+
+<img width="1882" height="1094" alt="image" src="https://github.com/user-attachments/assets/3d8fa8de-2667-4481-b83e-eba2348f0e26" />
+
+* Option **D**. [Wrong]
+
+<img width="1880" height="1062" alt="image" src="https://github.com/user-attachments/assets/370a514a-b98c-4427-9e18-3b7b49533ade" />
+
+* Option **A**. [Correct]
+* none-except -> Only one which is correct. [**VERY IMPORTANT**]
+
+<img width="1886" height="1100" alt="image" src="https://github.com/user-attachments/assets/2bc1999d-4847-474c-b768-d5be4d073303" />
+<img width="1884" height="1070" alt="image" src="https://github.com/user-attachments/assets/16314bbf-6464-4585-9601-ac8a7140534a" />
+<img width="1888" height="1118" alt="image" src="https://github.com/user-attachments/assets/0333b694-ead5-4de6-b83d-8e90e51d5e9c" />
+<img width="1878" height="1112" alt="image" src="https://github.com/user-attachments/assets/759342e7-1ff4-4adb-b6d4-fbae2ab216c1" />
+<img width="1876" height="1088" alt="image" src="https://github.com/user-attachments/assets/373d21e5-f205-48b9-81c6-e8a440bb65ba" />
+<img width="1878" height="1082" alt="image" src="https://github.com/user-attachments/assets/b82a0c16-6689-43fe-8ddb-c885f54de8bc" /> 
+<img width="1882" height="1018" alt="image" src="https://github.com/user-attachments/assets/e96cbe50-6ac3-46db-bf8a-f6dca82acb10" />
+<img width="1880" height="1090" alt="image" src="https://github.com/user-attachments/assets/5d2df240-6ad5-4175-90d0-034492437c97" />
+<img width="1876" height="1066" alt="image" src="https://github.com/user-attachments/assets/deaa1b18-a937-45df-a247-e0f2b6144a56" />
+<img width="1872" height="1068" alt="image" src="https://github.com/user-attachments/assets/dfb18c21-26f0-4f6f-96a1-56b78fb44674" />
+<img width="1874" height="1092" alt="image" src="https://github.com/user-attachments/assets/57f6f814-28aa-4c57-a246-c1786210f36f" />
+
+* Option **A**. [Correct] 
+
+<img width="1886" height="1146" alt="image" src="https://github.com/user-attachments/assets/7bfff958-9736-48a5-a86f-4ca52ac8d107" />
+
+* Option **A**. [Correct] 
+
+<img width="1882" height="1114" alt="image" src="https://github.com/user-attachments/assets/7d68a009-ee87-450e-8820-0e62a96b2e80" />
+
+* Option **C**. [Correct] 
+
+<img width="1890" height="1094" alt="image" src="https://github.com/user-attachments/assets/1f0c23ba-2392-4a67-98d7-cd5a55f8566b" />
+
+* Option **A**. [Correct] 
+
+<img width="1874" height="1070" alt="image" src="https://github.com/user-attachments/assets/52496fba-83ef-485e-8eef-a6b9e5c83b5c" />
 
 
 
@@ -3685,6 +3749,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
