@@ -4,7 +4,7 @@
 
 ## Next/Current Class
 
-<img width="1400" height="622" alt="image" src="https://github.com/user-attachments/assets/f78f99cc-ac37-4d48-a532-820fd2b62f25" />
+<img width="831" height="375" alt="image" src="https://github.com/user-attachments/assets/468eec49-432d-40e4-b4aa-da3fd70df6a0" />
 
 ## Descriptions
 
@@ -3804,19 +3804,116 @@
 <img width="1854" height="1054" alt="image" src="https://github.com/user-attachments/assets/92f31571-2518-47c7-9feb-35530f963788" />
 <img width="1852" height="1044" alt="image" src="https://github.com/user-attachments/assets/055b577f-6c09-4750-837c-87a57a835b4d" />
 
+### Mixed Practice
+
+<img width="1318" height="750" alt="image" src="https://github.com/user-attachments/assets/44f18ad6-7f71-4cb1-acdd-9b774af02b08" />
+<img width="1325" height="757" alt="image" src="https://github.com/user-attachments/assets/ea945bd2-78f9-4196-9726-add4394ce6f2" />
+<img width="1341" height="766" alt="image" src="https://github.com/user-attachments/assets/b0aee92f-5e3b-438e-b1ae-ff63b5d87907" />
+
+* Elimination method. [**VERY IMPORTANT**]
+
+<img width="1329" height="756" alt="image" src="https://github.com/user-attachments/assets/d920a2e5-1281-46ca-8d51-5d392183ecee" />
+<img width="1354" height="840" alt="image" src="https://github.com/user-attachments/assets/1c802af8-46d0-4479-9b72-67373cac2201" />
+
+* Option **A**. [Wrong] 
+
+<img width="1366" height="762" alt="image" src="https://github.com/user-attachments/assets/e5f49105-5cdc-4ab6-8bce-7aa10e97cec9" />
+
+* Option **B**. [Correct]
+
+<img width="1381" height="835" alt="image" src="https://github.com/user-attachments/assets/ffa62d52-011b-400e-a3e2-54b0e7901a8a" />
+
+* Option **B**. [Wrong]
+* Option **C**. [Correct]
+* wretchedness -> Misery. [**MEANING**]
+
+<img width="1330" height="743" alt="image" src="https://github.com/user-attachments/assets/5826377a-9e8f-4d77-8e21-820136be80d7" />
+<img width="1432" height="925" alt="image" src="https://github.com/user-attachments/assets/d15bc196-a406-4171-83de-82a6d761c455" />
+
+* Option **B**. [Got Correct]
+* Option **B** -> Contradicts with the other options.
+* indemnity -> Compensate someone/Protection from harm. [**MEANING**]
+
+<img width="1434" height="825" alt="image" src="https://github.com/user-attachments/assets/7dd6286c-bd26-4693-9b89-5da9f6f38298" />
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/9ac94f6e-daa1-43b9-8c0d-441fcc3b4214" />
+
+* RC1.
+
+<img width="1436" height="918" alt="image" src="https://github.com/user-attachments/assets/c008908c-e8c7-49bf-85d3-7e34eb494a5a" />
+<img width="1439" height="926" alt="image" src="https://github.com/user-attachments/assets/6610c2d3-af4c-4186-ad7f-93973d86ae28" />
+<img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/306dde40-a438-472c-804d-8fb85420ca8d" />
 
 
 
+<img width="1441" height="905" alt="image" src="https://github.com/user-attachments/assets/b31e4963-72e5-4fde-a317-624fd955ae40" />
+<img width="194" height="73" alt="image" src="https://github.com/user-attachments/assets/52c51890-3d29-40b0-8f84-20c46c0cdd8c" />
 
+* Yes.
+* Nostalgia ->
+* Nostos -> Return home. [**MEANING**]
+* Algia -> Pain.  [**MEANING**]
+* feigned -> not genuine or real.  [**MEANING**]
 
+<img width="1426" height="833" alt="image" src="https://github.com/user-attachments/assets/8524f753-a2f8-48f7-b55d-63999885c26d" />
+<img width="1874" height="878" alt="image" src="https://github.com/user-attachments/assets/1622d8c4-3126-4a4f-bc64-eea0a701317a" />
 
+* The passage is **argumentative**.
+* coeval -> of the same or equal age, antiquity, or duration. [**MEANING**]
+* eval -> Age/Time.  [**MEANING**]
+* retrospective -> Look back.  [**MEANING**]
+* Prospective -> Look forward.  [**MEANING**]
 
+<img width="1419" height="823" alt="image" src="https://github.com/user-attachments/assets/b49a55b6-d3d6-4673-98f4-21754ef0a970" />
 
+* stifled -> Suffocated.  [**MEANING**]
 
+<img width="1438" height="818" alt="image" src="https://github.com/user-attachments/assets/dfbbcbd9-c3da-4467-84dc-a3f1b5d7ed85" />
 
+* Option **C** -> Hyperbole/Extreme.
+* Option **A** -> Too generic.
+* Option **D**. [Answer]
 
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/969cd28d-a793-465a-bef6-d8aaa688f9f2" />
 
+* Option **B** -> Too narrow.
+* Option **D** -> Atitude problem/Tone shift.
+* Option **A** -> Atitude problem/Tone shift.
+* Option **C**. [Answer]
 
+<img width="1441" height="821" alt="image" src="https://github.com/user-attachments/assets/e977c4cf-16f1-48e5-845c-53fb02e113bf" />
+
+* Option **B** -> Distorted/Distortion option.
+* Option **A**. [Answer]
+* Option **C** -> Narrow/option mismatch.
+* Option **D** -> Distorted/Distortion option..
+
+<img width="1441" height="800" alt="image" src="https://github.com/user-attachments/assets/3e6f5532-3de2-4f62-9613-f18e52ca7b08" />
+
+* Option **A** -> Extreme/Hyperbole -> **Most** -> Extreme word.
+* Option **D** -> Out of scope -> **More important** -> Extreme word.
+* Option **B** -> Distractor/Distorted.
+
+<img width="1432" height="893" alt="image" src="https://github.com/user-attachments/assets/c2f57207-f6dd-4276-a86a-82eae28e42d8" />
+<img width="1417" height="813" alt="image" src="https://github.com/user-attachments/assets/a4edd629-6651-4fe9-aedc-596cedce8997" />
+<img width="1366" height="808" alt="image" src="https://github.com/user-attachments/assets/e737eb8a-f0c3-4978-ba1c-8f660b31958d" />
+
+* Option **B**. [Got Correct]
+
+<img width="1440" height="905" alt="image" src="https://github.com/user-attachments/assets/3260d29a-c333-4a93-b56a-d2875881e33e" />
+
+* Option **A**. [Got Correct]
+* xeno -> Foreign. [**MEANING**]
+
+<img width="1428" height="838" alt="image" src="https://github.com/user-attachments/assets/36b229cc-59c4-4976-8d8c-06c09338f335" />
+<img width="1434" height="924" alt="image" src="https://github.com/user-attachments/assets/c609ff07-0056-4e58-99dc-4d60ed8a9dad" />
+
+* Option **B**. [Got Correct]
+* Perverse -> Corrupted. [**MEANING**]
+
+<img width="1438" height="837" alt="image" src="https://github.com/user-attachments/assets/ab1bbefb-0fde-4019-9c41-c0bba8e3977d" />
+<img width="1435" height="833" alt="image" src="https://github.com/user-attachments/assets/75b88b63-d03c-4ebe-8f91-b049ab89bf41" />
+
+* Unprecedented -> Never seen before.   [**MEANING**]
 
 
 
@@ -3853,6 +3950,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
