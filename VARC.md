@@ -3793,6 +3793,14 @@
 
 * Option **D** -> Narrow Option. 
 
+<img width="1840" height="916" alt="image" src="https://github.com/user-attachments/assets/46140b44-bf27-4c0e-a785-872150f09949" />
+<img width="1858" height="1060" alt="image" src="https://github.com/user-attachments/assets/504ff4e3-eeab-4073-b41f-500d6c174237" />
+<img width="1854" height="1066" alt="image" src="https://github.com/user-attachments/assets/a2f1f977-956d-421a-880d-0f46a76627b1" />
+<img width="1856" height="1058" alt="image" src="https://github.com/user-attachments/assets/85d80ff2-d920-456b-8190-fd0f757e2795" />
+<img width="1846" height="1046" alt="image" src="https://github.com/user-attachments/assets/fe7ca84e-1f86-4961-9276-4ded6be27454" />
+<img width="1846" height="926" alt="image" src="https://github.com/user-attachments/assets/526c55ac-311e-449d-b60b-44e3a5f3e5f7" />
+<img width="1854" height="1054" alt="image" src="https://github.com/user-attachments/assets/92f31571-2518-47c7-9feb-35530f963788" />
+<img width="1852" height="1044" alt="image" src="https://github.com/user-attachments/assets/055b577f-6c09-4750-837c-87a57a835b4d" />
 
 
 
@@ -3843,6 +3851,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
