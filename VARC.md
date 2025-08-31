@@ -3705,6 +3705,100 @@
 
 <img width="1874" height="1070" alt="image" src="https://github.com/user-attachments/assets/52496fba-83ef-485e-8eef-a6b9e5c83b5c" />
 
+### VARC(CR)
+
+<img width="1854" height="1054" alt="image" src="https://github.com/user-attachments/assets/9dbc1def-dff3-4329-b5a7-8b9cf43fa513" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1862" height="1058" alt="image" src="https://github.com/user-attachments/assets/123345a2-0996-47a5-9885-d9fdb3c97882" />
+
+* Option **C**. [Got Correect]
+
+<img width="1868" height="1068" alt="image" src="https://github.com/user-attachments/assets/b1c0fb57-9901-48b1-84fc-bbdbf32f4bb1" />
+
+* fallen -> Dead. [**MEANING**]
+* Interred -> Buried. [**MEANING**]
+* Undermines -> Weakens. [**MEANING**]
+
+<img width="1860" height="1068" alt="image" src="https://github.com/user-attachments/assets/eb310e53-2937-46d5-86c9-af790c125cdb" />
+<img width="1860" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc4143a6-daad-4902-a60c-45f725a15c2a" />
+<img width="1856" height="1048" alt="image" src="https://github.com/user-attachments/assets/3a6a4006-c302-4c26-baa3-3ae524cc22b9" />
+
+* Option **D**. [Wrong]
+
+<img width="1854" height="1082" alt="image" src="https://github.com/user-attachments/assets/2ec23472-4093-482d-a770-58fa3d5a8e68" />
+<img width="1848" height="1060" alt="image" src="https://github.com/user-attachments/assets/43f007ab-4443-4e69-99f8-26ad7adb165a" />
+
+* Option **C**. [Correct]
+
+<img width="1856" height="1074" alt="image" src="https://github.com/user-attachments/assets/73551506-10cd-4030-8dac-752e8aa2b82f" />
+
+* Option **B**. [Wrong]
+* hitherto -> Up to this point in time. [**MEANING**]
+
+<img width="1854" height="1064" alt="image" src="https://github.com/user-attachments/assets/3834c10d-42d0-4f69-b809-830259fd0057" />
+
+* Option **A**. [Correct] [**VERY IMPORTANT**]
+* **Inferences** have to be 100% True. [**VERY IMPORTANT**]
+* Option **C** -> Extreme option.
+* **Frequently** is not equal to **as soon as**. [**VERY IMPORTANT**]
+* Constantly -> On a regular interval. [**MEANING**]
+* Option **B** -> Distorted option.
+
+<img width="1860" height="1062" alt="image" src="https://github.com/user-attachments/assets/b8968205-4165-437b-9724-f88e08821165" />
+<img width="1854" height="962" alt="image" src="https://github.com/user-attachments/assets/b7bec6dd-227a-43c4-8e91-68a8a48bcc0b" />
+<img width="1854" height="1068" alt="image" src="https://github.com/user-attachments/assets/1123645b-aaf6-47f8-b1e4-bb9023c38baf" />
+<img width="1852" height="918" alt="image" src="https://github.com/user-attachments/assets/d30210b5-dbad-4e04-b976-dbfee7131821" />
+
+* Option **A**. [Got Correct] 
+
+<img width="1864" height="1088" alt="image" src="https://github.com/user-attachments/assets/4f11d061-0507-4af2-b149-7245510ff228" />
+<img width="1850" height="1066" alt="image" src="https://github.com/user-attachments/assets/c19c3748-d6e8-4eea-88f3-155597891fac" />
+
+* Option **B**. [Wrong]
+* Option **A**. [Correct]
+* Laudable -> Praise-worthy. [**MEANING**]
+* exclusionary rule -> a legal rule that bars unlawfully obtained evidence from being used in court proceedings. [**MEANING**]
+* Endorse -> Support. [**MEANING**]
+
+<img width="1858" height="1072" alt="image" src="https://github.com/user-attachments/assets/4571d93d-130a-43ef-87a2-65eb2f14e87f" />
+<img width="1858" height="1038" alt="image" src="https://github.com/user-attachments/assets/6d87a2d9-f100-45d5-8134-f77a904650e4" />
+
+* Option **D**. [Got Correct]
+
+<img width="1860" height="1060" alt="image" src="https://github.com/user-attachments/assets/8f420a26-9c43-4801-b1f6-eb2d67ae08ef" />
+<img width="1864" height="1066" alt="image" src="https://github.com/user-attachments/assets/fe121072-da5b-463f-90dc-4123ae3fd8bf" />
+<img width="1854" height="1054" alt="image" src="https://github.com/user-attachments/assets/c466e913-17b7-4348-aa72-3573afa4a2b9" />
+
+* Option **A**. [Got Correct]
+* Option **D,C, B** -> Weakening the resident's argument.
+* Option **A** -> Supports the protestors.
+
+<img width="1856" height="1056" alt="image" src="https://github.com/user-attachments/assets/17bfd9c6-f955-4121-82d2-c7511fd1c543" />
+<img width="1864" height="1040" alt="image" src="https://github.com/user-attachments/assets/2b7f9001-4b4c-44a1-80e9-0153a3a7ed2f" />
+<img width="1862" height="1076" alt="image" src="https://github.com/user-attachments/assets/8401a13a-0eaa-4e69-90e6-f9941c04054d" />
+
+* Option **A**. [Got Correct]
+
+<img width="1858" height="1052" alt="image" src="https://github.com/user-attachments/assets/202eccb2-aaec-4f0b-b302-03986ed67e7b" />
+<img width="1858" height="1048" alt="image" src="https://github.com/user-attachments/assets/bcd6000c-63f4-44b6-964d-2e7a1cff488f" />
+<img width="1856" height="862" alt="image" src="https://github.com/user-attachments/assets/cd0d5ba8-ec97-48a3-9418-e6b6c5e17284" />
+<img width="1864" height="1062" alt="image" src="https://github.com/user-attachments/assets/968c7145-c657-453a-9aa7-22b0dbb94cc7" />
+
+* Option **A**. [Got Correct]
+
+<img width="1862" height="1068" alt="image" src="https://github.com/user-attachments/assets/1b9635ff-78d7-4010-9478-e2229790f601" />
+<img width="1862" height="1070" alt="image" src="https://github.com/user-attachments/assets/00c4b91c-ee14-4113-a5b3-acc18b879741" />
+
+* Option **D** -> Narrow Option. 
+
+
+
+
+
+
+
 
 
 
@@ -3749,6 +3843,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
