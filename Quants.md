@@ -157,10 +157,89 @@
 <img width="1421" height="815" alt="image" src="https://github.com/user-attachments/assets/eb13e502-f153-4d85-bfde-78b794ccd831" />
 <img width="1407" height="807" alt="image" src="https://github.com/user-attachments/assets/ef949103-ce86-409c-97ed-2143f928a21b" />
 
+## Percentages(3)
 
+<img width="1410" height="820" alt="image" src="https://github.com/user-attachments/assets/bfcf044b-76e9-42bb-a6db-6801f78d1c5a" />
+<img width="1412" height="810" alt="image" src="https://github.com/user-attachments/assets/bb2a7b88-f3f7-4ee9-aeb7-62c7d3f85895" />
+<img width="1401" height="800" alt="image" src="https://github.com/user-attachments/assets/56bdcb71-bf07-4af6-93d2-52dc2d706f18" />
 
+* Assuming 'B' to be a multiple of '5 and 3' -> 5 * 3 -> 15 -> Any multiple of '5 and 3' will do.
+* We assumed 'B' as '300'.
+* 300 * (1/5) -> 60.
+* 300 + 60 -> 360.
 
+<img width="1414" height="831" alt="image" src="https://github.com/user-attachments/assets/fe803774-8898-45fb-9077-c0a428f84cd8" />
 
+* 300 * (1/3) -> 100.
+* 300 + 100 -> 400.
+
+<img width="1405" height="803" alt="image" src="https://github.com/user-attachments/assets/9e4e73d4-f220-41e5-b767-f7185728b1bc" />
+<img width="439" height="97" alt="image" src="https://github.com/user-attachments/assets/ccfaaaa8-d798-4702-bf85-0615e5986ef8" />
+
+* Yes.
+
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/9a4c4672-6ce7-4993-8344-172a81bbd554" />
+
+* We assumed the value of 'D' as 90.
+
+<img width="1421" height="814" alt="image" src="https://github.com/user-attachments/assets/645f7e51-f622-4227-904e-7b0952f952f0" />
+<img width="1409" height="804" alt="image" src="https://github.com/user-attachments/assets/886a21ee-c67e-4487-a0ed-386f2e80ffe8" />
+
+* Another Method.
+
+<img width="1412" height="792" alt="image" src="https://github.com/user-attachments/assets/193e0145-e1d6-4034-9bd0-5233d6407b3a" />
+<img width="1433" height="812" alt="image" src="https://github.com/user-attachments/assets/564f6fd8-5ad2-425e-b57f-4594159b2838" />
+<img width="1426" height="835" alt="image" src="https://github.com/user-attachments/assets/a3fe2956-c978-4892-b501-df40b1252b55" />
+<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/0b520cc9-adb9-458e-9cfa-832c28b69789" />
+
+* Solution.
+
+<img width="1436" height="811" alt="image" src="https://github.com/user-attachments/assets/b6a581e9-526e-4f45-85b5-6d214b621d51" />
+
+* 37.5% -> 3/8
+* 16.66% -> 1/6.
+
+<img width="1409" height="808" alt="image" src="https://github.com/user-attachments/assets/84982625-dc10-4868-9919-b877a2036bff" />
+
+* As '100' is not divisible by '6', so we have taken income as '300' as it is divisible by '6'. 
+
+<img width="1410" height="809" alt="image" src="https://github.com/user-attachments/assets/7b706c3c-34c4-42ad-8f28-44881c76847c" />
+<img width="1410" height="791" alt="image" src="https://github.com/user-attachments/assets/6cc91e41-3ec7-4bc7-9d73-e12962b0677c" />
+<img width="1414" height="805" alt="image" src="https://github.com/user-attachments/assets/5d8629b8-306a-4144-8417-795f2308bed8" />
+<img width="1418" height="803" alt="image" src="https://github.com/user-attachments/assets/2b481bce-19c7-415e-8cc8-a68df37adb23" />
+<img width="1421" height="816" alt="image" src="https://github.com/user-attachments/assets/be55b213-6d22-4b19-b3c1-f15e66cb4f4f" />
+<img width="1428" height="801" alt="image" src="https://github.com/user-attachments/assets/d7cc9e94-9b8d-4f40-9bb9-ced5c8078500" />
+<img width="1440" height="801" alt="image" src="https://github.com/user-attachments/assets/d63dd510-8e1a-41c9-9d50-b1d4716501d3" />
+<img width="1442" height="819" alt="image" src="https://github.com/user-attachments/assets/d38ac72d-189e-4cc8-9f3c-0436f4a32487" />
+<img width="1093" height="776" alt="image" src="https://github.com/user-attachments/assets/4970c731-34ed-4678-a982-6c48d9b3e545" />
+
+* [Formula] [**VERY IMPORTANT**]
+
+<img width="1429" height="817" alt="image" src="https://github.com/user-attachments/assets/1b5e3ea2-40b8-4854-b647-c042c2ded1f6" />
+<img width="1441" height="820" alt="image" src="https://github.com/user-attachments/assets/b874a393-73d8-4c36-bf6b-1e8e5b9bea8c" />
+<img width="1442" height="849" alt="image" src="https://github.com/user-attachments/assets/bcd95e61-2241-49dc-9c34-3d5f6f203627" />
+<img width="1428" height="828" alt="image" src="https://github.com/user-attachments/assets/b32a158d-4e5c-483b-98ea-622db4396398" />
+<img width="1428" height="808" alt="image" src="https://github.com/user-attachments/assets/a6e1bfab-21f5-466a-adb3-d2f25cd5df25" />
+
+* Fresh Fruit
+* 90% water, 10% pulp
+* 180*10/100 -> 18kg.
+* Dry Fruit
+* 20% water, 80% pulp
+
+<img width="1441" height="862" alt="image" src="https://github.com/user-attachments/assets/74612332-a08c-4b4a-8d0f-1e41755f00ce" />
+<img width="1440" height="827" alt="image" src="https://github.com/user-attachments/assets/103ea9e8-00e0-41b9-a3af-383894a4980a" />
+<img width="1426" height="843" alt="image" src="https://github.com/user-attachments/assets/a0fff43e-7a46-4102-a712-d326afdf7cc7" />
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/c800635d-705b-43b3-9ebd-6368d672e9f9" />
+
+* Attack should be on the **Constant part**. [Formula] [**VERY IMPORTANT**]
+
+<img width="1414" height="812" alt="image" src="https://github.com/user-attachments/assets/a34073be-b344-4684-a58b-42f921d73eb2" />
+
+* 100 - 85 -> 15%.
+
+<img width="1436" height="829" alt="image" src="https://github.com/user-attachments/assets/853cb740-5145-4971-8783-eb35fd20d092" />
+<img width="1417" height="798" alt="image" src="https://github.com/user-attachments/assets/fe4d2c32-a7db-41ba-b5dd-0726eaeafe45" />
 
 
 
