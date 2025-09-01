@@ -1,6 +1,7 @@
 # VARC
 
 <img width="733" height="339" alt="image" src="https://github.com/user-attachments/assets/dc6f3e42-4d67-462f-8165-51d27de35677" />
+<img width="428" height="138" alt="image" src="https://github.com/user-attachments/assets/7630a91c-7026-46ca-b9cf-1e24c3b7e56d" />
 
 ## Next/Current Class
 
@@ -3915,6 +3916,124 @@
 
 * Unprecedented -> Never seen before.   [**MEANING**]
 
+### RC practice
+
+<img width="1195" height="742" alt="image" src="https://github.com/user-attachments/assets/5871f1d6-a565-4874-bdf3-981726f51972" />
+<img width="1325" height="817" alt="image" src="https://github.com/user-attachments/assets/6313dddc-8e01-4a4f-a337-749e89c48237" />
+<img width="428" height="138" alt="image" src="https://github.com/user-attachments/assets/aa0e99fa-6b9e-4ae7-a884-e66cb6254981" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1352" height="837" alt="image" src="https://github.com/user-attachments/assets/f9c751b6-4d14-422a-ad4e-0945aeb8ae55" />
+
+* Option **C**. [Got Correct]
+
+<img width="1369" height="838" alt="image" src="https://github.com/user-attachments/assets/a8722ba5-ca47-4e76-97d7-2fb91250d55c" />
+
+* Option **A**. [Got Correct]
+
+<img width="1360" height="839" alt="image" src="https://github.com/user-attachments/assets/c8d1abf7-67ee-43d3-ac51-572720764a0d" />
+
+* Option **B**. [Wrong]
+* Option **D**. [Correct]
+
+<img width="1338" height="800" alt="image" src="https://github.com/user-attachments/assets/1b7c9573-752a-4e5d-bcfb-815f1e796e49" />
+
+* Option **D**. [Wrong]
+* Option **B**. [Correct]
+
+<img width="1356" height="763" alt="image" src="https://github.com/user-attachments/assets/fb105133-9772-4b90-80c2-935b516e5426" />
+<img width="317" height="88" alt="image" src="https://github.com/user-attachments/assets/a6084066-5b87-48ba-a1f8-d37a56eac3af" />
+
+*  dissent -> disagreement/Opposition. [**MEANING**]
+
+<img width="1367" height="765" alt="image" src="https://github.com/user-attachments/assets/378190f8-e01e-4002-8388-e2195b6247b0" />
+<img width="415" height="104" alt="image" src="https://github.com/user-attachments/assets/125ef3f7-83b1-4cdf-9d73-c0d063264114" />
+
+* Yes.
+
+<img width="1332" height="757" alt="image" src="https://github.com/user-attachments/assets/f60aa39c-8381-4c92-955e-e2ea0e27dcf7" />
+
+* Option **D** -> Essential -> Extreme word -> Extreme option.
+
+<img width="1342" height="760" alt="image" src="https://github.com/user-attachments/assets/753f97f5-ad26-4204-9220-c39dde7a974f" />
+
+* Option **A** -> Ethically, socially responsible -> Alien words -> Alien option.
+* Option **B** -> Data-driven -> Alien word -> Alien option.
+
+<img width="1356" height="762" alt="image" src="https://github.com/user-attachments/assets/9ff6a2c6-6dde-4144-a5c0-da86626e6c11" />
+<img width="1376" height="760" alt="image" src="https://github.com/user-attachments/assets/8275eb21-a08f-4658-9766-4a95072c2289" />
+<img width="1336" height="757" alt="image" src="https://github.com/user-attachments/assets/a303e8c6-0577-437b-a1fb-5b6f64205d81" />
+<img width="1366" height="839" alt="image" src="https://github.com/user-attachments/assets/bf3f482b-6af8-4e74-8eec-58abab7c4bed" />
+
+* RC2.
+
+<img width="1365" height="834" alt="image" src="https://github.com/user-attachments/assets/68bb1157-8838-4eb9-94a2-5b3f1144badb" />
+
+* Option **D**. [Got Correct]
+
+<img width="1370" height="833" alt="image" src="https://github.com/user-attachments/assets/8020af0a-e17f-4e01-a280-bedc3ca48c72" />
+
+* Option **C**. [Wrong]
+* Option **D**. [Correct]
+
+<img width="1384" height="838" alt="image" src="https://github.com/user-attachments/assets/3e81265a-491d-4a0a-8bd8-101de5db37c8" />
+
+* Option **A**. [Wrong]
+* Option **B**. [Correct]
+
+<img width="1328" height="824" alt="image" src="https://github.com/user-attachments/assets/bbd50c91-ef91-4c5e-8df1-c0abbbbe1889" />
+
+* Option **D**. [Wrong]
+* Option **A**. [Correct]
+
+<img width="1322" height="748" alt="image" src="https://github.com/user-attachments/assets/8105d583-64bb-4bf9-834e-a717d0b320e7" />
+
+* unbridled -> Uncontrolled. [**MEANING**]
+
+<img width="1306" height="742" alt="image" src="https://github.com/user-attachments/assets/f8ca9a0b-b97a-4edf-a7e8-192ba9642acf" />
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/1103b59b-2bc6-4d35-b1ed-209b3304d382" />
+<img width="1405" height="802" alt="image" src="https://github.com/user-attachments/assets/c91bdf92-1d1a-443e-b2fb-442ae6e066b7" />
+<img width="1427" height="837" alt="image" src="https://github.com/user-attachments/assets/567ed7e5-e226-435a-b02d-0950d8538fa4" />
+<img width="1428" height="831" alt="image" src="https://github.com/user-attachments/assets/6ef17fbe-9278-4cd8-83e3-24df98de65da" />
+
+* Option **D**. [Answer]
+
+<img width="1424" height="831" alt="image" src="https://github.com/user-attachments/assets/abd65872-ea3e-4b70-b334-6758f8e81888" />
+
+* Option **C** -> Tone mismatch.
+* Option **B** -> Too extreme.
+* Religious -> Moral
+* Unbelievers -> Immoral.
+* Option **D**. [Answer]
+* Option **A** -> Out of scope. 
+
+<img width="1420" height="833" alt="image" src="https://github.com/user-attachments/assets/c21fe03d-e43e-4c6f-bdef-ccf1e00a45cf" />
+<img width="1422" height="808" alt="image" src="https://github.com/user-attachments/assets/a392a0f0-aaee-43cb-a32b-905644ee510e" />
+
+* Option **C** -> Tone mismatch. 
+
+<img width="1428" height="813" alt="image" src="https://github.com/user-attachments/assets/cc7348f3-5792-44a0-9d65-838c73d9a149" />
+
+* Option **B**. [Answer]
+
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/694c5634-35e7-4479-8e18-1129b0073c3e" />
+<img width="1403" height="813" alt="image" src="https://github.com/user-attachments/assets/a1262863-86a5-4f79-9765-6f52908803fb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3950,6 +4069,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
