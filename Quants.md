@@ -241,6 +241,47 @@
 <img width="1436" height="829" alt="image" src="https://github.com/user-attachments/assets/853cb740-5145-4971-8783-eb35fd20d092" />
 <img width="1417" height="798" alt="image" src="https://github.com/user-attachments/assets/fe4d2c32-a7db-41ba-b5dd-0726eaeafe45" />
 
+## Percentages(4)
+
+<img width="1401" height="807" alt="image" src="https://github.com/user-attachments/assets/b2fff7b2-0e5b-4c2e-a5b4-ccf365e85ab7" />
+<img width="1418" height="825" alt="image" src="https://github.com/user-attachments/assets/07d86f14-d4ed-4d97-bd2e-9ab90c7ff544" />
+
+* 8x * 3/8 -> 3x.
+* 8x + 3x -> 11x. [**Add**, since we are increasing]
+* 11x * 4/11 -> 4x.
+* 11x + 4x -> 15x.
+* 15x * 1/3 -> 5x.
+* 15x - 5x -> 10x. [**Minus**, since we are decreasing]
+* As they have said integer, so we are taking 'x = 1'.
+
+<img width="1401" height="794" alt="image" src="https://github.com/user-attachments/assets/c092bb74-3fd2-4b8c-af78-66f667bb353e" />
+<img width="1421" height="801" alt="image" src="https://github.com/user-attachments/assets/832c41d7-cdd5-4c27-a7e1-ef2514b23349" />
+
+* Always assume the **smaller value**. [Formula] [**VERY IMPORTANT**]
+
+<img width="1438" height="849" alt="image" src="https://github.com/user-attachments/assets/9684ecd1-126f-4f15-a1a1-ed26cd6bc0c9" />
+<img width="1413" height="808" alt="image" src="https://github.com/user-attachments/assets/d0514756-d254-4c13-ae4b-f3b12c473d4f" />
+<img width="1414" height="804" alt="image" src="https://github.com/user-attachments/assets/f8d3c6a7-9aff-40c8-b254-eac229e3242b" />
+<img width="1405" height="810" alt="image" src="https://github.com/user-attachments/assets/00afc733-8cd1-434a-a2ad-d6d5e9e7d0e5" />
+<img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/479d9006-0676-4d0d-bdf0-4b326648e566" />
+
+* 2x * 50/100 -> 2x + x -> 3x.
+
+<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/1fb80803-9123-422a-ad90-2af235a86d6d" />
+
+* 20 * 50% -> 30.
+
+<img width="1435" height="816" alt="image" src="https://github.com/user-attachments/assets/6b78c6d5-505d-4608-8d02-2c64ee4ebc8c" />
+<img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/bf64109d-d863-4e64-b71f-3aaf6468860f" />
+<img width="1440" height="797" alt="image" src="https://github.com/user-attachments/assets/7c2ab895-9eb2-41bc-9e37-7a14b11e7443" />
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/475f8f25-f416-4cb1-84a9-cfb8ba838c15" />
+<img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/7425f2be-a475-4fc6-ba4d-ef31f9b487af" />
+<img width="1425" height="822" alt="image" src="https://github.com/user-attachments/assets/3b2d4795-89a5-4a97-a978-6157488127fe" />
+
+
+
+
+
 
 
 
