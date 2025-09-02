@@ -277,6 +277,39 @@
 <img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/475f8f25-f416-4cb1-84a9-cfb8ba838c15" />
 <img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/7425f2be-a475-4fc6-ba4d-ef31f9b487af" />
 <img width="1425" height="822" alt="image" src="https://github.com/user-attachments/assets/3b2d4795-89a5-4a97-a978-6157488127fe" />
+<img width="1415" height="822" alt="image" src="https://github.com/user-attachments/assets/5eb5124c-2bc0-47ca-bc46-3e81efe3c857" />
+
+* 100/9 -> 11.11 -> 1/9.
+* 1/9 increase -> 1 + 1/9 -> 10/9
+* The no. of mangoes that are eaten that no. of mangoes come back everyday, then the no. of mangoes will never go down. It will go indefinitely.
+
+<img width="1421" height="801" alt="image" src="https://github.com/user-attachments/assets/65524576-ce31-4ff0-b6f0-807bff69a6ff" />
+<img width="1409" height="807" alt="image" src="https://github.com/user-attachments/assets/8e41c46e-8492-4153-b264-52ade50a58e0" />
+<img width="1425" height="820" alt="image" src="https://github.com/user-attachments/assets/644c0bd4-bee5-4c6e-a276-a5f40bd0a1a9" />
+
+* 1/10 increase -> 1 + 1/10 -> 11/10
+
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/356c2f8d-a95b-4581-8093-1b1f85c58ebe" />
+<img width="1416" height="795" alt="image" src="https://github.com/user-attachments/assets/3308529f-fada-43fb-9749-7cf6ae08300a" />
+
+* FG -> Fresh Grape.
+* DF -> Dry Grape.
+* FG:-
+* 80% water, 20% pulp.
+* DG:-
+* 10% water, 90% pulp.
+
+<img width="1429" height="826" alt="image" src="https://github.com/user-attachments/assets/dd86e796-0e6c-432d-b244-1b037dd9da0d" />
+
+* FG:-
+* 59% water, 41% pulp.
+* DG:-
+* 5% water, 95% pulp.
+
+<img width="1434" height="843" alt="image" src="https://github.com/user-attachments/assets/add17d9a-348c-4560-b297-85918b5fd3f4" />
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/8630910a-6cfe-4b10-81c2-a468264d6a2b" />
+
+
 
 
 
