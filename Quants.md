@@ -308,6 +308,27 @@
 
 <img width="1434" height="843" alt="image" src="https://github.com/user-attachments/assets/add17d9a-348c-4560-b297-85918b5fd3f4" />
 <img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/8630910a-6cfe-4b10-81c2-a468264d6a2b" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/7edbde0a-927b-48c4-96ee-3c06a46954fc" />
+<img width="1428" height="813" alt="image" src="https://github.com/user-attachments/assets/92168345-243b-40e7-a1b1-d670f101d2e5" />
+<img width="959" height="1280" alt="image" src="https://github.com/user-attachments/assets/1d9c30f0-d045-4a15-bafb-bfbd5dcca6d9" />
+
+* Answer.
+
+<img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/a2977a82-b941-4370-949a-01a4b61e24e8" />
+<img width="953" height="618" alt="image" src="https://github.com/user-attachments/assets/8e126976-4c10-4434-97df-430b0a9561cc" />
+
+* 3/10 = n/d
+* 3/13 = n/(n+d)
+
+<img width="940" height="789" alt="image" src="https://github.com/user-attachments/assets/07709bd6-2970-4b6b-b893-feb964aecacc" />
+<img width="770" height="747" alt="image" src="https://github.com/user-attachments/assets/8992cc64-1b14-4d67-adc8-5f20ae7a9168" />
+<img width="1408" height="810" alt="image" src="https://github.com/user-attachments/assets/cb818593-f86d-43e7-96bc-61272c8df052" />
+<img width="1404" height="795" alt="image" src="https://github.com/user-attachments/assets/23f9edf2-8770-4f99-825e-3a5d4b6082b9" />
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/385c0bb1-af01-4f79-b1ae-82d09288dc1b" />
+
+## Percentages(5)
+
+
 
 
 
