@@ -461,6 +461,69 @@
 
 <img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/a2f0455e-53b2-4322-bbad-875d74b8d0ac" />
 
+## Percentages(6)
+
+<img width="1396" height="785" alt="image" src="https://github.com/user-attachments/assets/f6290307-0b8b-46f3-a617-efa3b31268c4" />
+<img width="1403" height="897" alt="image" src="https://github.com/user-attachments/assets/112a7d63-d91c-4858-bedd-5b4bc06bcaf6" />
+<img width="1415" height="812" alt="image" src="https://github.com/user-attachments/assets/54d3486f-1db1-4a3c-9e20-ab49e0f6194e" />
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/e1121f73-c9f9-4a48-a591-1d7fbd7caa6e" />
+<img width="1414" height="800" alt="image" src="https://github.com/user-attachments/assets/88ab21b4-4461-4293-bad1-0b5fff1d437a" />
+<img width="1435" height="820" alt="image" src="https://github.com/user-attachments/assets/86728701-1bcb-4570-bd8a-5f4cbfed04c5" />
+
+* 1 + 2 + 3 -> 6 parts.
+* D -> 3 parts -> 50%.
+* 50% of 56x -> 28x.
+* A -> Most no. of votes.
+* D -> 2nd most no. of votes.
+
+<img width="1419" height="806" alt="image" src="https://github.com/user-attachments/assets/c3a70953-f0ff-41f3-a8f7-1182b8a7cf02" />
+<img width="1414" height="835" alt="image" src="https://github.com/user-attachments/assets/07b0209f-df11-4df9-ba14-becf1ed0718c" />
+<img width="1401" height="804" alt="image" src="https://github.com/user-attachments/assets/62ac4425-db68-498b-8bb3-af7f3b304c07" />
+<img width="1420" height="804" alt="image" src="https://github.com/user-attachments/assets/b47afc06-0428-437d-89be-16bc7f359b22" />
+<img width="1412" height="800" alt="image" src="https://github.com/user-attachments/assets/ce2f1f2c-5ed1-4b34-b157-5a55f67a9d9c" />
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/9d0ac047-43ba-4ee7-bcbb-049ec2a42ace" />
+<img width="1433" height="801" alt="image" src="https://github.com/user-attachments/assets/5581651d-d8af-4c81-bcfd-a356dd417ae7" />
+<img width="1421" height="809" alt="image" src="https://github.com/user-attachments/assets/d12a0e58-f5c0-4de8-bfb3-3850298026a2" />
+<img width="1430" height="810" alt="image" src="https://github.com/user-attachments/assets/a495ac0f-3066-430b-b03a-7d8b4e740afb" />
+<img width="1409" height="794" alt="image" src="https://github.com/user-attachments/assets/75473b18-d1dc-48f0-8b01-b79a15a3b9c4" />
+<img width="1412" height="776" alt="image" src="https://github.com/user-attachments/assets/2a642185-17d9-4d65-bae6-9f5721939807" />
+<img width="1416" height="808" alt="image" src="https://github.com/user-attachments/assets/7a50eb76-7d5b-47fc-82b5-808a58bb349c" />
+<img width="1420" height="812" alt="image" src="https://github.com/user-attachments/assets/2376dec1-bb72-4448-9d56-b89b63ec0e81" />
+<img width="1415" height="806" alt="image" src="https://github.com/user-attachments/assets/2e992a09-bed3-4626-830e-6e8aa26c383d" />
+<img width="1404" height="806" alt="image" src="https://github.com/user-attachments/assets/8cbf096b-5403-41bc-b2b5-16e0f5222ee3" />
+
+* 10% of x = 5
+* x = 5 * 100/10 = 50.
+* x = 50.
+* 80% of y = 52
+* y = 52 * 100/80 = 65.
+* y = 65.
+
+<img width="1424" height="793" alt="image" src="https://github.com/user-attachments/assets/eb16c156-304a-48e3-b3c1-86832c6a5de0" />
+
+* [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
