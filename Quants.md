@@ -328,6 +328,148 @@
 
 ## Percentages(5)
 
+<img width="1329" height="740" alt="image" src="https://github.com/user-attachments/assets/290f922d-3010-494e-837b-605980385945" />
+
+* [FORMULA] [**very important**]
+
+<img width="1323" height="744" alt="image" src="https://github.com/user-attachments/assets/6502b5f5-f1d0-42ea-9d73-8bf7573940ad" />
+
+* 25% -> 1/4 increase -> n/d
+* decrease -> n/(n+d) -> 1/5 decrease -> 20%.
+
+<img width="1409" height="801" alt="image" src="https://github.com/user-attachments/assets/a969a979-da51-4e64-a501-3d3edef3a5b2" />
+<img width="1413" height="804" alt="image" src="https://github.com/user-attachments/assets/a88f25a1-b6d7-4b28-bdf7-5dbbc7d6e954" />
+<img width="1417" height="792" alt="image" src="https://github.com/user-attachments/assets/95b34619-d519-4641-a0d0-3417ec14f185" />
+<img width="1409" height="804" alt="image" src="https://github.com/user-attachments/assets/6ea1858f-6f74-4511-b3a4-aee4fcf905ae" />
+
+* 10 * 30% increase -> 10 + 3 -> 13.
+
+<img width="1411" height="809" alt="image" src="https://github.com/user-attachments/assets/44743568-85fc-414b-8188-7d6b583a4757" />
+
+* [**very important**]
+
+<img width="1411" height="810" alt="image" src="https://github.com/user-attachments/assets/0447681f-7ed8-45e1-bac4-99edbd9fccbd" />
+
+* [FORMULA] [**very important**]
+
+<img width="1416" height="788" alt="image" src="https://github.com/user-attachments/assets/9abbe24b-2feb-4472-804e-188d6147e219" />
+<img width="791" height="391" alt="image" src="https://github.com/user-attachments/assets/13891ff4-cd12-4693-ad68-d79772042e2e" />
+<img width="1402" height="799" alt="image" src="https://github.com/user-attachments/assets/14aee1b7-3c1f-4be6-8701-781f40e05350" />
+<img width="831" height="581" alt="image" src="https://github.com/user-attachments/assets/fbcd3b22-e363-4012-bfa9-4019bb55c4f5" />
+<img width="1419" height="807" alt="image" src="https://github.com/user-attachments/assets/857e36b6-1aa7-4854-8d93-f1ca61d94ee9" />
+
+* Decrease of 4%.
+
+<img width="1427" height="789" alt="image" src="https://github.com/user-attachments/assets/b14761a9-8311-4b22-988c-8aaafcec248c" />
+
+* Solving using the above formula. 
+
+<img width="435" height="95" alt="image" src="https://github.com/user-attachments/assets/eddb2329-55f2-4ec4-8d90-16daf03b7e71" />
+
+* Yes.
+
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/e4a55599-52ff-45f7-b506-c7a0e4e4a316" />
+<img width="1431" height="809" alt="image" src="https://github.com/user-attachments/assets/affeeab5-104a-405e-b61e-7b86db33dd3b" />
+<img width="740" height="533" alt="image" src="https://github.com/user-attachments/assets/b20168ab-f068-4561-bf27-d788988bcfd3" />
+<img width="1428" height="814" alt="image" src="https://github.com/user-attachments/assets/85457bda-e98a-4a19-8db8-68c1a922e789" />
+<img width="564" height="324" alt="image" src="https://github.com/user-attachments/assets/70f23319-64a2-4b25-af43-01ba1bbd8927" />
+<img width="1420" height="815" alt="image" src="https://github.com/user-attachments/assets/b39ccfee-fa77-4612-aeb4-b39c9263527f" />
+<img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/5657912f-1215-4ca6-88a3-efff0655d365" />
+
+* 82% increase -> 1 + 0.82 -> 1.82
+
+<img width="1404" height="798" alt="image" src="https://github.com/user-attachments/assets/044b8dbb-96d1-4d39-9e77-a7d8afda7ea7" />
+<img width="1425" height="805" alt="image" src="https://github.com/user-attachments/assets/112d3076-1f70-4c84-a2e6-9b980191310e" />
+
+* 100 * 82% increase -> 100 + 82 -> 182. 
+
+<img width="1423" height="819" alt="image" src="https://github.com/user-attachments/assets/52c31998-99e7-4f31-8403-460246d5ad64" />
+<img width="1420" height="815" alt="image" src="https://github.com/user-attachments/assets/7a7c4e68-8dfb-40e9-b62a-3db2a7ff78f2" />
+<img width="1433" height="817" alt="image" src="https://github.com/user-attachments/assets/3bbcf740-3cf3-498c-8518-0fbc55390017" />
+
+* 13 -> 10 * 30% increase.
+* 14 -> 10 * 40% increase.
+* 30%/40% -> 3/4 ratio.
+
+<img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/ca6f65bf-e243-4bcf-811e-7376bb6ab10c" />
+<img width="1406" height="812" alt="image" src="https://github.com/user-attachments/assets/0f464111-0bb6-4991-9eaf-c35f249123d1" />
+
+* 100 * 72% decrease -> 100 - 72 -> 28.
+* 14 -> 10 * 40% increase -> 10 + 4.
+* 2 -> 10 * 80% decrease -> 10 - 8.
+* 40%/80% -> 1/2 -> 1:2 ratio only as we wanted.
+
+<img width="1412" height="815" alt="image" src="https://github.com/user-attachments/assets/5791cdbc-2aee-444b-ada2-14da3f3e529a" />
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/f869cb1e-820a-4b8e-8640-a4531301075d" />
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/aee1228a-9727-4a6b-a183-4ee3ff049a88" />
+<img width="1431" height="829" alt="image" src="https://github.com/user-attachments/assets/ef4a1f00-6a04-4a4f-93be-91332c7ba932" />
+
+* 6:1 ratio it is not satisfying. We want 4:1 ratio.
+
+<img width="1424" height="798" alt="image" src="https://github.com/user-attachments/assets/7eff2292-b82f-407a-95d5-b1cfa6cf4207" />
+
+<img width="1433" height="822" alt="image" src="https://github.com/user-attachments/assets/43c5eb8b-c9fb-4d39-abca-874a078a1aed" />
+<img width="1425" height="802" alt="image" src="https://github.com/user-attachments/assets/accd0b33-3e47-400c-ae4b-76a684ab14e2" />
+
+* 80%/20% -> 8/2 -> 4/1 -> 4:1 ratio. It is satisfying.
+
+<img width="191" height="66" alt="image" src="https://github.com/user-attachments/assets/84430d6b-f8f5-4f34-b3a9-d7c4e5cbf1cd" />
+
+* We are looking at the percentage(%) change from the initial value of '10' which we have assumed here. [FORMULA] [**VERY IMPORTANT**]
+
+<img width="1127" height="790" alt="image" src="https://github.com/user-attachments/assets/3d095eb3-7756-49b7-ad78-1519cabfa1f4" />
+
+* 140% increase and 40% decrease.
+* 140%/40% -> 3.5/1 -> 3.5:1 ratio. It is not satisfying.
+
+<img width="1435" height="837" alt="image" src="https://github.com/user-attachments/assets/5a197832-9c7d-45a0-9867-458a5c55092c" />
+
+* Not in the 1:2:4 ratio form.
+
+<img width="1176" height="343" alt="image" src="https://github.com/user-attachments/assets/b5bc13e7-7cb2-41d1-b357-1f49f5a2dee6" />
+<img width="1439" height="816" alt="image" src="https://github.com/user-attachments/assets/6f6cc29c-2b07-4660-ad3a-9b09f795f230" />
+
+* **Order is not important**.
+
+<img width="1440" height="806" alt="image" src="https://github.com/user-attachments/assets/72c746cf-3e44-40c1-95d9-318209c9edc7" />
+<img width="1429" height="812" alt="image" src="https://github.com/user-attachments/assets/fd5df53c-8f3e-4fa9-9004-6680c4653f9c" />
+
+### Quadratic
+
+<img width="1421" height="824" alt="image" src="https://github.com/user-attachments/assets/1e9a5ccb-ba89-45a4-9a06-9ee98dde6e34" />
+<img width="1416" height="821" alt="image" src="https://github.com/user-attachments/assets/e792f0f0-f8ea-4d88-bb0d-fc4d0b019892" />
+
+[FORMULA] [**VERY IMPORTANT**]
+
+<img width="1435" height="813" alt="image" src="https://github.com/user-attachments/assets/f0b4b2c8-7c9c-4cda-914a-bb9cdbdd6998" />
+<img width="1423" height="811" alt="image" src="https://github.com/user-attachments/assets/ab457201-0898-44c2-8588-4b0ee40c10e3" />
+
+* First time it was increased by '30/x'. So next time it is increased by '30/x'.
+* change = FV -IV -> x + 30 - x = 30.
+* 30/x increase -> 1 + 30/x -> (x+30)/x.
+
+<img width="1414" height="793" alt="image" src="https://github.com/user-attachments/assets/d1cd4b1e-50e0-4056-96cb-3d64566df1fb" />
+<img width="1151" height="540" alt="image" src="https://github.com/user-attachments/assets/f4180bf4-fc2c-40e2-92b7-5066829949f1" />
+
+* We will get same number only, no need of doing for the other number.
+* 75 - 12 = 63.
+
+<img width="1422" height="809" alt="image" src="https://github.com/user-attachments/assets/97a7d226-0edc-4f15-8e3f-06c55d12d687" />
+<img width="1281" height="814" alt="image" src="https://github.com/user-attachments/assets/44dc031f-503b-4753-8010-2829e04afff5" />
+
+* Explaining the question.
+
+<img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/a2f0455e-53b2-4322-bbad-875d74b8d0ac" />
+
+
+
+
+
+
+
+
+
+
 
 
 
