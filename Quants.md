@@ -552,6 +552,102 @@
 
 ### Profit, Loss(1)(7)
 
+<img width="1433" height="795" alt="image" src="https://github.com/user-attachments/assets/70bc4c3f-5067-4f45-b929-e33ca893a0a8" />
+
+* [FORMULA] [**VER IMPORTANT**]
+
+<img width="1424" height="801" alt="image" src="https://github.com/user-attachments/assets/af5ccd9a-a8f5-41bc-8889-68ba0f2a8c2b" />
+
+* CP -> MP = Markup price/amount.
+* 4000 - 2500 -> 1500.
+
+<img width="1407" height="788" alt="image" src="https://github.com/user-attachments/assets/9cc66545-d149-4eb7-8d55-9bc5c38992bc" />
+
+* [FORMULA] [**VER IMPORTANT**]
+
+<img width="1404" height="785" alt="image" src="https://github.com/user-attachments/assets/2d72aea5-d32b-4619-893a-d21945d6d4fa" />
+<img width="1434" height="776" alt="image" src="https://github.com/user-attachments/assets/a928cc40-a02a-4d38-bee8-b9833879d9df" />
+<img width="1427" height="793" alt="image" src="https://github.com/user-attachments/assets/107d193c-3c3e-465f-bf85-e0fc6fcfaaf8" />
+
+* Mark-up -> MP-CP -> 160-100 -> 60. 
+* Mark-up % -> 60 %. 
+
+<img width="1409" height="803" alt="image" src="https://github.com/user-attachments/assets/e191e469-5488-4225-bfbb-4503d887e63a" />
+<img width="1414" height="783" alt="image" src="https://github.com/user-attachments/assets/2a9c13a7-5e96-4a50-b113-59e0de998250" />
+<img width="1410" height="801" alt="image" src="https://github.com/user-attachments/assets/2f05e750-bd41-4507-b389-cab915207108" />
+<img width="1421" height="791" alt="image" src="https://github.com/user-attachments/assets/5fa23622-62e3-4769-8982-d77450719c9c" />
+<img width="1433" height="806" alt="image" src="https://github.com/user-attachments/assets/00c7c15e-91e3-4edf-8dcc-10f72e276ec6" />
+<img width="1433" height="810" alt="image" src="https://github.com/user-attachments/assets/65960d52-598c-4abc-bdbf-812d62503d2d" />
+<img width="1176" height="472" alt="image" src="https://github.com/user-attachments/assets/5ae982b1-8b75-4e58-97e4-d74c62eabf7e" />
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/63c9a76b-22a7-42ab-a2f3-816c45965c05" />
+<img width="1408" height="791" alt="image" src="https://github.com/user-attachments/assets/10a9b7fc-eea4-4743-9a30-e075d9ab46c0" />
+<img width="1419" height="801" alt="image" src="https://github.com/user-attachments/assets/6b74ee9a-7d6a-40de-971f-515b08a2c5ea" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/9a1ad92a-89a3-4c0b-9028-f08cb203ae55" />
+<img width="1410" height="810" alt="image" src="https://github.com/user-attachments/assets/2112817e-9263-4fee-ac3b-53e2d87f15bc" />
+
+* If P is '100' then D is '140'.
+* If C is '100' then M is '300'.
+
+<img width="848" height="314" alt="image" src="https://github.com/user-attachments/assets/2ac5163e-2010-4f53-a992-1f0636cdfb81" />
+<img width="1192" height="684" alt="image" src="https://github.com/user-attachments/assets/c0b368f1-488a-4299-ae7a-279c3ae34ded" />
+
+* [FORMULA] [**VER IMPORTANT**]
+
+<img width="1427" height="805" alt="image" src="https://github.com/user-attachments/assets/c8a3c083-0995-47dc-9a3a-d0f376873fe1" />
+<img width="1421" height="836" alt="image" src="https://github.com/user-attachments/assets/db38b0d5-301e-47da-9714-9784518ffe34" />
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/296183fd-6ab9-41b7-b2f1-92ed904a5e81" />
+
+* Profit(P) -> SP - CP.
+
+<img width="1406" height="809" alt="image" src="https://github.com/user-attachments/assets/fe9431b4-058c-41b5-a583-e4f11b7a7418" />
+<img width="515" height="615" alt="image" src="https://github.com/user-attachments/assets/f93613f5-bfd7-49b1-8a70-c8eed1082c10" />
+
+* SP(S) -> CP + P.
+
+<img width="1410" height="803" alt="image" src="https://github.com/user-attachments/assets/b4ec71d0-870c-4983-9c31-f6907e49ef3a" />
+<img width="1416" height="798" alt="image" src="https://github.com/user-attachments/assets/dd6027af-f39e-4385-a536-e245e66e591f" />
+<img width="1419" height="824" alt="image" src="https://github.com/user-attachments/assets/6c3353c9-66fb-4753-8923-b241c0d854a6" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/809958d3-a066-4134-a0e8-67446291dd15" />
+<img width="1027" height="448" alt="image" src="https://github.com/user-attachments/assets/81b30cbb-d116-4bdf-b51a-b23ee361720f" />
+
+* Just remember the formula.
+
+<img width="1425" height="799" alt="image" src="https://github.com/user-attachments/assets/796cc0e2-ca46-4f09-ba31-b0a44faac2b8" />
+<img width="1405" height="808" alt="image" src="https://github.com/user-attachments/assets/2f9196f6-6f06-45c5-9cf4-1df6a1da0522" />
+
+### Profit Loss (2) (8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
