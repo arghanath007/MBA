@@ -503,6 +503,52 @@
 
 * [**VERY IMPORTANT**]
 
+<img width="1415" height="795" alt="image" src="https://github.com/user-attachments/assets/a48c6db1-37e8-4556-bc57-1ccf00633b94" />
+
+* 40% sells, 60% left.  
+* 35% sells, 65% left.  
+
+<img width="1422" height="799" alt="image" src="https://github.com/user-attachments/assets/b9d4c1ae-1cca-462a-bae7-aab1db348717" />
+<img width="1424" height="812" alt="image" src="https://github.com/user-attachments/assets/a3ebf23a-dde0-4d69-8e72-ce3f41ef9c11" />
+
+* Solving directly.
+
+<img width="1418" height="810" alt="image" src="https://github.com/user-attachments/assets/db32c12c-8493-414a-a829-c2e485d02792" />
+<img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/3cdb8d58-1924-4859-8c4a-56c8dbb0471e" />
+
+* Take a no. which is multiple of 50 and 40.
+* 200/50 -> 4.
+* 200/40 -> 5.
+
+<img width="1417" height="803" alt="image" src="https://github.com/user-attachments/assets/9d3103bc-078f-4ccd-8029-489a21335d8f" />
+<img width="979" height="344" alt="image" src="https://github.com/user-attachments/assets/892e6dcf-0514-41e3-a9e3-e202ba78cb30" />
+
+* Natural and Whole Numbers.
+
+<img width="1423" height="799" alt="image" src="https://github.com/user-attachments/assets/42e9dba7-2a01-4bfa-9dd4-8fea2cb1ae41" />
+
+* 99-10+1 -> 90.
+* 159-100+1 -> 60.
+
+<img width="1439" height="814" alt="image" src="https://github.com/user-attachments/assets/6036e4dc-4776-4d60-a9c8-bca96b2f0866" />
+<img width="1430" height="815" alt="image" src="https://github.com/user-attachments/assets/bc62b274-86f5-4042-89d3-489dec517863" />
+<img width="1412" height="796" alt="image" src="https://github.com/user-attachments/assets/6aacf104-fb8a-44c0-8151-411204eb5b2e" />
+
+* 40x * 50% increase -> 40 + 20 -> 60.
+
+<img width="1411" height="800" alt="image" src="https://github.com/user-attachments/assets/d9853bf7-9894-460b-9da0-f90e94323347" />
+
+* 60x * 20% increase -> 60 + 12 -> 72.
+
+<img width="1412" height="803" alt="image" src="https://github.com/user-attachments/assets/5cc89cb8-d635-4eb0-96ae-59bdb4bca311" />
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/88f18cb4-fc4e-489b-9cab-81882417b9b9" />
+<img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/90b7250a-23f0-45a4-bf05-e9d60b1d71f2" />
+<img width="1435" height="813" alt="image" src="https://github.com/user-attachments/assets/3d9f1aea-c351-4a20-a730-e6bdd1f1bdec" />
+<img width="1423" height="807" alt="image" src="https://github.com/user-attachments/assets/02702d21-b1b6-41c7-af84-3149b1004a08" />
+<img width="1419" height="803" alt="image" src="https://github.com/user-attachments/assets/535def57-fde7-4e50-abbc-b14b23fbc105" />
+<img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/70f06ebd-205b-48a9-9584-4839e8c9ead8" />
+<img width="1155" height="553" alt="image" src="https://github.com/user-attachments/assets/03d9fb4d-94ce-43c2-8c8c-657d92e6d745" />
+<img width="1304" height="744" alt="image" src="https://github.com/user-attachments/assets/25e4826b-b364-443d-a790-580f5f086285" />
 
 
 
@@ -514,10 +560,7 @@
 
 
 
-
-
-
-
+ 
 
 
 
