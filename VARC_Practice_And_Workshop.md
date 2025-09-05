@@ -1,4 +1,4 @@
-<img width="1320" height="813" alt="image" src="https://github.com/user-attachments/assets/5c90ae4f-ff30-4a70-94f0-feabcc5ea29b" /><img width="1320" height="813" alt="image" src="https://github.com/user-attachments/assets/0746a920-ffa6-4a63-8442-2571d5c9bc76" /><img width="1320" height="813" alt="image" src="https://github.com/user-attachments/assets/e31f49de-e7e3-4f23-b331-685c184d3e21" /># VARC_Practice
+# VARC_Practice
 
 ## Practice
 
@@ -309,5 +309,9 @@
 
 
 
+# MISC
 
+<img width="1320" height="813" alt="image" src="https://github.com/user-attachments/assets/5c90ae4f-ff30-4a70-94f0-feabcc5ea29b" />
+<img width="1320" height="813" alt="image" src="https://github.com/user-attachments/assets/0746a920-ffa6-4a63-8442-2571d5c9bc76" />
+<img width="1320" height="813" alt="image" src="https://github.com/user-attachments/assets/e31f49de-e7e3-4f23-b331-685c184d3e21" />
 
