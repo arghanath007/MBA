@@ -217,6 +217,66 @@
 
 * conduit -> paths.  [**MEANING**]
 
+<img width="1378" height="765" alt="image" src="https://github.com/user-attachments/assets/fe9b642b-8e2e-405f-9751-908100841305" />
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/5379b76e-87e2-44d1-b684-465256c36fa5" />
+
+* RC4
+
+<img width="1419" height="915" alt="image" src="https://github.com/user-attachments/assets/dc730543-0c45-4da8-bb17-af6e560e08fd" />
+
+* Ans -> option **D**.
+* Option **A**. [Wrong]
+
+<img width="1436" height="926" alt="image" src="https://github.com/user-attachments/assets/5b6dfd60-a1e6-42db-98c7-1c2807ceda93" />
+
+* Ans -> option **B**.
+* Option **D**. [Wrong]
+
+<img width="1429" height="902" alt="image" src="https://github.com/user-attachments/assets/7d0ba2e4-9480-4783-9ac0-05837ed849de" />
+
+* Ans -> option **D**. [Got Correct]
+
+<img width="1118" height="563" alt="image" src="https://github.com/user-attachments/assets/56f5c6a4-d32b-4456-a5fa-6447e22b706e" />
+
+* agency -> The capacity to act. [**MEANING**]
+
+<img width="1434" height="909" alt="image" src="https://github.com/user-attachments/assets/4cd93f44-fb01-4cdd-b959-15fc588b170c" />
+
+* Ans -> option **C**.
+* Option **A**. [Wrong]
+* agency -> autonomous. [**MEANING**]
+* autonomous -> Independent.  [**MEANING**]
+* rebut -> Contradiction. [**MEANING**]
+
+<img width="1415" height="810" alt="image" src="https://github.com/user-attachments/assets/c38c2801-102c-4f5b-8448-d8275ff4f394" />
+<img width="1405" height="807" alt="image" src="https://github.com/user-attachments/assets/c89e6b0e-be03-4be3-88cc-a8652aada9f0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
