@@ -250,6 +250,83 @@
 
 <img width="1415" height="810" alt="image" src="https://github.com/user-attachments/assets/c38c2801-102c-4f5b-8448-d8275ff4f394" />
 <img width="1405" height="807" alt="image" src="https://github.com/user-attachments/assets/c89e6b0e-be03-4be3-88cc-a8652aada9f0" />
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/14059e51-5385-4ffb-b3e5-a2ae8655ec69" />
+<img width="1410" height="889" alt="image" src="https://github.com/user-attachments/assets/d3c764a7-c05e-4b04-bee1-332887354b8e" />
+
+* Ans -> option **B**. [Got Correct]
+
+<img width="1420" height="900" alt="image" src="https://github.com/user-attachments/assets/7e246181-b6a1-428b-bc65-683ba92416f5" />
+
+* Ans -> option **B**. [Got Correct]
+* regime -> Dictatorship. [**MEANING**]
+
+<img width="1429" height="915" alt="image" src="https://github.com/user-attachments/assets/776248f6-8739-48cd-8d1b-8705ac53f6c6" />
+
+* Ans -> option **A**.
+* Option **D**. [Wrong]
+
+<img width="1410" height="899" alt="image" src="https://github.com/user-attachments/assets/f5b37c57-b38e-433c-a7c4-7a0950f20e85" />
+
+* Ans -> option **C**.
+* Option **D**.  [Wrong]
+
+<img width="1402" height="799" alt="image" src="https://github.com/user-attachments/assets/8aabd83b-387c-473a-9164-4dcc1bdb8e05" />
+<img width="1403" height="781" alt="image" src="https://github.com/user-attachments/assets/aa31ea46-06ef-48a0-9e96-727875614cec" />
+<img width="1420" height="912" alt="image" src="https://github.com/user-attachments/assets/19c76ae3-c303-40b8-ac64-67941364ac7f" />
+
+* Ans -> option **A**.
+* Option **C**.  [Wrong]
+
+<img width="1433" height="924" alt="image" src="https://github.com/user-attachments/assets/aa77fad9-b7d6-41a5-9021-92ff9935521b" />
+
+* Ans -> option **B**. [Got Correct]
+
+<img width="1426" height="912" alt="image" src="https://github.com/user-attachments/assets/cf2d0230-a2d3-42ee-bb58-082ccc28d4fd" />
+
+* Ans -> option **C**.
+* Option **A**.  [Wrong]
+
+<img width="1425" height="901" alt="image" src="https://github.com/user-attachments/assets/e1be732c-cd64-452e-bc7f-05c0b018c6bc" />
+
+* Ans -> option **B**.
+* Option **D**.  [Wrong]
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
