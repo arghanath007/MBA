@@ -364,8 +364,37 @@
 
 <img width="1427" height="818" alt="image" src="https://github.com/user-attachments/assets/3fed250b-e0c2-4f45-aa0b-1ffa3f8bbecb" />
 <img width="1413" height="823" alt="image" src="https://github.com/user-attachments/assets/ad8afa4f-09ff-431e-8a24-0785f6be18a5" />
+<img width="1442" height="891" alt="image" src="https://github.com/user-attachments/assets/3d420389-aaeb-4036-b6b6-7738c966210e" />
 
-* Start from 29mins.
+* Ans -> option **C**. [Correct]
+* Option **A**. [Wrong]
+* delinquency -> Tendency to commit small/minor crimes. [**MEANING**]
+
+<img width="1421" height="816" alt="image" src="https://github.com/user-attachments/assets/551f464f-6db8-4119-9834-17388957521b" />
+
+* later -> Time. [**MEANING**]
+* later -> Adverb.
+* Latter -> Pronoun.
+* Latter -> The ones who came later. [**MEANING**]
+* deviance -> To move away from it/change directions. [**MEANING**]
+
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/129bb1b3-0d66-4ad6-96f2-cff434cfe507" />
+<img width="1430" height="901" alt="image" src="https://github.com/user-attachments/assets/11f872f6-cfaf-4e81-97fe-cc921ab277a4" />
+
+* Ans -> option **A**. [Got Correct]
+* Start from 53mins.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
