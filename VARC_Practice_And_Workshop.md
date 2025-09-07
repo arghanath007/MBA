@@ -335,8 +335,42 @@
 * Ans -> option **B**. [Got Correct]
 * Question **3** -> Weaken the prediction method.
 
-
 ### Brijesh sir
+
+<img width="1287" height="604" alt="image" src="https://github.com/user-attachments/assets/ea6e8de0-a4f2-493c-a999-4cb7a643fcd7" />
+
+* 1432 [Wrong]
+
+<img width="1321" height="757" alt="image" src="https://github.com/user-attachments/assets/f4d10c22-c12e-4645-abe4-5c446853a3d0" />
+<img width="1338" height="760" alt="image" src="https://github.com/user-attachments/assets/027230da-4e95-4191-99d3-cd199322370d" />
+
+* 2143. [Correct]
+* sequester -> To store. [**MEANING**]
+* Start from 13mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
