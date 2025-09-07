@@ -350,17 +350,22 @@
 <img width="1405" height="818" alt="image" src="https://github.com/user-attachments/assets/db3a6ef5-15f6-4e8b-85b2-4bb9bfe327fb" />
 
 * 15432. [Wrong] [**VERY IMPORTANT**]
+
+<img width="1420" height="811" alt="image" src="https://github.com/user-attachments/assets/2b76f1bf-2f53-4179-9770-d55cd6b6573b" />
+
 * Childern -> In general. [**MEANING**]
 * The children -> Some reference/specific. [**MEANING**]
+* The + some common noun -> Referring to something specific. [**VERY IMPORTANT**] [**MEANING**]
 * 1 -> 5.
 * Mutation in '1' is explained first in '5'.
 * 1 -> General.
 * 5 -> Explaination of '5'.
 * 51432. [Correct]
-* Start from 26mins.
 
+<img width="1427" height="818" alt="image" src="https://github.com/user-attachments/assets/3fed250b-e0c2-4f45-aa0b-1ffa3f8bbecb" />
+<img width="1413" height="823" alt="image" src="https://github.com/user-attachments/assets/ad8afa4f-09ff-431e-8a24-0785f6be18a5" />
 
-
+* Start from 29mins.
 
 
 
