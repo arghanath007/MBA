@@ -291,6 +291,52 @@
 * Ans -> option **B**.
 * Option **D**.  [Wrong]
 
+<img width="1435" height="901" alt="image" src="https://github.com/user-attachments/assets/a6d86c5a-89c8-4dea-a6c2-bf2134c55978" />
+
+* Ans -> option **B**. [Got Right]
+
+<img width="1418" height="848" alt="image" src="https://github.com/user-attachments/assets/3cf0e233-4f42-43c5-ac56-e3394aeadc07" />
+
+* Ans -> option **C**.
+* Option **D**.  [Wrong]
+
+<img width="1415" height="876" alt="image" src="https://github.com/user-attachments/assets/119fa8ed-2b89-41cc-8704-d5421852c64f" />
+
+* Ans -> option **B**.
+* Option **D**.  [Wrong]
+
+<img width="1427" height="911" alt="image" src="https://github.com/user-attachments/assets/b7ef99fc-2652-45d2-9828-6b44b15b3008" />
+
+* Ans -> option **B**.
+* Option **C**.  [Wrong]
+* For instance -> For example -> Giving an example. [**VERY IMPORTANT**] [**MEANING**]
+
+<img width="1414" height="884" alt="image" src="https://github.com/user-attachments/assets/d0d067d6-cb6c-4168-8c18-0554f55365f1" />
+
+* Ans -> option **D**. [Got Right]
+
+<img width="1422" height="915" alt="image" src="https://github.com/user-attachments/assets/f38fe28a-950d-44bd-8331-ade1a2e574e5" />
+
+* Ans -> option **D**.
+* Option **A**.  [Wrong]
+
+<img width="1409" height="808" alt="image" src="https://github.com/user-attachments/assets/947c5692-4f08-442a-92c1-807f8d82519b" />
+<img width="1410" height="884" alt="image" src="https://github.com/user-attachments/assets/aa72d0a4-01f8-4319-b81d-421ef2453ff5" />
+
+* Ans -> option **C**.
+* Option **D**.  [Wrong]
+
+<img width="1422" height="913" alt="image" src="https://github.com/user-attachments/assets/69c4b95b-ac4f-40fe-b365-c2aeb4b22dd0" />
+
+* Ans -> option **B**. [Got Correct]
+
+<img width="1423" height="894" alt="image" src="https://github.com/user-attachments/assets/a74047fe-6cf9-4404-957f-8402220ae007" />
+
+* Ans -> option **B**. [Got Correct]
+* Question **3** -> Weaken the prediction method.
+
+
+### Brijesh sir
 
 
 
@@ -301,7 +347,36 @@
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
