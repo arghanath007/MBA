@@ -346,7 +346,19 @@
 
 * 2143. [Correct]
 * sequester -> To store. [**MEANING**]
-* Start from 13mins.
+
+<img width="1405" height="818" alt="image" src="https://github.com/user-attachments/assets/db3a6ef5-15f6-4e8b-85b2-4bb9bfe327fb" />
+
+* 15432. [Wrong] [**VERY IMPORTANT**]
+* Childern -> In general. [**MEANING**]
+* The children -> Some reference/specific. [**MEANING**]
+* 1 -> 5.
+* Mutation in '1' is explained first in '5'.
+* 1 -> General.
+* 5 -> Explaination of '5'.
+* 51432. [Correct]
+* Start from 26mins.
+
 
 
 
