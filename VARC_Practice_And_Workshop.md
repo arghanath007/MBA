@@ -382,7 +382,86 @@
 <img width="1430" height="901" alt="image" src="https://github.com/user-attachments/assets/11f872f6-cfaf-4e81-97fe-cc921ab277a4" />
 
 * Ans -> option **A**. [Got Correct]
-* Start from 53mins.
+
+<img width="1304" height="742" alt="image" src="https://github.com/user-attachments/assets/6ca4ee9c-03a2-4cc0-a5f9-e9d0b0aa5df3" />
+
+* RC2.
+* Option **A**. [Wrong]
+* Ans -> Option **D**.
+
+<img width="1315" height="808" alt="image" src="https://github.com/user-attachments/assets/10c1b77e-3e30-4f4a-81ce-63a00d0b7c9d" />
+
+* Option **A**. [Got Correct]
+
+<img width="1346" height="838" alt="image" src="https://github.com/user-attachments/assets/c133aa9b-fe58-40a7-be8f-29b893a614bb" />
+
+* Option **A**. [Wrong]
+* Ans -> Option **B**.
+
+<img width="1319" height="820" alt="image" src="https://github.com/user-attachments/assets/b613b4c8-9697-460a-81b4-b760706fe510" />
+
+* Option **B**. [Wrong]
+* Ans -> Option **A**.
+
+<img width="1367" height="765" alt="image" src="https://github.com/user-attachments/assets/4dc8d74a-4131-43b3-b210-f0051d4735b6" />
+
+* RC1 -> No central idea -> Factual Passage.
+* Claim VS Suggestion.
+
+<img width="1347" height="759" alt="image" src="https://github.com/user-attachments/assets/bb9239ed-6a0a-4988-b88a-592dc3cd6e54" />
+<img width="1304" height="741" alt="image" src="https://github.com/user-attachments/assets/aa2c1387-fb5a-484c-9a8e-331c480aaad7" />
+<img width="1328" height="758" alt="image" src="https://github.com/user-attachments/assets/d579182f-4dbb-49be-bc8a-bf17dbf49095" />
+
+* Option **A** -> It is talking about the environment.
+
+<img width="1316" height="751" alt="image" src="https://github.com/user-attachments/assets/174067b5-5f29-49d2-8492-79c37b267dc9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
