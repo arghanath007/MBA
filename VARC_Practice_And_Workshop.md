@@ -573,51 +573,87 @@
 <img width="1722" height="986" alt="image" src="https://github.com/user-attachments/assets/a8b51dba-381e-4736-a2f2-73a5480ac003" />
 <img width="1706" height="970" alt="image" src="https://github.com/user-attachments/assets/3c5f4f97-3500-4c7f-8d63-fa272a0cd87d" />
 <img width="1712" height="990" alt="image" src="https://github.com/user-attachments/assets/936a6903-127a-4d18-9860-a9a94a3c50d6" />
+<img width="1728" height="1350" alt="image" src="https://github.com/user-attachments/assets/235f2a6d-0075-4f38-8da1-ef1b58694c5c" />
 
+* Option **A**.
 
+<img width="1714" height="1334" alt="image" src="https://github.com/user-attachments/assets/a25f0450-92a4-428d-8a33-08afae7fe8fe" />
 
+* Option **A**.
 
+<img width="1748" height="1356" alt="image" src="https://github.com/user-attachments/assets/c4877c5e-6b98-4199-96cc-fa681051bc75" />
 
+* Option **A**.
 
+<img width="1698" height="970" alt="image" src="https://github.com/user-attachments/assets/d760bc0a-b7bb-4e45-8d62-608e2e100add" />
 
+* Option **D**.
 
+<img width="1694" height="962" alt="image" src="https://github.com/user-attachments/assets/5ba3288f-1f33-47c2-b1a3-5b4e6fc70dd7" />
 
+* Option **A**.
 
+<img width="1718" height="994" alt="image" src="https://github.com/user-attachments/assets/ab31c549-dc0e-4ab8-8b17-aaf6b38f79ec" />
 
+* Option **E**.
 
+<img width="1702" height="980" alt="image" src="https://github.com/user-attachments/assets/ab42255e-0fbc-4eea-8b5a-c172f39c43bb" />
 
+* Option **D**.
 
+<img width="1742" height="1370" alt="image" src="https://github.com/user-attachments/assets/5e2e8f68-6132-4f77-84d4-184ce2980047" />
+<img width="1744" height="1384" alt="image" src="https://github.com/user-attachments/assets/e80b9408-7c07-4b8f-be84-778b74cb8992" />
+<img width="1740" height="1444" alt="image" src="https://github.com/user-attachments/assets/ba85933d-b796-4ab2-9f89-0c9f5d9c0e43" />
+<img width="1742" height="1374" alt="image" src="https://github.com/user-attachments/assets/62c70ab4-547f-4d7f-9d31-e1c734362479" />
+<img width="1728" height="1456" alt="image" src="https://github.com/user-attachments/assets/2586a2e6-e091-4ebe-9012-2588ca75595b" />
+<img width="1734" height="1496" alt="image" src="https://github.com/user-attachments/assets/dca9f065-3e10-48bd-abe6-f36fd3f68189" />
+<img width="1754" height="1418" alt="image" src="https://github.com/user-attachments/assets/cd2cc67c-e73b-4f89-8a67-907a95904e77" />
 
+* Right:Wrong
+* 2:5
+* Reconcile -> To patch up. [**MEANING**]
 
+<img width="1742" height="1414" alt="image" src="https://github.com/user-attachments/assets/3fa62250-f74e-4606-860d-4342d2388bfb" />
 
+* Option **D**. [Got Correct]
 
+<img width="1724" height="986" alt="image" src="https://github.com/user-attachments/assets/b33a1036-76d4-4603-87f6-6ac4aa2d3376" />
+<img width="1754" height="1378" alt="image" src="https://github.com/user-attachments/assets/4ca0faa3-5834-410e-b134-d21bdd29bc1f" />
 
+* Option **D**. [Got Correct]
+* Main Idea -> Public Service.
+* sermonizing -> Preaching tone. [**MEANING**]
 
+<img width="1748" height="1322" alt="image" src="https://github.com/user-attachments/assets/5ab21619-d51c-4351-a718-7a08a41c8de2" />
 
+* Option **C**. [Wrong]
+* Option **B**. [Correct]
+* substantive -> Reasonable. [**MEANING**]
 
+<img width="1752" height="1356" alt="image" src="https://github.com/user-attachments/assets/6a4042e2-0f8b-4931-9539-a38cac822f33" />
 
+* 2413. [Wrong]
 
+<img width="1680" height="978" alt="image" src="https://github.com/user-attachments/assets/55ee4cb1-7861-4757-8c7c-2dd68083a771" />
+<img width="1694" height="992" alt="image" src="https://github.com/user-attachments/assets/c2742c61-4aaf-4a35-a36d-8756310bf9b9" />
 
+* Ans -> 4213. [Correct]
+* 4 -> There is an explaination.
+* 2 -> Gives the explaination.
 
+<img width="1728" height="980" alt="image" src="https://github.com/user-attachments/assets/7be6aa47-1c40-4ee7-b1be-64f7bd94d676" />
+<img width="1698" height="978" alt="image" src="https://github.com/user-attachments/assets/85f02546-9b21-49f6-8064-6a9861d67a3f" />
+<img width="1736" height="1388" alt="image" src="https://github.com/user-attachments/assets/5ab23e9a-6f27-4882-a1e6-7bca86ec7c8e" />
 
+* Ans -> Option **A**. [Got Correct]
 
+<img width="1718" height="976" alt="image" src="https://github.com/user-attachments/assets/d4031b3c-d063-4404-a81e-21db0f24a942" />
 
+* 2134 [Wrong]
 
+<img width="1698" height="982" alt="image" src="https://github.com/user-attachments/assets/dec7119b-6fb6-44ea-821a-83fb25c1e880" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 2341. [Correct]
 
 
 
