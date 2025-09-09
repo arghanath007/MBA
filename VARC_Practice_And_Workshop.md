@@ -416,33 +416,64 @@
 
 <img width="1316" height="751" alt="image" src="https://github.com/user-attachments/assets/174067b5-5f29-49d2-8492-79c37b267dc9" />
 
+#### Inference
 
+<img width="1740" height="1018" alt="image" src="https://github.com/user-attachments/assets/acc4749f-aaf3-4a3e-b94f-6e3c4f0d9178" />
+<img width="1332" height="774" alt="image" src="https://github.com/user-attachments/assets/df922316-65d2-4dae-a071-b3575628ca7b" />
+<img width="1756" height="1374" alt="image" src="https://github.com/user-attachments/assets/05be5c0f-e6f0-4ed2-b408-617fe92557a2" />
 
+* Option **A**. [Wrong]
+* Ans -> Option **C**.
 
+<img width="1694" height="948" alt="image" src="https://github.com/user-attachments/assets/c292e0c1-8e9d-41d3-b902-a2bf6f068e6e" />
+<img width="1742" height="1358" alt="image" src="https://github.com/user-attachments/assets/974b22d9-0c55-45dd-b3ca-5243d78a31c9" />
 
+* Ans -> Option **B**. [Got Correct]
+* vexing -> Troubling. [**MEANING**]
+* Some -> Atlease one. [**MEANING**]
 
+<img width="1706" height="972" alt="image" src="https://github.com/user-attachments/assets/3bb7a52d-db7e-48ee-a73c-acfa081ef021" />
 
+* plausible -> Logical. [**MEANING**]
 
+<img width="1752" height="1340" alt="image" src="https://github.com/user-attachments/assets/b86ec70b-9340-4b4b-ac18-56081a8b1b61" />
 
+* Option **C**. [Wrong]
+* Ans -> Option **E**.
 
+<img width="1746" height="1356" alt="image" src="https://github.com/user-attachments/assets/871f07c0-4e49-4c8a-aedb-6fc51db1eb19" />
 
+* Ans -> Option **A**. [Got Correct]
 
+<img width="1686" height="964" alt="image" src="https://github.com/user-attachments/assets/42686e0c-e8a7-4ff7-becb-acc482b25cd0" />
+<img width="1746" height="1392" alt="image" src="https://github.com/user-attachments/assets/de97480c-5600-4cc5-91b4-f48b50bd838a" />
 
+* Option **B**. [Wrong]
+* Ans -> Option **C**.
 
+<img width="1750" height="1406" alt="image" src="https://github.com/user-attachments/assets/80c6f674-a267-4449-9e1a-7e76ba79be1c" />
+<img width="1740" height="1366" alt="image" src="https://github.com/user-attachments/assets/eacff003-b44b-49e4-ad9b-74e02a27a70f" />
 
+* Option **C**. [Wrong]
+* Ans -> Option **D**.
 
+<img width="1744" height="1208" alt="image" src="https://github.com/user-attachments/assets/f9fa5e1e-ebb1-4b56-845a-dc615a4c0595" />
 
+* Ans -> Option **C**.
 
+<img width="1722" height="978" alt="image" src="https://github.com/user-attachments/assets/4345792e-6d89-41c6-92fa-040c486a19b6" />
+<img width="1746" height="1044" alt="image" src="https://github.com/user-attachments/assets/d7865d76-584e-48e6-87a5-1067c5aea61c" />
+<img width="1718" height="1008" alt="image" src="https://github.com/user-attachments/assets/64020f30-5d17-46ec-a78c-12955562d9dc" />
+<img width="1748" height="1344" alt="image" src="https://github.com/user-attachments/assets/be403a62-e7a7-46ac-b9a2-fcd30f7ec9a9" />
 
+* Option **E**. [Wrong]
+* Ans -> Option **D**.
 
+<img width="1722" height="1048" alt="image" src="https://github.com/user-attachments/assets/32f53ea3-a0ab-4f68-8946-e08a529f5447" />
+<img width="1748" height="1412" alt="image" src="https://github.com/user-attachments/assets/b3f832ff-09cd-4d95-95f0-7a63bf7a92e3" />
 
-
-
-
-
-
-
-
+* Option **B**. [Wrong]
+* Ans -> Option **C**.
 
 
 
