@@ -743,10 +743,11 @@
 
 * [**VERY IMPORTANT**]
 
-## Nikita Mam
+### Nikita Mam
 
 * eustress -> a positive form of stress having a beneficial effect on health, motivation, performance, and emotional well-being. [**MEANING**]
 
+<img width="1348" height="804" alt="image" src="https://github.com/user-attachments/assets/086aca9b-7529-486e-a189-e3e967f8061b" />
 
 
 
