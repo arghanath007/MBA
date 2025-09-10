@@ -655,9 +655,19 @@
 
 * 2341. [Correct]
 
+<img width="1350" height="766" alt="image" src="https://github.com/user-attachments/assets/40cb06bb-30ad-4fa6-ac07-d07b5f313678" />
 
+* Option **B** -> Option **2**.
+* PS, PC -> 25% change of getting right. [**VERY IMPORTANT**]
+* clandestine -> secret. [**MEANING**]
 
+<img width="1358" height="788" alt="image" src="https://github.com/user-attachments/assets/89adb8c9-07dc-41c8-99a0-0d07023d25a1" />
+<img width="1326" height="736" alt="image" src="https://github.com/user-attachments/assets/deb88c0c-bd28-4eb0-9e71-c942a5a1a9df" />
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/2162c4e7-436a-4536-9bfa-7ad06fd9f9f8" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1e927f0-99ec-4381-bfda-d2fc2169bc86" />
 
+ * Option **A** -> Indicating the success. [**VERY IMPORTANT**]
+ * Ans -> Option **D**. [**VERY IMPORTANT**]
 
 
 
