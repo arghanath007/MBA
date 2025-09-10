@@ -669,31 +669,81 @@
  * Option **A** -> Indicating the success. [**VERY IMPORTANT**]
  * Ans -> Option **D**. [**VERY IMPORTANT**]
 
+<img width="1348" height="800" alt="image" src="https://github.com/user-attachments/assets/807d1cbf-0b6a-41e1-a2f1-7365b4bcbece" />
+<img width="1364" height="774" alt="image" src="https://github.com/user-attachments/assets/526c5f41-a77a-48c2-afa4-c55e2836ed02" />
 
+* Option **5**. [**VERY IMPORTANT**]
 
+<img width="1340" height="754" alt="image" src="https://github.com/user-attachments/assets/385cc882-a4ce-4c5c-be54-b6061e6958f4" />
 
+ * Ans -> Option **D** -> Option **4**.
 
+<img width="340" height="542" alt="image" src="https://github.com/user-attachments/assets/4eec289a-ded3-42ab-a8a4-1d66f25ce131" />
+<img width="1358" height="786" alt="image" src="https://github.com/user-attachments/assets/3d429f8e-75e8-45bf-9825-d6eea3fa9281" />
+<img width="1358" height="838" alt="image" src="https://github.com/user-attachments/assets/a918edea-7c72-443b-927e-3958a81c973a" />
+<img width="970" height="482" alt="image" src="https://github.com/user-attachments/assets/87096584-1537-41f6-81bf-7b45c8706cbf" />
 
+ * Ans -> Option **B**. [Correct]
 
+<img width="1326" height="744" alt="image" src="https://github.com/user-attachments/assets/f52417e1-efb0-4a48-b29a-058afa05380f" />
+<img width="1332" height="752" alt="image" src="https://github.com/user-attachments/assets/d00d441d-cfb6-48aa-a658-2a2b9ad20c2b" />
 
+* 1342. [Got Correct]
 
+<img width="1354" height="782" alt="image" src="https://github.com/user-attachments/assets/0aec6e2f-e4af-4c42-a00d-af5fdb640dd0" />
+<img width="1354" height="794" alt="image" src="https://github.com/user-attachments/assets/23b11068-f7e5-4088-a36e-e6f4f515e8f5" />
 
+* 3412. [Wrong]
+* 3421. [Correct]
 
+<img width="1364" height="780" alt="image" src="https://github.com/user-attachments/assets/792a5b0b-23dd-4440-9f87-3cdc1f032501" />
+<img width="1362" height="778" alt="image" src="https://github.com/user-attachments/assets/ac283582-a278-42b0-992c-052d1af28487" />
+<img width="1362" height="778" alt="image" src="https://github.com/user-attachments/assets/e22e5514-2035-4d3e-9cd2-f139883bfdc5" />
 
+ * Ans -> Option **A** -> Option **1**. [Correct]
 
+<img width="1354" height="788" alt="image" src="https://github.com/user-attachments/assets/06af4eff-605a-4cec-bc02-76f82c7ddadd" />
+<img width="1332" height="762" alt="image" src="https://github.com/user-attachments/assets/1c659120-afab-4f4b-9d28-b9b6f1b0fff7" />
+<img width="1350" height="772" alt="image" src="https://github.com/user-attachments/assets/3fada78d-43dc-4c77-a56f-587766497977" />
+<img width="1314" height="732" alt="image" src="https://github.com/user-attachments/assets/44cd276f-9665-4d46-ad2d-a64444f0534b" />
 
+* RC1.
 
+<img width="1354" height="762" alt="image" src="https://github.com/user-attachments/assets/dc027497-431e-4779-b68e-d2c833de104b" />
 
+* Option **C**. [Wrong]
+* Ans -> Option **A**.
 
+<img width="1346" height="762" alt="image" src="https://github.com/user-attachments/assets/68d8d152-a7a2-404a-9be7-d4d7cf5d23a3" />
 
+* Option **C**. [Wrong]
+* Ans -> Option **A**.
 
+<img width="1362" height="754" alt="image" src="https://github.com/user-attachments/assets/1fa56626-c553-4710-a024-52990cea3bd9" />
+<img width="1358" height="772" alt="image" src="https://github.com/user-attachments/assets/bf08c4d4-f0bc-4c1b-9a7c-244bc59d4ed4" />
 
+* [**VERY IMPORTANT**]
 
+<img width="1366" height="782" alt="image" src="https://github.com/user-attachments/assets/ffcf6bb1-1996-4a4b-8024-4b700d5ba753" />
 
+* Ans -> Option **A**. [Got Correct]
 
+<img width="1360" height="770" alt="image" src="https://github.com/user-attachments/assets/c86c6268-078e-46c6-b02d-396c6cc91596" />
+<img width="1356" height="788" alt="image" src="https://github.com/user-attachments/assets/6e19bbb3-ead5-4b82-8ed9-5c5b9868e344" />
 
+* Ans -> Option **C**. [Correct]
 
+<img width="1356" height="756" alt="image" src="https://github.com/user-attachments/assets/914f3886-1ff3-4d17-8bdf-fba3fe2d54b3" />
 
+* [**VERY IMPORTANT**]
+* endorses -> Supports. [**MEANING**]
+
+<img width="1364" height="776" alt="image" src="https://github.com/user-attachments/assets/81656e9f-c6f0-43cc-a403-12b0fadb24eb" />
+<img width="1352" height="764" alt="image" src="https://github.com/user-attachments/assets/1b4c1614-99b0-4198-b989-292c56d3b051" />
+
+* [**VERY IMPORTANT**]
+
+## Nikita Mam
 
 
 
