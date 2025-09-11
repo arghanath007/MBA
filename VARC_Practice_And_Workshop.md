@@ -880,12 +880,120 @@
 * 1432. [Correct]
 
 <img width="1402" height="771" alt="image" src="https://github.com/user-attachments/assets/1bc80d8c-aeff-46c3-89d0-02f25cab8dd9" />
+<img width="1421" height="920" alt="image" src="https://github.com/user-attachments/assets/f5ff149c-5a2a-4933-b46c-84ada8aca6c3" />
+
+* Ans -> Option **B**. [Got Correct]
+
+<img width="402" height="101" alt="image" src="https://github.com/user-attachments/assets/38151214-332d-4177-a6f2-930faa76fe14" />
+
+* Yes.
+
+<img width="1427" height="824" alt="image" src="https://github.com/user-attachments/assets/87f2dee8-6e0c-404a-a064-8ac2fb36317a" />
+<img width="1425" height="814" alt="image" src="https://github.com/user-attachments/assets/18b2cfca-7b48-451b-84e7-8f35ada56220" />
+
+* RC1.
+
+<img width="1432" height="938" alt="image" src="https://github.com/user-attachments/assets/3ab38764-4fa0-4d27-9e2b-4f5dc7a06e77" />
+
+* Ans -> Option **A**. [Got Correct]
+* profanity -> Abusive words, slurs. [**MEANING**]
+
+<img width="1437" height="876" alt="image" src="https://github.com/user-attachments/assets/a89fdbfe-139b-4fc0-b059-ccb14b308919" />
+
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1430" height="865" alt="image" src="https://github.com/user-attachments/assets/6c0e4613-b3f5-415f-a1ae-f451d9c68fa3" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1443" height="918" alt="image" src="https://github.com/user-attachments/assets/f0f96d6c-ac70-4961-8955-78f2f3790e79" />
+
+* Ans -> Option **B**. [Got Correct]
+
+<img width="1435" height="927" alt="image" src="https://github.com/user-attachments/assets/fda59aab-30e9-48e5-83cd-7aad92bfc78c" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1435" height="931" alt="image" src="https://github.com/user-attachments/assets/b106a87d-0d51-4ff7-aa49-1ef1fec87438" />
+
+* Ans -> Option **C**. [Got Correct]
+
+<img width="1422" height="817" alt="image" src="https://github.com/user-attachments/assets/e167a878-9f0f-4868-b10a-db1dbb0b177c" />
+<img width="1411" height="826" alt="image" src="https://github.com/user-attachments/assets/611a0f7e-f481-4f6e-9018-dd85dfa8866b" />
+
+* vitriol -> Hatred, abusive words towards a particular person. [**MEANING**]
+* gratuitous -> Unnecessary. [**MEANING**]
+
+<img width="1438" height="925" alt="image" src="https://github.com/user-attachments/assets/2d9aaf71-b2a6-4612-bce7-fc85550344d2" />
+
+* Ans -> Option **D** -> Blank **2**. [Got Correct]
+
+<img width="1426" height="900" alt="image" src="https://github.com/user-attachments/assets/cd73a09a-8f42-4015-9562-f622bf3496e6" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1423" height="807" alt="image" src="https://github.com/user-attachments/assets/dd193c57-6646-4cf2-a1c0-7805df091a10" />
+<img width="382" height="83" alt="image" src="https://github.com/user-attachments/assets/64ebb5b1-1425-44a8-9621-dc84ff7699fd" />
+
+* yes.
+
+<img width="1421" height="826" alt="image" src="https://github.com/user-attachments/assets/473b5467-fab0-48a4-9707-cc3d0d98badb" />
+<img width="1394" height="817" alt="image" src="https://github.com/user-attachments/assets/3530104f-7fd9-41af-8276-250518cd2e7f" />
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
