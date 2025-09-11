@@ -759,10 +759,104 @@
 
 <img width="1742" height="1418" alt="image" src="https://github.com/user-attachments/assets/79760c00-9c29-49ce-b74b-deb5696efb4f" />
 
+* Ans -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+
+<img width="433" height="150" alt="image" src="https://github.com/user-attachments/assets/07f9ea3d-efb8-4959-8c18-c6c8cc523063" />
+<img width="1736" height="976" alt="image" src="https://github.com/user-attachments/assets/6a7ccce4-ff20-4a49-a53a-7478c8ff89f2" />
+<img width="1416" height="804" alt="image" src="https://github.com/user-attachments/assets/671020be-c5d6-46e1-9fb4-fbe0b84753bf" />
+<img width="1441" height="884" alt="image" src="https://github.com/user-attachments/assets/79bd641c-82dd-45cf-b70c-5e9dc07c7585" />
+
+* Ans -> Option **C**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1415" height="831" alt="image" src="https://github.com/user-attachments/assets/0f819532-6eb2-4bf3-97e8-7f8a62f4e879" />
+<img width="420" height="111" alt="image" src="https://github.com/user-attachments/assets/a957c56b-cc03-4b0f-b775-1c44476d584d" />
+
+* Yes. Either has to strengthen or weaken. [**VERY IMPORTANT**]
+
+<img width="1421" height="815" alt="image" src="https://github.com/user-attachments/assets/934b7a87-2688-411f-b76c-32b11e7ebe1c" />
+<img width="1436" height="890" alt="image" src="https://github.com/user-attachments/assets/1657ee3b-9d2a-4221-8d84-c7afe512e109" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D **. [Wrong]
+
+<img width="1441" height="915" alt="image" src="https://github.com/user-attachments/assets/4e1abc2a-2975-45d8-a561-57f014ebfb18" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1428" height="796" alt="image" src="https://github.com/user-attachments/assets/9a3ae7e3-435b-4d16-9a03-e3c2585e3e26" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1430" height="919" alt="image" src="https://github.com/user-attachments/assets/ebdf2aef-ff4f-4ab6-be64-d5a9acc8cb2e" />
+
+* Ans -> Option **A**. [Correct]
+* Option **D **. [Wrong]
+* Specific conclusion is reflected through a general statement.
+
+<img width="1439" height="921" alt="image" src="https://github.com/user-attachments/assets/5f9a0f48-d18d-45c3-907a-cb358640f74d" />
+
+* Ans -> Option **A**. [Got Correct]
+
+<img width="1426" height="925" alt="image" src="https://github.com/user-attachments/assets/bcfbe846-0886-4268-92c4-b1de5d98b636" />
+
+* Ans -> Option **C**. [Got Correct]
+
+<img width="1441" height="907" alt="image" src="https://github.com/user-attachments/assets/77895fdd-a60c-48b1-ab34-ff93cb25c103" />
+
 * Ans -> Option **A**. [Correct]
 * Option **C**. [Wrong]
 
-<img width="1736" height="976" alt="image" src="https://github.com/user-attachments/assets/6a7ccce4-ff20-4a49-a53a-7478c8ff89f2" />
+<img width="1408" height="914" alt="image" src="https://github.com/user-attachments/assets/6ae0ed67-8670-4de3-83be-f1a509fcbd66" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1408" height="808" alt="image" src="https://github.com/user-attachments/assets/c4df45f2-df37-4bfe-8cea-7c1166f913c6" />
+<img width="1388" height="798" alt="image" src="https://github.com/user-attachments/assets/bad4b4d9-672a-4945-b15a-bba405699328" />
+<img width="1390" height="807" alt="image" src="https://github.com/user-attachments/assets/c1e3bae0-02a2-46e4-8278-bdf9f9856c6b" />
+<img width="422" height="108" alt="image" src="https://github.com/user-attachments/assets/4b500421-4342-4db7-9307-ee59a5d17689" />
+
+* Yes.
+
+<img width="1432" height="902" alt="image" src="https://github.com/user-attachments/assets/3f8cd6ff-5dac-4189-976d-29f94fecbe54" />
+<img width="1427" height="770" alt="image" src="https://github.com/user-attachments/assets/b94af566-5a9d-4fdc-8a6c-9cdbf9c67de7" />
+
+* Ans -> Option **B**. [Got Correct]
+
+<img width="1411" height="814" alt="image" src="https://github.com/user-attachments/assets/4b783a0d-055f-4d0a-9108-7014f56eff9c" />
+<img width="1432" height="814" alt="image" src="https://github.com/user-attachments/assets/63e849bc-29ca-4da8-a13e-3c92525ee1e5" />
+<img width="1388" height="808" alt="image" src="https://github.com/user-attachments/assets/738c8341-80ab-458d-83a2-902c7415fd0f" />
+<img width="1411" height="813" alt="image" src="https://github.com/user-attachments/assets/af7ccb67-7d9f-4b9c-9592-f72f482c2544" />
+<img width="1438" height="860" alt="image" src="https://github.com/user-attachments/assets/830c5aee-19f8-4a7f-8c43-5f79be354d98" />
+
+* Evaluate questions. [**VERY IMPORTANT**]
+
+1) Structure the argument.
+2) Identify the assumptions.
+3) Option that tests the assumption -> It will go one way which will **strength** the assumption or it will go another way which will **weaken** the assumption.
+4) Eliminate the other options.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
