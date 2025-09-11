@@ -838,6 +838,50 @@
 3) Option that tests the assumption -> It will go one way which will **strength** the assumption or it will go another way which will **weaken** the assumption.
 4) Eliminate the other options.
 
+<img width="1429" height="914" alt="image" src="https://github.com/user-attachments/assets/cc210082-5648-49b8-9213-2d15d8fcb032" />
+
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+* Brevity -> So short/Brief. [**MEANING**]
+
+<img width="1385" height="781" alt="image" src="https://github.com/user-attachments/assets/2720b96f-1da9-457c-8e29-4a7d6f2ea059" />
+<img width="1427" height="807" alt="image" src="https://github.com/user-attachments/assets/5cc9c276-636b-4f88-832c-9d34de3b2fbc" />
+
+* speakeasy -> secret bars/Illicit liquor shops. [**MEANING**]
+* Bootlegger -> Someone who sells liquor/Selling something illegally. [**MEANING**]
+* Ponzi -> Fraud scheme/Piramid scheme. [**MEANING**]
+* Racketeering -> one who obtains money by an illegal enterprise usually involving intimidation. [**MEANING**]
+
+<img width="442" height="81" alt="image" src="https://github.com/user-attachments/assets/0188c97b-35af-41a8-a283-8605e72d4aea" />
+<img width="1378" height="767" alt="image" src="https://github.com/user-attachments/assets/827c2f38-24b9-4571-b11b-c1b0efc87452" />
+
+* 1342. [Wrong]
+* 4231. [Wrong]
+* 3 -> General
+* 1 -> Narrow.
+* 3 -> 1.
+* 3142. [Correct]
+
+<img width="1418" height="809" alt="image" src="https://github.com/user-attachments/assets/4fe9dc97-35a1-4ea9-91ec-8e14de266edc" />
+
+* past -> Present.
+
+<img width="1390" height="751" alt="image" src="https://github.com/user-attachments/assets/75ab33bb-66c7-4a0e-8a0c-f011dcd645a0" />
+
+* 2314 [Wrong]
+* 1423. [Wrong]
+* apotheosis -> Peak/Climax. [**MEANING**]
+* megalomania -> Obsession with power. [**MEANING**]
+* magnum opus -> A masterpiece.  [**MEANING**]
+* millenarian -> Utopian.  [**MEANING**]
+* expiating -> Getting rid of.  [**MEANING**]
+* Paradises, sins -> Religious ideas.
+* foundered -> Does not meet upto the expectations/failed. [**MEANING**]
+* 1432. [Correct]
+
+<img width="1402" height="771" alt="image" src="https://github.com/user-attachments/assets/1bc80d8c-aeff-46c3-89d0-02f25cab8dd9" />
+
+
 
 
 
