@@ -749,11 +749,20 @@
 
 <img width="1348" height="804" alt="image" src="https://github.com/user-attachments/assets/086aca9b-7529-486e-a189-e3e967f8061b" />
 
+* [**VERY IMPORTANT**]
 
+<img width="1734" height="1292" alt="image" src="https://github.com/user-attachments/assets/c98e301d-a54f-4c05-af16-aa7a31fc921d" />
+<img width="1700" height="954" alt="image" src="https://github.com/user-attachments/assets/d6d1bbd0-abb9-438e-8567-d3f8e18ddebd" />
+<img width="1730" height="1302" alt="image" src="https://github.com/user-attachments/assets/eb9f16e9-cf5d-4c1e-be1d-e478bb9ec05a" />
 
+* Ans -> Option **C**. [Got Correct]
 
+<img width="1742" height="1418" alt="image" src="https://github.com/user-attachments/assets/79760c00-9c29-49ce-b74b-deb5696efb4f" />
 
+* Ans -> Option **A**. [Correct]
+* Option **C**. [Wrong]
 
+<img width="1736" height="976" alt="image" src="https://github.com/user-attachments/assets/6a7ccce4-ff20-4a49-a53a-7478c8ff89f2" />
 
 
 
