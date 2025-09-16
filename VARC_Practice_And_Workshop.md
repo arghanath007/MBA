@@ -965,9 +965,12 @@
 
 <img width="1410" height="778" alt="image" src="https://github.com/user-attachments/assets/f45b8970-af0d-465a-b41e-bfb939e32b2c" />
 <img width="1396" height="783" alt="image" src="https://github.com/user-attachments/assets/3ea605ad-19df-4e25-ba61-2aff39116122" />
+<img width="1426" height="896" alt="image" src="https://github.com/user-attachments/assets/1e69df2e-7414-443a-988b-34b01b767cd9" />
 
+* Libertarianism -> individual liberty over everything. [**MEANING**]
 
-
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/71c290b8-1b67-4a91-8a4a-7f7d450e5f93" />
+<img width="1432" height="904" alt="image" src="https://github.com/user-attachments/assets/8a260799-389f-4eb5-8f3f-d2d2515e7c12" />
 
 
 
