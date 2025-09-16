@@ -971,6 +971,26 @@
 
 <img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/71c290b8-1b67-4a91-8a4a-7f7d450e5f93" />
 <img width="1432" height="904" alt="image" src="https://github.com/user-attachments/assets/8a260799-389f-4eb5-8f3f-d2d2515e7c12" />
+<img width="1407" height="792" alt="image" src="https://github.com/user-attachments/assets/750d37ca-1131-468b-8aa8-37439a9145e7" />
+<img width="1409" height="901" alt="image" src="https://github.com/user-attachments/assets/7925e752-cc82-4206-ad83-8302a94d40e4" />
+<img width="1424" height="812" alt="image" src="https://github.com/user-attachments/assets/b0deb152-e2fe-46ab-830c-f866f45244c0" />
+<img width="1418" height="897" alt="image" src="https://github.com/user-attachments/assets/c58a07f0-e1cb-4cf7-a12c-2fafaad6d0a2" />
+
+* Granted, Agreed, For sure -> In the very next sentence we will see a contradiction. [**VERY IMPORTANT**]
+
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/206df12a-9aa5-419f-adc8-c2a52d39e6c7" />
+
+* Start from 47mins.
+
+
+
+
+
+
+
+
+
+
 
 
 
