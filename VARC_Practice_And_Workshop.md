@@ -1040,11 +1040,20 @@
 * Option **D**. [Wrong]
 
 <img width="1720" height="984" alt="image" src="https://github.com/user-attachments/assets/9b0e5c8d-56f0-4107-b790-a60504142d49" />
+<img width="1718" height="1286" alt="image" src="https://github.com/user-attachments/assets/07d3db06-eeaa-4f71-b2eb-acc27d195e55" />
 
+* Ans -> option **A**. [Correct]
+* Option **C**. [Wrong]
+* * Option **C** -> Fails to -> Distortion. 
 
+<img width="1728" height="1020" alt="image" src="https://github.com/user-attachments/assets/2404af7e-ce59-4d1c-8cc2-fa72bb493ded" />
+<img width="1724" height="1010" alt="image" src="https://github.com/user-attachments/assets/f32dbbde-426f-47c1-9ae2-9759fb31043e" />
+<img width="1744" height="1086" alt="image" src="https://github.com/user-attachments/assets/7bf64110-8b93-4fc7-b5da-c36c78150523" />
+<img width="1736" height="1002" alt="image" src="https://github.com/user-attachments/assets/98b16540-7cee-4233-8e37-778f2c7cff30" />
+<img width="1724" height="1458" alt="image" src="https://github.com/user-attachments/assets/deb63c40-77df-44f3-aad6-3e2445f41182" />
 
-
-
+* Ans -> option **C**. [Got Correct]
+* punitive -> punishment/punish. [**MEANING**]
 
 
 
