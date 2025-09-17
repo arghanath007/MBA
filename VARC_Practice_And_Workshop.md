@@ -979,12 +979,67 @@
 * Granted, Agreed, For sure -> In the very next sentence we will see a contradiction. [**VERY IMPORTANT**]
 
 <img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/206df12a-9aa5-419f-adc8-c2a52d39e6c7" />
+<img width="1712" height="964" alt="image" src="https://github.com/user-attachments/assets/22de58f5-386e-414a-acc7-d9c8f8549977" />
+<img width="1748" height="1542" alt="image" src="https://github.com/user-attachments/assets/02b616a9-9809-40ed-8aca-21dc06d33c36" />
 
-* Start from 47mins.
+* Ans -> option **D**. [Got Correct]
 
+<img width="1736" height="1472" alt="image" src="https://github.com/user-attachments/assets/62ce9e26-7db8-4a9d-b089-3bcfdcffbf05" />
 
+* Ans -> option **D**. [Correct]
+* Option **C**. [Wrong]
 
+<img width="1744" height="1488" alt="image" src="https://github.com/user-attachments/assets/fd2b1b4b-f092-4683-809c-0f3eca34e5b8" />
 
+* Ans -> option **A**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1754" height="1494" alt="image" src="https://github.com/user-attachments/assets/e0ac9cd8-01c4-4907-bfc1-47f04f0b2c31" />
+
+* Ans -> option **E**. [Got Correct]
+* preclude -> Prevents/Negates something from happening. [**MEANING**]
+* Relic -> Artifact. [**MEANING**]
+ 
+<img width="1722" height="1020" alt="image" src="https://github.com/user-attachments/assets/d66a1a01-d81c-4a9c-a7b1-795d3d182738" />
+<img width="1706" height="1002" alt="image" src="https://github.com/user-attachments/assets/303fddfd-a2f0-45b3-9b08-79c146ce37e8" />
+
+* Whole Passage Tone -> Analytical.
+* Analytical -> More positive tone.
+* Critical -> More negative tone.
+
+<img width="1748" height="1114" alt="image" src="https://github.com/user-attachments/assets/8474ea20-d9ba-4377-9039-c53cd28cdc68" />
+<img width="1750" height="1280" alt="image" src="https://github.com/user-attachments/assets/952c3ecf-02f3-4b4f-98b7-b476e7326d64" />
+<img width="1744" height="1358" alt="image" src="https://github.com/user-attachments/assets/a8e870d4-a2a8-4632-8d17-22a85ce9694d" />
+
+* Ans -> option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+* Leaves a void -> Self-fulfilment. 
+
+<img width="1726" height="1012" alt="image" src="https://github.com/user-attachments/assets/6e1347d8-240f-46b4-9e42-80d667e69b40" />
+<img width="1736" height="1360" alt="image" src="https://github.com/user-attachments/assets/e6beee86-0003-4760-970a-a2f516d7b4fa" />
+
+* Ans -> option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* sentimental environmentalism -> Looks at environment at purely positive terms. It places environment on a pedistal.  [**MEANING**]
+* environmentalism -> Philosophy where humans should care about their ecology/environment. [**MEANING**]
+
+<img width="1710" height="1100" alt="image" src="https://github.com/user-attachments/assets/69222868-a92c-41f0-96a1-4f9b7ffc382e" />
+<img width="1720" height="998" alt="image" src="https://github.com/user-attachments/assets/3abf326b-7bed-4678-a188-d2f1676c311f" />
+<img width="1740" height="1508" alt="image" src="https://github.com/user-attachments/assets/372ae6d3-1228-4522-ad61-437b3542a6db" />
+
+* Ans -> option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* Statement **2** -> Negative/Critical.
+* 2 -> 4.
+* However -> 180 degree word.
+
+<img width="1740" height="1216" alt="image" src="https://github.com/user-attachments/assets/b2f70984-3e7f-4d5b-8574-a339a58b579c" />
+<img width="1730" height="1484" alt="image" src="https://github.com/user-attachments/assets/422d318e-1f00-481e-a8da-743e792f3ab7" />
+
+* Ans -> option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+
+<img width="1720" height="984" alt="image" src="https://github.com/user-attachments/assets/9b0e5c8d-56f0-4107-b790-a60504142d49" />
 
 
 
