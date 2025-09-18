@@ -1181,47 +1181,78 @@
 
 <img width="1696" height="986" alt="image" src="https://github.com/user-attachments/assets/fed261ef-1ebf-4e72-b1af-3ff64db82292" />
 <img width="1724" height="1018" alt="image" src="https://github.com/user-attachments/assets/ea6edb1c-dcbb-4bc0-a097-420a293aa9e6" />
+<img width="1692" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b983196-0c9a-4478-a119-3a0f422e8014" />
 
+* Yes. [**VERY IMPORTANT**]
 
+<img width="1392" height="1140" alt="image" src="https://github.com/user-attachments/assets/57dfdb79-32d6-41ac-af84-92d251e976cf" />
 
+* Ans -> option **A**. [Correct]
 
+<img width="1342" height="760" alt="image" src="https://github.com/user-attachments/assets/3f7ec12e-b87d-4f36-a90a-6a5b9becca48" />
 
+*  [**VERY IMPORTANT**]
+*  Option **B and D** -> Too generic.
+*  Peoples -> When referring to tribes/ethnicity/groups/community. [**MEANING**] 
+*  Peoples -> Plural.
 
+<img width="1382" height="1188" alt="image" src="https://github.com/user-attachments/assets/407083d2-051a-4815-af0e-35df9824357b" />
 
+* Ans -> option **C**. [Correct]
+* Option **D**. [Wrong]
 
+<img width="364" height="856" alt="image" src="https://github.com/user-attachments/assets/18f1444e-76ba-46b4-814b-005386b0415a" />
 
+* Yes.
+* Option **A** -> never -> Extreme word.
+* Option **** -> no one -> Extreme word.
 
+<img width="1748" height="1432" alt="image" src="https://github.com/user-attachments/assets/736b12ac-2440-4f99-b6ad-4cab226a3841" />
 
+* Ans -> option **C**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
 
+<img width="1700" height="956" alt="image" src="https://github.com/user-attachments/assets/8e04e491-e6ae-4fe7-aa2f-d3ecd55501d3" />
+<img width="1750" height="1474" alt="image" src="https://github.com/user-attachments/assets/0df2f944-2de4-4b3a-a529-c8ad50d3e203" />
 
+* Ans -> option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* Justify -> Strengthen. [**MEANING**]
+* dire -> Extreme. [**MEANING**]
 
+<img width="1742" height="1406" alt="image" src="https://github.com/user-attachments/assets/ba3326ea-e133-43aa-8342-7480948faed3" />
 
+* Ans -> option **B**. [Got Correct]
+* heinous -> Brutal/most disguisting. [**MEANING**]
+* Mitigated -> Reduced to some extent. [**MEANING**]
+* Nonetheless -> 180 degree word -> Contradiction word. [**MEANING**]
+* conjecture -> Guess. [**MEANING**]
+* Vicious -> Vile. [**MEANING**]
+* altruistic -> Charitable. [**MEANING**]
 
+<img width="1718" height="986" alt="image" src="https://github.com/user-attachments/assets/a2d429d7-c599-4157-9e56-4c1e931b6ef8" />
 
+* lenient -> Not strict/Slap on the wrist.  [**MEANING**]
 
+<img width="1738" height="1482" alt="image" src="https://github.com/user-attachments/assets/83a5aceb-6c26-420f-9cb7-c1e678d95d27" />
 
+* Ans -> option **D**. [Correct]
+* Option **C**. [Wrong]
+* Strengthen:- [**VERY IMPORTANT**]
 
+1) Additional premise -> Validates the conclusion.
+2) Explicitly stating the assumption.
 
+<img width="1722" height="962" alt="image" src="https://github.com/user-attachments/assets/1f3f9d7d-f0a3-4eff-84e7-2eada0a305f6" />
+<img width="1746" height="1344" alt="image" src="https://github.com/user-attachments/assets/3ceef692-7143-4081-b977-c38f306707a8" />
 
+* Ans -> option **A**. [Got Correct]
+* option **D, B** -> Contradiction -> Weakening.
 
+<img width="1720" height="968" alt="image" src="https://github.com/user-attachments/assets/4495ec9e-af1f-4d49-b765-cfbd6dbe71e2" />
+<img width="1736" height="966" alt="image" src="https://github.com/user-attachments/assets/73d5f7b0-40b3-4338-ba80-0b6cbc5cadec" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Start from 1hr 24mins.
 
 
 
