@@ -1252,7 +1252,9 @@
 <img width="1720" height="968" alt="image" src="https://github.com/user-attachments/assets/4495ec9e-af1f-4d49-b765-cfbd6dbe71e2" />
 <img width="1736" height="966" alt="image" src="https://github.com/user-attachments/assets/73d5f7b0-40b3-4338-ba80-0b6cbc5cadec" />
 
-* Start from 1hr 24mins.
+* Strengthening -> As long as it is supporting the current/existing conclusion. [**VERY IMPORTANT**]
+* Weakening -> As long as it is attacking the current/existing conclusion. [**VERY IMPORTANT**]
+* Start from 1hr 26mins.
 
 
 
