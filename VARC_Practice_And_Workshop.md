@@ -1055,6 +1055,77 @@
 * Ans -> option **C**. [Got Correct]
 * punitive -> punishment/punish. [**MEANING**]
 
+<img width="1744" height="1318" alt="image" src="https://github.com/user-attachments/assets/7f58c302-65ec-4419-8e92-e771aa50592c" />
+
+* Ans -> option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* preposterous -> Absurd. [**MEANING**]
+* Weaken -> No similarity between the two needles.
+* Strengthen -> Similarity between the two needles.
+* Option **C** -> Effect of the law. 
+
+<img width="1726" height="1346" alt="image" src="https://github.com/user-attachments/assets/b56c64a7-d010-477b-8d92-7bfd5ca9f771" />
+
+* Ans -> option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+
+<img width="1696" height="968" alt="image" src="https://github.com/user-attachments/assets/11ea5cbf-6d04-488f-b9c3-9630571fcbb9" />
+<img width="1718" height="1330" alt="image" src="https://github.com/user-attachments/assets/7c4434f8-e1f7-40b2-901e-8aa45f4b392c" />
+
+* Ans -> option **C**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* renounce -> Abandon. [**MEANING**]
+* anthropo-technogenesis -> Human created technology. [**MEANING**]
+* Genesis -> Birth. [**MEANING**]
+
+<img width="1730" height="968" alt="image" src="https://github.com/user-attachments/assets/97a4d65c-a008-4f3d-9f8d-40de2a52b0c1" />
+<img width="1760" height="1336" alt="image" src="https://github.com/user-attachments/assets/7f5c3254-65fb-44bb-b277-803847a25e81" />
+
+* Ans -> option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+
+<img width="1718" height="1006" alt="image" src="https://github.com/user-attachments/assets/543395d9-393d-4288-96f2-6a545a810490" />
+
+* In addition to/to some extent -> Not weakening terms/words -> Important words. [**VERY IMPORTANT**]
+* Option **C** -> Neither strengthening or weakening.
+ 
+<img width="1720" height="998" alt="image" src="https://github.com/user-attachments/assets/a064e864-98ba-46f3-92af-7d9318d08a12" />
+<img width="1730" height="1006" alt="image" src="https://github.com/user-attachments/assets/ae4b54f9-fe15-47b2-abd5-456649247b51" />
+<img width="1750" height="1346" alt="image" src="https://github.com/user-attachments/assets/333fc30c-4f59-471c-aaee-58e04eb3fb09" />
+
+* Ans -> option **A**. [Got Correct]
+
+<img width="1740" height="1022" alt="image" src="https://github.com/user-attachments/assets/7e70886a-8046-45f0-b9f4-82d90f0be881" />
+<img width="1736" height="1326" alt="image" src="https://github.com/user-attachments/assets/aeeea53f-1bb7-4b41-b28f-339c4838afe4" />
+
+* Ans -> option **A**. [Got Correct]
+
+<img width="1712" height="992" alt="image" src="https://github.com/user-attachments/assets/7d8ec4f7-79ee-4567-87f9-281535c7ea6c" />
+<img width="1744" height="1338" alt="image" src="https://github.com/user-attachments/assets/7282a442-46af-413f-b3e8-9294f3aa2e6f" />
+
+* Ans -> option **D**. [Correct]
+* option **A**. [Wrong]
+
+<img width="1720" height="958" alt="image" src="https://github.com/user-attachments/assets/edce492a-7d65-4254-a744-15e6aa37bffc" />
+<img width="1738" height="966" alt="image" src="https://github.com/user-attachments/assets/4c5106e2-07b0-4d27-84ac-152ed18dc5d3" />
+<img width="1750" height="1332" alt="image" src="https://github.com/user-attachments/assets/5eb75e5e-5aa4-4a9d-b23b-5e14416d4775" />
+
+* Ans -> option **D**. [Got Correct]
+* emerging -> Now it is arising. It's wide spread acceptance might take time. [**MEANING**]
+* materialize -> Something takes material form. Something immerges. [**MEANING**]
+* Inference -> Which of the following is most supported by the above. [**VERY IMPORTANT**]
+* Strengthening -> Provides the most support. [**VERY IMPORTANT**]
+
+<img width="1740" height="1086" alt="image" src="https://github.com/user-attachments/assets/3af4fee2-35f1-4558-ae87-59603da81e5c" />
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1108,44 +1179,6 @@
 
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1218,6 +1251,9 @@
 
 
 
+# Quotes
+
+<img width="1712" height="974" alt="image" src="https://github.com/user-attachments/assets/b7933ce2-e5f3-4cbf-86fe-bcb8272fd888" />
 
 
 
