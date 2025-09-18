@@ -1254,14 +1254,19 @@
 
 * Strengthening -> As long as it is supporting the current/existing conclusion. [**VERY IMPORTANT**]
 * Weakening -> As long as it is attacking the current/existing conclusion. [**VERY IMPORTANT**]
-* Start from 1hr 26mins.
+
+<img width="1734" height="1336" alt="image" src="https://github.com/user-attachments/assets/525d411d-32c9-4787-b052-22038412fb3d" />
+
+* Ans -> option **C**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1714" height="1394" alt="image" src="https://github.com/user-attachments/assets/ebdf18e3-c247-4a8b-bb0e-04c73d758b92" />
+
+ * Ans -> option **A**. [Correct]
+* Option **B**. [Wrong]
 
 
-
- 
-
-
-
+## Sharwari Mam
 
 
 
