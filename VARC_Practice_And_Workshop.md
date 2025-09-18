@@ -1117,42 +1117,70 @@
 * Strengthening -> Provides the most support. [**VERY IMPORTANT**]
 
 <img width="1740" height="1086" alt="image" src="https://github.com/user-attachments/assets/3af4fee2-35f1-4558-ae87-59603da81e5c" />
+<img width="1738" height="1360" alt="image" src="https://github.com/user-attachments/assets/2b967495-46ea-4e91-8883-5e5dbaa36539" />
+<img width="1742" height="1404" alt="image" src="https://github.com/user-attachments/assets/c055bbcc-de85-4b01-90d2-95626a32d1be" />
 
+* Ans -> option **D**. [Got Correct]
 
+<img width="1748" height="1400" alt="image" src="https://github.com/user-attachments/assets/9473697e-c85b-4cd4-a6c3-1a60137ab323" />
 
+* Ans -> option **A**. [Got Correct]
 
+<img width="1740" height="1408" alt="image" src="https://github.com/user-attachments/assets/50892e3e-543a-4bb6-864b-50646e50e2d7" />
 
+* Ans -> option **C**. [Correct]
+* option **A**. [Wrong]
 
+<img width="1744" height="1494" alt="image" src="https://github.com/user-attachments/assets/f7c7dcb5-c3f8-4829-85ab-1ca5de57c8c3" />
 
+* Ans -> option **B**. [Correct]
+* option **A**. [Wrong]
+* canonical -> Major piece of work of a author/tradition. [**MEANING**]
+* perennial -> Never ending/long lasting/continuous/Something that exists throughout. [**MEANING**] 
 
+<img width="1730" height="1010" alt="image" src="https://github.com/user-attachments/assets/0d4858ee-fd35-44f6-a6f6-bde9cbcf826c" />
+<img width="1728" height="1016" alt="image" src="https://github.com/user-attachments/assets/25bd9711-3039-4be7-8af1-9485bf541bac" />
 
+* hegemonic -> Dominating assumption. [**MEANING**]
+* Generalizing statement -> Sweeping statement. [**MEANING**]
 
+<img width="1824" height="1026" alt="image" src="https://github.com/user-attachments/assets/e95ae01a-26f7-4093-b5fe-4cfb7b964de4" />
+<img width="1716" height="972" alt="image" src="https://github.com/user-attachments/assets/96821826-020a-40c5-90bd-355fa47189f5" />
 
+* The Great Depression -> 1929. [**VERY IMPORTANT**]
+* The Great recession -> 2007-08. 
 
+<img width="1746" height="1340" alt="image" src="https://github.com/user-attachments/assets/2b0d74d0-a956-445f-a28e-d766ccd1d2fe" />
 
+* RC2.
 
+<img width="1750" height="1398" alt="image" src="https://github.com/user-attachments/assets/1a888c95-5d5e-413b-9e73-1f039848fce7" />
 
-
-
-
-
-
-
-
-
-
+* Ans -> option **A**. [Correct]
+* option **B**. [Wrong]
  
+<img width="1744" height="1350" alt="image" src="https://github.com/user-attachments/assets/b0aeb24d-70ce-44c6-8998-dac5c010f8b4" />
 
+* Ans -> option **C**. [Correct]
+* option **D**. [Wrong]
 
+<img width="1728" height="1016" alt="image" src="https://github.com/user-attachments/assets/20126571-e241-4308-84d8-c1cfff1a9dce" />
 
+* Ans -> option **B**. [Correct]
 
+<img width="1756" height="1414" alt="image" src="https://github.com/user-attachments/assets/dbc2e9c1-ec2a-41aa-8f32-0823cb5f8634" />
 
+* Ans -> option **D**. [Correct]
+* option **B**. [Wrong]
 
+<img width="1756" height="1420" alt="image" src="https://github.com/user-attachments/assets/7cdb2a80-fb11-4343-8bd3-23978638303e" />
 
+* Ans -> option **A**. [Correct]
+* option **B**. [Wrong]
+* buck -> Change. [**MEANING**]
 
-
-
-
+<img width="1696" height="986" alt="image" src="https://github.com/user-attachments/assets/fed261ef-1ebf-4e72-b1af-3ff64db82292" />
+<img width="1724" height="1018" alt="image" src="https://github.com/user-attachments/assets/ea6edb1c-dcbb-4bc0-a097-420a293aa9e6" />
 
 
 
