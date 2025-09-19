@@ -1412,14 +1412,26 @@
 
 <img width="1688" height="972" alt="image" src="https://github.com/user-attachments/assets/c9d59fea-b5ac-4260-bc03-110d5144e574" />
 
-* Start from 1h 24mins.
+#### Para Completions(PC)
 
+<img width="1750" height="1346" alt="image" src="https://github.com/user-attachments/assets/8a1f0de6-ed2b-4b24-aed6-7e5b7b7da2b8" />
 
+* Ans -> Option **C**. [Got Correct]
+* Affirmation -> Positive. [**MEANING**]
+* Denomination -> Naming/classification. [**MEANING**]
+* Propriety -> Correctness. [**MEANING**]
 
+<img width="1732" height="966" alt="image" src="https://github.com/user-attachments/assets/6c055fb2-aeac-4b1b-a2cd-81316047d123" />
+<img width="1754" height="1346" alt="image" src="https://github.com/user-attachments/assets/b2f02351-eefd-4f3c-8c61-2dbcac5edbfe" />
 
+* Ans -> Option **C**. [Got Correct]
+* Impotence -> Lack of power. [**MEANING**]
+* Eminent -> Famous. [**MEANING**]
+* Diffused -> Spread. [**MEANING**]
 
+<img width="1682" height="954" alt="image" src="https://github.com/user-attachments/assets/0dcbfbca-2dc5-4006-821f-b82edbce40a2" />
 
-
+* Ans -> Option **B**. [Correct]
 
 
 
