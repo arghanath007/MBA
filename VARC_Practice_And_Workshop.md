@@ -1433,6 +1433,90 @@
 
 * Ans -> Option **B**. [Correct]
 
+#### Odd One Out sentences(OOO)
+
+<img width="1752" height="1330" alt="image" src="https://github.com/user-attachments/assets/ffe22ee6-3d5b-4acb-82f6-280568cee20f" />
+
+* Ans -> Option **C**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+* renown -> Reputation. [**MEANING**]
+
+<img width="1756" height="1366" alt="image" src="https://github.com/user-attachments/assets/b4c598be-524f-4983-9210-4a3d40763f95" />
+
+* Ans -> Option **C**. [Correct] [**VERY IMPORTANT**]
+* Option **E**. [Wrong]
+* **1, 2, 4 & 5** -> About Economy.
+* Contrast -> Trap.
+
+<img width="1698" height="992" alt="image" src="https://github.com/user-attachments/assets/ff831743-1e31-4483-9a26-aefb0ea9dcc3" />
+<img width="1752" height="1372" alt="image" src="https://github.com/user-attachments/assets/d0833073-37df-4c39-965f-145c6a7d2d62" />
+
+* Ans -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+
+<img width="1742" height="994" alt="image" src="https://github.com/user-attachments/assets/21d6e84f-8904-42cc-a053-d9699ed15a79" />
+<img width="1754" height="1384" alt="image" src="https://github.com/user-attachments/assets/c44f8959-d7f8-4f7c-808c-5faeb49ddb84" />
+
+* Ans -> Option **B**. [Got Correct]
+* 1,3,4,5 -> Study/fear of herpetofauna.
+
+<img width="1758" height="1344" alt="image" src="https://github.com/user-attachments/assets/f219be44-dd70-4598-ab36-655ea2416ed8" />
+
+* Ans -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* 1245. [Wrong]
+* 4523. [Correct]
+
+<img width="1694" height="952" alt="image" src="https://github.com/user-attachments/assets/b4e1c138-cb86-4d74-b206-bdbf733f4dea" />
+
+#### Para Completion(PC)
+
+<img width="1756" height="1342" alt="image" src="https://github.com/user-attachments/assets/594d53fa-01a6-4f0d-9beb-b0f40057e006" />
+
+* Ans -> Option **C**. [Got Correct] [**VERY IMPORTANT**]
+* deferential -> respectful.
+* acquiescent -> Obliging.
+* proliferation -> Plenty.
+* Space **3 and 4** -> Questions back to back.
+* 1 -> Premature.
+
+<img width="1732" height="996" alt="image" src="https://github.com/user-attachments/assets/f483ff32-dda1-46b6-a11b-746bf1c37707" />
+<img width="1756" height="1336" alt="image" src="https://github.com/user-attachments/assets/b1fa4711-f906-4dbf-a12c-7e35889f0406" />
+
+* Ans -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+
+<img width="1736" height="982" alt="image" src="https://github.com/user-attachments/assets/bceca9c5-ad22-44b9-a670-067db6fffe00" />
+
+* While -> 180 degree word. [**MEANING**]
+* 1hr 26mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
