@@ -1363,25 +1363,56 @@
 <img width="1430" height="828" alt="image" src="https://github.com/user-attachments/assets/3b5e1581-8f45-4e48-9b80-c9dc51fc265a" />
 <img width="1415" height="814" alt="image" src="https://github.com/user-attachments/assets/9a85fc92-c5bc-438f-a0f9-eb19683f7996" />
 
+#### Para Summary(PS)
 
+<img width="1748" height="1360" alt="image" src="https://github.com/user-attachments/assets/e9261fea-73e3-4507-be43-0ee90019d41f" />
 
+* Ans -> Option **B**. [Correct] 
+* Option **A**. [Wrong]
+* mirage -> Illusion. [**MEANING**]
+* replenish -> To fill again. [**MEANING**]
+* paradoxical -> Potentially contradictory situations. [**MEANING**]
+* Don't do **keyword matching**. [**VERY IMPORTANT**]
+* Do **idea matching**. [**VERY IMPORTANT**]
 
+<img width="1748" height="1384" alt="image" src="https://github.com/user-attachments/assets/800208cb-d789-4763-b351-b814a9b1316a" />
 
+* Ans -> Option **D**. [Got Correct]
+* Condemning -> Criticising. [**MEANING**]
+* semblance -> Appearance. [**MEANING**]
+* Endowment -> Gift/talent. [**MEANING**]
+* Meagre -> Small. [**MEANING**]
+* Malice -> ill intentions. [**MEANING**]
+* Zealous -> Passionate. [**MEANING**]
+* Offset -> To hide. [**MEANING**]
+* feign -> To pretend. [**MEANING**]
+* fervently -> Passionately/enthusiastically.  [**MEANING**]
 
+<img width="1750" height="1374" alt="image" src="https://github.com/user-attachments/assets/84fa672b-dbc2-47b9-8768-d4594954a4c5" />
 
+* Ans -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* Yearning -> Longing. [**MEANING**]
+* Harness -> Utilize. [**MEANING**]
+* Pristine -> Pure/unadulterated. [**MEANING**]
 
+<img width="1708" height="956" alt="image" src="https://github.com/user-attachments/assets/024319da-686e-46c8-910a-fff62c7a2aed" />
+<img width="1742" height="1334" alt="image" src="https://github.com/user-attachments/assets/dd06daa6-83df-436b-ba51-cf95200592e4" />
 
+* Ans -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* Commodified -> As products/commodities. [**MEANING**]
 
+<img width="1688" height="960" alt="image" src="https://github.com/user-attachments/assets/3574f083-35c9-4b23-ac43-7b1487c241f8" />
+<img width="1750" height="1354" alt="image" src="https://github.com/user-attachments/assets/1f2bedc5-9487-4e80-a63b-43b431ee9485" />
 
+* Ans -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+* dialectic -> A kind of logical approach which philosophers use to come to conclusion about their aarguments -> Reasoning/Logical approach. [**MEANING**]
 
+<img width="1688" height="972" alt="image" src="https://github.com/user-attachments/assets/c9d59fea-b5ac-4260-bc03-110d5144e574" />
 
-
-
-
-
-
-
-
+* Start from 1h 24mins.
 
 
 
