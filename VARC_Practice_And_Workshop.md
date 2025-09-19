@@ -1268,13 +1268,34 @@
 
 ### Sharwari Mam
 
+<img width="1408" height="805" alt="image" src="https://github.com/user-attachments/assets/036be0a3-5d42-4194-87b5-0cfa1bbb60f5" />
 
+* 3142 [Wrong]
+* 4312 [Correct]
+* rebuttal -> Contradiction/Going against the scenario. [**MEANING**]
+* Grammatical connectors -> While.
 
+<img width="1419" height="910" alt="image" src="https://github.com/user-attachments/assets/deca8af0-0928-426c-84d3-381a5302b211" />
 
+* 4123 [Wrong]
+* 4312 [Correct]
+* Regime -> Rule. [**MEANING**]
+* Abolished -> Ban. [**MEANING**]
+* Sequence, Mandatory Pairs -> Very important to do in parajumbles.
 
+<img width="1422" height="912" alt="image" src="https://github.com/user-attachments/assets/df15b453-4103-4266-bcfa-6af9f3b99d8b" />
 
+* 3124. [Got Correct]
+* Arbitrary -> Abstract/Random.  [**MEANING**]
+* Distortion -> Misrepresentation.   [**MEANING**]
+* Willful -> Willingly/Done by yourself.  [**MEANING**]
+* Disregard -> Disrespect. [**MEANING**]
+* Syntax -> Formula. [**MEANING**]
+* Statement 3 -> Starting sentence -> Because it has no connectors, no pronouns, no conjuctions. [**VERY IMPORTANT**]
 
-
+<img width="1423" height="811" alt="image" src="https://github.com/user-attachments/assets/b12f8113-564a-4ba3-85bd-e5dc7de8ca53" />
+<img width="1405" height="806" alt="image" src="https://github.com/user-attachments/assets/bf7a3aa3-247a-4d82-8b1d-3dab858beff8" />
+<img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/7367ec71-aa34-4922-a7bd-dcf649f86320" />
 
 
 
