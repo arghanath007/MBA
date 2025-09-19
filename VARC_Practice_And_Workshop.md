@@ -1268,6 +1268,8 @@
 
 ### Sharwari Mam
 
+#### ParaJumbles(PJ)
+
 <img width="1408" height="805" alt="image" src="https://github.com/user-attachments/assets/036be0a3-5d42-4194-87b5-0cfa1bbb60f5" />
 
 * 3142 [Wrong]
@@ -1296,6 +1298,74 @@
 <img width="1423" height="811" alt="image" src="https://github.com/user-attachments/assets/b12f8113-564a-4ba3-85bd-e5dc7de8ca53" />
 <img width="1405" height="806" alt="image" src="https://github.com/user-attachments/assets/bf7a3aa3-247a-4d82-8b1d-3dab858beff8" />
 <img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/7367ec71-aa34-4922-a7bd-dcf649f86320" />
+<img width="1406" height="805" alt="image" src="https://github.com/user-attachments/assets/f08c3d66-093e-4314-8264-eab59bd408dd" />
+
+* 3214 [Got Correct]
+
+<img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/cf8fa5d2-cf39-438e-aa55-23edc229c5a9" />
+<img width="1408" height="804" alt="image" src="https://github.com/user-attachments/assets/a4f194e0-1b4d-43b9-8521-9b2eda9925f0" />
+
+* Intro -> Generic to Specific.
+
+<img width="1412" height="809" alt="image" src="https://github.com/user-attachments/assets/d3a2b09f-ace5-449a-b8f4-2cd8d2dd8ece" />
+<img width="1425" height="914" alt="image" src="https://github.com/user-attachments/assets/2761fd4f-a35c-44c5-9484-79c5d90bd5c3" />
+
+* 2341. [Wrong] [**VERY IMPORTANT**]
+* 3241. [Wrong]
+* Statement **3** -> A myth, definition, description -> Hints for intro statement. [**VERY IMPORTANT**]
+* Statement **1** -> This distinction -> forward indicator of a concept yet to come -> Cataphoric reference. [**VERY IMPORTANT**]
+
+<img width="440" height="226" alt="image" src="https://github.com/user-attachments/assets/2d890b14-58b4-47b8-99fb-a581a16c2e00" />
+
+* forward indicator -> Rare usage.
+* Backward indicator -> Usual usage.
+* relationship -> linked.
+* 3142. [Correct]
+
+<img width="1410" height="803" alt="image" src="https://github.com/user-attachments/assets/8ebbae4c-caeb-44fa-8a94-f0e2648fd65e" />
+<img width="1422" height="812" alt="image" src="https://github.com/user-attachments/assets/fd687acf-e418-4854-aa0d-67591ca00bcb" />
+
+#### Odd one out Sentences(OOO)
+
+<img width="1427" height="913" alt="image" src="https://github.com/user-attachments/assets/964acb12-a190-473e-81ee-8ba192f9a904" />
+
+* Ans -> Option **A**. [Got Correct]
+* Homeric -> Epic/grand.
+
+<img width="1430" height="913" alt="image" src="https://github.com/user-attachments/assets/2e30cfa5-ffa9-4b00-8610-086411caa869" />
+
+* Ans -> Option **C**. [Got Correct]
+
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/dcb9a6c4-41e4-4336-b17a-3d48e94d5dc3" />
+
+* Option **C** -> Tone is negative -> Going against genius people.
+
+<img width="1423" height="918" alt="image" src="https://github.com/user-attachments/assets/73fe3795-ddbd-4dca-bb96-052053e08e48" />
+
+* Ans -> Option **A**. [Correct]
+* Option **C**. [Wtong]
+* Sequence -> 3524.
+
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/44b7b340-9835-48f6-9ddf-11467c9b8a2d" />
+<img width="1440" height="914" alt="image" src="https://github.com/user-attachments/assets/8de23721-0a47-4c3c-bd06-04c8f17266a7" />
+
+* Ans -> Option **D**. [Got Correct]
+
+<img width="260" height="75" alt="image" src="https://github.com/user-attachments/assets/268796b6-2525-4758-b04d-3583c20c170d" />
+
+* Yes.
+
+<img width="1423" height="911" alt="image" src="https://github.com/user-attachments/assets/952c01f5-5a36-4d5a-a7cd-d011728a1a7e" />
+
+* Ans -> Option **C**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+
+<img width="1430" height="828" alt="image" src="https://github.com/user-attachments/assets/3b5e1581-8f45-4e48-9b80-c9dc51fc265a" />
+<img width="1415" height="814" alt="image" src="https://github.com/user-attachments/assets/9a85fc92-c5bc-438f-a0f9-eb19683f7996" />
+
+
+
+
 
 
 
