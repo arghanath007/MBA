@@ -1554,7 +1554,49 @@
 <img width="1704" height="968" alt="image" src="https://github.com/user-attachments/assets/008fa951-4555-4354-8217-dd5265648827" />
 
 * Argument -> Spillage and drinking.
-* 43mins.
+
+<img width="1748" height="1276" alt="image" src="https://github.com/user-attachments/assets/6974ef0c-c9ad-425a-859d-d9148787fb94" />
+
+* Ans -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* Main Topic -> Dash.
+* Option **A & D** -> No mention of dash. 
+* Option **C** -> No information about intentions -> Out of scope.
+
+<img width="1670" height="942" alt="image" src="https://github.com/user-attachments/assets/c5ba1d57-417b-470d-8909-e4fbb93feb3c" />
+<img width="1746" height="1336" alt="image" src="https://github.com/user-attachments/assets/2f72420d-e678-45f0-b2e0-d925744a90c6" />
+
+* Ans -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+
+<img width="1694" height="988" alt="image" src="https://github.com/user-attachments/assets/fbb44e80-79a5-4716-8fb7-0fe218b02042" />
+
+* Topic -> Reporting back.
+* Option **B** -> Deviating focus from soil to animals -> Doesn't mention the report and intended effect. 
+* Option **C** -> Not talking about the intended effect. 
+* Option **D** -> Farmers want Timothy grass and they will avoid thistle -> Therefore they wil report after checking factsheet.
+* Not an assumption based question, it is logic based question.
+
+<img width="1682" height="968" alt="image" src="https://github.com/user-attachments/assets/76206eeb-cf20-402d-ba78-419087a7069c" />
+<img width="1742" height="1384" alt="image" src="https://github.com/user-attachments/assets/f6d997ef-4dff-4033-818a-415afed08f90" />
+
+* Ans -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* Last statement of the passage -> We have to prove that it is not going to help -> Weaken.
+* Option **B** -> New information -> Out of scope.
+* Paragraph -> Generic.
+* Option **C** -> Too specific -> Alien.
+
+<img width="1690" height="948" alt="image" src="https://github.com/user-attachments/assets/49e8d605-a8a0-40df-9877-295d680e3713" />
+<img width="1680" height="942" alt="image" src="https://github.com/user-attachments/assets/cd70044c-94ef-45fb-8e20-7aad0aa28625" />
+
+
+
+
+
+
+
+
 
 
 
