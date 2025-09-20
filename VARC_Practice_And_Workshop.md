@@ -1500,17 +1500,61 @@
 
 * Ans -> Option **C** -> Blank **4**. [Correct] [**VERY IMPORTANT**]
 * Option **A** -> Blank **2**. [Wrong]
-* anchoring -> attaching.
-* scaffolding -> support.
-* 1,2,3 -> Discussion about metaphors.
+* anchoring -> attaching. [**MEANING**]
+* scaffolding -> support. [**MEANING**]
+* 1,2,3 -> Discussion about metaphors. [**MEANING**]
 
 <img width="1700" height="964" alt="image" src="https://github.com/user-attachments/assets/76e11e50-9db0-43c6-8071-3fe623020d2b" />
 
+#### CR
 
+<img width="1746" height="1290" alt="image" src="https://github.com/user-attachments/assets/28fd0b7f-b5a2-4626-993e-3913f1173746" />
 
+* Ans -> Option **B**. [Correct] 
+* Option **D**. [Wrong]
+* Hominid -> Human like. [**MEANING**]
+* Undermines -> Weaken/Disagree. [**MEANING**]
 
+<img width="1726" height="1166" alt="image" src="https://github.com/user-attachments/assets/2b1a9167-d0fc-4ae4-8e8a-76753ebb2bf9" />
 
+* Option **C** -> Different site info -> irrelevant option. 
+* Option **D** -> Some were erased, some were there -> Not relevant. 
 
+<img width="1732" height="1236" alt="image" src="https://github.com/user-attachments/assets/24969c42-0aed-42c3-8154-cc711f7ee6a3" />
+
+* Ans -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+
+<img width="1746" height="1158" alt="image" src="https://github.com/user-attachments/assets/f220d1e7-d26f-45eb-8536-d084febd26d3" />
+<img width="1702" height="1062" alt="image" src="https://github.com/user-attachments/assets/fe7bd3c8-5bb6-44fa-adc6-f5f7fe742e23" />
+
+* Option **A** -> Solely, only, certainly -> Extreme words -> Extreme option.
+* Option **B** => Lab -> One molecule concentration/proportion is equal to the other molecule concentration/proportion.
+* Real soil -> Proportion varies.
+* Lab and real soil -> Contradiction of data. 
+* Option **C** -> Specific example/data -> Too narrow.
+* Option **C** -> With specific data we cannot comment on generic data.
+* Option **D** -> Data is good -> Weakening.
+* We have to prove that data is bad/contradictory.
+
+<img width="1750" height="1238" alt="image" src="https://github.com/user-attachments/assets/01a22540-e578-45b3-9973-fb2f9ad5808e" />
+
+* Ans -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+
+<img width="1652" height="996" alt="image" src="https://github.com/user-attachments/assets/492ddf1d-1ef4-44f8-900b-a7f1aef9c792" />
+<img width="1716" height="962" alt="image" src="https://github.com/user-attachments/assets/76d5ed5c-2d6d-4583-a978-551a976993eb" />
+
+* Obscure -> Hidden. [**MEANING**]
+* Raucous -> Noise/Noisy. [**MEANING**]
+* Option **B** -> Generic.
+* Option **C** -> Irrelevant.
+* inevitably -> Unavoidably. [**MEANING**]
+
+<img width="1704" height="968" alt="image" src="https://github.com/user-attachments/assets/008fa951-4555-4354-8217-dd5265648827" />
+
+* Argument -> Spillage and drinking.
+* 43mins.
 
 
 
