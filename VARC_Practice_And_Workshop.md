@@ -1637,22 +1637,33 @@
 
 <img width="1688" height="962" alt="image" src="https://github.com/user-attachments/assets/baeb9aa6-4073-4f07-bda2-ea06bb71846d" />
 
+#### RC
 
+<img width="1680" height="964" alt="image" src="https://github.com/user-attachments/assets/44fd08dd-3123-4a90-8ee7-bf25d509888a" />
+<img width="1688" height="976" alt="image" src="https://github.com/user-attachments/assets/f021a4b8-9a69-4c9c-b212-90bd28d3dbeb" />
 
+* RC1.
 
+<img width="1746" height="1256" alt="image" src="https://github.com/user-attachments/assets/737b5065-6060-4e10-979f-7e00c607aa32" />
 
+* Ans -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
 
+<img width="1736" height="1262" alt="image" src="https://github.com/user-attachments/assets/3604dc87-b096-408d-9da8-e4412ae0ea50" />
 
+* Ans -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* Wild west -> Unchecked freedom. [**MEANING**]
 
+<img width="1722" height="954" alt="image" src="https://github.com/user-attachments/assets/4acff95f-4260-423b-aa46-1ba24c892f25" />
 
+* Option **A** -> Not engrained in our daily life.
+* Option **C & D** -> Pool is narrowed.
 
+<img width="1690" height="978" alt="image" src="https://github.com/user-attachments/assets/bb5c7253-136f-4130-b01c-8415d3506d1f" />
 
-
-
-
-
-
-
+* Ans -> Option **C**. [Correct]
+* 1hr 9mins.
 
 
 
