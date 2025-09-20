@@ -1489,12 +1489,22 @@
 <img width="1736" height="982" alt="image" src="https://github.com/user-attachments/assets/bceca9c5-ad22-44b9-a670-067db6fffe00" />
 
 * While -> 180 degree word. [**MEANING**]
-* 1hr 26mins.
 
+<img width="1738" height="1310" alt="image" src="https://github.com/user-attachments/assets/fb56e61a-269f-408c-be12-be2db820337a" />
 
+* Ans -> Option **C** -> Blank **2**. [Correct] [**VERY IMPORTANT**]
+* Option **B** -> Blank **3**. [Wrong]
 
+<img width="1708" height="974" alt="image" src="https://github.com/user-attachments/assets/2a0afe24-8eca-41e3-a378-981cee50ce56" />
+<img width="1752" height="1340" alt="image" src="https://github.com/user-attachments/assets/042fac35-b3b2-4e0a-bf04-a1439fdacaf5" />
 
+* Ans -> Option **C** -> Blank **4**. [Correct] [**VERY IMPORTANT**]
+* Option **A** -> Blank **2**. [Wrong]
+* anchoring -> attaching.
+* scaffolding -> support.
+* 1,2,3 -> Discussion about metaphors.
 
+<img width="1700" height="964" alt="image" src="https://github.com/user-attachments/assets/76e11e50-9db0-43c6-8071-3fe623020d2b" />
 
 
 
