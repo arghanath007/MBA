@@ -1589,6 +1589,65 @@
 
 <img width="1690" height="948" alt="image" src="https://github.com/user-attachments/assets/49e8d605-a8a0-40df-9877-295d680e3713" />
 <img width="1680" height="942" alt="image" src="https://github.com/user-attachments/assets/cd70044c-94ef-45fb-8e20-7aad0aa28625" />
+<img width="1752" height="1358" alt="image" src="https://github.com/user-attachments/assets/b2323e6a-b894-45a4-bfbc-016877653dee" />
+
+* Ans -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* Prohibitively -> Very.  [**MEANING**]
+
+<img width="1486" height="950" alt="image" src="https://github.com/user-attachments/assets/f8d9a1c0-b42c-4768-944e-b9895657815b" />
+<img width="1718" height="972" alt="image" src="https://github.com/user-attachments/assets/4518ac6e-17b4-4233-99a9-dfe990baa9b2" />
+
+* Option **A & C** -> No mention of profit/expenses.
+* Option **B** -> New angle.
+* Option **D** -> Talking about profit/expenses.
+
+<img width="1718" height="962" alt="image" src="https://github.com/user-attachments/assets/6cec3e4b-806f-405b-bd38-ee51f14bf292" />
+<img width="1748" height="1334" alt="image" src="https://github.com/user-attachments/assets/57b8f09d-56c3-47e8-b454-aa4f8881ce0f" />
+
+* Ans -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+
+<img width="1686" height="970" alt="image" src="https://github.com/user-attachments/assets/0fa949ab-7599-4e80-99ba-a8617e3c78af" />
+
+* Any of the '3' options -> Will have valid reasons for criticizing the argument.
+* Any of the '1' option -> Will not have a valid reason for criticizing the argument.
+* Option **A, C, D** -> valid criticism.  
+
+<img width="1696" height="962" alt="image" src="https://github.com/user-attachments/assets/ac3ec28f-82f5-4e65-9b54-ee457731421f" />
+<img width="1740" height="1364" alt="image" src="https://github.com/user-attachments/assets/813eb8b5-b5ae-43c5-a005-26af114748c4" />
+
+* Ans -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* Topic -> Government should not distibute it.
+* Option **A** -> Not by government -> No mention of government. 
+
+<img width="1746" height="1362" alt="image" src="https://github.com/user-attachments/assets/b8c825a2-f0e1-4faa-8996-0970485cd9b3" />
+
+* Ans -> Option **C**. [Got Correct] 
+
+<img width="1676" height="972" alt="image" src="https://github.com/user-attachments/assets/ae744f2c-b044-44b4-8620-b65263a3d4da" />
+<img width="1730" height="948" alt="image" src="https://github.com/user-attachments/assets/f16507ab-7cce-4a2d-af7e-2285ded4d5cd" />
+
+* Option **C** -> Health insurance becomes compulsory for kids -> Boosts the revenue.
+* rollback -> Reduction.
+* Option **A & D** -> Focused on only '1' business.
+* Option **A** -> Too narrow.
+* Main business -> Insurance.
+
+<img width="1688" height="962" alt="image" src="https://github.com/user-attachments/assets/baeb9aa6-4073-4f07-bda2-ea06bb71846d" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
