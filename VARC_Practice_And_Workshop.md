@@ -1716,6 +1716,41 @@
 
 <img width="1686" height="972" alt="image" src="https://github.com/user-attachments/assets/222093ca-03a0-4d12-b8b5-2ec450d49b77" />
 <img width="1720" height="988" alt="image" src="https://github.com/user-attachments/assets/01e7d9ca-1157-4b21-842b-0990d0aacb00" />
+<img width="1405" height="827" alt="image" src="https://github.com/user-attachments/assets/de8d13dc-57ad-48f7-a5aa-c954d5ac2df3" />
+
+* RC3
+
+<img width="1434" height="954" alt="image" src="https://github.com/user-attachments/assets/bb40fcbf-9c49-4252-953b-7e1479d879bb" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Statement is given and then an example is analyzed.
+
+<img width="1430" height="980" alt="image" src="https://github.com/user-attachments/assets/c3617d29-a7ee-4235-bed6-f92b6f882f46" />
+
+* Ans -> Option **D**. [Got Correct]
+
+<img width="1438" height="980" alt="image" src="https://github.com/user-attachments/assets/ca6eefc2-158b-487a-892d-72f638e94cd2" />
+
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1434" height="941" alt="image" src="https://github.com/user-attachments/assets/06dea6a3-5b2d-450e-8a08-b989ec88979b" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1418" height="809" alt="image" src="https://github.com/user-attachments/assets/9f185496-9d1b-41da-9359-df50b60bcb13" />
+
+* Option **D** -> Out of Scope. 
+* Fallen by the wayside -> Fail to achieve the desired effect.  [**MEANING**]
+* substrate -> underline substance.  [**MEANING**]
+* Palatability -> suiting to the palate -> agreeable to the palate or taste. [**MEANING**]
+* Generalization -> General statement.  [**MEANING**]
+* Gloomy -> Sad/mournful/morose.  [**MEANING**]
+* Tentative -> For now it is True but it can change anytime -> susceptible to change.  [**MEANING**]
+* Start from 52mins.
+
 
 
 
