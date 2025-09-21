@@ -1663,21 +1663,59 @@
 <img width="1690" height="978" alt="image" src="https://github.com/user-attachments/assets/bb5c7253-136f-4130-b01c-8415d3506d1f" />
 
 * Ans -> Option **C**. [Correct]
-* 1hr 9mins.
 
+<img width="1692" height="952" alt="image" src="https://github.com/user-attachments/assets/05db26b9-dbbf-4cba-b3b6-ba8221664bca" />
+<img width="1702" height="964" alt="image" src="https://github.com/user-attachments/assets/f88a9f99-4412-4b7b-9400-d456c19f8441" />
+<img width="1738" height="1062" alt="image" src="https://github.com/user-attachments/assets/2fa133f5-0982-459c-9a26-55b0bffb29c5" />
 
+* RC2.
 
+<img width="1738" height="1350" alt="image" src="https://github.com/user-attachments/assets/43697115-f6af-4d23-af38-ef74967380fa" />
 
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
 
+<img width="1752" height="1370" alt="image" src="https://github.com/user-attachments/assets/ee7f5279-da3d-429f-8df9-f56600b28abb" />
 
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
 
+<img width="1730" height="990" alt="image" src="https://github.com/user-attachments/assets/35e32041-fe9d-4985-bfcd-49d9353353a6" />
 
+* Option **C** -> Taxes is not equal to manual labor.
+* Option **D** -> Freely choose is not compulsion. We want compulsion and manual labor.
 
+<img width="1742" height="1370" alt="image" src="https://github.com/user-attachments/assets/b0beabc7-ddcd-48a4-a291-9805de760205" />
 
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
 
+<img width="1728" height="968" alt="image" src="https://github.com/user-attachments/assets/453f20b1-d4be-4361-97bd-1dac05079de8" />
 
+* When wealth is more, individualism is less/decreases.
+* When wealth is less/taken away, individualism is more/increased.
 
+<img width="1750" height="1400" alt="image" src="https://github.com/user-attachments/assets/0341d473-824c-4b95-b04d-ce20f4400c5b" />
 
+* Ans -> Option **A**. [Got Correct]
+* Chattels -> Movable property. [**MEANING**]
+* Obscure -> Masked. [**MEANING**]
+* Encumbering -> Weigh down. [**MEANING**]
+* Trinket -> Owening things. [**MEANING**]
+* Entanglement -> the condition of being deeply involved. [**MEANING**]
+* Authoitarian -> Controlling. [**MEANING**]
+* 4th paragraph => him -> a man not author.
+* tainted -> Stained. [**MEANING**]
+
+<img width="1694" height="958" alt="image" src="https://github.com/user-attachments/assets/f38df00d-4b01-4b4e-b6fe-b0c420de2124" />
+
+* Central Passage -> When wealth is more, individualism is less/decreases.
+* Option **B** -> Byron example -> Too narrow.
+* Option **B** -> Seconday point discussion.
+* Option **C & D** -> Tertiary point discussion.
+
+<img width="1686" height="972" alt="image" src="https://github.com/user-attachments/assets/222093ca-03a0-4d12-b8b5-2ec450d49b77" />
+<img width="1720" height="988" alt="image" src="https://github.com/user-attachments/assets/01e7d9ca-1157-4b21-842b-0990d0aacb00" />
 
 
 
