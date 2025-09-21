@@ -1749,7 +1749,49 @@
 * Generalization -> General statement.  [**MEANING**]
 * Gloomy -> Sad/mournful/morose.  [**MEANING**]
 * Tentative -> For now it is True but it can change anytime -> susceptible to change.  [**MEANING**]
-* Start from 52mins.
+
+<img width="1405" height="809" alt="image" src="https://github.com/user-attachments/assets/3fd1e937-a55b-4c60-b22b-11c8224d2d17" />
+
+* RC4.
+
+<img width="1430" height="915" alt="image" src="https://github.com/user-attachments/assets/6cb3b709-b717-421f-a3a0-82ba3eb11e55" />
+
+* Ans -> Option **B**. [Got Correct]
+
+<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/bcd58e19-45a0-4a15-a828-5ee3c7e8c44b" />
+
+* Option **A** -> Contrast.
+* Option **D** -> True but it's not central. 
+
+<img width="1423" height="909" alt="image" src="https://github.com/user-attachments/assets/95c8c591-e5b6-4025-aeb7-cdca90e34de8" />
+
+* Ans -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1411" height="804" alt="image" src="https://github.com/user-attachments/assets/ea695fc8-65bc-40d8-9a34-18b9a689297e" />
+
+* Option **A, B & D** -> Will happen.
+* Option **C** -> Now.
+
+<img width="1435" height="924" alt="image" src="https://github.com/user-attachments/assets/23f1da52-8f22-4536-9496-f498a89628f5" />
+<img width="1435" height="924" alt="image" src="https://github.com/user-attachments/assets/63efd3b5-654b-44a3-a9a4-f02d94574a82" />
+
+* Ans -> Option **D**. [Got Correct]
+
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/f23c2aa3-07e6-4186-b0a7-66bd1b15aa25" />
+<img width="1433" height="917" alt="image" src="https://github.com/user-attachments/assets/2fa8bf2c-9812-4df1-b254-dc252524e834" />
+
+* Ans -> Option **A**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/0c55ba8c-4dac-43f6-8f4b-716f82016d72" />
+
+* Callous -> unemotional/not sensitive. [**MEANING**]
+* outburst -> a surge of activity or growth. [**MEANING**]
+
+<img width="1422" height="819" alt="image" src="https://github.com/user-attachments/assets/d4215ca0-da16-4c6b-9c27-d69776bd81d5" />
+
+
 
 
 
