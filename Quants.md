@@ -617,6 +617,217 @@
 
 ### Profit Loss (2) (8)
 
+<img width="1434" height="810" alt="image" src="https://github.com/user-attachments/assets/2ff943ed-db64-4d44-913d-7ac01f10215d" />
+<img width="1425" height="803" alt="image" src="https://github.com/user-attachments/assets/fb7b0534-9aad-4fde-88bb-4271000025d1" />
+
+* [Formula] [**VERY IMPORTANT**] 
+
+<img width="1440" height="822" alt="image" src="https://github.com/user-attachments/assets/1936e6ac-240f-4b53-bd35-6adb460b58e1" />
+<img width="775" height="500" alt="image" src="https://github.com/user-attachments/assets/93f7d7ee-a710-4a17-89f6-806d8c113095" />
+<img width="1430" height="808" alt="image" src="https://github.com/user-attachments/assets/38e15acc-8906-421f-9821-95641573c36d" />
+
+* Profit %(P%) is always calculated on the **amount sold(S) or selling** . [**VERY IMPORTANT**] 
+* Profit %(P%) = (P/(Quantity Sold)) * 100. [Formula]
+
+<img width="959" height="568" alt="image" src="https://github.com/user-attachments/assets/cd711851-9510-473c-8bef-d697778d31ae" />
+<img width="1437" height="812" alt="image" src="https://github.com/user-attachments/assets/b2c39be2-05c1-405a-a066-a95ea5b4f8c1" />
+<img width="1430" height="839" alt="image" src="https://github.com/user-attachments/assets/d19377c2-422c-4bfc-8f85-d0434c531d1a" />
+<img width="1431" height="821" alt="image" src="https://github.com/user-attachments/assets/62210876-053c-43bd-abd9-b70034c00bbb" />
+<img width="1423" height="851" alt="image" src="https://github.com/user-attachments/assets/027d80cc-244a-4ae7-828a-506c57ac80ce" />
+<img width="1427" height="832" alt="image" src="https://github.com/user-attachments/assets/8b078c3b-fc87-4356-b5d7-6776bcf91929" />
+<img width="1433" height="824" alt="image" src="https://github.com/user-attachments/assets/415ebb91-0257-4bfb-acd2-c3828944def0" />
+<img width="1438" height="846" alt="image" src="https://github.com/user-attachments/assets/dd64d9e6-68ea-400b-9643-c58797998f1a" />
+
+* Profit % of shopkeeper.
+* Loss % of Customer.
+* Receiving End -> Customer -> Loss.
+
+<img width="1422" height="786" alt="image" src="https://github.com/user-attachments/assets/e7bcbe93-0d09-472a-9e76-6dd6a0345489" />
+<img width="1439" height="821" alt="image" src="https://github.com/user-attachments/assets/2abcf4e4-9218-422d-92f6-d7105920c606" />
+
+* Customer loss % -> (100/1000) * 100 -> 10% loss.
+
+<img width="1398" height="799" alt="image" src="https://github.com/user-attachments/assets/057c9f7c-09c4-4e65-a754-c57433509ca1" />
+
+* 100% -> Double.
+
+<img width="1405" height="811" alt="image" src="https://github.com/user-attachments/assets/ce5682ba-b36c-4733-b911-043399ad8b1d" />
+<img width="1434" height="829" alt="image" src="https://github.com/user-attachments/assets/ca18a4af-20cb-471f-a454-64bf228b1c02" />
+<img width="1430" height="833" alt="image" src="https://github.com/user-attachments/assets/73d9f441-1884-4b4d-97e6-0ec684103f21" />
+
+* 20% less -> 1/5 less.
+
+<img width="1426" height="793" alt="image" src="https://github.com/user-attachments/assets/0828754e-3649-4e12-b5ae-ac66e114d419" />
+<img width="1431" height="816" alt="image" src="https://github.com/user-attachments/assets/6df2aecd-604f-4ebe-b3ae-1e119fcf75b5" />
+<img width="1426" height="814" alt="image" src="https://github.com/user-attachments/assets/4110c0c7-969e-4ff6-9973-28a144fc5a84" />
+
+* 1/4 increase => MF -> 1 + 1/4 -> 5/4.
+* 1/5 increase => MF -> 1 + 1/5 -> 6/5.
+
+<img width="1426" height="829" alt="image" src="https://github.com/user-attachments/assets/51fa3d2e-25f2-4f2c-a9f4-4e4d7c2afd84" />
+<img width="1416" height="805" alt="image" src="https://github.com/user-attachments/assets/4f143c58-b6c9-4792-9887-4d6cc4e7794a" />
+<img width="1434" height="816" alt="image" src="https://github.com/user-attachments/assets/5d3b763b-6745-42ed-9b23-fa7c3e7a3896" />
+<img width="1402" height="800" alt="image" src="https://github.com/user-attachments/assets/b5f4bd5b-411b-47d6-b908-3622ec299c68" />
+
+* 25% increase -> 1/4 increase => MF -> 1 + 1/4 -> 5/4.
+* 12.5% -> 1/8
+* 1/8 loss of customer but we need to calculate it for the shopkeeper.
+* 1/8 decrease -> 1/7 increase.
+* MF of 1/7 increase -> 1 + 1/7 -> 8/7
+
+<img width="1396" height="807" alt="image" src="https://github.com/user-attachments/assets/d492c5bd-9024-4878-afe8-a2320b8c5b9a" />
+<img width="1419" height="799" alt="image" src="https://github.com/user-attachments/assets/d7e12b4e-f349-493c-a1fd-6e721f42d6a3" />
+
+* 30% loss of customer but we are calculating for shopkeeper.
+* 30% decrease -> 3/10 decrease -> 3/7 increase
+
+<img width="1437" height="823" alt="image" src="https://github.com/user-attachments/assets/c19f255c-1b9f-4221-9e06-8f81633c4ec6" />
+<img width="1396" height="809" alt="image" src="https://github.com/user-attachments/assets/98d4aab4-4c1c-4d5e-81c3-f00cdfde9d91" />
+
+* MF of 3/7 increase -> 1 + 3/7 -> 10/7
+
+<img width="1426" height="822" alt="image" src="https://github.com/user-attachments/assets/3c7e2a06-3360-4ced-a45d-f7d686925898" />
+<img width="1433" height="801" alt="image" src="https://github.com/user-attachments/assets/4efbbb9c-d159-46af-9853-492afe629dd3" />
+<img width="1437" height="831" alt="image" src="https://github.com/user-attachments/assets/2645ede2-6fb1-450c-af82-e2bc6b5c148e" />
+
+* Free -> Loss. [**VERY IMPORTANT**] 
+* Marks up -> Profit. [**VERY IMPORTANT**]
+* Total -> 3 + 8 = 11.
+* Loss -> 3/11.
+* MF of 3/11 decrease -> 1 - 3/11 -> 8/11
+* 16.66% increase -> 1/6 increase.
+* MF of 1/6 increase -> 1 + 1/6 -> 7/6
+* Loss => CP > SP -> 33 > 28.
+
+<img width="1433" height="797" alt="image" src="https://github.com/user-attachments/assets/6c750a52-e4e7-4181-8899-45dc9ba51da1" />
+<img width="1439" height="821" alt="image" src="https://github.com/user-attachments/assets/bfc9903d-7be7-4313-bcbf-fe762bc17567" />
+
+* On selling 11 items, the shopkeeper beared a loss of 3 items.
+
+<img width="1438" height="826" alt="image" src="https://github.com/user-attachments/assets/f0ef973a-208e-4b48-91b3-b0eb788f58cb" />
+<img width="1424" height="918" alt="image" src="https://github.com/user-attachments/assets/31d93336-f07c-48a8-ae28-0127586265b8" />
+<img width="1431" height="830" alt="image" src="https://github.com/user-attachments/assets/4fad311c-cf8f-4de6-b832-de4c3730bf2e" />
+<img width="1429" height="831" alt="image" src="https://github.com/user-attachments/assets/8405bc1e-608d-47c5-82d7-e01aa652838a" />
+<img width="1435" height="813" alt="image" src="https://github.com/user-attachments/assets/66f740ec-b8d5-4561-8ba5-31f61d502ccc" />
+
+* Shopkeeper got the discount. Money was received by wholeseller.
+* 12.5% discount -> 1/8 discount -> 1/7 increase for shopkeeper.
+* MF of  1/7 increase -> 1 + 1/7 -> 8/7
+
+<img width="1428" height="808" alt="image" src="https://github.com/user-attachments/assets/17f9a507-f90c-4575-aa7f-046e797e8600" />
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/5dd2516a-f055-4620-bba5-a53523470fb4" />
+<img width="1398" height="807" alt="image" src="https://github.com/user-attachments/assets/3202125e-1e68-424f-b530-dc712800358d" />
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/5539f8b7-a4bc-4033-bafe-9f3136097afe" />
+<img width="1429" height="812" alt="image" src="https://github.com/user-attachments/assets/f78707bc-89c2-480a-8d41-da1fe373fe0a" />
+
+* 10% loss -> 1/10 loss
+* MF of 1/10 loss -> 1 - 1/10 -> 9/10.
+
+<img width="1413" height="803" alt="image" src="https://github.com/user-attachments/assets/a32ddd28-b7c3-4798-9cfb-4c0fcad57595" />
+<img width="961" height="384" alt="image" src="https://github.com/user-attachments/assets/6ef4aa33-02f1-481b-bf09-cfc78cce1500" />
+
+* 10% profit -> 1/10 profit
+* MF of 1/10 profit -> 1 + 1/10 -> 11/10.
+
+<img width="1419" height="821" alt="image" src="https://github.com/user-attachments/assets/d9ea2d7e-c490-46cf-bbee-c05847e21748" />
+
+* 100/15 -> 6.666%.
+* 6.666% -> 1/15.
+* MF of 1/15 loss -> 1 - 1/15 -> 14/15.
+
+<img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/cfea3e91-e1d3-4aff-bced-301b4a3b7d10" />
+
+* Loss -> 100/1100g -> 1/11
+* Quantity Sold -> 1100g
+* MF of 1/11 loss -> 1 - 1/11 -> 10/11.
+
+<img width="1418" height="810" alt="image" src="https://github.com/user-attachments/assets/359fde7d-474e-4e05-bd95-411b349bc627" />
+<img width="1399" height="796" alt="image" src="https://github.com/user-attachments/assets/85afae14-c33d-4011-a157-43b9d67b7614" />
+<img width="1409" height="921" alt="image" src="https://github.com/user-attachments/assets/aaf1a24d-d203-4ccc-bb2e-45dba72cd41a" />
+
+* MF of 3/5 profit -> 1 + 3/5 -> 8/5.
+* 12.5% loss -> 1/8 loss
+* MF of 1/8 loss -> 1 - 1/8 -> 7/8.
+
+<img width="1413" height="820" alt="image" src="https://github.com/user-attachments/assets/6946691f-052a-42d3-9d62-26152c015fe9" />
+<img width="766" height="410" alt="image" src="https://github.com/user-attachments/assets/d12ecdfa-08bd-467b-a1f1-7fe2f3a842af" />
+
+* Cheats -> Profit for shopkeeper.
+* 28.56% Profit -> 2 * 1/7 -> 2/7 Profit
+* 1/7 -> 14.28%
+* MF of 2/7 profit -> 1 + 2/7 -> 9/7.
+
+<img width="1412" height="811" alt="image" src="https://github.com/user-attachments/assets/9ddc40bc-38a9-43d8-a0b6-e4a674743175" />
+<img width="1376" height="793" alt="image" src="https://github.com/user-attachments/assets/902fc9d9-cdb0-47ca-bb9a-6ede54a78b8a" />
+
+* 6.25% -> 1/16
+* 18.75 -> 3 * 1/16 -> 3/16.
+* 3/16 loss for customer -> 3/13 profit for shopkeeper. 
+
+<img width="1401" height="803" alt="image" src="https://github.com/user-attachments/assets/ee1a36a5-405b-4b04-86fc-236e19cb94c2" />
+<img width="1399" height="801" alt="image" src="https://github.com/user-attachments/assets/e6c447d6-bd31-4e23-9df0-277b3e36ff2f" />
+
+* MF of 3/13 profit -> 1 + 3/13 -> 16/13.
+* Total article given -> 2 + 18 -> 20.
+* Loss -> 1/10
+* MF of 1/0 loss -> 1 - 1/10 -> 9/10.
+
+<img width="1408" height="827" alt="image" src="https://github.com/user-attachments/assets/a96cb081-ee02-48cc-a47b-31d1a3aeec75" />
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/e3734013-7bb4-427a-a19d-d24782d7f7d8" />
+<img width="1410" height="932" alt="image" src="https://github.com/user-attachments/assets/1e2c5f01-2638-4c3f-9f21-27f97a655be6" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1427" height="813" alt="image" src="https://github.com/user-attachments/assets/444c4f78-8858-45a9-89e7-11b02ea6aaee" />
+<img width="575" height="351" alt="image" src="https://github.com/user-attachments/assets/82aafafe-010d-4285-bdb8-c70da9d32dd8" />
+
+* 1/10 loss for customer -> 1/9 profit for shopkeeper.
+
+<img width="684" height="375" alt="image" src="https://github.com/user-attachments/assets/da8608e1-c892-4943-b088-6f9f92769b56" />
+
+* MF of 1/9 profit -> 1 + 1/9 -> 10/9.
+* Expands -> Loss for shopkeeper -> Profit for customer.
+
+<img width="1133" height="807" alt="image" src="https://github.com/user-attachments/assets/644cfd50-3077-42b8-b930-793a595642f7" />
+
+* 20% -> 1/5
+* 1/5 profit for customer -> 1/6 loss for shopkeeper.
+
+<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/b7e91038-a1d4-42c2-b679-7761dc8c4b12" />
+
+* MF of 1/6 loss -> 1 - 1/6 -> 5/6.
+
+<img width="1413" height="802" alt="image" src="https://github.com/user-attachments/assets/a6c784a5-9675-48d9-969a-3434c9ef6a6e" />
+
+* MF of 1/10 profit -> 1 + 1/10 -> 11/10.
+* MF of 1/5 loss -> 1 - 1/5 -> 4/5.
+
+<img width="1394" height="792" alt="image" src="https://github.com/user-attachments/assets/a56e947e-c55a-4b17-b5ca-798772f80c61" />
+<img width="1427" height="795" alt="image" src="https://github.com/user-attachments/assets/7e90c3da-41f6-42b5-bdae-9f47a8ff7b2a" />
+<img width="689" height="571" alt="image" src="https://github.com/user-attachments/assets/13fa6701-f779-45b5-8eb8-b54b2a95b754" />
+<img width="1110" height="726" alt="image" src="https://github.com/user-attachments/assets/423fa854-f461-4a66-937c-174527c61930" />
+
+* [**VERY IMPORTANT**]
+
+### Profit Loss (3) (9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
