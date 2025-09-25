@@ -479,38 +479,105 @@
 * is -> verb
 * rich -> adjective.
 
+<img width="1427" height="820" alt="image" src="https://github.com/user-attachments/assets/b6c2733e-00d3-48a7-b0b3-3a5f5992167b" />
 
+* Unexpected -> It is an **Adjective** but it looks like a **verb**.
 
+<img width="1430" height="808" alt="image" src="https://github.com/user-attachments/assets/6a350f81-171c-4601-a2bd-8d9079842321" />
+<img width="1425" height="813" alt="image" src="https://github.com/user-attachments/assets/99c8e0f1-9d39-4a34-90d7-389604cb1ace" />
 
+* Broken -> It is an **Adjective** but it looks like a **verb**.
+* Historic -> Adjective.
+* Beauty -> Noun.
+* Beautiful -> Adjective.
+* Adverbs don't qualify **nouns**, adjectives qualify **nouns**.   [**VERY IMPORTANT**]
 
+<img width="1408" height="832" alt="image" src="https://github.com/user-attachments/assets/9f9a2fb7-8e82-4969-8b55-8fe4998d2a1e" />
 
+* Adverbs don't modify **nouns**. [**VERY IMPORTANT**]
+* Adjectives modify only **nouns and pronouns**.  [**VERY IMPORTANT**]
+* Modify -> Qualify. 
+* Adverbs modify verbs, adjectives and other adverbs. [**VERY IMPORTANT**]
 
+<img width="1404" height="809" alt="image" src="https://github.com/user-attachments/assets/6395041e-fbaa-4c52-90db-26a3af9a46dc" />
+<img width="1430" height="810" alt="image" src="https://github.com/user-attachments/assets/15599dd8-7a21-4fd8-bfe0-fcf2d73281d3" />
 
+* I -> Subject
+* am -> verb
+* married -> adjective.
 
+<img width="1436" height="825" alt="image" src="https://github.com/user-attachments/assets/e8daaf99-cbec-4511-afb2-4869b4b1d544" />
 
+* happily -> adverb.
+* married -> adjective.
 
+<img width="1404" height="803" alt="image" src="https://github.com/user-attachments/assets/83245774-23d4-4179-ba3a-348ef321e378" />
 
+* She is intelligent.
+ * She is very intelligent.
+ * She is also intelligent.
+ * She is unusually intelligent.
 
+<img width="1426" height="816" alt="image" src="https://github.com/user-attachments/assets/0ac13406-24d7-46b0-92a9-4dbcd47bdfb4" />
+<img width="1415" height="828" alt="image" src="https://github.com/user-attachments/assets/ef620a2c-550f-41e6-bd0d-bae75b522ed5" />
 
+*  Unusual -> Adjective
+*  unusually -> Adverb.
+*  unusually -> Adverb -> Modifying the adjective.
+*  Adverb is modifying the adjective.
+*  Very/also is modifying the adjective which is intelligent.
+*  I did not like her unusual behaviour.
+*  Unusual -> Adjective
+*  behaviour -> noun.
 
+<img width="1418" height="800" alt="image" src="https://github.com/user-attachments/assets/466fe617-f44b-41f1-8b83-9666e68499e1" />
 
+*  Adverb modify adjectives.
+*  Adverbs modify verbs.
 
+* 2 -> fast -> adverb.
+* 3 -> fast -> adjective.
 
+<img width="1430" height="813" alt="image" src="https://github.com/user-attachments/assets/88c102d4-c907-478d-ac25-21270adaa132" />
 
+* Slowly -> adverb.
 
+<img width="1421" height="813" alt="image" src="https://github.com/user-attachments/assets/ea01b9a1-f99c-46fb-91c6-1828c4df9309" />
+<img width="1429" height="825" alt="image" src="https://github.com/user-attachments/assets/67346e24-2c3b-4c45-abe7-9e7b6bf21f19" />
 
+* sold my -> Profitable.
+* sold off -> The car was a liability
 
+<img width="1425" height="821" alt="image" src="https://github.com/user-attachments/assets/67ca998d-4d3a-4e68-b016-d3391d134aa3" />
+<img width="1418" height="808" alt="image" src="https://github.com/user-attachments/assets/bd5594cd-49e9-494b-83b9-3d90d00316da" />
 
+* Phrasal verbs -> Proper understanding of prepositions.
+* Prepositions can come as Phrasal verbs. 
+* Stand by -> support.
+* stands for -> Symbolizes.
+* stand out -> separated.
 
+<img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/05c3e39e-e271-4097-b544-66b33d0aa09b" />
 
+* Interjections -> Hmm, Ok, Oh!, aah!, alas!
+* Ok -> agreement.
+* Oh -> Unpleasant Suprise.
+* aah -> Suprised.
+* alas -> Sadness.
 
+<img width="1404" height="786" alt="image" src="https://github.com/user-attachments/assets/afdf02c9-90bb-434f-a5d5-936b161ec226" />
+<img width="1408" height="780" alt="image" src="https://github.com/user-attachments/assets/819ff622-e0d3-4b96-b514-754683cffab5" />
 
+* 1 -> well -> adjective -> .
+* 2 -> well -> adverb -> 
+* 3 -> well -> noun -> 
+* 4 -> well -> Interjection -> Mild suprise.
+* quite -> adverb..
 
+<img width="1413" height="783" alt="image" src="https://github.com/user-attachments/assets/4ace9520-064b-40f8-9bbe-e6fc154375c9" />
+<img width="1397" height="798" alt="image" src="https://github.com/user-attachments/assets/7dc2b207-816e-43b3-a010-1d9fba4b3b44" />
 
-
-
-
-
+### Verb and it's types (2) [3]
 
 
 
