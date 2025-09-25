@@ -471,8 +471,13 @@
 * Noun -> Putting article **"the"** before the noun. [**VERY IMPORTANT**]
 * Pronoun -> After **Noun**, **pronouns** come. [**VERY IMPORTANT**]
 * Verb -> Changing the tense of the sentence. [**VERY IMPORTANT**]
-* Start from 40mins.
+* How to identify a **adjectives and adverbs**. [**VERY IMPORTANT**]
+  * Adjectives modify **nouns and pronouns** only.
+  * **Adjective** can be identified if you put the **noun** person before it(Adjective).
 
+* She -> Pronoun
+* is -> verb
+* rich -> adjective.
 
 
 
