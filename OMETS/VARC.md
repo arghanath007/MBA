@@ -2,8 +2,7 @@
 
 ## Next Class
 
-<img width="798" height="345" alt="image" src="https://github.com/user-attachments/assets/5e1186fe-4336-43eb-9749-f2f2864e68de" />
-
+<img width="772" height="342" alt="image" src="https://github.com/user-attachments/assets/afdfafa1-2954-4fd2-a3c8-7e78c7fe6c41" />
 
 ## Study Prep/Routine
 
@@ -578,6 +577,171 @@
 <img width="1397" height="798" alt="image" src="https://github.com/user-attachments/assets/7dc2b207-816e-43b3-a010-1d9fba4b3b44" />
 
 ### Verb and it's types (2) [3]
+
+<img width="596" height="261" alt="image" src="https://github.com/user-attachments/assets/f739ff5b-42a3-420b-b3e8-d06e05f6771f" />
+<img width="1096" height="824" alt="image" src="https://github.com/user-attachments/assets/c55119dc-ad15-401e-b857-58a5fd25fca7" />
+
+* 1 -> Option **B**. [Got Correct]
+
+<img width="452" height="267" alt="image" src="https://github.com/user-attachments/assets/55e91a79-4384-4333-baaf-b2236e8f4904" />
+
+* Spoke -> Verb.
+* Kindly -> adverb.
+* He -> Pronoun.
+* Kind -> Adjective.
+
+<img width="1070" height="819" alt="image" src="https://github.com/user-attachments/assets/1fc2bac3-6815-412e-92fc-786ecfb8e60c" />
+<img width="1422" height="930" alt="image" src="https://github.com/user-attachments/assets/53cdaac4-b567-4926-abb4-fd8ab621fd14" />
+
+* 2 -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+* Round ->  Adjective.
+
+<img width="1410" height="924" alt="image" src="https://github.com/user-attachments/assets/3104f0b0-228c-467e-b3ac-8073a90c8666" />
+
+* 3 -> Option **A**. [Got Correct]
+* Amazing -> Adjective.
+* Performance -> Noun.
+* To perform -> Verb
+* the performance -> Noun.
+
+<img width="1081" height="804" alt="image" src="https://github.com/user-attachments/assets/a668178c-6be7-4905-b63c-0f06d0bf07b0" />
+
+* Performing -> Adjective.
+* tast -> Noun.
+* performable -> adjective.
+
+<img width="1113" height="826" alt="image" src="https://github.com/user-attachments/assets/4bf08db7-39c9-48e6-ab90-ec1cde558427" />
+<img width="1425" height="811" alt="image" src="https://github.com/user-attachments/assets/2c7cd276-52e5-4103-82c2-5dad1b132118" />
+
+* 1 -> pens -> Noun.
+* 2 -> pens -> Noun.
+* 3 -> pens -> Noun.
+* 4 -> pens -> Noun.
+* Anything that comes before a **noun** is an **adjective**.
+* 2 -> blue -> adjective.
+* 3 -> many/few/same -> adjective.
+* 4 -> the -> adjective.
+
+<img width="1420" height="811" alt="image" src="https://github.com/user-attachments/assets/ee2a1f21-deb0-4b35-83ba-6c5922203736" />
+
+* a -> adjective.
+
+<img width="1436" height="807" alt="image" src="https://github.com/user-attachments/assets/94b65432-060b-413f-9fd2-e806dc1347ec" />
+<img width="1411" height="784" alt="image" src="https://github.com/user-attachments/assets/8fa3c458-b44a-4435-ad14-29218fbdb3dc" />
+<img width="1411" height="784" alt="image" src="https://github.com/user-attachments/assets/d60d1590-2389-4819-8890-b671243d41f8" />
+<img width="1415" height="839" alt="image" src="https://github.com/user-attachments/assets/e9dd0e33-cb76-4fcf-9be3-e78a56e3116f" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1408" height="792" alt="image" src="https://github.com/user-attachments/assets/07b2cd44-ad02-43a1-9bf9-6a6920789dbd" />
+<img width="1423" height="817" alt="image" src="https://github.com/user-attachments/assets/fbf4aafc-81aa-49d5-9418-ff632229113b" />
+<img width="1408" height="814" alt="image" src="https://github.com/user-attachments/assets/21674c60-e50c-45ac-b025-6f90c7c6ebf1" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1416" height="827" alt="image" src="https://github.com/user-attachments/assets/3ee9ee80-6b91-42ee-b7d4-a06a101fe42f" />
+<img width="1863" height="915" alt="image" src="https://github.com/user-attachments/assets/c4d6bd2e-b44b-4e41-8d63-6a76f1de07ec" />
+<img width="1400" height="929" alt="image" src="https://github.com/user-attachments/assets/bbfbbaec-0ff0-4d09-a32c-e3d987cfea0f" />
+
+* 4 -> Option **B**. [Got Correct]
+* A -> The light -> Noun.
+* B -> Lighted -> Action
+* C -> Light -> Adjective.
+* 4 -> very light -> Adjective.
+
+<img width="1078" height="821" alt="image" src="https://github.com/user-attachments/assets/538896d9-8c56-4564-9808-26649fb30535" />
+
+* to run -> verb.
+* the run -> noun.
+* Start from 31mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
