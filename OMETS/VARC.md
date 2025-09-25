@@ -327,6 +327,262 @@
 
 ### Parts Of Speech (1) [2]
 
+<img width="1406" height="833" alt="image" src="https://github.com/user-attachments/assets/b6a557ba-7b46-454e-87b0-2f2182dd2690" />
+<img width="1400" height="816" alt="image" src="https://github.com/user-attachments/assets/5cc9cf79-4af5-4079-80e5-6d0a083a9584" />
+
+* SYLLABUS. [**VERY IMPORTANT**]
+
+#### Parts Of Speech
+
+<img width="1436" height="812" alt="image" src="https://github.com/user-attachments/assets/031cf37d-de4f-4ccd-9c09-58f786259ba1" />
+
+* Delhi, capital, India -> Noun.
+* the -> Article.
+* is -> verb
+* of -> preposition.
+
+<img width="1420" height="824" alt="image" src="https://github.com/user-attachments/assets/38437594-a213-496f-a7f1-cd8233b816ce" />
+<img width="1413" height="831" alt="image" src="https://github.com/user-attachments/assets/ab21fea8-37aa-4318-9031-45a7f46cb939" />
+<img width="1417" height="864" alt="image" src="https://github.com/user-attachments/assets/32049e78-d378-444f-a9a9-56a9cb1e5eaf" />
+
+* The word **"but"** is not having the same function in all of the 3 sentences.
+
+<img width="1425" height="828" alt="image" src="https://github.com/user-attachments/assets/3e04bbb6-3409-4bdb-9791-e0cdd7bc6f4b" />
+
+1) but -> Conjunction -> this is Conjunction only.
+2) but -> except -> preposition.
+3) but-> only -> adverb.
+
+<img width="1430" height="845" alt="image" src="https://github.com/user-attachments/assets/9760aa78-591f-40cf-ac68-f4909f6c6514" />
+<img width="1439" height="840" alt="image" src="https://github.com/user-attachments/assets/9968a080-c9cc-4850-ae1d-02a1c70f8f71" />
+
+* The word meaning is depending on the role/function it plays in the sentence. [**VERY IMPORTANT**]
+* noun(n)
+* verb(v)
+* adjective(adj)  
+
+<img width="1435" height="820" alt="image" src="https://github.com/user-attachments/assets/b60e0bac-bbe6-4d62-8e1d-bcfadd71a29c" />
+
+* Noun -> President.
+* Verb -> Prime-Minister.
+
+<img width="1408" height="829" alt="image" src="https://github.com/user-attachments/assets/c865c67a-c04c-477e-93c0-8499a472f2de" />
+<img width="1424" height="829" alt="image" src="https://github.com/user-attachments/assets/a6275668-da28-4245-8c62-377c68f79d02" />
+
+*  [**VERY IMPORTANT**]
+*  Verb:-
+
+1) Subject Verb Agreement(SVA)
+2) Tenses
+3) Active/Passive Voice, Direct/Indirect Speech.
+
+* Adjective/Adverb -> Modifiers.
+* Preposition -> Shows relationship.
+* Conjunction -> Joining.
+* Adjective > Noun > Verb > Adverb.  [**VERY IMPORTANT**]
+
+<img width="1426" height="831" alt="image" src="https://github.com/user-attachments/assets/f2c345d6-13d0-46d6-a159-7efa38ebd111" />
+<img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/7d7cf6c1-5ae7-42bd-9147-5c3d6dc51800" />
+<img width="1426" height="824" alt="image" src="https://github.com/user-attachments/assets/6f0df7f3-7058-4c03-bb28-0fb3f6b7c46e" />
+
+* **Beauty** can be written as:-
+
+1) Beauty -> Noun.
+2) Beautifully -> Adverb.
+3) Beautiful -> Adjective.
+4) Beautify -> Verb.
+
+<img width="1438" height="841" alt="image" src="https://github.com/user-attachments/assets/89baf6b3-27db-4ebb-af18-d56d7907afa3" />
+<img width="1427" height="818" alt="image" src="https://github.com/user-attachments/assets/8668cc9d-2cf9-491a-a92d-c2b5624c4b93" />
+<img width="1424" height="861" alt="image" src="https://github.com/user-attachments/assets/85843666-c26f-4957-8f7c-ebdd56730704" />
+
+* Organization -> Noun.
+* Verb -> To organize.
+* Adjective -> Organized.  
+
+* Verb -> Add **to**.
+* Adjective -> Add **person** before it.
+* Honest organized person -> Participle.
+
+<img width="1414" height="827" alt="image" src="https://github.com/user-attachments/assets/28994454-4932-455c-b033-0b2404f48fe0" />
+<img width="1428" height="819" alt="image" src="https://github.com/user-attachments/assets/d5e985dd-9b78-4cfd-8576-475cfa00f284" />
+<img width="1431" height="812" alt="image" src="https://github.com/user-attachments/assets/94b4f051-0193-49ef-a45d-376464e6a116" />
+
+* They can interchange between each other.
+* Importance of Noun -> The noun strikes you hard.
+* To understand/build the central idea -> **NOUN** is needed/used -> mainly the **Proper noun and Common Noun**.
+* Main idea always revolves around the **Proper noun**.
+* ParaSummary(PS) -> Theme word -> Main idea -> Proper Noun.
+
+<img width="1406" height="816" alt="image" src="https://github.com/user-attachments/assets/a8d43e5f-8f31-41f2-ba82-eb14b302cdca" />
+<img width="1422" height="813" alt="image" src="https://github.com/user-attachments/assets/a474968d-d055-4283-98b0-529592b57770" />
+
+* Nouns -> Proper Noun -> **VERY VERY IMPORTANT**.
+* How to identify a **noun**. [**VERY IMPORTANT**]
+  * Nouns takes **articles** -> a, an, the.
+  * Identify a **noun**, by adding **"the"** to it. **"The"** will come before the **noun**. [Example Below]
+    * a -> If it is countable noun.
+    * an -> a, e, i, o, u.
+    * the -> All nouns, can be countable, uncountable nouns.
+* How to identify a **Pronoun**. [**VERY IMPORTANT**]
+  * It is a replacement for the **noun**.
+
+<img width="1415" height="809" alt="image" src="https://github.com/user-attachments/assets/710f8ed3-9785-4202-8ed7-211d55724ee2" />
+
+* A beauty -> Person.
+* The beauty -> Noun
+* Uncountable Nouns -> The water, The sky, The boy, The pen, a pen, an apple.
+* A bottle of Whiskey.
+* The whiskey looks expensive.
+
+<img width="1405" height="797" alt="image" src="https://github.com/user-attachments/assets/118f86f9-89a1-4112-a8a8-3afa2fed58c5" />
+<img width="1419" height="803" alt="image" src="https://github.com/user-attachments/assets/1a299db3-8414-47fe-a692-f6c94fda2dea" />
+<img width="985" height="501" alt="image" src="https://github.com/user-attachments/assets/79e8a397-53a2-4141-9b45-42157921c925" />
+<img width="1057" height="535" alt="image" src="https://github.com/user-attachments/assets/f63e4c8d-5bcd-4912-8c88-87f56ea5f8f1" />
+
+* **"The"** looks good when we put a **noun**. Without **noun**, **"the"** doesn't make any sense. [**VERY IMPORTANT**]
+* beautifully -> adverb.
+* beauty -> noun.
+*  **"The"** goes well before a **noun**. [**VERY IMPORTANT**]
+
+<img width="1434" height="797" alt="image" src="https://github.com/user-attachments/assets/c9a837b2-150d-4aee-a1e5-22a31925ef48" />
+
+* Noun -> Pronoun.
+* After **Noun**, **pronouns** come.
+
+<img width="1417" height="814" alt="image" src="https://github.com/user-attachments/assets/261d43c6-8db1-491f-a813-fafcdca83cc2" />
+
+* How to identify a **verb**. [**VERY IMPORTANT**]
+  * to, tense.
+  * To identify a **verb**, change the **tense** of the sentence. [Example Below]
+
+<img width="1425" height="824" alt="image" src="https://github.com/user-attachments/assets/06abfde4-bd1e-4d64-b196-3dcb966cf9d1" />
+<img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/7bec703e-b0e2-44fc-9605-5b89d95e43f9" />
+<img width="1436" height="833" alt="image" src="https://github.com/user-attachments/assets/06184062-12de-4de1-8a8c-ab7a45220864" />
+
+* Verb -> Want, wanted. [**VERY IMPORTANT**]
+* Not verb -> Looks/acts like a verb -> to forget.
+
+<img width="1426" height="829" alt="image" src="https://github.com/user-attachments/assets/7e64f27c-d12b-4838-8282-d4bdcc869a0b" />
+<img width="1409" height="824" alt="image" src="https://github.com/user-attachments/assets/457e74a6-e27b-4745-adfb-58e33a02f7c2" />
+<img width="1423" height="820" alt="image" src="https://github.com/user-attachments/assets/37538e8a-6120-4da1-a713-7739649c5b22" />
+
+* Identify:- [**VERY IMPORTANT**]
+* Noun -> Putting article **"the"** before the noun. [**VERY IMPORTANT**]
+* Pronoun -> After **Noun**, **pronouns** come. [**VERY IMPORTANT**]
+* Verb -> Changing the tense of the sentence. [**VERY IMPORTANT**]
+* Start from 40mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
