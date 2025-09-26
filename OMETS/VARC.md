@@ -1,8 +1,10 @@
-# VARC
+<img width="1283" height="830" alt="image" src="https://github.com/user-attachments/assets/646090e2-dad7-4e8e-818b-b3d4ebc7ae2e" /><img width="1051" height="793" alt="image" src="https://github.com/user-attachments/assets/055491b7-c743-4edd-bac6-0af6e1808299" /># VARC
 
 ## Next Class
 
-<img width="772" height="342" alt="image" src="https://github.com/user-attachments/assets/afdfafa1-2954-4fd2-a3c8-7e78c7fe6c41" />
+<img width="728" height="369" alt="image" src="https://github.com/user-attachments/assets/d84c412b-5905-4218-a7eb-64c7de35809f" />
+
+* 28th Aug.
 
 ## Study Prep/Routine
 
@@ -304,7 +306,7 @@
 
 * [**VERY IMPORTANT**]
 
-
+### Vocab Practice (2) [4]
 
 
 
@@ -654,7 +656,411 @@
 
 * to run -> verb.
 * the run -> noun.
-* Start from 31mins.
+
+<img width="1045" height="790" alt="image" src="https://github.com/user-attachments/assets/5c9534cb-298b-4b1f-93a2-8ff6d74e5621" />
+<img width="1046" height="794" alt="image" src="https://github.com/user-attachments/assets/00102a8a-405d-4578-8b4e-ad61c5e0d936" />
+<img width="329" height="74" alt="image" src="https://github.com/user-attachments/assets/c8834287-1267-431a-9c2a-9a6c2ca2951b" />
+
+* Yes.
+* Tense -> When the **word** is used a sentence, we use **tenses** to check if it is a **verd** or not.
+* to -> Single word or no sentence -> Add **to** to it to check if it is a **verd** or not.
+
+<img width="1429" height="936" alt="image" src="https://github.com/user-attachments/assets/82c07c8a-226b-4852-a4d6-0a3e7d9dc53b" />
+
+* 5 -> Option **B**. [Wrong]
+* Option **C**. [Correct]
+* Sir marked the **wrong answer**.
+* A -> fast -> verb -> They fasted
+* B -> fast -> adverb.
+* runs -> verb.
+* C -> fast -> Adjective.
+* D -> fast -> infinitive.
+
+<img width="1048" height="790" alt="image" src="https://github.com/user-attachments/assets/94f8560e-aea8-47c8-a309-bdfb3a43e9d7" />
+<img width="1051" height="793" alt="image" src="https://github.com/user-attachments/assets/6db5914a-5b06-46dd-b1d2-fa75e04cfc10" />
+
+* B -> What is fast? -> run is fast
+* running -> action.
+* fast -> adverb.
+* He is fast
+  * fast -> adjective.
+
+<img width="1074" height="808" alt="image" src="https://github.com/user-attachments/assets/e9a733b9-a8f6-4f35-9802-1468a58ce237" />
+<img width="1071" height="812" alt="image" src="https://github.com/user-attachments/assets/e3b6f2d5-90f0-4b1a-9a9d-d4580bb0393d" />
+
+* Car -> Noun.
+* fast/slow/beautiful -> Adjectives.
+
+<img width="1082" height="824" alt="image" src="https://github.com/user-attachments/assets/00b8ff40-a6e6-49e5-98f1-ef30ea9d5e21" />
+
+* **Adverb** always modifies a **verb or an adjectives or another adverb**.
+* He runs fast -> He is **running** fast -> **running** fast.
+* fast -> verb
+* runs -> adverb.
+
+<img width="1441" height="932" alt="image" src="https://github.com/user-attachments/assets/93256624-c003-412f-a0a1-36def7fdb7c6" />
+
+* 6 -> Option **C**. [Got Correct]
+
+<img width="1390" height="927" alt="image" src="https://github.com/user-attachments/assets/061c058b-cb9f-41c4-92f1-3bce6baf6c3b" />
+
+* beautifully -> Adverb.
+* sings -> verb.
+* She is very beautiful.
+  * beautiful -> adjective.
+  * she -> Pronoun.
+
+<img width="1149" height="824" alt="image" src="https://github.com/user-attachments/assets/62ef4197-d73d-4116-b01b-3eafac5b0846" />
+<img width="1283" height="830" alt="image" src="https://github.com/user-attachments/assets/8405b252-37c5-4da8-a098-a0103348eda1" />
+<img width="1095" height="830" alt="image" src="https://github.com/user-attachments/assets/1cd2b35f-037b-41bb-b251-4240559081c3" />
+<img width="1425" height="921" alt="image" src="https://github.com/user-attachments/assets/0b4aeabd-fcf6-4b48-990a-bd5fc123ac29" />
+
+* 7 -> Option **C**. [Got Correct]
+* Silent John walked silently. [**VERY IMPORTANT**]
+* John -> Noun
+* Silent -> Adjective
+* walked -> verb
+* silently -> Adverb.
+
+<img width="1085" height="815" alt="image" src="https://github.com/user-attachments/assets/a9de48cc-8eb2-45d4-bad0-9f37e9b97d9e" />
+<img width="1094" height="826" alt="image" src="https://github.com/user-attachments/assets/3f32dfd4-7b7f-4b8e-b72d-3c052bcc63f6" />
+
+* The silence is deafening. [**VERY IMPORTANT**]
+* silence -> noun
+* is -> verb
+* deafening -> adjective.
+
+<img width="1076" height="819" alt="image" src="https://github.com/user-attachments/assets/a8b2f334-8514-4644-bbc3-6d78a2198130" />
+<img width="221" height="75" alt="image" src="https://github.com/user-attachments/assets/c5b53c98-0d49-461b-83d2-fdec5e1b79ef" />
+
+* Ask Questions -> What is deafening? [**VERY IMPORTANT**]
+
+<img width="1052" height="803" alt="image" src="https://github.com/user-attachments/assets/ea0779fa-6e43-4025-8e6b-783cc2fcc1df" />
+<img width="1395" height="925" alt="image" src="https://github.com/user-attachments/assets/ac31bf1c-85a2-41f8-8734-9863913e8b2d" />
+
+* 8 -> Option **A**. [Got Correct]
+* Expression -> Noun -> "Expression" is a noun because it names a thing—a facial look, a word or phrase, or the act of expressing something. In the context of the sentence, "expression" refers to the look on the baby's face, which is a physical thing or manifestation, making it a noun.
+
+<img width="776" height="120" alt="image" src="https://github.com/user-attachments/assets/281f8d1c-3695-45e3-b091-fe717cd8a291" />
+
+* Link -> https://www.perplexity.ai/search/image-jpg-BDrgBbZnQbGG37JHvpxb2w#1
+
+<img width="1051" height="784" alt="image" src="https://github.com/user-attachments/assets/e3559d9f-629e-433e-a708-45087368d8bc" />
+<img width="1043" height="793" alt="image" src="https://github.com/user-attachments/assets/f7277626-f19d-4082-b42f-d27f21e42ba4" />
+
+* The baby looked at me **curiously**.
+
+<img width="1032" height="794" alt="image" src="https://github.com/user-attachments/assets/e2beb9c8-e78a-4082-a74d-c638efe4c05a" />
+<img width="1055" height="812" alt="image" src="https://github.com/user-attachments/assets/430f9f08-56c9-47cf-bf99-24fcfd899493" />
+
+* looked -> action.
+* What comes before **noun**?
+  * **Adjective**.
+* Curiosity is a good thing.
+* Curiosity -> Noun.
+
+<img width="1063" height="796" alt="image" src="https://github.com/user-attachments/assets/8efb07e5-c0dc-4966-80ce-b963ee5a8494" />
+<img width="1107" height="815" alt="image" src="https://github.com/user-attachments/assets/bb4329d1-7035-4a72-baf6-b29e41b4e3cc" />
+<img width="771" height="98" alt="image" src="https://github.com/user-attachments/assets/183834ec-d280-41ef-b57c-a9b3a3f7c6fa" />
+
+* Curiosity, The Curiosity.
+* Curious -> Adjective.
+* Curiously -> Adverb.
+* Curiosity -> Noun
+* Curing -> Cure-ing.
+
+<img width="1072" height="794" alt="image" src="https://github.com/user-attachments/assets/633dd374-6797-4732-b018-5cd81c891f83" />
+<img width="669" height="874" alt="image" src="https://github.com/user-attachments/assets/ba24a56f-c674-4b99-bd45-701faf701a3e" />
+
+* Curiously VS Curiosity. [**MEANING**]
+
+<img width="1054" height="787" alt="image" src="https://github.com/user-attachments/assets/87c64616-cfcf-4bc0-a1c1-420414dce4d6" />
+<img width="1047" height="798" alt="image" src="https://github.com/user-attachments/assets/a3314a8e-02df-47e2-98af-aed7ee33c0fa" />
+
+* 9 -> Option **B**. [Got Correct]
+
+<img width="1055" height="787" alt="image" src="https://github.com/user-attachments/assets/8e09bf1f-dd37-43ec-8dce-fcae965bde52" />
+
+* A -> Creates illogical meaning.
+* He couldn't open the door although the key was there.
+
+<img width="1064" height="814" alt="image" src="https://github.com/user-attachments/assets/dfbace49-3506-4a94-83dd-f52b686d1e1a" />
+
+* Conjunctions give **logic** to sentences. [**VERY IMPORTANT**]
+* Although -> Contrast. [**VERY IMPORTANT**]
+* Because -> Reason. [**VERY IMPORTANT**]
+* Despite  ->  Contrast. [**VERY IMPORTANT**]
+* Unless -> Condition.  [**VERY IMPORTANT**]
+* Unless you study hard you won't crack CAT. [EXAMPLE]
+* Despite working hard, I could not crack CAT. [EXAMPLE]
+* I cracked CAT because I studied hard. [EXAMPLE]
+* Although working hard, I could not crack CAT. [EXAMPLE]
+
+<img width="1063" height="798" alt="image" src="https://github.com/user-attachments/assets/878a8bfd-42fb-4e57-bd24-a2e4afbdc480" />
+<img width="1082" height="814" alt="image" src="https://github.com/user-attachments/assets/a05e61f3-869a-4392-ae77-cb0bc710a406" />
+
+* 10 -> Option **A**. [Got Correct]
+
+<img width="1398" height="918" alt="image" src="https://github.com/user-attachments/assets/d4f28196-3a40-46c1-b43e-259e552ae6d8" />
+
+* positive and positive.
+* negative and negative.
+* positive but negative
+* negative but positive
+
+<img width="1088" height="834" alt="image" src="https://github.com/user-attachments/assets/efc7e443-13a9-44f1-b95b-4a02e4fa9e04" />
+
+* Contrast -> But.
+
+<img width="1089" height="808" alt="image" src="https://github.com/user-attachments/assets/30a1024a-9054-40e0-b444-38b0c8c798ad" />
+<img width="1431" height="926" alt="image" src="https://github.com/user-attachments/assets/ad60e5fb-8870-4bdd-96b0-cc34d4cbdbef" />
+
+* 11 -> Option **B**. [Got Correct]
+* danced -> action.
+
+<img width="1084" height="817" alt="image" src="https://github.com/user-attachments/assets/22564f1e-e1bd-4ce2-b214-0138780da734" />
+
+* Ceremony -> Noun.
+* Article -> The
+* At -> Preposition.
+* graceful -> gracefully -> Adverb.
+* danced -> verb.
+* She -> Pronoun.
+
+<img width="1073" height="814" alt="image" src="https://github.com/user-attachments/assets/7c52c0c1-828e-466e-8bac-6fab8c615c70" />
+<img width="1078" height="812" alt="image" src="https://github.com/user-attachments/assets/fd7248f1-9512-4722-b0cf-fbc639a125c2" />
+
+* 12.
+* advice -> Noun. [**VERY IMPORTANT**]
+* Advise -> verb.
+* She advised me to write CAT.
+
+<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/c5c2077f-dcb0-4e5e-966a-4664221390b6" />
+<img width="1057" height="813" alt="image" src="https://github.com/user-attachments/assets/3f5fa3d3-3e04-4fbd-b722-13267fe1f6de" />
+
+* His -> Pronoun -> But acting like an adjective. 
+
+<img width="1423" height="917" alt="image" src="https://github.com/user-attachments/assets/6dfb306c-21ba-44e6-9e72-8548e498a959" />
+
+* 13 -> Option **C**. [Got Correct]
+* She looked Sad. [Correct] 
+* She looked sadly.  [Correct] 
+
+<img width="1100" height="826" alt="image" src="https://github.com/user-attachments/assets/842f5040-1cd6-4d94-8a43-e5893bec549b" />
+<img width="1085" height="812" alt="image" src="https://github.com/user-attachments/assets/4675b270-a39b-4e1b-bf2b-b087fd2e615e" />
+
+* She looked very sadly at me. 
+
+<img width="1439" height="922" alt="image" src="https://github.com/user-attachments/assets/e4022948-c4c5-4fd6-bd44-74e1e9a1e092" />
+
+* 14 -> Option **B**. [Got Correct] [**VERY IMPORTAN**]
+* Great -> Adjective.
+* Determination -> noun.
+
+<img width="1059" height="800" alt="image" src="https://github.com/user-attachments/assets/7e8a6bcc-3806-4ac9-8222-d6e2d98180af" />
+<img width="1063" height="801" alt="image" src="https://github.com/user-attachments/assets/4b9f36a0-15e4-4fc5-b98d-cd7132cea37f" />
+
+* The -> Article.
+* team -> noun.
+* played -> verb.
+* with -> preposition.
+* Great -> Adjective.
+* Determination -> noun.
+
+<img width="1051" height="799" alt="image" src="https://github.com/user-attachments/assets/c6241ef4-3e50-46c1-aad8-68593a065acf" />
+
+* Determined team -> This is correct.
+* Determination team -> This is wrong.
+* The team looked determined -> This is correct.
+* The determination you showed is admirable.
+* determination -> noun.
+* admirable -> adjective.
+
+<img width="1121" height="829" alt="image" src="https://github.com/user-attachments/assets/cb74487e-6f2d-464b-8eb6-d606251c1933" />
+
+* She played with determination.
+* She played with my heart.
+
+<img width="1074" height="393" alt="image" src="https://github.com/user-attachments/assets/c3d5e816-58aa-4c07-b3a0-7892e3882021" />
+<img width="1229" height="723" alt="image" src="https://github.com/user-attachments/assets/2f9f75ab-4d2f-478f-ab2d-b3362817d2be" />
+
+* determination, heart -> Noun.
+
+<img width="1258" height="710" alt="image" src="https://github.com/user-attachments/assets/f199513e-b0d8-4b09-bb92-18124ec0e540" />
+<img width="1434" height="925" alt="image" src="https://github.com/user-attachments/assets/4504ea54-ce3d-4a0d-88dd-0015b3615112" />
+
+* 15 -> Option **C**. [Correct] [**VERY IMPORTAN**]
+* Option **A**. [Wrong]
+* D -> Well -> Interjection.
+* C -> Well -> Noun
+* B -> Well -> Adjective.
+* A -> Well -> Adverb.
+* I Was not feeling good.
+* good -> adjective.
+* A -> plays -> verb.
+
+<img width="1085" height="805" alt="image" src="https://github.com/user-attachments/assets/cc7c3b7b-f8c7-4bb2-a542-641f0559f4dc" />
+<img width="1091" height="819" alt="image" src="https://github.com/user-attachments/assets/0fa6477d-77b7-4e1d-895d-5b83769fbde5" />
+
+* C -> deep -> adjective.
+* C -> Well -> Noun
+* **Articles** always comes before a **noun** or an **article** looks good before a **noun**. [**VERY IMPORTAN**]
+
+<img width="702" height="522" alt="image" src="https://github.com/user-attachments/assets/74197bb8-7a61-46a7-912f-590a643d3c07" />
+<img width="1419" height="932" alt="image" src="https://github.com/user-attachments/assets/cf624fb6-e8ca-456e-8133-f116586c5421" />
+
+* 16 -> Option **A**. [Got Correct]
+* Since -> A beginning at a point of time in the past and continuing to the present. [**MEANING**] [**VERY IMPORTAN**]
+* For -> Duration/Time period. [**MEANING**] [**VERY IMPORTAN**]
+* I have lived in mumbai for 7 years -> Correct.
+* I lived in mumbai for 7 years -> Correct.
+
+<img width="1085" height="807" alt="image" src="https://github.com/user-attachments/assets/10fce2c0-27d8-44b0-98bb-34d3d87786f2" />
+<img width="1071" height="813" alt="image" src="https://github.com/user-attachments/assets/4dde2b76-ef8f-40e4-9ca7-8f2fe6bb6c91" />
+
+* I will reach mumbai by tomorrow evening. [Example]
+* By -> Certain time period in the future. [**MEANING**] [**VERY IMPORTAN**]
+* You will have finish writing CAT by the end of november this year. [Example]
+
+<img width="1099" height="804" alt="image" src="https://github.com/user-attachments/assets/faa59d9b-d198-42a7-89ce-c5651bc4e1b7" />
+<img width="1426" height="927" alt="image" src="https://github.com/user-attachments/assets/4adbf30b-bc0c-41a1-9360-0dfada4daac6" />
+
+* 17 -> Option **C**. [Correct]
+* Soft -> Softly.
+
+<img width="1049" height="799" alt="image" src="https://github.com/user-attachments/assets/77782e21-54ae-4aa6-823e-0a28a047e7e5" />
+<img width="1037" height="786" alt="image" src="https://github.com/user-attachments/assets/cbeb4a08-664d-4123-a50f-8a97c6c17bff" />
+
+* anger -> angry. [Answer]
+
+<img width="187" height="82" alt="image" src="https://github.com/user-attachments/assets/42880b66-f466-4759-aaed-76fceeb32532" />
+
+* tone -> noun.
+* anger -> noun.
+* angry -> adjective.
+* Your anger is beyond control. [Example]
+* Your -> Determiner -> Adjective.
+* anger -> noun.
+
+<img width="1170" height="827" alt="image" src="https://github.com/user-attachments/assets/ed3ba379-b989-4974-8331-fc01cddf2f07" />
+
+* Beyond my control
+* Beyond control
+* Beyond -> preposition.
+
+ <img width="1100" height="830" alt="image" src="https://github.com/user-attachments/assets/c3b6ccf2-bef1-4cf2-b0c6-801d6f313116" />
+<img width="1078" height="815" alt="image" src="https://github.com/user-attachments/assets/bed34493-0011-4de8-85c3-261126d65bb5" />
+
+* Your anger is beyond control
+* Beyond me.
+* **"The control"** is key.
+
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/0b3098f4-cf31-49ff-8893-636364d569c8" />
+
+* 18 -> Option **B**. [Got Correct]
+
+<img width="1050" height="793" alt="image" src="https://github.com/user-attachments/assets/82e783ec-b9a8-440a-bfb5-bd67c6ed56f5" />
+
+* The **verb** is the most important part of speech. [**VERY IMPORTANT**]
+* If you understand the verb correctly, then 50% of grammar is done. [**VERY IMPORTANT**]
+
+1) Subject Verb agreement.
+2) Phrase/Clauses.
+3) Tenses.
+4) Active and Passive Voice. 
+
+<img width="1428" height="833" alt="image" src="https://github.com/user-attachments/assets/1fce3f19-4881-455c-91bc-963ec47ae28d" />
+<img width="1427" height="827" alt="image" src="https://github.com/user-attachments/assets/76807e6f-a82e-40d8-b1cb-e974048a400a" />
+
+* Noun <=> Verb.
+* Noun -> President.
+* Verb -> Prime Minister.
+
+<img width="298" height="84" alt="image" src="https://github.com/user-attachments/assets/5a735b47-8964-481e-a268-a028c9c4f7b0" />
+<img width="1402" height="833" alt="image" src="https://github.com/user-attachments/assets/22880e04-f901-4cfe-ab06-e6ff3bedb794" />
+<img width="1397" height="789" alt="image" src="https://github.com/user-attachments/assets/99a6643b-e35d-451c-ae8d-4e80a1cfde6d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
