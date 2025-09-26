@@ -1,4 +1,4 @@
-<img width="1283" height="830" alt="image" src="https://github.com/user-attachments/assets/646090e2-dad7-4e8e-818b-b3d4ebc7ae2e" /><img width="1051" height="793" alt="image" src="https://github.com/user-attachments/assets/055491b7-c743-4edd-bac6-0af6e1808299" /># VARC
+# VARC
 
 ## Next Class
 
@@ -1267,3 +1267,5 @@
 ## MISC
 
 <img width="1404" height="801" alt="image" src="https://github.com/user-attachments/assets/0253e344-460f-426c-9d0c-aa11285132c4" />
+<img width="1283" height="830" alt="image" src="https://github.com/user-attachments/assets/646090e2-dad7-4e8e-818b-b3d4ebc7ae2e" />
+<img width="1051" height="793" alt="image" src="https://github.com/user-attachments/assets/055491b7-c743-4edd-bac6-0af6e1808299" />
