@@ -308,6 +308,90 @@
 
 ### Vocab Practice (2) [4]
 
+<img width="1442" height="916" alt="image" src="https://github.com/user-attachments/assets/f6f8fad7-026b-4dcf-be8c-85dd86773e4e" />
+
+* 1 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
+* Urbane -> Suave/Charming/Courtly. [**MEANING**]
+* Courtly -> Elegant/Sophisticated. [**MEANING**]
+* Boorish -> Rude/Uncouth/Unrefined/Unsophisticated
+
+<img width="1414" height="797" alt="image" src="https://github.com/user-attachments/assets/3c7fe8cd-071d-4b8d-8045-608e7ed645e8" />
+<img width="1424" height="891" alt="image" src="https://github.com/user-attachments/assets/f57f6f22-ae0e-4279-b2db-1d6e3bf24ddc" />
+
+* 2 -> Option **B**. [Got Correct]
+* Sought -> Past Tense(PT)  of seek.
+* Seek -> Search. [**MEANING**]
+* Cogent -> Lucid/Easy to understand. [**MEANING**]
+* Inscrutable -> Difficult to understand. [**MEANING**]
+* Pellucid -> Lucid/Easy to understand. [**MEANING**]
+* Emphatic -> Forceful. [**MEANING**]
+
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/f859c394-a396-4815-916c-bfe3a80718cc" />
+<img width="1426" height="917" alt="image" src="https://github.com/user-attachments/assets/739fa2e6-7ad2-4485-8de5-6649f701fbfa" />
+
+* 3 -> Option **B**. [Got Correct]
+* Sentence -> Present Tense.
+* Option **D** -> Past Tense. 
+
+<img width="1427" height="809" alt="image" src="https://github.com/user-attachments/assets/c76cb2bf-ddf8-4b23-a65d-2e402bd317be" />
+<img width="255" height="85" alt="image" src="https://github.com/user-attachments/assets/77ba4b9f-f283-45b6-9772-6f1caa156032" />
+
+* Hypen shouldn't be used in breakdown.
+
+<img width="1428" height="908" alt="image" src="https://github.com/user-attachments/assets/8a48e4ca-9771-4bb0-aed1-46024dff2298" />
+
+* 4 -> Option **B**. [Got Correct]
+* augment -> Verb
+* augment -> To increase/Enhance. [**MEANING**]
+* strong -> adjective.
+
+<img width="1432" height="826" alt="image" src="https://github.com/user-attachments/assets/c0fe67db-540b-4e08-a0a5-fdc610d5cbb7" />
+
+* Option **A** -> Inplace of augment it should be augmentation for it to be a correct usage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
