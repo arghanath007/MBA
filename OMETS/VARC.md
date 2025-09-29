@@ -2,9 +2,9 @@
 
 ## Next Class
 
-<img width="728" height="369" alt="image" src="https://github.com/user-attachments/assets/d84c412b-5905-4218-a7eb-64c7de35809f" />
+<img width="794" height="291" alt="image" src="https://github.com/user-attachments/assets/346985d5-c66b-41a4-b928-9d73a03d6b5e" />
 
-* 28th Aug.
+* 29th Aug.
 
 ## Study Prep/Routine
 
@@ -349,6 +349,298 @@
 <img width="1432" height="826" alt="image" src="https://github.com/user-attachments/assets/c0fe67db-540b-4e08-a0a5-fdc610d5cbb7" />
 
 * Option **A** -> Inplace of augment it should be augmentation for it to be a correct usage.
+* Articles are used before **nouns**. [**VERY IMPORTANT**]
+* Articles are not used before a **verb**. [**VERY IMPORTANT**]
+
+<img width="195" height="340" alt="image" src="https://github.com/user-attachments/assets/fd32ee95-deda-4caa-893f-7981ad8097be" />
+
+* Option **A** -> Gramatically awkward construction -> What are we augmenting?.
+
+<img width="1432" height="916" alt="image" src="https://github.com/user-attachments/assets/72b28116-0268-469d-bb5f-0e07b3d52da6" />
+
+* 5 -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Pellucid -> Lucid/Clear/transparent. [**MEANING**]
+* Recondite -> difficult to understand/hidden knowledge/obscure.  [**MEANING**]
+* Trenchant -> Sharp/Incisive/scathing.  [**MEANING**]
+* Forthright -> Direct/Frank/Blunt. [**MEANING**]
+
+<img width="1407" height="427" alt="image" src="https://github.com/user-attachments/assets/4124d6b2-0954-4250-b5f3-3f286291841b" />
+<img width="1399" height="799" alt="image" src="https://github.com/user-attachments/assets/414da192-0e17-427e-a7c4-bcb1389243b3" />
+<img width="1437" height="900" alt="image" src="https://github.com/user-attachments/assets/a004b29f-85f5-468a-b925-9c5d5088f44d" />
+
+* 6 -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* Verb -> Apprise -> Inform/Nottify/Intimate.  [**MEANING**]
+* Verb -> Appraise -> Evaluate/Assess.  [**MEANING**] 
+
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/b2c87f4e-a1d8-42fe-8ffd-56569ed00517" />
+
+* B -> apprise. [Correct] 
+* C -> Appraised. [Correct] 
+* D -> Apprise. [Correct] 
+
+<img width="1431" height="916" alt="image" src="https://github.com/user-attachments/assets/d9afdd2c-530d-4f8a-b9a4-06a33c57b3c8" />
+
+* 7 -> Option **A**. [Got Correct]
+* Rarefield -> not ordinary/Something which is rare/esoteric/Understood by very few people with shared knowledge.  [**MEANING**]
+* Benign -> Root word => Ben
+* Benign -> Harmless/kind. [**MEANING**]
+* Arduous -> Full of difficulties. [**MEANING**]
+* Copious -> In Large amounts/abundant.  [**MEANING**]
+
+<img width="1415" height="814" alt="image" src="https://github.com/user-attachments/assets/7578cbb6-3d74-4516-84e6-8eb34233759d" />
+<img width="298" height="83" alt="image" src="https://github.com/user-attachments/assets/af8c01bc-d711-4a7a-ab39-e0b7f6e5023c" />
+
+* Yes.
+
+<img width="1406" height="796" alt="image" src="https://github.com/user-attachments/assets/1fb4bcfa-6905-422c-947a-e9696298d059" />
+<img width="1433" height="921" alt="image" src="https://github.com/user-attachments/assets/f3863e8d-a29c-4cdb-b9a4-fe03b9334571" />
+
+* 8 -> Option **B**. [Got Correct]
+* Tacit -> Implied/Unskopen.  [**MEANING**]
+* Rebuke -> Reprimand/Formally scolding someone.  [**MEANING**]
+* Emphatic -> Forceful.  [**MEANING**]
+* Implicit -> Unspoken.  [**MEANING**]
+* Vociferous -> Loud.  [**MEANING**]
+* Explicit -> Clearly given/mentioned.  [**MEANING**]
+
+<img width="1406" height="792" alt="image" src="https://github.com/user-attachments/assets/f7773b12-63c1-4a50-b114-43f25bb51b2a" />
+<img width="1440" height="920" alt="image" src="https://github.com/user-attachments/assets/2b185f9a-6ae5-4da3-96d1-c3110acd6a72" />
+
+* 9 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
+* Laconic -> Terse/Brief/Very few words.  [**MEANING**]
+* Copious -> Plenty.  [**MEANING**]
+* Loquacious -> Root Word -> loc/loq.
+* Loquacious -> Talkative.  [**MEANING**]
+* Mellifluous -> Root Word -> flu.
+* Flu -> Flow.  [**MEANING**]
+* Flu -> Reflux/Flux/Mellifluous/Superfluous.   [Related Words] [**MEANING**]
+
+<img width="1432" height="826" alt="image" src="https://github.com/user-attachments/assets/ed172805-afa1-4187-b26e-acbd8a308c48" />
+<img width="1424" height="814" alt="image" src="https://github.com/user-attachments/assets/4b2110b3-6a89-4291-a0c4-fd359e99c0b2" />
+
+* Mellifluous -> Pleasant Sound.  [**MEANING**]
+
+<img width="1429" height="914" alt="image" src="https://github.com/user-attachments/assets/0e8225ef-be83-4417-8c60-f5bd13b67b45" />
+
+* 10 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* Comprises -> Consist of.  [**MEANING**]
+* A, C & D -> of -> This **"of"** is redundant.
+
+<img width="1424" height="795" alt="image" src="https://github.com/user-attachments/assets/6b32f379-f9f3-456b-a287-890cbcf0c4ee" />
+<img width="1439" height="925" alt="image" src="https://github.com/user-attachments/assets/d817ae31-38af-4668-9a55-9ed4672dcada" />
+
+* 11 -> Option **C**. [Got Correct]
+* Fiasco -> Poor show/Bad show/Disaster/Problem.  [**MEANING**]
+* Face the Music -> Accept the blame/deal with consequence. [**MEANING**]
+* Call their Bluff -> Challenge someone. [**MEANING**]
+* Paper Over -> Hide a problem with superficial solutions. [**MEANING**]
+* Dig in -> Start eating/Start to eat/Refuse to change stance. [**MEANING**]
+
+<img width="1401" height="475" alt="image" src="https://github.com/user-attachments/assets/06005fa9-30ce-4226-a97a-f6c6aa0d63bc" />
+<img width="1435" height="918" alt="image" src="https://github.com/user-attachments/assets/7d90ade9-e566-4568-8e43-0041646a7e6a" />
+
+* 12 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* Contrite -> Genuinely sorry/remorseful/Remorseful. [**MEANING**]
+* Perfunctory -> Routine/Trite/Superficial. [**MEANING**]
+* Unequivocal -> Clear/Direct. [**MEANING**]
+* Equivocal -> Sitting on a fence/Vague. [**MEANING**]
+* Equi -> Equally. [**MEANING**]
+* Vocal -> Vocal from all/both sides. [**MEANING**]
+
+<img width="1410" height="809" alt="image" src="https://github.com/user-attachments/assets/0890dd6d-a36d-4d85-bb89-af0115aa4135" />
+
+* Equivocal -> Ambivalent/Ambiguous.  [**MEANING**]
+* Ambivalent VS Ambiguous:-
+* Ambivalent, Ambiguous -> Adjectives. 
+* Ambivalent -> Mixed Feelings/Sitting on a fence/Confused between two(2) options. [**MEANING**]
+* Ambiguous -> Unclear Meaning/Uncertain or open to multiple interpretations/meanings. [**MEANING**]
+
+<img width="1412" height="808" alt="image" src="https://github.com/user-attachments/assets/8eea459a-c1e6-4d37-931b-e96a0fc6aa20" />
+<img width="1417" height="813" alt="image" src="https://github.com/user-attachments/assets/ce5add7a-f356-40c3-b777-b531b94b8ec0" />
+
+* Magnanimous -> Generous. [**MEANING**]
+
+<img width="776" height="314" alt="image" src="https://github.com/user-attachments/assets/937bb74a-7067-4a16-a2c1-0bc7f70901d8" />
+
+* Link -> https://www.perplexity.ai/search/ambivalent-vs-ambiguous-g0RwlhQnS3.esmspLsek_A#0
+
+<img width="1430" height="905" alt="image" src="https://github.com/user-attachments/assets/56b7fcf7-0194-4133-9488-50510d9a7728" />
+
+* 13 -> Option **A**. [Got Correct]
+
+<img width="682" height="504" alt="image" src="https://github.com/user-attachments/assets/a4690313-1bde-4499-a6e6-ab3b2e050f0d" />
+<img width="1436" height="918" alt="image" src="https://github.com/user-attachments/assets/632d7f00-1aca-49cc-bb10-8df4ee0493bd" />
+
+* 14 -> Option **A**. [Correct]
+* Option **D**. [Wrong]
+* Flaunt -> Show off. [**MEANING**] 
+* Flout -> Openly disregard. [**MEANING**] 
+
+<img width="1419" height="799" alt="image" src="https://github.com/user-attachments/assets/4f28484d-b2ef-4839-b105-1ed45b5d1e8d" />
+<img width="1384" height="799" alt="image" src="https://github.com/user-attachments/assets/d36ca504-3072-4891-b1af-5ba364f5a95d" />
+
+*  B -> Flouted.
+*  C -> Flaunted.
+
+<img width="1431" height="914" alt="image" src="https://github.com/user-attachments/assets/4a1db4b3-fc88-45cf-ae08-8830c14a67e7" />
+
+* 15 -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Home in on -> Focus closely. [**MEANING**] [**VERY IMPORTANT**]
+* Hone -> Sharpens. [**MEANING**] 
+
+<img width="1407" height="908" alt="image" src="https://github.com/user-attachments/assets/e80ea744-54a6-40c6-a058-e6c8e13fc993" />
+
+* 16 -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **B**. [Wrong]
+* Idiom -> Foot in it -> Made a social/embarrassing blunder.  [**MEANING**] [**VERY IMPORTANT**]
+* Idiom -> Put Foot into your mouth -> Made a social/embarrassing blunder.  [**MEANING**]  [**VERY IMPORTANT**]
+
+<img width="865" height="499" alt="image" src="https://github.com/user-attachments/assets/2f5644c4-6720-4f39-9e6c-57b96efbd0a8" />
+<img width="1425" height="913" alt="image" src="https://github.com/user-attachments/assets/b136aa9c-54cb-493f-a4b8-10dc164d7ebe" />
+
+* 17 -> Option **A**. [Got Correct]
+* Abate -> Lesson. [**MEANING**] 
+* Meticulous -> Attentive to details. [**MEANING**] 
+* Candor -> Honesty/Being Frank. [**MEANING**] 
+* Cacophony -> Harsh Sounds. [**MEANING**] 
+
+<img width="1401" height="812" alt="image" src="https://github.com/user-attachments/assets/5c8c4cfb-0710-472d-b954-3c763e75a483" />
+<img width="1403" height="805" alt="image" src="https://github.com/user-attachments/assets/e874f20b-0cbe-40fe-a24f-9e197631ac8b" />
+
+* slipshod -> Very bad at your word/You don't pay attention/You do anything/Make silly mistakes. [**MEANING**] 
+
+<img width="1435" height="916" alt="image" src="https://github.com/user-attachments/assets/dd0d93d4-75e4-42a3-9744-53521f15f3a8" />
+
+* 18 -> Option **B**. [Got Correct]
+* Belies -> Contradict. [**MEANING**] 
+
+<img width="1402" height="810" alt="image" src="https://github.com/user-attachments/assets/4d35c3ef-8c7d-4ed3-a9d5-30675f00d053" />
+
+* Belie -> Verb.
+
+<img width="1437" height="922" alt="image" src="https://github.com/user-attachments/assets/3d9e3a37-9de9-4a3e-a781-2673750c4d00" />
+
+* 19 -> Option **A**. [Correct]
+* Option **D**. [Wrong]
+* Fulsome -> Flattering to an excissive degree.  [**MEANING**] 
+
+<img width="301" height="89" alt="image" src="https://github.com/user-attachments/assets/cdca5807-f257-450a-af9f-c411dbc7eed6" />
+
+* Yes.
+
+<img width="372" height="136" alt="image" src="https://github.com/user-attachments/assets/ca3cb58f-f3c0-43e3-9989-f38627ae1483" />
+<img width="1420" height="790" alt="image" src="https://github.com/user-attachments/assets/19f482c0-0df3-4f0a-ab9d-3382b7739d74" />
+
+* Option **A** -> Gramatically correct only.
+* insincere ->  not sincere. [**MEANING**] 
+* sincere -> free of dissimulation. [**MEANING**] 
+
+<img width="1435" height="913" alt="image" src="https://github.com/user-attachments/assets/c573878e-e621-43ae-bfe6-b51a0919be58" />
+
+* 20 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* Sedulous -> Diligent/Hardworking. [**MEANING**] 
+* Indolent -> Lazy. [**MEANING**] 
+* Industrious -> Hardworking. [**MEANING**] 
+* Lethargic -> Sluggish. [**MEANING**] 
+* Downcast -> Sad. [**MEANING**] 
+
+<img width="1403" height="488" alt="image" src="https://github.com/user-attachments/assets/808c318c-621c-483b-9a42-768e4a5bbc56" />
+<img width="1405" height="795" alt="image" src="https://github.com/user-attachments/assets/4d7a22c6-b5b6-47cf-8292-46067eaaf09b" />
+<img width="1398" height="791" alt="image" src="https://github.com/user-attachments/assets/c59ba93a-db8f-42f1-b235-1d4dd756d3dd" />
+
+* Insolent -> Being disrespectful/Being rude. [**MEANING**] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
