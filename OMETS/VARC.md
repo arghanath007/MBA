@@ -557,6 +557,52 @@
 
 * Insolent -> Being disrespectful/Being rude. [**MEANING**] 
 
+### Vocab Practice (3) [5]
+
+<img width="1427" height="917" alt="image" src="https://github.com/user-attachments/assets/456cc9f3-f682-40d2-8227-cb3a7c103eea" />
+
+* 1 -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+* Drift -> Flowing aimlessly. [**MEANING**]
+* Vowed -> To take/make a promise.  [**MEANING**]
+* Expedite -> Speed up/Fast/Hasten/Quicken.  [**MEANING**]
+* Expedite -> Verb
+* Speed up/Fast/Hasten/Quicken -> Verb forms.
+* Forestall -> To prevent or delay/Stop.  [**MEANING**]
+* Protract -> To prolong.  [**MEANING**]
+* Dither -> To be indecisive/To hesitate.  [**MEANING**]
+* Precipitate -> To hasten/Speed up.  [**MEANING**]
+
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/ce2405d4-706f-4040-a5b7-e93ebb7701c2" />
+<img width="1149" height="385" alt="image" src="https://github.com/user-attachments/assets/2e81e06e-e232-4e05-bc61-fc8f83df48c4" />
+
+* The protracting illness made her feeble.
+* feeble -> Weak. [**MEANING**]
+* protracting -> Prolonging. [**MEANING**]
+
+<img width="1421" height="806" alt="image" src="https://github.com/user-attachments/assets/e5175fa4-30d7-4e13-9aca-91c493595d80" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
