@@ -581,19 +581,88 @@
 * protracting -> Prolonging. [**MEANING**]
 
 <img width="1421" height="806" alt="image" src="https://github.com/user-attachments/assets/e5175fa4-30d7-4e13-9aca-91c493595d80" />
+<img width="721" height="439" alt="image" src="https://github.com/user-attachments/assets/e22b6af2-6c35-485d-8212-20eca1af55e9" />
 
+* Sycophant -> Fawner/Flatterer -> Yes men. [**MEANING**]
+* Conformist -> One who follows traditions. [**MEANING**]
+* Iconoclast -> Attacker of traditions. [**MEANING**]
+* Dilettante -> Amateur in a field.  [**MEANING**]
 
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/98a964b1-a3af-4985-b294-4822a208fe9a" />
+<img width="1398" height="785" alt="image" src="https://github.com/user-attachments/assets/d5cc82f2-3d50-423b-afbd-cb77d3023b53" />
 
+* 2 -> Option **C**. [Correct]
 
+<img width="1408" height="919" alt="image" src="https://github.com/user-attachments/assets/633bb386-1e0a-4ede-bd5a-3ad74983b409" />
 
+* 3 -> Option **C**. [Got Correct]
 
+<img width="415" height="83" alt="image" src="https://github.com/user-attachments/assets/4242efac-c831-4b94-824c-1e394bc6d3e6" />
 
+* Around **6-10** questions.
+* Anecdotal -> Adjective. 
+* Anecdote -> Noun.
+* Anecdote -> Stories/Little memory based incidencies. [**MEANING**]
+* Probative -> Providing Relief. [**MEANING**]
+* Definitive -> Conclusive. [**MEANING**]
+* Narrative -> Narrating something. [**MEANING**]
+* Empirical -> Based on observation or scientific data. [**MEANING**]
 
+<img width="1405" height="796" alt="image" src="https://github.com/user-attachments/assets/a7e2c86d-dda0-4b4e-99d9-f8ddce6610f3" />
+<img width="1441" height="911" alt="image" src="https://github.com/user-attachments/assets/ea8bc0e6-103f-418a-a108-9611698ebc83" />
 
+* 4 -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+* Coerce -> Force someone. [**MEANING**]
+* Chide -> Scold/Reprimand someone. [**MEANING**]
+* Chide -> Informal -> Mom.
+* Reprimand -> Formal -> School Teacher.
+* Censure -> Harsh Criticism. [**MEANING**]
+* Coax -> Gently Persuade someone. [**MEANING**]
+* Cajole -> Coax -> to persuade with flattery or gentle urging especially in the face of reluctance.  [**MEANING**]
 
+<img width="882" height="479" alt="image" src="https://github.com/user-attachments/assets/18f08aa3-0caf-44ef-8311-c3a15470e282" />
+<img width="1432" height="916" alt="image" src="https://github.com/user-attachments/assets/2c919880-614d-4f31-9a81-da71875981c4" />
 
+* 5 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
+* Hard-up -> Poor/Destitute/penurious.  [**MEANING**]
+* Solvent -> Financially Stable.  [**MEANING**]
+* Prodigal -> Extravagant/Wasteful/Profligate.  [**MEANING**]
+* Opulent -> Rich/Luxurious.  [**MEANING**]
+* Hard-up, Solvent, Prodigal, Opulent, Impecunious -> Adjective.
+* Hedonistic -> devoted to the pursuit of pleasure : of, relating to, or characterized by hedonism. [**MEANING**]
 
+<img width="1400" height="803" alt="image" src="https://github.com/user-attachments/assets/0a8c1c7c-e110-441e-9218-8dfdc92a1ce6" />
+<img width="1437" height="917" alt="image" src="https://github.com/user-attachments/assets/f57697c0-ea31-4b85-a43d-917f5700206f" />
 
+* 6 -> Option **B**. [Correct]
+* Prescribe -> To give something/To advice/To suggest. [**MEANING**]
+* Proscribe -> To ban someone from doing something/Prohibit. [**MEANING**]
+* prohibition -> Noun.
+* Prescribe, Proscribe, Prohibit, ban -> Verb.
+* strep -> Some kind of bacterial infection. [**MEANING**]
+
+<img width="1417" height="806" alt="image" src="https://github.com/user-attachments/assets/0d305f05-5f54-4ade-b855-61fce54142c0" />
+
+* A -> Prescribe
+* C -> Proscribe
+* D -> Proscribed
+* Option **D** -> Awkward Construction.
+
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/c249373e-038f-4280-9c40-98c87d0f7c03" />
+<img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/1b146e1a-9f69-4c73-97da-79ff0269f64d" />
+
+* 7 -> Option **D**. [Got Correct]
+* Soporifi -> Sleep inducing/Dull/Drowsy. [**MEANING**]
+* Stupefying -> Astonishing/Startling/Overwhelming. [**MEANING**]
+* Narcotic -> Drug. [**MEANING**]
+* Sedative -> Something that makes you calm/Tranquility. [**MEANING**]
+* Stimulating -> Getting excited/Spur/Trigger. [**MEANING**]
+
+<img width="1411" height="811" alt="image" src="https://github.com/user-attachments/assets/90cb8f6a-b06f-4405-a00b-cb839c73d750" />
+
+* Start from 43mins.
 
 
 
