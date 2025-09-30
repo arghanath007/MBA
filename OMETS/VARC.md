@@ -654,15 +654,129 @@
 <img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/1b146e1a-9f69-4c73-97da-79ff0269f64d" />
 
 * 7 -> Option **D**. [Got Correct]
-* Soporifi -> Sleep inducing/Dull/Drowsy. [**MEANING**]
-* Stupefying -> Astonishing/Startling/Overwhelming. [**MEANING**]
+* Soporifi -> Sleep inducing/Dull/Drowsy. [**MEANING**] [**VERY IMPORTANT**]
+* Stupefying -> Astonishing/Startling/Overwhelming. [**MEANING**] [**VERY IMPORTANT**]
 * Narcotic -> Drug. [**MEANING**]
 * Sedative -> Something that makes you calm/Tranquility. [**MEANING**]
 * Stimulating -> Getting excited/Spur/Trigger. [**MEANING**]
 
 <img width="1411" height="811" alt="image" src="https://github.com/user-attachments/assets/90cb8f6a-b06f-4405-a00b-cb839c73d750" />
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/fa697dde-e21e-48b7-8f15-dd1768735e21" />
+<img width="1432" height="914" alt="image" src="https://github.com/user-attachments/assets/bef91ea0-9551-47c1-9527-6652aaeb3de0" />
 
-* Start from 43mins.
+* 8 -> Option **D**. [Got Correct]
+* Brunch -> Breakfast + Lunch. [**MEANING**]
+* Sobriquet -> So-bri-kay -> Nickname/Title. [**MEANING**]
+* Anagram -> Rearranging the letters to form a different word/code. [**MEANING**]
+* Palimpsest -> Manuscript reused/overwritten. [**MEANING**]
+* Portmanteau -> Port + Manteau. [**MEANING**]
+* Port -> To carry. [**MEANING**]
+* Manteau -> Cloak. [**MEANING**]
+* Portmanteau -> a large suitcase. [Another Meaning] [**MEANING**]
+
+<img width="1427" height="822" alt="image" src="https://github.com/user-attachments/assets/5ab1cdca-3d1d-4e84-918d-624868c8b264" />
+<img width="1401" height="798" alt="image" src="https://github.com/user-attachments/assets/96f8ad82-455c-4b21-8796-f7df46bdf9f3" />
+<img width="1432" height="917" alt="image" src="https://github.com/user-attachments/assets/6f91707e-b846-4d28-953a-70fa6a317c6f" />
+
+* 9 -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+* Hackneyed -> Common/Boring/Mundane/Overused. [**MEANING**]
+* Banal -> Trite/Ordinary/Common/Boring/Mundane/Overused. [**MEANING**]
+* Epigrammatic -> Witty/Humerous. [**MEANING**]
+* Didatic -> overly instructive/Preachy. [**MEANING**]
+* Probative -> Providing Relief. [**MEANING**]
+
+<img width="1399" height="571" alt="image" src="https://github.com/user-attachments/assets/b84cef70-7040-45b8-a22b-2111268a0cf0" />
+<img width="1434" height="916" alt="image" src="https://github.com/user-attachments/assets/2f6ddcb1-e9ca-4589-a49b-72601ea14c10" />
+
+* 10 -> Option **B**. [Got Correct]
+* Arid -> Dry/Dull/Lifeless/Barren. [**MEANING**]
+* Guile -> Cunning/Dishonest/Deceit/Trickery. [**MEANING**]
+* Coalesce -> Unite/Group/Mix/Combine/One Whole. [**MEANING**]
+* Esoteric -> Intended to be understood by few/rarified/Obscure. [**MEANING**]
+
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/16d75e7e-802a-4504-a133-6e1e94705b6f" />
+
+* arcane -> Antique/Ancient. [**MEANING**]
+
+<img width="1414" height="820" alt="image" src="https://github.com/user-attachments/assets/cddfed79-96f2-4f1f-9e66-2409073252fb" />
+<img width="1433" height="914" alt="image" src="https://github.com/user-attachments/assets/d4da86cd-819e-4602-b112-10a6a337d6cf" />
+
+* 11 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* Meretricious -> Flashy/Insincere. [**MEANING**]
+* Penitent -> Remorseful/Regretful. [**MEANING**]
+* Tawdry -> Flashy/Pompous. [**MEANING**]
+* Cathartic -> Emotionally Cleansing. [**MEANING**]
+* Cathartic -> Adjective.
+* Catharsis -> Noun.
+* Edifying ->  To enlighten/Morally Uplifting.
+* All of the **above words** are **adjectives**.
+
+<img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/7437a335-0411-496a-845b-ddc38781d02e" />
+<img width="1393" height="507" alt="image" src="https://github.com/user-attachments/assets/e09a44df-9613-4aa5-acb7-242fed1aa1b1" />
+<img width="1424" height="911" alt="image" src="https://github.com/user-attachments/assets/0ddcf5f0-e126-43a9-972a-3460635e7289" />
+
+* 12 -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+* Obloquy ->
+* 1hr 9mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
