@@ -719,12 +719,20 @@
 
 * 12 -> Option **C**. [Correct]
 * Option **B**. [Wrong]
-* Obloquy ->
-* 1hr 9mins.
+* Obloquy -> Root word => loq/loc.
+* loq/loc -> Talk.
+* Obloquy -> Public harsh criticism/Verbal abuse/Castigate.
+* Euphoria -> Happiness/Joy.
+* Elan -> Style/Flair.
+* Opprobrium -> Public harsh criticism
+* Ephemeral -> Which lasts for a very short time.
+* Respite -> Relief/Pause/Short period.
 
+<img width="1398" height="605" alt="image" src="https://github.com/user-attachments/assets/7fc8b885-9554-4414-8aa7-ff80ec3239d3" />
+<img width="1435" height="924" alt="image" src="https://github.com/user-attachments/assets/799575cf-960a-4c4d-b245-893b720d4e8f" />
 
-
-
+* 13 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
 
 
 
