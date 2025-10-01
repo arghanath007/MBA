@@ -720,13 +720,13 @@
 * 12 -> Option **C**. [Correct]
 * Option **B**. [Wrong]
 * Obloquy -> Root word => loq/loc.
-* loq/loc -> Talk.
-* Obloquy -> Public harsh criticism/Verbal abuse/Castigate.
-* Euphoria -> Happiness/Joy.
-* Elan -> Style/Flair.
-* Opprobrium -> Public harsh criticism
-* Ephemeral -> Which lasts for a very short time.
-* Respite -> Relief/Pause/Short period.
+* loq/loc -> Talk. [**MEANING**]
+* Obloquy -> Public harsh criticism/Verbal abuse/Castigate. [**MEANING**]
+* Euphoria -> Happiness/Joy. [**MEANING**]
+* Elan -> Style/Flair. [**MEANING**]
+* Opprobrium -> Public harsh criticism. [**MEANING**]
+* Ephemeral -> Which lasts for a very short time. [**MEANING**]
+* Respite -> Relief/Pause/Short period. [**MEANING**]
 
 <img width="1398" height="605" alt="image" src="https://github.com/user-attachments/assets/7fc8b885-9554-4414-8aa7-ff80ec3239d3" />
 <img width="1435" height="924" alt="image" src="https://github.com/user-attachments/assets/799575cf-960a-4c4d-b245-893b720d4e8f" />
@@ -734,17 +734,29 @@
 * 13 -> Option **A**. [Correct]
 * Option **B**. [Wrong]
 
+<img width="1778" height="1330" alt="image" src="https://github.com/user-attachments/assets/22943a88-999b-4a88-9551-f664521c206f" />
+<img width="1724" height="1004" alt="image" src="https://github.com/user-attachments/assets/df7019ef-4af2-42a3-8368-220cc04e9635" />
 
+* Loose -> not rigidly fastened or securely attached. [**MEANING**]
+* Lose -> to miss from one's possession or from a customary or supposed place. [**MEANING**]
 
+<img width="1776" height="1332" alt="image" src="https://github.com/user-attachments/assets/571ae155-2767-412b-8665-b04093bbe9e2" />
 
+* 14 -> Option **B**. [Got Correct]
+* Abjure -> Formally renounce a belief or claim. [**MEANING**]
+* Volatile -> Not stable. [**MEANING**]
+* Venerate -> Revere/Respect. [**MEANING**]
+* Penurious -> Poor/Destitute. [**MEANING**]
+* Disparage -> To insult someone. [**MEANING**]
 
+<img width="1754" height="988" alt="image" src="https://github.com/user-attachments/assets/a610e896-3de3-4921-9740-11f61f0c5c17" />
+<img width="1778" height="1324" alt="image" src="https://github.com/user-attachments/assets/4c8aa899-a4af-4888-9f68-fc605347d88b" />
 
+* 15 -> Option **C**. [Got Correct]
 
+<img width="1758" height="1004" alt="image" src="https://github.com/user-attachments/assets/ae9b23b7-2177-48e8-9de3-93d831b505b0" />
 
-
-
-
-
+* Exhaustive -> Thorough.
 
 
 
