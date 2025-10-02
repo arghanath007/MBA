@@ -1706,7 +1706,54 @@
 
 * Gerunds is "-ing" form of the verb acting like a noun.
 * Non-finite verb -> Look like a verb, but they are not real verb.
-* Finite verb -> Is the real verb
+* Finite verb -> Is the real verb.
+* I like apples.
+* Apples -> noun.
+* I like dancing.
+* dancing -> Looks like verb but is replacing a noun.
+* dancing -> Gerunds
+
+<img width="1421" height="820" alt="image" src="https://github.com/user-attachments/assets/98764b6b-83b1-404d-adae-c0dc64b3728a" />
+<img width="1423" height="820" alt="image" src="https://github.com/user-attachments/assets/847512ef-a96f-4413-b19e-2b21ca121f14" />
+<img width="208" height="79" alt="image" src="https://github.com/user-attachments/assets/58338cd0-358d-416a-a722-9a1578c076b0" />
+
+* YES.
+* Every "-ing" is a Gerunds only.
+* Gerund -> "-ing" form, acting like a **noun**.
+
+<img width="1427" height="839" alt="image" src="https://github.com/user-attachments/assets/6c7e1262-b306-4d6f-a420-c40d4493e158" />
+
+* I am playing cricket.
+* Playing Cricket is my favourite passtime.
+
+<img width="961" height="389" alt="image" src="https://github.com/user-attachments/assets/499f7250-dfea-4ff3-ba37-0a7a2e1d4d6c" />
+
+* is -> verb.
+* What is my favourite passtime?
+
+> Playing Cricket.
+
+<img width="1006" height="493" alt="image" src="https://github.com/user-attachments/assets/e058ce96-6b83-44cb-a0e6-68d73fcce782" />
+
+* Swimming -> Swimming within itself is an activity.
+* Swimming is my hobby. [Correct]
+* Playing cricket is my hobby. [Correct]
+
+<img width="1034" height="791" alt="image" src="https://github.com/user-attachments/assets/c956d076-d218-48d2-8bc7-c09c691fcd18" />
+
+* Swimming -> Subject.
+* is -> Verb.
+* Playing cricket -> Subject.
+
+<img width="1409" height="824" alt="image" src="https://github.com/user-attachments/assets/f0cd08db-954a-42d5-9866-603a51b30e67" />
+
+* Playing -> Gerund
+* Playing cricket -> Gerund phrase.
+
+<img width="1316" height="819" alt="image" src="https://github.com/user-attachments/assets/5cb43d86-cbf7-4d7f-a610-ee5679ac6741" />
+<img width="1288" height="808" alt="image" src="https://github.com/user-attachments/assets/b8f078f0-65f7-4344-8336-be5b59d0714d" />
+
+* start from 48mins.
 
 
 
