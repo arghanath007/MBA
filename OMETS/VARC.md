@@ -1609,6 +1609,127 @@
 <img width="1402" height="833" alt="image" src="https://github.com/user-attachments/assets/22880e04-f901-4cfe-ab06-e6ff3bedb794" />
 <img width="1397" height="789" alt="image" src="https://github.com/user-attachments/assets/99a6643b-e35d-451c-ae8d-4e80a1cfde6d" />
 
+### Verb and it's types (3) [6]
+
+#### Part of Speech
+
+* While -> At the time of. [Usage 1]
+* While -> Contrast. [Usage 2]
+* While I am good in VARC, my QA is very poor. [While -> To show contrast]
+
+<img width="1407" height="807" alt="image" src="https://github.com/user-attachments/assets/d88b9f66-38b8-439d-8c36-0f38e34b8a3f" />
+
+* As the CEO of this company, I am responsible for its image.
+* As I entered the class, the students started laughing.
+
+<img width="1403" height="810" alt="image" src="https://github.com/user-attachments/assets/623fac6b-199f-4eb8-ace8-eb1222991627" />
+
+* She sat besides/beside me.
+* She sat beside me. [Correct]
+* Besides -> Para Jumble.
+* Beside -> Position/Preposition. [**MEANING**] [**VERY IMPORTANT**]
+* Besides -> Adverb -> Adverbial Conjunction -> Adding something. [**MEANING**] [**VERY IMPORTANT**]
+
+<img width="1439" height="835" alt="image" src="https://github.com/user-attachments/assets/73291ef7-247d-4cbb-be38-94363cc3a2c8" />
+<img width="1435" height="843" alt="image" src="https://github.com/user-attachments/assets/51e04937-c3fb-4a9e-a772-b0af2cf6b49d" />
+
+* Adverbial Conjunction:- [**VERY IMPORTANT**]
+   * Add -> Moreover, besides, also, even.
+   * Contrast -> However, nevertheless, yet.
+   * Consequence -> Consequently, accordingly.
+   * Conclusion -> Hence, therefore, thus, ...
+
+<img width="1437" height="835" alt="image" src="https://github.com/user-attachments/assets/62db5312-97f7-4e0e-b6e6-b0444f425d08" />
+<img width="1389" height="816" alt="image" src="https://github.com/user-attachments/assets/075370d1-4d6c-47ea-9e8d-5726d7f30243" />
+<img width="833" height="641" alt="image" src="https://github.com/user-attachments/assets/8e38db1f-5a7d-4b85-a07f-a0c16a3bffed" />
+<img width="221" height="291" alt="image" src="https://github.com/user-attachments/assets/4c7ce4b6-e75f-474f-a42f-fa5efe2c226d" />
+
+* Identify **VERB** -> To + or tense.
+* I Want a glass of water to wash my hands.
+* I wanted a glass of water to wash my hands.
+
+<img width="1434" height="822" alt="image" src="https://github.com/user-attachments/assets/7af7f082-7f0d-4f1d-bef0-11cedaee13bd" />
+<img width="1430" height="817" alt="image" src="https://github.com/user-attachments/assets/0429f4e2-e437-427f-a6b7-2211181aae5a" />
+
+* VERB:-
+   * Finite -> Has a tense, takes a subject.
+   * Non-finite -> Does not take tense, does not have a subject.
+
+* Who wants a glass of water?
+
+> I.
+
+<img width="1407" height="817" alt="image" src="https://github.com/user-attachments/assets/e57b2b90-3961-4583-80f6-d4d9acc6726b" />
+
+* John is Rich. 
+* Who is Rich? -> John.
+* The price of oil and milk has increased.
+* What has increased? -> Price.
+* My average score in VARC has gone up.
+* What has gone up? -> Score.
+* Whenever you ask a question to the **verb**, the **subject** answers. [**VERY IMPORTANT**]
+* If there is a **verb(finite)** then there has to be a **subject** accompying the verb -> DNA of a sentence. [**VERY IMPORTANT**]
+
+<img width="1406" height="837" alt="image" src="https://github.com/user-attachments/assets/1b7c1392-23a8-49b6-9b7c-104a7d39dbc5" />
+<img width="1402" height="815" alt="image" src="https://github.com/user-attachments/assets/50987325-66ca-49e0-8439-a9a658b3b9e8" />
+
+* Delhi is the capital of India.
+      * Finite -> is, non-finite -> No.
+* I want to sleep.
+      * Finite -> want, non-finite -> to sleep.
+* to + verb -> infinitive.
+* non-finite -> It means that it will never change.
+
+<img width="1436" height="839" alt="image" src="https://github.com/user-attachments/assets/28603334-bc8e-443e-9d58-a9bfbc649558" />
+<img width="1431" height="817" alt="image" src="https://github.com/user-attachments/assets/6a2e28f4-defe-42f2-8b35-d673dc85a0a1" />
+
+* non-finite:-
+  * Infinitive.
+  * Gerunds.
+  * Participles   
+
+* He went to london.
+* London is noun.
+* to london -> This is not "to + action".
+* to sleep -> This is "to + action".
+* to london => to -> preposition.
+* from-to preposition.
+* to + verb -> **action** should be there.
+* verb -> **action**.
+* I Want to write CAT.
+* to write -> Infinitive.
+* want -> verb.
+* I -> Subject of **want** verb.
+
+<img width="1425" height="817" alt="image" src="https://github.com/user-attachments/assets/8ecf0658-5a67-4f87-a94c-3e6d991c2a64" />
+<img width="1428" height="815" alt="image" src="https://github.com/user-attachments/assets/9645aed8-6480-485a-81ba-bed878d54fd0" />
+
+* Gerunds is "-ing" form of the verb acting like a noun.
+* Non-finite verb -> Look like a verb, but they are not real verb.
+* Finite verb -> Is the real verb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
