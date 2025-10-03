@@ -1753,16 +1753,99 @@
 <img width="1316" height="819" alt="image" src="https://github.com/user-attachments/assets/5cb43d86-cbf7-4d7f-a610-ee5679ac6741" />
 <img width="1288" height="808" alt="image" src="https://github.com/user-attachments/assets/b8f078f0-65f7-4344-8336-be5b59d0714d" />
 
-* start from 48mins.
+* Singing is my hobby.
+* Singing classical songs is/are my hobby.
+* Singing classical songs is my hobby. [Correct]
 
+<img width="1195" height="435" alt="image" src="https://github.com/user-attachments/assets/90aef297-9a67-454b-a711-716e5167abaa" />
+<img width="1190" height="403" alt="image" src="https://github.com/user-attachments/assets/29eba39e-95e4-45f5-a36e-0fb62e528a55" />
 
+* Subject -> Singing -> Singular.
+* Classical songs-> They are coming along with **singing**.
 
+<img width="1326" height="792" alt="image" src="https://github.com/user-attachments/assets/49b0dd3a-616f-41dc-bc1a-d8485dbe4118" />
 
+* Classical songs are difficult to sing.
+* Classical -> Adjective.
+* songs -> Subject.
+* songs -> Plural.
+* are -> verb.
+* to sing -> infinitive, non-finite verb.
 
+<img width="1404" height="834" alt="image" src="https://github.com/user-attachments/assets/a320a738-8818-47f4-93cf-deaba344045e" />
+<img width="1396" height="800" alt="image" src="https://github.com/user-attachments/assets/a1762a1e-1f24-4c8d-84e0-bb63ce8000a0" />
 
+* Classical song is difficult to sing. [Correct]
+* songs -> Singular.
+* What are difficult to sing?
 
+> Classical songs.
 
+* Gerund/Gerund Phrase -> They are always **singular**. [**VERY IMPORTANT**]
 
+<img width="1433" height="834" alt="image" src="https://github.com/user-attachments/assets/882df921-3eae-40ed-b9ff-1d2d0b03b67c" />
+
+* Gerund can be a subject of a sentence.
+* Gerund can be an object of a sentence.
+* Gerund with same additional elements is called as Gerund phrase.
+* Singing is my hobby.
+* Singing -> Gerund.
+* Singing classical songs is my hobby. 
+* Singing -> Subject.
+* Singing classical songs -> Gerund phrase
+
+<img width="1430" height="863" alt="image" src="https://github.com/user-attachments/assets/f23e8ef7-7039-44ba-82de-2c7b26c221e1" />
+
+* [**VERY IMPORTANT**]
+* I like singing.
+* I -> Subject.
+* singing -> Object.
+* Singing can be both **subject** as well as an **object**.
+
+<img width="1397" height="790" alt="image" src="https://github.com/user-attachments/assets/dc4a93a5-590e-40bb-97f8-e1ac7b30ed9d" />
+
+* Subject(S) + Verb(V) + Object(O) -> Active Voice.
+
+<img width="1401" height="797" alt="image" src="https://github.com/user-attachments/assets/e641ebb6-2395-42f7-91d1-a29e65ac36b3" />
+<img width="1434" height="821" alt="image" src="https://github.com/user-attachments/assets/97abc384-df8b-42ed-afe9-950f059b23a4" />
+
+* The finite verb is the real verb.
+    * Tense.
+    * Subject.
+* Gerund -> Can be a **Subject** as well as an **Object**.
+* Infinitive -> Can be a **Subject** as well as an **Object**.
+* I want apples.
+* I want to sleep.
+* I -> Subject(S).
+* want -> verb(V).
+* apples, to sleep -> object(O).
+
+<img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/5863d03e-7f86-44ef-ab08-c73d901e296d" />
+
+* To love is to live.
+* To drink is to live.
+* To err is human.
+* To forgive is divine.
+* What is divine?
+
+> To forgive.
+
+<img width="1420" height="835" alt="image" src="https://github.com/user-attachments/assets/35dfd9b2-cf03-484a-85e0-bfaef1dcbeb0" />
+
+* To forgive -> Subject.
+* is -> verb.
+* Divine -> Adjective.
+
+<img width="1424" height="821" alt="image" src="https://github.com/user-attachments/assets/6841a122-43e4-4427-8345-5581b8e1e6db" />
+
+* To err -> Subject.
+* Finite verb is mandatory -> Subject -> Subject-Verb pair comes -> It is the DNA.
+* Singing is my hobby.
+* Singing classical songs is my hobby.
+* Singing all the day is my hobby.
+* Singing -> Gerund.
+* Singing classical songs, Singing all the day -> Gerund phrase.
+* Singing -> Head of the phrase.
 
 
 
