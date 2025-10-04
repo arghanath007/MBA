@@ -756,6 +756,24 @@
 
 * Exhaustive -> Thorough.
 
+### ParaJumbles(PJ) (4) [8]
+
+<img width="1351" height="635" alt="image" src="https://github.com/user-attachments/assets/a1a98ffb-ee64-4c4a-96ae-ffd78e61f54a" />
+
+* PJ. [**VERY IMPORTANT**]
+
+<img width="1411" height="807" alt="image" src="https://github.com/user-attachments/assets/b55bbcad-0922-4214-9588-de6867345fce" />
+<img width="1406" height="802" alt="image" src="https://github.com/user-attachments/assets/00b1983c-b468-422b-ae18-833f7583e5cd" />
+
+* PJ. [**VERY IMPORTANT**]
+
+<img width="1411" height="809" alt="image" src="https://github.com/user-attachments/assets/7330ad5c-58ff-474d-b901-c3b5040e6b64" />
+
+* 1342. [Wrong]
+* 4213. [Correct]
+* 4 -> More generic sentence.
+
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/6a504b18-587b-46d7-a132-658227d9872b" />
 
 
 
