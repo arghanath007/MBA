@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="772" height="295" alt="image" src="https://github.com/user-attachments/assets/d6397680-825d-428e-8cae-ebf0c9408801" />
+<img width="813" height="306" alt="image" src="https://github.com/user-attachments/assets/4cdc111f-2d8b-4c77-a378-e5f5918b15d5" />
 
 ## Study Prep/Routine
 
@@ -774,6 +774,63 @@
 * 4 -> More generic sentence.
 
 <img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/6a504b18-587b-46d7-a132-658227d9872b" />
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/6d0588f3-b013-4833-b4d1-a8de58e5e9b8" />
+<img width="1413" height="809" alt="image" src="https://github.com/user-attachments/assets/5d779c4f-fffa-422c-a75c-e9840f4341a5" />
+
+* 3142. [Wrong] [**VERY IMPORTANT**]
+* Perverse -> Wrong/Contrary. [**MEANING**]
+* 1 -> Negative impact.
+* 3 -> Positive impact.
+* 4231. [Correct]
+
+<img width="1417" height="820" alt="image" src="https://github.com/user-attachments/assets/33fe63a6-19b2-4ee5-bad4-43cde5666f4a" />
+<img width="1412" height="813" alt="image" src="https://github.com/user-attachments/assets/e568d614-91ed-45e3-a446-d8fe5ba4dde6" />
+
+* 1234. [Wrong]
+* 2413. [Correct]
+
+<img width="1407" height="797" alt="image" src="https://github.com/user-attachments/assets/457bf454-2697-41b5-981a-d61ba0f6b064" />
+<img width="1412" height="807" alt="image" src="https://github.com/user-attachments/assets/a1204bba-8cd8-4644-a63e-e6a4c256ae27" />
+<img width="1412" height="798" alt="image" src="https://github.com/user-attachments/assets/47c5018b-a128-447e-a730-d1c0ee98ac3a" />
+
+* 1324. [Wrong]
+* Pervade -> Permeate. [**MEANING**]
+* 3214. [Correct]
+
+<img width="1405" height="806" alt="image" src="https://github.com/user-attachments/assets/2bfb67d6-6a2b-4d4f-bb78-1903bf750e33" />
+<img width="1420" height="808" alt="image" src="https://github.com/user-attachments/assets/5d5a99b1-8f0c-42c2-963f-a237280903cf" />
+<img width="1388" height="790" alt="image" src="https://github.com/user-attachments/assets/ac6e8ff0-1557-4c7a-8bea-6d2d905dedfc" />
+
+* 1324. [Wrong]
+* 2314. [Correct] 
+
+<img width="1401" height="810" alt="image" src="https://github.com/user-attachments/assets/909c9941-928f-4722-81b7-d1cd777d2024" />
+<img width="1410" height="809" alt="image" src="https://github.com/user-attachments/assets/742903e9-50bf-4137-a382-fc5feb481526" />
+
+* 51324. [Wrong]
+* Consartium -> Group of companies that come together. [**MEANING**]
+
+<img width="1418" height="817" alt="image" src="https://github.com/user-attachments/assets/187c5f59-a654-454a-b376-a2552624c7a3" />
+<img width="1415" height="812" alt="image" src="https://github.com/user-attachments/assets/6a081665-0763-454a-b2bd-7724bcf8c1a7" />
+
+* 4 -> Intro/Mention.
+* 1 -> Definition.
+* 5 -> Application.
+
+<img width="895" height="440" alt="image" src="https://github.com/user-attachments/assets/f69c01e1-fec7-423c-9e8b-190f88852ce2" />
+
+* 34251. [Wrong]
+* 54123. [Correct]
+
+<img width="1413" height="803" alt="image" src="https://github.com/user-attachments/assets/34dc497e-b95d-4914-95d8-d4e5c630d79c" />
+<img width="1413" height="812" alt="image" src="https://github.com/user-attachments/assets/1f5d571a-fcc0-4bcc-8ce3-5e0623b00363" />
+
+
+
+
+
+
+
 
 
 
