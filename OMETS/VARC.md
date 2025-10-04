@@ -1845,40 +1845,129 @@
 * Singing all the day is my hobby.
 * Singing -> Gerund.
 * Singing classical songs, Singing all the day -> Gerund phrase.
-* Singing -> Head of the phrase.
+* Singing -> Head of the phrase -> Gerund phrase.
+* To respect your elders is a good thing.
+* what is a good thing?
 
+> To respect your elders.
 
+* To respect -> Infinitive.
+* your elders -> Infinitive phrase.
 
+<img width="1431" height="800" alt="image" src="https://github.com/user-attachments/assets/f460425d-3b66-4740-9cfc-731669dcd521" />
+<img width="1431" height="793" alt="image" src="https://github.com/user-attachments/assets/8b88e844-b136-48ad-9b6c-f9e4494a5e6d" />
 
+* Gerund phrase begins with Gerund.
+* Infinitive phrase begins with Infinitive.
+* Non-finite:
+     * Infinitive -> To + verb.
+     * Gerund -> -ing -> Only acts like a noun.
+     * Participle -> -ed, -ing, -en, -t -> Comes with verbs -> Always acts like adjective.
 
+<img width="1412" height="819" alt="image" src="https://github.com/user-attachments/assets/b53d6261-e5f7-4697-b65f-78040eaaeade" />
 
+* [**VERY IMPORTANT**]
+* The black chair is mine.
+* The broken chair is mine.
+* black -> adjective.
+* broken -> -en -> participle.
 
+<img width="1397" height="814" alt="image" src="https://github.com/user-attachments/assets/1979a6fc-7273-472b-8b94-e53776b2875a" />
 
+* -ous -> Adjective.
+* The blue car is expensive.
+* The car parked outside is expensive.
+* The car parked outside was expensive. [Changed the tense, is -> was]
 
+<img width="1435" height="827" alt="image" src="https://github.com/user-attachments/assets/86114fac-a0d6-40f2-bb5d-5a39d9f38041" />
 
+* What was expensive?
 
+> The car parked outside.
 
+* What is expensive?
 
+> The blue car.
 
+* blue, parked outside -> Adjective
 
+<img width="1436" height="838" alt="image" src="https://github.com/user-attachments/assets/ee9c0aad-e446-4cab-a8e8-a9acb36ab182" />
 
+* The blue car is expensive.
+* The -> article.
+* blue, expensive -> adjective.
+* car -> subject.
+* is -> verb
+* The car parked outside is expensive.
+* parked outside -> Acting like an adjective.
+* parked -> Participle.
+* parked outside -> Participle phrase.
+* is -> verb
+* expensive -> adjective.
 
+<img width="1409" height="814" alt="image" src="https://github.com/user-attachments/assets/f889f51c-abc5-4e2d-b432-4e82213f34d5" />
 
+* [**VERY IMPORTANT**]
+* The man dancing on the street is my VARC teacher.
+* man -> Subject.
+* dancing on the street -> Modifying man.
+* dancing on the street -> Participle phrase.
+* Dancing -> Participle
+* is -> verb.
 
+<img width="1392" height="814" alt="image" src="https://github.com/user-attachments/assets/0b1d70eb-eee8-4586-a693-7e157218d5e7" />
+ <img width="1419" height="814" alt="image" src="https://github.com/user-attachments/assets/a13e42e0-5b4b-4c1d-bb80-eb4636fb71cb" />
 
+* The man sitting in front of me is sleeping.
+* Sitting -> Participle.
+* sitting in front of me -> Participle phrase.
+* is sleeping -> finite -> this is changing.
+* sitting in front of me -> Modifying man.
+* The men sitting in front of me are sleeping.
+* The monument built by Shah Jahan is in Agra.
+* built by Shah Jahan -> Participle phrase -> ending with -t.
+* built by Shah Jahan -> Modifying monument.
+* The man sleeping on the chair is my father.
+* sleeping -> Adjective.
+* The man slept on the chair.
+* man -> Subject.
+* slept -> Verb.
+* Finite verb -> Subject-Verb.
+* Non-finite verb -> Rest of the other things.
+        * Infinitive -> To + verb.
+        * Gerund ->  -ing -> Gerund does not need a **noun**. Gerund becomes the **noun**.
+        * Participle -> Always act like an adjective -> Every participle needs a **noun**.
 
+<img width="1429" height="844" alt="image" src="https://github.com/user-attachments/assets/c6d4cd7e-9182-46c3-96bb-a74812937940" />
 
+* Sleeping is good for health.
+* Sleeping -> Gerund.
+* The man sleeping on the chair is my uncle.
+* sleeping -> Participle.
+* sleeping -> modifying man.
+* Sleeping for atleast 8hrs is good for health.
+* What is good for health? 
 
+> Sleeping for atleast 8hrs
 
+* Sleeping for atleast 8hrs -> Gerund Phrase.
+* The man sleeping on the chair since 8 in the morning is my uncle.
+* sleeping on the chair since 8 in the morning -> Adjective.
+* sleeping on the chair since 8 in the morning -> Participle Phrase.
+* sleeping on the chair since 8 in the morning -> Modifying man.
+* sleeping -> Participle
 
+<img width="1432" height="835" alt="image" src="https://github.com/user-attachments/assets/112bfb7d-2253-4bc2-b926-caa312dcf58d" />
+<img width="1435" height="834" alt="image" src="https://github.com/user-attachments/assets/ad5e8ff9-1aed-4d77-b97e-2daaf5c1d6da" />
 
+* Gerund -> Comes alone -> Standing alone. [**VERY IMPORTANT**]
+* Participle -> Comes with someone -> Comes for someone. [**VERY IMPORTANT**]
 
+<img width="1414" height="816" alt="image" src="https://github.com/user-attachments/assets/c42e78ad-32ef-4d6a-be8a-1d160a7bd96d" />
 
+### Verb and it's types (4) [7]
 
-
-
-
-
+<img width="1067" height="814" alt="image" src="https://github.com/user-attachments/assets/b0c921e7-afb0-45f1-a4eb-d21e37377f49" />
 
 
 
