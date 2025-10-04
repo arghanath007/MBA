@@ -2,9 +2,7 @@
 
 ## Next Class
 
-<img width="794" height="291" alt="image" src="https://github.com/user-attachments/assets/346985d5-c66b-41a4-b928-9d73a03d6b5e" />
-
-* 29th Aug.
+<img width="772" height="295" alt="image" src="https://github.com/user-attachments/assets/d6397680-825d-428e-8cae-ebf0c9408801" />
 
 ## Study Prep/Routine
 
@@ -1969,38 +1967,340 @@
 
 <img width="1067" height="814" alt="image" src="https://github.com/user-attachments/assets/b0c921e7-afb0-45f1-a4eb-d21e37377f49" />
 
+* I am rich.
+* You are rich.
+* I -> Definitely singular.
+* You -> Could be singular or plural. [**VERY IMPORTANT**]
+* I am rich -> 1st person.
+* You are rich -> 2nd person.
+* If we change from 1st to 2nd person then the **verb(finite verb)** changes. Non-finite verb does not change. [**VERY IMPORTANT**]
 
+<img width="1056" height="806" alt="image" src="https://github.com/user-attachments/assets/46c565b5-8069-4a1f-bc86-ecdf24ed1e1d" />
 
+* He/she is rich.
+* He/she -> singular.
+* I, He, she, you -> singular.
+* He/she is rich -> 3rd person.
+* We are rich.
+* We -> Plural.
+* **You** remains the same in **singular or plural**. [**VERY IMPORTANT**]
+* They are rich.
+* They -> Plural.
+* It -> Refers to non-human/non-humans.
 
+<img width="1063" height="809" alt="image" src="https://github.com/user-attachments/assets/247ebe89-e30a-41d1-ace0-5cc0996eca27" />
+<img width="1071" height="812" alt="image" src="https://github.com/user-attachments/assets/cca16475-b869-41d8-a8d6-235381f6843b" />
 
+* I want a glass of water to wash my eyes.
+* She wants a glass of water to wash her eyes.
 
+<img width="1096" height="347" alt="image" src="https://github.com/user-attachments/assets/97386027-5570-4e5a-8a35-497b00b9ce36" />
 
+* I -> 1st person.
+* She -> 3rd person.
+* I, She -> Singular.
+* She wants a glass of water.
+* They want a glass of water.
+* They -> Plural.
+* They -> 3rd person.
 
+<img width="1410" height="804" alt="image" src="https://github.com/user-attachments/assets/e0492104-df6a-4957-9bf5-e54a3222c9e5" />
 
+* The car parked outside is expensive.
+* The car parked outside was expensive.
+* parked outside -> Non-finite verb -> It has not changed.
+* is, was -> finite verb -> It has changed. [is -> was]
+* finite verbs have a **time frame**.  [**VERY IMPORTANT**]
+* Non-finite verbs will remain the **same** always regardless of how we will tweak the sentence. [**VERY IMPORTANT**]
 
+<img width="1409" height="805" alt="image" src="https://github.com/user-attachments/assets/befa6cfc-1e66-4383-a633-716f445fda0a" />
+<img width="1414" height="829" alt="image" src="https://github.com/user-attachments/assets/a651c22e-5212-4e39-b23a-95ec58157f86" />
 
+* I go to school every day.
+* to -> Preposition.
+* school -> Noun.
+* to + verb -> Non-finite(Infinitives).
 
+<img width="1058" height="805" alt="image" src="https://github.com/user-attachments/assets/46e9a915-1293-4da0-8d7c-1f6d4055d32d" />
 
+* Finite verbs. [**VERY IMPORTANT**]
+* Finite verbs have Subject-Verb Agreement.
 
+<img width="1051" height="798" alt="image" src="https://github.com/user-attachments/assets/a29acd5a-b9f9-49b6-b995-2e9be8bf2e19" />
 
+* Non-Finite verbs. [**VERY IMPORTANT**]
+* To love is to live.
+* To drink is to live.
+* To die is better than to live.
+* To die, To drink, To love -> Infinitive.
 
+<img width="1065" height="804" alt="image" src="https://github.com/user-attachments/assets/32a06341-f75b-4630-a9cb-faf95cc24fa8" />
 
+* Gerunds -> -ing form of the verb, acting like noun. [**VERY IMPORTANT**]
+* Swimming is my hobby.
+* Swimming -> object.
 
+<img width="1071" height="806" alt="image" src="https://github.com/user-attachments/assets/9d706add-601f-4a7b-a4c3-a4b67cbddfa3" />
 
+* To love someone without any expectation is to live.
+* To love someone without any expectation -> Gerund phrase.
+* Swimming on weekends is my hobby.
+* Swimming on weekends -> Gerund phrase.
+* Participles -> Acts/Attacks like adjectives. [**VERY IMPORTANT**]
+* Singing classical songs is my hobby.
+* What is my hobby?
 
+> Singing classical songs
 
+* Singing -> Gerund.
+* Singing classical songs -> Gerund phrase.
 
+<img width="1401" height="798" alt="image" src="https://github.com/user-attachments/assets/b8727628-0dc2-49fd-86c1-97cc771b4431" />
 
+* The man singing classical songs is my uncle.
+* Singing -> Participle.
+* Singing classical songs -> Participle phrase -> Modifies the man -> Does the job of adjectives.
 
+<img width="1404" height="810" alt="image" src="https://github.com/user-attachments/assets/dea8f8f0-e6e2-4bb7-a27a-47ebeecef9c2" />
+<img width="1076" height="814" alt="image" src="https://github.com/user-attachments/assets/17aee6f9-a37b-48bd-bf27-05050b30d78c" />
+<img width="1064" height="804" alt="image" src="https://github.com/user-attachments/assets/81ade716-29c6-479b-92bf-2a3761a9149e" />
 
+* I enjoy books.
+* books -> noun.
+* I enjoy reading.
+* reading -> Replaying the **noun(books)** -> Gerund.
+* reading, books -> Object of the verb.
+* Enjoy -> Verb.
+* I -> Subject.
+* Action -> Subject. [**VERY IMPORTANT**]
+* Receives the action -> Object. [**VERY IMPORTANT**]
 
+<img width="1079" height="816" alt="image" src="https://github.com/user-attachments/assets/7b192cd5-2b73-4d96-8bed-91932fc519ed" />
 
+* John attacked Peter.
+* John -> Subject.
+* attacked -> Verb.
+* Peter -> Object.
+* Who attacked? -> John
+* Attacked whom? -> Peter. 
+* Who -> Subject Pronoun. [**VERY IMPORTANT**]
+* Whom -> Object Pronoun. [**VERY IMPORTANT**]
 
+<img width="1117" height="840" alt="image" src="https://github.com/user-attachments/assets/2a108d0e-46e4-482e-8984-09277fa09c1d" />
 
+* John attacked whom?
+* Whom did John attack?
 
+<img width="1136" height="831" alt="image" src="https://github.com/user-attachments/assets/506b9a60-b225-45b1-801e-a0a0d6eafd16" />
+<img width="1083" height="813" alt="image" src="https://github.com/user-attachments/assets/0a171899-42cf-40e8-92cf-5ae533bc2b3f" />
 
+* Subject is being talked about -> **Who** should be used.
+* Object is being talked about -> **Whom** should be used.
+* Dancing makes him happy.
+* Dancing -> Gerund.
+* What makes him happy?
 
+> Dancing. [Makes verb]
 
+* Dancing early in the morning makes him happy.
+* Dancing -> Gerund.
+* Dancing early in the morning -> Gerund Phrase.
+* What makes him happy?
+
+> Dancing early in the morning.
+
+<img width="1051" height="798" alt="image" src="https://github.com/user-attachments/assets/97d520d7-1601-4452-9b45-72bf429af753" />
+<img width="1062" height="812" alt="image" src="https://github.com/user-attachments/assets/76331be7-d37d-4131-a6f3-ccfb6c9cb58a" />
+<img width="1052" height="790" alt="image" src="https://github.com/user-attachments/assets/71a48a8d-4f2f-440c-8a0f-21424af41591" />
+
+* Crying acts like adjective modifying the noun "baby".
+
+<img width="1052" height="790" alt="image" src="https://github.com/user-attachments/assets/35e11061-e5fc-42b8-a706-169586f81e2f" />
+
+* She is singing.
+* They have completed the work.
+* I will go tomorrow.
+* is, have, will -> Helping verb(hv).
+* singing, completed, go -> main verb(mv).
+* singing -> Part of an action.
+
+<img width="1062" height="799" alt="image" src="https://github.com/user-attachments/assets/29450d12-76e6-4ff5-90e2-2a0033c4678a" />
+<img width="1067" height="800" alt="image" src="https://github.com/user-attachments/assets/05f3c991-f7d3-4957-a975-c7fb21212519" />
+
+* Main and finite verb is **same** only.
+
+<img width="1064" height="815" alt="image" src="https://github.com/user-attachments/assets/371b2436-b964-4eec-b31c-b0d0949e3a2e" />
+
+#### Active and Passive Voice
+
+* Active -> Subject(S) + Verb(V) + Object(O).
+* Passive -> Object(O) + Verb(V) + Subject(S).
+
+<img width="904" height="399" alt="image" src="https://github.com/user-attachments/assets/d6a1384a-c99c-4942-b3ff-cb5fff810251" />
+
+* The verb changes from active voice to passive voice. [**VERY IMPORTANT**]
+
+<img width="1427" height="826" alt="image" src="https://github.com/user-attachments/assets/ac6d6d43-2c02-4b0d-b24b-c11f69cbd91b" />
+<img width="222" height="91" alt="image" src="https://github.com/user-attachments/assets/18163f01-c6c4-46df-acf4-580d6886afa0" />
+
+* [**VERY IMPORTANT**]
+* I love katrina Kaif. [Active Voice]
+* Katrina Kaif is loved by me. [Passive Voice]
+
+<img width="1435" height="816" alt="image" src="https://github.com/user-attachments/assets/9ed0118c-52ac-4e3b-8eed-3dae3d6d2985" />
+
+* Reasons for passive voice:-
+
+1) The object is more important than the subject.
+      * The receipient of the action is more important than the taker of the action.
+* Mahatma Gandhi has been shot dead.
+
+<img width="429" height="160" alt="image" src="https://github.com/user-attachments/assets/ea954a9b-d4d4-4286-a489-beac69ae72e7" />
+<img width="1389" height="818" alt="image" src="https://github.com/user-attachments/assets/3c45077c-1466-4009-ab03-8f7fcb444e68" />
+
+2) When the subject is not known or utterly insignificant.
+
+<img width="1398" height="817" alt="image" src="https://github.com/user-attachments/assets/02f00bb7-658c-4919-9d97-bf7d11fa0137" />
+
+* Transitive verbs -> Take objects. [**VERY IMPORTANT**]
+* Intransitive verbs -> Don't need objects. [**VERY IMPORTANT**]
+* I slept for 6 hrs.
+* I -> Subject
+* slept -> verb
+* for -> preposition.
+* Object -> None.
+* for 6 hrs -> prepositional phrase.
+* I slept for 6 hrs -> slept -> No object -> Intransitive verbs.
+* Mahatama Gandhi died on 30th Jan 1948.
+* Mahatama Gandh -> Subject.
+* died -> verb.
+* Object -> None.
+* on 30th Jan 1948 -> prepositional phrase.
+* Mahatama Gandhi died on 30th Jan 1948 -> died -> No object -> Intransitive verbs.
+
+<img width="1395" height="821" alt="image" src="https://github.com/user-attachments/assets/023ce69a-a50f-4fa0-a8e7-02d0da387266" />
+
+* I hurt my brother.
+* I -> Subject.
+* hurt -> Verb.
+* my brother -> Object.
+* Only **transitive verbs** will have **passive voices**. [**VERY IMPORTANT**]
+* Intransitive verbs do not have **passive voices**. [**VERY IMPORTANT**]
+
+<img width="1395" height="803" alt="image" src="https://github.com/user-attachments/assets/8ace68fa-b601-48b3-a5a1-2ed9dcd2c8a0" />
+<img width="1396" height="806" alt="image" src="https://github.com/user-attachments/assets/da122b29-b05f-4754-8f9c-228355a4b943" />
+<img width="437" height="76" alt="image" src="https://github.com/user-attachments/assets/0b26a102-d8b4-499d-86d1-aaed004728de" />
+
+* Died -> Verb.
+* Verb remains the **same**, it did not change. [**VERY IMPORTANT**]
+* If passive voice happens then the **verb** changes. If the **verb** does not change, then it is not a passive voice. [**VERY IMPORTANT**]
+* I hurt my brother. [Active Voice]
+* My brother has been hurt by me. [Passive Voice]
+* hurt -> Verb.
+* hurt -> has been hurt. [Active
+
+<img width="1386" height="828" alt="image" src="https://github.com/user-attachments/assets/7eb44782-615f-46e0-8c47-3d2119fedf9d" />
+<img width="1112" height="496" alt="image" src="https://github.com/user-attachments/assets/e8bd864a-f009-4252-8f5b-63e5fd810025" />
+
+* hurt -> Past tense.
+
+1) My brother has been hurt by me. [Hurt -> Present tense]
+2) My brother was hurt by me. [Hurt -> Past tense]
+
+<img width="1408" height="813" alt="image" src="https://github.com/user-attachments/assets/83d7bd34-0c15-4bdd-831f-372d8da0e4b3" />
+
+* Yesterday I hurt my brother. [Past tense]
+* My brother was hurt by me the day before.
+
+<img width="215" height="97" alt="image" src="https://github.com/user-attachments/assets/4bde735a-90eb-4f6b-b5ef-13d8635504a0" />
+<img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/3bf0b83c-ba7b-44ca-982c-7b851b10d41d" />
+<img width="1417" height="829" alt="image" src="https://github.com/user-attachments/assets/51132717-0ae3-43ca-abe4-77ccb295544f" />
+
+* Transitive -> Transit -> movement. [MEANING]
+* She slapped me.
+* He was slapped.
+
+<img width="1428" height="847" alt="image" src="https://github.com/user-attachments/assets/666da6f0-8a4c-483b-a83f-5e2f5ebdbc9f" />
+
+* I jumped on the bed.
+* I -> Subject.
+* jumped -> verb/action.
+* I killd a mosquito.
+* killd -> verb/action.
+* mosquito -> Object.
+* Intransitive -> Died, jumped, walked, slept -> No object -> As no object so no passive voice.
+* Transitive ->  killed, slapped, hurt, met, saw -> Need object -> As object there so passive voice possible.
+
+<img width="1391" height="818" alt="image" src="https://github.com/user-attachments/assets/2271f7ee-7730-43a9-8094-8a5442a579bb" />
+<img width="1057" height="808" alt="image" src="https://github.com/user-attachments/assets/637b1caa-2f8a-4891-93cb-b3d4b96b9d69" />
+<img width="1051" height="797" alt="image" src="https://github.com/user-attachments/assets/53daa127-552a-4650-a501-ea736c85c625" />
+<img width="1404" height="811" alt="image" src="https://github.com/user-attachments/assets/977ebf72-10a9-458e-9b26-41a3ad6b83b0" />
+<img width="1415" height="836" alt="image" src="https://github.com/user-attachments/assets/41681991-7921-41c3-bc25-8aba9fd924a7" />
+
+#### Clause
+
+<img width="1436" height="838" alt="image" src="https://github.com/user-attachments/assets/6aacaa70-4cb5-4756-8405-adcd0708c6fd" />
+
+* Man -> Noun.
+* The man -> Noun phrase.
+* The tall man -> Noun phrase.
+* Some rich people -> Noun phrase.
+* man, people -> Head of the noun phrase.
+* A phrase is a combination of two or more words. It does not have **Subject(S) + Verb(V)** combination.
+* I have been studying QA since morning.
+* have been studying -> Verb phrase.
+
+<img width="1391" height="817" alt="image" src="https://github.com/user-attachments/assets/839ada5b-2efb-44bd-a623-71e0cc21e653" />
+
+* I went to school with my uncle.
+* with my uncle -> Prepositional phrase.
+
+<img width="1070" height="442" alt="image" src="https://github.com/user-attachments/assets/9fff7950-417e-4a41-9ec5-63f11657594e" />
+<img width="1390" height="811" alt="image" src="https://github.com/user-attachments/assets/de20ff12-2891-4511-a0bb-390882e545ef" />
+
+* It will become a **clause** when we put a **finite verb**. [**VERY IMPORTANT**]
+* clause -> Subject(S) + Finite-Verb(V) -> S + V -> The Subject(S) + Verb(V) pair is there.  [**VERY IMPORTANT**]
+* Phrase -> The Subject(S) + Verb(V) pair is not there.  [**VERY IMPORTANT**]
+* The man slept.
+* The tall man slept.
+* Some rich people slet.
+
+<img width="1428" height="830" alt="image" src="https://github.com/user-attachments/assets/a3e57502-ece1-4178-9325-8b3bc970bf47" />
+
+* In the middle of the night -> No meaning/makes no sense.
+* In the middle of the night, I woke up -> Makes sense.
+* I -> Subject.
+* Woke -> Verb.
+* Up -> Adverb.
+
+<img width="1387" height="549" alt="image" src="https://github.com/user-attachments/assets/710f191b-38b2-46ea-9009-11324140251c" />
+
+* In the middle of the night -> Phrase.
+* I woke up -> Clause.
+* Clauses always have a **subject(S) and a finite-verb(V)**. Phrases doesn't have it. [**VERY IMPORTANT**]
+* Clauses are always meaningful. Phrases are not meaningful. [**VERY IMPORTANT**]
+* Clauses -> Subject(S) + finite-verb(V).
+
+<img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/72c50c8c-abfe-4ed6-86d8-32cc384827fd" />
+<img width="960" height="331" alt="image" src="https://github.com/user-attachments/assets/85c69b8a-029b-4dea-ad89-e70497a3e338" />
+
+* The man sitting behind me.
+* sitting -> Participle -> Modifies the man.
+* sitting behind me -> Participle Phrase.
+* The man is sitting behind me.
+* is -> Finite verb(V).
+* The man sitting behind me is angry. [Correct]
+* The man is sitting behind me. [Correct]
+* is sitting -> Verb phrase.
+* sitting behind me -> Participle Phrase.
+
+<img width="1383" height="809" alt="image" src="https://github.com/user-attachments/assets/9fa75ba0-8c5f-45c9-b37b-eceffc3e39d9" />
+<img width="1411" height="834" alt="image" src="https://github.com/user-attachments/assets/6050f1f6-3bb6-4818-aef6-19e46e053ab9" />
+
+* The man sitting behind me -> No verb clarify -> Phrase.
+
+<img width="1404" height="817" alt="image" src="https://github.com/user-attachments/assets/3e9317bd-9495-4d52-aae3-a7d7e549e7bd" />
+<img width="1408" height="822" alt="image" src="https://github.com/user-attachments/assets/165fe988-d6f8-4da4-837b-ead647fdfa7a" />
 
 
 
