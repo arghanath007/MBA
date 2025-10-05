@@ -2465,6 +2465,46 @@
 <img width="1404" height="817" alt="image" src="https://github.com/user-attachments/assets/3e9317bd-9495-4d52-aae3-a7d7e549e7bd" />
 <img width="1408" height="822" alt="image" src="https://github.com/user-attachments/assets/165fe988-d6f8-4da4-837b-ead647fdfa7a" />
 
+### Phrases and Clauses (5) [10]
+
+<img width="1410" height="821" alt="image" src="https://github.com/user-attachments/assets/cf9e2883-8883-4965-b1ca-706cb8144da9" />
+
+* The tall man sitting behind me.
+* sitting behind me -> Participle phrase.
+* Behind me -> Preposition phrase.
+* sitting -> Participle -> modifying man.
+* The tall man sitting behind me -> Noun phrase.
+
+<img width="1401" height="828" alt="image" src="https://github.com/user-attachments/assets/151ec9ba-429a-4b68-92ad-1b8b354ba4e0" />
+<img width="1401" height="804" alt="image" src="https://github.com/user-attachments/assets/e9f45b9a-938d-402c-96ba-2659a4f43d8d" />
+
+* Man -> Key element.
+* To solve some QA questions I got up in the morning.
+* I got up in the morning -> Main idea.
+* To solve -> Infinitive.
+* To solve some QA questions -> Infinitive phrase.
+
+<img width="1382" height="801" alt="image" src="https://github.com/user-attachments/assets/d326f872-8bbc-4f42-86e0-53181432cd09" />
+
+* Phrases are not meaningful. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
