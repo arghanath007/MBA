@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="813" height="306" alt="image" src="https://github.com/user-attachments/assets/4cdc111f-2d8b-4c77-a378-e5f5918b15d5" />
+<img width="713" height="311" alt="image" src="https://github.com/user-attachments/assets/45bf2ff8-bafa-4766-accc-8e5a180af5cb" />
 
 ## Study Prep/Routine
 
@@ -824,6 +824,94 @@
 
 <img width="1413" height="803" alt="image" src="https://github.com/user-attachments/assets/34dc497e-b95d-4914-95d8-d4e5c630d79c" />
 <img width="1413" height="812" alt="image" src="https://github.com/user-attachments/assets/1f5d571a-fcc0-4bcc-8ce3-5e0623b00363" />
+
+### RC (5) [9]
+
+<img width="1411" height="777" alt="image" src="https://github.com/user-attachments/assets/c7b82aed-f0b2-4c60-8979-5cfc418281d7" />
+<img width="899" height="590" alt="image" src="https://github.com/user-attachments/assets/fc65bed2-d57a-49eb-b8e3-b882cfe3aaab" />
+
+* [**VERY IMPORTANT**]
+
+<img width="1409" height="816" alt="image" src="https://github.com/user-attachments/assets/e67a0999-fc1a-4ac2-8705-f9eab36e00d4" />
+<img width="1394" height="562" alt="image" src="https://github.com/user-attachments/assets/5b14585c-23d7-4aee-a244-f8b736574045" />
+
+* RC1
+
+<img width="1428" height="912" alt="image" src="https://github.com/user-attachments/assets/2bd52b7d-a695-4a67-8143-c603a9199a91" />
+
+* Ans -> Option **A**. [Got Correct]
+
+<img width="1415" height="805" alt="image" src="https://github.com/user-attachments/assets/71fd0a9f-5cb3-48d5-824f-b4a68c54e8b7" />
+<img width="1406" height="817" alt="image" src="https://github.com/user-attachments/assets/e4a7329b-b627-4ebe-b853-c5b421df6ad8" />
+
+* D -> Extreme and narrow option.
+* E -> Generic and narrow option.
+
+<img width="1434" height="908" alt="image" src="https://github.com/user-attachments/assets/c20a7bb2-946f-41bd-a837-5d92d9f8dd28" />
+
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1418" height="814" alt="image" src="https://github.com/user-attachments/assets/71bfb426-9ec8-42c8-b971-4331df592e1b" />
+
+* D -> Out of Scope/Alien option.
+* E -> Contrary and Out of scope option.
+
+<img width="1426" height="908" alt="image" src="https://github.com/user-attachments/assets/c292ad72-5b9f-405c-baa6-f3b0785c97eb" />
+
+* Ans -> Option **E**. [Got Correct]
+
+<img width="1420" height="814" alt="image" src="https://github.com/user-attachments/assets/a951c5d9-0aa7-48fd-9a31-535bbaa41b9e" />
+<img width="1412" height="800" alt="image" src="https://github.com/user-attachments/assets/7b1d1b40-783f-4cc1-96a0-3905d6de6b05" />
+
+* A -> Out of Scope option.
+
+<img width="1434" height="918" alt="image" src="https://github.com/user-attachments/assets/b045d3ad-f20e-4a5a-a6ad-9a5a4b22b975" />
+
+* Ans -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/b41a3dd5-fb79-47c1-ad3a-5b85e9b39cf8" />
+<img width="1424" height="816" alt="image" src="https://github.com/user-attachments/assets/155f8ca6-518f-42b1-a497-c7147b68baa7" />
+
+* B, E -> Out of scope option.
+* C -> True but it is about ESOPs.
+
+* Underscored -> Highlighted. [MEANING]
+* Polarization ->  division into two sharply distinct opposites. [MEANING]
+* Rancor -> Enmity/Bitterness. [MEANING]
+* Transcend -> Rise above. [MEANING]
+* Bi -> Two. [MEANING]
+* Coalition -> Coming together/Uniting. [MEANING]
+* Proponents -> Supporters. [MEANING]
+* Extol -> Praise highly. [MEANING]
+
+<img width="1394" height="821" alt="image" src="https://github.com/user-attachments/assets/46678adf-3c4b-4360-bd5a-2549d56866a1" />
+<img width="1375" height="783" alt="image" src="https://github.com/user-attachments/assets/6ae7e591-190c-408d-8588-0e149ab57134" />
+<img width="333" height="226" alt="image" src="https://github.com/user-attachments/assets/4b6efe76-6ab5-4c46-80da-6f0048cadddf" />
+
+* VARC => PS -> PC -> OOO -> PJ. [**VERY IMPORTANT**]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
