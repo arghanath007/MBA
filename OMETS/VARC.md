@@ -1,4 +1,4 @@
-# VARC
+<img width="1396" height="791" alt="image" src="https://github.com/user-attachments/assets/56d47c63-3aa9-421d-85af-e8b90efba231" /># VARC
 
 ## Next Class
 
@@ -2486,7 +2486,254 @@
 
 <img width="1382" height="801" alt="image" src="https://github.com/user-attachments/assets/d326f872-8bbc-4f42-86e0-53181432cd09" />
 
-* Phrases are not meaningful. 
+* Phrases are not meaningful.
+* John Slept -> Clause.
+* Slept -> Finite verb.
+* Clause -> Subject + Finite-verb.
+
+<img width="1401" height="816" alt="image" src="https://github.com/user-attachments/assets/0d76cd9c-4fdb-43d5-ad43-9ccc3539af06" />
+
+* Clause -> Will always create a meaningful idea.  [**VERY IMPORTANT**]
+
+<img width="1408" height="821" alt="image" src="https://github.com/user-attachments/assets/e88084b5-b8b4-4ed1-be63-24cf30240394" />
+
+* Sentence -> It has a punctuation in the form of a fullstop, exclamation mark, question mark. [**VERY IMPORTANT**]
+
+<img width="1429" height="828" alt="image" src="https://github.com/user-attachments/assets/9a68be94-6272-4a17-aa66-7d62cbe153d0" />
+<img width="1416" height="815" alt="image" src="https://github.com/user-attachments/assets/19808587-e3e3-409c-aff5-941ee16e5dce" />
+
+* Sentence -> Subject + Finite-verb. [**VERY IMPORTANT**]
+* Clauses:-
+    * Dependent/Subordinate -> Dependent for their meaning on an Independent clause(IC). [**VERY IMPORTANT**]
+    * Independent(Meaningful on it's own) -> [**VERY IMPORTANT**]
+* I am Rich -> Independent clause(IC).
+* Because I am Rich -> Dependent/Subordinate clause.
+* I am Happy -> Independent clause(IC).
+* A sentence will have definitely an Independent clause(IC). It may or may not have a Dependent/Subordinate clause. [**VERY IMPORTANT**]
+
+<img width="1411" height="818" alt="image" src="https://github.com/user-attachments/assets/669ac861-1674-4222-923f-412243a785b5" />
+
+* Mumbai is the financial capital of India.
+* Mumbai -> Subject
+* is -> verb.
+* Mumbai is the financial capital of India -> Independent clause(IC).
+* Because it has the head office of many big companies, Mumbai is the financial capital of India.
+* Because it has the head office of many big companies -> Dependent/Subordinate clause.
+* Mumbai is the financial capital of India -> Independent clause(IC).
+* Independent clause(IC) -> Called as **Main clause** as well.
+
+<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/c16a8ab2-8ae7-4b85-9989-028c06174302" />
+<img width="1393" height="797" alt="image" src="https://github.com/user-attachments/assets/fc14876c-0486-4737-828e-0001777c5055" />
+<img width="1413" height="828" alt="image" src="https://github.com/user-attachments/assets/915aca17-b826-4217-b512-72ed3585a62e" />
+
+* Mumbai is the financial capital of India; Delhi is the political capital of India.
+* Mumbai is the financial capital of India -> IC.
+* Delhi is the political capital of India -> IC.
+* DC + IC -> Sentence.
+* 2DC + 2IC -> Sentence.
+
+<img width="1422" height="825" alt="image" src="https://github.com/user-attachments/assets/60410229-e400-4881-9d73-b43e3fef03c5" />
+<img width="1405" height="569" alt="image" src="https://github.com/user-attachments/assets/4ca6bcd5-1a8f-42e4-9c6f-0e799b655929" />
+
+* Phrases and Clauses. [**VERY IMPORTANT**]
+
+<img width="1398" height="475" alt="image" src="https://github.com/user-attachments/assets/b65c7318-4c98-455b-9c3c-89705dbec5dd" />
+<img width="1411" height="796" alt="image" src="https://github.com/user-attachments/assets/072adce8-b55c-42e9-b17e-9c3196041478" />
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/9e22ec51-0219-429d-9807-5152a463ac96" />
+
+* Predicate -> Everything which is not the subject. [**VERY IMPORTANT**]
+* He is right.
+* He -> Subject.
+* is -> verb.
+* right -> adjective.
+* What he says is right.
+* is -> verb.
+* What is right?
+
+> What he says.
+
+* What he says -> Subject.
+* What he says -> Noun Clause.
+
+<img width="1411" height="815" alt="image" src="https://github.com/user-attachments/assets/9d4a41a5-14af-4e68-a4fb-6a756c0e3e38" />
+
+* John is right.
+* What John says is right.
+
+<img width="1415" height="801" alt="image" src="https://github.com/user-attachments/assets/17bdc671-d79d-4707-8407-055fb31953a0" />
+
+* A dependent clause has become the subject of the sentence.
+* I know what he said -> Noun Clause..
+* A dependent clause can be subject of a sentence. Only noun clauses can become subject of a sentence. [**VERY IMPORTANT**] 
+
+<img width="1424" height="816" alt="image" src="https://github.com/user-attachments/assets/7422e417-be28-4938-b7d2-fa89e3ae5d46" />
+
+* That life is a dream is known to all of us.
+* is known -> Verb.
+* That life is a dream -> Subject.
+* What is known to all of us?
+
+> That life is a dream
+
+* That life is a dream -> Dependent Clause. 
+
+<img width="1396" height="791" alt="image" src="https://github.com/user-attachments/assets/03cec23d-4fb0-47eb-b030-0e0edcecedb0" />
+
+* "That" is a conjunction creating a Dependent Clause(DC). 
+* "That":-
+
+1) Pronoun.
+2) Conjunction.
+3) Relative Pronoun.
+
+* I know that he is rich. [Active Voice]
+
+<img width="1428" height="822" alt="image" src="https://github.com/user-attachments/assets/730bdf8f-5128-4f32-bf33-ffb253acad4e" />
+<img width="1404" height="805" alt="image" src="https://github.com/user-attachments/assets/6fc15c39-84b0-4d41-a284-220d8931f61e" />
+
+* I -> Subject.
+* know -> verb.
+* that he is rich -> Object.
+
+<img width="1410" height="823" alt="image" src="https://github.com/user-attachments/assets/1ee8aa5a-8fff-45c2-b5ab-f47ba4f60e63" />
+<img width="1409" height="798" alt="image" src="https://github.com/user-attachments/assets/4587583c-9f67-4ddf-8533-f711b271549e" />
+
+* That he is rich is known to me. [Passive Voice]
+* I know that life is a dream. [Active Voice]
+* That life is a dream is known to me. [Passive Voice]
+* Because he is rich, he is happy.
+* Whatever you do is fine with me.
+* Whatever you do -> DC -> Subject -> Noun Clause -> Part of the Main Clause(MC).
+* Because he is rich -> DC -> Not subject -> Adverb clause of reason -> Not a part of the Main Clause(MC).
+
+<img width="1398" height="815" alt="image" src="https://github.com/user-attachments/assets/e4f63eb1-8257-4de4-b031-3984c51ecd06" />
+
+* he is happy -> Main Clause(MC). 
+* Whatever you do is fine with me -> Main Clause(MC).
+* Noun Clause -> Part of the Main Clause(MC) and always act like the **subject or the object**. [**VERY IMPORTANT**] 
+* Adverb Clause -> It is a separate clause. [**VERY IMPORTANT**] 
+* he is happy -> IC.
+* Whatever you do is fine with me -> IC.
+* I know that he is the captain of my team.
+* I know that he is the captain of my team -> Main Clause(MC) or IC.
+* I -> Subject.
+* know -> verb.
+* that he is the captain of my team -> Object -> DC.
+
+<img width="1437" height="846" alt="image" src="https://github.com/user-attachments/assets/d1eeb395-746a-4fdb-b97f-589dab22f1a3" />
+<img width="1316" height="622" alt="image" src="https://github.com/user-attachments/assets/c6a193b1-c364-4bfa-9bdb-c287cc58be61" />
+<img width="1436" height="840" alt="image" src="https://github.com/user-attachments/assets/fe45f255-04ed-4824-b2e8-7531fc104ef0" />
+
+* which is the capital of Maharashtra -> DC -> Modifying the noun "mumbai" -> Adjective clause.
+* Adjective clause -> They are formed from **that, which, who, whom**.  [**VERY IMPORTANT**] 
+* Adjective clause -> Definying the noun.    
+
+<img width="1422" height="829" alt="image" src="https://github.com/user-attachments/assets/6f5e4aef-a267-423e-9759-7b4e6228d6bf" />
+
+* Donald Trump, who is my distant uncle, is the president of USA.
+* is -> verb.
+* who is my distant uncle -> DC -> Adjective clause(AC).
+* Donald Trump -> Subject.
+
+<img width="1400" height="816" alt="image" src="https://github.com/user-attachments/assets/c31711dc-83f3-497a-b461-aa0afbf87eb2" />
+
+* I know that he is rich.
+* that -> Conjunction.
+* that he is rich -> Object -> Noun clause. 
+* I -> Subject.
+* know -> Verb.
+* The book that is on the table is expensive.
+* that -> Acting like a pronoun.
+* that is on the table -> DC -> Adjective clause(AC).
+* The book -> Subject. 
+* Relative pronouns -> Who, which, that, whom.  [**VERY IMPORTANT**] 
+
+<img width="1410" height="820" alt="image" src="https://github.com/user-attachments/assets/32c1930f-2238-4b1d-9efa-dbb877d47c94" />
+
+* Who are you?
+
+> I am John.
+
+* Relative pronouns -> They create relative clauses.
+* Relative clauses -> They are called as **adjective clause**.
+* Adjective clause -> They are **dependent clause(DC)**.
+
+<img width="1410" height="807" alt="image" src="https://github.com/user-attachments/assets/c0fff571-75e0-4f48-96d1-72222015f8dd" />
+<img width="1440" height="823" alt="image" src="https://github.com/user-attachments/assets/19e6dc31-211d-4e77-bb53-a48c5b6a6d8d" />
+
+*  [**VERY IMPORTANT**] 
+
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/53b2737f-d07b-48a5-85b6-2be6e310d9fe" />
+<img width="1253" height="812" alt="image" src="https://github.com/user-attachments/assets/9aed482c-7f0a-41a3-80dc-89a4765dff07" />
+<img width="1423" height="807" alt="image" src="https://github.com/user-attachments/assets/c7edba96-c6c3-4ff9-91f1-1573c537b637" />
+<img width="1422" height="816" alt="image" src="https://github.com/user-attachments/assets/76e5af7f-797f-4d98-9900-1189148777d2" />
+<img width="1418" height="801" alt="image" src="https://github.com/user-attachments/assets/53838da1-9f6d-4013-8a22-fd96ca1268fa" />
+
+*  [**VERY IMPORTANT**]
+*  Sentence -> Subject(S) + Verb(V) + Object(O).
+
+<img width="1417" height="812" alt="image" src="https://github.com/user-attachments/assets/b0729781-1c57-4165-b9ec-51e10653e67f" />
+<img width="781" height="539" alt="image" src="https://github.com/user-attachments/assets/dc3effa5-d158-40ca-aabd-ec19fa52a12e" />
+<img width="1399" height="541" alt="image" src="https://github.com/user-attachments/assets/b2faaa1c-d921-4aaf-8ea4-d14e0ee2042c" />
+<img width="1412" height="812" alt="image" src="https://github.com/user-attachments/assets/8b63f949-9402-4828-9cf5-d22bfb8326d7" />
+
+* go! -> The subject is not visible.
+* go! -> Meaningful sentence.
+* Get lost! -> Meaningful sentence.
+
+<img width="1424" height="811" alt="image" src="https://github.com/user-attachments/assets/540df29f-6a87-4917-a698-dd00961a0af4" />
+
+* Shut Up! -> Phrasal verb.
+
+<img width="1420" height="815" alt="image" src="https://github.com/user-attachments/assets/7cd54c8f-d2ea-404e-9629-74250e6767e6" />
+<img width="1049" height="477" alt="image" src="https://github.com/user-attachments/assets/a4a875a3-98bb-459a-95d1-07ec6c25adc2" />
+
+* Wow! -> Interjection.
+* What a piece of work is man! [Active Voice]
+* is -> verb.
+* man -> Subject.
+* Man is a greate peice of work. [Passive Voice]
+
+<img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/fc95489d-e554-4b67-8dc4-629bd9c09d08" />
+<img width="1420" height="799" alt="image" src="https://github.com/user-attachments/assets/07c1a216-2f15-4711-9d63-788b3949524a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
