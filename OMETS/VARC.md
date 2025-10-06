@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="831" height="309" alt="image" src="https://github.com/user-attachments/assets/197ed211-4278-4160-9920-22643b8c7800" />
+<img width="853" height="352" alt="image" src="https://github.com/user-attachments/assets/226284c0-9e02-4b2d-a8a4-3e0acd6eedc3" />
 
 ## Study Prep/Routine
 
@@ -891,6 +891,363 @@
 <img width="333" height="226" alt="image" src="https://github.com/user-attachments/assets/4b6efe76-6ab5-4c46-80da-6f0048cadddf" />
 
 * VARC => PS -> PC -> OOO -> PJ. [**VERY IMPORTANT**]
+
+### Vocab Practice (6) [12]
+
+<img width="1429" height="913" alt="image" src="https://github.com/user-attachments/assets/a7618042-51f3-4602-8bfb-dbcc48ed2e0c" />
+
+* Ans 1 -> Option **A**. [Got Correct]
+
+<img width="1421" height="914" alt="image" src="https://github.com/user-attachments/assets/ba6263ff-4751-44e8-8138-8e7ab5897e4a" />
+
+* Ans 2 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Broach -> To start a discussion on forbidden subject. [**MEANING**]
+* Quash -> To give rest/stub/reject. [**MEANING**]
+
+<img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/19a6f253-8ca1-43af-a59e-2c7df7b895f1" />
+
+* Strident -> Harsh/Forceful. [**MEANING**]
+* Equivocal -> Vague/Uncertain. [**MEANING**]
+* Caustic -> Harsh/Biting/Bitter. [**MEANING**]
+* Obscure -> Masked/Hidden. [**MEANING**]
+* Florid -> Having too much decoration/Blushing. [**MEANING**]
+* Meandering -> to wander aimlessly or casually without urgent destination. [**MEANING**]
+
+<img width="1402" height="809" alt="image" src="https://github.com/user-attachments/assets/ab4f2cd7-ea95-4afd-aed8-fc2256e0c609" />
+<img width="1437" height="921" alt="image" src="https://github.com/user-attachments/assets/0ed65448-ab93-4070-8422-86a999a67171" />
+
+* Ans 3 -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1421" height="917" alt="image" src="https://github.com/user-attachments/assets/da86a06c-0873-4b5b-b640-d5f02d085c68" />
+
+* Ans 4 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+
+<img width="1398" height="791" alt="image" src="https://github.com/user-attachments/assets/79b1350e-4e2a-4ea9-8511-66866d72d5e1" />
+
+* Threw Cold water -> Stop it. [**MEANING**]
+* Simile -> Direct Comparison using "like" or "as". [**MEANING**] [**VERY IMPORTANT**]
+* Metaphor -> Direct Comparison. [**MEANING**] [**VERY IMPORTANT**]
+* Hyperbole -> Exaggeration. [**MEANING**] [**VERY IMPORTANT**]
+* Oxymoron -> Usage of two contradictory words together. [**MEANING**] [**VERY IMPORTANT**]
+* Oxymoron -> Organized Chaos, well behaved child, small crowd, definning silence, attentative husband, open secret, cold fire. [Examples]
+* A is like B -> Simile. [Examples]
+* A is B -> Metaphor. [Examples]
+
+<img width="1418" height="819" alt="image" src="https://github.com/user-attachments/assets/a6b75a48-37a0-483d-987b-d5030d14dad0" />
+<img width="1399" height="802" alt="image" src="https://github.com/user-attachments/assets/e4f8e647-f0d4-4a71-8e06-53629ce9a512" />
+<img width="1428" height="914" alt="image" src="https://github.com/user-attachments/assets/fc494ef7-bc92-42bf-a656-541a1272f9eb" />
+
+* Ans 5 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Ascetic -> Non-materialistic, very-simple living, keeping oneself from temptations. [**MEANING**]
+* Epicure -> Lover and connoisseur of good food. [**MEANING**]
+* Dilettante -> A person interested in arts without real knowledge. [**MEANING**]
+* Gourmandizer -> A person who is greedy and eats too much/gluttonous person/over-eater. [**MEANING**]  
+
+<img width="1411" height="802" alt="image" src="https://github.com/user-attachments/assets/ffed4df5-d104-4596-a795-91656c0e613f" />
+
+* Pro-noun-cia-tion.
+* 6 -> Option **A**.
+
+<img width="1405" height="802" alt="image" src="https://github.com/user-attachments/assets/a9a30f07-bd01-4857-9ea6-d76f15801499" />
+<img width="1426" height="912" alt="image" src="https://github.com/user-attachments/assets/ed2a214c-754f-4a6c-b9fd-7ea7f6705df6" />
+
+* Ans 7 -> Option **C**. [Got Correct]
+
+<img width="1429" height="917" alt="image" src="https://github.com/user-attachments/assets/6a410713-7fe0-4df9-ada1-afcdb6d654d1" />
+
+* Ans 8 -> Option **B**. [Got Correct]
+
+<img width="1397" height="794" alt="image" src="https://github.com/user-attachments/assets/08fa8302-e60b-4ee9-818d-07dc0f702523" />
+<img width="1396" height="790" alt="image" src="https://github.com/user-attachments/assets/a1fa0556-de68-493a-a892-23c3a79ac344" />
+
+* bail out -> help out. [**MEANING**]
+
+<img width="1427" height="921" alt="image" src="https://github.com/user-attachments/assets/36386ee6-a621-4c03-b597-5839db2bc901" />
+
+* Ans 9 -> Option **A**. [Got Correct]
+
+<img width="1426" height="913" alt="image" src="https://github.com/user-attachments/assets/29285c78-a8ec-4cca-885a-c5c2f54622b2" />
+
+* Ans 10 -> Option **A**. [Got Correct]
+* Collocation -> Widely used words. [**MEANING**]
+* Colloquial -> Widely used. [**MEANING**]
+
+<img width="1388" height="797" alt="image" src="https://github.com/user-attachments/assets/15c21299-7db4-4e72-aeb7-a93ed3898260" />
+
+* Arduous -> Something that requires a lot of hard work. [**MEANING**]
+
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/06aec344-9133-4bcd-b6d2-77e0f64216ed" />
+<img width="1405" height="808" alt="image" src="https://github.com/user-attachments/assets/b3d69606-9638-40e3-b4ff-b82fcb5faf42" />
+<img width="1403" height="801" alt="image" src="https://github.com/user-attachments/assets/35fb4dc9-235f-4f1d-b81c-67d62ce39520" />
+<img width="1420" height="913" alt="image" src="https://github.com/user-attachments/assets/b60b4754-1f36-48ef-9ebf-4193a90649de" />
+
+* Ans 11 -> Option **C**. [Got Correct]
+
+<img width="1416" height="916" alt="image" src="https://github.com/user-attachments/assets/5da9b898-9437-4981-84f6-f9b1edd3d8d3" />
+
+* Ans 12 -> Option **B**. [Correct]
+* option **C**. [Wrong]
+* Ally -> Supporter/Friend/Alliance. [**MEANING**]
+* Staunch -> Very loyal. [**MEANING**]
+* Wavering -> Going back and forth/Changing stance. [**MEANING**]
+* Lukewarm -> Less warm. [**MEANING**]
+* Loyal ->
+* Mercurial -> sudden changing moods/Volatile. [**MEANING**]
+
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/baa89d63-61a4-40da-8532-700bf25ce13a" />
+* BrE -> British India Usage. [**VERY IMPORTANT**]
+* Enrollment -> American Usage. [**VERY IMPORTANT**]
+* Enrolment -> British Usage. [**VERY IMPORTANT**]
+
+<img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/0fa4de19-21ee-4f9e-b08c-b940fd2762d1" />
+<img width="1423" height="919" alt="image" src="https://github.com/user-attachments/assets/73368078-256d-4de8-ac39-6627ecc855b8" />
+
+* Ans 13 -> Option **B**. [Correct]
+* option **A**. [Wrong]
+
+<img width="1421" height="910" alt="image" src="https://github.com/user-attachments/assets/ff4e3f53-8b9a-4fa3-ace3-cf2671126787" />
+
+* Ans 14 -> Option **B**. [Got Correct]
+
+<img width="1396" height="803" alt="image" src="https://github.com/user-attachments/assets/79d10828-b2c3-4bd8-b9eb-b16aedcb5716" />
+
+* No Hiphen -> Verb.
+* Hiphen -> Noun.
+* Kick off -> Verb.
+* Kick-off -> Noun. 
+
+<img width="1421" height="813" alt="image" src="https://github.com/user-attachments/assets/8abec867-68b2-4782-99c2-b62ddd25ca14" />
+<img width="1425" height="915" alt="image" src="https://github.com/user-attachments/assets/a671b4a6-fc5f-4eb6-ba9c-a0437a4a9451" />
+
+* Ans 15 -> Option **B**. [Got Correct]
+
+<img width="1419" height="907" alt="image" src="https://github.com/user-attachments/assets/bf7891a8-ec7a-4170-80c0-5158e39e1833" />
+
+* Ans 16 -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+
+<img width="1397" height="802" alt="image" src="https://github.com/user-attachments/assets/a26d8166-36b1-45e4-b23e-74d77371cfc6" />
+
+ * See -> Physical Actionm, Body Function.
+
+<img width="1421" height="801" alt="image" src="https://github.com/user-attachments/assets/eef5d0fa-ba49-4300-a482-b5d26868c060" />
+
+* Miserly, Tight-fisted, Parsimonious -> Stingy. [**MEANING**]
+* Economical -> Use the available resources in an save/orderly manner. [**MEANING**]
+
+<img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/fbaa4893-e933-4b28-b7b6-c06fdff90ce6" />
+<img width="1436" height="921" alt="image" src="https://github.com/user-attachments/assets/4c2445cd-f983-421a-879a-4b779d51bbdc" />
+
+* Ans 17 -> Option **B**. [Got Correct]
+
+<img width="1431" height="909" alt="image" src="https://github.com/user-attachments/assets/02d12fc9-5180-4510-8849-8bd29ba910b1" />
+
+* Ans 18 -> Option **C**. [Got Correct]
+
+<img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/bbdc022b-58d7-48ba-b060-684825b5a6a9" />
+
+* Infamous -> Notorious -> Famous for a bad reason. [**MEANING**]
+
+<img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/5862f7f7-9078-4677-9553-d0a902bee19a" />
+<img width="1400" height="811" alt="image" src="https://github.com/user-attachments/assets/3d7513d4-fc4c-453b-a5da-65e2f55664b6" />
+
+* Agnostic -> Someone who is in doubt about god creating the universe. [**MEANING**]
+* Deist -> Someone who does not intervenes in the affairs of god -> Phylosophical term. [**MEANING**]
+* Monotheist -> believer of a single god.  [**MEANING**]
+* Atheist -> Is a person who doesn't believe in god. [**MEANING**]
+* Theist -> Is a person who believes in god. [**MEANING**]
+
+<img width="1409" height="810" alt="image" src="https://github.com/user-attachments/assets/85ec3f06-e377-45e2-abe6-fdd3c77da9be" />
+<img width="1429" height="917" alt="image" src="https://github.com/user-attachments/assets/05afdf11-65d5-4e19-92f8-09ea78b177a9" />
+
+* Ans 19 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1426" height="926" alt="image" src="https://github.com/user-attachments/assets/3f1c19fb-6d21-400c-bf84-8fb4933a2715" />
+
+* Ans 20 -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1410" height="813" alt="image" src="https://github.com/user-attachments/assets/6caf04f9-cc97-48fd-af35-33b9472d7b34" />
+
+* Pore -> Thinking about something, Deep thinking, examine properly.  [**MEANING**]
+* Pour -> Displacement of liquid. [**MEANING**]
+
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/09d66a8d-a745-4ed3-8af7-9c6e334c157b" />
+
+* Aggravate -> To increase in intensity, to worsen a situation. [**MEANING**]
+* Propagate -> to cause to spread out and affect a greater number or greater area.  [**MEANING**]
+* Obviate -> Remove/foretell a problem, To prevent.  [**MEANING**]
+* Fabricate ->  to make up for the purpose of deception. [**MEANING**]
+
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/94e03a7a-213d-4f87-8357-05a6952b908d" />
+
+* Ans 21 -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* Bolster -> Support/Fortify/strengthen. [**MEANING**]
+
+<img width="1417" height="808" alt="image" src="https://github.com/user-attachments/assets/cb980f42-3ba8-499e-9f10-9f3ec4382998" />
+<img width="1423" height="913" alt="image" src="https://github.com/user-attachments/assets/3ac60a25-0324-4309-80ed-26d56c4efba3" />
+
+* Ans 22 -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Rebuffed -> Rejected. [**MEANING**] 
+
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/cbc07029-b46f-43e4-9399-108958be7343" />
+
+* Canvas -> Cloth on which we paint. [**MEANING**] 
+* Canvass -> Request, ask for, solicit.  [**MEANING**] 
+
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/b50cc4f9-1ddb-4386-be58-cf929996fe0b" />
+<img width="1411" height="812" alt="image" src="https://github.com/user-attachments/assets/86a078c9-afaa-43d9-8583-d3a1c9badf2f" />
+
+* Ans 23 -> option **B**.
+
+<img width="1436" height="935" alt="image" src="https://github.com/user-attachments/assets/cb5434ef-7a87-4196-bf28-de8807949f7b" />
+
+* Ans 24 -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1435" height="917" alt="image" src="https://github.com/user-attachments/assets/aeab82c0-d929-4255-ac48-4ed643657b7a" />
+
+* Ans 25 -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1421" height="806" alt="image" src="https://github.com/user-attachments/assets/44d7cd5e-47d5-43ef-a416-ef0950cf623a" />
+
+* We cannot break a **noun**. [**VERY IMPORTANT**]
+* long-term -> noun.
+
+<img width="1396" height="788" alt="image" src="https://github.com/user-attachments/assets/561c8df8-1eb4-4436-9df8-a172ec898c59" />
+
+### RC (7) [13]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
