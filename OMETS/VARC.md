@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="713" height="311" alt="image" src="https://github.com/user-attachments/assets/45bf2ff8-bafa-4766-accc-8e5a180af5cb" />
+<img width="831" height="309" alt="image" src="https://github.com/user-attachments/assets/197ed211-4278-4160-9920-22643b8c7800" />
 
 ## Study Prep/Routine
 
@@ -2812,7 +2812,299 @@
 
 <img width="1049" height="696" alt="image" src="https://github.com/user-attachments/assets/b813a05d-2233-4767-84e3-1b961a5dea5b" />
 
-* 29mins.
+* John and Peter are writing CAT.
+* Either John or Peter **is** writing CAT.
+* Either John or his friends **are** writing CAT. [friends -> are]
+* Either his friends or John **is** writing CAT. [John -> is]
+* Either-or, Neither-nor, or, neither -> Conjunctions.
+
+<img width="1070" height="842" alt="image" src="https://github.com/user-attachments/assets/6dde93d1-ae43-460d-8e95-18f8ec5c526c" />
+
+* Either he or I **am** joining the club. [I -> am]
+* Either I or she **is** joining the club. [she -> is]
+
+<img width="1074" height="740" alt="image" src="https://github.com/user-attachments/assets/a0d47c97-b4d0-4b1e-bc4e-1e74f4f60455" />
+
+* He/she/it/they/them etc -> Definitive -> They refer to someone specifically -> Fixed.   [**VERY IMPORTANT**]
+* Everyone, someone -> Indefinitive -> Not fixed.  [**VERY IMPORTANT**]
+
+<img width="1065" height="716" alt="image" src="https://github.com/user-attachments/assets/af772187-3eac-4cde-a8ab-16fecd9784ff" />
+<img width="1065" height="813" alt="image" src="https://github.com/user-attachments/assets/78cea05b-1baa-47d6-8c6e-d669f7e0ac9d" />
+
+* All **Indefinitive pronouns** are **singular**. They don't need **nouns**. [**VERY IMPORTANT**]
+* Some of the students are honest. [Students -> are]
+* Students -> Plural.
+* Some of the milk has leaked. [milk -> has]
+* Mulk -> Singular.
+* Some -> Pronoun.
+
+<img width="1431" height="818" alt="image" src="https://github.com/user-attachments/assets/9592b06a-41ae-4ba7-ab50-0048bc6958ab" />
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/60570170-7f75-4fc3-945c-9cd5305f4220" />
+
+* Some -> Some, All, Most, None.  [**VERY IMPORTANT**]
+
+<img width="1067" height="805" alt="image" src="https://github.com/user-attachments/assets/6c51d77f-f5fb-4a1c-8992-41721c43b99b" />
+
+* The team -> A Unit -> Singular.
+* The team -> individually -> Plural.
+* How much money/distance/time. [Much -> unit not given -> uncountable]
+* How many hours/Rupees/Kms/secs. [Many -> unit -> Countable]
+* Uncountale/Cannot be measured -> We use **much**. [**VERY IMPORTANT**]
+* Countale/Can be measured -> We use **many**. [**VERY IMPORTANT**]
+
+<img width="1063" height="811" alt="image" src="https://github.com/user-attachments/assets/6c6b2784-4161-4600-bdb9-eb66bdd10443" />
+
+* Ten thousand rupees -> unit -> Countable.
+* War and Peace is a very long book.
+* Rajma and Chawal is my favourite dish.
+* The rise and the fall of the roman empire is a topic of debate. 
+* War and Peace, Rajma and Chawal, The rise and the fall of the roman empire -> One unit -> Singular.
+* is -> Singular.
+* India has won the match.
+* I did not know that.
+* that -> Pronoun.
+* that -> India has won the match
+
+<img width="1089" height="838" alt="image" src="https://github.com/user-attachments/assets/9d18b45c-aa32-4196-96b6-3bd4b48fb356" />
+<img width="1063" height="825" alt="image" src="https://github.com/user-attachments/assets/1e67d323-7798-43c7-9ebb-0aec701fd448" />
+
+* There are some children playing in the garden.
+* some children -> Subject.
+* are -> Verb.
+
+<img width="1053" height="806" alt="image" src="https://github.com/user-attachments/assets/9c63fbd2-543b-4e9a-bc30-aa37c80f03e4" />
+
+* The teacher and the students are attending the seminar. [students -> are]
+* The PM with his advisor is waiting for the conference.
+* The PM -> Subject.
+
+<img width="1059" height="810" alt="image" src="https://github.com/user-attachments/assets/bee1c415-b239-4abf-b7e4-b127a8cf25b5" />
+
+* A man with three wives is a rich man.
+* A man -> Subject.
+
+<img width="1163" height="822" alt="image" src="https://github.com/user-attachments/assets/882cdb16-1895-4328-8262-96d8e7638ca4" />
+<img width="1416" height="821" alt="image" src="https://github.com/user-attachments/assets/fee485f6-6faa-4cc6-a05d-14fa5d035a14" />
+
+* Diabetes, as well as fatigue, is the cause of my headache.
+* as well as fatigue -> additional/not important info.
+* Diabetes -> Main important info.
+* When **with, along with, as well as** come with the **subject** they don't add anything to the **subject**.
+
+<img width="1070" height="811" alt="image" src="https://github.com/user-attachments/assets/5ce19e4c-f141-462d-b5e0-3eee97b69682" />
+
+* 30% of my score is from VARC.
+* 30% of my class is absent.
+* 30% of my cake is missing.
+* 30% of my children are missing.
+* my children -> Plural.
+* my score -> Singular.
+* my class, my cake -> Collective/Unit -> Singular.
+* my cakes -> Plural.
+
+<img width="1077" height="822" alt="image" src="https://github.com/user-attachments/assets/79612d6b-93c3-4be3-9f77-2a5d2a384396" />
+
+* Every -> Collective/Unit -> Singular.
+* Every wife and husband is responsible for their children.
+* children, their -> Plural
+
+<img width="1080" height="816" alt="image" src="https://github.com/user-attachments/assets/ec96dc89-6393-4a1f-b62f-4900f6b9b4ed" />
+
+* Modi and Trump who are good friends love meloni.
+* Modi and Trump -> Subject 1.
+* who ->  Modi and Trump -> Subject 2.
+* love -> Verb 1.
+* are -> Verb 2.
+
+<img width="1068" height="734" alt="image" src="https://github.com/user-attachments/assets/b27622be-d1af-4bda-a1f5-4b2785c47617" />
+
+* who ->  Modi and Trump -> Plural.
+* who -> are -> Plural.
+* Children who study hard do well.
+* who study hard -> Relative clause.
+* do -> Verb 1.
+* Children -> Subject 1.
+* who -> Subject 2.
+* study hard -> Verb 2.
+* who -> Children -> Plural.
+* who -> Children -> study.
+* child -> singular.
+* child -> studies.
+* studies -> singular.
+
+<img width="1066" height="739" alt="image" src="https://github.com/user-attachments/assets/0bd57ea6-4c7c-4991-836f-a4ca7ba49714" />
+<img width="1082" height="812" alt="image" src="https://github.com/user-attachments/assets/e9f2a90b-0fc9-440f-8406-dffd1eff3056" />
+
+* She is one of the students who work hard.
+* students -> plural.
+* who -> students -> work -> Plural.
+* She is the only one who works hard.
+* only one -> Singular
+* who -> only one.
+* works -> Singular
+* She is one of the students who are likely to do well. [Correct]
+* who -> students -> plural.
+* are -> plural.
+
+<img width="433" height="104" alt="image" src="https://github.com/user-attachments/assets/d508e7ca-1a6d-48eb-bc46-09039ebc2503" />
+
+* Yes.
+
+<img width="237" height="78" alt="image" src="https://github.com/user-attachments/assets/49416779-2c7f-484e-b66f-f034304a5348" />
+
+* Yes.
+* She is the one who is likely to do well.
+
+<img width="1085" height="804" alt="image" src="https://github.com/user-attachments/assets/04dd2d02-e2c1-4707-a905-bacdd4b51d74" />
+<img width="1077" height="803" alt="image" src="https://github.com/user-attachments/assets/dc45b18d-9f58-4656-ba60-67bc375e6e68" />
+
+* friends -> Plural.
+* are -> friends -> Plural.
+* friends -> subject.
+* Each -> Subject.
+* Each -> Singular.
+* has -> Singular.
+* The furniture -> Collective/Unit -> Singular -> is.
+* Five kilemeters -> unit -> Singular -> is.
+* The quality -> Singular -> is.
+
+<img width="1069" height="719" alt="image" src="https://github.com/user-attachments/assets/387844af-d0ff-463f-8853-f0ad461cf942" />
+
+* Each -> Always **Singular**.
+* Each -> Subject.
+* sings -> Verb.
+* Each of the girls -> Collective/Unit -> Singular -> sings.
+* sings -> Singular.
+* Each > Pronoun is the subject.
+
+<img width="1048" height="701" alt="image" src="https://github.com/user-attachments/assets/13fd7477-83a9-4024-bd8f-5d3cdcdf9ba1" />
+
+* 99% is a good score.
+* 99% -> Number/score -> Singular.
+* 99% -> Singular -> is.
+
+<img width="1052" height="713" alt="image" src="https://github.com/user-attachments/assets/73b961b6-32cf-4fef-a77c-7e600b943069" />
+<img width="1068" height="802" alt="image" src="https://github.com/user-attachments/assets/77aa8d7c-cbd4-46cf-94ea-cb600892406d" />
+
+* The subject nearest to the verb decides the number of the verb. [**VERY IMPORTANT**]
+* Either his friends or Ramest is coming. [Ramest -> Singular -> is]
+
+<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/28a20213-3b76-46eb-9146-a60083a01d2d" />
+
+* Who, whom, that, which -> refer to what has come immediately before them. [**VERY IMPORTANT**]
+* The people who are.
+* who -> People -> Plural -> are.
+* You are one of my students who love maths.
+* who -> my students -> Plural -> love.
+* You are the only student who loves maths.
+* who -> only student -> singular -> loves.
+
+<img width="1389" height="806" alt="image" src="https://github.com/user-attachments/assets/b3e85106-87f2-4fc6-849d-bfcbda874246" />
+
+* The hand that rocks the cradle rules the world.
+* The hand -> Subject.
+* rules -> Verb.
+* that rocks the cradle -> Relative clause.
+* that -> The hand -> Singular
+
+<img width="1411" height="800" alt="image" src="https://github.com/user-attachments/assets/d24b2a6b-55d5-41fa-b2bf-cb9f54e650c2" />
+
+* They who love their neighbour love god.
+* who -> they -> Plural.
+* love -> verb.
+
+<img width="1399" height="806" alt="image" src="https://github.com/user-attachments/assets/8b66853e-4255-471f-9572-694f4e18ef90" />
+<img width="1394" height="797" alt="image" src="https://github.com/user-attachments/assets/320d5f3d-f06b-4aa4-a4aa-98c3cd47e4dd" />
+<img width="1431" height="827" alt="image" src="https://github.com/user-attachments/assets/dbe6f81b-8246-4d76-8d0a-2348ff9ef582" />
+
+* "Who" is relative clause refering to "He".
+* A pronoun refers to a pronoun.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
