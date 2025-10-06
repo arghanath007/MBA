@@ -1,4 +1,4 @@
-<img width="1396" height="791" alt="image" src="https://github.com/user-attachments/assets/56d47c63-3aa9-421d-85af-e8b90efba231" /># VARC
+# VARC
 
 ## Next Class
 
@@ -2697,6 +2697,162 @@
 <img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/fc95489d-e554-4b67-8dc4-629bd9c09d08" />
 <img width="1420" height="799" alt="image" src="https://github.com/user-attachments/assets/07c1a216-2f15-4711-9d63-788b3949524a" />
 
+### Subject Verb Agreement (6) [11]
+
+<img width="1438" height="868" alt="image" src="https://github.com/user-attachments/assets/024bacea-88b4-4426-a734-5fc145fa69a4" />
+<img width="1418" height="819" alt="image" src="https://github.com/user-attachments/assets/4108624c-c01b-4b1c-97aa-3ed4cf94043e" />
+
+*  [**VERY IMPORTANT**]
+*  Sentence -> IC + punctuation. [Bare Minimum]
+*  DC
+*  Modifying Phrases.
+
+<img width="992" height="458" alt="image" src="https://github.com/user-attachments/assets/c6824681-88fe-41bb-a46c-f7d626c73880" />
+
+* Delhi is hot.
+* Delhi -> Subject -> Noun.
+* is -> Verb.
+* Hot -> Adjective -> Comes after verb.
+* Subject and a verb -> Should come as **IC**.
+* What can be a subject?
+* How to identify a subject?
+* Tone of the author -> Verbs and adjectives.
+
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/a9a34a7d-24ca-4478-b228-baac367cbbd9" />
+<img width="1412" height="804" alt="image" src="https://github.com/user-attachments/assets/a7cc9ba6-2b9f-465c-8438-0948696c848c" />
+
+* What is hot?
+
+> Delhi.
+
+* The **verb** always answers the **subject**.
+* Delhi -> Subject.
+* The price of oil and gas and many other fuel components necessary for our daily use is set to increase.
+* is -> Verb.
+* What is set to increase?
+
+> The price.
+
+* The price -> Subject.
+
+<img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/21c00c61-a189-4637-a4d2-7f6a6e054d93" />
+<img width="1392" height="795" alt="image" src="https://github.com/user-attachments/assets/cdc41a18-e705-459c-9b4c-e357c6309841" />
+<img width="1410" height="819" alt="image" src="https://github.com/user-attachments/assets/42e57e05-05ed-48b7-b3ea-f1e3fa1890e1" />
+
+* John, he, singing -> Subject.
+* What is to live?
+
+> To love.
+
+* is -> verb.
+* **Participle** will never be a **subject** because **participle** is an **adjective**. **Adjective** needs a **noun**. [**VERY IMPORTANT**]
+
+<img width="1399" height="798" alt="image" src="https://github.com/user-attachments/assets/d6d06849-6f30-4d8f-b06b-cc7e879779a6" />
+
+* Singing classical songs is my hobby.
+* To love someone unselfishly is true love.
+* Singing classical songs -> Gerund phrase.
+* is -> verb.
+* what is true love?
+
+> To love someone unselfishly.
+
+* To love someone unselfishly -> Subject -> Infinitive phrase.
+
+<img width="1406" height="813" alt="image" src="https://github.com/user-attachments/assets/6d965cd5-bf31-4202-ac10-549be62b5346" />
+<img width="287" height="75" alt="image" src="https://github.com/user-attachments/assets/15803718-c3fd-4a7f-9dd2-a64b0f9f181f" />
+<img width="1400" height="808" alt="image" src="https://github.com/user-attachments/assets/3055e848-37b5-4346-92ec-f20e6ba1785c" />
+<img width="1431" height="820" alt="image" src="https://github.com/user-attachments/assets/788c8d18-19a9-49a7-9562-ee4a06504b1d" />
+
+* Dependent Clause -> **Noun clause** can be a **subject**. Others cannot be **subjects**. [**VERY IMPORTANT**]
+* Whatever you say is correct.
+* is -> verb
+* what is correct?
+
+> Whatever you say
+
+* Whatever you say -> Subject.
+
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/a0982f8b-071e-4686-adfd-5f6c6ac1b2cf" />
+<img width="1421" height="837" alt="image" src="https://github.com/user-attachments/assets/80ed8114-0e5b-4003-8737-ec23a3e0bf03" />
+
+* What can be the subjects:- [**VERY IMPORTANT**]
+
+1) Noun.
+2) Pronoun.
+3) Gerund.
+4) Infinitive.
+5) Noun Phrase
+6) Gerund phrase
+7) Infinitive phrase
+8) Dependent clause -> Only noun clause.
+
+<img width="1428" height="810" alt="image" src="https://github.com/user-attachments/assets/37ddd4c2-f8bd-4eb4-849b-917f1984cd73" />
+<img width="1043" height="792" alt="image" src="https://github.com/user-attachments/assets/b71a8fc7-e6eb-42ca-8f84-d0003bc0c274" />
+
+* She likes VARC.
+* When the **verb** has "s" it means it is **singular**. [**VERY IMPORTANT**]
+* When the **noun** has "s" it means it is **plural**. [**VERY IMPORTANT**]
+* likes -> verb -> "s" came with verb.
+* She -> Singular.
+* They like VARC.
+* They -> Plural.
+
+<img width="1078" height="819" alt="image" src="https://github.com/user-attachments/assets/60d606ef-04e2-4b9e-9056-c512cb166a0b" />
+<img width="1431" height="827" alt="image" src="https://github.com/user-attachments/assets/a70f27bb-b5e6-4bf6-b3c3-16cb24a35f98" />
+
+* The price of oil and gas and many other fuel components necessary for our daily use is set to increase.
+* The price -> Subject.
+* have increased. [Wrong]
+* has increased. [Correct]
+* The price -> Singular.
+* have > Plural.
+* has -> Singular.
+* First checklist is the **subject and the verb**. Are they matching?
+
+<img width="1049" height="696" alt="image" src="https://github.com/user-attachments/assets/b813a05d-2233-4767-84e3-1b961a5dea5b" />
+
+* 29mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2988,3 +3144,4 @@
 <img width="1404" height="801" alt="image" src="https://github.com/user-attachments/assets/0253e344-460f-426c-9d0c-aa11285132c4" />
 <img width="1283" height="830" alt="image" src="https://github.com/user-attachments/assets/646090e2-dad7-4e8e-818b-b3d4ebc7ae2e" />
 <img width="1051" height="793" alt="image" src="https://github.com/user-attachments/assets/055491b7-c743-4edd-bac6-0af6e1808299" />
+<img width="1396" height="791" alt="image" src="https://github.com/user-attachments/assets/56d47c63-3aa9-421d-85af-e8b90efba231" />
