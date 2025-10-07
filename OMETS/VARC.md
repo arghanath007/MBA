@@ -3544,6 +3544,23 @@
 * Peter was kicked by John. [Correct] [Passive Voice]
 
 <img width="1419" height="822" alt="image" src="https://github.com/user-attachments/assets/9ac82da1-6a3e-4c43-b893-961190ce8eae" />
+<img width="1440" height="822" alt="image" src="https://github.com/user-attachments/assets/535e03c8-6d04-4f6b-b355-f922d43609d4" />
+
+* Modifiers modif a **noun, a pronoun and a verb**. [**VERY IMPORTANT**]
+* Adjectives modify **a noun or a pronoun**. [**VERY IMPORTANT**]
+* Adverbs modif **a verb, an adjective or an adverb itself**. [**VERY IMPORTANT**]
+* Even a **phrase** and a **clause** can act like modifiers.
+* Participle -> Acts like an adjective.
+
+<img width="1403" height="827" alt="image" src="https://github.com/user-attachments/assets/0cc05215-0bf1-4f40-a911-e64a8d9aed2c" />
+
+
+
+
+
+
+
+
 
 
 
