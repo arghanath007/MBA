@@ -3550,9 +3550,181 @@
 * Adjectives modify **a noun or a pronoun**. [**VERY IMPORTANT**]
 * Adverbs modif **a verb, an adjective or an adverb itself**. [**VERY IMPORTANT**]
 * Even a **phrase** and a **clause** can act like modifiers.
-* Participle -> Acts like an adjective.
+* Participle -> Acts like an adjective. [**VERY IMPORTANT**]
 
 <img width="1403" height="827" alt="image" src="https://github.com/user-attachments/assets/0cc05215-0bf1-4f40-a911-e64a8d9aed2c" />
+
+* Blue, parked outside my house -> Identity of the car -> Adjective.
+* parked outside my house -> Adjective phrase -> Modifying the noun "car".
+* parked -> Participle -> Modifying the noun "car".
+* The car parked outside my house is expensive.
+* The cars parked outside my house are expensive.
+* is -> Verb.
+* parked outside my house -> Participle Phrase -> Modifying the noun "car".
+
+<img width="1423" height="833" alt="image" src="https://github.com/user-attachments/assets/e6b25709-df49-4622-93cf-db976b190b12" />
+
+* I don't like mobile phones.
+* I don't like mobile phones made in China.
+* made -> Participle -> Modifying the noun "phones".
+* made in China -> Participle Phrase -> Modifying the noun "phones".
+* mobile phones -> Noun object.
+* don't -> Helping verb(HV).
+* like -> Main verb(MV).
+* I -> Subject.
+
+<img width="1304" height="407" alt="image" src="https://github.com/user-attachments/assets/1edf7362-e2b6-4d0a-9fdc-c8c3354800f0" />
+<img width="1259" height="386" alt="image" src="https://github.com/user-attachments/assets/1f62d114-13af-4737-b2eb-eb16d9ff412e" />
+
+*  Mobile Phones made in china don't last long.
+*  dont -> HV.
+*  last -> MV.
+*  made -> Participle -> Modifying the noun "phones".
+*  made in china -> Participle phrase.
+*  A mobile Phone made in china does not last long.
+*  A mobile Phone -> does not.
+*  Mobile Phones -> don't
+
+<img width="1405" height="846" alt="image" src="https://github.com/user-attachments/assets/ed0e8f9d-0111-4417-bc02-ba35f049b225" />
+
+* to get -> infinitive.
+* is -> verb.
+* The bridge -> Subject.
+* connecting howrah and calcutta -> Participle phrase.
+
+<img width="1384" height="834" alt="image" src="https://github.com/user-attachments/assets/0bd564dc-8cf9-4ebe-bcb7-dc416d0fb27c" />
+<img width="1426" height="847" alt="image" src="https://github.com/user-attachments/assets/2a3f16c7-d215-4d6a-9291-ed69c704a55c" />
+
+* People sunken in heavy debt are likely to take refuge in alcohol.
+* broke, sunken -> Participle.
+* sunken in heavy debt -> Participle phrase.
+* are -> Verb.
+
+* I  -> Subject.
+* thought -> Verb.
+* of -> Preposition.
+* writing -> Gerund.
+* Disappointed by my GMAT exam -> Modifier -> Modifying the subject "I". 
+
+<img width="1431" height="831" alt="image" src="https://github.com/user-attachments/assets/5f42a97b-9042-44e4-9636-b3d7cc006d20" />
+
+* is -> Verb.
+* Bridging the gap between stoicism, hedonism -> Participle Phrase -> Modifier.
+* Nihilism is a powerful philosophy-> Subject
+* Connecting howrah and kolkata, the bridge is about to get renovated.
+* Directed by Karan Johar and written by Kapil sharma, Toilet ek prem katha was a blockbuster.
+
+<img width="1416" height="837" alt="image" src="https://github.com/user-attachments/assets/e8435551-e64c-4ced-b9a1-047f1f70c24b" />
+
+* Main Subject/idea.
+* Sentence Formation => Any Phrase, Subject + Verb.  [**VERY IMPORTANT**]
+* Sentence Formation => Subject, Participle phrase, Verb.  [**VERY IMPORTANT**]
+* Sentence Formation => Subject + Verb + Object, Participle phrase.  [**VERY IMPORTANT**]
+* Participle phrase ie the **modifier** can come anywhere. No fixed position. As a **noun** can come anywhere so the **modifier** can come anywhere.  [**VERY IMPORTANT**]
+
+<img width="1196" height="814" alt="image" src="https://github.com/user-attachments/assets/d07b4c77-32d8-4a90-beec-37bf019943fc" />
+
+* Participial => Participle -> It is nothing but an **adjective**.
+
+<img width="1180" height="802" alt="image" src="https://github.com/user-attachments/assets/0037db56-a9ab-48d9-9f2e-6b3dd3ef8d89" />
+
+* Janet has been to each and every world heritage site located in India.
+* Janet -> Subject.
+* has been -> VErb.
+* site -> Noun.
+* Located in India, The Taj Mahal.
+
+<img width="1217" height="823" alt="image" src="https://github.com/user-attachments/assets/9074f76a-3fc5-4d7b-a07a-f2720336a363" />
+<img width="258" height="61" alt="image" src="https://github.com/user-attachments/assets/4abbecd5-e730-4786-9cc6-65ed27f5d42c" />
+
+* yes.
+
+<img width="1293" height="430" alt="image" src="https://github.com/user-attachments/assets/7b6f9792-4f27-4ffe-b7a5-16b2856eb35b" />
+
+* The student sitting behind me is disturbing me.
+* sitting behind me -> Necessary information to identify the student.
+* sitting -> Modifying the noun "student".
+* Gangs of wasipur, directed b Anurag Kashyap, is a great movie.
+* directed b Anurag Kashyap -> Extra Info -> That's why within commas(,).
+* Gangs of wasipur -> Subject(S).
+* is a great movie -> Verb.
+* If we start with a **phrase** then we have to put a comma(,) once the phrase ends.  [**VERY IMPORTANT**]
+* If the phrase is coming inbetween then it depends if the information is necessary or not. If it is unnecessary then we put a comma(,). If it is necessary then we do not put a comma(,). [**VERY IMPORTANT**]
+* Rahul Gandhi has left for Bangkok.
+
+<img width="1418" height="817" alt="image" src="https://github.com/user-attachments/assets/32469a1c-c3c2-42ea-af59-2fb07f46ca53" />
+
+* Suprised by the recent election results, Rahul Gandhi has left for Bangkok.
+* Suprised by the recent election results -> Modifier -> Modifying "Rahul Gandhi".
+ 
+<img width="1385" height="601" alt="image" src="https://github.com/user-attachments/assets/e09747ef-d751-4adc-adbd-0eebc91fb023" />
+<img width="1369" height="517" alt="image" src="https://github.com/user-attachments/assets/d9c159ba-bc96-4681-8929-ee246db0c99f" />
+
+* Rahul Gandhi, suprised by the recent election results, has left for Bangkok.
+* suprised by the recent election results -> Extra info.
+* Rahul Gandhi has left for Bangkok, suprised by the recent election results.
+* suprised -> Modifies "Rahul Gandhi".
+* suprised -> If the comma(,) was not given then it would have Modified "Bangkok" instead. [**VERY IMPORTANT**]
+
+<img width="1437" height="851" alt="image" src="https://github.com/user-attachments/assets/e6949906-a014-47cb-90a0-63e325dd3ac1" />
+
+* Suprised by the manager's behavior, the employee decided to put her papers.
+* Suprised by the manager's behavior -> Modifier -> Modifying the noun "employee".
+* The employee -> Subject.
+* decided -> Verb.
+
+<img width="1250" height="823" alt="image" src="https://github.com/user-attachments/assets/e1c02736-9d86-4c61-bdea-892c40219100" />
+<img width="1247" height="835" alt="image" src="https://github.com/user-attachments/assets/745ccefa-91b8-4c9d-9713-5d7f29a09ac4" />
+<img width="1061" height="818" alt="image" src="https://github.com/user-attachments/assets/6faad97d-100a-45b0-b390-bd4f4b68cbce" />
+<img width="1137" height="809" alt="image" src="https://github.com/user-attachments/assets/18a4cccf-0ea7-4fb5-b5d1-b763a047ebf7" />
+<img width="1232" height="804" alt="image" src="https://github.com/user-attachments/assets/80b84e00-21bc-4184-8880-31b9efe27c21" />
+
+* She handed out brownies, stored in tupperware, to the children.
+* stored in tupperware -> Modifier -> Modifying the noun "brownies".
+
+<img width="1256" height="815" alt="image" src="https://github.com/user-attachments/assets/4ee752ce-6857-40db-a18f-d7bde4309b95" />
+
+* She handed out brownies to the children stored in tupperware -> **Misplaced modifier** -> Modifier has come but it is not placed beside the correct noun.
+* I smelled the oysters coming down the stairs for dinner. [Wrong]
+* Coming down the stairs I smelled the oysters for dinner. [Correct]
+* I brushed my teeth, with crest toothpast, after eating. [Correct]
+* Driving like a maniac, John hit and killed the deer. [Correct]
+* Driving like a maniac, the deer was hit and killed -> **Dangling Modifier**. [Correct]
+* I saw the dead dog, driving down the interstate. [Correct]
+* Playing pool in the living room, Jim turned on the radio. [Correct]
+* Nancy bought the car having an automatic stick shift. [Correct]
+* I bought a car with 16 airbags. [Correct]
+* Jim left the freshly painted room to dry. [Correct]
+
+<img width="1231" height="814" alt="image" src="https://github.com/user-attachments/assets/530469c0-1c29-41ef-bcd0-26f3fa61b3a9" />
+
+* Subject(S) + Verb(V) -> Modifier. [**VERY IMPORTANT**]
+* Participle Phrase -> The most common type of Phrase. [**VERY IMPORTANT**]
+
+<img width="1234" height="813" alt="image" src="https://github.com/user-attachments/assets/89ff3fb2-7e80-4b92-b75f-a9b1dcb5eff9" />
+
+* The pen that is on the table is expensive.
+* is expensive -> The pen.
+* that is on the table -> Modifier -> Modifying the noun "pen".
+* The pen is on the table that is expensive. 
+* is expensive -> The table.
+* that is expensive -> Modifier -> Modifying the noun "table".
+
+<img width="1409" height="811" alt="image" src="https://github.com/user-attachments/assets/54c5024b-a299-4bd5-8f70-8e6fca826417" />
+<img width="1420" height="776" alt="image" src="https://github.com/user-attachments/assets/4b67f66b-b4f0-4345-9052-165e8b417a29" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
