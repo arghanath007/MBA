@@ -3506,6 +3506,95 @@
 * "Who" is relative clause refering to "He".
 * A pronoun refers to a pronoun.
 
+### Modifiers and it's Types (7) [14]
+
+* In SVA -> **Object** is not necessary -> It maybe there, it may not be there.
+
+<img width="1429" height="838" alt="image" src="https://github.com/user-attachments/assets/159a0461-918f-4a7b-8710-2f4eacd6ec80" />
+
+* Subject is implied but the subject is there.
+
+<img width="1427" height="832" alt="image" src="https://github.com/user-attachments/assets/a91f9a52-234e-42ed-a667-6347459c170f" />
+
+* She is beautiful.
+* She -> Subject.
+* is -> Verb
+* Beautiful -> Not Object -> Complementing the subject. [**VERY IMPORTANT**]
+* John is the happiest man.
+* John -> Subject.
+* is -> Verb
+* the happiest man -> Not Object -> Complementing the subject -> Noun phrase. [**VERY IMPORTANT**]
+* John = the happiest man
+
+<img width="1443" height="821" alt="image" src="https://github.com/user-attachments/assets/048f8a8e-17c5-47e7-b453-6b2367817b54" />
+
+* My guide is the starts.
+* the stars -> Noun phrase -> Subject complement.
+* stars -> Noun.
+* My guide -> Singular.
+* The stars are my guide.
+* The stars -> Plural.
+
+<img width="1434" height="831" alt="image" src="https://github.com/user-attachments/assets/22286958-b08b-4654-a0be-0284c0089f2f" />
+
+* My best friend is John.
+* John is my best friend.
+* John kicked Peter. [Active Voice]
+* Peter kicked John. [Wrong -> Original meaning changes]
+* Peter was kicked by John. [Correct] [Passive Voice]
+
+<img width="1419" height="822" alt="image" src="https://github.com/user-attachments/assets/9ac82da1-6a3e-4c43-b893-961190ce8eae" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
