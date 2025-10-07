@@ -1126,6 +1126,135 @@
 
 ### RC (7) [13]
 
+<img width="1405" height="819" alt="image" src="https://github.com/user-attachments/assets/63f1cf02-59bb-44ea-8d52-c1c54283901a" />
+
+* RC1.
+
+<img width="1430" height="914" alt="image" src="https://github.com/user-attachments/assets/bd0694b4-9ef4-47ca-aa04-3b976b71f6d1" />
+
+* Ans 1 -> Option **A**. [Got Correct]
+
+<img width="1419" height="813" alt="image" src="https://github.com/user-attachments/assets/c0cb360a-f501-448a-8a78-535e99bf5c59" />
+
+* B, E -> Out of scope option.
+* C, D -> Incomplete option.
+
+<img width="1425" height="925" alt="image" src="https://github.com/user-attachments/assets/6d099165-0b9f-4970-ab6a-d934e53e3862" />
+
+* Ans 2 -> Option **E**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1411" height="805" alt="image" src="https://github.com/user-attachments/assets/c6b0240f-550f-49a0-91d7-58614ffa768b" />
+
+* A -> Must -> Extreme option.
+* B -> Contrary option.
+* C -> Only -> Extreme option.
+* D -> erroneous data option.
+
+<img width="1436" height="921" alt="image" src="https://github.com/user-attachments/assets/50e36605-35bd-4261-a161-eccfe96ad3dd" />
+
+* Ans 3 -> Option **B**. [Got Correct]
+
+<img width="427" height="70" alt="image" src="https://github.com/user-attachments/assets/9f246a17-894c-4d7b-ab64-1c99f8d47235" />
+
+* Yes.
+
+<img width="874" height="488" alt="image" src="https://github.com/user-attachments/assets/5a77da95-5c58-4150-aefd-222667cbfae5" />
+<img width="1409" height="850" alt="image" src="https://github.com/user-attachments/assets/933f7ef3-5cf5-498a-b045-b24097b49f6f" />
+<img width="1420" height="821" alt="image" src="https://github.com/user-attachments/assets/1fd622e6-9843-4a14-b63b-eee5b028e730" />
+
+* D, E -> erroneous data option.
+
+<img width="1425" height="812" alt="image" src="https://github.com/user-attachments/assets/234f7af2-47e2-4e75-bf97-7c399b2cbf02" />
+<img width="1434" height="923" alt="image" src="https://github.com/user-attachments/assets/dcfa6c41-3c0d-4438-ac6b-6094e7a66ef7" />
+
+* Ans 4 -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1326" height="811" alt="image" src="https://github.com/user-attachments/assets/fcfd7d06-e5ed-4170-9edc-97f47fef1c45" />
+<img width="1429" height="833" alt="image" src="https://github.com/user-attachments/assets/3c2818b4-84d6-4064-89e6-6c095b1e0ef3" />
+
+* A, B, C, E -> Given.
+* D -> False
+
+<img width="1411" height="819" alt="image" src="https://github.com/user-attachments/assets/79be1dc0-4330-4bdc-8083-da4010c970ba" />
+
+* Arid -> Dry, lack of water or moisture, barren. [**MEANING**]
+* Sarce -> Less quantity, shortage. [**MEANING**]
+* Camels' -> Plural's possession. [**VERY IMPORTANT**]
+* Deflate -> Come down, decrease in size.  [**MEANING**]
+* Droop -> Come down, decrease in size. [**MEANING**]
+* Thermoregulation -> Temperature regulation. [**MEANING**]
+* Dissipate -> Spread. [**MEANING**]
+
+<img width="1424" height="811" alt="image" src="https://github.com/user-attachments/assets/5a3eb650-5120-411b-9081-c4447fa463ed" />
+<img width="1422" height="832" alt="image" src="https://github.com/user-attachments/assets/f133eea5-db80-4aad-9073-ecdd3d12eec7" />
+
+* RC2.
+
+<img width="1431" height="909" alt="image" src="https://github.com/user-attachments/assets/df132bf7-552d-4640-8d0e-bbc74c8631b3" />
+
+* Ans 1 -> Option **A**. [Got Correct]
+
+<img width="1408" height="820" alt="image" src="https://github.com/user-attachments/assets/22be0fc9-4953-4486-9972-7e692404eff7" />
+
+* A -> opposite to the passage.
+* B, C, D, E -> True.
+
+<img width="1433" height="919" alt="image" src="https://github.com/user-attachments/assets/4ef59055-7dd1-4f4a-be68-5a13444be200" />
+
+* Ans 2 -> Option **A**. [Got Correct]
+
+<img width="1421" height="822" alt="image" src="https://github.com/user-attachments/assets/fc2a2e31-a3eb-453d-a317-d1e83dea997e" />
+
+* B -> Equally honor -> No -> Distorting option.
+* E -> Always -> Extreme option.
+
+<img width="1428" height="922" alt="image" src="https://github.com/user-attachments/assets/1755a932-2b48-47d6-8a42-d0bb9be59e6a" />
+
+* Ans 3 -> Option **E**. [Got Correct]
+
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/7888fda3-3bd6-41ec-97f2-e837d8bd7dcf" />
+
+* We are talking about Labor day only.
+* Social Advancement of common people.
+* We are talking about collectives.
+
+<img width="427" height="90" alt="image" src="https://github.com/user-attachments/assets/4906cc8a-9765-4828-8fff-dc4fe06e0713" />
+
+* Yes.
+
+<img width="1432" height="917" alt="image" src="https://github.com/user-attachments/assets/fc1e49c0-fabf-4dbc-b16a-d45839c58be1" />
+
+* Ans 4 -> Option **C**. [Got Correct]
+
+<img width="1440" height="842" alt="image" src="https://github.com/user-attachments/assets/8a9a30d6-6744-4859-8f93-8df361ff6d83" />
+
+* Irony -> the use of words to express something other than and especially the opposite of the literal meaning. [**MEANING**]
+* Countenance -> Face. [**MEANING**]
+* Derision -> Ridicule/Mockery. [**MEANING**]
+* Giving an obligatory nod to that abstract entity, "the American Worker" -> Sarcasm/Sarcastic.
+* Prowess -> Power, strength. [**MEANING**]
+* Conspicuously -> Clearly. [**MEANING**]
+* apathy -> lack of feeling or emotion. [**MEANING**]
+* apolitical -> having no interest or involvement in political affairs. [**MEANING**]
+
+<img width="1402" height="806" alt="image" src="https://github.com/user-attachments/assets/8b5b9570-9de8-47f5-8336-b5b556edca4c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
