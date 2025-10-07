@@ -1241,26 +1241,84 @@
 
 <img width="1402" height="806" alt="image" src="https://github.com/user-attachments/assets/8b5b9570-9de8-47f5-8336-b5b556edca4c" />
 
+### ParaJumbles(PJ) (8) [14]
 
+<img width="1397" height="788" alt="image" src="https://github.com/user-attachments/assets/ca763e8b-9279-43ac-bec6-4236f201c8ce" />
 
+* ACDB. [Wrong]
+* DCAB. [Correct]
+* D -> Generic statement.
 
+<img width="1394" height="811" alt="image" src="https://github.com/user-attachments/assets/43661a80-bf0e-4f47-88c4-35ac0d506298" />
+<img width="1215" height="793" alt="image" src="https://github.com/user-attachments/assets/93f14908-5e31-4a28-91d3-b5316860164e" />
 
+* DACB. [Wrong]
+* ADCB. [Correct]
 
+<img width="1410" height="811" alt="image" src="https://github.com/user-attachments/assets/29bd25c6-b387-4573-9419-4764a8d10427" />
+<img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/b1bd3f66-c200-4b6f-a03c-989b8a729e92" />
+<img width="1406" height="774" alt="image" src="https://github.com/user-attachments/assets/75b7a09c-7bc8-480a-8f5b-e4f66e7632d4" />
 
+* ECBAD. [Correct]
 
+<img width="1426" height="817" alt="image" src="https://github.com/user-attachments/assets/dffdd07f-9e6f-47b4-a669-31d8fffc10a5" />
+<img width="1410" height="812" alt="image" src="https://github.com/user-attachments/assets/e59328f0-6383-4360-874c-2bf883f36155" />
+<img width="1411" height="811" alt="image" src="https://github.com/user-attachments/assets/0a561816-5d99-467a-8d27-e20bd5f3e4e2" />
+<img width="1412" height="815" alt="image" src="https://github.com/user-attachments/assets/464a3aa4-ce0b-42fb-9403-5a3eae23c307" />
 
+* DEACB. [Correct]
 
+<img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/241943fe-d292-4d38-81be-7647bf61ac46" />
 
+* DBAC. [Wrong]
+* DBCA. [Correct]
+* Retrospective -> Looking at past.  [**MEANING**]  
+* Temporal -> Relating to time.  [**MEANING**]  
+* Anteriority -> Something that happens before.  [**MEANING**]  
+* C -> Quote
+* A -> Explaination of Quote.
 
+<img width="1401" height="807" alt="image" src="https://github.com/user-attachments/assets/8049603e-0408-4e30-82d8-ea656bb71d0d" />
+<img width="1409" height="803" alt="image" src="https://github.com/user-attachments/assets/cec29b5a-288a-4e56-943a-0a89002850c0" />
 
+* ABDC. [Wrong]
+* BADC. [Correct]
+* Quintessentially -> Typical quality. [**MEANING**]  
 
+<img width="1412" height="804" alt="image" src="https://github.com/user-attachments/assets/863af6aa-2141-41ee-acdf-d8deef1fdfe8" />
+<img width="217" height="80" alt="image" src="https://github.com/user-attachments/assets/0d0d5bbb-58b1-44c9-8b36-7995b1b7c7b3" />
 
+* Yes.
 
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/b695a911-21da-420a-a2f2-88bcfed0d2ba" />
+<img width="1012" height="788" alt="image" src="https://github.com/user-attachments/assets/ebe14c12-89bd-410f-8a34-ca0852d9f156" />
 
+* CABD. [Correct]
+* C -> Introduction.
+* A -> Definition.
 
+<img width="1409" height="810" alt="image" src="https://github.com/user-attachments/assets/741b0ddb-8649-4327-871c-54ddb28d2382" />
+<img width="953" height="790" alt="image" src="https://github.com/user-attachments/assets/8393b58d-9103-4913-afd5-0b41f2219e83" />
+<img width="1410" height="803" alt="image" src="https://github.com/user-attachments/assets/8d45b692-b6ab-48fd-8681-3d7d67139aef" />
+<img width="1408" height="803" alt="image" src="https://github.com/user-attachments/assets/ed030b4d-6cbd-435d-a0eb-22460f75be93" />
 
+* BADC. [Correct]
 
+<img width="986" height="786" alt="image" src="https://github.com/user-attachments/assets/6142a82b-c8d0-4d13-92e5-95241f0f330d" />
 
+* DBAC. [Wrong]
+* CABD. [Correct]
+
+<img width="1415" height="804" alt="image" src="https://github.com/user-attachments/assets/6903ae33-9577-42a0-8cd4-f82efade24c9" />
+<img width="1407" height="803" alt="image" src="https://github.com/user-attachments/assets/3a7c8f80-4248-484a-92af-7a672b2bf483" />
+
+* ABDC. [Wrong]
+* DCBA. [Correct]
+
+<img width="1414" height="812" alt="image" src="https://github.com/user-attachments/assets/fb12a989-f0f1-4f71-b5dc-d68ecae6a29e" />
+<img width="1403" height="799" alt="image" src="https://github.com/user-attachments/assets/51c742ea-a427-403f-a2e0-61b0e8b01c1d" />
+
+### Idioms (9) [15]
 
 
 
