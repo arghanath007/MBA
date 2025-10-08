@@ -3868,76 +3868,175 @@
 
 ### Modifiers (8) [17]
 
+* Only she loves me.
+* She loves only me.
+* She only loves me.
+* They are **different** sentences. 
 
+<img width="1403" height="816" alt="image" src="https://github.com/user-attachments/assets/379f025e-1b84-4d30-8a48-ba27b7434113" />
 
+* Modifiers:-  [**VERY IMPORTANT**]
+   * A word -> Only, also, adverbs, adjectives. [**VERY IMPORTANT**]
+   * A phrase -> Participle phrase, Prepositional phrase, Appositive phrase. [Participle phrase -> Verb, Prepositional phrase -> Starts with a preposition]  [**VERY IMPORTANT**]
+   * A Clause -> All Adjective Clause, Only Relative Clause.  [**VERY IMPORTANT**]
 
+* The pen is expensive.
+* The pen on the table is expensive.
+* expensive -> Modifier
+* on the table -> Modifying the noun "pen".
+* Cannot be modifiers -> Verb and Gerund phrase. [Gerund -> Acts like noun]
+
+<img width="1424" height="818" alt="image" src="https://github.com/user-attachments/assets/1ee430b8-c926-4fd6-9667-cdd904a7e07c" />
+<img width="1436" height="824" alt="image" src="https://github.com/user-attachments/assets/c7bb8f30-2a45-46f5-8368-a8a4bb17aa1c" />
+
+* Active & Passive Voice -> Transitive & Intransitive verb.
+* Active -> Subject(S) + Verb(V) + Object(O).
+* I know many things about you. [Active Voice]
+* about you I know many things. [Wrong] 
+* Many things about you are known by me. [Correct] [Passive Voice]
+* are known -> Indicates Passive Voice.
+* About you, many things are known by me. [Correct] [Passive Voice]
 
+<img width="1436" height="833" alt="image" src="https://github.com/user-attachments/assets/0b811fc9-5c2f-4be7-803b-ac2d3c0296db" />
+<img width="1404" height="795" alt="image" src="https://github.com/user-attachments/assets/50aedecf-1012-47ed-b800-a86fa05529e9" />
+<img width="1218" height="808" alt="image" src="https://github.com/user-attachments/assets/9cf3a597-2702-4480-86fe-42f0b076fc77" />
+<img width="1208" height="789" alt="image" src="https://github.com/user-attachments/assets/facb435a-e241-486b-9210-b6d37881d448" />
+<img width="1224" height="804" alt="image" src="https://github.com/user-attachments/assets/eb792927-a5fa-4193-9e21-486281ddb12a" />
 
+* Modifiers should be correctly placed. [**VER IMPORTANT**]
 
+<img width="1229" height="808" alt="image" src="https://github.com/user-attachments/assets/6f64861b-f05e-4d3e-a387-9d6d0eb9a7af" />
+<img width="1237" height="811" alt="image" src="https://github.com/user-attachments/assets/e439ce56-1555-4d62-8321-365a5ee85e07" />
+<img width="1229" height="810" alt="image" src="https://github.com/user-attachments/assets/70f347a9-1e74-4745-89f5-c145557a7f81" />
 
+* Edith looked out on the morning, the soft bringht morning that stuck her dazzling eyes.
+* Edith looked out on the morning -> Main idea.
+* You extend an idea with a "that" clause.
 
+<img width="1180" height="814" alt="image" src="https://github.com/user-attachments/assets/214333b7-a74c-484f-8f56-d23e43cfff80" />
 
+* Cricket is a beautifu game, a game that teaches you many hard lessons about life.
+* a game that teaches you many hard lessons about life -> Modifier -> Modifying about the noun "game".
 
+<img width="1394" height="797" alt="image" src="https://github.com/user-attachments/assets/12c4dada-8c08-465e-8be2-f64b731b9a99" />
+<img width="1367" height="807" alt="image" src="https://github.com/user-attachments/assets/74008dd7-5128-4211-ae9d-0a1fce31f9ae" />
+<img width="1372" height="812" alt="image" src="https://github.com/user-attachments/assets/518a9662-5419-49c2-88bb-1b3f0b8fb2d6" />
+<img width="1438" height="811" alt="image" src="https://github.com/user-attachments/assets/ba2f4aac-40db-4222-99d7-ba51c385cdc0" />
 
+* gifts that were not only expensive but also memorable -> Modifier -> Modifying the noun "gift".
 
+<img width="1206" height="811" alt="image" src="https://github.com/user-attachments/assets/f45309e6-284f-4758-92d9-ccec78c52fde" />
 
+* A lobster that had probabl been......nuclear submarines -> Modifier -> Modifying the noun "lobster".
 
+<img width="1202" height="808" alt="image" src="https://github.com/user-attachments/assets/2df03e76-538d-4b90-927e-74ced036c614" />
+<img width="1193" height="815" alt="image" src="https://github.com/user-attachments/assets/a047d737-49e3-47c0-9bcc-6661a1de2240" />
 
+* Free modifier -> "-ing" modifier -> We have discussed already. 
 
+<img width="932" height="811" alt="image" src="https://github.com/user-attachments/assets/bbe4303e-09ef-4946-a7b6-dbb0b5445c9c" />
 
+* A position that bought with it many responsibilities -> Summative modifier.
+* Summative -> Trying to summarise/sum up the whole sentence. [**MEANING**]
+* The government of India introduced economic reforms -> Main Clause.
+* an event that ... subsequent governments -> Summative modifier.
+* I got married in 2005 -> Main Clause.
+* a disastrous ... course of my life -> Summative modifier.
 
+<img width="1233" height="814" alt="image" src="https://github.com/user-attachments/assets/3ae6b9e3-6db3-4a0e-8de6-7f7c0df5224b" />
+<img width="609" height="785" alt="image" src="https://github.com/user-attachments/assets/48f3b7fd-caa4-4b5a-824f-b2eb44e7a1b7" />
+<img width="1369" height="815" alt="image" src="https://github.com/user-attachments/assets/f162153f-912f-4b8f-aa6a-636a8f3386c8" />
 
+* who is a member of Hindu Mahasabha -> Extra info.
+* who is a member of Hindu Mahasabha -> Clause.
+* a member of Hindu Mahasabha -> Phrase -> Noun Phrase.
 
+<img width="1380" height="811" alt="image" src="https://github.com/user-attachments/assets/0c394945-20c1-4040-9806-76b12699552a" />
+<img width="1376" height="800" alt="image" src="https://github.com/user-attachments/assets/674705c7-2758-4b5f-8914-1bd59976d5f7" />
 
+* who is a member of Hindu Mahasabha -> Modifier -> Clause Modifier
+* who -> Referring to "Hindu militant".
+* who is a member of Hindu Mahasabha -> Modifying the noun "Hindu militant" -> Acting like an adjective.
+* who is a member of Hindu Mahasabha -> Relative clause -> Acts like an adjective clause -> Modifying the noun "Hindu militant". 
 
+<img width="1364" height="803" alt="image" src="https://github.com/user-attachments/assets/aaa70f17-4d92-4268-b81c-158a1bdd747a" />
 
+* They whose houses are made of glass should not throw stones at others. [Correct]
 
+<img width="1363" height="819" alt="image" src="https://github.com/user-attachments/assets/91ee09cf-244c-49c4-a323-0255c0c3cb6f" />
+<img width="1406" height="816" alt="image" src="https://github.com/user-attachments/assets/63860b3d-13c2-4c3d-9859-00ad4facdeda" />
 
+* who were very close to him -> Relative clause.
+* who -> Modifing the noun "those".
+* I teach those who pay for it.
+* who pay for it -> Relative clause.
+* who pay for it -> Modifing the noun "those".
+* I Love those who love me in return.
+* I -> Subject.
+* love -> Verb.
+* those -> Object.
+* who love me in return -> Modifing clause -> Modifing the noun "those".
 
+<img width="1424" height="812" alt="image" src="https://github.com/user-attachments/assets/8b2e5016-294b-4a53-bf85-2ef5860d17fb" />
+<img width="1410" height="811" alt="image" src="https://github.com/user-attachments/assets/2de5119e-39c8-402e-97bf-a741800c158d" />
 
+* I love those people who love me in return.
+* Who -> Modifing the noun "people".
+* those -> Adjective of "people".
+* I love those who love me in return.
+* He who works hard finds success.
+* He -> Subject.
+* finds -> verb.
+* who works hard -> Modifier -> Modifing the noun "He".
 
+<img width="323" height="81" alt="image" src="https://github.com/user-attachments/assets/cdc04a00-07eb-4894-b708-88f140b031fb" />
 
+* Yes
 
+<img width="1409" height="834" alt="image" src="https://github.com/user-attachments/assets/bcda08a4-60c3-4dd7-942f-5dc170050799" />
 
+* He finds success.
+* Who is he?
 
+> Who works hard.
 
+<img width="582" height="763" alt="image" src="https://github.com/user-attachments/assets/7b1327e6-1b0b-4439-bfce-95026305a604" />
+<img width="1216" height="784" alt="image" src="https://github.com/user-attachments/assets/c3864cb4-6922-414b-bde3-39cc58613ee7" />
 
+* The man who stole my car is right here in this shop.
+* who stole my car -> Essential info.
+* John, who stole my car, is right here in this shop.
+* who stole my car -> Extra info -> That's why commas(,) there.
 
+<img width="1211" height="795" alt="image" src="https://github.com/user-attachments/assets/153c0084-3537-45e8-91a9-d59f2b81edbe" />
+<img width="1221" height="806" alt="image" src="https://github.com/user-attachments/assets/236f48c5-95a5-41c1-b56e-5f56e35f1832" />
 
+* He held the umbrella that he got from Delta Airlines over Janet's head. [Correct]
+* He wore a straw hat which was obviously too small on his head.  [Correct]
+* One his head, he wore a straw hat, which was obviously too small. [Better and Correct]
 
+<img width="1233" height="813" alt="image" src="https://github.com/user-attachments/assets/8f90c748-c2c9-4221-8c1b-2dd935ba21a8" />
+<img width="1237" height="804" alt="image" src="https://github.com/user-attachments/assets/9861ce6e-a2d0-485b-abf6-5b28a2a174b9" />
 
+* The girl who had just taken an overdose of sleeping pills was consoled by the nurse.  [Correct]
+* Modifiers can come at the beginning of a sentence. [**VERY IMPORTANT**]
+* Although I was annoyed -> Modifier.
 
+<img width="605" height="789" alt="image" src="https://github.com/user-attachments/assets/a43daffe-3992-46ce-8d8c-d93c44d1bc4b" />
+<img width="1421" height="822" alt="image" src="https://github.com/user-attachments/assets/bc20dc24-c218-428f-832c-df4dcc19d950" />
+<img width="1407" height="810" alt="image" src="https://github.com/user-attachments/assets/7162ee3a-9d42-4746-978a-bae40d66cd20" />
 
+* Modifiers are coming at the start.
 
+<img width="1459" height="824" alt="image" src="https://github.com/user-attachments/assets/5c6533ac-6337-43f8-9fc1-fa66dcc9d960" />
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/e7c5699d-6265-407c-bcd1-32ca5110120f" />
+<img width="1422" height="834" alt="image" src="https://github.com/user-attachments/assets/1751d1f4-f540-40bb-9e41-7348d3ec973e" />
+<img width="1421" height="821" alt="image" src="https://github.com/user-attachments/assets/0eade248-17a4-4eec-8649-7ab38cd4f2ef" />
+<img width="1391" height="799" alt="image" src="https://github.com/user-attachments/assets/c21e26f6-7a72-4c16-a6d1-f2a1f70f71ad" />
 
+* Adjective clauses will change meaning if they move.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1417" height="804" alt="image" src="https://github.com/user-attachments/assets/a542d7de-345b-4cd7-b9db-ac3341895491" />
 
 
 
