@@ -1320,138 +1320,233 @@
 
 ### Idioms (9) [15]
 
+<img width="1422" height="912" alt="image" src="https://github.com/user-attachments/assets/36abd1ed-e808-4403-8199-3107413c6b3b" />
 
+* Ans 1 -> Option **A**. [Got Correct]
 
+<img width="1422" height="920" alt="image" src="https://github.com/user-attachments/assets/c0ba3276-363a-48d7-b8d1-b69814fbb373" />
 
+* Ans 2 -> Option **A**. [Got Correct]
 
+<img width="1389" height="792" alt="image" src="https://github.com/user-attachments/assets/f0bf7c0e-c768-4eb7-ac65-37349e79b026" />
 
+<img width="1432" height="900" alt="image" src="https://github.com/user-attachments/assets/98559407-95da-48fd-b4e1-f66c988672b7" />
 
+* Ans 3 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
 
+<img width="1439" height="921" alt="image" src="https://github.com/user-attachments/assets/7549ad80-c61b-485e-abe0-530cac6bb618" />
 
+* Ans 4 -> Option **B**. [Got Correct]
 
+<img width="783" height="492" alt="image" src="https://github.com/user-attachments/assets/2d876093-23e8-491b-a98a-cff31a78de7f" />
+<img width="1423" height="906" alt="image" src="https://github.com/user-attachments/assets/e819d087-4a30-4665-b098-53713c2fb98f" />
 
+* Ans 5 -> Option **B**. [Got Correct]
 
+<img width="1432" height="917" alt="image" src="https://github.com/user-attachments/assets/ca806aba-d14c-4058-b4a8-f280f42b1275" />
 
+* Ans 6 -> Option **B**. [Got Correct]
 
+<img width="939" height="792" alt="image" src="https://github.com/user-attachments/assets/76adf75e-33c0-4aaf-803a-23b343da4731" />
+<img width="1426" height="918" alt="image" src="https://github.com/user-attachments/assets/eb2769cb-67c8-4051-b461-fc4d98cbd1a6" />
 
+* Ans 7 -> Option **C**. [Got Correct]
 
+<img width="1434" height="917" alt="image" src="https://github.com/user-attachments/assets/7b8edfcf-f88b-48f9-825e-433bc1843080" />
 
+* Ans 8 -> Option **A**. [Got Correct]
 
+<img width="1001" height="784" alt="image" src="https://github.com/user-attachments/assets/6ce20166-f051-4db8-b43f-1f87ff06beff" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/f9601e9f-0a28-405f-bae9-866978296ec2" />
 
+* Ans 9 -> Option **B**. [Got Correct]
 
+<img width="1433" height="917" alt="image" src="https://github.com/user-attachments/assets/8b565fa5-fd52-4d6e-ae41-1398962b665f" />
 
+* Ans 10 -> Option **A**. [Got Correct]
 
+<img width="902" height="499" alt="image" src="https://github.com/user-attachments/assets/5256559e-404e-45fb-82f3-c5befee08690" />
+<img width="1432" height="917" alt="image" src="https://github.com/user-attachments/assets/4d0a8eaa-b25f-4ac8-b10e-8469e4dda511" />
 
+* Ans 11 -> Option **B**. [Got Correct]
 
+<img width="1437" height="912" alt="image" src="https://github.com/user-attachments/assets/e122f02b-e26c-4432-9dc2-2c4cb9d6a336" />
 
+* Ans 12 -> Option **B**. [Got Correct]
 
+<img width="963" height="788" alt="image" src="https://github.com/user-attachments/assets/332e770a-763a-44b7-8004-15bd4c518ae7" />
+<img width="1428" height="915" alt="image" src="https://github.com/user-attachments/assets/d1380bc1-2bc9-4229-b179-f968c2551ea3" />
 
+* Ans 13 -> Option **B**. [Got Correct]
 
+<img width="1431" height="911" alt="image" src="https://github.com/user-attachments/assets/097a18cb-1136-48c1-b9d0-c9404620e4d2" />
 
+* Ans 14 -> Option **C**. [Got Correct]
 
+<img width="865" height="497" alt="image" src="https://github.com/user-attachments/assets/b5852b3f-7800-479f-9ea5-e01aad7a2bb6" />
 
+<img width="1440" height="924" alt="image" src="https://github.com/user-attachments/assets/379b1ced-98ee-4fec-9555-ab85dec2c65c" />
 
+* Ans 15 -> Option **A**. [Got Correct]
 
+<img width="1442" height="924" alt="image" src="https://github.com/user-attachments/assets/9ca4b8ee-114e-4088-bbce-92e9e0c77764" />
 
+* Ans 16 -> Option **B**. [Got Correct]
 
+<img width="458" height="95" alt="image" src="https://github.com/user-attachments/assets/b7b81e14-f924-4109-ac88-d2ef6f69b4c3" />
 
+* Yes.
 
+<img width="888" height="784" alt="image" src="https://github.com/user-attachments/assets/ccffd7cb-ec03-4ce8-affb-b232289e767e" />
+<img width="1440" height="920" alt="image" src="https://github.com/user-attachments/assets/cdf16b46-4b58-4485-9311-082bfb8eaf0c" />
 
+* Ans 17 -> Option **A**. [Got Correct]
 
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/f04de145-f0c7-4698-8f26-a2641992755a" />
 
+* Ans 18 -> Option **A**. [Got Correct]
 
+<img width="1415" height="806" alt="image" src="https://github.com/user-attachments/assets/1cd5c1d5-8a98-479d-b2e0-eaf39cabf393" />
+<img width="1425" height="911" alt="image" src="https://github.com/user-attachments/assets/cde78ec7-ead7-46c8-9a9e-6617c80f984a" />
 
+* Ans 19 -> Option **A**. [Got Correct]
 
+<img width="1438" height="913" alt="image" src="https://github.com/user-attachments/assets/5db11852-ffaf-4d3f-9093-6b41169cc61f" />
 
+* Ans 20 -> Option **A**. [Got Correct]
 
+<img width="1405" height="805" alt="image" src="https://github.com/user-attachments/assets/cffcc31e-4880-47d8-9134-3111dc153d04" />
+<img width="1433" height="907" alt="image" src="https://github.com/user-attachments/assets/ec46d0e1-8669-450e-881c-7a6b97363b21" />
 
+* Ans 22 -> Option **A**. [Got Correct]
 
+<img width="996" height="785" alt="image" src="https://github.com/user-attachments/assets/2864afa5-4801-4f0d-8398-d31e812b808f" />
+<img width="1055" height="794" alt="image" src="https://github.com/user-attachments/assets/9367f6d0-314a-4ec3-9be1-b37483e602de" />
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/dbaec7af-6e09-465d-9fec-daed38a0add9" />
 
+* Ans 23 -> Option **B**. [Got Correct]
 
+<img width="790" height="357" alt="image" src="https://github.com/user-attachments/assets/4bdbd117-3323-477b-a076-4b5b736c7112" />
+<img width="746" height="389" alt="image" src="https://github.com/user-attachments/assets/94790c57-1902-4d16-abaf-2bd655363d6e" />
+<img width="1438" height="920" alt="image" src="https://github.com/user-attachments/assets/861a92a2-bfd0-495e-9d64-110826277f4b" />
 
+* Ans 24 -> Option **A**. [Correct]
+* Option **D**. [Wrong]
+* Blow hot and Cold -> Constantly switching -> Inconsistent. [**MEANING**]
 
+<img width="1427" height="923" alt="image" src="https://github.com/user-attachments/assets/c910654e-aa30-4e12-880d-430650c79f64" />
 
+* Ans 25 -> Option **C**. [Got Correct]
+* On board -> Support, Agree. [**MEANING**]
+* Aboard -> Get on -> on, onto, or within a vehicle (such as a car or ship). [**MEANING**]
+* Off Board -> Get off. [**MEANING**]
 
+<img width="1417" height="810" alt="image" src="https://github.com/user-attachments/assets/bc9ccfeb-5c6c-4b2d-970b-ff51fdd57dfa" />
+<img width="1440" height="919" alt="image" src="https://github.com/user-attachments/assets/7a2621dc-4d23-475e-8f45-75634e60dbec" />
 
+* Ans 26 -> Option **A**. [Got Correct]
+* Ans 27 -> Option **A**. [Got Correct]
 
+<img width="1417" height="804" alt="image" src="https://github.com/user-attachments/assets/9e0e0a30-4efc-4860-afc0-d2c4f07bcd3f" />
+<img width="1434" height="927" alt="image" src="https://github.com/user-attachments/assets/29fbc2c6-5fb0-4295-a120-f1ddc9d1950b" />
 
+* Ans 28 -> Option **B**. [Got Correct]
 
+<img width="1437" height="915" alt="image" src="https://github.com/user-attachments/assets/782eb0b0-0df5-4966-a7d1-9b58780dbb32" />
 
+* Ans 29 -> Option **C**. [Got Correct]
 
+<img width="749" height="521" alt="image" src="https://github.com/user-attachments/assets/2c0248b6-1df8-453f-b1e8-50860cc24f33" />
+<img width="1435" height="921" alt="image" src="https://github.com/user-attachments/assets/f8ada9df-cb5c-44b7-bb1f-15571e52c9dc" />
 
+* Ans 30 -> Option **A**. [Got Correct]
 
+<img width="1439" height="911" alt="image" src="https://github.com/user-attachments/assets/ef98f830-fa4b-45c8-b52c-f2c8122962f2" />
 
+* Ans 31 -> Option **A**. [Got Correct]
 
+<img width="804" height="475" alt="image" src="https://github.com/user-attachments/assets/a95245ed-4aec-443d-9f22-efb6f0838a0b" />
+<img width="1428" height="927" alt="image" src="https://github.com/user-attachments/assets/40539ada-1da5-4207-b47c-2a06466d51f5" />
 
+* Ans 32 -> Option **B**. [Got Correct]
 
+<img width="1436" height="913" alt="image" src="https://github.com/user-attachments/assets/c44e9788-09a8-4b55-8a83-f9a6e4c6c604" />
 
+* Ans 33 -> Option **B**. [Got Correct]
 
+<img width="854" height="510" alt="image" src="https://github.com/user-attachments/assets/464fbe53-e133-4549-8522-b4fd673b2746" />
+<img width="1436" height="913" alt="image" src="https://github.com/user-attachments/assets/0be893ea-3201-4644-abe3-a436251b5010" />
 
+* Ans 35 -> Option **A**. [Got Correct]
 
+<img width="753" height="514" alt="image" src="https://github.com/user-attachments/assets/487b805e-a035-4f30-8b08-45e0f3963a55" />
+<img width="1441" height="918" alt="image" src="https://github.com/user-attachments/assets/3b0f929d-efff-481b-b9b9-61577a2a01cd" />
 
+* Ans 36 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Hobson's Choice -> an apparently free choice when there is no real alternative. [**MEANING**]
 
+<img width="1423" height="815" alt="image" src="https://github.com/user-attachments/assets/9f67c3f9-d4d4-44a9-8dd4-0a3f12ac17c6" />
+<img width="1148" height="518" alt="image" src="https://github.com/user-attachments/assets/5c55a9c9-d16d-405a-afc0-76cd0f44bd59" />
 
+* Ans 37 -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+* busman's holiday -> a holiday spent in following or observing the practice of one's usual occupation.  [**MEANING**]
 
+<img width="1164" height="577" alt="image" src="https://github.com/user-attachments/assets/0ecaac5b-b8a2-4f7b-9db7-ba6dd98b1755" />
+<img width="1429" height="891" alt="image" src="https://github.com/user-attachments/assets/bb66831a-637f-431f-902e-113afdd11b03" />
 
+* Ans 38 -> Option **A**. [Got Correct]
+* Pyrrhic Victory -> a victory that is not worth winning because so much is lost to achieve it.  [**MEANING**]
 
+<img width="1394" height="564" alt="image" src="https://github.com/user-attachments/assets/96aa93ff-5d08-49b0-b4ae-7c339c6a23c4" />
+<img width="1432" height="919" alt="image" src="https://github.com/user-attachments/assets/075f7afb-b1e6-4965-a0e2-71cc79f84d1a" />
 
+* Ans 39 -> Option **B**. [Got Correct]
+* Sword of Damocles-> an impending disaster. [**MEANING**]
+* Covenants -> Agreement. [**MEANING**]
 
+<img width="916" height="625" alt="image" src="https://github.com/user-attachments/assets/d9183d7c-e746-48dc-863a-21a70c5e3f99" />
+<img width="1438" height="921" alt="image" src="https://github.com/user-attachments/assets/511d1f08-6f27-4f15-9e00-f9fdb1fcfbd1" />
 
+* Ans 40 -> Option **C**. [Got Correct]
+* Moved the goalposts -> to change the rules or requirements in a way that makes success more difficult. [**MEANING**]
 
+<img width="1109" height="468" alt="image" src="https://github.com/user-attachments/assets/2a6b2e48-d74b-4168-a277-4d52545467e1" />
+<img width="1154" height="525" alt="image" src="https://github.com/user-attachments/assets/46a6b51e-3737-4683-8859-1f6434ff6740" />
+<img width="1438" height="919" alt="image" src="https://github.com/user-attachments/assets/12eba610-5673-4ce1-b1c2-5a0e9edcb321" />
 
+* Ans 41 -> Option **B**. [Got Correct]
+* Conceal -> Hide. [**MEANING**]
 
+<img width="1417" height="816" alt="image" src="https://github.com/user-attachments/assets/9c1a476b-6485-42e4-b5f0-a2ff80537825" />
+<img width="1435" height="915" alt="image" src="https://github.com/user-attachments/assets/154c0784-91da-4a2f-9b13-77c5d6080b21" />
 
+* Ans 42 -> Option **A**. [Got Correct]
 
+<img width="1029" height="543" alt="image" src="https://github.com/user-attachments/assets/bfbb458e-c80e-4e7e-904b-1d054b2b46d7" />
+<img width="1438" height="879" alt="image" src="https://github.com/user-attachments/assets/e6b34a68-51ee-4b07-b91c-30db14bfb09c" />
 
+* Ans 43 -> Option **C**. [Got Correct]
 
+<img width="1229" height="590" alt="image" src="https://github.com/user-attachments/assets/3b36e17a-7d95-4337-8636-c44eb93e053e" />
+<img width="1429" height="916" alt="image" src="https://github.com/user-attachments/assets/76f22bc2-6d77-4cd9-bcf4-b6e5883839dd" />
 
+* Ans 44 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Soured ->  unpleasant, distasteful. [**MEANING**]
 
+<img width="1206" height="535" alt="image" src="https://github.com/user-attachments/assets/0f1dc2ec-c25f-4c76-9dbb-63a8103054d2" />
+<img width="1111" height="506" alt="image" src="https://github.com/user-attachments/assets/93be4cd2-fdba-450d-b122-e17a335a4335" />
 
+* Ans 45 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Cut the Gordian Knot -> to solve a difficult problem in a very direct way by doing something forceful or extreme. [**MEANING**]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1406" height="800" alt="image" src="https://github.com/user-attachments/assets/e20729a7-10ef-4f19-9172-51d003442f5c" />
+<img width="1089" height="463" alt="image" src="https://github.com/user-attachments/assets/ee771d4d-6c4a-46d1-97fc-b3e96e0ff04a" />
+<img width="1134" height="474" alt="image" src="https://github.com/user-attachments/assets/7a9aa518-3a6f-495b-8e35-c65060d73e74" />
 
 
 
