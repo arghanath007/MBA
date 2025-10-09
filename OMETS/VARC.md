@@ -1548,36 +1548,135 @@
 <img width="1089" height="463" alt="image" src="https://github.com/user-attachments/assets/ee771d4d-6c4a-46d1-97fc-b3e96e0ff04a" />
 <img width="1134" height="474" alt="image" src="https://github.com/user-attachments/assets/7a9aa518-3a6f-495b-8e35-c65060d73e74" />
 
-### Idioms (10) [20]
+### Cloe Passage Test Practice (10) [20]
 
+<img width="1396" height="802" alt="image" src="https://github.com/user-attachments/assets/5adae292-05e9-4749-b169-0447e40bde17" />
 
+* Q1.
+* 1 -> E. [Wrong]
+* 1 -> B. [Correct]
+* 2 -> C. [Wrong]
+* 2 -> B. [Correct]
+* 3 -> D. [Correct]
+* 4 -> A. [Correct]
+* Ans -> BBDA. [Correct]
+* Expedite -> Do something promptly. [**MEANING**]
+* Paralyze -> To stop working. [**MEANING**]
 
+<img width="1404" height="795" alt="image" src="https://github.com/user-attachments/assets/1d45fd70-10a0-4cfd-80fb-420eacb64c28" />
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/1bb2df1f-958b-4f46-90b0-b6fe514a55cf" />
 
+* Q2
+* 1 -> C. [Correct]
+* 2 -> B. [Correct]
+* 3 -> B. [Correct]
+* 4 -> B. [Correct] [Balance or integrate]
+* Ans -> CBBB. [Got Correct]
+* Stifle -> To smother or suffocate someone. [**MEANING**]
+* Reprisal -> Scolding someone.  [**MEANING**]
+* Yet -> 180 degree word.
 
+<img width="1407" height="804" alt="image" src="https://github.com/user-attachments/assets/0ab84094-4cf9-4d71-945d-e10512474f3d" />
+<img width="1401" height="795" alt="image" src="https://github.com/user-attachments/assets/18602328-069f-42e5-98f7-03defb45bbdc" />
 
+* Q3.
+* 1 -> B. [Correct]
+* 2 -> B. [Correct] [Resort to > Adopt]
+* 3 -> B. [Wrong]
+* 3 -> C. [Correct] [Erode > Destroy] [**VERY IMPORTANT**]
+* 4 -> A. [Correct]
+* Ans -> BBCA. [Correct]
+* Elite -> Top. [**MEANING**]
+* Thrive -> Flourishing/Successful. [**MEANING**]
+* Lure -> Temptation/Attraction. [**MEANING**]
 
+<img width="223" height="90" alt="image" src="https://github.com/user-attachments/assets/31247d2a-d9d9-4591-9510-96d22c9a6dc9" />
 
+* Yes.
+* Resort to -> Temporary. [**MEANING**]
+* Adpt -> Signifies permanent. [**MEANING**]
 
+<img width="1398" height="788" alt="image" src="https://github.com/user-attachments/assets/65d236f7-b23f-4b90-8fe8-8030f713034f" />
+<img width="1392" height="789" alt="image" src="https://github.com/user-attachments/assets/76becf7f-27c1-4fa5-975a-be77184ac09e" />
 
+* Q4.
+* 1 -> B. [Correct]
+* 2 -> B. [Correct]
+* 3 -> B. [Correct]
+* 4 -> A. [Correct]
+* Ans -> BBBA. [Got Correct]
+* Buffer -> cushion. [**MEANING**]
+* Invasive -> Tending to spread quickly. [**MEANING**]
+* Cascade -> Waterfall, to come down in large quantity. [**MEANING**]
+* Anticipation -> We may soon, something that is about to happen. [**MEANING**]
 
+<img width="423" height="87" alt="image" src="https://github.com/user-attachments/assets/7c484a0c-250e-4441-9f70-d60c7c5d0d2b" />
 
+* Yes.
 
+<img width="1418" height="823" alt="image" src="https://github.com/user-attachments/assets/69c9bfe1-3909-4df5-b0bc-53ff2d28efee" />
+<img width="1397" height="796" alt="image" src="https://github.com/user-attachments/assets/dd706d6e-2023-40f8-9f22-9b48e6bf5186" />
+<img width="1401" height="798" alt="image" src="https://github.com/user-attachments/assets/c1aabc75-6cc3-4444-9fc4-03c09a14b930" />
 
+* Q5.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* Ans -> AAAA. [Got Correct]
+* Embody -> To be/make a perfect example of something. [**MEANING**]
+* Obliterate -> Destroy. [**MEANING**]
+* Homogenized -> Similar, uniform. [**MEANING**]
+* Forfeit -> To leave your right to something, to withdraw, to give up. [**MEANING**]
 
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/9d0088c9-fbb1-4899-923c-68e5efcc310a" />
+<img width="1388" height="786" alt="image" src="https://github.com/user-attachments/assets/09d0fb2b-08a0-4bec-ac06-140e45000a8f" />
 
+* Q6.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* Ans -> AAAA. [Got Correct]
+* Monetize -> To make profit from a given situation, to earn money or make profit from the situation. [**MEANING**]
+* surveillance -> To keep an eye on someone. [**MEANING**]
 
+<img width="1395" height="791" alt="image" src="https://github.com/user-attachments/assets/7de9c65a-8662-4ffa-8fbb-ed3d3235a371" />
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/3a948728-0253-4a4e-ac3b-77ff2118363b" />
+<img width="1394" height="791" alt="image" src="https://github.com/user-attachments/assets/b76ee563-80c1-45ad-b3ab-a5ad197d1bc5" />
 
+* Q7.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* Ans -> AAAA. [Got Correct]
+* Mitigate -> To reduce in intensity. [**MEANING**]
+* Obscure -> To mask or to hide. [**MEANING**]
+* Amplify -> To increase. [**MEANING**]
+* Disregard -> Disrespect, do not consider. [**MEANING**]
+* Inherit -> To get something genetically/psychologically.  [**MEANING**]
 
+<img width="1396" height="791" alt="image" src="https://github.com/user-attachments/assets/8d802944-24e6-4310-b27d-bc02121cf1b3" />
+<img width="1394" height="795" alt="image" src="https://github.com/user-attachments/assets/7ae51d2b-fe14-49f4-9129-37ab5a606a45" />
+<img width="1392" height="796" alt="image" src="https://github.com/user-attachments/assets/5c179436-7f8e-4e58-a440-3fb3ff8c2140" />
 
+* Q8.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct] [Negative effect]
+* 3 -> D. [Wrong]
+* 3 -> A. [Correct]
+* 4 -> B. [Correct]
+* Ans -> AAAB. [Correct]
+* Cognitive -> Anything related to thinking/brain/brain activity. [**MEANING**]
+* Delude -> To make someone believe something that is untrue. [**MEANING**]
+* Persuade -> Convince. [**MEANING**]
+* Fallacy -> Error, flaw. [**MEANING**]
 
+<img width="1397" height="793" alt="image" src="https://github.com/user-attachments/assets/949c6f7b-792e-4de0-aa2e-9d989e92e5c4" />
+<img width="1394" height="793" alt="image" src="https://github.com/user-attachments/assets/8fce367a-d42c-4c13-b6cd-55789f458d36" />
 
-
-
-
-
-
-
-
+* Start from 1hr 10mins.
 
 
 
