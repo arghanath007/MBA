@@ -4038,60 +4038,112 @@
 
 <img width="1417" height="804" alt="image" src="https://github.com/user-attachments/assets/a542d7de-345b-4cd7-b9db-ac3341895491" />
 
+### Modifiers (9) [18]
 
+<img width="1387" height="794" alt="image" src="https://github.com/user-attachments/assets/b7b4f77a-b6b6-4602-9008-838a14b120bd" />
+<img width="1400" height="826" alt="image" src="https://github.com/user-attachments/assets/d3dca1a5-9eb4-4f19-b385-fa8d627d6991" />
+<img width="1230" height="809" alt="image" src="https://github.com/user-attachments/assets/7c2a04cb-3475-4271-95c5-d57b5c45878c" />
 
+* Ambitious, Vengeful, Capricious -> Adjective.
+* Ambition, Vengeance, Caprice -> Noun.
+* Napolean was full of Ambitio, Vengeful, Capricious. [Wrong]
+* Caprice -> Crazy/Moody. [**MEANING**]
+* I like singing and dancing. [Correct]
+* singing, dancing -> Gerunds.
+* I like to sing and to dance. [Correct]
+* to sing, to dance -> Infinitives.
+* I like to sing, to dance and to drink. [Correct]
+* When we have two(2) elements we have to separate them with "and".
 
+<img width="1439" height="833" alt="image" src="https://github.com/user-attachments/assets/c6bbb8ea-a97e-4735-a2bb-9abfef72f0a6" />
+<img width="1422" height="805" alt="image" src="https://github.com/user-attachments/assets/73c6b852-b26e-44ac-a666-505d8478dca8" />
 
+* I like to sing and to drink. [Correct]
+* She is not onlt beautiful but also intelligent/witty/charming/graceful.
+* She not only likes to dance but also to sing. [Wrong]
+* She likes not only to dance but also to sing. [Correct]
 
+<img width="1433" height="815" alt="image" src="https://github.com/user-attachments/assets/3f9335d9-1457-4d5a-bd72-adde5cfed47c" />
+<img width="1432" height="835" alt="image" src="https://github.com/user-attachments/assets/6565aa6d-2bb0-4628-a0a6-4d247365f8e8" />
+<img width="1433" height="835" alt="image" src="https://github.com/user-attachments/assets/0f463dd1-2bf8-4697-92c3-11c77084300a" />
 
+* not only, but also -> Conjunction.
 
+<img width="1230" height="812" alt="image" src="https://github.com/user-attachments/assets/4ddb1607-5138-40c3-bca2-4d058144f94b" />
 
+* Singing and dancing are my hobbies.
+* Singing and cricket are my hobbies. [Wrong]
+* We play cricket.
+* Singing and playing cricket are my hobbies.
+* To sing is better than to dance.
 
+<img width="1231" height="799" alt="image" src="https://github.com/user-attachments/assets/8ad313a8-38d6-412f-846e-33f0bbf80baa" />
+<img width="615" height="792" alt="image" src="https://github.com/user-attachments/assets/9224a8a6-abef-41c0-98f3-24e4ee0115f9" />
+<img width="1194" height="797" alt="image" src="https://github.com/user-attachments/assets/228d5611-b9db-4054-a9d6-a8fc8416f22b" />
 
+* Preposition + Object of preposition -> Preposition will never come alone.   [**VERY IMPORTANT**]
 
+<img width="1196" height="805" alt="image" src="https://github.com/user-attachments/assets/862cf616-a578-4033-a017-a66b11bc88c7" />
 
+* Born in kolkata and raised in mumbai, my father has acted in more than 100 bollywood movies.
+* Born in kolkata, raised in mumbai -> Participle phrase
+* Born in kolkata -> "-n" phrase.
+* raised in mumbai -> "-ed" phrase.
+* Born in kolkata, raised in mumbai and educated in oxford.
+* Born in kolkata, raised in mumbai, educated in oxford and married in Tokyo.
+* Born in kolkata, raised in mumbai, educated in oxford, married in Tokyo and divorced in chennai.
 
+<img width="1425" height="824" alt="image" src="https://github.com/user-attachments/assets/0eb1c863-f335-419d-a643-4f3e82c5b749" />
+<img width="1232" height="815" alt="image" src="https://github.com/user-attachments/assets/ae0988a3-f13d-490d-8a31-d2d7d85bc416" />
 
+* Connecting, managed -> Participle phrase
+* Connecting -> "-ing" phrase
+* managed -> "-ed" phrase
 
+<img width="1281" height="840" alt="image" src="https://github.com/user-attachments/assets/393cd536-3e17-46cf-85fa-822e8a251a46" />
 
+* different from, contrary to -> Adjectives.
 
+<img width="1235" height="811" alt="image" src="https://github.com/user-attachments/assets/099bb04f-256d-44c1-88c9-d7ad9c794446" />
+<img width="1227" height="808" alt="image" src="https://github.com/user-attachments/assets/c9362a5a-8353-4b3b-a63c-3489dbb01d45" />
 
+* Playing cricket for my club and taking solotrips to faraway places are my favourite activity.
+* My arms folded, I waited for my son outside the CAT exam centre.
+* My arms folded -> Extra description -> Modifier.
+* Independent Clauses(IC) -> Main/Primary Idea. [**VERY IMPORTANT**]
 
+<img width="1173" height="810" alt="image" src="https://github.com/user-attachments/assets/a470c874-b496-49dc-83ec-afd6d6e18597" />
+<img width="1180" height="814" alt="image" src="https://github.com/user-attachments/assets/a224eab5-1692-4b88-b74a-5d983681bb1f" />
+<img width="1232" height="802" alt="image" src="https://github.com/user-attachments/assets/72558fcc-c562-4a19-99bb-6df3aba28093" />
 
+* who, whose -> sisters.
 
+<img width="1186" height="814" alt="image" src="https://github.com/user-attachments/assets/0a590bb4-dea0-41f1-b573-5b8863e65870" />
 
+* My neighbor, who is beautiful and whose children are like my own looks good meals for me.
+* who is beautiful, whose children are like my own -> Modifier -> Both are modifying the noun "my neighbour".
+* My neighbor -> Subject.
+* looks -> verb.
 
+<img width="1404" height="530" alt="image" src="https://github.com/user-attachments/assets/d7f0f902-df3d-48a1-9c38-a087d41bd520" />
+<img width="1173" height="808" alt="image" src="https://github.com/user-attachments/assets/e3591fbd-087b-4bb8-81f8-e1968762aea6" />
+<img width="1172" height="804" alt="image" src="https://github.com/user-attachments/assets/50d7e107-5e17-4911-b875-b63bb24aa132" />
+<img width="1185" height="806" alt="image" src="https://github.com/user-attachments/assets/8ad69575-0fb6-49e4-8929-1bfdf8476b1b" />
+<img width="1206" height="809" alt="image" src="https://github.com/user-attachments/assets/e497802f-87e1-4309-8ad4-f72b8d313a17" />
 
+* Neither a borrower nor a lender.
+* a borrower, a lender -> Nouns.
 
+<img width="1227" height="805" alt="image" src="https://github.com/user-attachments/assets/0d81d4d1-4cd9-4a4c-b0d6-cdee102852f1" />
 
+* The easier the RC passage the tougher the questions. 
 
+<img width="1217" height="804" alt="image" src="https://github.com/user-attachments/assets/58f0b924-68a7-42ef-82aa-0d9df27c9b99" />
+<img width="1219" height="796" alt="image" src="https://github.com/user-attachments/assets/bc00f366-5f65-4bd0-8957-195acba9b69c" />
+<img width="1039" height="792" alt="image" src="https://github.com/user-attachments/assets/8f958332-5763-4ff6-b2f4-75624bbc1443" />
+<img width="1408" height="804" alt="image" src="https://github.com/user-attachments/assets/8b9508cd-9a4a-4499-867d-924ad644137e" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Modifiers (10) [19]
 
 
 
