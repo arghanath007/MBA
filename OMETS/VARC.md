@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="853" height="352" alt="image" src="https://github.com/user-attachments/assets/226284c0-9e02-4b2d-a8a4-3e0acd6eedc3" />
+<img width="813" height="363" alt="image" src="https://github.com/user-attachments/assets/d4791363-c0ba-4ce0-8244-ed0b1489dc31" />
 
 ## Study Prep/Routine
 
@@ -1548,8 +1548,7 @@
 <img width="1089" height="463" alt="image" src="https://github.com/user-attachments/assets/ee771d4d-6c4a-46d1-97fc-b3e96e0ff04a" />
 <img width="1134" height="474" alt="image" src="https://github.com/user-attachments/assets/7a9aa518-3a6f-495b-8e35-c65060d73e74" />
 
-
-
+### Idioms (10) [20]
 
 
 
@@ -4145,141 +4144,287 @@
 
 ### Modifiers (10) [19]
 
+#### Practice 
 
+<img width="1214" height="787" alt="image" src="https://github.com/user-attachments/assets/04c8c08d-c117-4961-8250-5f93f74e6262" />
 
+* Neither...Nor -> Conjunction.
+* Students -> Y -> Plural.
+* were -> Plural.
+* Either...or -> Conjunction.
+* X or Y.
 
+<img width="1237" height="806" alt="image" src="https://github.com/user-attachments/assets/091d9520-3400-43c8-9d0a-43d0a9ca2d6a" />
+<img width="1417" height="914" alt="image" src="https://github.com/user-attachments/assets/fe914cde-c7ea-4c98-a0ea-162ea8daa7f3" />
 
+* Ans 2 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* The Committe -> Subject.
+* along with its advisors -> Additional info.
+* The Committe and its advisors -> 1 and 2 -> Plural.
+* Only the word "and" is going to **add** to the **subject**. [**VERY IMPORTANT**]
+* **"Together with, along with, as well as"** words don't **add** to the **subject**. They **add**  "additional info". That's why they can be easily put within commas(,).  [**VERY IMPORTANT**]
+* **Collective nouns** are always **singular**. **Collective nouns** can be sometimes **plural** depending upon whether the action is a **Collective action** or it is an **action** of an **individual member**. **Collective nouns** can be both **singular** or **plural** depending on the **context**.  [**VERY IMPORTANT**]
 
+<img width="1239" height="823" alt="image" src="https://github.com/user-attachments/assets/cbbfd01f-5fa0-4130-9e95-c070e210e3f6" />
 
+* The Committe -> Singular.
+* is -> Singular.
+
+<img width="1223" height="801" alt="image" src="https://github.com/user-attachments/assets/5e19b182-329e-42c9-b343-1a373f16205d" />
+<img width="1410" height="919" alt="image" src="https://github.com/user-attachments/assets/8dd33b61-9dea-422b-8171-1d159de0c574" />
+
+* Ans 3 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* Were, have been -> When subject is plural. [**VERY IMPORTANT**]
+* has -> When subject is singular. [**VERY IMPORTANT**]
+* A bouquet ->  is singular.
+* A bouquet -> Subject.
+
+<img width="209" height="73" alt="image" src="https://github.com/user-attachments/assets/3643794b-cc69-4c05-b3f0-55a07a4b6037" />
+
+* yes.
+
+<img width="1228" height="811" alt="image" src="https://github.com/user-attachments/assets/096eebb0-e186-401b-bd9e-46e228b8e88e" />
+
+* A bouquet of roses was placed on the table yesterday. [yesterday -> Past Tense]
+* A bouquet of roses ___ placed on the table tomorrow. [tomorrow -> Future Tense]
+
+<img width="1236" height="811" alt="image" src="https://github.com/user-attachments/assets/92f969be-654e-4439-b600-8ddba910d898" />
+<img width="1433" height="926" alt="image" src="https://github.com/user-attachments/assets/d13a7b13-6867-4e27-8044-30672034c379" />
+
+* Ans 4 -> Option **C**. [Got Correct] [**VERY IMPORTANT**]
+* Each -> Subject.
+* Prepositional phrases **after the subject** can often make you commit a mistake. The **subject** is the one which is coming before the **Prepositional phrase**. [**VERY IMPORTANT**]
+
+<img width="1264" height="817" alt="image" src="https://github.com/user-attachments/assets/e5769894-e284-4b2a-af48-44d7489a5d4a" />
+<img width="1393" height="809" alt="image" src="https://github.com/user-attachments/assets/f2081965-18b3-4d05-ad62-ffb79c958853" />
+
+* A man with three cars is a successful man. [Correct]  [**VERY IMPORTANT**]
+* A man -> Subject -> Singular -> is. 
+* The price of water and petrol is likely to increase. [Correct]  [**VERY IMPORTANT**]
+* The price -> Subject -> Singular -> is.
+* What is likely to increase?
+
+> The price
+
+<img width="1399" height="815" alt="image" src="https://github.com/user-attachments/assets/f5a05983-0138-4a92-a93f-957994ac561c" />
+
+* One of my friends has cleared the CAT exam.  [Correct]  [**VERY IMPORTANT**]
+* One -> Subject -> Singular -> has.
+* Two of my friends have cleared the CAT exam.  [Correct]  [**VERY IMPORTANT**]
+* Two -> Subject -> Plural -> have.
+
+<img width="1435" height="828" alt="image" src="https://github.com/user-attachments/assets/a88e18e1-e988-4aef-b450-ba7585b91d8c" />
+
+* 20% of cake is missing. [Correct]  [**VERY IMPORTANT**]
+* 20% of the students are missing. [Correct]  [**VERY IMPORTANT**]
+* In **percentages, fractions** we have to see what is coming in the **Prepositional phrase**. [Correct]  [**VERY IMPORTANT**]
+* 20% of India's population is in the working age group. [Correct]  [**VERY IMPORTANT**]
+* 20% of the man power is semi-skilled.  [Correct]  [**VERY IMPORTANT**]
+
+<img width="1397" height="804" alt="image" src="https://github.com/user-attachments/assets/3d4dd46e-f1c7-44c5-8b79-3a49f23afbbe" />
+<img width="1239" height="816" alt="image" src="https://github.com/user-attachments/assets/3b58c017-fcfb-4562-976a-e0ac62dc2c0f" />
+<img width="1219" height="793" alt="image" src="https://github.com/user-attachments/assets/09aca927-5503-4bd3-a277-f4231420f789" />
+<img width="1426" height="937" alt="image" src="https://github.com/user-attachments/assets/4aa61eed-3282-431c-9f4a-570094c61013" />
+
+* Ans 5 -> Option **A**. [Got Correct] [**VERY IMPORTANT**]
+* Ten kilometers -> Collection/One entity -> Singular -> is.
+* Rs800 is too high a price.
+* Rs800 -> Collection/One entity -> Singular -> is.
+
+<img width="931" height="808" alt="image" src="https://github.com/user-attachments/assets/23836121-f965-4829-8451-5a0835dd6a4f" />
+<img width="911" height="788" alt="image" src="https://github.com/user-attachments/assets/c5dc811b-f9d3-4546-8541-7c691e585518" />
+<img width="1428" height="942" alt="image" src="https://github.com/user-attachments/assets/0d5fe3e2-2fd6-4e0c-943e-472e8fcc623a" />
+
+* Ans 6 -> Option **D**. [Got Correct] [**VERY IMPORTANT**]
+* I study for 3hrs almost everyday.
+* I study for almost 3hrs everyday.
+* The above statements are **different**.
+
+<img width="1232" height="799" alt="image" src="https://github.com/user-attachments/assets/69f255f5-a4eb-4531-8537-c060f0ee2dc5" />
+<img width="1223" height="803" alt="image" src="https://github.com/user-attachments/assets/442276ff-fdf6-46fb-ab11-568233b3d269" />
+<img width="1430" height="918" alt="image" src="https://github.com/user-attachments/assets/b6454cbb-de42-43c2-a6e1-d46493401583" />
+
+* Ans 7 -> Option **A**. [Got Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* Answer -> Option **A & D**.
+* Correct way -> Option **B & C**.
+
+<img width="1231" height="808" alt="image" src="https://github.com/user-attachments/assets/995e4776-f577-4ef8-82d6-421134b6808b" />
+<img width="1235" height="810" alt="image" src="https://github.com/user-attachments/assets/e7eebffc-cbad-4700-9291-72e36002d01c" />
+
+* To improve his health, he started exercising daily.
+* To improve his health -> Modifier.
+* he -> Modified.
+
+<img width="1250" height="825" alt="image" src="https://github.com/user-attachments/assets/28a9c3c4-8f46-4bb3-8dd7-2da0cdc3a86b" />
+
+* She drove her children to school almost every day.
+* almost -> modifier.
+* every day -> Modified.
+* I saw the accident on the highway while driving to work. [Correct]
+* While driving to work, I was the accident on the highway. [Correct]
+* While driving to work, the accident was seen on the highway.
+* While driving to work -> Dangling modifier.
+* Running late, she skipped breakfast.
+* Running late -> modifier.
+* she -> Modified.
+* After finishing the book, she wrote a review.
+* After finishing the book -> modifier.
+* she -> Modified.
+
+<img width="1253" height="807" alt="image" src="https://github.com/user-attachments/assets/f430231d-ba1b-4f8d-a0f4-f9b778201472" />
+
+* Ans 8 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Modifier, modified -> Pattern/Formation of sentences -> Should be **logical**.
+* Cooked by my mother, (name of a dish).
+* Roasted by my mother, I was almost on the verge of crying.
+* Roasted by my mother -> Modifier.
+* I -> modified.
+* Roasted by my mother, the chicken was served.
+* Roasted by my mother -> Modifier.
+* the chicken -> modified.
+
+<img width="1425" height="829" alt="image" src="https://github.com/user-attachments/assets/9f99c6c7-dc33-434f-92e6-1d1a339a6d29" />
+<img width="1225" height="808" alt="image" src="https://github.com/user-attachments/assets/ddfd305b-b494-4dd6-9184-381e73cc3843" />
+
+* Dangling modifier -> It means the modifier has come, but what is getting modified has not come. [**VERY IMPORTANT**]
+* While watching the movie, the cat jumped.
+* While watching the movie -> Dangling modifier.
+* the cat -> Modified.
+* While watching the movie, I saw the cat jump.
+* While watching the movie -> modifier.
+* I -> Modified.
+* While I was watching the movie, the cat jumped.
+* While I watching the movie -> modifier.
+* the cat -> Modified.
+
+<img width="1414" height="802" alt="image" src="https://github.com/user-attachments/assets/1448b92b-6972-4306-bcad-9e2cd96f6d4f" />
+
+* While driving to work, the accident was seen on the highway.
+*  While driving to work-> Dangling modifier
+*  the accident -> Modified.
+
+<img width="1355" height="919" alt="image" src="https://github.com/user-attachments/assets/dabd8959-0ef4-4ac8-9205-b6e5401be091" />
 
+* Ans 10 -> Option **A**. [Got Correct] [**VERY IMPORTANT**]
+* Walking down the street -> Modifier.
+* I -> Modified.
 
+<img width="1218" height="793" alt="image" src="https://github.com/user-attachments/assets/f565098c-9970-40be-99c0-f1ad5ba9e6c2" />
+<img width="1237" height="812" alt="image" src="https://github.com/user-attachments/assets/e5dfdd76-f3a8-4777-b841-fdbd0d87c590" />
+<img width="1221" height="799" alt="image" src="https://github.com/user-attachments/assets/54b9f4eb-ef3c-4b7e-a58c-27b2d8429cd1" />
 
+* Ans 11 -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* Relative clause -> They are started with **"which, who, whom, that, whose, when, where"**. [**VERY IMPORTANT**]
+* Which -> It is talking about "The series of lectures".
+* The series of lectures -> Collective/One unit -> Singular -> was.
+* The series -> Subject -> Singular -> is.
 
+<img width="1246" height="820" alt="image" src="https://github.com/user-attachments/assets/d2ffa07a-4b0b-49e6-98e0-6fd50248305d" />
+<img width="1241" height="805" alt="image" src="https://github.com/user-attachments/assets/6cdf1d1b-f219-4a87-974d-87ae4f22a3a6" />
+<img width="1228" height="792" alt="image" src="https://github.com/user-attachments/assets/0dcd7ce5-619b-47d2-b93b-5e2394f4b1be" />
 
+* The series of lectures -> Noun phrase.
+* 2 blanks -> Talking about the same thing -> It should be either singular or plural, can't be both. [**VERY IMPORTANT**]
 
+<img width="1353" height="932" alt="image" src="https://github.com/user-attachments/assets/6286431f-1151-4728-9ce0-96a9929952dd" />
 
+* Ans 12 -> Option **C**. [Got Correct] [**VERY IMPORTANT**]
+* Who -> Logically referring to "CEO" -> Reference should be **logical** as well. [**VERY IMPORTANT**]
 
+<img width="1220" height="814" alt="image" src="https://github.com/user-attachments/assets/5f45ca3b-5466-4fef-af68-8e5aa038a474" />
 
+* "CEO" -> Singular -> is.
+* Board of directors and the CEO -> Plural -> are.
+* John and Peter who are my friends.
+* John and Peter -> Plural -> are.
+* Either John or Peter who is my friends.
+* Either John or Peter -> Singular -> is.
 
+<img width="1230" height="809" alt="image" src="https://github.com/user-attachments/assets/0af39614-fc5c-456e-b113-2a09a6870e10" />
 
+* The statistics -> Plural.
+* Statistics as a **subject** is **singular**.  [**VERY IMPORTANT**]
+* Statistics as a **data** is **plural**.  [**VERY IMPORTANT**]
+* Point -> Plural.  [**VERY IMPORTANT**]
+* Points -> Singular.  [**VERY IMPORTANT**]
 
+<img width="1219" height="806" alt="image" src="https://github.com/user-attachments/assets/9ae889bc-20e7-4b54-a790-b4467aaffad0" />
 
+* Ans 13 -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* The statistics -> Plural -> have collected.
+* The statistics -> Plural -> have collected -> Plural -> point.
 
+<img width="1209" height="806" alt="image" src="https://github.com/user-attachments/assets/5293c71b-924f-47e8-8828-eaaddbe95f70" />
 
+* The statistics -> Modified.
+* that -> modifier -> modifying the noun "statistics".
 
+<img width="1194" height="787" alt="image" src="https://github.com/user-attachments/assets/67f9405a-02b9-4910-8beb-ffeed960a34d" />
+<img width="1441" height="921" alt="image" src="https://github.com/user-attachments/assets/97f47800-be77-431b-a646-0c98834da12d" />
 
+* Ans 14 -> Option **A**. [Got Correct] [**VERY IMPORTANT**]
+* together with recent advances in telescope technology -> Extra info.
+* The discovery -> Subject -> Singular.
+* of new galaxies -> Prepositional phrases -> We do not need them, we can ignore them.
+* Verb -> Singular.
+* that -> creating a clause.
+* The universe -> Subject(S1) -> Singular.
 
+<img width="1206" height="803" alt="image" src="https://github.com/user-attachments/assets/31ba5569-c58d-4c38-a012-be949db8afa2" />
+<img width="1426" height="913" alt="image" src="https://github.com/user-attachments/assets/5c235de1-4971-4218-93ff-37880624d960" />
 
+* Ans 15 -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* Every one -> Singular -> was. 
 
+<img width="1226" height="812" alt="image" src="https://github.com/user-attachments/assets/c5d02c16-1e8e-4b9d-ae1e-74ca6c6459a2" />
 
+* that -> Clause is getting created.
+* Committee -> Adjective for the noun "members".
 
+<img width="1221" height="805" alt="image" src="https://github.com/user-attachments/assets/7c87dbc0-c3d8-4d72-89b0-5fe12030aa76" />
+<img width="1227" height="805" alt="image" src="https://github.com/user-attachments/assets/31df584c-28d8-483c-b50a-f9c8a3dbe5ae" />
+<img width="1440" height="918" alt="image" src="https://github.com/user-attachments/assets/e2752252-f8e7-4475-b2c5-56decaefee09" />
 
+* Ans 16 -> Option **C**. [Got Correct] [**VERY IMPORTANT**]
+* 'C' has a better sentence structure than 'B'.
 
+<img width="1227" height="800" alt="image" src="https://github.com/user-attachments/assets/7d2f620d-c4b8-40d4-9e07-4e9fcd38b31e" />
+<img width="1397" height="792" alt="image" src="https://github.com/user-attachments/assets/c64c164b-f8b7-443f-8798-bfc08628da03" />
+<img width="1423" height="918" alt="image" src="https://github.com/user-attachments/assets/338c4c20-6aab-4dd9-bcb5-25af25e3e2f8" />
 
+* Ans 17 -> Option **B**. [Got Correct] [**VERY IMPORTANT**]
 
+<img width="1414" height="807" alt="image" src="https://github.com/user-attachments/assets/1be01262-8fd0-4b5e-a298-abb0c1581bee" />
 
+* Option **D** -> Flying over the desert -> modifier.
+* Option **D** -> strange rock formations -> Modified.
 
+<img width="1425" height="914" alt="image" src="https://github.com/user-attachments/assets/59d09c45-dba7-449a-aee3-288441bd9c9f" />
 
+* Ans 18 -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* who -> Referring to the students. 
 
+<img width="1401" height="808" alt="image" src="https://github.com/user-attachments/assets/dfd9b14d-dcf5-4a9f-bc62-af07bf3c5006" />
+<img width="1399" height="802" alt="image" src="https://github.com/user-attachments/assets/71c4ae7c-2447-464f-83f4-b2929ec81650" />
 
+* The scientists, after reviewing the data, revised her hypothesis. [Correct]
+* The scientists revised her hypothesis, after reviewing the data. [Correct]
 
+<img width="1410" height="799" alt="image" src="https://github.com/user-attachments/assets/e3be8ba4-aa94-4c4a-82ec-207d9ffd5918" />
+<img width="867" height="236" alt="image" src="https://github.com/user-attachments/assets/c5fd5c2e-8a15-44ed-bac6-bbe65f6b7838" />
 
+* A, B
 
+<img width="778" height="240" alt="image" src="https://github.com/user-attachments/assets/ea098823-105e-48e5-83c2-df2b0110182d" />
+<img width="773" height="232" alt="image" src="https://github.com/user-attachments/assets/fb748488-017e-45ee-98ae-a82b583b50fe" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Ans -> Option **D**. [Best Option]
 
 
 
