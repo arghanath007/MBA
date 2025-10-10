@@ -2,7 +2,7 @@
 
 ## Next Class
 
-<img width="813" height="363" alt="image" src="https://github.com/user-attachments/assets/d4791363-c0ba-4ce0-8244-ed0b1489dc31" />
+<img width="737" height="302" alt="image" src="https://github.com/user-attachments/assets/533f6ed2-7305-4e33-ab7e-6a7959e5e457" />
 
 ## Study Prep/Routine
 
@@ -1675,12 +1675,32 @@
 
 <img width="1397" height="793" alt="image" src="https://github.com/user-attachments/assets/949c6f7b-792e-4de0-aa2e-9d989e92e5c4" />
 <img width="1394" height="793" alt="image" src="https://github.com/user-attachments/assets/8fce367a-d42c-4c13-b6cd-55789f458d36" />
+<img width="1397" height="794" alt="image" src="https://github.com/user-attachments/assets/eb86148c-2d9a-4bb4-bc2b-f6490aa820ef" />
 
-* Start from 1hr 10mins.
+* Q9.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct] 
+* 3 -> A. [Correct]
+* 4 -> B. [Wrong]
+* 4 -> A. [Correct]
+* Ans -> AAAA. [Correct]
+* Redress -> Solve/act on the grievances -> to remove the cause of (a grievance or complaint).  [**MEANING**]
+* Ensued -> Started. [**MEANING**]
+* Precipitate -> To happen something suddenly. [**MEANING**]
 
+<img width="1395" height="792" alt="image" src="https://github.com/user-attachments/assets/8eb7491f-65e4-4500-bbbf-229c4f71b6f8" />
+<img width="1394" height="793" alt="image" src="https://github.com/user-attachments/assets/4425652f-59b3-49cb-be4c-0eff332dc962" />
 
+* Q10.
+* 1 -> A. [Correct]
+* 2 -> A. [Wrong]
+* 2 -> B. [Correct] [Read the **later context** as well, if we are not sure with an option] [**VERY IMPORTANT**]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* Ans -> ABAA. [Correct]
 
-
+<img width="1415" height="819" alt="image" src="https://github.com/user-attachments/assets/c199448c-2a29-4ce5-9b19-5180f1de387d" />
+<img width="1392" height="788" alt="image" src="https://github.com/user-attachments/assets/8a350e4b-7728-42d2-b61f-957cc9894ea6" />
 
 
 
@@ -4243,7 +4263,7 @@
 
 ### Modifiers (10) [19]
 
-#### Practice 
+#### Practice [**VERY IMPORTANT**]
 
 <img width="1214" height="787" alt="image" src="https://github.com/user-attachments/assets/04c8c08d-c117-4961-8250-5f93f74e6262" />
 
@@ -4525,7 +4545,7 @@
 
 * Ans -> Option **D**. [Best Option]
 
-
+### Pronouns (11) [21]
 
 
 
