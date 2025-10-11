@@ -4551,91 +4551,184 @@
 <img width="1154" height="752" alt="image" src="https://github.com/user-attachments/assets/315a2587-db6a-450f-9dcc-f460beea1e20" />
 
 * Pronouns. [**VERY IMPORTANT**]
-* 1st Person:- 
-   * Singular(S) -> I.
-   * Plural(P) -> We.
+
+<img width="1342" height="804" alt="image" src="https://github.com/user-attachments/assets/fe2aecd8-4a58-4b42-88af-78f27a67afc9" />
+
+* Pronoun -> Subject, Object. 
+
+<img width="1408" height="814" alt="image" src="https://github.com/user-attachments/assets/5aa89730-aa48-4c3b-9576-91d7233ad6fe" />
+<img width="1408" height="830" alt="image" src="https://github.com/user-attachments/assets/505bc4cd-50b9-4a29-964b-6aaff8a0d6df" />
+
+* Subject -> The one taking action. [**VERY IMPORTANT**]
+* Object -> The one receiving action. [**VERY IMPORTANT**]
+
+<img width="1398" height="780" alt="image" src="https://github.com/user-attachments/assets/bb410c42-039f-49f4-9653-01a8e7a4e312" />
+<img width="1138" height="760" alt="image" src="https://github.com/user-attachments/assets/f736f4da-0132-4abe-8e5e-e89a8dec3893" />
+
+* [**VERY IMPORTANT**]
+
+* Who is my best friend?
+
+> He/She/They/It is my best friend
+
+* Whom do you like?
+
+> I like Him/Her/Them/It.
+
+* She is the one who cares for me.
+* who -> Subject.
+* cares -> Verb.
+* She is the one with whom I like to talk.
+* I -> Subject.
+* like -> Verb.
+* After **whom** -> Subject(S) + Verb(V). [**VERY IMPORTANT**]
+* After **who** -> Verb(V). [**VERY IMPORTANT**]
+
+<img width="1396" height="858" alt="image" src="https://github.com/user-attachments/assets/b96e2200-26df-433a-8ec4-eaba7bb78271" />
+<img width="1364" height="854" alt="image" src="https://github.com/user-attachments/assets/fd55cabc-4380-44d0-be6e-881aaf596b26" />
+
+* [**VERY IMPORTANT**]
+* This book is mine.
+* This book is ours.
+* This book is yours.
+* This book is his/hers.
+* This book is theirs.
+* This book is his. [Correct]
+* This book is its. [Wrong]
+* its -> Possessive. [**MEANING**]
+* it's -> it is. [**MEANING**]
+* The dog is wagging its tail.
+* he's -> he is
+
+<img width="1114" height="778" alt="image" src="https://github.com/user-attachments/assets/ab155151-7217-46f9-af82-a54037e979ba" />
+
+* Adjective -> Coming before a noun.
+* Pen -> Noun.
+* Blue, expensive -> Adjectives.
+* a, an -> Articles -> Part of Adjectives.
+* This is a blue pen.
+* This is an expensive pen.
+* Blue is my favourite color.
+* Blue -> Noun.
+* This is his pen.
+* his -> Pronoun -> Acting like an adjective to the noun "pen".
+* This is mine pen. [Wrong]
+* This is my pen. [Correct]
+* The pen is mine.
+* mine -> Possissive Pronoun
+* This is my pen.
+* my -> Adjective Pronoun.
+* This is his pen.
+* his -> Adjective Pronoun.
+* This pen is his.
+* his -> Possissive Pronoun.
+
+<img width="1364" height="762" alt="image" src="https://github.com/user-attachments/assets/0342c37d-a0ce-4f4e-b64d-368aaaf1b478" />
+<img width="1348" height="798" alt="image" src="https://github.com/user-attachments/assets/2b51f754-f0a8-45b6-8e8c-8adca1d331b7" />
+
+* Possessive Adjectives. [**VERY IMPORTANT**]
+
+<img width="1402" height="832" alt="image" src="https://github.com/user-attachments/assets/ada64ad0-3c06-42b2-a89f-f7d3dd5bc942" />
+
+* Reflexive Pronouns -> -self, myself, yourself. [**VERY IMPORTANT**]
+* The subject is the object -> Self.
+* For emphasis.
+
+<img width="1408" height="846" alt="image" src="https://github.com/user-attachments/assets/6165fe02-30f8-4477-a80d-9d8c8db8508f" />
+<img width="1352" height="784" alt="image" src="https://github.com/user-attachments/assets/8b223927-8508-41b0-9c4d-ddbdadb05c34" />
+
+* 1st Person:- [**VERY IMPORTANT**]
+   * Singular(S) -> I -> me -> mine -> My -> Myself.
+   * Plural(P) -> We -> Us -> Ours -> Our -> Ourselves.
 * 2nd Person:- 
-   * Singular(S) -> You.
-   * Plural(P) -> You.
+   * Singular(S) -> You -> You -> Yours -> Your -> Yourself.
+   * Plural(P) -> You -> You -> Yours -> Your -> Yourselves.
+* 3rd Person:- 
+   * Singular(S) -> He, She, It -> Him, Her, It -> His, hers -> His, Her, its -> himself, herself, itself.
+   * Plural(P) -> They -> Them -> Theirs -> Their -> Themselves.
 
+<img width="1146" height="744" alt="image" src="https://github.com/user-attachments/assets/8b9b6a2d-b095-4aa3-a993-f2ad8d3cd089" />
 
+* [**VERY IMPORTANT**]
+* Singular Noun/Pronoun -> Singular Pronoun/Noun.
+* Plural Noun/Pronoun -> Plural Pronoun/Noun.
 
+<img width="1164" height="760" alt="image" src="https://github.com/user-attachments/assets/68d2fe04-5e9e-4861-9211-71146d54d94e" />
 
+* Antacedent -> Noun.
+* Definite Pronouns -> He/She/It/They/Them -> Need a noun, depending upon singular or plural. [**VERY IMPORTANT**]
+* Indefinite Pronouns -> Everyone/everybody/each/every/someone -> Don't necessarily need a noun. [**VERY IMPORTANT**]
+* In Subject-Verb agreement "Everyone/everybody/each/every/someone" are **singular**. [**VERY IMPORTANT**]
 
+<img width="1366" height="762" alt="image" src="https://github.com/user-attachments/assets/d9403b9a-ad33-40a6-8785-09399cc3c7cb" />
+<img width="1352" height="796" alt="image" src="https://github.com/user-attachments/assets/b46628bd-e21a-4c8c-8bc0-70fe15595680" />
+<img width="1080" height="750" alt="image" src="https://github.com/user-attachments/assets/807d6590-9b69-40c7-a3fd-6a134c9347cf" />
 
+* Practice.
+* Whenever a **pronoun** is the object of a **preposition**, the format will be like "me/her/him....". [**VERY IMPORTANT**]
+ 
+<img width="1400" height="810" alt="image" src="https://github.com/user-attachments/assets/5405ac8d-d793-4dc8-974f-09d837059e87" />
 
+* I gave it to him/her.
+* to -> Preposition.
+* 1 -> her. [Correct]
+* to -> preposition -> We need the object form of the pronoun.
+* 2 -> his. [Got Correct]
+* A student who enrolls in MIT should not worry much about his future. [Correct]
+* Students who enroll in MIT should not worry much about their future. [Correct]
+* Whatever coming before "who" is Singular => Verb -> Singular. [**VERY IMPORTANT**]
+* Whatever coming before "who" is Plural => Verb -> Plural. [**VERY IMPORTANT**]
+* 3 -> whom. [Correct]
+* about -> Preposition.
+* whom -> S + V.
+* Who -> V.
+* 4 -> I, am. [Correct]
+* Before **Verb(V)** subject(S) comes and after **Verb(V)** object(O) comes. [**VERY IMPORTANT**]
 
+<img width="1228" height="790" alt="image" src="https://github.com/user-attachments/assets/9639653a-0bd4-4bbc-9dd1-9b833dd38a11" />
+<img width="1170" height="766" alt="image" src="https://github.com/user-attachments/assets/b67be5f6-1cf8-4034-965b-a6b899cc875e" />
 
+* Neither I nor John is responsible for the outcome. [Correct]
+* Neither John nor I am responsible for the outcome. [Correct]
 
+<img width="1178" height="766" alt="image" src="https://github.com/user-attachments/assets/74360cee-0f8c-4e5d-8eea-156c70e80227" />
 
+* Who is at the door?
 
+> I
 
+* Whom did she call?
 
+> Me.
 
+<img width="1348" height="766" alt="image" src="https://github.com/user-attachments/assets/603f0024-1e2a-47c9-bde3-32215e28b938" />
 
+* It is I. [Correct]
 
+<img width="1382" height="848" alt="image" src="https://github.com/user-attachments/assets/bc4d7ae7-bef4-41a1-936c-b404fd7ddaea" />
+<img width="1206" height="788" alt="image" src="https://github.com/user-attachments/assets/e7e2f63d-db69-4f69-b7f5-e4872438f6a6" />
 
+* To -> Preposition => Whom -> S + V.
+* Who -> Object.
+* That -> Gives necessary information [16]
+* 17 -> That.
+* 
 
+<img width="1184" height="770" alt="image" src="https://github.com/user-attachments/assets/30221e0c-f238-48f7-9376-32e481e75c80" />
 
+* 20 -> Who, are, who
 
+<img width="1202" height="786" alt="image" src="https://github.com/user-attachments/assets/a21c5384-e488-4b5f-80ce-317edac70279" />
 
+* Relative Clause(RC).
+* 19 -> that.
+* 18 -> that.
+* **"Which"** without comma is equal to **"that"**. [**VERY IMPORTANT**]
+* **"Which"** without comma -> Necessary information. [**VERY IMPORTANT**]
+* Extra information -> **"Which"** with comma. [**VERY IMPORTANT**]
+* 16 -> Which.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1186" height="780" alt="image" src="https://github.com/user-attachments/assets/f169ea65-7082-4dba-81e1-891daa5a5b5e" />
 
 
 
