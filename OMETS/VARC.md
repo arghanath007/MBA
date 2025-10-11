@@ -1548,7 +1548,7 @@
 <img width="1089" height="463" alt="image" src="https://github.com/user-attachments/assets/ee771d4d-6c4a-46d1-97fc-b3e96e0ff04a" />
 <img width="1134" height="474" alt="image" src="https://github.com/user-attachments/assets/7a9aa518-3a6f-495b-8e35-c65060d73e74" />
 
-### Cloe Passage Test Practice (10) [20]
+### Cloze Passage Test Practice (10) [20]
 
 <img width="1396" height="802" alt="image" src="https://github.com/user-attachments/assets/5adae292-05e9-4749-b169-0447e40bde17" />
 
@@ -1702,10 +1702,11 @@
 <img width="1415" height="819" alt="image" src="https://github.com/user-attachments/assets/c199448c-2a29-4ce5-9b19-5180f1de387d" />
 <img width="1392" height="788" alt="image" src="https://github.com/user-attachments/assets/8a350e4b-7728-42d2-b61f-957cc9894ea6" />
 
+### Cloze Passage Test Practice 2 (11) [22]
 
+<img width="1686" height="948" alt="image" src="https://github.com/user-attachments/assets/01aab98d-6ab7-4c46-90f3-9c080e0c2388" />
 
-
-
+* 4mins.
 
 
 
