@@ -4547,8 +4547,16 @@
 
 ### Pronouns (11) [21]
 
+<img width="836" height="510" alt="image" src="https://github.com/user-attachments/assets/7b322674-ca5a-4aad-9c00-48290a009dea" />
+<img width="1154" height="752" alt="image" src="https://github.com/user-attachments/assets/315a2587-db6a-450f-9dcc-f460beea1e20" />
 
-
+* Pronouns. [**VERY IMPORTANT**]
+* 1st Person:- 
+   * Singular(S) -> I.
+   * Plural(P) -> We.
+* 2nd Person:- 
+   * Singular(S) -> You.
+   * Plural(P) -> You.
 
 
 
