@@ -17,6 +17,10 @@
 
 * Syllabus.
 
+<img width="363" height="72" alt="image" src="https://github.com/user-attachments/assets/f07efcdd-d125-478b-9cce-96e868196d4c" />
+
+* CR, Vocab, RC, Grammer. [**VERY IMPORTANT**]
+
 ## Vocab 
 
 ### Vocab Basics (1) [1]
@@ -1705,28 +1709,94 @@
 ### Cloze Passage Test Practice 2 (11) [22]
 
 <img width="1686" height="948" alt="image" src="https://github.com/user-attachments/assets/01aab98d-6ab7-4c46-90f3-9c080e0c2388" />
+<img width="1390" height="777" alt="image" src="https://github.com/user-attachments/assets/36e1ea34-26fd-4522-9f0e-26f151c47d5d" />
 
-* 4mins.
+* Q11.
+* 1 -> E. [Wrong]
+     * 1 -> B. [Correct]
+* 2 -> A. [Wrong]
+     * 2 -> B. [Correct]
+* 3 -> A. [Correct]
+* 4 -> B. [Correct] [Safeguard OR Preserve]
+* 5 -> B. [Correct]
+* Ans -> BBABB. [Correct]
+* Evade -> Escape. [MEANING]
+* Conceal -> Hide.[MEANING]
+* Sought -> Past Tense(PT) of "seek".
+* Stifle -> Suffocate/Smother. [MEANING]
+* Undermine -> Challenge. [MEANING]
 
+<img width="1403" height="794" alt="image" src="https://github.com/user-attachments/assets/affb82e9-50d5-4114-9c8c-9d94960144d6" />
+<img width="1399" height="789" alt="image" src="https://github.com/user-attachments/assets/78a98379-9f60-4a37-9bb9-9ee3356390cb" />
 
+* Q12.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* 5 -> A. [Correct]
+* Ans -> AAAAA. [Got Correct]
+* Conceal -> Hide. [MEANING]
+* Dimish -> Reduce, decrease. [MEANING]
 
+<img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/2999ef39-df4f-4963-b004-7fe8769fbe6f" />
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/48eebe9b-aefd-426c-b5d8-1bff64fceeeb" />
 
+* Q13.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* 5 -> A. [Correct]
+* Ans -> AAAAA. [Got Correct]
+* Squander -> Waste. [MEANING]
+* Wasteful -> Adjective.
+* Waste, Squander -> Verb.
+* Hoard -> To collect things in huge number. [MEANING]
 
+<img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/201c723a-02c6-4ea0-8942-085c0f6cbd62" />
+<img width="1396" height="783" alt="image" src="https://github.com/user-attachments/assets/c184c230-f5fe-4bcb-afb7-4955a05afd07" />
 
+* Q14.
+* 1 -> A. [Correct]
+* 2 -> B. [Wrong]
+    * 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* 5 -> A. [Correct]
+* Ans -> AAAAA. [Correct]
+* Evoke -> To bring about a memory or feeling. [MEANING]
+* Provoke -> Incite. [MEANING]
+* Foster -> Give rise to support, strengthen. [MEANING]
 
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/f344d32f-ac31-4106-9ef9-adecda1f63f7" />
+<img width="1387" height="786" alt="image" src="https://github.com/user-attachments/assets/bf79c468-72e6-4760-a24e-872b15584743" />
 
+* Q15.
+* 1 -> A. [Correct]
+* 2 -> A. [Correct]
+* 3 -> A. [Correct]
+* 4 -> A. [Correct]
+* 5 -> A. [Correct]
+* Ans -> AAAAA. [Correct]
 
+<img width="1409" height="803" alt="image" src="https://github.com/user-attachments/assets/696eb0c7-1f8d-4d33-a6f7-d4e27b0b0444" />
 
+### ParaJumbles(PJ) (12) [23] 
 
+<img width="890" height="452" alt="image" src="https://github.com/user-attachments/assets/7bc3c4cb-83e5-4bb4-b1a1-1c8f7f6af7d5" />
 
+* DCAB. [Wrong]
+* DACB. [Correct] [**VERY IMPORTANT**]
+* Fintech -> Financial Technology.
 
+<img width="1864" height="866" alt="image" src="https://github.com/user-attachments/assets/1fd46b39-7f0b-4e63-8083-5549a8944b50" />
 
+* This Growth -> User adoption.
+* D -> A.
 
-
-
-
-
-
+<img width="1408" height="792" alt="image" src="https://github.com/user-attachments/assets/a6289b93-9b69-460e-8819-3e01eeab5f8b" />
+<img width="427" height="236" alt="image" src="https://github.com/user-attachments/assets/7b3d7f4f-fb00-4a64-a215-1d35f261b429" />
 
 
 
