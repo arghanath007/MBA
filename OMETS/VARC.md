@@ -1787,45 +1787,115 @@
 <img width="890" height="452" alt="image" src="https://github.com/user-attachments/assets/7bc3c4cb-83e5-4bb4-b1a1-1c8f7f6af7d5" />
 
 * DCAB. [Wrong]
-* DACB. [Correct] [**VERY IMPORTANT**]
+* 1 -> DACB. [Correct] [**VERY IMPORTANT**]
 * Fintech -> Financial Technology.
 
 <img width="1864" height="866" alt="image" src="https://github.com/user-attachments/assets/1fd46b39-7f0b-4e63-8083-5549a8944b50" />
 
 * This Growth -> User adoption.
 * D -> A.
+* As a result -> Finality/Conclusion/Final.
 
 <img width="1408" height="792" alt="image" src="https://github.com/user-attachments/assets/a6289b93-9b69-460e-8819-3e01eeab5f8b" />
 <img width="427" height="236" alt="image" src="https://github.com/user-attachments/assets/7b3d7f4f-fb00-4a64-a215-1d35f261b429" />
+<img width="1395" height="784" alt="image" src="https://github.com/user-attachments/assets/b99eef65-256a-4e54-bb61-60a449293d61" />
+<img width="1395" height="782" alt="image" src="https://github.com/user-attachments/assets/4043f6ad-408c-4a94-acc0-8afd7a24ac6e" />
 
+* 2 -> CADB. [Got Correct] 
+* CABD. [Wrong]
+* A -> Proposed changes -> About to happen.
+* B -> Revised Draft -> Decision is already done.
+* C -> To revise -> About to happen.
+* D -> In response, Key concerns -> Argument by critics, Critics.
 
+<img width="1416" height="806" alt="image" src="https://github.com/user-attachments/assets/5bfa93d3-3075-4925-92cd-c4c5526e7d64" />
+<img width="1412" height="804" alt="image" src="https://github.com/user-attachments/assets/beab1ff9-8b0d-464a-88df-8ca43db729b9" />
+<img width="950" height="786" alt="image" src="https://github.com/user-attachments/assets/bfed8bfe-9990-458a-9e15-78f955f7f7a5" />
 
+* 3 -> CABD. [Correct] [**VERY IMPORTANT**]
+* Chronic -> Lasting for a long time. [MEANING]
+* Chrono -> Root word -> Meaning "time".
+* Chrono -> Root word -> Chronological, chronometer, chronic.
+* Chronological -> Sequential. [MEANING]
+* chronometer -> Clock. [MEANING]
 
+<img width="1416" height="799" alt="image" src="https://github.com/user-attachments/assets/b8c65e73-5bac-40bc-9848-6454e9f532c3" />
 
+* C -> A.
+* B -> This -> upload vital signs via mobile apps.
+* Adherence -> Sticking to something. [MEANING]
+* D -> These -> A and B.
 
+<img width="1406" height="807" alt="image" src="https://github.com/user-attachments/assets/b53ea218-54c2-4f40-97bb-01e299ca4f08" />
+<img width="1408" height="795" alt="image" src="https://github.com/user-attachments/assets/7cd626cb-f40d-43bf-83e5-55d8d9be8661" />
 
+* 4 -> ACDB. [Wrong]
+* ACBD. [Correct]
+* Indigenous -> Local, Native. [MEANING]
+* Folklore -> Stories in the local culture. [MEANING]
+* Resilience -> Withstanding ability. [MEANING]
+* Tactile -> Relating to sense of touch or feel. [MEANING]
+* A -> C.
+* D -> Broad idea/vision.
 
+<img width="1411" height="793" alt="image" src="https://github.com/user-attachments/assets/f73b2948-1cb8-4d55-8b47-48557e1e1c10" />
+<img width="1413" height="805" alt="image" src="https://github.com/user-attachments/assets/3535f92a-3e3e-4bc5-9892-fb1dfc41d621" />
+<img width="1135" height="786" alt="image" src="https://github.com/user-attachments/assets/6caa404f-1866-4c3f-bd9a-947c9fc38a34" />
 
+* 5-> CBAD. [Wrong]
+* D -> Response -> Open, audits.
+* CABD. [Correct]
 
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/8722e717-6b93-4e91-990a-786aab9d2e4b" />
+<img width="1162" height="788" alt="image" src="https://github.com/user-attachments/assets/8212fd90-413a-43c8-b850-f6c2f0a85b13" />
 
+* 6 -> ACEBD. [Wrong]
+* CEBDA. [Correct] [**VERY IMPORTANT**]
+* Grappling -> Struggling. [MEANING]
+* Infringing -> Violating. [MEANING]
+* Infringe -> Violate. [MEANING]
+* C -> New concept.
+* E -> Related to citizen journalism.
+* C -> E.
+* B -> Problem.
+* D -> Solution of 'B'.
+* B -> D.
+* A -> Broader implication/scenario.
+* D -> Smaller section of society.
+* A -> Government is a larger section of society.
 
+<img width="1407" height="801" alt="image" src="https://github.com/user-attachments/assets/f91f9f16-fa81-43d4-bca6-bd11c594c0db" />
+<img width="1410" height="804" alt="image" src="https://github.com/user-attachments/assets/d86b4740-db8c-4059-9a55-4e54e5f6c799" />
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/7adf18cc-875d-47e3-bd9e-b8d139d476cd" />
+<img width="1415" height="806" alt="image" src="https://github.com/user-attachments/assets/dead636e-f15d-4e57-b380-3a1684b6d78a" />
+<img width="1400" height="799" alt="image" src="https://github.com/user-attachments/assets/9da84d7c-6cd4-43ef-9b75-07880ae85cb8" />
 
+* 7 -> BDACE. [Wrong]
+* DBACE. [Correct]
+* consortium -> Group of people who come together to do a targeted thing. [MEANING]
+* E -> Broad Picture, Conclusion.
+* C -> this -> payload customization.
+* A -> C.
+* C -> E.
+* B -> Details about the vehicle.
 
+<img width="1405" height="799" alt="image" src="https://github.com/user-attachments/assets/5eb2daae-5e25-44e5-ab30-54b46ca46c0d" />
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/35480edf-eafc-4f61-b9d4-fa0709e749be" />
+<img width="1123" height="784" alt="image" src="https://github.com/user-attachments/assets/ce2964f6-af7c-431b-b73d-ce7dd389c463" />
 
+* 8 -> BCDEA. [Wrong]
+* BACDE. [Correct] [**VERY IMPORTANT**]
+* Reckoning -> Estimate, Calculation. [MEANING]
+* C -> D.
+* B -> Change is introduced here.
+* A -> Details of 'B'.
+* B -> A.
+* E -> Criticism of the entire project.
+* BA -> Details of the sustainability project.
+* CD -> Ratings.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/c0705a1a-61de-4df0-8dd8-8ec825b0c779" />
+<img width="1406" height="807" alt="image" src="https://github.com/user-attachments/assets/ced920f1-d32f-4783-9476-476d588a98c6" />
 
 
 
