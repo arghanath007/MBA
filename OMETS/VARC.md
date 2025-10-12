@@ -4910,89 +4910,319 @@
 <img width="1411" height="902" alt="image" src="https://github.com/user-attachments/assets/fcbe5983-f7da-46c4-8798-a5de035ec657" />
 
 * 3 -> Option **E**. [Got Correct]
+* No sooner had the train left than I realised that I forgot to carry my tickets.
+* No sooner .... than -> idioms.
+* Scarcely .... when -> idioms.
 
+<img width="1419" height="806" alt="image" src="https://github.com/user-attachments/assets/86f76f4d-429f-47da-9626-c02e2ec572da" />
 
-
-
+* Scarcely/Barely/Rarely/Hardly/Seldom -> Alternatives. [**VERY IMPORTANT**]
+* Whenever you start your sentence with a **negative adverb or conjunction or with a question** -> helping verb(hv) + subject + main verb(mv). [**VERY IMPORTANT**]
+* **negative adverb or conjunction** -> Scarcely/Barely/Rarely/Hardly/Seldom. [**VERY IMPORTANT**]
+* Rarely do I go for movies on weekdays.
+* Rarely I go for movies on weekdays
+* do -> hv.
+* I -> Subject.
+* go -> mv.
  
+<img width="1442" height="778" alt="image" src="https://github.com/user-attachments/assets/c646a438-5577-46ae-81ca-e4402bb3906b" />
+
+* How did you get to know? [**VERY IMPORTANT**] [Examples]
+* How -> Question
+* did -> hv.
+* you -> Subject.
+* get -> mv.
+* Where are you going? [**VERY IMPORTANT**] [Examples]
+* Where -> Question
+* are -> Verb(hv).
+* you -> Subject.
+* going -> mv.
+
+<img width="1433" height="790" alt="image" src="https://github.com/user-attachments/assets/86374d50-a357-41c1-a860-7b2758779766" />
+
+* Scarcely -> Negative adverb.
+* had -> hv.
+* the meeting -> Subject.
+* started -> mv.
+
+<img width="1235" height="805" alt="image" src="https://github.com/user-attachments/assets/f41ca44a-5503-4106-9705-d391bb4aa0b7" />
+<img width="1424" height="919" alt="image" src="https://github.com/user-attachments/assets/5fd7738e-9030-4173-b5b5-93789652c71d" />
+
+* 4 -> Option **C**. [Got Correct]
+* Not only -> Negative.
+* did -> hv.
+* the auditors -> Subject.
+* highlight -> mv.
+* did the auditors highlight -> Clause. 
+* After "Not only" there is a *clause*, so after "but also" there should be a *clause*.
+* Not only 'X' but also 'Y' -> Conjunction -> Parallel construction -> 'X and Y' should have been both clauses -> 'X' was a clause but 'Y' was a *noun* only.
+* Not only did the auditors highlight gaps in vendor controls, but also **they** recommended withholding the next tranche. [Correct]
+* I am not only tired but also irritated.  [Correct]
+* X and Y -> Adjectives.
+* tired, irritated -> Adjectives or participles.
+
+<img width="1258" height="818" alt="image" src="https://github.com/user-attachments/assets/30575f44-50c1-4f72-9bf7-b40f6facf348" />
+
+* Not only was I tired but also I was irritated. [Correct]
+* X and Y -> Clauses.
+* was I tired, I was irritated -> Clauses.
+
+<img width="1228" height="803" alt="image" src="https://github.com/user-attachments/assets/4e587bb6-33bf-43b1-a38c-e49c4d2d41b5" />
+<img width="1387" height="911" alt="image" src="https://github.com/user-attachments/assets/2007f2ee-0da5-42d9-90b2-c66bfc7a8ad8" />
+
+* 5 -> Option **B**. [Got Correct]
+* Comprises -> "of" is not required.
+* I was painting the wall -> "on" is implied. [Correct]
+* "on" preposition is implied.
+* I was painting on the wall -> wall is the subject and we are doing some activity on the wall. [Correct]
+
+<img width="1217" height="802" alt="image" src="https://github.com/user-attachments/assets/825e9e13-d262-4652-b4e0-a3f5e21acb9a" />
+
+* She was pacing the floor -> "on" preposition is implied. [**VERY IMPORTANT**]
+
+<img width="1443" height="905" alt="image" src="https://github.com/user-attachments/assets/a63ba9d6-9451-42ad-a7c3-ce504c7105a2" />
+
+* 6 -> Option **A**. [Correct]
+* Option **D**. [Wrong]
+* Conditionals.
+
+<img width="1223" height="807" alt="image" src="https://github.com/user-attachments/assets/56689258-68d2-4a1e-9287-6e0031b3946c" />
+
+* Hypothetical scenario -> Unrealistic:-
+* I wish I were there. [Correct]
+* I were -> Unrealistic/Hypothesis.
+* I would -> Unrealistic/Hypothesis.
+* I will -> Real.
+
+<img width="1236" height="804" alt="image" src="https://github.com/user-attachments/assets/e78a1462-bed2-4036-bdc5-332ebef9c787" />
+<img width="1223" height="797" alt="image" src="https://github.com/user-attachments/assets/98c1ac86-354a-455c-8645-9e513c25b86b" />
+<img width="1227" height="804" alt="image" src="https://github.com/user-attachments/assets/468876f5-587a-4d11-8510-b4b8cb665b62" />
+<img width="1250" height="802" alt="image" src="https://github.com/user-attachments/assets/04413fb7-ffb8-4de5-98de-fd8246989705" />
+<img width="1438" height="910" alt="image" src="https://github.com/user-attachments/assets/4137b79f-8b1a-4201-a3fb-7b873ebcacfb" />
+
+* 7 -> Option **B**. [Got Correct] [**VERY IMPORTANT**]  
+* Each -> Subject.
+* have -> Plural.
+* has -> Singular.
+
+<img width="1241" height="805" alt="image" src="https://github.com/user-attachments/assets/df935d54-de24-48ec-87a7-f752820a02cd" />
+
+* Each man. [Correct]
+* Each -> Singular.
+* Each and every man is responsible for this.
+* man -> Singular.
+* Many a soldier has died. [Correct]
+* a soldier -> Singular.
+* Many a soldier -> Single life of a soldiers.
+
+<img width="1232" height="795" alt="image" src="https://github.com/user-attachments/assets/c0f895f8-2ccf-48f4-a938-6168d230901a" />
+
+* Abstraction -> A part. [MEANING]
+* To abstract -> To steal. [MEANING]
+
+<img width="1225" height="800" alt="image" src="https://github.com/user-attachments/assets/e20e5349-2676-4bb9-aa27-097352774db4" />
+<img width="1397" height="907" alt="image" src="https://github.com/user-attachments/assets/ff429c99-4a21-48ba-ba44-31a5b068d7bf" />
+<img width="1218" height="804" alt="image" src="https://github.com/user-attachments/assets/58739b92-128b-4eb1-bd17-75601f63be42" />
+
+* 8 -> Option **A**. [Correct]
+* Option **E**. [Wrong]
+* discussed -> It implies "about". [**VERY IMPORTANT**]  
+* We discussed the proes and cones of the project. [Correct]
+* We discussed your marital life. [Correct]
+* at length -> It implies "in detail". [MEANING] [**VERY IMPORTANT**]  
+
+<img width="1224" height="790" alt="image" src="https://github.com/user-attachments/assets/b61e305a-f0da-4550-9c7e-8fd833f70bc3" />
+<img width="1440" height="899" alt="image" src="https://github.com/user-attachments/assets/f20712bb-50e8-4cf7-b12c-d0ae1d018a76" />
 
+* 9 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* Less(Less than) -> For **Uncountable**. [**VERY IMPORTANT**]  
+* Fewer(fewer than) -> For **Countable**. [**VERY IMPORTANT**]  
 
+<img width="1212" height="789" alt="image" src="https://github.com/user-attachments/assets/cb687456-eb58-48c3-a13c-1df57fe72bca" />
+<img width="1430" height="892" alt="image" src="https://github.com/user-attachments/assets/d48fb926-cd8d-4337-949c-36a27a70ed98" />
 
+* 10 -> Option **C**. [Got Correct]
+* She prefer X to Y.
+* She prefer X over Y.
+* She prefers working from campus to working from home on client days. [Correct]
+* She prefers work from campus to work from home on client days. [Correct]
 
+<img width="1242" height="818" alt="image" src="https://github.com/user-attachments/assets/6630677b-0af7-44fb-bf1c-fe8d7eddaf0e" />
+<img width="1429" height="906" alt="image" src="https://github.com/user-attachments/assets/4a9bc4bf-0e30-4276-b340-f7e2eeb242d4" />
 
+* 11 -> Option **A**. [Got Correct]
+* When we start a sentence with **"There/Here**, then the **verb(v)** comes first and then the **subject(S)** comes. [There/Here -> V + S]
+* is/are -> verb.
+* many reasons -> Subject.
+* is => a reason.
+* are => many reasons
+* many reasons -> Plural.
 
+<img width="1231" height="806" alt="image" src="https://github.com/user-attachments/assets/26194f42-f8b1-4eca-9a37-4155c1b608b9" />
+<img width="1433" height="909" alt="image" src="https://github.com/user-attachments/assets/077d7e4e-010d-4785-ab2f-a2ec4f25e603" />
 
+* 12 -> Option **A**. [Correct]
+* They -> don't
+* She/He/It -> does not.
+* Does -> Singular.
+* Do -> Plural.
+* She **does not** agree with the proposal at present. [Correct]
 
+<img width="1442" height="909" alt="image" src="https://github.com/user-attachments/assets/6525adc7-5fa5-44a2-bb14-80179ad31020" />
 
+* 13 -> Option **A**. [Got Correct]
+* due to -> Because of. [MEANING]
+* arrived late -> Past tense.
+* Equipment, Furniture -> Mass noun -> uncountable noun.[**VERY IMPORTANT**]  
 
+<img width="1231" height="807" alt="image" src="https://github.com/user-attachments/assets/0696960a-e8a0-49e0-a05a-506af376ed3b" />
 
+* The equipment arrived late due to customs checks. [Correct]
 
+<img width="1441" height="900" alt="image" src="https://github.com/user-attachments/assets/5696daf8-7a56-4d0b-8989-253911dda6b2" />
 
+* 14 -> Option **B**. [Got Correct]
 
+<img width="1428" height="808" alt="image" src="https://github.com/user-attachments/assets/26b7c4c0-05af-47e3-8dfe-28e5a3a38b11" />
+<img width="1433" height="816" alt="image" src="https://github.com/user-attachments/assets/bee8fb65-9979-461d-a42e-ca240e844152" />
 
+* Object of Preposition -> Preposition never comes alone -> They are always followed by their objects -> We call them "object of Preposition". [**VERY IMPORTANT**]  
+* with, without, of, about -> Preposition.
+* you, alcohol, drinking, what you did last night -> object of Preposition.
+* Preposition can be followed with a pronoun, noun, gerund, dependent clause. [**VERY IMPORTANT**]  
+* object of Preposition -> pronoun, noun, gerund, dependent clause. [**VERY IMPORTANT**]  
+* A **verb** cannot be an **object of Preposition** [**VERY IMPORTANT**]  
 
+<img width="1244" height="805" alt="image" src="https://github.com/user-attachments/assets/f0eff2e6-e327-4307-800e-e7328f3793ee" />
 
+* to -> Preposition
+* meet -> Verb => * A **verb** cannot be an **object of Preposition**.
+* meeting -> gerund.
+* I am looking forward to **meeting** the panel next week. [Correct]
 
+<img width="1221" height="798" alt="image" src="https://github.com/user-attachments/assets/51cefccc-90ce-42de-9234-749728b6cfe0" />
+<img width="1440" height="904" alt="image" src="https://github.com/user-attachments/assets/4b03b0c1-621b-4d5c-a265-893af4bcfd16" />
 
+* 15 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Revert -> It implies "back". [**VERY IMPORTANT**]
+* Get back -> Revert. [MEANING]
+* Get back -> Phrasal Verb.
 
+<img width="1238" height="813" alt="image" src="https://github.com/user-attachments/assets/727356c4-fc3b-41f8-a50b-e7ee49a1a4fb" />
+<img width="1222" height="804" alt="image" src="https://github.com/user-attachments/assets/68acaeee-69a7-425b-8e23-ed4ac3ef35b2" />
+<img width="1246" height="809" alt="image" src="https://github.com/user-attachments/assets/c31c1f27-abb8-49e5-8b7f-f25ee6060ea2" />
+<img width="1394" height="779" alt="image" src="https://github.com/user-attachments/assets/2eb0e82f-baa0-4aea-9ee8-c0e57ef19d05" />
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/89d70407-86f5-4ad8-ba28-3526dc7c51d6" />
 
+* 16 -> Option **B**. [Got Correct]
 
+<img width="1441" height="895" alt="image" src="https://github.com/user-attachments/assets/ebbb9a88-aab8-414a-81fb-bc25fa94c2cf" />
 
+* 17 -> Option **B**. [Got Correct]
 
+<img width="1434" height="894" alt="image" src="https://github.com/user-attachments/assets/a9022f21-78c5-449d-a3df-57c37be2f678" />
 
+* 18 -> Option **B**. [Correct]
+* Option **E**. [Wrong]
+* The client insisted on meeting the entire team before sign-off. [Correct]
+* You insist on something. [Correct]
+* on -> Preposition.
+* meeting -> Gerund.
 
+<img width="196" height="70" alt="image" src="https://github.com/user-attachments/assets/fb9bf356-61c3-4693-9b04-9d0e01f42445" />
 
+* Sign-off, Signing off -> Both will work.
+* Sign-off -> Noun like.
+* Signing off -> Gerund like.
 
+<img width="1439" height="898" alt="image" src="https://github.com/user-attachments/assets/ff7a739f-3ec5-4be0-9539-df391c70b5b5" />
 
+* 19 -> Option **C**. [Got Correct]
+* had -> Past perfect tense.
 
+<img width="1441" height="903" alt="image" src="https://github.com/user-attachments/assets/9d1915e8-e2d4-4740-a759-0f5b45e48de4" />
 
+* 20 -> Option **E**. [Correct]
+* Option **C**. [Wrong]
+* The news -> Singular.
+* was -> Singular.
 
+<img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/336933dc-b9d9-4f92-9de1-febe1d3d6730" />
+<img width="1412" height="805" alt="image" src="https://github.com/user-attachments/assets/7becfd83-b41e-418e-a721-f6d17431c2ee" />
+<img width="1209" height="481" alt="image" src="https://github.com/user-attachments/assets/f7bc622e-9d45-4122-a462-a1f2b0147d5f" />
+<img width="1437" height="907" alt="image" src="https://github.com/user-attachments/assets/8c432dc9-7be1-47ee-be45-6a1dbe630b11" />
 
+* 21 -> Option **B**. [Got Correct]
+* It is high time => Subject(S) + past verb comes.
+* It is high time that he took responsibilities.
+* It is high time -> Do something soon that should have been already done. [MEANING]
+* It is high time that we finished our tasks quickly.
 
+<img width="1438" height="907" alt="image" src="https://github.com/user-attachments/assets/4b386196-cc8e-4181-8ca1-9d52f46b1f94" />
 
+* 22 -> Option **B**. [Got Correct] [Done earlier]
+* Each -> Singular.
+* Each -> Subject.
+* have -> Plural.
+* has -> Singular.
+* Each of the interns has submitted the project abstract on the portal. [CORRECT]
 
+<img width="1211" height="622" alt="image" src="https://github.com/user-attachments/assets/652132e3-6bd7-4418-9af8-723b26606ba9" />
+<img width="1443" height="897" alt="image" src="https://github.com/user-attachments/assets/e70eb4db-c8d2-462a-8f52-fd3f2cd87ab5" />
 
+* 23 -> Option **A**. [Got Correct]
+* Discussed -> It implies "about". [**VERY IMPORTANT**]
 
+<img width="1438" height="894" alt="image" src="https://github.com/user-attachments/assets/8d3c1090-a347-4e59-862f-08a797d0e2b1" />
 
+* 24 -> Option **E**. [Correct]
+* Option **B**. [Wrong]
 
+<img width="1284" height="811" alt="image" src="https://github.com/user-attachments/assets/c4fdefd1-8b73-4cd3-bf49-082c2f334b35" />
 
+* chairperson -> Singular.
+* is -> Singular.
 
+<img width="1439" height="896" alt="image" src="https://github.com/user-attachments/assets/23a18d01-bece-49b7-8ffb-5dd907427944" />
 
+* 25 -> Option **D**. [Correct]
+* Option **B**. [Wrong]
 
+<img width="1246" height="814" alt="image" src="https://github.com/user-attachments/assets/b0201f16-1c6d-4a21-bc63-f62483d1b05d" />
 
+* When you have auxillary verb before the main verb then the **'s'** drops. [**VERY IMPORTANT**]
+* must submit => Committee.
+* must submit -> Verb
+* Committee -> Noun.
+* their => its => As 's' is dropped so it is "it".
+* their -> Pronoun.
+* their => Committee.
 
+<img width="1229" height="790" alt="image" src="https://github.com/user-attachments/assets/1c40ca69-b902-410c-bbb8-4b82e5072e0f" />
 
+* She knows me. [Correct] [Example]
+* She -> Subject.
+* Knows -> Verb.
+* me -> Object.
+* She must know me. [Correct] [Example]
+* She -> Subject.
+* must -> auxillary Verb.
+* know -> verb.
+* me -> Object.
 
+<img width="1240" height="811" alt="image" src="https://github.com/user-attachments/assets/f30635b0-5cd7-483c-bc40-5585f9afeab5" />
 
+* She like ice cream.
+* She might/should/will/would/may like ice cream. [Correct]
+* She can like ice cream. [Wrong/Error] [Logical Error]
+* can -> It is an ability.
+* ought to -> Moral obligations. [MEANING]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1431" height="800" alt="image" src="https://github.com/user-attachments/assets/ebf1565a-2c2a-40f2-a11f-c583ad47f371" />
+<img width="1427" height="817" alt="image" src="https://github.com/user-attachments/assets/c7254edb-871b-4b50-a559-305faeb97cd1" />
+<img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/a143fea5-aad5-4229-b9ca-66385f1759ef" />
 
 
 
