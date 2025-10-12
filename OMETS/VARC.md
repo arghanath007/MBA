@@ -5224,15 +5224,28 @@
 <img width="1427" height="817" alt="image" src="https://github.com/user-attachments/assets/c7254edb-871b-4b50-a559-305faeb97cd1" />
 <img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/a143fea5-aad5-4229-b9ca-66385f1759ef" />
 
+### Grammer Tenses & Conditionals (13) [24]
 
+<img width="423" height="101" alt="image" src="https://github.com/user-attachments/assets/fc3010dc-dfe8-404d-8974-ed63d1f17639" />
 
+* To -> Preposition -> to + object of Preposition.
+* To -> infinitive -> to + verb.
+* I want to go to london.
+* to -> infinitive
+* go -> verb.
+* to -> Preposition.
+* london -> noun.
+* I am looking forward to -> see if we can fix a **noun**. [**VERY IMPORTANT**]
+* I am looking forward to the meeting/next cricket match/the final of the world cup. [**VERY IMPORTANT**]
+* When there is a "to" before a **noun** then that "to" is a Preposition. [**VERY IMPORTANT**]
+* When there is a "to" but after that "to", a **noun** doesn't make sense then we need to put a **verb**. [**VERY IMPORTANT**]
+* I want to sleep/play/write.
+* to + verb/action -> It looks good -> It is **infinitive**. [**VERY IMPORTANT**]
+* to + noun -> It looks good -> It is a **Preposition**. [**VERY IMPORTANT**]
 
+<img width="1428" height="797" alt="image" src="https://github.com/user-attachments/assets/cdf15f49-7954-4b68-8cde-a441bb7091d5" />
 
-
-
-
-
-
+* Start from 4mins.
 
 
 
