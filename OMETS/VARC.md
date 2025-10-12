@@ -4871,28 +4871,50 @@
 
 <img width="1186" height="780" alt="image" src="https://github.com/user-attachments/assets/f169ea65-7082-4dba-81e1-891daa5a5b5e" />
 
+### Grammer Practice (12) [23]
+
+<img width="1397" height="789" alt="image" src="https://github.com/user-attachments/assets/9825eb35-7017-4568-a0a5-e8065165cc34" />
+<img width="1420" height="900" alt="image" src="https://github.com/user-attachments/assets/501fab8b-d412-48c6-806a-f2a6502c47e2" />
+
+* 1 -> Option **C**. [Correct]
+* Option **E**. [Wrong]
+* Neither X nor Y -> Conjunction(Parallel Construction) -> X parallel(||) Y -> If 'X' is a verb/noun/phrase then 'Y' is a verb/noun/phrase as well. [**VERY IMPORTANT**]
+* the surge in demand, delays in procurement -> Noun phrase.
+* delays -> Subject.
+* delays -> Plural => have -> Plural.
+* has -> have.
+
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/3d5e1edc-34ef-4dbb-a237-c88d8ba4da4c" />
+<img width="1431" height="904" alt="image" src="https://github.com/user-attachments/assets/1d338253-6fee-40c4-96b6-dd90bb44c928" />
+
+* 2 -> Option **A**. [Correct]
+* Option **E**. [Wrong]
+* Walking on the beech, I met my old friend.
+* Walking on the beech -> Modifier
+* I -> Modified.
+* Watching the movie, the lights went off. [Wrong]
+* Watching the movie -> Modifier
+* the lights -> Modified.
+* While I was watching the movie, the lights went off. [Correct]
+* While I was watching the movie -> Modifier
+* the lights -> Modified.
+* Watching the movie, John saw that the lights went off. [Correct]
+
+<img width="1427" height="803" alt="image" src="https://github.com/user-attachments/assets/fc785ac1-76a0-44c4-812e-0dfad6fd36f1" />
+<img width="1419" height="817" alt="image" src="https://github.com/user-attachments/assets/041bb620-0f89-4c78-a65a-ce92fc40c5ae" />
+
+* Walking through the plant at night -> Dangling Modifier.
+* the sudden shutdown -> Modified.
+
+<img width="1238" height="801" alt="image" src="https://github.com/user-attachments/assets/6f1c5789-b30f-4cf2-869d-e2cde935db32" />
+<img width="1411" height="902" alt="image" src="https://github.com/user-attachments/assets/fcbe5983-f7da-46c4-8798-a5de035ec657" />
+
+* 3 -> Option **E**. [Got Correct]
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
