@@ -1897,39 +1897,77 @@
 <img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/c0705a1a-61de-4df0-8dd8-8ec825b0c779" />
 <img width="1406" height="807" alt="image" src="https://github.com/user-attachments/assets/ced920f1-d32f-4783-9476-476d588a98c6" />
 
+### SNAP Practice (13) [25]
 
+<img width="1433" height="907" alt="image" src="https://github.com/user-attachments/assets/f300d91d-03a8-4c5a-abf1-62346733c68b" />
 
+* 1 -> Option **B**. [Got Correct]
+* Perspicacious -> Insightful, having keen understanding. [MEANING]
+* Stubborn -> obstinate, wilful, obdurate, adament. [Synonymes] [MEANING]
 
+<img width="1411" height="796" alt="image" src="https://github.com/user-attachments/assets/bde3cb1f-041a-4a28-ad29-5de861b9ed02" />
+<img width="1425" height="900" alt="image" src="https://github.com/user-attachments/assets/5153980e-f516-4193-b9ef-7584a4d166a8" />
 
+* 2 -> Option **A**. [Got Correct]
+* 2 -> Looking for a negative word.
+* Democratic, Collaborative, Inclusive -> Positive words.
+* Autocratic -> Dictatorial, exercising total control, dominating. [MEANING]
+* cracy => Root word -> form of government. [MEANING]
 
+<img width="1401" height="792" alt="image" src="https://github.com/user-attachments/assets/f57d8bdc-f8d8-401e-87bc-8e36c833f73d" />
+<img width="1439" height="894" alt="image" src="https://github.com/user-attachments/assets/995265a7-aa60-4255-9b87-624ffdbcd102" />
 
+* 3 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
 
+<img width="811" height="392" alt="image" src="https://github.com/user-attachments/assets/a9422e5b-f928-4d9a-81ca-b108b7ffa59f" />
+<img width="1439" height="903" alt="image" src="https://github.com/user-attachments/assets/12f9ad86-7f23-4af5-88bf-9b0dbd5ecc07" />
 
+* 4 -> Option **B**. [Correct]
+* Option **C**. [Wrong]
 
+<img width="1416" height="812" alt="image" src="https://github.com/user-attachments/assets/8d560b61-1be6-4dc7-98cf-8193894f8dcf" />
+<img width="1425" height="906" alt="image" src="https://github.com/user-attachments/assets/c6e237c2-7ff1-4c0a-8e6b-a7d209a5cc1f" />
 
+* 5 -> Option **B**. [Got Correct]
+* Accomodation -> "cc" + "mm".
 
+<img width="1077" height="425" alt="image" src="https://github.com/user-attachments/assets/94482fc7-343d-44cc-a255-93805418c290" />
+<img width="1440" height="902" alt="image" src="https://github.com/user-attachments/assets/cb5d1756-c70b-4020-8665-5b66367e0fd8" />
 
+* 6 -> Option **C**. [Got Correct]
+* Incendiary -> Causing conflict, provocative. [MEANING]
+* Conciliatory -> intended to gain goodwill or favor or to reduce hostility : tending or intended to conciliate. [MEANING]  
+* Belligerent -> Hostile, Causing conflict, unfriendly. [MEANING]
 
+<img width="1410" height="790" alt="image" src="https://github.com/user-attachments/assets/5a212ea0-1bbc-49db-91eb-f6257d82caf5" />
+<img width="1430" height="892" alt="image" src="https://github.com/user-attachments/assets/2033d240-3c9e-4d20-b9d6-84b86dbe7941" />
 
+* 7 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
 
+<img width="869" height="383" alt="image" src="https://github.com/user-attachments/assets/6d3f7c6f-8f65-478c-a1d1-2779423dc5bc" />
+<img width="1433" height="901" alt="image" src="https://github.com/user-attachments/assets/7e2761f7-8394-46dc-b009-74499c7ac1c5" />
 
+* 8 -> Option **D**. [Correct] 
+* Option **C**. [Wrong]
+* Dis, able -> Root words => Disagreeable.
+* Uncomfortable -> Less exact word.
 
+<img width="831" height="506" alt="image" src="https://github.com/user-attachments/assets/2db93f95-bc17-4424-b4ef-9a3ad7e79127" />
 
+* 9 -> Option **B**. [Correct] 
+* Option **A**. [Wrong]
+* Mulrilingual -> Adjective.
+* Polyglot -> Precise terminology.
+* Mulrilingual -> Broad terminology.
 
+<img width="1011" height="525" alt="image" src="https://github.com/user-attachments/assets/b56daa29-afd0-4b20-b9b0-d058c85c122a" />
+<img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/18f6141f-12d5-4609-8861-95222d3d4691" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 10 -> Option **A**. [Correct]
+* masculine -> Male.
+* Start from 36mins.
 
 
 
