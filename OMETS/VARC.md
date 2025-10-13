@@ -5244,8 +5244,269 @@
 * to + noun -> It looks good -> It is a **Preposition**. [**VERY IMPORTANT**]
 
 <img width="1428" height="797" alt="image" src="https://github.com/user-attachments/assets/cdf15f49-7954-4b68-8cde-a441bb7091d5" />
+<img width="1417" height="800" alt="image" src="https://github.com/user-attachments/assets/003b4e81-4269-4fbc-81d4-62e0179bfb66" />
+<img width="1433" height="836" alt="image" src="https://github.com/user-attachments/assets/1c956768-aa87-4d32-b42f-7309ecc57440" />
+<img width="1429" height="813" alt="image" src="https://github.com/user-attachments/assets/659cea85-0e49-4026-b42e-0713058a34ff" />
 
-* Start from 4mins.
+* Simple present is generalized/indefinite.
+* The sunrises in the East. [Example]
+* Simple present -> regular routine.
+* Simple present -> Certain verbs -> think, know. [**VERY IMPORTANT**]
+
+<img width="1431" height="817" alt="image" src="https://github.com/user-attachments/assets/ab6d7f23-a43b-4e36-9dfb-06c8f675444f" />
+
+* I think I should take a break.
+* The soup tastes good.
+* He looks worried.
+* You are looking good today.
+* He looks good -> Present Tense. [**VERY IMPORTANT**]
+* Continuous Tense -> -ing form -> It means that something is in **motion**, something that is in **continuity**. [**VERY IMPORTANT**]
+
+<img width="1420" height="828" alt="image" src="https://github.com/user-attachments/assets/8ba0286b-4c3c-4f0a-a3ff-3d697c93b01d" />
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/10dce3d1-8579-4f57-b503-e525590395ad" />
+
+* I fell down. [Correct]
+* I am falling down. [Sound weird] [Wrong]
+* My score is coming down.
+
+<img width="1442" height="830" alt="image" src="https://github.com/user-attachments/assets/63b00bc8-c4af-415e-8dd8-e5d802cc86c5" />
+
+* Examples:- [**VERY IMPORTANT**]
+* Present:-
+    * Simple  -> She goes to school. [Example]
+    * Progressive -> She is going to school. [Example]
+    * Perfect -> She has gone to school. [Example]
+    * Perfect Continuous -> She has been going to school since last 3yrs. [Example]
+* Simple Present -> Event not happening currently but the event happens. 
+* Present Progressive -> Event is happening right now/currently -> Event/action is going on -> Only in the present.
+* Present Perfect continuous/Progressive -> Action started at some point of time and it is still going on -> Coming from the past into the present.
+* Past:-
+    * Simple -> She went to school.
+    * Progressive -> She was going to school. [Example]
+    * Perfect -> She had gone to school. [Example]
+    * Perfect Continuous -> She had been going to school. [Example]
+                           * I had been smoking for the past 3yrs. [Example]   
+* Past Perfect continuous/Progressive -> Same as **Present Perfect continuous/Progressive**. Instead of **has been** it is **had been**.
+* Future:-
+    * Simple -> She will go to school. [Example]
+    * Progressive -> She will be going to school. [Example]
+    * Perfect -> She will have gone to school. [Example]
+    * Perfect Continuous -> She will have been going to school. [Example]
+
+<img width="1439" height="825" alt="image" src="https://github.com/user-attachments/assets/7ba6bc58-43d0-4131-a636-a88b315b3f3d" />
+
+* Simple Past -> She went to school -> Any past time frame **YES**. [**VERY IMPORTANT**]
+* Present Perfect -> She has gone to school -> Difficulty in putting time Frame. [**VERY IMPORTANT**]
+* Present Perfect -> Doesn't have any time frame -> The action is still relevant. [**VERY IMPORTANT**]
+* She has gone to school -> It means that she has gone to school but hasn't returned from school yet. Once she comes back, the action is completed.
+* Sir, I have finished my lunch -> action is done.
+* Present Perfect -> Sir, I have finished my lunch.
+* Simple Past -> I had my lunch.
+
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/fbabf5ab-354d-4547-9740-259b90100051" />
+<img width="1430" height="828" alt="image" src="https://github.com/user-attachments/assets/d4017aca-5b12-416a-99d6-45fb1d69b2cd" />
+
+* There are many actions who have a relevance till a time period. When the relevance is completed, then we take the action from **Present Perfect** to **Simple Past** tense. [**VERY IMPORTANT**]
+* Present Perfect -> I have done my engineering.
+* I did my engineering.
+* Present Perfect -> My salary has come.
+* Simple Past -> India has won the match.
+* Simple Past -> Doors are closed -> It is ended. [**VERY IMPORTANT**]
+* Perfect Tense -> Door is not yet closed even though it belongs to the past -> Relevance is still there. [**VERY IMPORTANT**]
+* Present Perfect -> I am a novolist. I have written 5 novels.
+* Simple Past -> I wrote 5 novels.
+* Simple Past -> I was a novolist. I wrote 5 novels.
+
+<img width="1596" height="847" alt="image" src="https://github.com/user-attachments/assets/9eadf608-3196-4bc4-8c67-72a3f622bf05" />
+<img width="1036" height="460" alt="image" src="https://github.com/user-attachments/assets/a74dcb22-2329-497d-bf13-88872e84bb1c" />
+<img width="1430" height="825" alt="image" src="https://github.com/user-attachments/assets/d76f9816-e9a3-4a81-8c24-88613d0d91ee" />
+
+* had -> Past Perfect.
+* want -> Simple Past.
+
+<img width="494" height="294" alt="image" src="https://github.com/user-attachments/assets/e3b894e1-5b90-4737-9ed0-5f89d9e5017d" />
+
+* I have a pen -> Simple Present.
+* have -> Posess
+* I had a pen ->  Simple Past.
+* had -> Posessed.
+* I had my lunch.
+* had -> ate
+* had -> ate, Posessed => Verb.
+* had -> Perfect Past.
+* She has eaten her lunch.
+* has eaten -> Present Perfect.
+* has -> Present.
+* eaten -> action.
+* She had her lunch.
+* had -> It implies "ate". [**VERY IMPORTANT**]
+* They have had their lunch.
+* She -> Singular => has.
+* They -> Plural => have.
+* has, have -> Verb.
+* had -> action.
+* I have taken a break.
+* I have had a break.
+* had -> It implies "taken". [**VERY IMPORTANT**]
+* I have had enough.
+
+<img width="1436" height="816" alt="image" src="https://github.com/user-attachments/assets/409a96ce-d0d5-4287-92ee-af01512137b4" />
+
+* She/He/It has had her/his/its lunch. [Present Perfect]
+* They have had their breakfast. [Present Perfect -> have]
+* They have taken their breakfast.
+* had -> It implies "taken". [**VERY IMPORTANT**]
+* had -> It can have many meanings.
+* I had had my lunch. [Past Perfect -> had]
+* had -> It implies "eaten"
+* had -> Eaten -> Action.
+* I had taken my lunch.
+* I had finished my lunch.
+* had -> Past Perfect. [**VERY IMPORTANT**]
+
+<img width="1438" height="833" alt="image" src="https://github.com/user-attachments/assets/ad2bf300-8585-47fd-bbe8-0181db9ba0f8" />
+<img width="1440" height="814" alt="image" src="https://github.com/user-attachments/assets/8cbabe50-e0ec-4f7d-af73-da0558136d46" />
+
+* Katrina Kaif is very flirtetious. She has had many affairs. [Present Perfect -> has had]
+* has, is -> Present.
+
+<img width="1438" height="819" alt="image" src="https://github.com/user-attachments/assets/fc4d972c-6072-4436-bbe3-e5e9d5d55198" />
+<img width="335" height="90" alt="image" src="https://github.com/user-attachments/assets/ffe261f7-8964-4513-aff2-af819cea5974" />
+
+* Katrina Kaif was very flirtetious. She had had many affairs. [Past Perfect -> had had]
+* had, was -> Past.
+* had, had -> No change, closed forever.
+
+<img width="1435" height="827" alt="image" src="https://github.com/user-attachments/assets/45a48297-3c86-4ed4-846e-787de7cb106b" />
+
+* We use past perfect when we have two independent actions in the past. [**VERY IMPORTANT**]
+* The one that happens first takes past perfect. [**VERY IMPORTANT**]
+* I married my wife in 2015. [Action 1]
+    * We went to school together. [Action 2]
+    * We had been to school together. [Action 2]
+
+<img width="1427" height="826" alt="image" src="https://github.com/user-attachments/assets/3f8cd157-dc93-401c-92ef-a9b5200ee8d1" />
+
+* had been -> Past Perfect.
+
+<img width="206" height="67" alt="image" src="https://github.com/user-attachments/assets/54265a4b-053d-4a8f-9290-474cce1aa014" />
+<img width="261" height="95" alt="image" src="https://github.com/user-attachments/assets/14468e80-1f6b-428d-8726-7b1366aa544a" />
+
+* I married my wife in 2015. We went to school together. [Action 1 -> Action 2] [Marriage then going to school together]
+* I married my wife in 2015. We had been to school together. [Correct] [Past Perfect]
+
+<img width="1434" height="822" alt="image" src="https://github.com/user-attachments/assets/a96caa81-2e57-4b30-b96e-3a9adbe0a11a" />
+
+* By the time the Britishers arrived in India, the mughal empire had collapsed. [Past Perfect -> had]
+* had + verb(-ed) -> Past Perfect. [**VERY IMPORTANT**]
+* had been -> Continuity.
+
+<img width="1421" height="813" alt="image" src="https://github.com/user-attachments/assets/f715e701-b2b5-410a-bcab-7c9e0d80e2a8" />
+
+* By the time I reached office, my boss had had his lunch. [Correct]
+* had -> It implies "finished".
+* By the time I reached office, my boss had finished his lunch. [Correct]
+
+<img width="208" height="76" alt="image" src="https://github.com/user-attachments/assets/afe44108-4e68-43c6-9bd1-5603b62f884e" />
+
+* Before me reaching the office, boss finished his lunch.
+
+<img width="243" height="74" alt="image" src="https://github.com/user-attachments/assets/f4ab8211-ad0b-4256-80e6-e376aad81b2d" />
+<img width="1264" height="643" alt="image" src="https://github.com/user-attachments/assets/93603106-6dac-4be5-8f88-cd26c5dfcbf1" />
+<img width="236" height="73" alt="image" src="https://github.com/user-attachments/assets/cea2785c-cf84-47ee-a54b-17e09582885f" />
+
+* Correct.
+* He had eaten his lunch. [Correct]
+* He had taken his lunch [Correct]
+* He had finished his lunch. [Correct]
+* Before her marriage to vikey in 2021, she had had many affairs.
+* Past Perfect -> It doesn't make sense alone. It makes sense when you only have '2' actions in the past.  [**VERY IMPORTANT**]
+* Past Simple -> '1' action.
+
+<img width="1434" height="813" alt="image" src="https://github.com/user-attachments/assets/58b8f35b-228c-49aa-854a-dbb17c87d7ef" />
+<img width="427" height="99" alt="image" src="https://github.com/user-attachments/assets/0c2b7e42-d4ee-45a2-8ced-9b5325da5ff6" />
+
+* yes.
+
+<img width="1437" height="860" alt="image" src="https://github.com/user-attachments/assets/1d3d8615-fc0a-4cd4-b381-3b9ec67b0202" />
+
+* She/They has/have been going to school. [Present Perfect -> has/have]
+* She/They had been going to school. [Past Perfect -> had]
+* had -> Past Perfect.
+
+<img width="1442" height="830" alt="image" src="https://github.com/user-attachments/assets/c695e96d-4d28-4cfe-8cda-7f39a69f4ad3" />
+<img width="1438" height="836" alt="image" src="https://github.com/user-attachments/assets/67459188-39ac-451c-aafb-3444f3902584" />
+
+* Simple Future -> She will go to school. [Example]
+* Simple Future -> The work will happen in the future -> The action will happen in the future but we don't know when -> No Time frame comes. [**VERY IMPORTANT**]
+* Future Perfect -> She will have gone to school. [Example]
+* Future Perfect -> The work will be done in the future -> The work/action is completed in the future -> Time frame comes. [**VERY IMPORTANT**]
+* Future Perfect Continuous -> She will have benn going to school.  [Example]
+* Future Perfect Continuous -> The work will continue to happen in the future. [**VERY IMPORTANT**]
+
+<img width="1438" height="851" alt="image" src="https://github.com/user-attachments/assets/48c1273e-afb3-45a2-bbd1-c8a7665cbbd9" />
+
+* Confusing -> Present Perfect, Simple Past, Past Perfect. [**VERY IMPORTANT**]
+
+<img width="358" height="105" alt="image" src="https://github.com/user-attachments/assets/05a053be-2143-4b6d-a6c9-7349384649ac" />
+
+* Next year, by the end of June 2026 I will have been working in this company for 3yrs. [Future Perfect Continuous] [Example]
+* Future Perfect -> Action is completed.
+* Future Perfect Continuous -> Action is going on/continues.
+* Next year by this time we will have gotten married. [Future Perfect -> Marriage is completed]
+* Next year by this time we will have been married for almost 5yrs. [Future Perfect Continuous -> Marriage is going on/continues.]
+
+<img width="1428" height="824" alt="image" src="https://github.com/user-attachments/assets/d09fc5b7-e493-45a3-9520-66def68dbfc4" />
+
+* **Conditionals**:- [**VERY IMPORTANT**]
+* Zero Conditionals -> if -> (If + simple present), main clause(Simple present).
+        * If you add 2 + 2, you get 4. [Correct]
+        * If you add 2 + 2, you will get 4. [Wrong]
+        * If you heat water, it boils. [Correct]
+        * If my sister calls me, I am sure to reply to her calls. [Correct]
+* Zero Conditionals -> Generally used in **Universal Truths, generally ture, regularly happens**. [**VERY IMPORTANT**]
+* Zero Conditionals -> Generalized. [**VERY IMPORTANT**]
+* 1st Conditionals -> if -> (If + simple present), main clause(will + verb).
+        * If it rains, I will not go to college.
+* 1st Conditionals -> Realistic event. [**VERY IMPORTANT**]
+* 2nd Conditionals -> if -> (If + simple past), main clause(would + verb).
+        * If I meet santa claus, I would say hello.
+* 2nd Conditionals -> Unrealistic/Imaginary event. [**VERY IMPORTANT**]
+* 3rd Conditionals -> if -> (If + past perfect), main clause(would + have).
+        * If I had studied hard, I would have cleared the exam.
+* 3rd Conditionals -> Past hypothesis. [**VERY IMPORTANT**]
+* Daily Speech -> 1st conditional **OR** 3rd conditional.
+* If she were there, she would have felt happy.
+* she were -> Unrealistic -> 2nd conditional.
+
+<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/e58ce437-4410-4b5d-97ae-ecb88d5b9248" />
+
+* Primary Prepositions -> at, in, on. [**VERY IMPORTANT**]
+* on -> Two dimension.
+* in -> Three dimension.
+* at -> One dimension.
+* at -> Used for location.
+* in -> Used for three dimension.
+* on -> Used for two dimension.
+* At the hospital/office.
+* In the hospital.
+* Preposition -> It is always followed by an **object** -> Preposition + Object(O). [**VERY IMPORTANT**]
+* I am interested in.
+* different from.
+* dislike for.
+* attachment to.
+* curious about.
+* abide by.
+
+<img width="1430" height="816" alt="image" src="https://github.com/user-attachments/assets/2a7627fc-c5e6-4a6f-af95-b8ee802dad66" />
+<img width="242" height="90" alt="image" src="https://github.com/user-attachments/assets/40232694-e758-47ee-90de-817090bf44d6" />
+
+* No.
+
+<img width="1437" height="797" alt="image" src="https://github.com/user-attachments/assets/6fe44385-0a69-4433-ba96-e7c0bbcd0bbf" />
+<img width="1432" height="818" alt="image" src="https://github.com/user-attachments/assets/00dc3341-32f8-4647-b183-fe6fcf5050d5" />
+
+* Prepositions -> Practice, Practice & Practice.
 
 
 
