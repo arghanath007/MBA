@@ -2216,10 +2216,27 @@
 
 ### RC Practice (14) [26]
 
+* **Approach for solving RCS in OMET exams** -> DO KEYWORD MATCHING, Look at quick solve Questions, Swift and Speed approach. [**VERY IMPORTANT**]
+
+<img width="1418" height="808" alt="image" src="https://github.com/user-attachments/assets/40f2e7b1-f758-4cec-a893-6a7eeb44ce35" />
+<img width="1421" height="810" alt="image" src="https://github.com/user-attachments/assets/ce7836be-8e87-415a-a842-c8e4a3f12977" />
+
+* Passage Reading -> Less than 2mins. [**VERY IMPORTANT**]
+* Question solving -> 1 to 1.5mins per question. [**VERY IMPORTANT**]
+* Vocab questions -> 30secs to 1min  per question. [**VERY IMPORTANT**]
+
+<img width="444" height="123" alt="image" src="https://github.com/user-attachments/assets/447d38af-4a92-4f81-98e4-14ed85ef7385" />
+
+* Yes.
+
+<img width="448" height="96" alt="image" src="https://github.com/user-attachments/assets/94d57c16-deb4-4657-aee3-5047342c6f4d" />
+
+* Yes.
+
+<img width="1419" height="815" alt="image" src="https://github.com/user-attachments/assets/cadc47cb-82b4-44dc-8ff1-ac963ac8b219" />
 <img width="1403" height="808" alt="image" src="https://github.com/user-attachments/assets/82fd48df-e9dc-4d7f-b709-21da58a88272" />
 
 * RC1.
-* Approach for solving RCS in OMET exams -> DO KEYWORD MATCHING, Look at quick solve Questions, Swift and Speed approach. [**VERY IMPORTANT**]
 
 <img width="1437" height="974" alt="image" src="https://github.com/user-attachments/assets/0a531d32-e972-49b0-961f-0a76a2b58c5e" />
 
@@ -2275,26 +2292,65 @@
 * 1 -> Option **B**. [Correct]
 * Option **D**. [Wrong]
 
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/e20a2ed9-e6b3-42ce-8fef-77a7239f79ae" />
+
+* A -> Very narrow.
+* B -> Generics => Sequencers, Robotics => Robots, Computer Science => Machine Learning.
+* C -> Definitely => Extreme option.
+* D -> Very narrow and Out of scope.
+* E -> Extreme option and Out of scope.
+
 <img width="1433" height="972" alt="image" src="https://github.com/user-attachments/assets/3e188564-184d-49d4-9d85-157c33356219" />
 
 * 2 -> Option **E**. [Correct]
 * Option **A**. [Wrong]
 
+<img width="1416" height="815" alt="image" src="https://github.com/user-attachments/assets/8912090e-bbfe-4920-9113-6a06903234c5" />
+
+* A -> Not collaboration.
+* B -> Out of scope.
+* C -> Out of scope.
+* D -> No. of researchers is not the issue.
+* E -> One Lifetime is not enough => Urgent, Sober -> Level of ignorance.
+
 <img width="1440" height="977" alt="image" src="https://github.com/user-attachments/assets/1815768a-902e-4f78-9cf1-64b0e3a42a43" />
 
 * 3 -> Option **C**. [Got Correct]
+* Dark -> Hidden, Unknown. [Passage Meaning]
+
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/1db309c7-7b17-4a80-93cf-200884f0ce2f" />
+
+* A -> Not literal meaning of "Dark".
+* B -> Not only insects.
+* D -> Not given.
+* E -> Out of scope.
 
 <img width="1443" height="968" alt="image" src="https://github.com/user-attachments/assets/1d624c29-f7fe-4eaf-8d26-84302fe73dd1" />
 
 * 4 -> Option **D**. [Got Correct]
+* B -> Very narrow.
+* C -> Non-specialists are ignorant -> Distorted.
+* E -> Out of Scope.
+
+<img width="1411" height="799" alt="image" src="https://github.com/user-attachments/assets/37e51f25-3717-4564-a3ec-b31dcbed69d5" />
+
 * meadow ->  land that is covered or mostly covered with grass. [MEANING]
 * scraps -> Small pieces. [MEANING]
 * sloughed skin -> Dead/shed skin. [MEANING]
 * Invasive -> Population has increased very much. [MEANING]
-* Taxonomists ->
-* Taxonomy -> 
+* Taxonomists -> A person whose job is Taxonomy. [MEANING]
+* Taxonomy -> Branch of scientific study which names and categories different organisms. [MEANING]
+* Teeming -> Crowded. [MEANING]
+* Eludes -> Escapes. [MEANING]
+* Consortium -> Group. [MEANING]
+* Lamented -> Criticised, complained. [MEANING]
+* Entomologist -> A person who studies insects. [MEANING]
+* sobering -> tending to make one thoughtful or sober. [MEANING]
 
+<img width="1415" height="796" alt="image" src="https://github.com/user-attachments/assets/3c51b545-11bd-4fe0-93c9-19a95d72aaba" />
+<img width="425" height="111" alt="image" src="https://github.com/user-attachments/assets/bda6673e-6425-4fea-b59f-29241d07bf5b" />
 
+* Yes, showing urgency to use technology. Urgent.
 
 
 
