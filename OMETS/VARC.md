@@ -6113,50 +6113,190 @@
 
 * Preposition -> Patience in choosing the **options**. [**VERY IMPORTANT**]
 
-### Preposition Practice (15) [28]
+### Preposition Practice [**VERY IMPORTANT**] (15) [28]
 
+<img width="1437" height="985" alt="image" src="https://github.com/user-attachments/assets/145c204a-49c0-49cc-b9ec-dd771147958a" />
 
+* 16 -> Option **B**. [Correct] 
+* Option **C**. [Wrong]
+* Semi-Colon(;) -> Signifies the ending of an **idea**. [**VERY IMPORTANT**]
+* Alloted **"to"** her companion.  [**VERY IMPORTANT**] [idioms]
+* My seat has been alloted **"to"** someone else.  [**VERY IMPORTANT**] [idioms]
+* Companion -> Singular.
+* Survives -> Singular.
 
+<img width="1232" height="799" alt="image" src="https://github.com/user-attachments/assets/694f4bb4-9cea-4c05-8d1e-79e00c6c2333" />
+<img width="1228" height="799" alt="image" src="https://github.com/user-attachments/assets/c5c8d65e-cfe3-4ba8-a349-d90b1723429d" />
+<img width="1440" height="969" alt="image" src="https://github.com/user-attachments/assets/f2170fbb-9434-4e49-af0a-ede588d16f45" />
 
+* 17 -> Option **C**. [Correct] 
+* Option **B**. [Wrong]
+* Fill in the Blank -> Attack the blank which is the easiest to fill. [**VERY IMPORTANT**]
+* Control -> Verb.
+* After a preposition, a **verb** nerver comes. [**VERY IMPORTANT**]
+* Developing in -> Within something. [**VERY IMPORTANT**]
+* Developing into -> Transforming into. [**VERY IMPORTANT**]
+* Transformed into, Developed into, metamorphos into. [**VERY IMPORTANT**]
+* Inquisition -> Conquoring. [MEANING]
 
+<img width="1230" height="807" alt="image" src="https://github.com/user-attachments/assets/0b9d2759-e6e4-4ef6-99e0-670532d8c93a" />
+<img width="1437" height="980" alt="image" src="https://github.com/user-attachments/assets/f01951ad-954f-4d0f-b65c-d38782199401" />
 
+* 18 -> Option **B**. [Got Correct] 
 
+<img width="1293" height="838" alt="image" src="https://github.com/user-attachments/assets/f26a4ac7-d629-4e5a-90b7-3eacb8dd682a" />
+<img width="1249" height="811" alt="image" src="https://github.com/user-attachments/assets/509eeecc-b2ed-4612-ab14-8edafaa2bdfd" />
+<img width="1218" height="470" alt="image" src="https://github.com/user-attachments/assets/957bf284-c19a-45ef-ae73-4cb1a64d6d08" />
 
+* Under these conditions. [Correct]
+* In these conditions.  [Correct] 
+* Council **"of"** someone.  [Correct] [**VERY IMPORTANT**]
 
+<img width="1186" height="797" alt="image" src="https://github.com/user-attachments/assets/8203ba1e-d2e7-4514-a53f-767a62ea1e4d" />
 
+* 20 -> Option **A**.
 
+<img width="1215" height="453" alt="image" src="https://github.com/user-attachments/assets/6081903c-7aea-46f2-9267-fcea5ce62bda" />
 
+* Polemic -> One who argues for something. [MEANING]
 
+<img width="1440" height="966" alt="image" src="https://github.com/user-attachments/assets/c19cc7ce-e76d-48d5-9b03-bab7ab62d3e6" />
 
+* 21 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* For -> It is working as "because", as a conjunction. [Because -> Conjunction] [**VERY IMPORTANT**]
+* or -> Conjunction.
 
+<img width="1372" height="785" alt="image" src="https://github.com/user-attachments/assets/0c06f7a7-2ae7-4dc4-b123-6de25f732d94" />
 
+* of 'X', or else **"of"** 'Y' -> Parallel Construction. 
 
+<img width="1349" height="788" alt="image" src="https://github.com/user-attachments/assets/83981de7-4a26-4e89-982c-fbb913eab75b" />
+<img width="1442" height="972" alt="image" src="https://github.com/user-attachments/assets/ef81b69a-4dcd-4a4b-9ecd-b841eb442172" />
 
+* 22 -> Option **A**. [Got Correct]
+* Necessary **"for"**. [**VERY IMPORTANT**]
+* X is necessary **"for"** Y.
+* Hardword is necessary **"for"** success.
+* The necessaties **"of"** one man differs from the necessaties **"of"** another man. [**VERY IMPORTANT**]
 
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/53728137-c505-4283-98c2-049bfeb61681" />
 
+* We take **"into"** account something. [**VERY IMPORTANT**]
+* You pass your judgement **"upon"** something. [Correct] [**VERY IMPORTANT**]
+* You pass your judgement **"on"** something. [Correct] [**VERY IMPORTANT**]
 
+<img width="1420" height="802" alt="image" src="https://github.com/user-attachments/assets/56ec3c4a-44c7-4bbb-b3f2-14f255e9cfef" />
+<img width="1411" height="800" alt="image" src="https://github.com/user-attachments/assets/58d4d13c-064f-4f05-b8ac-b846b73d6db3" />
+<img width="356" height="83" alt="image" src="https://github.com/user-attachments/assets/29a93746-c834-4a59-858b-3b74f1fb2aa8" />
 
+* **"Upon"** makes more sense.
+* **"On"** is more format these days. **"Upon"** looks more old fashion in sounding.
 
+<img width="1876" height="945" alt="image" src="https://github.com/user-attachments/assets/7c3a45d1-2246-473f-8bde-f04026b26148" />
+<img width="1425" height="970" alt="image" src="https://github.com/user-attachments/assets/6e38e0b9-a4a1-457d-bf3f-6927584c5d40" />
 
+* 23 -> Option **C**. [Got Correct]
+* I have been misunderstood **"by"** so many people. [**VERY IMPORTANT**]
+* Passes **"to"** -> It means "moving to".
+* You reconcile **"with"** someone. [Correct] [**VERY IMPORTANT**]
+* You reconcile **"with"** someone -> It means to "patch up** with someone. [**VERY IMPORTANT**]
+* reconcile **"to"** my schedule. [**VERY IMPORTANT**]
+* Resign **"to"** something. [**VERY IMPORTANT**]
+* You resign **"to"** you faith but you resign **"from"** your company. [**VERY IMPORTANT**]
+* resign **"to"** my faith -> [Idiom].
+* resign **"from"** your company -> From my position or from my company.
 
+<img width="1402" height="802" alt="image" src="https://github.com/user-attachments/assets/2bed95ad-9674-4f27-96a3-42bc84033e09" />
+<img width="1412" height="795" alt="image" src="https://github.com/user-attachments/assets/00e05883-631c-4c9f-919a-eebb42072e3c" />
+<img width="1418" height="809" alt="image" src="https://github.com/user-attachments/assets/8bacf6de-ffa9-41f0-afaf-10d6517e8c1c" />
+<img width="1436" height="972" alt="image" src="https://github.com/user-attachments/assets/4e32af72-3a85-4168-a70f-936295e26621" />
+<img width="1439" height="987" alt="image" src="https://github.com/user-attachments/assets/b36be07a-ff64-4112-b3aa-68febb87bd40" />
 
+* of, to, up of, 
+* 24 -> Option **A**. [Got Correct]
+* You attribute your CAT success **"to"** your teachers.
+* made **"up of"**. [**VERY IMPORTANT**]
 
+<img width="1420" height="811" alt="image" src="https://github.com/user-attachments/assets/5453ced9-47d4-4429-b03f-b7e17156bbf4" />
+<img width="1442" height="968" alt="image" src="https://github.com/user-attachments/assets/44a00aeb-010a-444f-87e2-a17059db6ea9" />
 
+* by, to 
+* 25 -> Option **D**. [Got Correct]
+* Contrary **"to"**. [**VERY IMPORTANT**]
+* My experice of marriage is contrary **"to"** yours. [Example] [Correct]
 
+<img width="231" height="85" alt="image" src="https://github.com/user-attachments/assets/db876891-b9fb-455d-99f8-ad3e496163d3" />
 
+* Yes.
+* You are bound **"by"** something. [Correct] [**VERY IMPORTANT**]
+* I want to live a life like you but I am  bound **"by"** my marriage. [Example] [**VERY IMPORTANT**]
+* bound **"by"** -> Vows of marriage. [**VERY IMPORTANT**]
+* bound **"for"** -> Destination => The train is bound **"for"** Delhi. [**VERY IMPORTANT**]
+* bound **"to"** -> I am bound **"to"** loose my temper.  [**VERY IMPORTANT**]
+* bound together **"by"**.
 
+<img width="1420" height="819" alt="image" src="https://github.com/user-attachments/assets/11816c09-2142-4997-a601-8ea78a4f391f" />
+<img width="1428" height="815" alt="image" src="https://github.com/user-attachments/assets/9d05588e-5432-4369-a2e3-99d0bad95f04" />
+<img width="1438" height="973" alt="image" src="https://github.com/user-attachments/assets/3165ae3e-8ce5-4c77-8d14-5256b6ba0463" />
 
+* with, , to, to.
+* 26 -> Option **C**. [Got Correct]
+* On account **"of"**. [Idiomatic behaviour]
+* To account **"for"** -> To explain something. [MEANING] 
+* To account **"for"**. [**VERY IMPORTANT**]  [Idiomatic behaviour]
 
+<img width="1414" height="801" alt="image" src="https://github.com/user-attachments/assets/34572f99-757f-4737-ae8f-0318217684f4" />
 
+* On the account **"of"** diwali we are observing 3days of holiday. [Example]
+* How can I account **"for"** this mysterious being. [Example]
+* How can I account **"for"** her behaviour. [Example]
+* account **"for"** -> Explain her mysterious behaviour.
 
+<img width="1451" height="864" alt="image" src="https://github.com/user-attachments/assets/951ee05a-2883-4db7-942b-6ae8c1094838" />
+<img width="1437" height="980" alt="image" src="https://github.com/user-attachments/assets/dd0ceeb1-4f24-48eb-ac94-f6b2ac924c91" />
 
+* of/about, of, from
+* 27 -> Option **A**. [Got Correct]
+* Origin always takes **"of"**. [**VERY IMPORTANT**]
+* The origin **"of"** life. [Example]
 
+<img width="1275" height="837" alt="image" src="https://github.com/user-attachments/assets/4e301f30-fdf3-4d41-aa1e-932ec087cfd1" />
 
+* X originates **"from"** Y. [Correct] [**VERY IMPORTANT**]
+* Something is **"of"** primitive origin. [Correct] [**VERY IMPORTANT**]
+* Point **"of"** origin. [Correct] [**VERY IMPORTANT**]
+* About -> Topic of discussion -> Here we are talking about the **source** and not about the **Topic of discussion**. That's why **about** was not used in the 1st blank. 
+* About -> Topic of discussion.  [MEANING]
 
+<img width="1229" height="810" alt="image" src="https://github.com/user-attachments/assets/1a69d7fe-8585-446a-b2d8-a9bc322c15c4" />
+<img width="1430" height="971" alt="image" src="https://github.com/user-attachments/assets/93b02b7e-7c52-4948-bed4-61f2828f07d9" />
 
+* of, to, in, of 
+* 28 -> Option **B**. [Got Correct]
 
+<img width="1240" height="805" alt="image" src="https://github.com/user-attachments/assets/c46cfd57-b6de-4aa1-bded-e93e38f14dfa" />
+<img width="1254" height="822" alt="image" src="https://github.com/user-attachments/assets/c03fbe92-e780-49fc-a793-c636e3deecce" />
+<img width="1241" height="806" alt="image" src="https://github.com/user-attachments/assets/71810246-c7b8-41f9-892c-8ca7e2b13c8e" />
+<img width="1441" height="970" alt="image" src="https://github.com/user-attachments/assets/0fd5d328-c0ef-4da2-b349-b49151658412" />
 
+* of, to, of, 
 
+* 29 -> Option **C**. [Got Correct]
+* in accordance with -> Rule/law. [MEANING]
+* According to **"data"** -> As per **"data"**. [MEANING]
+* But for **"data"** -> Not possible.
+* with respect to **"data"** -> Not possible.
+* with respect to -> Used for certain subject matter. [MEANING]
+
+<img width="1236" height="804" alt="image" src="https://github.com/user-attachments/assets/7a2c40f7-c278-4778-a4ed-87d4c4473056" />
+
+* Divinization -> Elivating someone to the status of god, To give someone a divine status. [MEANING]
+* Divine -> Noun -> of, relating to, or proceeding directly from God. [MEANING]
+* To divine ->  
+
+<img width="1230" height="807" alt="image" src="https://github.com/user-attachments/assets/d501e924-0e0e-488c-b1a3-71e2ae076568" />
+<img width="1232" height="796" alt="image" src="https://github.com/user-attachments/assets/e1ee4ce0-9b37-435a-95ae-0c60f9c10a48" />
 
 
 
