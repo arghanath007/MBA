@@ -1911,14 +1911,17 @@
 * 2 -> Option **A**. [Got Correct]
 * 2 -> Looking for a negative word.
 * Democratic, Collaborative, Inclusive -> Positive words.
-* Autocratic -> Dictatorial, exercising total control, dominating. [MEANING]
-* cracy => Root word -> form of government. [MEANING]
+* Autocratic -> Dictatorial, exercising total control, dominating, totalitarian, tyranical. [MEANING]
+* Autocratic -> cracy => Root word. [MEANING]
+* cracy -> form of government.
+* Democracy -> cracy => Root word
 
 <img width="1401" height="792" alt="image" src="https://github.com/user-attachments/assets/f57d8bdc-f8d8-401e-87bc-8e36c833f73d" />
 <img width="1439" height="894" alt="image" src="https://github.com/user-attachments/assets/995265a7-aa60-4255-9b87-624ffdbcd102" />
 
 * 3 -> Option **A**. [Correct]
 * Option **B**. [Wrong]
+* etymology ->  a branch of linguistics concerned with etymologies. [MEANING]
 
 <img width="811" height="392" alt="image" src="https://github.com/user-attachments/assets/a9422e5b-f928-4d9a-81ca-b108b7ffa59f" />
 <img width="1439" height="903" alt="image" src="https://github.com/user-attachments/assets/12f9ad86-7f23-4af5-88bf-9b0dbd5ecc07" />
@@ -1926,101 +1929,290 @@
 * 4 -> Option **B**. [Correct]
 * Option **C**. [Wrong]
 
+<img width="1395" height="793" alt="image" src="https://github.com/user-attachments/assets/0c03c290-e8b2-4c9e-920e-5e7d4aad118b" />
+<img width="1409" height="795" alt="image" src="https://github.com/user-attachments/assets/ecf524e0-5561-4016-9011-012dedf74c22" />
+
+* Laconic -> Pithy, terse. [Synonymes] [MEANING]
+* Laconic -> Conveying idea in very limited words. [MEANING]
+* Verbose -> voluble, loquacious, garrulous. [Synonymes] [MEANING]
+
+<img width="1440" height="969" alt="image" src="https://github.com/user-attachments/assets/1a117d11-6d97-4533-9321-00a33485018d" />
+
+* 5 -> Option **B**. [Got Correct]
+
+<img width="824" height="403" alt="image" src="https://github.com/user-attachments/assets/08589ed2-a07f-4f98-bb20-9f7d68062fc7" />
+
+* Parasynthetic word -> Prefix, Suffix words. [**VERY IMPORTANT**]
+* Enlighten -> "En" is the prefix.
+
+<img width="1403" height="793" alt="image" src="https://github.com/user-attachments/assets/767121ec-82b3-4008-aa69-32efd0509f05" />
+<img width="229" height="67" alt="image" src="https://github.com/user-attachments/assets/a0248756-0281-448d-a278-22727d367bd5" />
+
+* No.
+
+<img width="1434" height="969" alt="image" src="https://github.com/user-attachments/assets/1fc4ba2b-e30a-43db-b0ed-be1e661e00c1" />
+
+* 6 -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* Relationship -> Opposites.
+* Pusillanimous -> Cowardly. [MEANING]
+* Mendacious -> Lying, untruthful.
+* Veritable -> Truthful.
+* Veritas -> Root word => Verify, Verity. [**VERY IMPORTANT**]
+* Veritas -> Truth. [MEANING]
+* Candid -> Frank. [MEANING]
+
+<img width="1304" height="933" alt="image" src="https://github.com/user-attachments/assets/ab4212cc-2169-4592-a686-e97a4009227e" />
+
+* Candid and Frank.
+
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/4e8b7951-9b9b-4d55-92b3-52d3c89957f3" />
 <img width="1416" height="812" alt="image" src="https://github.com/user-attachments/assets/8d560b61-1be6-4dc7-98cf-8193894f8dcf" />
 <img width="1425" height="906" alt="image" src="https://github.com/user-attachments/assets/c6e237c2-7ff1-4c0a-8e6b-a7d209a5cc1f" />
 
-* 5 -> Option **B**. [Got Correct]
-* Accomodation -> "cc" + "mm".
+* 7 -> Option **B**. [Got Correct]
+* Accomodation -> "cc" + "mm". [**VERY IMPORTANT**]
+* Accommodate -> to provide with something desired, needed, or suited. [MEANING]
 
+<img width="1409" height="798" alt="image" src="https://github.com/user-attachments/assets/b719519f-077d-4a59-a9d9-b9403b05f959" />
 <img width="1077" height="425" alt="image" src="https://github.com/user-attachments/assets/94482fc7-343d-44cc-a255-93805418c290" />
 <img width="1440" height="902" alt="image" src="https://github.com/user-attachments/assets/cb5d1756-c70b-4020-8665-5b66367e0fd8" />
 
-* 6 -> Option **C**. [Got Correct]
+* 8 -> Option **C**. [Got Correct]
+* 8, de-escalate -> Positive word needed.
 * Incendiary -> Causing conflict, provocative. [MEANING]
 * Conciliatory -> intended to gain goodwill or favor or to reduce hostility : tending or intended to conciliate. [MEANING]  
 * Belligerent -> Hostile, Causing conflict, unfriendly. [MEANING]
+* Negative Words -> Incendiary, Belligerent, provocative.
 
+<img width="1411" height="803" alt="image" src="https://github.com/user-attachments/assets/2c710874-b951-486f-a594-00bf6587d34b" />
 <img width="1410" height="790" alt="image" src="https://github.com/user-attachments/assets/5a212ea0-1bbc-49db-91eb-f6257d82caf5" />
 <img width="1430" height="892" alt="image" src="https://github.com/user-attachments/assets/2033d240-3c9e-4d20-b9d6-84b86dbe7941" />
 
-* 7 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* 9 -> Option **B**. [Correct] [**VERY IMPORTANT**]
 * Option **A**. [Wrong]
 
+<img width="890" height="378" alt="image" src="https://github.com/user-attachments/assets/5c5139a9-eac1-4539-8400-e0382e51e736" />
 <img width="869" height="383" alt="image" src="https://github.com/user-attachments/assets/6d3f7c6f-8f65-478c-a1d1-2779423dc5bc" />
 <img width="1433" height="901" alt="image" src="https://github.com/user-attachments/assets/7e2761f7-8394-46dc-b009-74499c7ac1c5" />
 
-* 8 -> Option **D**. [Correct] 
+* 10 -> Option **D**. [Correct] 
 * Option **C**. [Wrong]
 * Dis, able -> Root words => Disagreeable.
-* Uncomfortable -> Less exact word.
 
+<img width="737" height="319" alt="image" src="https://github.com/user-attachments/assets/1918e86f-3c03-47d2-9afd-0bb7934b2db1" />
+
+* Un, able -> Root words => Uncomfortable -> Very less exact word. [**VERY IMPORTANT**]
+* comfortable -> Independent word. [**VERY IMPORTANT**]  
+
+<img width="812" height="422" alt="image" src="https://github.com/user-attachments/assets/c7b11348-f13c-452d-88a5-097fe7bc88fd" />
 <img width="831" height="506" alt="image" src="https://github.com/user-attachments/assets/2db93f95-bc17-4424-b4ef-9a3ad7e79127" />
-
-* 9 -> Option **B**. [Correct] 
+ 
+* 11 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* 11 -> We are looking for a **noun** here. We want to name that "someone" or person. 
 * Option **A**. [Wrong]
-* Mulrilingual -> Adjective.
+* Multilingual -> Adjective -> We are discribing someone but we are not naming someone. [**VERY IMPORTANT**]
+* Polyglot ->  We are naming someone. [**VERY IMPORTANT**]
 * Polyglot -> Precise terminology.
-* Mulrilingual -> Broad terminology.
+* Multilingual -> Broad terminology.
 
+<img width="245" height="81" alt="image" src="https://github.com/user-attachments/assets/5f5348ba-79f0-4c95-bc01-4f3e521c1d5f" />
+
+* Yes, Multilingual.
+
+<img width="346" height="82" alt="image" src="https://github.com/user-attachments/assets/9cad4dd2-4bf5-47de-bc17-6cfb477b4d26" />
+
+* Yes.
+
+<img width="1085" height="488" alt="image" src="https://github.com/user-attachments/assets/87375b67-8c3c-4431-b824-560ce6978abe" />
 <img width="1011" height="525" alt="image" src="https://github.com/user-attachments/assets/b56daa29-afd0-4b20-b9b0-d058c85c122a" />
 <img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/18f6141f-12d5-4609-8861-95222d3d4691" />
+<img width="1435" height="960" alt="image" src="https://github.com/user-attachments/assets/6b235b4b-4552-4118-8f77-c4bf5069758c" />
 
-* 10 -> Option **A**. [Correct]
-* masculine -> Male.
-* Start from 36mins.
+* 12 -> Option **A**. [Got Correct] [**VERY IMPORTANT**]
+* masculine -> Male. [**VERY IMPORTANT**]
+* "Contain" is not same as "Container".
+* "Encourage" is not same as "courage".
+* "Cocoa" is not same as "chocolate".
+* Relationship is called as Kangaroo.
 
+<img width="901" height="433" alt="image" src="https://github.com/user-attachments/assets/388d611b-d3d8-42b4-9505-e08c233cd6de" />
+<img width="1436" height="969" alt="image" src="https://github.com/user-attachments/assets/27ee88b2-b2a2-45f7-a119-3160468c6169" />
 
+* 13 -> Option **C**. [Got Correct]
+* Nuanced -> Subtle, reaveling, balanced. [MEANING]
 
+<img width="1036" height="553" alt="image" src="https://github.com/user-attachments/assets/76680f14-b1d6-4c5e-b3c1-1127c1fe5214" />
+<img width="1437" height="952" alt="image" src="https://github.com/user-attachments/assets/ed5b3e07-3655-42be-9cf2-6fa75efb7700" />
 
+* 14 -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* Root word -> Phil.
+* Phil -> love. [MEANING]
+* Philosophy -> Lover of abstract thinking. [MEANING]
+* Philanthropist -> Lover of mankind. [MEANING]
+* Anthropos -> Mankind, humans like. [MEANING]
+* Root word -> Photo.
+* Photo(Photons) -> light. [MEANING]
+* Root word -> Geo.
+* Geo -> Earth. [MEANING]
+* Root word -> Bio.
+* Bio -> Life. [MEANING]
+* Graphy -> Study. [MEANING]
 
+<img width="1413" height="808" alt="image" src="https://github.com/user-attachments/assets/6fb7ea80-9fed-46d5-9ab1-2a2cab7854ab" />
+<img width="1438" height="968" alt="image" src="https://github.com/user-attachments/assets/73becdd8-ee68-4d48-b4e8-418faeca388e" />
 
+* 15 -> Option **C**. [Correct] [**VERY IMPORTANT**]
+* Vapid -> Insipid, dull, boring, unoriginal, trite. [MEANING]
+* Cogent -> Valid, reasonable. [MEANING]
 
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/13a5c362-6de0-46b8-a30a-ce713b4134ba" />
+<img width="1395" height="797" alt="image" src="https://github.com/user-attachments/assets/16573328-ba94-448b-8195-7c2770b0c351" />
 
+* Instead of "compelling", it should have been "unconvincing" -> unconvincing hypothesis.
 
+<img width="1431" height="967" alt="image" src="https://github.com/user-attachments/assets/3d16c6fb-34f9-4edd-aafc-122fe0659564" />
 
+* 16 -> Option **C**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* Flock of birds. [Flock -> Birds] [**VERY IMPORTANT**]
+* Muder of crows. [Muder -> crows] [**VERY IMPORTANT**]
+* Unkindness of Ravens. [Unkindness -> Ravens] [**VERY IMPORTANT**]
+* Parliament of Owls.  [Parliament -> Owls] [**VERY IMPORTANT**]
 
+<img width="930" height="458" alt="image" src="https://github.com/user-attachments/assets/1a8d358f-890e-48c5-a8d7-349c142986c4" />
+<img width="1434" height="980" alt="image" src="https://github.com/user-attachments/assets/aa04e497-580c-4fe9-ab46-e9b1b487dc35" />
 
+* 17 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* portmanteau -> a word or part of a word made by combining the spellings and meanings of two or more other words or word parts (such as smog from smoke and fog).  [MEANING]
 
+<img width="822" height="372" alt="image" src="https://github.com/user-attachments/assets/e67d947c-4fe6-4b44-9ae9-b4c362b2cd09" />
+<img width="1431" height="972" alt="image" src="https://github.com/user-attachments/assets/b6dc7c27-5c0f-48f2-b384-ef17516e4c35" />
 
+* 18 -> Option **A**. [Got Correct] [**VERY IMPORTANT**]
+* Peri -> Prefix => Perimeter.
+* Peri -> Around, surrounding. [MEANING]
 
+<img width="1047" height="511" alt="image" src="https://github.com/user-attachments/assets/c59b0be4-4059-45fc-9aa5-b9c75edd550b" />
+<img width="1440" height="973" alt="image" src="https://github.com/user-attachments/assets/b599b1e7-bae7-462b-a51e-35adf1f71072" />
 
+* 19 -> Option **B**. [Got Correct]
+* Oxymoron -> Two contradictory words placed together. [MEANING] [**VERY IMPORTANT**]
 
+<img width="771" height="384" alt="image" src="https://github.com/user-attachments/assets/59ac6fef-651e-4af8-ad93-8112b54ec240" />
+<img width="1435" height="965" alt="image" src="https://github.com/user-attachments/assets/30618f7a-82fc-420b-83b6-84379a2bc7e7" />
 
+* 20 -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+* Annoyed -> Mildly angry. [MEANING]
+* Irritated -> Moderately angry. [MEANING]
+* Furious -> very angry. [MEANING]
+* Apoplectic -> extremely angry, uncontrolable rage. [MEANING]
 
+<img width="1410" height="813" alt="image" src="https://github.com/user-attachments/assets/30473726-5983-4d67-9e1a-3826a7f06325" />
+<img width="1432" height="975" alt="image" src="https://github.com/user-attachments/assets/086b521f-cfe0-419a-b0b4-23374d8ae484" />
 
+* 21 -> Option **B**. [Correct] [**VERY IMPORTANT**]
+* Obsequious -> Extremely obedient, servile to authority, obedient to a degree to please someone. [MEANING]
+* obedient -> Positive word.
+* Obsequious -> Not a Positive word -> Negative word.
+* Subservient -> Remember it using the word "Servant". [**VERY IMPORTANT**]
 
+<img width="1406" height="795" alt="image" src="https://github.com/user-attachments/assets/056ae99f-7e26-43ec-94d4-15062159e3c3" />
+<img width="1412" height="972" alt="image" src="https://github.com/user-attachments/assets/8d5a90a7-9547-47b8-acb6-d84984ebef2f" />
 
+* 22 -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* Demeanor -> Behaviour, attitude. [MEANING]
+* Demure -> Shy, reserved, modest. [MEANING]
+* Brazen -> Shamelessly bold. [MEANING]
+* Ostentatious -> Pompous, showy, flaunting. [MEANING]
+* Garrulous -> Loquacious, Talkative. [MEANING]
 
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/0f88b395-b337-42a9-ac07-810737d58796" />
+<img width="1433" height="968" alt="image" src="https://github.com/user-attachments/assets/e17319dd-174d-4d78-9d1c-a36434187a02" />
 
+* 23 -> Option **A**. [Correct] [**VERY IMPORTANT**]
+* Option **D**. [Wrong]
+* Soporific -> Sleep inducing. [MEANING]
 
+<img width="1401" height="393" alt="image" src="https://github.com/user-attachments/assets/616926db-1f75-4a11-987a-6774d10c3587" />
+<img width="1437" height="958" alt="image" src="https://github.com/user-attachments/assets/a6961df7-2852-4e79-8436-64d1e8536ccb" />
 
+* 24 -> Option **C**. [Correct] [**VERY IMPORTANT**] [READ THE QUESTION CAREFULLY]
+* Option **B**. [Wrong]
+* Impassionate -> Full of passion. [MEANING] [**VERY IMPORTANT**]
+* Dispassionate -> No passion. [MEANING] [**VERY IMPORTANT**]
 
+<img width="319" height="77" alt="image" src="https://github.com/user-attachments/assets/2962ce38-b1cd-4721-99fe-c6f83104dcaa" />
 
+* Impassive -> Dull, lifeless, full passive mode -> Full of passiveness. [MEANING] [**VERY IMPORTANT**]
 
+<img width="1420" height="808" alt="image" src="https://github.com/user-attachments/assets/e246f571-a54c-4763-9fe0-618d279669b7" />
+<img width="310" height="80" alt="image" src="https://github.com/user-attachments/assets/362d1b39-1bc6-4da5-a686-7f91dbf1814f" />
 
+* Yes. [**VERY IMPORTANT**]
 
+<img width="1434" height="972" alt="image" src="https://github.com/user-attachments/assets/f4ea2455-d5f9-4036-821a-1c3f5fa7aaf8" />
 
+* 25 -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* Combination/Joining of two separate independent words into a single complete word.  [**VERY IMPORTANT**]
 
+<img width="810" height="345" alt="image" src="https://github.com/user-attachments/assets/445d83ae-ba50-4bd5-a922-5868e5bd82b7" />
+<img width="1440" height="978" alt="image" src="https://github.com/user-attachments/assets/36e4bbae-23e5-4d5b-b3d0-eed7e8d65a01" />
 
+* 26 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
+* The Relationship is **opposite**.
+* Ephemeral -> Transient, lasting for a short time, fleeting. [Synonyme] [MEANING]
+* fleeting -> Gone in a moment. [MEANING]
+* Immutable -> Unchangable, fixed. [MEANING]
+* Opposite of Immutable -> Something that is changing or changes quickly.  [MEANING]
+* Opposite of Immutable -> Transient. [Opposite][MEANING]
+* Transient -> lasting for a short time, transformation, continuously changing. [MEANING]
+* Epistolary -> Anything relating to letters. [MEANING]
+* Gregarious -> Social, open, extrovert. [MEANING]
+* Greg -> Root word.
+* Greg -> relates to group. [MEANING]
+* extrovert -> Vert -> Root word.
+* Vert -> Turn about, Opposite. [MEANING]
+* Vert -> extrovert, introvert, convert. [MEANING]
 
+<img width="1429" height="819" alt="image" src="https://github.com/user-attachments/assets/fb94cd0d-af11-484f-89e5-33896544a706" />
+<img width="1437" height="982" alt="image" src="https://github.com/user-attachments/assets/79235564-5102-407b-bd1b-82bdb3bd75e1" />
 
+* 27 -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **A**. [Wrong]
+* ity -> SuffiX.
+* ity -> Act of. [MEANING]  
 
+<img width="1392" height="791" alt="image" src="https://github.com/user-attachments/assets/c59d776b-d9e8-4eb7-82eb-d45ba0ad821f" />
+<img width="1406" height="785" alt="image" src="https://github.com/user-attachments/assets/71097316-30ca-45e2-9eee-3e9b6e1297ef" />
+<img width="1436" height="977" alt="image" src="https://github.com/user-attachments/assets/c4562b0c-80b5-4def-b290-1dd2fdb971ef" />
 
+* 28 -> Option **A**. [Got Correct]
+* Broken the ice -> Start a conversation. [**VERY IMPORTANT**]
+* Hit the sack -> Go to sleep. [**VERY IMPORTANT**]
+* bent the rules -> To do something illegal. [**VERY IMPORTANT**]
+* turned over a new leaf -> to make a fresh start or change one's behavior for the better. [**VERY IMPORTANT**]
 
+<img width="795" height="399" alt="image" src="https://github.com/user-attachments/assets/4da63965-4476-4a08-b850-15651f574ef4" />
+<img width="1188" height="490" alt="image" src="https://github.com/user-attachments/assets/b4a3725c-d650-4525-b59e-5bb1b0254e1f" />
+<img width="1442" height="981" alt="image" src="https://github.com/user-attachments/assets/92a6ba1b-cd91-4d1a-9668-704a2bc78d8a" />
 
+* 29 -> Option **D**. [Got Correct]
+* Predictable -> Predict + able.
 
+<img width="781" height="511" alt="image" src="https://github.com/user-attachments/assets/6269fe42-7b4f-42d8-a290-f262d25f99fa" />
+<img width="1441" height="970" alt="image" src="https://github.com/user-attachments/assets/007e0d5d-5b71-4602-938d-afe6d58a82a0" />
 
+* 30 -> Option **A**. [Got Correct]
+* Misanthrope -> Hater of mankind.
+* Misanthrope -> Against.
 
-
-
-
-
-
-
-
-
-
-
+<img width="1407" height="395" alt="image" src="https://github.com/user-attachments/assets/bcb95243-e820-4a14-b431-a195d7effaa7" />
 
 
 
