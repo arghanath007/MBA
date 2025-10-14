@@ -5883,6 +5883,353 @@
 
 * Prepositions -> Practice, Practice & Practice.
 
+### Prepositions (14) [27]
+
+* Preposition -> Patience in choosing the **options**. [**VERY IMPORTANT**]
+
+<img width="297" height="62" alt="image" src="https://github.com/user-attachments/assets/190e42b5-433c-4fa4-b795-9e07e4d52b30" />
+
+* We are always divided **on** something.
+* We are divided **on** the topic.
+
+<img width="1213" height="784" alt="image" src="https://github.com/user-attachments/assets/f2472c1b-04da-4a44-a2b5-56344bd96658" />
+ 
+* Object of Preposition -> When Preposition comes, it doesn't come alone, it always comes with something along with it. [**VERY IMPORTANT**]
+* the table, noon -> Object of Preposition.
+* on, before -> Preposition
+* Noon -> Noun.
+* on -> Position/Place.
+* before -> Time.
+
+<img width="1230" height="806" alt="image" src="https://github.com/user-attachments/assets/edb55148-1212-4a3d-a51e-8c702836d912" />
+
+* Preposition Position/Place.
+* I am in the train. [in -> position]
+* I am interested in you. [in -> not showing position] [Idiomatic usage]
+* idiomatic -> of, relating to, or conforming to idiom. [MEANING]
+* How can you be blind to my suffering? [Correct] [Example]
+* to -> Preposition.
+* my suffering -> Object of Preposition. [Correct] [Example]
+* How can I be blinded by my ego?
+* Liking for something.
+
+<img width="1226" height="801" alt="image" src="https://github.com/user-attachments/assets/122b1c2f-1368-4a85-a7f5-79054e46408f" />
+
+* You were on time.
+* I have been playing cricket since 10AM in the morning. [Present Perfect Continuous Tense]
+* She walked through the jungle.
+* From Kashmir to Kolkata.
+* You walk along the beach.
+
+<img width="1239" height="819" alt="image" src="https://github.com/user-attachments/assets/87a4fbd2-0001-4d1f-93b8-a6f3ae1a86ef" />
+<img width="1237" height="798" alt="image" src="https://github.com/user-attachments/assets/6b896305-b166-41cf-bb31-ef10c1e6fb00" />
+<img width="1241" height="808" alt="image" src="https://github.com/user-attachments/assets/5aa7958a-5d7b-42f9-93e2-92d94902181a" />
+<img width="1226" height="809" alt="image" src="https://github.com/user-attachments/assets/34cfbafc-65e9-4908-ac4f-dc6e6de3190f" />
+<img width="1230" height="797" alt="image" src="https://github.com/user-attachments/assets/19f2dd5d-37f5-4ff3-94d5-77d60b7ac285" />
+
+* at a loss of words.
+
+<img width="1247" height="798" alt="image" src="https://github.com/user-attachments/assets/82d35713-2088-4078-99ed-d9ee83d04127" />
+<img width="1252" height="807" alt="image" src="https://github.com/user-attachments/assets/951060ad-a368-44a9-a431-71965d85aef4" />
+
+* She left the city for good.
+* for good -> Permanently. [MEANING]
+* To let -> Infinitive -> Not a preposition.
+
+<img width="1222" height="807" alt="image" src="https://github.com/user-attachments/assets/d1737293-033d-4dd3-8e25-cbefda238083" />
+<img width="1271" height="797" alt="image" src="https://github.com/user-attachments/assets/79b4ceb6-bf7c-4f99-82ff-c44b342f9841" />
+
+* ran into -> Phrasal verb -> Verb + Preposition. [**VERY IMPORTANT**]
+* ran into -> Met accidentally, by change. [MEANING]
+* I ran into him. [Correct]
+* I ran into him by chance. [Wrong]
+* I ran into him at the station. [Correct]
+* out of order -> Ideomatic 
+
+#### Preposition Practice [**VERY IMPORTANT**]
+
+<img width="1235" height="802" alt="image" src="https://github.com/user-attachments/assets/f27ec8d5-5a99-4a84-9454-fda26fa408e3" />
+<img width="1441" height="974" alt="image" src="https://github.com/user-attachments/assets/2966c7d7-514e-47ac-98a8-79f6867efc07" />
+
+* 1 -> Option **C**. [Got Correct]
+
+<img width="1218" height="808" alt="image" src="https://github.com/user-attachments/assets/de463ad3-1f39-4c7f-a3d9-cd82c521936a" />
+<img width="1438" height="983" alt="image" src="https://github.com/user-attachments/assets/530c065c-2d64-43b4-a66c-20c6580873bf" />
+
+* 2 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1233" height="812" alt="image" src="https://github.com/user-attachments/assets/5e3e27ee-22df-4a4b-b256-82d98c0c599d" />
+<img width="1442" height="982" alt="image" src="https://github.com/user-attachments/assets/1c267ee0-a18c-41d7-a3b1-333d91cadbc7" />
+
+* 3 -> Option **C**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="465" height="181" alt="image" src="https://github.com/user-attachments/assets/ec8fdcc9-58d0-482f-b61d-591fc873dd72" />
+
+* Yes.
+* they too -> Addition -> Means "Similar/Similarity".
+* Round off -> Quantities, Figures. [MEANING]
+* Round out -> To complete. [MEANING]
+
+<img width="1224" height="804" alt="image" src="https://github.com/user-attachments/assets/24b63d27-1e9b-4606-baf6-fb2c0febf5dd" />
+<img width="1445" height="973" alt="image" src="https://github.com/user-attachments/assets/505e81ce-1975-41be-bf20-b326f508f4fa" />
+
+* 4 -> Option **A**. [Got Correct]
+* Take hold **of** something.
+* The should of their child. [of -> Belonging]
+* The soul **of** the dead. [Correct]
+* 3rd blank -> heights -> to -> position.
+
+<img width="1239" height="815" alt="image" src="https://github.com/user-attachments/assets/fb9f5665-2d67-4d61-8de2-a0d7e0fdbe5d" />
+<img width="1229" height="799" alt="image" src="https://github.com/user-attachments/assets/a38a335c-a780-4f8f-ba93-65450b6d2f72" />
+
+* At the height of his power. [Correct]
+
+<img width="1419" height="968" alt="image" src="https://github.com/user-attachments/assets/c257173c-43b0-43e0-b79c-e8c2cfeb7b26" />
+
+* 5 -> Option **D**. [Correct] [**VERY IMPORTANT**]
+* Option **C**. [Wrong]
+* **At a time** when everyone was fighting for survival. [Correct]
+* Parel -> Danger. [MEANING]
+* In times of parel. [Correct]
+* At a time. [Correct]
+* In times, At a time -> Idiom.
+* a land -> Sometimes it means "Country" as well. [**VERY IMPORTANT**]
+* In a land of prosperity.
+
+<img width="1237" height="810" alt="image" src="https://github.com/user-attachments/assets/c42da733-ad68-4031-a165-13bdbf6e85cf" />
+<img width="1240" height="808" alt="image" src="https://github.com/user-attachments/assets/c7f9fd7b-35d7-445b-b354-c63f32e25750" />
+
+* 5 -> Talking about "Society and time period".  [**VERY IMPORTANT**]
+
+<img width="1229" height="805" alt="image" src="https://github.com/user-attachments/assets/57bd7d6c-3995-40a0-86e6-ba1e67ab231f" />
+<img width="1429" height="970" alt="image" src="https://github.com/user-attachments/assets/4edf12eb-df8c-4669-806c-ed8529de6f5a" />
+
+* 6 -> Option **B**. [Got Correct]
+
+<img width="1222" height="811" alt="image" src="https://github.com/user-attachments/assets/3be21a68-37b6-4338-a82c-56a660518013" />
+<img width="1432" height="981" alt="image" src="https://github.com/user-attachments/assets/05451502-c5cf-4018-8e6e-f577b9971f5e" />
+
+* 7 -> Option **A**. [Correct]
+* Option **D**. [Wrong]
+* Hearth -> a brick, stone, or concrete area in front of a fireplace. [MEANING]
+* We generally drive/drove someone **'of"** something.  [**VERY IMPORTANT**]
+* out -> Usually takes **'of"**. [**VERY IMPORTANT**] [idioms]
+* away -> Usually takes **'from"**. [**VERY IMPORTANT**] [idioms]
+
+<img width="1206" height="802" alt="image" src="https://github.com/user-attachments/assets/fea0c476-18f3-4b9d-99bc-8e67e6e4838b" />
+<img width="1427" height="967" alt="image" src="https://github.com/user-attachments/assets/868cd3bd-1484-4b70-a51e-c9b2e62daac4" />
+
+* 8 -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Out -> It takes **"of"**. [**VERY IMPORTANT**] [idioms]
+* My father drove me out of my house. [Correct]
+* out -> of.
+
+<img width="1225" height="804" alt="image" src="https://github.com/user-attachments/assets/abb64e02-01ac-40b2-8d3b-b91f331005d9" />
+
+* May I know whom did you go with? [Correct]
+* know -> It takes **"with"**. [**VERY IMPORTANT**] [idioms]
+* Split Preposition.
+* Alinate -> To separate. [MEANING]
+
+<img width="1235" height="805" alt="image" src="https://github.com/user-attachments/assets/55962fb4-3920-4ddf-b11a-7079dbc80b86" />
+<img width="1442" height="978" alt="image" src="https://github.com/user-attachments/assets/f7351563-a4a7-4f2c-8c2b-555352f54985" />
+
+* 9 -> Option **A**. [Correct]
+* Option **B**. [Wrong]
+* Among -> Used for relationship. [MEANING] [**VERY IMPORTANT**]
+* Atmosphere -> 3D object. [**VERY IMPORTANT**]
+* In the atmosphere -> With atmosphere we use **"in"**. [**VERY IMPORTANT**]
+* Atmosphere **"of"** the earth.
+
+<img width="1231" height="811" alt="image" src="https://github.com/user-attachments/assets/0ea9a9b9-1204-44af-83b0-12e399c99aea" />
+<img width="1242" height="808" alt="image" src="https://github.com/user-attachments/assets/1032ad0a-c7ce-4a16-85c4-2bf88fde6c27" />
+<img width="1219" height="803" alt="image" src="https://github.com/user-attachments/assets/fd5e97a7-82d8-4a3f-b787-43b399e3292a" />
+<img width="1438" height="982" alt="image" src="https://github.com/user-attachments/assets/8933b9ee-d5d7-451c-a214-79964e0efc79" />
+
+* 10 -> Option **A**. [Got Correct]
+* Creation **"of"** something.
+* Creation **"of"** Pakistan.
+
+<img width="1421" height="818" alt="image" src="https://github.com/user-attachments/assets/b488d7ee-d01b-4ac3-ad8f-ae230d399009" />
+
+* 11 -> Option **A**. [Correct]  [**VERY IMPORTANT**]
+* [**VERY IMPORTANT**]
+* Heresy -> Going against the church. [MEANING]
+* Tribunal -> Court. [MEANING]     
+
+<img width="1418" height="799" alt="image" src="https://github.com/user-attachments/assets/b016a55b-a385-496d-b46a-877280b57869" />
+<img width="1407" height="804" alt="image" src="https://github.com/user-attachments/assets/542a4765-76fb-4890-9272-b58b38be5c07" />
+
+* John, inspite of not being well, scored good marks in CAT.
+* John -> Subject(S).
+* scored -> Verb(V)
+
+<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/38dfa386-2f4c-46b4-a4cf-9fc73d565cfe" />
+<img width="1416" height="809" alt="image" src="https://github.com/user-attachments/assets/879e1f4c-7dbb-47de-be97-dad53bf9a9ca" />
+<img width="1441" height="975" alt="image" src="https://github.com/user-attachments/assets/ca7f0356-186e-43cc-acb7-974e09002b98" />
+
+* 12 -> Option **B**. [Correct] 
+* Option **A**. [Wrong]
+
+<img width="1404" height="806" alt="image" src="https://github.com/user-attachments/assets/0a3df40d-f7eb-44be-a3e8-295b7dc93563" />
+
+* 12 -> Ans -> Both Option **A & B**.
+
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/59a47a50-69e2-46d6-ae46-5bf60d1d0988" />
+<img width="1440" height="989" alt="image" src="https://github.com/user-attachments/assets/92eec36e-48ef-46b8-93ac-feb2437c3bd7" />
+
+* 13 -> Option **C**. [Correct] 
+* Option **A**. [Wrong]
+* Act **upon**. [**VERY IMPORTANT**]
+* 1st blank -> You compete **"with"** someone. [**VERY IMPORTANT**]
+* Volumes -> Book or movies -> **"In"**. [**VERY IMPORTANT**]
+
+<img width="1388" height="802" alt="image" src="https://github.com/user-attachments/assets/b4c8fdbe-34ae-4842-b4e3-cadef3a8a3cb" />
+<img width="1431" height="986" alt="image" src="https://github.com/user-attachments/assets/ac88525b-3b20-4839-9f1c-3c0ad94f9321" />
+
+* 14 -> Option **A**. [Correct] 
+* Option **B**. [Wrong]
+* as **"in"**.
+* want **"of"** -> Shortage of, lack of.  [**VERY IMPORTANT**] [idioms] [MEANING]
+* For want of a pen, the exam was cancelled. [Correct]
+
+<img width="1197" height="812" alt="image" src="https://github.com/user-attachments/assets/20215c78-12aa-4f7a-93fa-47b6a3983006" />
+<img width="1441" height="988" alt="image" src="https://github.com/user-attachments/assets/dd5f5ccf-c760-44f1-ace4-bbf59999cd96" />
+
+* 15 -> Option **A**. [Correct] 
+* Option **D**. [Wrong]
+* I spent my time **"in"** something. [**VERY IMPORTANT**]
+* aid -> Help. [MEANING]
+* With aid we use **"of"**. [**VERY IMPORTANT**]
+* Propitious -> Fortunate.  [MEANING]
+* Aid **"of"** someoen -> Help **"of"** someone. [**VERY IMPORTANT**]
+* His best research is spent **"on"** this. [**VERY IMPORTANT**] [idioms]
+* He spends his money **"on"** something. [**VERY IMPORTANT**] [idioms]
+
+<img width="1206" height="810" alt="image" src="https://github.com/user-attachments/assets/43c68f4b-c627-4bc6-b7ac-ca7ceba34e10" />
+
+* Preposition -> Patience in choosing the **options**. [**VERY IMPORTANT**]
+
+### Preposition Practice (15) [28]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
