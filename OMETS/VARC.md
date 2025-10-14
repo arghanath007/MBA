@@ -2214,6 +2214,95 @@
 
 <img width="1407" height="395" alt="image" src="https://github.com/user-attachments/assets/bcb95243-e820-4a14-b431-a195d7effaa7" />
 
+### RC Practice (14) [26]
+
+<img width="1403" height="808" alt="image" src="https://github.com/user-attachments/assets/82fd48df-e9dc-4d7f-b709-21da58a88272" />
+
+* RC1.
+* Approach for solving RCS in OMET exams -> DO KEYWORD MATCHING, Look at quick solve Questions, Swift and Speed approach. [**VERY IMPORTANT**]
+
+<img width="1437" height="974" alt="image" src="https://github.com/user-attachments/assets/0a531d32-e972-49b0-961f-0a76a2b58c5e" />
+
+* 1 -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1412" height="811" alt="image" src="https://github.com/user-attachments/assets/34480f53-bf91-402a-ba05-001dd1e130d9" />
+<img width="1439" height="974" alt="image" src="https://github.com/user-attachments/assets/5f38d0b6-0439-4e09-b3d1-a9ea3e8ad8e0" />
+
+* 2 -> Option **D**. [Got Correct]
+
+<img width="1419" height="802" alt="image" src="https://github.com/user-attachments/assets/014aeae2-c0d6-4cfb-a6fe-5fbba46550fa" />
+<img width="1428" height="797" alt="image" src="https://github.com/user-attachments/assets/0470999e-17e1-4cbe-9f7a-997143029e35" />
+
+* B -> Too dramatic.
+* C, E -> Out of Scope.
+
+<img width="1439" height="974" alt="image" src="https://github.com/user-attachments/assets/9070b929-a701-448b-a390-d058fdbceb78" />
+
+* 3 -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1417" height="805" alt="image" src="https://github.com/user-attachments/assets/1103bc73-8e5c-4a57-b95c-8d53b5aadccf" />
+
+* B -> Juke joint is places not music.
+* D -> Contrary options.
+* E -> Out of Scope.
+
+<img width="1436" height="974" alt="image" src="https://github.com/user-attachments/assets/ca324259-9d05-4d65-83c3-937ed2c5e86f" />
+
+* 4 -> Option **C**. [Got Correct]
+
+<img width="1416" height="798" alt="image" src="https://github.com/user-attachments/assets/96422208-ca08-46da-83ae-4eaac0304821" />
+
+* A -> Not sentimental.
+* B -> Not economic.
+* D -> Not strictly and not technical.
+* E -> Not critical and not dismissive.
+* Toweling down -> Wipe it down. [MEANING]
+* Unwieldy -> Not easy, complicated, weird. [MEANING]
+* Proliferate -> Profitable, Fruitful, gave rise to. [MEANING]
+* unveiled -> Uncovered. [MEANING]
+* Dwindle -> Decrease. [MEANING]
+* Ubiquitous -> Universal, present everywhere. [MEANING]
+
+<img width="1414" height="805" alt="image" src="https://github.com/user-attachments/assets/206c8b88-dd7f-45a5-9cd8-12b0f827824f" />
+<img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/78183711-cc40-4da4-9c89-323a6e4e4598" />
+
+* RC2.
+
+<img width="1455" height="963" alt="image" src="https://github.com/user-attachments/assets/70c92aaa-6130-4434-a84c-e6e756d5e29c" />
+
+* 1 -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1433" height="972" alt="image" src="https://github.com/user-attachments/assets/3e188564-184d-49d4-9d85-157c33356219" />
+
+* 2 -> Option **E**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1440" height="977" alt="image" src="https://github.com/user-attachments/assets/1815768a-902e-4f78-9cf1-64b0e3a42a43" />
+
+* 3 -> Option **C**. [Got Correct]
+
+<img width="1443" height="968" alt="image" src="https://github.com/user-attachments/assets/1d624c29-f7fe-4eaf-8d26-84302fe73dd1" />
+
+* 4 -> Option **D**. [Got Correct]
+* meadow ->  land that is covered or mostly covered with grass. [MEANING]
+* scraps -> Small pieces. [MEANING]
+* sloughed skin -> Dead/shed skin. [MEANING]
+* Invasive -> Population has increased very much. [MEANING]
+* Taxonomists ->
+* Taxonomy -> 
+
+
+
+
+
+
+
+
+
+
 
 
 
