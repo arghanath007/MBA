@@ -971,29 +971,85 @@
 
 ### Profit Loss (4) (10)
 
+<img width="1404" height="799" alt="image" src="https://github.com/user-attachments/assets/e42555db-0694-4112-922a-0cf2fadc520a" />
+<img width="1430" height="819" alt="image" src="https://github.com/user-attachments/assets/56525a28-a1d1-4a10-82de-bde09eec8d58" />
+<img width="1416" height="803" alt="image" src="https://github.com/user-attachments/assets/f0d30a06-fb7c-4bae-b3e5-68ff024891f7" />
+<img width="1436" height="813" alt="image" src="https://github.com/user-attachments/assets/9918af31-2952-416d-9b39-336568a40191" />
 
+* 1.
 
+<img width="1406" height="808" alt="image" src="https://github.com/user-attachments/assets/e5e76aae-9452-4b4b-add7-3dacca37fa01" />
+<img width="1426" height="805" alt="image" src="https://github.com/user-attachments/assets/a68fe8b7-b60f-4aa3-ad5f-d32c992837b9" />
+<img width="1427" height="806" alt="image" src="https://github.com/user-attachments/assets/6c800ae5-7926-465f-8f2e-4adc323bc768" />
+<img width="1428" height="805" alt="image" src="https://github.com/user-attachments/assets/f422e6d9-4f8f-4245-b392-957f754f6375" />
 
+* If 's' came as '14' instead of '7'.
 
+<img width="1425" height="796" alt="image" src="https://github.com/user-attachments/assets/d473b8c8-95d0-455f-8502-f7d9056b967a" />
+<img width="1420" height="785" alt="image" src="https://github.com/user-attachments/assets/161b747d-107b-43f8-a4de-433f5f15a9e4" />
+<img width="1412" height="796" alt="image" src="https://github.com/user-attachments/assets/6c23814d-580c-42b9-8158-a52d8b7ebe55" />
 
+* Percentage increase and Percentage point increase. [**VERY IMPORTANT**]
+* 30 -5 -> 25% decrease.
+* 150 - 37.5 -> 112.5
+* We are multiplying with '20' to make the calculations easier.
 
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/fb16e3ad-ed06-4553-bdd6-f800bd6e3d67" />
 
+* 2.
 
+<img width="1441" height="911" alt="image" src="https://github.com/user-attachments/assets/dcf85c69-3e35-41d9-8d60-94729dd8c660" />
 
+* 48 * 1/3 -> 16.
+* p% -> 16/48 * 100 -> 33.33%
+* 1/3 -> 33.33
 
+<img width="1410" height="803" alt="image" src="https://github.com/user-attachments/assets/75e67ee9-dae2-40d3-bd5a-9090e67b9bc6" />
 
+* 48/12 -> 4.
+* 12/12 -> 1.
+* 60/12 -> 5.
+* 48:12:60 -> 4:1:5.
+* 4 + 1 + 5 -> 10.
 
+<img width="1424" height="812" alt="image" src="https://github.com/user-attachments/assets/dde73f10-4324-48c6-ba70-6c4df88290c4" />
+<img width="1418" height="800" alt="image" src="https://github.com/user-attachments/assets/503ccdc8-4949-44f8-adca-ec9c74c7c6c9" />
+<img width="1423" height="802" alt="image" src="https://github.com/user-attachments/assets/65dabd8c-cf75-46f7-a0cc-28ab473b0134" />
+<img width="1413" height="819" alt="image" src="https://github.com/user-attachments/assets/02356603-a63f-4951-a20f-7179edef0d78" />
+<img width="1429" height="805" alt="image" src="https://github.com/user-attachments/assets/bca69be6-841b-4002-9780-e5d49b361b63" />
 
+* 3.
 
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/911538ee-9e52-41bb-a000-65bdae8bd4d1" />
 
+* Ratio of percentages.
 
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/3da48dca-8064-45eb-afb9-84c30a51bc54" />
 
+* All are in percentages.
 
+<img width="1418" height="793" alt="image" src="https://github.com/user-attachments/assets/49204d49-52f5-4fe3-bd41-bc3f553064f6" />
+<img width="1406" height="800" alt="image" src="https://github.com/user-attachments/assets/c1303e3a-ce54-44bd-a691-e75bc505009d" />
 
+* Discount percentage.
 
+<img width="1419" height="797" alt="image" src="https://github.com/user-attachments/assets/d727277d-b11e-445d-bb0d-eafb5768a1d0" />
 
+* 40-3x = 28
+* 3x = 12
+* x = 4
+* P% -> 7x -> 28%.
 
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/ce225a2b-a4a7-40fa-b63f-d77217b17097" />
+<img width="1414" height="781" alt="image" src="https://github.com/user-attachments/assets/cfd03095-9004-4066-b6b4-bcaa1a4121fe" />
 
+* SP -> CP + P -> 100 + 28 -> 128.
+
+<img width="1426" height="800" alt="image" src="https://github.com/user-attachments/assets/1a25029c-4c67-42cc-9c6b-ee9a7d6bdd51" />
+<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/0a1706c7-9d5c-4e6c-a14e-5c864782e2d6" />
+<img width="1420" height="803" alt="image" src="https://github.com/user-attachments/assets/a74f249f-65a4-4b67-9394-06f560bd0e17" />
+
+* 4.
 
 
 
