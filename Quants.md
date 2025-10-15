@@ -1051,56 +1051,113 @@
 
 * 4.
 
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/fc07df5d-6a78-4f05-8957-0d7cc08d4c18" />
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/5f7729fb-e238-4337-8124-deaa0315d7f6" />
+<img width="1425" height="799" alt="image" src="https://github.com/user-attachments/assets/26ca75b5-3928-43b6-ab09-0804a49af63d" />
+<img width="1415" height="816" alt="image" src="https://github.com/user-attachments/assets/d18e19d8-d9e3-4e4f-9234-581bef4f0a9e" />
 
+* 1/8 -> 12.5
+* 3/8 -> 12.5 * 3 -> 37.5.
+* 5.
 
+<img width="1435" height="900" alt="image" src="https://github.com/user-attachments/assets/354603da-7ad5-4a32-b50e-61f817ff5377" />
+<img width="857" height="466" alt="image" src="https://github.com/user-attachments/assets/793d4d7b-1edf-474f-bcd6-c43578c126d3" />
+<img width="875" height="453" alt="image" src="https://github.com/user-attachments/assets/5d13d2a3-f94c-43f0-8261-0c93313bd3b0" />
 
+* MF of 2/3 increase -> 1 + 2/3 -> 5/3
 
+<img width="911" height="458" alt="image" src="https://github.com/user-attachments/assets/65341af1-50b6-4360-a3f8-83e71ac767c6" />
+<img width="1417" height="647" alt="image" src="https://github.com/user-attachments/assets/e64b822e-2b49-477c-bec4-70b4a0e7bdaa" />
+<img width="1413" height="795" alt="image" src="https://github.com/user-attachments/assets/fd2fb541-22ee-45b4-a22d-967bedb30672" />
+<img width="1422" height="784" alt="image" src="https://github.com/user-attachments/assets/7400514b-2c07-4d32-9a80-23b0dfba7ea1" />
+<img width="1427" height="790" alt="image" src="https://github.com/user-attachments/assets/6b32964e-a44a-44b3-a7dc-e9859d5a96d4" />
+<img width="1422" height="822" alt="image" src="https://github.com/user-attachments/assets/482b9b58-28f3-4409-8b5d-211db21221d8" />
 
+* MF of 1/6 decrease -> 1 - 1/6 -> 5/6
 
+<img width="1417" height="800" alt="image" src="https://github.com/user-attachments/assets/3eefebe0-c80c-43bc-93ed-cd560a11fb1d" />
+<img width="1411" height="803" alt="image" src="https://github.com/user-attachments/assets/e63d46f1-f798-4c08-89ad-d27a3fe60737" />
 
+* SP - CP = P%.
 
+<img width="1427" height="799" alt="image" src="https://github.com/user-attachments/assets/5f9f45cc-e3f0-4194-ac86-0b6cea95b3c8" />
+<img width="1423" height="811" alt="image" src="https://github.com/user-attachments/assets/764d2785-45d4-487b-8197-4675e2840815" />
+<img width="1432" height="810" alt="image" src="https://github.com/user-attachments/assets/c9623f36-c54f-49b3-8c50-119a7941f9ac" />
 
+* y = 4k.
 
+<img width="633" height="413" alt="image" src="https://github.com/user-attachments/assets/b4ffa77f-590b-4618-afd5-953315a45ee9" />
 
+* CP of A -> 9y -> 36k.
+* SP of A -> 9x -> 45k.
+* P of A -> SP - CP -> 45k - 36K -> 9k.
+* 9k = 18z
+* z = 1/2k OR 0.5k
+* 15z -> 15 * 1/2 -> 7.5k.
 
+<img width="1417" height="814" alt="image" src="https://github.com/user-attachments/assets/7a5bc25f-28e7-4c01-b6e4-b06dffb4673a" />
+<img width="1434" height="809" alt="image" src="https://github.com/user-attachments/assets/a99716fa-cd32-4390-9762-5a0e6bc0166d" />
+<img width="1409" height="804" alt="image" src="https://github.com/user-attachments/assets/d2127cc1-b628-4b15-ba50-6bf470a352c8" />
 
+* 6.
 
+<img width="1420" height="799" alt="image" src="https://github.com/user-attachments/assets/851076cf-36d0-440b-a847-47d4a27f2024" />
+<img width="1423" height="819" alt="image" src="https://github.com/user-attachments/assets/c8b36592-41df-47ea-80a3-d7aaa8afce36" />
 
+* How to convert from Profit % to Profit in rupees. [**VERY IMPORTANT**]
 
+<img width="501" height="431" alt="image" src="https://github.com/user-attachments/assets/73466ac1-0416-42b7-ac02-f8b5818677a2" />
 
+* yes.
 
+<img width="1423" height="815" alt="image" src="https://github.com/user-attachments/assets/642a49ae-2efe-46cf-88a3-16e10e72258b" />
+<img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/0282b00a-8506-48e9-8957-4bddb69e8c7e" />
+<img width="1420" height="801" alt="image" src="https://github.com/user-attachments/assets/978b5a58-a8d2-4c4d-aca4-35d5bb5f4f66" />
+<img width="1418" height="804" alt="image" src="https://github.com/user-attachments/assets/ccb0ec1f-76a0-4f76-a8c4-2c77ceda60b5" />
 
+* 7 .
 
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/f0bf4fc4-7ae8-4470-9025-b4a0689f9c97" />
 
+* Geometric Progresssion(GP).
+* 30.55 -> 11/36.
 
+<img width="1432" height="824" alt="image" src="https://github.com/user-attachments/assets/09f4a5c5-51d3-4c44-b9ee-75f97b824e37" />
 
+* A + B -> We are taking the value of 'A + B', multiple of 36 for easier calculation.
 
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/cca7c207-9bbe-49a0-b3ff-00da7314149d" />
 
+* A + B -> 36k.
+* C -> 25.
+* (A + B):C -> 36k : 25k -> 35:25.
 
+<img width="1434" height="843" alt="image" src="https://github.com/user-attachments/assets/b3a48a07-4d54-4a93-a3c4-cb4fb1659160" />
+<img width="1422" height="813" alt="image" src="https://github.com/user-attachments/assets/c6606fc5-7037-4f52-a34a-c88ab6738eb5" />
+<img width="908" height="786" alt="image" src="https://github.com/user-attachments/assets/15141b0e-b8a8-4fda-a117-28b59f6ffb35" />
 
+* 'r' cannot be negative so 'r = -5/9' is not possible.
 
+<img width="1423" height="766" alt="image" src="https://github.com/user-attachments/assets/d49aadc6-c0ce-4c47-ad45-c2f0db57d2f0" />
 
+* We will multiply by '64' so that we get whole numbers and remove the fractions.
 
+<img width="1417" height="772" alt="image" src="https://github.com/user-attachments/assets/f784decc-c556-4262-8ada-a1630e88ba9f" />
 
+* 125 - 80 -> 45.
+* 9 -> 56.25% [Answer]
+* 'a' value has to be whole number and cannot be a fration.
 
+<img width="1877" height="859" alt="image" src="https://github.com/user-attachments/assets/0eeb4ae3-740f-4ee8-aac3-9f3fc460ff29" />
 
+* Yes.
+* Max. possible marks is '150'.
+* a = 1 -> Is only possible.
 
+<img width="1412" height="803" alt="image" src="https://github.com/user-attachments/assets/66e8dd41-60dc-4a4a-a039-e6ef4dbfc72c" />
+<img width="1406" height="790" alt="image" src="https://github.com/user-attachments/assets/bc98b5ae-bf16-464d-a153-1de7ca8129f7" />
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Percentages (5) [11]
 
 
 
