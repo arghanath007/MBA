@@ -550,7 +550,7 @@
 <img width="1155" height="553" alt="image" src="https://github.com/user-attachments/assets/03d9fb4d-94ce-43c2-8c8c-657d92e6d745" />
 <img width="1304" height="744" alt="image" src="https://github.com/user-attachments/assets/25e4826b-b364-443d-a790-580f5f086285" />
 
-### Profit, Loss(1)(7)
+### Profit, Loss (1) [7]
 
 <img width="1433" height="795" alt="image" src="https://github.com/user-attachments/assets/70bc4c3f-5067-4f45-b929-e33ca893a0a8" />
 
