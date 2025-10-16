@@ -245,6 +245,112 @@
 
 * [Answer] [Solution]
 
+### Percentages (2) [3]
+
+<img width="1425" height="811" alt="image" src="https://github.com/user-attachments/assets/0b1e600c-1494-4ebb-b29c-8c3298446396" />
+<img width="1425" height="820" alt="image" src="https://github.com/user-attachments/assets/04ddf40c-efd1-438d-8d59-79668c1ef747" />
+
+* 56 + 12 -> 68.
+* 100 -68 -> 32.
+* 56-32 -> 24.
+
+<img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/e0375dcb-7a17-42aa-bc8d-39435ca8fc7d" />
+<img width="1428" height="921" alt="image" src="https://github.com/user-attachments/assets/9e222f44-fc6f-4795-998b-299cc301f706" />
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/4b911a20-7a27-4bbd-bbe6-c0f5fe06bfb1" />
+<img width="1406" height="797" alt="image" src="https://github.com/user-attachments/assets/81b1686d-6b04-4fbf-8fa4-852cf3a27f19" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+* Invalid -> 2%
+* Valid -> 100 - 2 -> 98%.
+
+<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/66bea521-1140-4eb4-8753-8ee7ab335ed1" />
+
+* Put value of 'x' in "Valid" and we will get x = 1500. 
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1432" height="819" alt="image" src="https://github.com/user-attachments/assets/3305c7a3-6644-49e1-9b1c-fb038a5543d1" />
+<img width="1402" height="788" alt="image" src="https://github.com/user-attachments/assets/bb6e92d3-c9ae-4516-b3c5-4e24a0361918" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1414" height="817" alt="image" src="https://github.com/user-attachments/assets/23fae528-0bef-42d0-a32a-2b1c98faa660" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+* We will focusing on **pulps** in the question because **pulp** remains constant. Percentage of water may change but pulp will remain the same.
+
+<img width="1425" height="804" alt="image" src="https://github.com/user-attachments/assets/f19257ac-164a-43f7-9a0c-2db958628865" />
+
+* Mangoes is constant in this question. Apples will change.
+* Here the pulp part is mangoes.
+* [Answer] [Solution] [**VERY IMPORTANT**]
+* Always operate on the component which is **not changed**. [Formula]
+
+<img width="1412" height="804" alt="image" src="https://github.com/user-attachments/assets/5d2f7dff-961a-4e32-a686-698efd68b2b6" />
+
+* 49-38 -> 11%.
+* 18+15 -> 33.
+* 11% -> 33
+* 1% -> 3
+* 100% -> 330.
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1421" height="783" alt="image" src="https://github.com/user-attachments/assets/c578e076-3a60-43fb-ba6f-fc60f63cc4d7" />
+
+* 25% -> 1/4
+* Passing marks -> 4x [Let]
+* 25% of 4x -> 5x. [1/4 * 4x -> x => x + 4x -> 5x]
+* 5x = 40%.
+* x = 8%
+* Passing marks -> 4x -> 32%.
+* 25*16 -> 400.
+* 32% -> 400 marks
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1426" height="892" alt="image" src="https://github.com/user-attachments/assets/71f97a3a-fc46-4cb4-9bce-22ca9299321c" />
+<img width="1407" height="789" alt="image" src="https://github.com/user-attachments/assets/f65ec8c0-4b15-425f-8a5a-dc90d2339fa8" />
+<img width="989" height="1280" alt="image" src="https://github.com/user-attachments/assets/5cf8e836-9140-44c8-b82e-1964a66d5577" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1421" height="900" alt="image" src="https://github.com/user-attachments/assets/b3344a02-0997-4794-9165-7ddaadde693a" />
+<img width="1412" height="802" alt="image" src="https://github.com/user-attachments/assets/c60f238d-cc6a-4174-a08f-ad9526d2dddc" />
+
+* As the percentage increases were between '20% and 50%', so the answer would lie between that range of '20% and 50%'. Only one option is lying in that range which is option **D**. [Formula] [**VERY IMPORTANT**]
+
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/8787c753-9077-43a0-a634-438613b00b09" />
+
+* Increase of '900' on original expenditure.
+* original expenditure -> 1200 + 1700 + 300 -> 3200.
+
+<img width="1418" height="825" alt="image" src="https://github.com/user-attachments/assets/87a42dac-f897-46f2-8ca1-827b5fdcad2f" />
+<img width="1428" height="822" alt="image" src="https://github.com/user-attachments/assets/65b5fbcf-f88a-45bd-b177-d2ae8ab98ed8" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1422" height="898" alt="image" src="https://github.com/user-attachments/assets/61e036b5-f907-424c-b5c1-7018497bc1dd" />
+<img width="1409" height="799" alt="image" src="https://github.com/user-attachments/assets/648c809c-7eb7-4ca0-bca5-d76c115bc0c2" />
+
+* 10% of 11500 -> 1150.
+* 12760 - 11500 -> 1260
+* Extra increase -> 1260 - 1150 -> 110.
+* This extra '110' is coming because of the '2%' increase in non-friction(NF).
+
+<img width="1426" height="807" alt="image" src="https://github.com/user-attachments/assets/cd05c00a-3258-4ba3-b726-67c88aed50a9" />
+<img width="1415" height="810" alt="image" src="https://github.com/user-attachments/assets/33b1500f-3bff-43e4-b493-75662cb89409" />
+
+* 11500 -> 5500 -> 6000
+* 10% increase of 6000 -> 600 + 6000 -> 6600.
+
+<img width="1422" height="795" alt="image" src="https://github.com/user-attachments/assets/d383dbe5-c1cd-4ab2-b656-1e15a684ed4f" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+
+<img width="1425" height="898" alt="image" src="https://github.com/user-attachments/assets/940f281f-03ac-4490-8f57-b4eed7f9f35d" />
+
+* Start from 1hr 2mins.
+
+
 
 
 
