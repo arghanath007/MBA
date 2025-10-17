@@ -345,10 +345,142 @@
 
 * [Answer] [Solution] [**VERY IMPORTANT**]
 
-
 <img width="1425" height="898" alt="image" src="https://github.com/user-attachments/assets/940f281f-03ac-4490-8f57-b4eed7f9f35d" />
 
-* Start from 1hr 2mins.
+* If both 'F & NF' increased by 10% then the overall increase would have been 10%.
+* 12760 - 11500 -> 1260.
+* 10% of 11500 -> 1150 -> This should have been the increase but the increase in 1260.
+* This extra increase of '1260-1150 -> 110' is due to the extra increase of 2% in 'NF'.
+* 2% -> 110.
+* 1% -> 55
+* 100% -> 5500.
+* NF -> 550.
+
+<img width="1429" height="795" alt="image" src="https://github.com/user-attachments/assets/f40be5c2-cab3-422c-8070-cbe17f569b3c" />
+
+* F -> 11500 - 5500 -> 6000.
+* 10% increase in 6000 -> 6600
+
+<img width="1406" height="787" alt="image" src="https://github.com/user-attachments/assets/fd9399df-3c94-4520-a69f-72124e7ddb96" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1437" height="906" alt="image" src="https://github.com/user-attachments/assets/6b2b0a35-5704-4980-883c-bc71456ca20f" />
+<img width="1428" height="812" alt="image" src="https://github.com/user-attachments/assets/4d42aec4-b467-4029-a3ec-2308a2b51787" />
+<img width="991" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a48cf1b-8c53-43b0-9f1a-861dcbc98a63" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/0a35ad43-03e3-4204-a251-6b81b83b6a93" />
+
+* As expenditure remains the **same**, so we can find out the quanity.
+
+<img width="1442" height="803" alt="image" src="https://github.com/user-attachments/assets/c9be9519-b562-48ed-b78f-a7128cfdc31c" />
+
+* The question has gap of 6 eggs.
+* 20 eggs -> 7.8
+* 1 egg -> 7.8/20.
+* 12 egg(dozen) -> 7.8/20 * 12 -> 4.68. 
+
+<img width="1421" height="793" alt="image" src="https://github.com/user-attachments/assets/5f361a17-0925-4a09-a73c-40c1f04da66b" />
+
+* Intial price of eggs -> 10. [Let]
+* 30% increase in 10 -> 13.
+* 13 - 10 -> 3 eggs gap but we want 6 eggs gap. So double the values.
+* 26-20 -> 6.
+
+<img width="1422" height="813" alt="image" src="https://github.com/user-attachments/assets/6dc8388e-4e96-47b2-a084-2fd5ba39cf5c" />
+<img width="1422" height="803" alt="image" src="https://github.com/user-attachments/assets/bdf17f8c-d065-43e6-9671-3b15ccc97aba" />
+
+* 9/11
+* MF of 9/11 decrease -> 1 - 9/11 -> 2/11.
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1438" height="891" alt="image" src="https://github.com/user-attachments/assets/36acf767-b1f2-490a-914e-84f494ad7d45" />
+
+* Volume of Cylinder -> R^2*H. [Height(H), Radius(R)] [Formula]
+* MF of 10/9 increase -> 10 - 9/9 -> 1/9
+
+<img width="1426" height="832" alt="image" src="https://github.com/user-attachments/assets/746168c2-9045-4465-b75a-c472c8b6ee72" />
+<img width="1423" height="819" alt="image" src="https://github.com/user-attachments/assets/7315b2f6-3285-40d7-ac5b-6c9c3a95b10d" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1427" height="899" alt="image" src="https://github.com/user-attachments/assets/b11fe4b9-6962-4bd5-a362-084c18e46a5e" />
+<img width="1439" height="817" alt="image" src="https://github.com/user-attachments/assets/41412af4-fd30-4f0e-9fe4-37cf059357e0" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1434" height="906" alt="image" src="https://github.com/user-attachments/assets/47a1576d-dacf-4dc0-a009-913990588a28" />
+
+* Successive percentage Change:-
+* Sum -> 30 + 10 -> 40.
+* Sum -> 25 + 15 -> 40.
+* Sums are **same** -> Whichever has the **bigger value** has the bigger discount. [Formula] [**VERY IMPORTANT**]
+
+<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/aa14e2f5-b473-4599-bc6d-e3139ade44a8" />
+<img width="280" height="72" alt="image" src="https://github.com/user-attachments/assets/fe1d1c93-09ee-497d-a9d9-1f8206811c10" />
+
+* If sum is **not same** then we would have to **solve**. [Formula] [**VERY IMPORTANT**]
+
+<img width="1443" height="919" alt="image" src="https://github.com/user-attachments/assets/be778c66-f357-4229-8efe-dbcd91b030b3" />
+
+* 25% -> 1/4
+* Girls in Class B -> 4. [Let]
+* Girls in Class A -> 25% of B -> 1.25 * 4 -> 5.
+* 16 * 2/3 -> 16.66 -> 1/6.
+* Boys in Class A -> 6. [Let]
+* Girls in Class A -> 1/6 less of Boys in Class A -> 6 - (1/6 * 6) -> 6 - 1 -> 5.
+* To get rid of the fraction, we are multiplying the values with '3'.
+
+<img width="1408" height="803" alt="image" src="https://github.com/user-attachments/assets/4fff3272-8d60-4644-8e7d-10d8401c353f" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1418" height="812" alt="image" src="https://github.com/user-attachments/assets/8a9df037-652f-438b-9a5f-fe6654b7b99a" />
+<img width="1442" height="903" alt="image" src="https://github.com/user-attachments/assets/442ff9db-6d8a-4ef2-9484-aa4111de5513" />
+
+* 24/40 * 100 -> 60% sent on mangoes
+* 10% on taxi fare.
+* 100% amount -> 50 Oranges or 40 mangoes.
+* Used amount -> 60& + 10% -> 70%.
+* Left -> 30%.
+* 100% -> 50
+* 1% -> 0.5 OR 1/2
+* 30% -> 15.
+* OR, 30% of 50 oranges -> 15 oranges.
+
+<img width="1403" height="801" alt="image" src="https://github.com/user-attachments/assets/f3fd1508-938e-49b7-9c76-7d7cae30960f" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1437" height="888" alt="image" src="https://github.com/user-attachments/assets/f87cef25-80c0-42cd-a0a8-8f82b87be6ab" />
+
+* 79:158 -> 1:2.
+* From his regular work he is getting 100. [Let]
+* Then, from his overtime work he is getting 15. [15% mentioned in the question of regular work]
+* Reg -> 100/1 -> 100.
+* Over -> 15/2 -> 7.5
+
+<img width="1441" height="832" alt="image" src="https://github.com/user-attachments/assets/bc36f905-fe7a-4b0f-bea5-dc75285d493d" />
+<img width="1429" height="810" alt="image" src="https://github.com/user-attachments/assets/028a1607-a5a5-4627-890b-0adce5e380f6" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1422" height="796" alt="image" src="https://github.com/user-attachments/assets/d0ebaef2-330e-48bf-8396-c2eb46e69c4d" />
+
+* Take the ratio of the **Time**.
+
+<img width="1428" height="827" alt="image" src="https://github.com/user-attachments/assets/f300bf9d-b349-4e67-a1b2-046f4b81f86c" />
+
+* Total time -> 40 + 3 -> 43.
+
+<img width="1428" height="794" alt="image" src="https://github.com/user-attachments/assets/bc4cc113-a890-41c4-a71e-2297fbbde9e2" />
+<img width="1408" height="793" alt="image" src="https://github.com/user-attachments/assets/60e460ec-2d16-49d4-87d5-56614a529e52" />
+
+### Percentages (3) [4]
+
+
+
+
+
 
 
 
