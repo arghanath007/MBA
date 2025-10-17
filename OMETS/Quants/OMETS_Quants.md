@@ -477,7 +477,175 @@
 
 ### Percentages (3) [4]
 
+<img width="1440" height="897" alt="image" src="https://github.com/user-attachments/assets/1b8d7216-f3c4-4bb4-82bc-99795eb2ed5f" />
+<img width="1418" height="824" alt="image" src="https://github.com/user-attachments/assets/d7fc0298-ff0e-42a8-ad43-33a2e477ed5d" />
 
+* 60 percentage -> 60/100
+* x tercentage -> x/125
+
+<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/587b84e5-5086-40bb-9d4a-3ffe80c63af4" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+* Net Income -> Income - Income Tax. [Formula]
+* It is assumed that the Income of the person remains the **same**.
+
+<img width="1423" height="812" alt="image" src="https://github.com/user-attachments/assets/399212e9-14b9-4959-acb2-ae8731327c4f" />
+<img width="1426" height="815" alt="image" src="https://github.com/user-attachments/assets/5cef4cf6-94af-4efd-9fc0-a4fea79aa432" />
+
+* IT -> 1
+* Income -> 5.
+* Rate of IT -> 1/5 * 100 -> 20%.
+
+<img width="1426" height="807" alt="image" src="https://github.com/user-attachments/assets/ad66ad96-bae4-41df-b273-9d1857c646ed" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+* 20% -> 1/5 increase/more -> 1:5 -> (1+5):5 -> 6/5 [Increase/more -> Addition in numerator]  [Formula] [**VERY IMPORTANT**]
+* 60% -> 3/5 decrease/less -> 3:5 -> (5-3):5 -> 2/5.[Decrease/less -> Substraction in numerator] [Formula] [**VERY IMPORTANT**]
+
+<img width="1421" height="810" alt="image" src="https://github.com/user-attachments/assets/d98573aa-670e-4ba0-bf2a-a64fe6096a4d" />
+
+* When 'B=5', 'C= 4'.
+* When 'C=4', 'D= 2*5=10'. [When 'C=2', 'D= 5', We doubled the values]
+
+<img width="1403" height="806" alt="image" src="https://github.com/user-attachments/assets/b037f9b1-8d7d-49ac-aa44-9526f30d9c6d" />
+
+* D : E -> 6:5
+* D -> 5/6
+* 10D -> 5/6*10
+* Multiplying all of the values with '3'.
+
+<img width="1412" height="807" alt="image" src="https://github.com/user-attachments/assets/47fe5b84-1347-4ea4-a6dc-e3649b66b7cc" />
+<img width="1434" height="809" alt="image" src="https://github.com/user-attachments/assets/27fb8361-76f6-4cfa-85f9-64e0780ce32b" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1426" height="810" alt="image" src="https://github.com/user-attachments/assets/c91cee1e-f621-45e5-9bab-48087f1b8eb1" />
+<img width="1413" height="788" alt="image" src="https://github.com/user-attachments/assets/7416fc62-9028-403f-b617-c2a15c4d7f32" />
+
+* 80% -> 4/5
+* We want the appeared girls of '9units' to be '5' and the girls passed the exam of '4units' to be '4' only. 
+* LCM of 9,4 -> 36.
+
+<img width="1429" height="793" alt="image" src="https://github.com/user-attachments/assets/4fd9bc37-8b0f-4101-861e-34f92d930c0e" />
+
+* We want to make them **equal** so we are making them into '36'.
+* As we want '5' above and '4' below. So, we are multiplying with '5' above and '4' below.
+
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/9315d08d-2f04-4876-9dd6-c79f22690b67" />
+
+* 36/45 -> 4/5.
+* % of boys passed -> 45/80*100 -> 9/16 -> 56.25%.
+* % of students passed -> (45+36)/(80+45)*100 -> 81/125*100 -> 64.8%.
+
+<img width="1409" height="789" alt="image" src="https://github.com/user-attachments/assets/7cc17cb6-255b-4061-b5b6-26aaf4e71aa1" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1435" height="919" alt="image" src="https://github.com/user-attachments/assets/275744d8-b964-489a-8cc2-1e355f03138a" />
+<img width="1411" height="799" alt="image" src="https://github.com/user-attachments/assets/ee669b15-9c1d-446d-8438-22032fb922f5" />
+<img width="1437" height="896" alt="image" src="https://github.com/user-attachments/assets/6e750057-9d86-4037-96e0-6c2ab020612d" />
+
+* Votes against PP in AP -> 4x. [Let]
+* Votes against PP in NGE -> 25% increase of 4x -> 5x.
+* 1 unit = 1 lakh. [Let]
+
+<img width="1427" height="793" alt="image" src="https://github.com/user-attachments/assets/5205a8d1-ea61-406b-b819-0d850508ca73" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1436" height="902" alt="image" src="https://github.com/user-attachments/assets/e2a12825-69a0-4612-be25-b4865c69d026" />
+
+* Magnifying glass will magnify the **lengths**. The **angles** will remain the **same**. [Formula] 
+
+<img width="1425" height="812" alt="image" src="https://github.com/user-attachments/assets/c4641f7d-7335-409a-814e-3fb6ef8a9660" />
+<img width="1432" height="915" alt="image" src="https://github.com/user-attachments/assets/f8b96d1d-4ab4-41c8-bcc2-aa2446a3e3bd" />
+<img width="688" height="286" alt="image" src="https://github.com/user-attachments/assets/2158a616-fd93-46e7-a348-47355f0294ff" />
+
+* 20% increase -> 1.2x
+* Volume of a Cuboid -> L * B * H. [Formula] 
+
+<img width="1420" height="791" alt="image" src="https://github.com/user-attachments/assets/63accfbc-4c3d-4996-a678-6a01fae579da" />
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/ae02962f-5a3c-4981-b4c6-5426c78aecd3" />
+<img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/1ee6adea-e909-4149-af6d-e0de79f9eb9e" />
+<img width="1408" height="792" alt="image" src="https://github.com/user-attachments/assets/b4cc6ec1-06ae-483f-8eba-6bdff12a2c9f" />
+<img width="1424" height="934" alt="image" src="https://github.com/user-attachments/assets/1f6ebc0f-9e94-44f5-a387-d53365a0f84b" />
+<img width="1427" height="798" alt="image" src="https://github.com/user-attachments/assets/4ecd346c-3d80-475b-a8ab-719be384795a" />
+<img width="1600" height="1470" alt="image" src="https://github.com/user-attachments/assets/e3d2313d-3bb3-4aa0-ac85-d7cdb4c720df" />
+
+* [Answer] [Solution]
+
+<img width="1442" height="901" alt="image" src="https://github.com/user-attachments/assets/043ef50b-e6ed-4595-ae23-3ec30f1849f8" />
+<img width="1419" height="800" alt="image" src="https://github.com/user-attachments/assets/440183a8-57ba-4269-a52b-a3e74e19bcfe" />
+
+* We are comparing with 'Q'. That's why 'Q' is in denominator.
+
+<img width="1600" height="1087" alt="image" src="https://github.com/user-attachments/assets/e96377c1-858f-4e67-b64e-19e087d2b9e3" />
+<img width="1424" height="811" alt="image" src="https://github.com/user-attachments/assets/443fe9bd-65f0-4b2e-a77e-02f6a8e7c5d5" />
+<img width="1436" height="890" alt="image" src="https://github.com/user-attachments/assets/43c1a397-6baf-4fec-9bdc-d892f23d8606" />
+<img width="1417" height="820" alt="image" src="https://github.com/user-attachments/assets/d5d9c20a-ef2f-4bc6-8d68-e30ecdda3944" />
+
+* original salary -> 4units.
+* New salary -> 5units.
+* 5 - 4 -> 1unit increase
+* 1 unit -> 2l
+* 5 -> 5 * 2 -> 10L.
+
+<img width="1600" height="1270" alt="image" src="https://github.com/user-attachments/assets/87c4f1de-caaa-4aa8-ad79-399a297ed6ec" />
+<img width="1428" height="906" alt="image" src="https://github.com/user-attachments/assets/7951ca18-0242-422c-a248-b8b1192ec4a3" />
+<img width="1418" height="794" alt="image" src="https://github.com/user-attachments/assets/3ce62388-9a89-452f-8381-cddd31826f54" />
+<img width="1434" height="890" alt="image" src="https://github.com/user-attachments/assets/bee714a7-c9f9-476f-9c06-28627bf9bd8c" />
+
+* Pass(P), Aruna(A).
+
+<img width="1425" height="805" alt="image" src="https://github.com/user-attachments/assets/48c3e96f-ad6a-474c-b700-7906229aede8" />
+
+* Passing marks is 25% less than Varuna's marks.
+* Varuna's marks -> 4
+* Passing marks is 25% less -> 4 - 4* 1/4 -> 4-1 -> 3.
+* LCM of pass mark(P) -> 4,3 -> 12.
+* P -> 12.
+* 16-15 -> 1
+* 1 -> 20.
+* 12 -> 240.
+
+<img width="1416" height="788" alt="image" src="https://github.com/user-attachments/assets/8874edf2-e9ed-4975-ae76-68fa7073090a" />
+<img width="1435" height="912" alt="image" src="https://github.com/user-attachments/assets/b7490404-dfec-4fe7-ad8e-9531d9e8b8e6" />
+<img width="1424" height="806" alt="image" src="https://github.com/user-attachments/assets/8a524faa-e79c-4b59-915f-a7535958ca77" />
+<img width="1599" height="1168" alt="image" src="https://github.com/user-attachments/assets/e90a7ded-c6b0-43b6-b660-08d723c251d5" />
+<img width="1440" height="896" alt="image" src="https://github.com/user-attachments/assets/26edd261-1518-487b-929e-10e2fa39c581" />
+
+* Income -> NI + IT -> 19 + 1 -> 20.
+* IT% -> 1/20 * 100 -> 5%.
+
+<img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/c8be0f1a-102b-47d4-9906-0d86f97b0029" />
+<img width="1428" height="901" alt="image" src="https://github.com/user-attachments/assets/45589e6b-de90-4992-aecc-b386f7bbf153" />
+<img width="1427" height="805" alt="image" src="https://github.com/user-attachments/assets/98719060-37df-4f85-9888-5db562af119a" />
+
+* Original value is more than Rs 1.
+* Answer is more than Rs 1.
+
+<img width="1429" height="797" alt="image" src="https://github.com/user-attachments/assets/8364583d-b1b3-48fb-8c09-52cace9a4323" />
+<img width="1419" height="887" alt="image" src="https://github.com/user-attachments/assets/eff4f226-1024-475e-9ec6-6e589b13ea69" />
+<img width="1408" height="813" alt="image" src="https://github.com/user-attachments/assets/4c5c72b6-1818-43c2-a0da-af18d3d9972a" />
+<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/cbe86029-9d15-4b79-8ccd-27749417d083" />
+<img width="1420" height="914" alt="image" src="https://github.com/user-attachments/assets/81b439d9-80e8-409b-a905-292a965d88fa" />
+<img width="1413" height="797" alt="image" src="https://github.com/user-attachments/assets/e98e67d8-8c44-43d1-ab7c-a7f4d21ea601" />
+<img width="940" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f532b25-7b38-4e93-854b-ef0f6c0633eb" />
+<img width="1423" height="883" alt="image" src="https://github.com/user-attachments/assets/34f35789-5693-4ab9-aca3-cf9f071a82a7" />
+<img width="1437" height="819" alt="image" src="https://github.com/user-attachments/assets/905e8acb-ba52-447d-aecd-74250ee082b7" />
+
+* Don't solve the equation. Try to find the answer by putting the value of 'x' from the options. [Formula]
+
+<img width="1414" height="801" alt="image" src="https://github.com/user-attachments/assets/7507e8a2-8795-4af3-a183-39842d7243c6" />
+<img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/b0183a4d-ccfb-4948-b724-7eb97a270c58" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+
+<img width="1439" height="903" alt="image" src="https://github.com/user-attachments/assets/b61ebc13-9c8e-410c-b5b1-6bceb4c1d86d" />
+<img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/988ae465-ea1d-4d10-a9b9-211405ca9131" />
+
+* [Answer] [Solution] [**VERY IMPORTANT**]
+* 1hr 13mins.
 
 
 
