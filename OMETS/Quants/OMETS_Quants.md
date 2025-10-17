@@ -645,19 +645,37 @@
 <img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/988ae465-ea1d-4d10-a9b9-211405ca9131" />
 
 * [Answer] [Solution] [**VERY IMPORTANT**]
-* 1hr 13mins.
 
+<img width="1439" height="902" alt="image" src="https://github.com/user-attachments/assets/cca98210-6a4b-4ac0-8ebf-cdad2fec2fb8" />
+<img width="1435" height="814" alt="image" src="https://github.com/user-attachments/assets/4d5ba41d-258e-47d6-b0b5-2a40f99094a0" />
 
+* We are using paisa here.
+* 1rs -> 100 paisa.
+* x:y -> 2:3.
+* Reduced the values by dividing the nos by '50'.
+* As 'y=3', so we have to find a value of 'y' which is a multiple of '3'.
 
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/69822342-c98b-426d-bff8-18a37c3efa38" />
 
+* Volume of cone -> pie * r ^ 2 * h. [Formula]
 
+<img width="1428" height="805" alt="image" src="https://github.com/user-attachments/assets/cfdeda31-5449-4c58-a614-35db742b6827" />
 
+* 25% -> 1/4 increase -> 1 + 1/4 -> 5/4 -> 4:5.
+* 20% -> 1/5 increase -> 1 + 1/5 -> 6/5 -> 5:6. 
 
+<img width="1420" height="805" alt="image" src="https://github.com/user-attachments/assets/9ba38383-37ff-4407-9852-29598a835d48" />
+<img width="1437" height="799" alt="image" src="https://github.com/user-attachments/assets/a7d6ba0e-215b-4ef6-b1cc-46ba825a0e51" />
 
+* We are interested in the percentage change.
 
+<img width="1426" height="802" alt="image" src="https://github.com/user-attachments/assets/dc5f2c93-9ef2-4f87-8f4b-3d6a539f563c" />
 
+* [Answer] [Solution] [**VERY IMPORTANT**]
 
+<img width="1387" height="801" alt="image" src="https://github.com/user-attachments/assets/25150e68-439e-4d92-be6e-00154ca1102b" />
 
+### Profit & Loss (1) [5]
 
 
 
