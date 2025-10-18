@@ -37,8 +37,13 @@
 * 111 + 125 -> 236.
 * Addition of the cubes of the numbers. [Formula]
 
+<img width="1416" height="561" alt="image" src="https://github.com/user-attachments/assets/5dcb0d73-de78-46f4-a1e6-779326d95b21" />
 
+* 1, 4, 18, 96
+* 1,2,3,4,5,6
+* 6 * 120 -> 720.  [Formula]
 
+<img width="1424" height="897" alt="image" src="https://github.com/user-attachments/assets/7d56ea0c-05af-4b1b-b538-efffe27b9511" />
 
 
 
