@@ -61,6 +61,8 @@
 * 135 * 3 -> 405.
 * Multiplication by **fractions**. [Formula]
 
+<img width="1434" height="813" alt="image" src="https://github.com/user-attachments/assets/06a53231-f289-45be-9662-986acc74f636" />
+
 
 
 
