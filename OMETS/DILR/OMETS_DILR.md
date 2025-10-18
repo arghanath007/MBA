@@ -62,6 +62,47 @@
 * Multiplication by **fractions**. [Formula]
 
 <img width="1434" height="813" alt="image" src="https://github.com/user-attachments/assets/06a53231-f289-45be-9662-986acc74f636" />
+<img width="1432" height="825" alt="image" src="https://github.com/user-attachments/assets/8ec0fd0e-8657-4310-a1c3-0675dc97d5c9" />
+<img width="1887" height="913" alt="image" src="https://github.com/user-attachments/assets/55b4852f-8f25-429f-b219-b9011127f4e1" />
+
+* 1, 4, 15, 67. [Formula] [VERY IMPORTANT]
+
+<img width="1398" height="254" alt="image" src="https://github.com/user-attachments/assets/2a15d7c6-37a3-4003-98b5-b1370cb87d48" />
+
+* 10^2,12^2, 14^2, 15^2, 16^2, 18^2, 20^2, 22^2 -> We are skipping the squares of the **prime nos**.
+
+<img width="1404" height="823" alt="image" src="https://github.com/user-attachments/assets/fc59a532-072f-42dd-bd41-55db6c11260d" />
+
+* 10,12,14,15,16,18,20,21 -> Composite nos -> Have more than '2' factors.  [VERY IMPORTANT]
+* 11,13,17,19 -> Prime nos -> Comes in table of '1' and itself.  [VERY IMPORTANT]
+* 22^2 -> 484. [Wrong] 
+* Next nos is '21' after '20' as '21' is not a prime no.
+* 21 ^ 2 -> 441. [Correct]
+
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/e2bf51f7-de4a-4a7f-a71a-c4b474f64826" />
+
+* -6, -14, -4, -2, -4, -6, -14
+* 31-14 -> 17. [Wrong]
+* Sequential Prime Nos in descending order. [Formula]
+* 29. [Correct]
+
+<img width="1394" height="800" alt="image" src="https://github.com/user-attachments/assets/004f5a7f-dc6e-4c2f-8f85-a20bb86d97b3" />
+
+* 2,3,5,7,11,13,17 -> Cube of the prime nos. [Formula]
+* 17^3 -> 4913. [Correct]
+
+
+<img width="1409" height="826" alt="image" src="https://github.com/user-attachments/assets/cd788c3d-f973-46d4-8022-05f4ade29aa6" />
+
+
+
+
+
+
+
+
+
+
 
 
 
