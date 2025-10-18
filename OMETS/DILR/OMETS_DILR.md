@@ -31,7 +31,11 @@
 <img width="1437" height="799" alt="image" src="https://github.com/user-attachments/assets/9a8eb70e-aa9f-40c9-8090-9612926b808a" />
 <img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/8157a072-00cd-4ce5-b16f-504bfe0c1bfa" />
 <img width="1410" height="820" alt="image" src="https://github.com/user-attachments/assets/651f3baf-6c37-44a8-8fee-65d262a265bf" />
+<img width="1426" height="893" alt="image" src="https://github.com/user-attachments/assets/9f453b69-43cd-4859-8635-ba1d83a3f9c6" />
 
+* 1, 8, 27, 64, 125
+* 111 + 125 -> 236.
+* Addition of the cubes of the numbers. [Formula]
 
 
 
