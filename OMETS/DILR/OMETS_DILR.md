@@ -44,6 +44,31 @@
 * 6 * 120 -> 720.  [Formula]
 
 <img width="1424" height="897" alt="image" src="https://github.com/user-attachments/assets/7d56ea0c-05af-4b1b-b538-efffe27b9511" />
+<img width="288" height="89" alt="image" src="https://github.com/user-attachments/assets/085d152d-7ead-4fa7-aef3-441d980ffc21" />
+
+* Yes.
+
+<img width="1410" height="800" alt="image" src="https://github.com/user-attachments/assets/a9b4af4d-bd73-4ae8-864f-b3694de10864" />
+<img width="1403" height="814" alt="image" src="https://github.com/user-attachments/assets/5984a0ee-24fb-4285-9eb2-86d1b7c9e9e4" />
+
+* 1, 4, 24, 180.
+* Multiplication by **prime** nos. [Formula]
+
+<img width="1415" height="803" alt="image" src="https://github.com/user-attachments/assets/7c4ca6e8-b1e3-43ab-864c-4a91465e4175" />
+<img width="1421" height="808" alt="image" src="https://github.com/user-attachments/assets/c863a26a-6d63-4317-93bb-e2c94c24b288" />
+
+* 1/2(0.5), 1, 1.5, 2, 2.5, 3
+* 135 * 3 -> 405.
+* Multiplication by **fractions**. [Formula]
+
+
+
+
+
+
+
+
+
 
 
 
