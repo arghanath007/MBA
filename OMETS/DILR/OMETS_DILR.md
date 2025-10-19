@@ -131,34 +131,75 @@
 
 * [VERY IMPORTANT]
 
+### Number Series (2) [2]
 
+<img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/c3274d2b-3df3-4d10-90f2-7593f90a666f" />
+<img width="1421" height="812" alt="image" src="https://github.com/user-attachments/assets/39043b0d-f6aa-4308-9e58-0bb6703e3004" />
 
+* Consecutive Prime numbers. [Formula] [VERY IMPORTANT]
 
+<img width="1417" height="813" alt="image" src="https://github.com/user-attachments/assets/d0950797-bfe8-45d1-a5eb-7b5624d8fc3d" />
+<img width="1414" height="820" alt="image" src="https://github.com/user-attachments/assets/ed1e1498-1b0b-41ed-80cd-b5318a7dbc12" />
+<img width="1404" height="796" alt="image" src="https://github.com/user-attachments/assets/33297b17-7ad8-4385-b75e-f678de8932b2" />
 
+*14, 10, 6, 8,  
+* Every other/alternate Prime numbers. [Formula] [VERY IMPORTANT]
 
+<img width="1415" height="826" alt="image" src="https://github.com/user-attachments/assets/74944350-d2a5-47e3-a3e8-12fb00401edb" />
 
+* 2,1,1,2,2,1
+* 20 + 1 -> 21.
+* Consecutive composite numbers. [Formula] [VERY IMPORTANT]
 
+<img width="197" height="78" alt="image" src="https://github.com/user-attachments/assets/4291e206-c77d-487b-9ce7-6290c3aeaea5" />
 
+* 12^2 -> 144.
+* Squares of consecutive numbers. [Formula]
 
+<img width="1395" height="806" alt="image" src="https://github.com/user-attachments/assets/4a50ccd0-f50c-46f5-8fe4-b0a12d0fcf3a" />
 
+* 8^3 -> 512.
+* Cubes of consecutive numbers. [Formula]
+<img width="1408" height="800" alt="image" src="https://github.com/user-attachments/assets/f597c7b2-10cf-4638-a914-560f42385dee" />
 
+* 12, 16, 20, 24, 28.
+* 126 + 28 -> 154.
+* Adding '4' to the difference between the numbers. [Formula]
 
+<img width="1411" height="833" alt="image" src="https://github.com/user-attachments/assets/ec52de79-d29b-47c2-9cad-afd2235858a2" />
 
+* 37, 31, 29, 23, 19, 17
+* 124+29 -> 153.
+* Decreasing Prime numbers addition series. [Formula] [VERY IMPORTANT]
 
+<img width="1406" height="802" alt="image" src="https://github.com/user-attachments/assets/2d199e7f-f1d1-4b54-ba1f-f17423fd9114" />
 
+* 4,9, 16, 25, 36, 49
+* 61 + 36 -> 97
+* 97 + 49 -> 146
 
+<img width="1429" height="821" alt="image" src="https://github.com/user-attachments/assets/244c2ac8-0ea0-41d3-9dbc-95e278b75e38" />
 
+* 216, 125, 64, 27, 8
+* 507 + 8 -> 515.
+* The difference between the consecutive nos is a cube itself. [Formula]
 
+<img width="1400" height="826" alt="image" src="https://github.com/user-attachments/assets/e60d8a8e-e2fe-47e5-9d7d-71032194ddbe" />
+<img width="1420" height="821" alt="image" src="https://github.com/user-attachments/assets/b15b5ad9-6281-4082-97f9-ba5871e97b6f" />
 
+* 4, 6, 8, 9,10
+* 1054 + 10 -> 1064.
+* We are ignoring/skipping the prime nos, when doing the additions. [Formula]
 
+<img width="1418" height="823" alt="image" src="https://github.com/user-attachments/assets/e0e8b114-3945-4d7f-97d7-d7b32a0cc039" />
 
+* -6, 0, 3, 9, 27,81
+* 3^4 -> 81.
+* Multiplying the nos with fractions. [Formula] [VERY IMPORTANT]
 
+<img width="1413" height="837" alt="image" src="https://github.com/user-attachments/assets/dd2b2f02-c77e-4690-a3f6-3163c4a4d608" />
 
-
-
-
-
-
+* Start from 31mins.
 
 
 
