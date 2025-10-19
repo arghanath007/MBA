@@ -91,24 +91,45 @@
 * 2,3,5,7,11,13,17 -> Cube of the prime nos. [Formula]
 * 17^3 -> 4913. [Correct]
 
-
 <img width="1409" height="826" alt="image" src="https://github.com/user-attachments/assets/cd788c3d-f973-46d4-8022-05f4ade29aa6" />
 
+* 9,-2, 13, -4, 15, -6.
+* 56-6 -> 50.
 
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/84056da3-5c3f-4154-b03b-b7e8f32c2b34" />
+<img width="1427" height="825" alt="image" src="https://github.com/user-attachments/assets/2c36cff4-467c-4d30-950d-9fb264a23668" />
 
+* [VERY IMPORTANT]
+* 2 series are combined together. [Formula]
 
+<img width="1400" height="804" alt="image" src="https://github.com/user-attachments/assets/80969538-460e-49e8-a49f-92d1d4ff5f71" />
 
+* 14, 28, 42, 56, 70
+* 162 + 70 -> 232.
 
+<img width="1397" height="804" alt="image" src="https://github.com/user-attachments/assets/bd94abfa-bf8b-4928-bbb8-524d343f8414" />
 
+* 19^2 -2, 17^2-363, 15^2-652, 13^2-877, 11^2-1046, 9^2-1167.
+* 1167+9^2 -> 1248.
+* Square of odd nos and addition from the previous number. [Formula]
 
+<img width="1419" height="824" alt="image" src="https://github.com/user-attachments/assets/b2a9b52e-0977-49e3-be7f-ecdf9d552816" />
+<img width="1411" height="803" alt="image" src="https://github.com/user-attachments/assets/117e5f37-b711-4d56-ae3e-0c9055d68959" />
 
+* 13, 14, 16, 19, 23, 28 [23+5 -> 28]
+* 91 + 28 -> 119.
 
+<img width="1436" height="822" alt="image" src="https://github.com/user-attachments/assets/5b75afb9-1a2c-47c7-9b2b-a023a961cdc8" />
 
+* 8, 7, 5, 10 -> 
 
+<img width="438" height="92" alt="image" src="https://github.com/user-attachments/assets/986259ec-a348-4b5b-b143-816032482e32" />
 
+* Yes. [Formula]
 
+<img width="1424" height="822" alt="image" src="https://github.com/user-attachments/assets/ee671263-2df3-49b0-a95c-27cae4d652fe" />
 
-
+* [VERY IMPORTANT]
 
 
 
