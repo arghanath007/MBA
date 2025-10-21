@@ -276,13 +276,18 @@
 
 ### Missing Alphabet (3) [3]
 
+<img width="1414" height="800" alt="image" src="https://github.com/user-attachments/assets/42b63e99-4627-4ee1-b921-06fcfba01a34" />
 
+* Reverse Counting. [Formula] [VERY IMPORTANT]
 
+<img width="443" height="82" alt="image" src="https://github.com/user-attachments/assets/2935241a-b186-4597-8884-4e2fbaec5fa7" />
 
+* Till 150.
 
+<img width="1404" height="805" alt="image" src="https://github.com/user-attachments/assets/024a4fa1-a130-4af0-baad-9d3dab8a421c" />
+<img width="1412" height="792" alt="image" src="https://github.com/user-attachments/assets/299aadf0-8c72-4b24-8095-7ead39fddb4b" />
 
-
-
+* [Formula] [VERY IMPORTANT]
 
 
 
