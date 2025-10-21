@@ -199,14 +199,82 @@
 
 <img width="1413" height="837" alt="image" src="https://github.com/user-attachments/assets/dd2b2f02-c77e-4690-a3f6-3163c4a4d608" />
 
-* Start from 31mins.
+* 8, 36, 48, 192, 288
+* 1,2,6, 12, 36, 72. [Multiples of '8']
 
+<img width="1408" height="813" alt="image" src="https://github.com/user-attachments/assets/2994bc8a-8854-4908-95c0-b7a4e33c3548" />
+<img width="1433" height="823" alt="image" src="https://github.com/user-attachments/assets/d36d3e07-baac-4305-8a91-73a5d560ceb4" />
 
+* 40/3, 15,
+* 40/3 -> 40/3 * 3/3 -> 120/9.
+* [VERY IMPORTANT]
 
+<img width="1398" height="835" alt="image" src="https://github.com/user-attachments/assets/722b1d65-c21d-4e9e-bd4d-d2d3d0ef1103" />
 
+* 250, 2, 754, 2, 1504
+* 250 * 6 + 4 -> 1504
+* 1131 + 1504 -> 2635
+* 125 * 3 -> 375.
+* 375 + 2 -> 377
+* 377 * 3 -> 1131.
+* 1131 + 2 -> 1133.
+* 1133 * 3 -> 3399. [Ans] [VERY IMPORTANT]
+* Alternate series of '*3' and '+2'.
 
+<img width="257" height="98" alt="image" src="https://github.com/user-attachments/assets/14f5b497-b8fc-4db2-90e3-4af590342f06" />
+<img width="1410" height="829" alt="image" src="https://github.com/user-attachments/assets/22f09f6c-408e-47c9-86f5-a1750871b773" />
 
+* 12 * 3 - 1 -> 36-1 -> 35.
 
+<img width="178" height="86" alt="image" src="https://github.com/user-attachments/assets/81eef99f-4511-4e7a-96ca-e91171a59f73" />
+<img width="1419" height="835" alt="image" src="https://github.com/user-attachments/assets/85bd967c-358d-4b6e-96cd-6598f12eda73" />
+
+* 8, 28, 44, 172
+* 8*3+4 -> 28.
+* 8*5 +4 -> 44.
+* 8*21 + 4 -> 172
+* 5 * 2 +3-> 13.
+* 13 * 3 + 2 -> 41.
+* 41 * 2 + 3 -> 85.
+* 85 * 3 + 2 -> 257.
+* 257 * 2 + 3 -> 517. [Ans] [VERY IMPORTANT]
+
+<img width="692" height="167" alt="image" src="https://github.com/user-attachments/assets/a04d5433-79db-45e5-a26a-c354f6e8a16e" />
+<img width="151" height="81" alt="image" src="https://github.com/user-attachments/assets/ae4d7747-6844-46ce-994b-292108359394" />
+
+* Alternate series. [Formula]
+
+<img width="1395" height="473" alt="image" src="https://github.com/user-attachments/assets/58b1a2a6-3dab-4ec5-859d-1013f4ce25af" />
+
+* 36. [Ans]
+
+<img width="279" height="279" alt="image" src="https://github.com/user-attachments/assets/8438a367-daa8-483a-8d8c-42b4ac47be40" />
+<img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/deb54b3e-e3da-4399-a10b-fd0e0aec8ceb" />
+<img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/232e6936-294b-4358-96a9-bbbccd21f81b" />
+<img width="1405" height="802" alt="image" src="https://github.com/user-attachments/assets/ebcbda47-8cd9-40a3-86e8-e1f7cc0a977c" />
+<img width="1440" height="886" alt="image" src="https://github.com/user-attachments/assets/39152f96-4916-4da6-8232-4b53eb8ecae1" />
+<img width="1437" height="849" alt="image" src="https://github.com/user-attachments/assets/2b952a28-ffa2-414c-a83b-7b7b5116e5be" />
+
+* 9, 20, 42, 66, 78
+
+<img width="1429" height="893" alt="image" src="https://github.com/user-attachments/assets/8b796530-329e-40e2-9d36-fc5443202c8b" />
+
+* 242, 418, 642, 914.
+
+<img width="256" height="88" alt="image" src="https://github.com/user-attachments/assets/a9948351-9d54-4a7d-99f5-a7be3b1c10ad" />
+
+* [Formula]  [VERY IMPORTANT]
+* Odd nos. cube.
+
+<img width="209" height="117" alt="image" src="https://github.com/user-attachments/assets/b23e76bc-59b2-45bf-a719-9eb9fc14ea48" />
+<img width="1431" height="808" alt="image" src="https://github.com/user-attachments/assets/29c1ce1c-09eb-40ec-abd5-c9755f61c7f9" />
+
+* Ans -> Option **B** -> 3600. 
+
+<img width="1438" height="811" alt="image" src="https://github.com/user-attachments/assets/300ac743-beab-4333-bc1e-7d2dac5aa5e6" />
+<img width="1410" height="814" alt="image" src="https://github.com/user-attachments/assets/71936b1a-22bb-4c05-89bd-cf1055a7773b" />
+
+### Missing Alphabet (3) [3]
 
 
 
