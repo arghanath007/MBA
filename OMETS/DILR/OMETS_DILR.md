@@ -3,6 +3,7 @@
 ## IMPORTANT INFO
 
 <img width="1414" height="787" alt="image" src="https://github.com/user-attachments/assets/708ad80e-98f9-4486-bf2b-f93b15d9742c" />
+<img width="422" height="114" alt="image" src="https://github.com/user-attachments/assets/ffe7765b-6840-488c-ab02-2fe526e23c5b" />
 
 
 
@@ -289,6 +290,134 @@
 
 * [Formula] [VERY IMPORTANT]
 
+<img width="1024" height="601" alt="image" src="https://github.com/user-attachments/assets/98f6eb7e-fca1-4da4-a44e-6ccb6eab6457" />
+
+* Addition of '+5' everytime. [Formula]
+
+<img width="1016" height="603" alt="image" src="https://github.com/user-attachments/assets/0a2c08b2-421d-4b67-8187-56fe2cd63fd6" />
+<img width="146" height="80" alt="image" src="https://github.com/user-attachments/assets/83d7445b-f204-4b46-a638-fd85cff97b7a" />
+
+* Addition of '+5' everytime. [Formula]
+
+<img width="1436" height="866" alt="image" src="https://github.com/user-attachments/assets/6bcf3339-4c65-4068-a005-95aabe1cb0e7" />
+<img width="196" height="146" alt="image" src="https://github.com/user-attachments/assets/04b94cd8-95a6-4c93-9494-575ac45c96fb" />
+<img width="1014" height="578" alt="image" src="https://github.com/user-attachments/assets/1f22f61d-5276-46db-8c68-8eed15bffa99" />
+
+* The number is getting doubled everytime. [Formula]
+* 1 * 2 -> 2.
+* 2 * 2 -> 4.
+* 4 * 2 -> 8.
+* 8 * 2 -> 16.
+* 16 * 2 -> 32.
+
+<img width="1442" height="929" alt="image" src="https://github.com/user-attachments/assets/34a968a0-1f9e-40c5-8cca-ab07214bd67c" />
+<img width="1018" height="603" alt="image" src="https://github.com/user-attachments/assets/64fd4842-2ca9-40cf-8acd-f75b7ca06a3f" />
+
+* The numbers are even nos. [Formula]
+
+<img width="1421" height="845" alt="image" src="https://github.com/user-attachments/assets/bb34782e-3d2b-4806-b4c3-77967829519c" />
+<img width="180" height="145" alt="image" src="https://github.com/user-attachments/assets/041e221f-2aa8-4f4d-973c-eebd0690cf45" />
+<img width="1020" height="613" alt="image" src="https://github.com/user-attachments/assets/522bc09a-52f6-4fad-914d-18c8c03b67ab" />
+
+* Difference of '4' and the alphabets are in difference of '1'. [Formula]
+
+<img width="1422" height="940" alt="image" src="https://github.com/user-attachments/assets/8cd5194d-15f8-42d0-a567-811840fbb5a6" />
+<img width="1013" height="644" alt="image" src="https://github.com/user-attachments/assets/7877e86e-2e55-4120-be9b-3322201fa8e0" />
+<img width="1022" height="633" alt="image" src="https://github.com/user-attachments/assets/c8511b20-0880-4dde-a7fd-752824e50b41" />
+
+* Vowels being skipped. [Formula] [VERY IMPORTANT]
+
+<img width="1437" height="869" alt="image" src="https://github.com/user-attachments/assets/30dc1331-abb7-4c5a-b4ed-f369136ff34d" />
+<img width="1010" height="643" alt="image" src="https://github.com/user-attachments/assets/d85a9f9c-b45f-46c7-ae89-e0fd4d494593" />
+<img width="1014" height="632" alt="image" src="https://github.com/user-attachments/assets/3f001e80-843c-4b85-be11-3825163de784" />
+<img width="1014" height="632" alt="image" src="https://github.com/user-attachments/assets/7910bae5-4b62-4152-b9a2-752504485007" />
+
+* Reverse of alphabets and vowels. [Formula] [VERY IMPORTANT]
+
+<img width="1417" height="820" alt="image" src="https://github.com/user-attachments/assets/b0162fe5-33a7-4e56-a34d-6012b2f609dc" />
+<img width="1402" height="793" alt="image" src="https://github.com/user-attachments/assets/37d8829a-1bb7-47e9-8ca1-2aeb6c01124f" />
+
+* 1st Alphabet -> Prime nos.
+* Sum of the nos. of both the alphabets -> 27.
+* 13 + 14 -> 27.
+
+<img width="148" height="78" alt="image" src="https://github.com/user-attachments/assets/787e578e-21b0-43f3-9563-5ff40d2b6f83" />
+<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/f7a1a5b9-e1d9-4c2c-9621-bc2ae2e8de4b" />
+
+* Difference between alphabets -> +4, +6 -> +10. [Formula] [VERY IMPORTANT]
+
+<img width="238" height="65" alt="image" src="https://github.com/user-attachments/assets/ca9afa36-a5dd-43f1-8402-36d7bc4d5309" />
+
+* Yes.
+
+<img width="1436" height="914" alt="image" src="https://github.com/user-attachments/assets/60819e4a-93da-40a1-b31f-786434adf325" />
+<img width="1410" height="815" alt="image" src="https://github.com/user-attachments/assets/c98bd97f-c434-4ec8-b7ea-6ca3a9614eae" />
+
+* Difference between alphabets is using prime nos. [Formula]
+* 1st Alphabet, 2nd Alphabet -> Difference of Prime nos.
+* 5 + 11 -> 16 -> P.
+
+<img width="1428" height="869" alt="image" src="https://github.com/user-attachments/assets/b2699fd3-86d3-456c-a0f9-877a64c68a2b" />
+<img width="1403" height="753" alt="image" src="https://github.com/user-attachments/assets/51483d12-5e9f-4f6b-85c5-375113e46ed6" />
+<img width="1412" height="767" alt="image" src="https://github.com/user-attachments/assets/8bf08800-ae82-4083-a6ef-0c7a26113058" />
+
+* Difference between alphabets -> +3-+3, +10-+10-+10. [Formula]
+
+<img width="315" height="69" alt="image" src="https://github.com/user-attachments/assets/23104df8-6058-4c5f-a0d6-ab8b3fc960f6" />
+
+* Yes.
+
+<img width="1442" height="913" alt="image" src="https://github.com/user-attachments/assets/a83d1d6b-14cc-4c33-922f-d18655865e3b" />
+<img width="146" height="74" alt="image" src="https://github.com/user-attachments/assets/0f847132-f435-4a33-96bb-a4948399c6c6" />
+<img width="1391" height="801" alt="image" src="https://github.com/user-attachments/assets/d630ee15-e22c-4be7-a0fd-e349d4d3db00" />
+
+* Difference between alphabets -> +3-+3, +10-+10-+10. [Formula]
+
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/2a911313-0e3f-4472-8192-ca9583abf4d4" />
+
+* It is not option **C**. It is Option **A**.
+* Ans -> Option **A**. [VERY IMPORTANT]
+
+<img width="254" height="64" alt="image" src="https://github.com/user-attachments/assets/67858c88-4ba5-450c-b054-6bd4f4f15e13" />
+
+* Yes.
+
+<img width="1422" height="822" alt="image" src="https://github.com/user-attachments/assets/a7c00651-6b0c-467e-a9d4-c65e450aac9f" />
+<img width="1411" height="812" alt="image" src="https://github.com/user-attachments/assets/c2f98ac0-0d20-4661-8fe9-d3b659858847" />
+
+* [VERY IMPORTANT]
+
+<img width="1406" height="795" alt="image" src="https://github.com/user-attachments/assets/a68e96bc-176c-4637-b139-10f8828ee95f" />
+<img width="1440" height="914" alt="image" src="https://github.com/user-attachments/assets/8129c988-5f58-48d7-b933-3be259324525" />
+
+* 10 - 10 -> 0 -> 26 -> Z.
+* 14-10 -> 4 -> D.
+
+<img width="1402" height="801" alt="image" src="https://github.com/user-attachments/assets/32dc9563-60fe-4234-87df-b878eda2398d" />
+<img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/a165e751-c7be-448e-aa17-ad5f54a9e373" />
+<img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/76b016bf-d0b5-4b0f-a7ed-01cddad3984a" />
+
+* Not YAAS. It is 'UAB'.
+* 21 + 6 -> 27 -> 26 + 1 -> A.
+* 23 * 2 -> 46 -> 26 + 20 -> 20 -> T.
+* P -> 16.
+
+<img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/29f35ae7-f38f-45a7-bcfc-b0c75aeefbd9" />
+
+* [VERY IMPORTANT]
+
+<img width="176" height="71" alt="image" src="https://github.com/user-attachments/assets/45963253-6308-4f34-a9fe-ef06d322315a" />
+<img width="1429" height="825" alt="image" src="https://github.com/user-attachments/assets/79a118c9-52b1-41b0-8a59-d8b9c1b35799" />
+
+* 25 * 2 -> 50 -> 26 + 24 -> 24 -> X
+
+<img width="1140" height="647" alt="image" src="https://github.com/user-attachments/assets/4bff1ad4-165d-4644-9cd7-ba1e3e3f2a29" />
+
+### Coding Decoding (1) [4]
+
+<img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/64365faf-6103-4b85-93da-5f745904cac4" />
+<img width="1425" height="822" alt="image" src="https://github.com/user-attachments/assets/8aa30b5e-430f-4a19-af14-644991d899ae" />
+<img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/a26845f1-101f-47da-a14a-4691bb5d567d" />
 
 
 
