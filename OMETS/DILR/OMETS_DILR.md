@@ -418,37 +418,82 @@
 <img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/64365faf-6103-4b85-93da-5f745904cac4" />
 <img width="1425" height="822" alt="image" src="https://github.com/user-attachments/assets/8aa30b5e-430f-4a19-af14-644991d899ae" />
 <img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/a26845f1-101f-47da-a14a-4691bb5d567d" />
+<img width="1433" height="924" alt="image" src="https://github.com/user-attachments/assets/80afa0a1-8f46-4e70-921e-fce4d57158fe" />
+<img width="1422" height="797" alt="image" src="https://github.com/user-attachments/assets/cd2eaf09-a92a-443c-99be-55a5d60169fd" />
 
+* Ans -> Option **B**.
+* Prime nos and then composite nos.
 
+<img width="1433" height="817" alt="image" src="https://github.com/user-attachments/assets/f07be67c-4d3c-49c2-af26-927897832b89" />
+<img width="1439" height="928" alt="image" src="https://github.com/user-attachments/assets/b2abc195-b15d-4d9e-b910-5e048c007e1c" />
+<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/f4184e82-b866-450b-a73c-3c42c7959805" />
+<img width="1428" height="912" alt="image" src="https://github.com/user-attachments/assets/72b2c79d-676a-489f-9044-77c39edb5d7b" />
+<img width="243" height="62" alt="image" src="https://github.com/user-attachments/assets/da2c4640-a10f-4a8d-b48b-7b31e7e89bc2" />
 
+* Random pattern. [Formula] [VERY IMPORTANT]
 
+<img width="1406" height="798" alt="image" src="https://github.com/user-attachments/assets/810dcf1f-b3da-4449-bd31-6b2cbcb3e8e1" />
+<img width="1417" height="793" alt="image" src="https://github.com/user-attachments/assets/d4d31307-58f1-487f-a6f4-8a9fd7d90da0" />
+<img width="1433" height="930" alt="image" src="https://github.com/user-attachments/assets/5e661a10-3cf0-4ff7-9dd0-a0ebc96f0226" />
+<img width="1426" height="813" alt="image" src="https://github.com/user-attachments/assets/69209c2c-28fa-4cf3-9607-7a2b69dd1774" />
+<img width="188" height="75" alt="image" src="https://github.com/user-attachments/assets/e3e0744e-e005-443d-a2a3-78f2fe019c84" />
 
+* Answer.
 
+<img width="1441" height="931" alt="image" src="https://github.com/user-attachments/assets/85cfbb4f-5713-4c09-95a7-a1f63aa12abc" />
+<img width="192" height="82" alt="image" src="https://github.com/user-attachments/assets/e45a31c3-3947-4111-aadc-8b3eb664e9c4" />
+<img width="1417" height="816" alt="image" src="https://github.com/user-attachments/assets/b01648a9-9a9e-4ab7-b7c0-a869efbde97f" />
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/78f772ad-5791-4f4b-a402-8dd73613fd10" />
+<img width="268" height="76" alt="image" src="https://github.com/user-attachments/assets/e8172a8d-8e13-4bbf-9055-41ba8e1508e0" />
 
+* [Formula]
 
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/2b33e476-caa2-424e-ae4c-722ca2c9c149" />
+<img width="1436" height="923" alt="image" src="https://github.com/user-attachments/assets/daaecc07-cd61-49b3-bed2-c898c0cb0d5c" />
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/50c8d46a-6308-4d36-a1ca-1792296fa200" />
+<img width="1432" height="915" alt="image" src="https://github.com/user-attachments/assets/37bce3f8-cbcd-49d1-b21f-397ab5995c89" />
+<img width="1422" height="801" alt="image" src="https://github.com/user-attachments/assets/956ba386-29e0-447b-8bb7-15db7b8b02f4" />
+<img width="354" height="78" alt="image" src="https://github.com/user-attachments/assets/f647edcc-dc0d-4c0b-924e-84f6e6e8fcef" />
 
+* Yes.
+* KD.
 
+<img width="1413" height="792" alt="image" src="https://github.com/user-attachments/assets/732f0f05-7874-4de4-8353-ccec7d5522c0" />
+<img width="1414" height="797" alt="image" src="https://github.com/user-attachments/assets/f6cd5ae2-5f92-4ab8-95cd-488bc1735c30" />
+<img width="1421" height="941" alt="image" src="https://github.com/user-attachments/assets/ee301f93-eb47-4512-b574-77f7dcfef966" />
+<img width="1419" height="791" alt="image" src="https://github.com/user-attachments/assets/b94df689-7b46-46da-9bf2-129280e1a3ac" />
 
+* I -> 9
+* 9 * 2 -> 18 -> R.
 
+<img width="1423" height="839" alt="image" src="https://github.com/user-attachments/assets/cd9915c4-2fb1-4338-ba8e-760fc3326458" />
+<img width="288" height="90" alt="image" src="https://github.com/user-attachments/assets/0d8245bc-cbe6-4cad-8771-4c60da1d7b67" />
 
+* [Formula]
 
+<img width="1437" height="913" alt="image" src="https://github.com/user-attachments/assets/bc1ef49e-81f2-466f-9dad-0e0948560ddf" />
 
+* Coded as -> Coded word given -> We have to find the **word**. [VERY IMPORTANT]
 
+<img width="1395" height="789" alt="image" src="https://github.com/user-attachments/assets/70532646-3c1b-4db4-986d-553b9b060cf3" />
+<img width="1398" height="792" alt="image" src="https://github.com/user-attachments/assets/1e9fc225-315f-4454-be61-955038d2ef87" />
 
+* [VERY IMPORTANT]
 
+<img width="1438" height="917" alt="image" src="https://github.com/user-attachments/assets/26ab10dc-829a-410e-b35d-74c9108a7444" />
+<img width="1398" height="804" alt="image" src="https://github.com/user-attachments/assets/e366fa27-8fac-40c7-a838-4d467bcb04f5" />
+<img width="1420" height="814" alt="image" src="https://github.com/user-attachments/assets/ebb24437-6f5c-496e-9466-311916513f60" />
+<img width="1416" height="812" alt="image" src="https://github.com/user-attachments/assets/dbec62ad-7cca-4c33-8842-6a8a0f6ca233" />
 
+* Alternative of '+2 and *2'. [Formula] [VERY IMPORTANT]
 
+<img width="1417" height="808" alt="image" src="https://github.com/user-attachments/assets/c21037cc-c828-4125-b875-6d4880901979" />
+<img width="1435" height="911" alt="image" src="https://github.com/user-attachments/assets/89585ea2-d28f-43d0-a27e-b804a85f3595" />
+<img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/daa655a5-45e4-4e5b-a600-42ed646a056c" />
 
+* [Formula] [VERY IMPORTANT]
 
-
-
-
-
-
-
-
-
-
+### Coding, Decoding (2) [5]
 
 
 
