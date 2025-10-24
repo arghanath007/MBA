@@ -495,10 +495,21 @@
 
 ### Coding, Decoding (2) [5]
 
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/da592e87-8ad8-4954-9027-286e2255b472" />
 
+* [Formula] [VERY IMPORTANT]
+* 3 + 24 -> 27.
 
+<img width="1422" height="817" alt="image" src="https://github.com/user-attachments/assets/56baecce-78fd-4391-a5be-4cbdfb19ce5b" />
 
+* Y -> 25, B -> 2.
+* 25 + 2 -> 27.
+* The sum should be '27'.
+* A -> 1.
+* 27 - 1 -> 26 -> Z.
+* Ans -> Option **A**.
 
+<img width="1417" height="830" alt="image" src="https://github.com/user-attachments/assets/6429c85b-bd8e-41a7-b8f1-fc576d7975f5" />
 
 
 
