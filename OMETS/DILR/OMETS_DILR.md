@@ -5,6 +5,9 @@
 <img width="1414" height="787" alt="image" src="https://github.com/user-attachments/assets/708ad80e-98f9-4486-bf2b-f93b15d9742c" />
 <img width="422" height="114" alt="image" src="https://github.com/user-attachments/assets/ffe7765b-6840-488c-ab02-2fe526e23c5b" />
 
+## Next Class
+
+<img width="260" height="77" alt="image" src="https://github.com/user-attachments/assets/7a4ed8c1-e064-4b78-abfc-9106ac549d13" />
 
 
 ### Series (1) [1]
@@ -647,14 +650,45 @@
 <img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/5d4541dc-97eb-4bdf-80e1-f7d3ecee6a4f" />
 <img width="1419" height="816" alt="image" src="https://github.com/user-attachments/assets/d4ff8435-34cc-413f-8b20-4ac787b1a243" />
 <img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/24a16f15-2086-4959-9bf5-ac457cb8cc84" />
+<img width="1437" height="912" alt="image" src="https://github.com/user-attachments/assets/96e30f3b-aab9-4656-8f9b-4b5516238b77" />
+<img width="1423" height="812" alt="image" src="https://github.com/user-attachments/assets/f5fc953d-d951-4428-bda2-4561a461e17b" />
 
+* Ans -> Option **E**.
 
+<img width="1439" height="929" alt="image" src="https://github.com/user-attachments/assets/79ec81b6-40a2-44c2-b83b-a84bf02b40dc" />
+<img width="1418" height="786" alt="image" src="https://github.com/user-attachments/assets/d90bc862-58a2-4251-ad13-8dd9e178d02b" />
 
+* Ascending order of alphabets and then coding of the alphabets. [Formula] [VERY IMPORTANT]  
 
+<img width="1415" height="797" alt="image" src="https://github.com/user-attachments/assets/aaddf807-f3f9-4809-8680-a9c26319cd9f" />
+<img width="1416" height="811" alt="image" src="https://github.com/user-attachments/assets/20acef57-b3ce-4246-a148-37f42bd3ec62" />
+<img width="1416" height="794" alt="image" src="https://github.com/user-attachments/assets/a24879c7-5695-4130-b3bd-cf8d5abb8c16" />
+<img width="1411" height="791" alt="image" src="https://github.com/user-attachments/assets/edb1fe15-1d31-4b60-bf8e-377df38d6a0a" />
 
+* Ans -> Option **B**.
 
+<img width="1426" height="812" alt="image" src="https://github.com/user-attachments/assets/80e32d26-81d7-4926-a266-6ae5ff727c81" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/b40ad1a6-96ad-4f22-9edb-739eb6c945d2" />
 
+* Alternative of '+1' and '-1'. [Formula]
 
+<img width="1420" height="823" alt="image" src="https://github.com/user-attachments/assets/a9f81256-c9ea-43e3-bd9f-45958fe14f6e" />
+<img width="1406" height="800" alt="image" src="https://github.com/user-attachments/assets/f84bd2a5-abd8-4e70-a6a9-16c62395fb50" />
+<img width="1419" height="798" alt="image" src="https://github.com/user-attachments/assets/60ecc966-a18f-4584-a75c-4864df571f42" />
+<img width="232" height="72" alt="image" src="https://github.com/user-attachments/assets/42065ff2-ab8a-4bc3-8a79-a50a9fa3545d" />
+
+* Yes.
+
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/99a1ecc3-c80a-48e3-a503-36a0da4cb481" />
+<img width="1418" height="846" alt="image" src="https://github.com/user-attachments/assets/2d86d7fc-525f-4dd4-9c99-71deae646315" />
+<img width="1413" height="798" alt="image" src="https://github.com/user-attachments/assets/51da40c4-9070-43cb-a83a-3e9f4874b724" />
+<img width="1407" height="802" alt="image" src="https://github.com/user-attachments/assets/8ef30266-ca4c-4af7-82bb-2ca8e7003a1a" />
+
+* Vovel -> Next Vowel, Consonent -> Next Consonent. [Formula]
+
+<img width="1405" height="799" alt="image" src="https://github.com/user-attachments/assets/06befc49-dee0-40dd-b3f0-5bdb499f0c51" />
+
+### Directions (1) [7]
 
 
 
