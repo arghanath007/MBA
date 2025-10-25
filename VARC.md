@@ -1490,11 +1490,11 @@
 ![image](https://github.com/user-attachments/assets/9bd5183e-0ed1-4cf5-ad55-4f9a7722ed24)
 ![image](https://github.com/user-attachments/assets/00e89ee3-f3a9-4933-86b4-c68e1ca3819b)
 
+### Vocab (41) [3]
 
+<img width="1439" height="924" alt="image" src="https://github.com/user-attachments/assets/87936654-36b1-47a5-b9dd-c24b046174b3" />
 
-
-
-
+* Start from 6mins.
 
 
 
@@ -4069,6 +4069,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
