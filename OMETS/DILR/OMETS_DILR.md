@@ -504,12 +504,206 @@
 
 * Y -> 25, B -> 2.
 * 25 + 2 -> 27.
-* The sum should be '27'.
+* The sum should be '27'. [Formula] [VERY IMPORTANT]
 * A -> 1.
 * 27 - 1 -> 26 -> Z.
 * Ans -> Option **A**.
 
 <img width="1417" height="830" alt="image" src="https://github.com/user-attachments/assets/6429c85b-bd8e-41a7-b8f1-fc576d7975f5" />
+<img width="1406" height="830" alt="image" src="https://github.com/user-attachments/assets/aec71e5a-862e-4c24-82c7-f12a6cfde77a" />
+<img width="1396" height="796" alt="image" src="https://github.com/user-attachments/assets/8ed5aceb-d85c-442e-9f6f-199ed871649e" />
+<img width="1436" height="917" alt="image" src="https://github.com/user-attachments/assets/81ca962e-8c2e-424e-b1ef-9827b58fc1ad" />
+
+* The opposite alphabet. [Formula]
+* The sum should be '27'. This also works. [Formula]
+
+<img width="1419" height="791" alt="image" src="https://github.com/user-attachments/assets/6fadf0dd-a43c-4ffe-9c55-50044789c07c" />
+<img width="1427" height="910" alt="image" src="https://github.com/user-attachments/assets/4788b73f-9082-4580-8e60-d9ad4c2ddf8f" />
+
+* The difference is '13'. [Formula] [VERY IMPORTANT]
+* 26-13 -> 13.
+* 20-7 -> 13.
+
+<img width="1406" height="809" alt="image" src="https://github.com/user-attachments/assets/1bd17728-5b32-4aa1-b829-859ede62ff1b" />
+<img width="1437" height="928" alt="image" src="https://github.com/user-attachments/assets/086ac359-1ea5-43f9-8db8-b05f489cd624" />
+
+* The alphabets are arranged in increasing order of their values. [Formula]
+* The alphabets are arranged in alphabetic order.
+
+<img width="1406" height="818" alt="image" src="https://github.com/user-attachments/assets/a6ba20c2-19ef-45c5-92d2-d090eee4439d" />
+<img width="1433" height="924" alt="image" src="https://github.com/user-attachments/assets/cf3a5833-71cb-4f83-ad87-8722ec6bf5c5" />
+<img width="1413" height="810" alt="image" src="https://github.com/user-attachments/assets/e794ee68-0395-4efb-8e9a-9ce5bd0f217a" />
+
+* 13 + 1 -> 14.
+* 13 - 1 -> 12.
+
+<img width="1416" height="809" alt="image" src="https://github.com/user-attachments/assets/4123c366-732d-4cf6-8d35-464b10802ffa" />
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/03c8988f-c1e8-42d8-b104-afa723619687" />
+<img width="1403" height="805" alt="image" src="https://github.com/user-attachments/assets/e8e5182b-7ee5-4cf7-83fc-1498ff43be20" />
+<img width="1422" height="821" alt="image" src="https://github.com/user-attachments/assets/a12ebdc0-254a-4de1-840f-a5bcbf018b5f" />
+<img width="1413" height="816" alt="image" src="https://github.com/user-attachments/assets/38adb664-38aa-45eb-ba12-b30eac492dfc" />
+
+* [VERY IMPORTANT]
+
+<img width="1408" height="806" alt="image" src="https://github.com/user-attachments/assets/ce9c1641-ee95-493d-8fbb-0ae25ed1dcba" />
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/3ae90889-74d3-4733-a572-bc5e72d215ef" />
+
+* First the vowels and then the consonents. [Formula] 
+
+<img width="1399" height="796" alt="image" src="https://github.com/user-attachments/assets/2fedd987-b635-4fc7-82ad-35c8515c3b4c" />
+<img width="1402" height="803" alt="image" src="https://github.com/user-attachments/assets/71ea1c33-66e4-4736-b4ef-f7707b5a78fd" />
+
+* Vowel -> Next Vowel, Consonent -> Next consonent. [Formula] [VERY IMPORTANT]
+
+<img width="1412" height="821" alt="image" src="https://github.com/user-attachments/assets/5505fb83-e154-4a27-96e3-2323d3088aa7" />
+<img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/47b38e0c-ad17-4876-b60d-780bac399803" />
+<img width="1407" height="800" alt="image" src="https://github.com/user-attachments/assets/aed8f7c7-5c29-430c-9638-f7adf320201e" />
+<img width="1419" height="801" alt="image" src="https://github.com/user-attachments/assets/7bb3a50d-244e-4ad5-b4ff-c53b8a739fb9" />
+<img width="1437" height="924" alt="image" src="https://github.com/user-attachments/assets/91b0ba71-fb95-4507-a0f2-46ae820f5119" />
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/f045da6f-825d-46ac-84bb-b54c47b9a175" />
+<img width="1435" height="913" alt="image" src="https://github.com/user-attachments/assets/b5f5d5c5-8407-49e4-a35e-38cab1d63056" />
+
+* Sum of alphabet values. [Formula]
+
+<img width="1402" height="795" alt="image" src="https://github.com/user-attachments/assets/76413ee0-290c-4973-960a-86f0063086fe" />
+<img width="1437" height="920" alt="image" src="https://github.com/user-attachments/assets/d05a4424-42ed-46cb-b0aa-0042643e238d" />
+
+* Sum of the alphabet values * the no. of alphabets. [Formula]
+* 33 * 5 -> 165.
+
+<img width="1397" height="795" alt="image" src="https://github.com/user-attachments/assets/eb83efcf-7353-4632-97cb-fa4634486b8e" />
+<img width="1399" height="792" alt="image" src="https://github.com/user-attachments/assets/3af4a88d-f688-4336-b986-40cfe42aeb3f" />
+<img width="1435" height="929" alt="image" src="https://github.com/user-attachments/assets/611bec11-0e76-43cc-bb92-41d45e01b5b0" />
+
+* Finding the sum of the alphabet values and then reverse the addition value.  [Formula]
+
+<img width="1439" height="928" alt="image" src="https://github.com/user-attachments/assets/a4898b6b-b91f-490b-af12-1ea7b2f9795c" />
+
+* Sum of the alphabet values + the no. of alphabets. [Formula]
+
+<img width="1401" height="798" alt="image" src="https://github.com/user-attachments/assets/d7bd5549-5308-4c82-84f8-ac9508a0f93d" />
+<img width="1427" height="913" alt="image" src="https://github.com/user-attachments/assets/9f610569-7c3e-47e6-98bb-0c829df25189" />
+<img width="1418" height="793" alt="image" src="https://github.com/user-attachments/assets/55184143-fe0b-4971-9599-dacbe085ceaf" />
+
+* Human Blood -> Red.
+
+<img width="1442" height="898" alt="image" src="https://github.com/user-attachments/assets/ccaeb052-343e-49ea-8c1e-f8c7b3173490" />
+<img width="1400" height="787" alt="image" src="https://github.com/user-attachments/assets/f10d2233-55e8-4f1d-9e6f-d61274c1e37c" />
+
+* Clean Blackboard -> Duster.
+
+<img width="1441" height="921" alt="image" src="https://github.com/user-attachments/assets/56cf6218-3aab-4a07-9cd1-8448c771d0f7" />
+<img width="1408" height="789" alt="image" src="https://github.com/user-attachments/assets/0f974e3d-2e41-4ff1-8817-9b66dffe92e2" />
+<img width="1429" height="829" alt="image" src="https://github.com/user-attachments/assets/b757b4d3-15aa-4877-b2f6-b1d06b2b9d69" />
+<img width="1425" height="830" alt="image" src="https://github.com/user-attachments/assets/ebcc1e96-4476-4dfe-b765-160c7b2e8b00" />
+
+* Q32 -> It is asked after "means" comes -> "that" language. [Formula] [VERY IMPORTANT]
+
+<img width="1425" height="830" alt="image" src="https://github.com/user-attachments/assets/74df9250-ca9b-4d35-b26e-81dc361e4632" />
+
+* Q33 -> It is asked before "means" comes -> "the" language. [Formula] [VERY IMPORTANT]
+
+<img width="1430" height="919" alt="image" src="https://github.com/user-attachments/assets/77fe69fd-468c-4064-ae5f-45724f329367" />
+<img width="1409" height="816" alt="image" src="https://github.com/user-attachments/assets/85075763-d6cc-467c-9c19-bc5c568d7cb6" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/6edf1379-b448-4bb4-8f12-f0cbe4d02e12" />
+<img width="1399" height="796" alt="image" src="https://github.com/user-attachments/assets/f220fdd3-5f6b-46ed-9a1a-acee931df2f5" />
+<img width="1409" height="806" alt="image" src="https://github.com/user-attachments/assets/42ed7eb5-4640-41e0-a70f-9fc5954ad301" />
+<img width="1439" height="921" alt="image" src="https://github.com/user-attachments/assets/08db923b-0317-4838-abce-09018e9ecb3f" />
+
+* Alphabet's value * 3 + 1. [Formula] 
+
+<img width="1404" height="805" alt="image" src="https://github.com/user-attachments/assets/5dabf8f9-bbbc-4a85-bc5a-85b912a7c23e" />
+<img width="1435" height="908" alt="image" src="https://github.com/user-attachments/assets/5f211306-9446-4c4f-9ecd-b41a68c45919" />
+<img width="1416" height="808" alt="image" src="https://github.com/user-attachments/assets/a0cf005d-7c8f-4114-bcc8-9ae4c9e8d9e5" />
+<img width="1436" height="913" alt="image" src="https://github.com/user-attachments/assets/e2d6c2b8-0e13-4f17-a6e6-ec7cba8a6f4a" />
+<img width="352" height="128" alt="image" src="https://github.com/user-attachments/assets/a407426c-3f53-4d0b-a696-eb677ff11c61" />
+
+* Coding is reversed and the middle alphabet is kept the same. [Formula] 
+
+<img width="1395" height="786" alt="image" src="https://github.com/user-attachments/assets/e8138f3d-b87b-4ed5-a574-273379dad0f3" />
+<img width="1412" height="805" alt="image" src="https://github.com/user-attachments/assets/3f254ba8-6f90-4b93-8f0f-d2e96d18e96a" />
+<img width="1436" height="910" alt="image" src="https://github.com/user-attachments/assets/55034eb4-f04c-4c25-9596-36b9ba46e174" />
+
+* 1st alphabet and last alphabet value as it is. 2nd and 3rd alphabet values are multiplied.  [Formula] 
+
+<img width="1395" height="782" alt="image" src="https://github.com/user-attachments/assets/5194f0e8-2b40-4171-b8ad-8ea9a9dd3633" />
+<img width="1405" height="781" alt="image" src="https://github.com/user-attachments/assets/e99583b3-4217-4d2e-bb87-2b1c5314c8b7" />
+<img width="1440" height="924" alt="image" src="https://github.com/user-attachments/assets/b924d737-2cf7-4803-9960-6a3f718f2730" />
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/1a1ff503-e647-424d-b2ce-298778259c75" />
+<img width="1442" height="919" alt="image" src="https://github.com/user-attachments/assets/da790b7d-6bdb-4c97-be62-cce9735378c3" />
+
+* Sir marked the wrong option.
+
+<img width="1410" height="793" alt="image" src="https://github.com/user-attachments/assets/9649f0ff-35aa-4f22-b980-469539d9c3ed" />
+
+* Ans -> Option **B**.
+* cbrt -> Cube root.
+
+<img width="670" height="275" alt="image" src="https://github.com/user-attachments/assets/e6635f1a-499e-4def-b3b4-2cc62815113f" />
+<img width="1406" height="796" alt="image" src="https://github.com/user-attachments/assets/970f05c8-380f-4f41-ab16-e8ff2cf664e4" />
+<img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/5d4541dc-97eb-4bdf-80e1-f7d3ecee6a4f" />
+<img width="1419" height="816" alt="image" src="https://github.com/user-attachments/assets/d4ff8435-34cc-413f-8b20-4ac787b1a243" />
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/24a16f15-2086-4959-9bf5-ac457cb8cc84" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
