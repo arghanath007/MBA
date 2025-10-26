@@ -1493,84 +1493,213 @@
 ### Vocab (41) [3]
 
 <img width="1439" height="924" alt="image" src="https://github.com/user-attachments/assets/87936654-36b1-47a5-b9dd-c24b046174b3" />
+<img width="1439" height="920" alt="image" src="https://github.com/user-attachments/assets/90a434a7-4d84-41d7-8d58-b2e172f69462" />
+
+* Reminisce -> Recall, remember, reflect. [MEANING]
+* Evaluate -> To judge, to test something.  [MEANING]
+* Reconcile -> Coming to an agreement.  [MEANING]
+* Recognize -> To realize.  [MEANING]
+
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/5151731f-c697-427c-a786-a206713a734e" />
+<img width="1436" height="919" alt="image" src="https://github.com/user-attachments/assets/4f54002a-04c4-45ca-b6b0-d8f2391c9bca" />
+
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+* Edifying -> Enlightening, illuminating. [MEANING]
+* Distress -> Hardship. [MEANING]
+* Scarcity -> Shortage. [MEANING]
 
-* Start from 6mins.
+<img width="1397" height="800" alt="image" src="https://github.com/user-attachments/assets/7d83a73d-3077-4f76-9b04-eda6f14ce296" />
+<img width="426" height="68" alt="image" src="https://github.com/user-attachments/assets/dd3106c6-c9d0-4810-aec7-3a340729d431" />
 
+* Yes.
 
+<img width="1427" height="934" alt="image" src="https://github.com/user-attachments/assets/a604792e-604e-43e0-90b6-5f1a48175f2d" />
 
+* Ans -> Option **C**. [Correct]
+* Option **A**. [Wrong]
+* Abandon -> Leave. [MEANING]
+* Rhetoric -> Art of persuasive speaking.  [MEANING]
+* parochialism  -> Narrow mindedness, exclusion of global perception. [MEANING]
+* Paradoxes -> Potentially contradictory situations.
+* Boundaries -> Very generalized, limited word -> Talking about geographical boundries. 
 
+<img width="1401" height="792" alt="image" src="https://github.com/user-attachments/assets/8f60c24f-f9b3-423b-947d-393030b23340" />
+<img width="1392" height="792" alt="image" src="https://github.com/user-attachments/assets/dd4e0a03-03f5-45d4-8130-c4dd29296f47" />
+<img width="1439" height="931" alt="image" src="https://github.com/user-attachments/assets/8d0ba9e3-cc8f-4f82-bda1-a37e830fc7f5" />
 
+* Ans -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+* Atrocities -> Giving people poor treatment -> a shockingly bad or atrocious act, object, or situation. [MEANING]
+* Genocide -> Mass Murder. [MEANING]
+* Cide -> Murder. [MEANING]
+* Gen -> People. [MEANING]
+* Marred -> Damage, spoil, impair. [MEANING]
+* Riddled -> Full of something damaging. [MEANING]
+* Rife -> Full, overflowing. [MEANING]
+* Riddled -> Verb.
 
+<img width="318" height="76" alt="image" src="https://github.com/user-attachments/assets/bd21c1b2-5c19-414b-b4a2-650380cadb54" />
 
+* Not here. "Riddled" is verb. 
+* Riddle -> Noun.
 
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/52bafb19-fa04-43e0-afe2-dcb16eb5f900" />
+<img width="1419" height="909" alt="image" src="https://github.com/user-attachments/assets/e4bd2e76-2b10-4379-a182-a11b23efcd2b" />
 
+* Ans -> Option **C**. [Got Correct]
+* Agitation ->  the act or an instance of agitating something : a moving back and forth or with an irregular, rapid, or violent action. [MEANING]
+* Downbeat -> Gloomy, sad, discouraged. [MEANING]
+* pervasive -> Spread widely, penetrating, omnipresent. [MEANING]
+* Popular response -> pervasive -> Means similar things only.
+
+<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/5d223cb7-e071-4aa8-b588-fd216c389913" />
+<img width="428" height="173" alt="image" src="https://github.com/user-attachments/assets/08bfeb6b-10f4-4c66-a5f4-c0e76dbb6354" />
 
+* We have to find the best fit of words in both the blanks. Extire context of the sentence is maintained. [VERY IMPORTANT]
 
+<img width="1439" height="917" alt="image" src="https://github.com/user-attachments/assets/46376fb7-e44e-4859-b4a7-8839a555e819" />
 
+* Ans -> Option **A**. [Got Correct]
+* Ironically -> 180 degree word. [VERY IMPORTANT]
+* Boast -> Pompus Talk, talk loftily. [MEANING]
+* Subhuman -> Beyond humanity, beyond human digity, beyond human worth -> Below human dignity or values. [MEANING]
+* Subhuman -> Strong negative word.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1395" height="797" alt="image" src="https://github.com/user-attachments/assets/ae4520d0-c171-4c81-9832-9ea14e77cb05" />
+<img width="1440" height="924" alt="image" src="https://github.com/user-attachments/assets/7d2e9857-3ddb-43e8-b8a0-2527be86f890" />
+
+* Ans -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* Acuteness -> Seriousness. [MEANING]
+* Truculent -> Aggressively defiant, hostile, eager to fight, tendency to fight. [MEANING]
+* Unrelenting -> Persistent, not giving up. [MEANING]
+* Surplus -> Large amount of something. [MEANING]
+* Repugnant -> Extremely distasteful, offensive. [MEANING]
+* Option **1 & 5** -> Very strong words.
+
+<img width="1395" height="787" alt="image" src="https://github.com/user-attachments/assets/7f77a77d-0bd9-4767-86bb-cad8ec789bc8" />
+<img width="282" height="75" alt="image" src="https://github.com/user-attachments/assets/93763640-7d3d-49a4-bb28-db3fd5ea2779" />
+
+* Yes. 
+
+<img width="1436" height="908" alt="image" src="https://github.com/user-attachments/assets/ddda1487-5de8-4252-9750-271b95a152f3" />
+
+* Ans -> Option **C**. [Got Correct]
+* Meagre -> Very less. [MEANING]
+* The witness's testimony simply didn't add up. [Correct]
+
+<img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/185efe4b-6806-439b-8597-97ae15ac42ec" />
+<img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/023c8c27-f405-447f-b672-144e97af22d2" />
+<img width="1437" height="920" alt="image" src="https://github.com/user-attachments/assets/a98ef6bf-6786-4856-bf19-d7789613523b" />
+
+* Ans -> Option **D**. [Got Correct]
+* The remark made him go off the deep end. [Correct]
+* The remark made him go off the deep end -> To lose control emotionally. [MEANING]
+* deep end -> Phrasal verb. [VERY IMPORTANT]
+
+<img width="1395" height="801" alt="image" src="https://github.com/user-attachments/assets/dcb45ed8-8adf-485d-b8c4-050d928cc932" />
+<img width="1429" height="911" alt="image" src="https://github.com/user-attachments/assets/27897dda-fa72-491c-8d90-dc131f7551ea" />
+
+* Ans -> Option **C**. [Got Correct]
+
+<img width="1412" height="803" alt="image" src="https://github.com/user-attachments/assets/16712a1c-af37-46f3-859d-56ab18cb4f99" />
+<img width="1428" height="904" alt="image" src="https://github.com/user-attachments/assets/58e2ff15-9498-4ae8-a894-1d3746d9a828" />
+
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* He beat us on the match yesterday. [Correct]
+* The sun beat us all day. [Correct]
+
+<img width="1404" height="813" alt="image" src="https://github.com/user-attachments/assets/74af4c79-1d42-469b-9570-13f1c589a584" />
+<img width="1437" height="905" alt="image" src="https://github.com/user-attachments/assets/36c82fe3-ec56-4a59-b5f0-04bd6c713e7b" />
+
+* Ans -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+* Mam marked the wrong option.
+
+<img width="1398" height="808" alt="image" src="https://github.com/user-attachments/assets/4aa6d053-73da-4878-8544-f63e846fba17" />
+<img width="1405" height="799" alt="image" src="https://github.com/user-attachments/assets/133e4ce9-8818-4966-b342-89a4709e78cc" />
+<img width="1392" height="791" alt="image" src="https://github.com/user-attachments/assets/58ec9734-1c7b-43f6-b990-e2f932615da2" />
+
+* Ans -> Option **B**. [Got Correct]
+
+<img width="1424" height="908" alt="image" src="https://github.com/user-attachments/assets/96f28a08-e96b-493d-9b5a-d3d9e17d29bf" />
+
+* Ans -> Option **B**. [Got Correct]
+* She took up small jobs and worked her way through college. [Correct]
+
+<img width="1408" height="815" alt="image" src="https://github.com/user-attachments/assets/27cd75c0-2134-488f-b0ef-444b660353b9" />
+<img width="1422" height="912" alt="image" src="https://github.com/user-attachments/assets/9a82edcc-b156-4e0c-8242-c578f90e292d" />
+
+* Ans -> Option **C**. [Got Correct]
+* Hack -> Cut, sever into 2. [MEANING]
+* A -> Hack -> Cut off.
+
+<img width="1411" height="786" alt="image" src="https://github.com/user-attachments/assets/06c56381-4b6e-455e-9033-e2e47bb555e9" />
+<img width="1435" height="911" alt="image" src="https://github.com/user-attachments/assets/bb76b406-fcfd-4c49-89bd-a8298185f2a2" />
+
+* BABB
+* Ans -> Option **D**. [Correct] [VERY IMPORTANT]
+* Option **C**. [Wrong]
+* Advice -> Noun.
+* Advise -> Verb.
+* expert -> Adjective -> So we need a **noun** here -> Advice.
+* Climatic -> Related to climate. [MEANING]
+* Climactic -> Relating to climax. [MEANING]
+* Prophecy -> Noun -> Prediction.  [MEANING]
+* Prophesy -> Verb -> To fortale future.  [MEANING]
+* III -> We need **verb** -> Prophesy. [VERY IMPORTANT]
+* Economic -> Related to economy. [MEANING]
+* Economical -> Cost saving, cost effective, Cost efficient. [MEANING]  
+
+<img width="1411" height="807" alt="image" src="https://github.com/user-attachments/assets/2d00beaf-cf77-4a00-8a6b-edf16ff81362" />
+
+* [VERY IMPORTANT]
+
+<img width="1441" height="903" alt="image" src="https://github.com/user-attachments/assets/5c75441c-2706-4323-a609-d6e5d1c344aa" />
+
+* BABA
+* Ans -> Option **C**. [Correct] [VERY IMPORTANT]
+* Option **B**. [Wrong]
+* Effluent -> Sewage out of factories. [MEANING]  
+* Affluent -> Wealthy. [MEANING]
+* Discomfit -> Embarrassed, confuse, frustate. [MEANING]
+* Discomfit -> Verb.
+* Discomfort -> Noun.
+* Distrust -> Deliberate, reasoned, skepticism. [MEANING]
+* Mistrust -> Instinctive, gut feeling. [MEANING]
+
+<img width="1410" height="812" alt="image" src="https://github.com/user-attachments/assets/790fadee-3ca8-4309-b881-9dadce59c2cf" />
+<img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/a600e25c-f214-4875-9766-ded61fbe2b34" />
+
+* ABB
+* Ans -> Option **C**. [Correct] [VERY IMPORTANT]
+* Option **B**. [Wrong]
+* Constant -> Always there, gives stability/regularity -> Unchanging. [MEANING]
+* Continuous, Continuously -> Uninterrupted. [MEANING]
+* Continually -> Repeated with break, intermittently. [MEANING]
+* intermittent -> coming and going at intervals : not continuous. [MEANING]
+* Imaginative -> Creative. [MEANING]
+* Imaginary -> Exists in imagination. [MEANING]
+* Minimum -> Lowest possible amount. [MEANING]
+* Minimal -> Very small but necessarily not lowest. [MEANING]
+
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/39093dd1-5171-42fd-ab4a-409dd7bc3c6f" />
+<img width="1428" height="916" alt="image" src="https://github.com/user-attachments/assets/cc53066e-d602-4b15-9d54-db8a78f8ef09" />
+
+* BABAA.
+* Ans -> Option **C**. [Got Correct] [VERY IMPORTANT]
+* Aids -> Help. [MEANING]
+* Aides -> Person who helps someone. [MEANING]
+* Masterful -> Dominating. [MEANING]
+* Masterly -> Highly skilled. [MEANING]
+* Maize -> Crops -> Corn.  [MEANING]
+* Maze -> Labyrinth -> Maze runner.  [MEANING]
+
+<img width="1426" height="805" alt="image" src="https://github.com/user-attachments/assets/5958f342-ed73-4351-8b8d-1a1744bcc51e" />
+
+* BABAA.
 
 
 
@@ -4069,6 +4198,7 @@
 ## Misc
 
 ![image](https://github.com/user-attachments/assets/65c29d0c-989a-439a-a019-625b53191cd3)
+
 
 
 
