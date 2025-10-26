@@ -3956,6 +3956,288 @@
 
 <img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/992b36ae-2905-43b5-a046-9253c12b933e" />
 
+* B -> Flight, movie tickets, shop opening and closing -> Schedule -> Present Simple.
+* Tomorrow is Sunday -> General Truth -> Present Simple.
+
+<img width="1397" height="795" alt="image" src="https://github.com/user-attachments/assets/d359cbe3-90d2-4dcc-9fea-97caba159f5c" />
+<img width="1400" height="786" alt="image" src="https://github.com/user-attachments/assets/95daf85d-6d61-43f1-a7df-e28fb1ded53f" />
+
+* [Present Simple] [VERY IMPORTANT]
+
+<img width="1383" height="789" alt="image" src="https://github.com/user-attachments/assets/a260cf5f-dd5a-4594-bed1-27d5fb40667e" />
+
+* [Present Continuous] [VERY IMPORTANT]
+
+<img width="1408" height="812" alt="image" src="https://github.com/user-attachments/assets/65a4750f-29ae-4009-b7bb-e856dd85cd79" />
+
+* I am preparing for the CAT. [Correct]
+* I am preparing for the CAT -> Not right now but these days -> Something ongoing in a broader sense.
+
+<img width="1414" height="790" alt="image" src="https://github.com/user-attachments/assets/d39027ef-216a-4960-85e2-32e86cbe0426" />
+
+* [Present Continuous] [VERY IMPORTANT]
+
+<img width="1434" height="912" alt="image" src="https://github.com/user-attachments/assets/299ca494-ea0b-469b-8c43-14f8c18bd748" />
+<img width="1399" height="802" alt="image" src="https://github.com/user-attachments/assets/500e945b-4f3e-4a5e-a255-38707af2703f" />
+<img width="1417" height="766" alt="image" src="https://github.com/user-attachments/assets/c3b6ada8-2a77-4d90-b9d6-325cd3e82bc1" />
+
+* Pre-planned events -> That's why instead of **Future tense** we use **Present Continuous**. [VERY IMPORTANT]
+
+<img width="1436" height="923" alt="image" src="https://github.com/user-attachments/assets/31973951-c165-4711-8183-f627369e5896" />
+
+* Ans -> Option **D**. [Correct]
+
+<img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/91a31174-84c6-4c61-aaee-d04cda4a1f03" />
+
+* Persistent/Annoying/Negative habits -> Present Continuous. [VERY IMPORTANT] 
+* Usual habits -> Present Simple. [VERY IMPORTANT]
+
+<img width="1395" height="808" alt="image" src="https://github.com/user-attachments/assets/f574aa68-45e0-461e-b153-1f7d941634fc" />
+<img width="1426" height="825" alt="image" src="https://github.com/user-attachments/assets/f214b016-c94d-4374-9178-27b55d044c7e" />
+
+* It may rain. [Correct]
+* may, can, will -> Modal verbs.
+* I am thinking this is right. [Wrong]
+* I think this is right. [Correct]
+* I think -> Opinion.
+* I am having lunch. [Correct]
+* I am having a car. [Wrong]
+* I have a car. [Correct]
+* Have -> Eat, Own/Possess, Experience -> Present Simple. [VERY IMPORTANT]
+* You have experience of 5yrs. [Correct]
+* I am going to have a car. [Correct]
+* Having work experience adds to your resume. [Correct]
+* adds -> Verb.
+* Having -> Noun.
+* Verb + '-ing' -> Can act as a **noun** -> Gerund.  [VERY IMPORTANT]
+
+<img width="1394" height="804" alt="image" src="https://github.com/user-attachments/assets/2695569e-6e52-4239-bc4f-334bc03fc82b" />
+<img width="1417" height="794" alt="image" src="https://github.com/user-attachments/assets/634a301a-a3fc-4b02-b828-98c16f3edbe0" />
+<img width="1415" height="812" alt="image" src="https://github.com/user-attachments/assets/5fd7910b-1e93-4426-aed4-2240cf0759c7" />
+<img width="1353" height="758" alt="image" src="https://github.com/user-attachments/assets/2d4713a3-7281-4c13-9ff7-6c94d56ec688" />
+
+* [Present Continuous] [VERY IMPORTANT]
+* Stativ Verbs -> Those who indicate state. [VERY IMPORTANT]
+* state -> Have, possess/own something -> Hold an opinion.  [VERY IMPORTANT]
+
+<img width="1407" height="799" alt="image" src="https://github.com/user-attachments/assets/d3cb0a3f-a22f-49b2-8fc6-01898c8a0347" />
+
+* Ans -> Option **B**.
+* A -> Experience.
+* B -> Not eating laptop.
+
+<img width="435" height="85" alt="image" src="https://github.com/user-attachments/assets/967b74f9-c00e-4eb1-86a3-3c6952021114" />
+<img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/4b90d21a-fcdf-48dc-8d76-877ab2535694" />
+
+* I see him. [Correct]
+* I am seeing him. [Correct]
+* seemingly -> Adverb.
+
+<img width="1421" height="810" alt="image" src="https://github.com/user-attachments/assets/594d8076-84e4-41e9-b07c-09625964701a" />
+
+* [Present Continuous] [VERY IMPORTANT]
+* Perfect -> Completed.
+* Present Perfect -> Completed. [VERY IMPORTANT]
+
+<img width="1406" height="785" alt="image" src="https://github.com/user-attachments/assets/0f90c94b-f1b8-4be7-ac98-117281fbd640" />
+
+* Arav has finished eating?
+
+> YES.
+
+<img width="294" height="68" alt="image" src="https://github.com/user-attachments/assets/11e2cacf-7a4a-4ccd-9c7e-ac1f9493654a" />
+
+* Yes.
+
+<img width="1423" height="890" alt="image" src="https://github.com/user-attachments/assets/d3134c8b-500d-4523-a4cf-9e44262d6967" />
+<img width="1403" height="797" alt="image" src="https://github.com/user-attachments/assets/9efa4641-8a02-49a9-9ae8-c49e03fe94c5" />
+
+* Last Week -> Past -> Went.
+
+<img width="1405" height="789" alt="image" src="https://github.com/user-attachments/assets/034399ae-85f0-4077-9962-9ec17c799400" />
+<img width="1396" height="804" alt="image" src="https://github.com/user-attachments/assets/33570d94-0236-4f11-9786-cf392a0c81f9" />
+<img width="1397" height="777" alt="image" src="https://github.com/user-attachments/assets/806cdc4d-7ca9-4ad8-939e-ff68d2c3bcc3" />
+
+* [Present Perfect] [VERY IMPORTANT]
+
+<img width="1387" height="792" alt="image" src="https://github.com/user-attachments/assets/cabb174a-8717-4da1-b08b-41cfe1f6b672" />
+<img width="1435" height="907" alt="image" src="https://github.com/user-attachments/assets/e827f22d-deb2-46dd-8d91-6d77e1e15b3e" />
+
+* I have been in office since 9AM. [Correct]
+* With the word "since" we cannot use **present simple**. We use **Present perfect**.  [VERY IMPORTANT]
+* Manish has been ill since last week. [Correct]
+* since -> Used for a point of time. [VERY IMPORTANT]
+* For -> Used for a period of time. [VERY IMPORTANT]
+* years -> Period of time -> So use "for".
+
+<img width="1393" height="798" alt="image" src="https://github.com/user-attachments/assets/5b7607b4-e885-4ba2-8db1-d4ead13cefb1" />
+
+* She has eaten all my chocolates -> effect can be felt forever. [Present Perfect]
+
+<img width="345" height="198" alt="image" src="https://github.com/user-attachments/assets/dc11b334-77bb-4b17-87b5-f67c5c8f29c9" />
+
+* [Present Perfect]
+
+<img width="1433" height="820" alt="image" src="https://github.com/user-attachments/assets/59e28e98-ab3e-4332-897c-18daad538937" />
+
+* I have cut my finger. [Point 3]
+* She has eaten all my chocolates.
+* She has eaten all my chocolates. 
+
+<img width="1413" height="791" alt="image" src="https://github.com/user-attachments/assets/768d0041-f650-420b-9100-03c8a49a381b" />
+<img width="1419" height="810" alt="image" src="https://github.com/user-attachments/assets/f0b5f449-ba90-402d-8f7e-4a0c32e3a747" />
+<img width="1394" height="782" alt="image" src="https://github.com/user-attachments/assets/7933f246-6939-4fbb-911d-1f448fb6c359" />
+
+* [Present Perfect Continuous] [VERY IMPORTANT]
+* Present Perfect Continuous -> Used with "since and for".
+
+<img width="1416" height="782" alt="image" src="https://github.com/user-attachments/assets/272159a7-19cc-434f-ba49-4d6ce7389675" />
+
+* [Present Perfect] [VERY IMPORTANT]
+
+<img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/ab809b46-9d7c-4f68-bbee-373c712dae7d" />
+<img width="1430" height="904" alt="image" src="https://github.com/user-attachments/assets/2215070d-443e-498b-814c-b9c344683f60" />
+
+* Ans -> Option **B**. [Got Correct]
+* With "For and Since" -> We do not use "Present Simple OR Continuous**. We use "Perfect or Perfect Continuous**. [VERY IMPORTANT]
+
+<img width="1406" height="776" alt="image" src="https://github.com/user-attachments/assets/e5946dd2-ba95-470a-b6bb-7ca561020c85" />
+
+* A -> has slept -> Focus on completion.
+* C -> slept -> Focus on ongoing nature.
+
+<img width="1407" height="789" alt="image" src="https://github.com/user-attachments/assets/c9c821b5-1b98-4eb1-8006-0859ef313687" />
+<img width="1412" height="780" alt="image" src="https://github.com/user-attachments/assets/6abd3b8e-8225-42c9-91ca-dca1f5f91c27" />
+
+* [Present Perfect Continuous] [VERY IMPORTANT]
+
+#### PAST Tense
+
+<img width="508" height="391" alt="image" src="https://github.com/user-attachments/assets/cc01c2d1-91d5-4fe3-825a-5899ad8406f4" />
+<img width="1403" height="789" alt="image" src="https://github.com/user-attachments/assets/0eaca8a5-21f0-4038-a25c-b2735b494126" />
+
+* [Simple Past] [VERY IMPORTANT]
+* last week -> Adverb -> Adverbial phrase.
+
+<img width="1415" height="821" alt="image" src="https://github.com/user-attachments/assets/bffbe05b-f1fe-4110-8548-36f1af34baaf" />
+
+* [Simple Past] [VERY IMPORTANT]
+* He used to write to me. [Correct] 
+* She used to carry an umbrella. [Correct] 
+
+<img width="1420" height="788" alt="image" src="https://github.com/user-attachments/assets/eefde5d4-c909-493f-9f6f-2c169985e7be" />
+<img width="1433" height="916" alt="image" src="https://github.com/user-attachments/assets/bbb11aa1-f398-41b1-abf9-9404c907c5df" />
+
+* Ans -> Option **D**. [Got Correct]
+* learnt -> Completed action.  [VERY IMPORTANT]
+* used to learn -> Focus on the habit.  [VERY IMPORTANT]
+* always carried -> More forceful.  [VERY IMPORTANT]
+* used to carry -> Less forceful.  [VERY IMPORTANT]
+
+<img width="1396" height="799" alt="image" src="https://github.com/user-attachments/assets/2b52b5ee-25d2-4969-92fb-fad9452c4f31" />
+<img width="1388" height="793" alt="image" src="https://github.com/user-attachments/assets/90cc5e50-81fa-4b8a-8358-4d36ba9806d0" />
+<img width="1389" height="785" alt="image" src="https://github.com/user-attachments/assets/237cdcad-3125-41a2-ae9b-914e877e35b2" />
+
+* [Past Continuous] [VERY IMPORTANT]
+
+<img width="1394" height="798" alt="image" src="https://github.com/user-attachments/assets/46aad76c-4b1b-43c6-9eb9-98aa3a19bc82" />
+<img width="229" height="65" alt="image" src="https://github.com/user-attachments/assets/2204c00f-b31f-4865-8b22-560c09c10f4e" />
+
+* Yes.
+
+<img width="1396" height="803" alt="image" src="https://github.com/user-attachments/assets/ef4ed383-f8c7-4e75-a61a-9973e70c7f0b" />
+<img width="1432" height="896" alt="image" src="https://github.com/user-attachments/assets/cb80bfa5-517d-4811-a31e-55b9f4369791" />
+
+* Ans -> Option **C**. [Got Correct]
+* Past Obstinate Habits -> We should use **Past Continuous**.  [VERY IMPORTANT]
+* The friends listened to music all evening. [Correct]
+* The friends were listening to music all evening. [Correct]
+* Just **difference** in focus.
+
+<img width="1400" height="807" alt="image" src="https://github.com/user-attachments/assets/11ede279-85e8-48ad-bf01-f546d6cc9b54" />
+
+* Riya was playing chess when her mom arrived. [Correct]
+
+<img width="1392" height="796" alt="image" src="https://github.com/user-attachments/assets/0f3463c1-4962-4f53-ac15-d261d7e001bc" />
+<img width="1389" height="791" alt="image" src="https://github.com/user-attachments/assets/265b08c0-890d-4159-9009-28ac5b619030" />
+
+* [Past Continuous] [VERY IMPORTANT]
+
+<img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/cf204297-2025-4ca9-bc38-40fdf4d430f8" />
+
+* [Past Perfect] [VERY IMPORTANT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
