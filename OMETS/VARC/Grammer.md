@@ -4164,8 +4164,175 @@
 * [Past Continuous] [VERY IMPORTANT]
 
 <img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/cf204297-2025-4ca9-bc38-40fdf4d430f8" />
+<img width="1402" height="780" alt="image" src="https://github.com/user-attachments/assets/de95b7b8-2222-4128-8c1d-544d5282c2bc" />
 
 * [Past Perfect] [VERY IMPORTANT]
+
+<img width="1420" height="796" alt="image" src="https://github.com/user-attachments/assets/39f0560f-057a-48d0-a992-46fd917c3428" />
+<img width="1386" height="795" alt="image" src="https://github.com/user-attachments/assets/0d74d522-6d9e-4b8f-b4cb-8acd74d314d0" />
+<img width="1896" height="793" alt="image" src="https://github.com/user-attachments/assets/cd008789-7670-4de6-b6c8-7c3c7a5ad611" />
+
+* A.
+
+<img width="1407" height="806" alt="image" src="https://github.com/user-attachments/assets/63eb57c4-1f90-4da8-9201-908e9322ef41" />
+
+* B.
+
+<img width="1387" height="785" alt="image" src="https://github.com/user-attachments/assets/b31ea9e7-721b-432b-b086-63683f44dbb9" />
+<img width="1876" height="877" alt="image" src="https://github.com/user-attachments/assets/78f32f82-1ed5-46a5-836e-298370228be2" />
+<img width="1379" height="782" alt="image" src="https://github.com/user-attachments/assets/9a90aa54-d74d-49a5-8a0b-d4d75f5a5505" />
+
+* [Past Perfect] [VERY IMPORTANT]
+
+<img width="1435" height="890" alt="image" src="https://github.com/user-attachments/assets/c00d3f83-1208-41a8-ad32-7c42763b4e83" />
+
+* Ans -> Option **B** -> Only 'C'. [Got Correct]
+
+<img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/afed3390-e317-410b-b2f9-3cb8e90c3f69" />
+<img width="1412" height="800" alt="image" src="https://github.com/user-attachments/assets/4f776003-7a49-4c64-b45e-fd14944f80a2" />
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/e3718336-84c3-42cd-a333-68b6383223b9" />
+<img width="1409" height="795" alt="image" src="https://github.com/user-attachments/assets/b0e1c82b-95b6-4afa-8e14-d29275719240" />
+<img width="1440" height="914" alt="image" src="https://github.com/user-attachments/assets/43c65b53-7e57-4fd5-a6a2-882bbedbecaf" />
+
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+
+<img width="1411" height="784" alt="image" src="https://github.com/user-attachments/assets/743cb18b-63f5-47f0-833c-3e55c9bbf0a1" />
+<img width="1411" height="822" alt="image" src="https://github.com/user-attachments/assets/451fe597-9050-40a4-902c-ccc32d2d0218" />
+<img width="1394" height="812" alt="image" src="https://github.com/user-attachments/assets/356e2a19-b543-4047-ba76-9bdcfbaa36b5" />
+
+* [Past Perfect Continuous] [VERY IMPORTANT]
+
+<img width="1394" height="777" alt="image" src="https://github.com/user-attachments/assets/dd04357f-2e5b-4efb-93c9-a15295011e81" />
+
+* [Past Perfect Continuous] [VERY IMPORTANT] [Example]
+* Subsequent Action -> Past Simple.
+* By 2001, Riya had been studying B.com(H) for 2yrs. [Correct]
+* By 2001 -> Time reference.
+
+<img width="1408" height="800" alt="image" src="https://github.com/user-attachments/assets/cfec735e-bef8-4402-b4b4-2d52f4358438" />
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/dd01a36b-550e-4abc-b7bc-e298b707b940" />
+
+* Ans -> Option **C** -> Both.
+
+<img width="1407" height="793" alt="image" src="https://github.com/user-attachments/assets/4b378b4e-fb03-4813-83aa-f0adb5f16f7a" />
+
+#### FUTURE Tense
+
+<img width="1408" height="791" alt="image" src="https://github.com/user-attachments/assets/ac2d7674-5df8-4756-a527-fc14217479e3" />
+<img width="1406" height="796" alt="image" src="https://github.com/user-attachments/assets/890d9b5b-45ae-4375-a025-f98624a207c9" />
+
+* [Simple Future] [VERY IMPORTANT]
+* **Simple Future** implies an **intention**. [VERY IMPORTANT]
+
+<img width="1429" height="883" alt="image" src="https://github.com/user-attachments/assets/e1923506-3f1f-4e58-9fa8-d930877a019f" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* I Will come. [VERY IMPORTANT]
+* Will -> Intent, expectation. [VERY IMPORTANT]
+* B -> Probably, may -> Redundant.
+* Probably, India will win the match. [Correct]
+
+<img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/9e9705a5-9baa-4c25-ad78-e09c0e5fbd53" />
+<img width="1401" height="791" alt="image" src="https://github.com/user-attachments/assets/6121a7b0-4b27-46be-9ac3-079c97dda96c" />
+
+* [Simple Future] [VERY IMPORTANT]
+
+<img width="1433" height="890" alt="image" src="https://github.com/user-attachments/assets/78848e23-5960-45b5-9b9a-2a865aad4296" />
+
+* Ans -> Option **B**. [Got Correct]
+* Shall we dance. [Correct]
+
+<img width="1392" height="787" alt="image" src="https://github.com/user-attachments/assets/c9b0cfcc-4ac9-4760-a886-2068eaf7f85f" />
+<img width="221" height="133" alt="image" src="https://github.com/user-attachments/assets/d8f0e80d-807e-4118-a531-04083eb92ea7" />
+
+* Suggestion in 1st person(I, we) -> Use "shall". [VERY IMPORTANT]
+* Usage of "shall" -> Suggestion in 1st person, Command in 2nd person, Formal notice in 3rd person. [VERY IMPORTANT]
+* Nah, I shall use this word in its full glory. [Correct]
+* I shall use this.
+* I shall -> Strong determination. [VERY IMPORTANT]
+* Shall -> Strong determination. [VERY IMPORTANT]
+* Should -> Obligation. [VERY IMPORTANT]
+
+<img width="1392" height="789" alt="image" src="https://github.com/user-attachments/assets/8f626a74-0e76-4303-b136-d2b5c7eb95dd" />
+<img width="1413" height="787" alt="image" src="https://github.com/user-attachments/assets/66a32cb2-bf22-48ee-960b-89a9e792287a" />
+<img width="1402" height="814" alt="image" src="https://github.com/user-attachments/assets/79ebca43-ca90-4e7a-a4a4-ecff5289e1e5" />
+<img width="1392" height="803" alt="image" src="https://github.com/user-attachments/assets/c462c50e-d9ae-41e6-a769-7af030349075" />
+
+* [Future Continuous] [VERY IMPORTANT]
+
+<img width="1402" height="813" alt="image" src="https://github.com/user-attachments/assets/c549b237-fc34-4a50-90b1-4fcfb60628c5" />
+
+* Future Continuous -> Action that will be in progress in the future.  [VERY IMPORTANT]
+
+<img width="1437" height="907" alt="image" src="https://github.com/user-attachments/assets/439821ce-8479-492e-88bd-7bf5f87c16ec" />
+
+* Ans -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+
+<img width="1394" height="804" alt="image" src="https://github.com/user-attachments/assets/2d2040e8-6c90-45cf-ba6b-89935f47d105" />
+<img width="1398" height="790" alt="image" src="https://github.com/user-attachments/assets/e844d7b2-c3c5-415d-8236-c4f9815db864" />
+
+* I am about to start the lecture.
+* about to -> Very quickly in the immediate future. [VERY IMPORTANT]
+
+<img width="1416" height="783" alt="image" src="https://github.com/user-attachments/assets/7b645019-5086-47f9-a794-cdedbb9da095" />
+<img width="1406" height="786" alt="image" src="https://github.com/user-attachments/assets/b42ac085-f3f9-4524-86af-5c3b301961d0" />
+
+* [Future Continuous] [VERY IMPORTANT]
+
+<img width="1408" height="786" alt="image" src="https://github.com/user-attachments/assets/eef4fd45-ac31-40b6-8114-b46a80b6ee8b" />
+
+* Future Continuous also works.
+
+<img width="1423" height="889" alt="image" src="https://github.com/user-attachments/assets/b4e77231-850c-49f9-97da-bbe9ef7d7558" />
+
+* Ans -> Option **E**. [Correct]
+* Option **C**. [Wrong]
+
+<img width="1406" height="808" alt="image" src="https://github.com/user-attachments/assets/056ede43-117e-4d4c-bb5b-5666f2755d19" />
+<img width="1407" height="790" alt="image" src="https://github.com/user-attachments/assets/40f5695d-db55-42ab-8d2f-0883b43c10e6" />
+
+* [Future Perfect] [VERY IMPORTANT]
+
+### Tenses (2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
