@@ -1,4 +1,4 @@
-## Grammer
+# Grammer
 
 ### Parts Of Speech (1) [2]
 
@@ -3908,3 +3908,96 @@
 
 <img width="1230" height="807" alt="image" src="https://github.com/user-attachments/assets/d501e924-0e0e-488c-b1a3-71e2ae076568" />
 <img width="1232" height="796" alt="image" src="https://github.com/user-attachments/assets/e1ee4ce0-9b37-435a-95ae-0c60f9c10a48" />
+
+
+## Nikita Mam
+### Tenses (1)
+
+<img width="1418" height="786" alt="image" src="https://github.com/user-attachments/assets/6716aa47-907a-4f97-8a6e-d6f49324f5e6" />
+<img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/a2a1b6d4-3d14-47fc-bff4-79c23f4c9230" />
+<img width="1440" height="906" alt="image" src="https://github.com/user-attachments/assets/661c34fc-b131-47cf-814a-6e23d9780280" />
+
+* Ans -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+
+<img width="1396" height="774" alt="image" src="https://github.com/user-attachments/assets/76e38951-f499-4e1c-b0c3-263758f98296" />
+
+* The verb differs.
+* Since -> Preposition.
+* I am in the office since 9AM. [Wrong]
+* I am in the office since morning. [Wrong]
+* I have been in the office since morning. [Correct]
+* have been -> Present Perfect tense.
+
+<img width="1410" height="795" alt="image" src="https://github.com/user-attachments/assets/7b85ece4-6f6a-4339-98d5-1dcc8c85239d" />
+
+* [VERY IMPORTANT]
+
+<img width="1394" height="804" alt="image" src="https://github.com/user-attachments/assets/bca7d798-bde3-4f7e-95e2-73d0ec8e6998" />
+
+* Simple Present -> when something happens generally, Universal truth or generally true. [Correct] [VERY IMPORTANT]
+
+<img width="1424" height="908" alt="image" src="https://github.com/user-attachments/assets/0cfc40f3-535a-4ef8-8f88-27f70f312232" />
+<img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/98813532-5228-4376-9d40-2e9e9b4897aa" />
+
+* Ans -> Option **D**. [Got Correct] [Simple Present]
+* Proverbs -> General Truths -> Present Simple. [VERY IMPORTANT]
+* Proverbs -> Sayings -> Common moral lessons. [VERY IMPORTANT]
+
+<img width="1406" height="792" alt="image" src="https://github.com/user-attachments/assets/74c1e811-fca8-43fb-9561-792700e978f9" />
+<img width="1423" height="916" alt="image" src="https://github.com/user-attachments/assets/36ce7637-8d2e-40ca-8a3b-48414e34b79d" />
+
+* Ans -> Option **E**. [Correct] [Simple Present]
+* Option **C**. [Wrong]
+* There she goes! [Correct]
+* If it rains, you will get wet. [Correct]
+* If + Present Simple.
+* Commentory -> Present Simple. [VERY IMPORTANT]
+
+<img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/992b36ae-2905-43b5-a046-9253c12b933e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
