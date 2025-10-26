@@ -4298,24 +4298,59 @@
 
 ### Tenses (2)
 
+<img width="1411" height="794" alt="image" src="https://github.com/user-attachments/assets/a7fd664c-d11c-4633-a2c7-9db4774efbbe" />
+<img width="1430" height="787" alt="image" src="https://github.com/user-attachments/assets/3da670ac-3c49-4147-85eb-8ce0cb215862" />
 
+* [Future Perfect] [VERY IMPORTANT]
 
+<img width="1405" height="785" alt="image" src="https://github.com/user-attachments/assets/32595aaa-1fb6-45d3-b03f-f1f3de70817d" />
 
+* [Future Perfect] [VERY IMPORTANT]
 
+<img width="1441" height="902" alt="image" src="https://github.com/user-attachments/assets/62441f21-f067-461e-a7be-80f9c5babb64" />
 
+* Ans -> Option **D**. [Got Correct]
+* Specific Year -> In 2050 -> Option **C** -> Will replace. [VERY IMPORTANT]
+* By -> Threshold -> Option **D** -> Will have replaced. [VERY IMPORTANT]
 
+<img width="1417" height="805" alt="image" src="https://github.com/user-attachments/assets/90ab9600-2012-4416-b966-537c3ea4e240" />
+<img width="1440" height="924" alt="image" src="https://github.com/user-attachments/assets/5e7573b6-7786-4381-94d7-47ca67fd17ed" />
 
+* Ans -> Option **B**. [Got Correct]
+* Conditionals of Time -> If clause, condition clause, not outcome clause -> It takes **Simple present**. [VERY IMPORTANT]
+* This has been done. [Passive Voice]
+* Future Perfect -> Perfect Tense -> Completed actions or completion-> Things which have been already completed.  [VERY IMPORTANT]
 
+<img width="1403" height="794" alt="image" src="https://github.com/user-attachments/assets/91f85be1-8435-4716-a341-4d4dc8efc451" />
+<img width="1401" height="787" alt="image" src="https://github.com/user-attachments/assets/c2254529-a18d-42a1-9775-38ff06305824" />
 
+* [Future Perfect Continuous] [VERY IMPORTANT]
 
+<img width="1423" height="807" alt="image" src="https://github.com/user-attachments/assets/f92da821-a0f7-4744-b964-f64fc4a657c6" />
 
+* [Example]
+* Future Perfect Continuous -> Focuses on **continuity**. [VERY IMPORTANT]
 
+<img width="1438" height="917" alt="image" src="https://github.com/user-attachments/assets/f35ee5ac-7179-4ca5-8a6d-2552a6e6fbf0" />
 
+* Ans -> Option **C**. [Correct]
+* Option **B**. [Wrong]
 
+<img width="1418" height="882" alt="image" src="https://github.com/user-attachments/assets/ead6e3c0-58f0-4c67-9905-ef36cf097dae" />
 
+* Ans -> Option **A**. [Got Correct]
+* arrives -> Simple Present.
 
+<img width="1409" height="796" alt="image" src="https://github.com/user-attachments/assets/44a84b40-9ad4-46ff-b7d5-6567f2f458ff" />
+<img width="1410" height="813" alt="image" src="https://github.com/user-attachments/assets/be22784a-bf79-4ff1-951d-3a8a265a7ea5" />
 
+* Ans -> Option **E** -> A & D. [Correct]
 
+<img width="1396" height="800" alt="image" src="https://github.com/user-attachments/assets/0d4ab726-3e15-4d75-8ced-837075809978" />
+<img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/7f4f966c-c7b5-4446-b1c5-fff2d9457e6f" />
+
+* i did clean it. [Correct]
+* Start from 27mins.
 
 
 
