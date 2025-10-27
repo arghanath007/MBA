@@ -4350,7 +4350,442 @@
 <img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/7f4f966c-c7b5-4446-b1c5-fff2d9457e6f" />
 
 * i did clean it. [Correct]
-* Start from 27mins.
+
+<img width="1398" height="797" alt="image" src="https://github.com/user-attachments/assets/821826e6-d9a6-486a-b9dc-085d646665ad" />
+
+* Emphasis -> did + base.
+
+<img width="1434" height="930" alt="image" src="https://github.com/user-attachments/assets/a5a22fcc-504b-46b6-b6bf-f8142e647e93" />
+
+* B -> Future Continuous -> Simple Continuous.
+* Since & For -> It means it is **Perfect Continuous & Perfect**. [VERY IMPORTANT]
+* Since & For -> We do not use with **Simple Continuous**. [VERY IMPORTANT]
+
+<img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/e97d7839-2b42-4463-91f4-2d5405a682bd" />
+<img width="1412" height="917" alt="image" src="https://github.com/user-attachments/assets/e0acb974-2cdd-4991-bb17-83f71b35fe61" />
+
+* Ans -> Option **A**. [Got Correct]
+* arrives -> Simple present.
+* A -> will have waited, will have been waiting. [Correct]
+
+<img width="1399" height="791" alt="image" src="https://github.com/user-attachments/assets/9320e516-ec49-4fb7-9e8e-ba6cb57ba193" />
+<img width="1392" height="793" alt="image" src="https://github.com/user-attachments/assets/d4646ab4-9da4-4158-a935-56c23f815956" />
+
+* did not -> 1st form/base form -> Simple present -> see/notice/realise.
+
+<img width="1391" height="791" alt="image" src="https://github.com/user-attachments/assets/fbd40e0c-dcb8-43a2-a2b2-1bd05940b3c4" />
+<img width="1439" height="909" alt="image" src="https://github.com/user-attachments/assets/5108072d-19e1-4497-a8f1-489c0749f4d2" />
+
+* Ans -> Option **A**. [Correct]
+* Option **C**. [Wrong] [Mam marked the wrong **OPTION**].
+* you'd -> you had.
+* associate -> Present tense.
+* associated -> Past tense. [Correct]
+* seem -> Present.
+* seemed -> Past. [Correct]
+* E -> an effort.  [Correct]
+
+<img width="1393" height="790" alt="image" src="https://github.com/user-attachments/assets/e93f5aab-3e61-4c94-90d9-bf10ee101a2d" />
+
+* Ans -> Option **E**. [Correct]
+* didn't knew -> Wrong.
+* didn't know -> Correct.
+
+<img width="1406" height="785" alt="image" src="https://github.com/user-attachments/assets/6f243ecd-4d92-4add-98ba-a92903864dd8" />
+
+* did not -> 1st form/base form -> Simple present -> see/notice/realise.
+
+<img width="1441" height="874" alt="image" src="https://github.com/user-attachments/assets/a36b750a-c186-4a53-be5f-509f3c66ffb6" />
+
+* Ans -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+* we -> Subject.
+* It -> Not the subject.
+
+<img width="1402" height="788" alt="image" src="https://github.com/user-attachments/assets/441f072d-ea0e-48c3-9416-5f3f96d53930" />
+<img width="1404" height="798" alt="image" src="https://github.com/user-attachments/assets/3b118e93-eab4-4dd0-a19f-53e557a885cb" />
+<img width="1436" height="819" alt="image" src="https://github.com/user-attachments/assets/bf644a35-514d-4782-97d6-e7138a0d45ce" />
+
+* With "had" we use "gone".
+
+<img width="1429" height="904" alt="image" src="https://github.com/user-attachments/assets/e79bbebb-901f-415e-a7cf-71b9f73577fc" />
+
+* Ans -> Option **B**. [Correct] [VERY IMPORTANT]
+* Option **D**. [Wrong]
+* Sentence -> Present simple.
+
+<img width="1420" height="800" alt="image" src="https://github.com/user-attachments/assets/965805aa-bb6b-4b16-bec7-8eb32f9b6595" />
+
+#### Mood
+
+<img width="1432" height="829" alt="image" src="https://github.com/user-attachments/assets/ee0d8d38-2f0c-4cbb-9200-808c139763ed" />
+<img width="1399" height="789" alt="image" src="https://github.com/user-attachments/assets/9524b8b1-18db-42cf-8e8d-dca11ca33931" />
+<img width="1387" height="779" alt="image" src="https://github.com/user-attachments/assets/32a350dd-9896-4f56-9441-65cb54730b14" />
+<img width="1411" height="803" alt="image" src="https://github.com/user-attachments/assets/db2cdcec-a41d-4c95-94b6-3f01e3a0e686" />
+
+* Zero conditional -> **If & When** are used.
+* Unless -> If not.
+
+<img width="1409" height="800" alt="image" src="https://github.com/user-attachments/assets/11126542-b57f-47bb-8642-5332ed614926" />
+
+* [Mood] [VERY IMPORTANT]
+
+<img width="1401" height="794" alt="image" src="https://github.com/user-attachments/assets/b3c32f25-2435-4d16-86b0-58389731877d" />
+
+* [Mood] [VERY IMPORTANT]
+
+<img width="340" height="76" alt="image" src="https://github.com/user-attachments/assets/49d4eef8-a6b4-4897-a698-743661c747f7" />
+
+* Yes. 
+
+<img width="1403" height="811" alt="image" src="https://github.com/user-attachments/assets/6026cc32-6a51-4071-add2-948fee104da9" />
+
+* [Mood] [VERY IMPORTANT]
+* I were invisible. [YES] [Correct]
+* I wish I were invisible.
+
+<img width="1399" height="794" alt="image" src="https://github.com/user-attachments/assets/7c750719-9df2-4795-81f0-84d07e807dc5" />
+<img width="1401" height="791" alt="image" src="https://github.com/user-attachments/assets/504df87f-d8c4-4fb4-b9f7-10221ad0be9a" />
+
+* [Mood] [VERY IMPORTANT]
+
+<img width="1395" height="798" alt="image" src="https://github.com/user-attachments/assets/f08507f2-f54e-443f-8543-67a932499ae9" />
+<img width="1421" height="780" alt="image" src="https://github.com/user-attachments/assets/dd9c5bc5-337c-475c-bc1d-7430872e82cd" />
+
+* [Mood] [VERY IMPORTANT]
+
+<img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/3a0c2d0a-8397-43aa-a074-57db16943990" />
+
+* Ans -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* For **outcomes** we always use **"would"**. [VERY IMPORTANT]
+* Had you -> would have. [Correct]
+
+<img width="1411" height="788" alt="image" src="https://github.com/user-attachments/assets/a291b555-a18f-4c61-8441-0d54d1549e81" />
+<img width="1441" height="902" alt="image" src="https://github.com/user-attachments/assets/bd3d5529-8a51-4eb2-b3d1-7bb14540788f" />
+
+* Ans -> Option **C**. [Got Correct]
+
+<img width="1415" height="807" alt="image" src="https://github.com/user-attachments/assets/02e791fa-c3a7-4a13-84bf-66d27cf23515" />
+
+* 2's 2nd half -> Condition.
+* 2's 1st half -> Outcome.
+* 2's 2nd half -> Had been there.  [Correct]
+* 2 -> 3rd conditional
+* 3's 2nd half -> Condition(C).
+* 3's 1st half -> would travel. [Correct]
+* 3 -> 2nd conditional.
+* 1 -> 3rd conditional.
+* 4 -> asks him. [Correct]
+* 4 -> 1st conditional.
+* 1 -> she would not have. [Better]
+* 6 -> 2nd conditional.
+
+<img width="1418" height="825" alt="image" src="https://github.com/user-attachments/assets/0d060c4a-e2c3-4092-8791-80a0f3012a86" />
+<img width="1401" height="797" alt="image" src="https://github.com/user-attachments/assets/8d63016e-c169-4365-bde2-df1dfd3d19c2" />
+
+#### Adjectives
+
+<img width="1405" height="789" alt="image" src="https://github.com/user-attachments/assets/71c99cac-f1e8-466f-ab6b-678a5e2c7f4e" />
+
+* [Adjectives] [VERY IMPORTANT]
+*  Adjectives -> Modifies a **Noun or a pronoun** -> Adjectives can talk about the **quality of a noun** -> Adjectives can even point out/towards a **noun** -> Adjectives can even talk about the **number of a noun**. Adjectives can even talk about the **quantity/degree of a noun**. [VERY IMPORTANT]
+*  2 -> these -> Adjectives -> Demonstrative adjectives.
+
+<img width="1402" height="798" alt="image" src="https://github.com/user-attachments/assets/56be14bd-5ab5-43ff-96fa-3cbff1d055a4" />
+
+* [Adjectives] [VERY IMPORTANT]
+
+<img width="1396" height="805" alt="image" src="https://github.com/user-attachments/assets/8b81f09f-d00d-43c2-80c2-434428afe218" />
+
+* [Adjectives] [Example]
+* 2 -> Phrase.
+* 3 -> Clause -> Has a **Subject(S)** and a **Verb(V)** both. [VERY IMPORTANT]
+* A specific type of phrase is called a **clause**.
+
+<img width="1404" height="770" alt="image" src="https://github.com/user-attachments/assets/e59496d4-5ace-4cf9-9588-eb27ccf7d54c" />
+<img width="1395" height="788" alt="image" src="https://github.com/user-attachments/assets/7b2c719d-30c0-469e-815c-ad9cb39a1db6" />
+
+* I read. [Correct]
+
+<img width="1432" height="901" alt="image" src="https://github.com/user-attachments/assets/cecf8540-ca2b-485b-b4b4-6282040af05f" />
+
+* Ans -> Option **B**. [Got Correct]
+* This is much better. [Correct]
+* This is far better. [Correct]
+* I said this itself. [Correct]
+* I said this only. [Wrong]
+
+<img width="1408" height="797" alt="image" src="https://github.com/user-attachments/assets/fcb07a63-6eee-4414-bb07-31abd59f4ece" />
+<img width="1401" height="794" alt="image" src="https://github.com/user-attachments/assets/0cae7ce6-116c-47c2-836f-3d9361e7f8bc" />
+<img width="1419" height="822" alt="image" src="https://github.com/user-attachments/assets/7f76447c-ca39-4a9b-9d33-ea9a1b1109b6" />
+
+* [Adjectives] c
+
+<img width="1400" height="752" alt="image" src="https://github.com/user-attachments/assets/7b35322f-1025-4801-99bd-e413dae07848" />
+<img width="1436" height="884" alt="image" src="https://github.com/user-attachments/assets/d514d1d1-49f8-453b-9cfd-1289c95742cf" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong] [Mam marked the wrong answer]
+
+<img width="1412" height="791" alt="image" src="https://github.com/user-attachments/assets/36fa6628-b66b-4e70-aaca-4f9cd801fd8e" />
+
+* 1 -> Last -> Indicates **position**. [VERY IMPORTANT]
+* 1 -> Latest -> Indicates **time**. [VERY IMPORTANT]
+* 4 -> Next -> Indicates **position**. [VERY IMPORTANT]
+* 4 -> Nearest, Farthest -> Indicates **Distance**. [VERY IMPORTANT]
+* Deepti's uncle lives next door. [Correct]
+* Deepti's uncle lives in the house nearest to the metro station. [YES] [Correct]
+* When we talk about family members -> Sisters, brothers, father, mother -> We don't say **"older"**, we say  **"elder"** -> We don't say **"oldest"**, we say  **"eldest"**. [VERY IMPORTANT]
+* Far, Farther, Farthest -> We use them when we are talking about **Distance**. [VERY IMPORTANT]
+* 3 -> Additional -> Further.
+
+<img width="1415" height="804" alt="image" src="https://github.com/user-attachments/assets/63581089-f9bc-479f-9daf-bf361fdf80b1" />
+
+* Ans -> Option **D**. [Correct]
+* Old, Older, Oldest -> We can use for **"persons"** other than **"family members"**. [VERY IMPORTANT]
+* Old, elder, eldest -> Cannot be used for **things**. [VERY IMPORTANT]
+* As he walked further, he saw a sheep. [Correct]
+
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/5280df00-2bcf-4453-bbaf-6a4ec21f24a3" />
+
+* [Adjectives] [VERY IMPORTANT]
+
+<img width="1430" height="892" alt="image" src="https://github.com/user-attachments/assets/e9d45df1-94a3-402d-9406-dcdd70e065cc" />
+
+* A/C
+* Ans -> Option **A**. [Got Correct]
+* Gold -> Not countable -> Uncountable. [YES] [Correct]
+* With **uncountable nouns** we cannot use **few, fewer, fewest**. [VERY IMPORTANT]
+* Kilogram(Kgs) -> Countable -> We can use **few, fewer, fewest**. [VERY IMPORTANT]
+
+<img width="235" height="72" alt="image" src="https://github.com/user-attachments/assets/72871c0c-9257-4224-8034-d90f5166267e" />
+
+* Yes.
+* Fewer/Few kgs. [YES] [Correct]
+* Men -> Countable -> We can use **few, fewer, fewest**. [VERY IMPORTANT]
+* Let's meet up **sometime**. [YES] [Correct]
+
+<img width="251" height="78" alt="image" src="https://github.com/user-attachments/assets/eb8e1c43-aaf2-41bf-a320-c3561d807d89" />
+
+* Yes.
+
+<img width="1398" height="805" alt="image" src="https://github.com/user-attachments/assets/74d9063d-24ed-454e-9c84-e048351258ba" />
+
+* [VERY IMPORTANT]
+* Countable Nouns(CN).
+* Uncountable Nouns(UN).
+* I have some chocolates.
+* Please give me some water. 
+* Uncountable Nouns(UN) -> chocolates, some water. [VERY IMPORTANT]
+* Some, any -> Can be used in **both 'CN' & 'UN'**. [VERY IMPORTANT] 
+
+<img width="1399" height="781" alt="image" src="https://github.com/user-attachments/assets/0d04e713-e95e-4783-9fd4-c675fea85e35" />
+
+* [Adjectives] [VERY IMPORTANT]
+
+<img width="1413" height="827" alt="image" src="https://github.com/user-attachments/assets/2df6b73f-b5ea-4654-a74b-5178e3ee700f" />
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/6cf1a70b-b4d1-47da-80be-e48f207f56e8" />
+
+* [Adjectives] [VERY IMPORTANT]
+* Some -> Usually used in **positive** sentences. [VERY IMPORTANT]
+* Any -> Usually used in **negative** sentences. [VERY IMPORTANT]
+* Offer/Request -> We should use **"some'**. [VERY IMPORTANT]
+* Would you like **some** tea. [Offer/Request]
+
+<img width="1394" height="779" alt="image" src="https://github.com/user-attachments/assets/dcaf7242-b7e4-43eb-a23d-30face99bf1b" />
+<img width="1402" height="783" alt="image" src="https://github.com/user-attachments/assets/b416569a-536d-486b-a51d-0531040f94e8" />
+
+* Do you have any idea? [Usual question]
+* Usual question -> Either an offer or a request -> That's why we can use **any**
+
+<img width="435" height="73" alt="image" src="https://github.com/user-attachments/assets/b12f2654-a0fc-48d2-9d36-e45151dbca90" />
+
+* No.
+
+<img width="1413" height="800" alt="image" src="https://github.com/user-attachments/assets/f9e6179d-dc64-4d85-903b-463e080b9def" />
+
+* Little -> Negligible -> Negative connotation. [VERY IMPORTANT]
+* A little -> Not much but sufficient. [VERY IMPORTANT]
+* Few -> Negligible -> Negative connotation. [VERY IMPORTANT]
+* A few -> Not much but sufficient. [VERY IMPORTANT]
+
+<img width="1426" height="891" alt="image" src="https://github.com/user-attachments/assets/208af1ab-0d3a-4e02-bc6b-9142165b9bcc" />
+
+* Ans -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+* D -> many -> much/most. [Correct]
+* it -> money.
+
+<img width="1404" height="790" alt="image" src="https://github.com/user-attachments/assets/df9b9c0c-2336-4639-a8bd-2ca9904daff9" />
+
+* Not individual rupees but as a chunk of income.
+* [VERY IMPORTANT]
+
+<img width="1401" height="784" alt="image" src="https://github.com/user-attachments/assets/0b880d29-b480-4331-a220-5b096aa5e56c" />
+
+* [Adjectives] [VERY IMPORTANT]
+
+#### Adverbs
+
+<img width="1399" height="783" alt="image" src="https://github.com/user-attachments/assets/0f99358c-a36f-4e01-be71-773cd37f63be" />
+<img width="1393" height="802" alt="image" src="https://github.com/user-attachments/assets/837800d8-6619-4154-8c3c-7529147e1d8e" />
+
+* Adverb -> Literally, Never.  [VERY IMPORTANT]
+* Lovely -> Not an adverb, it is an adjective.  [VERY IMPORTANT]
+* [Adverb] [VERY IMPORTANT]
+
+<img width="1406" height="788" alt="image" src="https://github.com/user-attachments/assets/dd2f8b70-76dd-4ec5-9d14-a904cfcaa425" />
+
+* 1 -> Fast -> Adjective.
+* 2 -> Fast -> Adjective.
+    * 2 -> Very -> Adverb. [Adverb describing the Adjective]
+* 3 -> Fast -> Adverb.
+* 4 -> Fast -> Adverb.
+    * 4 -> Very -> Adverb. [Adverb describing adverb]
+* 5 -> Fast -> Adverb.
+* Sleeping -> Verb.
+* 5 -> asleep -> Adjective. [Describing her state]
+* Adverb -> Can describe a **Verb, adjectives, other adverbs**. [VERY IMPORTANT]
+
+<img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/6f79a22b-6d30-4933-b10f-cab11de6dca6" />
+
+* [Adverb] [VERY IMPORTANT]
+
+<img width="1435" height="899" alt="image" src="https://github.com/user-attachments/assets/82dbcea8-1a9a-4fb3-944c-6590753901bc" />
+
+* Ans -> Option **B**. [Correct]
+* Option **D**. [Wrong]
+* Well -> Adverb.
+* performed -> Verb.
+* remarkably -> Verb.
+
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/23e83c37-3d03-442f-98ce-0df0771f8357" />
+
+* Adverbs -> They can tell about **Time, Frequency, Place, Manner, How, Degree**.  [VERY IMPORTANT]
+
+<img width="1409" height="775" alt="image" src="https://github.com/user-attachments/assets/53afa6e0-a52b-4105-b3b4-9824e600aef5" />
+
+* [Adverb] [VERY IMPORTANT]
+* maelstrom -> Chaotic situation, chaos. [MEANING]
+
+<img width="1408" height="795" alt="image" src="https://github.com/user-attachments/assets/85aebf0e-788f-4ce2-b2f2-d068c9d565cf" />
+
+* [Example]
+* I looked everywhere. [Correct]
+* He secured the goal yesterday. [Correct]
+
+<img width="1392" height="755" alt="image" src="https://github.com/user-attachments/assets/40e2d484-9393-47a2-93d9-a2b467556811" />
+<img width="1433" height="841" alt="image" src="https://github.com/user-attachments/assets/e3ff4f6a-3d4e-40d5-ae87-9e13cb4d65fa" />
+
+* MPT Rule -> Manner(M)-Place(P)-Time(T).  [VERY IMPORTANT]
+
+<img width="1415" height="782" alt="image" src="https://github.com/user-attachments/assets/f5f7a832-86c1-43d3-b8d4-4ab524a25f71" />
+<img width="1412" height="777" alt="image" src="https://github.com/user-attachments/assets/36222ccb-ecca-4157-b9ca-f2271198ae75" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/1bf92943-d486-40ac-a848-aa2740f2e0ad" />
+<img width="267" height="64" alt="image" src="https://github.com/user-attachments/assets/7fdf0971-6482-4348-962a-4f9e1afc1f85" />
+
+* Yes.
+* have -> Simple verb(SV)
+
+<img width="191" height="70" alt="image" src="https://github.com/user-attachments/assets/ce20db05-1c50-4c40-8479-e3d3a4c38569" />
+
+* Yes.
+* meet -> Simple verb(SV)
+* We often have been told this. [Correct]
+* have been told -> Compound verb(CV).
+
+<img width="1412" height="822" alt="image" src="https://github.com/user-attachments/assets/3992291e-2d4f-430e-bc43-3147050a5da7" />
+
+* [Example]
+
+#### Modifiers
+
+<img width="1413" height="796" alt="image" src="https://github.com/user-attachments/assets/0e95c33d-ae2e-42b5-9945-a91b536b5a45" />
+
+* Next Class.
+
+### Tenses (3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
