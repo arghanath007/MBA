@@ -4791,15 +4791,20 @@
 
 * Ans -> Option **D**. [Got Correct]
 
+<img width="1390" height="799" alt="image" src="https://github.com/user-attachments/assets/369480cb-3c59-4e18-a1b3-838fcd849fbd" />
 
+* A -> regularly -> Squinting modifier. [Example]
 
+<img width="1391" height="789" alt="image" src="https://github.com/user-attachments/assets/e21afd5d-3199-4fc8-a88c-138067fba8b7" />
 
+* [Modifiers] [VERY IMPORTANT]
 
+<img width="1415" height="894" alt="image" src="https://github.com/user-attachments/assets/dcd30e70-6f16-4908-b8e6-5a24dfa1c9a1" />
 
-
-
-
-
+* Ans -> Option **E**. [Correct]
+* Option **C**.
+* She is taller than I. [Correct]
+* Start from 36mins.
 
 
 
