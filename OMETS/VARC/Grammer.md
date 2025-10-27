@@ -4699,6 +4699,10 @@
 
 * [Example]
 
+<img width="772" height="856" alt="image" src="https://github.com/user-attachments/assets/48003d09-2102-40eb-bbe6-0d6da1177cef" />
+
+* Sometime, sometimes, some time.  [VERY IMPORTANT]
+
 #### Modifiers
 
 <img width="1413" height="796" alt="image" src="https://github.com/user-attachments/assets/0e95c33d-ae2e-42b5-9945-a91b536b5a45" />
@@ -4707,34 +4711,85 @@
 
 ### Tenses (3)
 
+<img width="1399" height="797" alt="image" src="https://github.com/user-attachments/assets/1651e117-41b4-4603-91ae-9ea4544d8aaa" />
 
+* [Adjectives] [Adverbs] [Modifiers]
 
+<img width="1411" height="807" alt="image" src="https://github.com/user-attachments/assets/5332cb3f-55c7-47e6-968b-2f704b42241b" />
 
+* 1 -> Created the program in 2weeks.
+* 2 -> Solved the problem in 2weeks.
+* One Morning when I was in my pyjamas, I shot an elephant. [Correct]
 
+#### Modifiers
 
+* Modifiers -> that adds details/information to another word/phrase in the sentence.
 
+<img width="1390" height="795" alt="image" src="https://github.com/user-attachments/assets/83604092-8375-4138-9f3b-91e51523573f" />
 
+* [Modifiers] [VERY IMPORTANT]
 
+<img width="1404" height="794" alt="image" src="https://github.com/user-attachments/assets/838fe047-f943-4b96-8213-ea6ee8d4ca02" />
 
+* Modifiers -> Adjectives & Adverbs.
 
+<img width="1394" height="791" alt="image" src="https://github.com/user-attachments/assets/3c8151e9-87d2-4b1b-b0ac-acb427233c7a" />
 
+* dropped -> Verb.
+* Poor, simple, quickly, on the tray -> Modifier.
+* on the tray -> Adverb of place.
+* ten -> Modifier.
+* whom the police caught -> Modifier.
+* Modifiers -> Can be Words, Phrases, Clauses.
 
+<img width="1424" height="911" alt="image" src="https://github.com/user-attachments/assets/03910303-cf2f-4a71-ba29-8a7a8cb42233" />
 
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
 
+<img width="1414" height="769" alt="image" src="https://github.com/user-attachments/assets/d01e87a2-07b5-4413-b47e-1f5ea94d2538" />
 
+* 1 -> nearly -> Misplaced modifier.
+* Raghu has annoyed nearly everyone at the party. [Correct]
+* He often said that he wanted to marry me. [Correct]
+* I saw a man with a telescope on a hill. [Correct]
+* On a hill, I saw a man with a telescope. [Meaning changes but it is correct]  [Correct]
+* I saw a man drinking at the bar. [Correct]
 
+<img width="1404" height="798" alt="image" src="https://github.com/user-attachments/assets/4bdf6912-e61b-4eb7-b88c-6ad4e7d1e7e7" />
+<img width="1409" height="789" alt="image" src="https://github.com/user-attachments/assets/7ce3e1ac-e5ac-4d21-910e-9ac0329923b4" />
+<img width="1419" height="782" alt="image" src="https://github.com/user-attachments/assets/fba9e841-f707-4cf0-9ec6-af6391750509" />
+<img width="1436" height="885" alt="image" src="https://github.com/user-attachments/assets/d36f55ed-bc84-4d95-989d-1722d720c378" />
 
+* Ans -> Option **D**. [Correct]
+* Option **A**. [Wrong]
 
+<img width="1423" height="813" alt="image" src="https://github.com/user-attachments/assets/fc056a7c-8a8d-4cf2-aea0-aa8c6876c053" />
 
+* While walking in the park, I was bitten by a snake.  [Correct]
+* While I was walking in the park, a snake bit me.  [Correct]
+* While I dreamt about my future, the possibilities seemed endless. [Correct]
+* While dreaming about my future, my possibilities seemed endless. [Wrong]
+* It being a rainy day, I remained indoors. [Correct]
 
+<img width="1420" height="818" alt="image" src="https://github.com/user-attachments/assets/1e795933-db90-4a78-afb7-57a831246518" />
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/a2352efc-b0f5-4fb7-b959-d4d613655579" />
 
+* my/his/her/their -> Pronouns. [Wrong]
+* I/she/he/they -> Noun. [Correct]
 
+<img width="1425" height="807" alt="image" src="https://github.com/user-attachments/assets/291b36d4-90e1-4d1a-9d51-e7826c777c24" />
 
+* [Modifiers] [VERY IMPORTANT]
 
+<img width="1418" height="803" alt="image" src="https://github.com/user-attachments/assets/e5a63ea3-d1e9-49e7-b950-41bddbb7b79b" />
 
+* [Modifiers] [VERY IMPORTANT]
 
+<img width="1423" height="819" alt="image" src="https://github.com/user-attachments/assets/e9d77df0-8fdb-48c3-ae64-13d077c53d3c" />
+<img width="1433" height="897" alt="image" src="https://github.com/user-attachments/assets/760e763c-3f47-45f9-9202-cc3d55f0e3bd" />
 
-
+* Ans -> Option **D**. [Got Correct]
 
 
 
