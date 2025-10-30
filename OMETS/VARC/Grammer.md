@@ -4802,84 +4802,180 @@
 <img width="1415" height="894" alt="image" src="https://github.com/user-attachments/assets/dcd30e70-6f16-4908-b8e6-5a24dfa1c9a1" />
 
 * Ans -> Option **E**. [Correct]
-* Option **C**.
+* Option **C**. [Wrong]
 * She is taller than I. [Correct]
-* Start from 36mins.
 
+<img width="1439" height="906" alt="image" src="https://github.com/user-attachments/assets/34fec514-4a0d-4fbe-83a2-7a548bbdbcec" />
+<img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/8a378096-2b3b-4164-87b9-720b37732650" />
 
+* The dog was faster than I am. [Correct]
+* The dog was faster than I. [Correct]
+* "am" is omitted.
+* me -> Object.
+* The dog was faster than me. [Wrong]
+* The dog was faster than I. [Correct]
+* Object comes when there is an **action**. As there is no action in the above sentence so no object can come ie "me". So we write "I" instead of "me'.  [VERY IMPORTANT]
+* Comparison always happens between **like/similar** things.  [VERY IMPORTANT]
 
+<img width="1437" height="813" alt="image" src="https://github.com/user-attachments/assets/2c26858a-9536-4f6c-b245-f25385e2ae8e" />
+<img width="1411" height="811" alt="image" src="https://github.com/user-attachments/assets/25e7a6cb-585c-474d-9d02-a541eb8a8859" />
+<img width="1438" height="897" alt="image" src="https://github.com/user-attachments/assets/8566f1cd-f36c-4ffc-bb7b-740ff6c9a065" />
 
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
 
+<img width="1416" height="806" alt="image" src="https://github.com/user-attachments/assets/37fd9253-2ad6-496b-9b82-49d3cd996af4" />
+<img width="1438" height="924" alt="image" src="https://github.com/user-attachments/assets/cb77e036-b1ac-450a-98e8-d897cbdf1bb1" />
 
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
 
+<img width="1416" height="796" alt="image" src="https://github.com/user-attachments/assets/1e3cbdb9-fa73-4757-918a-1a28f32af5bf" />
+<img width="1425" height="887" alt="image" src="https://github.com/user-attachments/assets/a65839d0-d5df-40cc-8e44-c3ddc8e2546a" />
 
+* Ans -> Option **E**. [Correct]
+* Option **C**. [Wrong]
 
+<img width="1411" height="774" alt="image" src="https://github.com/user-attachments/assets/12ddf08d-b51b-44a3-9a5d-6a237479b2ea" />
+<img width="1433" height="925" alt="image" src="https://github.com/user-attachments/assets/c5ccd5af-daec-4404-8f3c-4096240403c6" />
 
+* Ans -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+* To remove the mistakes, I must revise the essay. [Correct]
+* For the mistakes to be removed, the essay must be revised. [Correct]
 
+#### Subject Verb Agreement(SVA)
 
+<img width="1405" height="809" alt="image" src="https://github.com/user-attachments/assets/a5ccfd63-76bb-48c4-9020-88cb9c2b696d" />
+<img width="1411" height="805" alt="image" src="https://github.com/user-attachments/assets/601a01f7-6699-44c1-a6fc-d8f14bda10db" />
 
+* Ask Question -> Who/What. [VERY IMPORTANT]
 
+<img width="1421" height="799" alt="image" src="https://github.com/user-attachments/assets/d33aba19-aa11-4dd7-a84d-99bd6d5caa00" />
 
+* Subject -> Siddhi, Sky.
 
+<img width="1433" height="919" alt="image" src="https://github.com/user-attachments/assets/f9867322-d522-4216-8d8c-016a1a548fe4" />
 
+* Ans -> Option **D**. [Got Correct]
+* Subject -> Horse -> Singular.
+* Was -> Singular.
+* Were, are, have -> Plural.
 
+<img width="1435" height="816" alt="image" src="https://github.com/user-attachments/assets/b97a6d99-dfaa-4fa1-b61e-6f3394856acb" />
 
+* Ans -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+* Subject -> Conquest -> Singular.
+* Was -> Singular.
 
+<img width="1435" height="908" alt="image" src="https://github.com/user-attachments/assets/aa677e44-e088-4fb3-b233-07319fa9ea54" />
 
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Subject -> Object(1st Blank), tidal forces(2nd Blank)
+* Object(1st Blank) -> Singular -> is.
+* tidal forces(2nd Blank) -> Plural -> are.
 
+<img width="1419" height="778" alt="image" src="https://github.com/user-attachments/assets/cdbc1c89-9ac6-4cb5-b3b3-10768d90e1d0" />
+<img width="1416" height="798" alt="image" src="https://github.com/user-attachments/assets/9bf31f2e-83ee-45ea-97d3-fa0e598f2f7b" />
+<img width="427" height="84" alt="image" src="https://github.com/user-attachments/assets/c5df7771-5388-4fd8-8b6f-ed9e52972540" />
 
+* No. Ask the question(Who/What). [VERY IMPORTANT]
 
+<img width="1408" height="789" alt="image" src="https://github.com/user-attachments/assets/ca9452dc-13dc-4af4-bc40-23dcf712f1eb" />
 
+* am -> Present.
+* was -> Past.
+* I am intelligent. [Correct]
+* I was intelligent. [Correct]
+* You are intelligent. [Correct]
 
+<img width="1409" height="786" alt="image" src="https://github.com/user-attachments/assets/812fd734-76f4-4a61-b69e-d0157077b617" />
 
+* [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1440" height="905" alt="image" src="https://github.com/user-attachments/assets/cae5c6c8-6b8f-4749-9775-ddde999b67f5" />
 
+* Ans -> Option **C**. [Correct] [VERY IMPORTANT]
+* Option **D**. [Wrong]
+* I am responsible. He is not [Correct]
+* who -> Relative pronoun. 
 
+<img width="1415" height="793" alt="image" src="https://github.com/user-attachments/assets/a539a9bd-2fe8-4a0b-a45e-cc3edd885f32" />
+<img width="1427" height="924" alt="image" src="https://github.com/user-attachments/assets/385da0ed-389a-4459-8dda-0389e7ee739c" />
 
+* Ans -> Option **E**. [Got Correct]
+* Fire, Water -> 2 different things -> Plural -> do.
+* Law, Order -> same/similar things/idea -> Singular -> is.
+* Law and Order is important. [Correct]
+* Fire and Water do not agree. [Correct]
+* does -> Singular. [VERY IMPORTANT]
+* do -> Plural. [VERY IMPORTANT]
+* The novelist and the poet are no more. [Correct]
+* The novelist and poet is no more. [Correct] [Talking about one person here who is a novelist and a poet both]
+* My neighbour and friend has come. [Correct] [Talking about **one person** here who is a neighbour and a friend both]
+* My neighbour and my friend have come. [Correct] [Talking about **two different perso**n here, one is a neighbour and one is a friend]
+* has -> Singular. [VERY IMPORTANT]
+* have -> Plural. [VERY IMPORTANT]
+* Bread, Butter -> same/similar things/idea. [Idea -> His Meal/food]
 
+<img width="1418" height="808" alt="image" src="https://github.com/user-attachments/assets/4cd7143c-0eef-4557-94bb-42c55934e648" />
+<img width="1420" height="817" alt="image" src="https://github.com/user-attachments/assets/962ab6ec-9bbe-4700-b448-f5e4e39a205e" />
 
- 
+* rise, fall -> same/similar things/idea -> Singular -> is. [Idea -> Tide]
 
+<img width="1409" height="796" alt="image" src="https://github.com/user-attachments/assets/fb4b87c0-add2-416e-b59f-e5730b5571f7" />
+<img width="1407" height="801" alt="image" src="https://github.com/user-attachments/assets/49d7cbcf-26cb-4811-bb1c-5561a68b94bf" />
 
+* [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1425" height="909" alt="image" src="https://github.com/user-attachments/assets/d0a56c74-4e3a-46b6-880a-adb3485ec636" />
 
+* Ans -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+* B -> ,....., -> Extra information -> Mathematics is a required subject => Correct only. [VERY IMPORTANT]
+* D -> ,....., -> Extra information -> The mayor was present => Correct only. [VERY IMPORTANT]
+* C -> ,....., -> Extra information -> The house are insured => Wrong only. [VERY IMPORTANT]
+* The house is insured. [Correct]
+* A -> ,....., -> Extra information -> Diya are going to the beach  => Wrong only. [VERY IMPORTANT]
+* Diya is going to the beach. [Correct]
+* **"And" and "as well as"** are not the **same** thing.
+* And -> Conjunction.
 
+<img width="1417" height="852" alt="image" src="https://github.com/user-attachments/assets/0f8767bf-5fe3-474b-9f18-0f8d76b8845c" />
 
+* as well as, in addition to, along with, with, accompanied by -> Additive phrases. [VERY IMPORTANT]
+* [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1393" height="795" alt="image" src="https://github.com/user-attachments/assets/a6475eb4-bbbb-4f4f-8e6b-37fe97aa9c70" />
+<img width="1414" height="779" alt="image" src="https://github.com/user-attachments/assets/958924e5-038c-4a87-ae5e-b727e6fae7c7" />
+<img width="354" height="64" alt="image" src="https://github.com/user-attachments/assets/9e7a93bb-2f8b-49c9-bb6f-3d5b05df9a13" />
 
+* Yes.  [VERY IMPORTANT]
 
+<img width="1425" height="805" alt="image" src="https://github.com/user-attachments/assets/9ad58bff-64e5-48b7-956c-d03e5d5a3795" />
 
+* [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1439" height="914" alt="image" src="https://github.com/user-attachments/assets/50a04682-6366-4750-b58c-ad9797764016" />
 
+* Ans -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+* Conjunction -> Or, nor, either-or, neither-nor. [VERY IMPORTANT]
+* Or -> Doesn't make the **subject** plural. [VERY IMPORTANT]
+* A -> nook, corner -> Singular -> Was -> Singular.
+* Neeta -> 3rd Person.
+* I -> 1st person.
+* If the person of the two(2) nouns is different then the verb will follow the closer noun/pronoun.  [VERY IMPORTANT]
 
+<img width="1430" height="778" alt="image" src="https://github.com/user-attachments/assets/d1868361-71ea-4c12-b4dd-4bb7f7fe4768" />
 
+* I -> am.
 
+<img width="1400" height="791" alt="image" src="https://github.com/user-attachments/assets/ff1c9125-03f5-41ec-a5e8-d349181764d6" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
 
 
