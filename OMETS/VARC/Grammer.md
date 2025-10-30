@@ -5083,7 +5083,257 @@
 
 * 7. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+### Subject Verb Agreement(SVA) (4) 
 
+<img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/8ea0f276-8ba5-4e21-b030-401d39ff2c1c" />
+<img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/25b24bfc-14e0-440c-9d5b-7a96799917fb" />
+
+* Based on Noun. [VERY IMPORTANT]
+* Cake -> Singular -> has.
+* have -> Plural.
+* Fractions, percentages -> They are also **proportions**. [VERY IMPORTANT]
+
+<img width="1431" height="930" alt="image" src="https://github.com/user-attachments/assets/0e8bd036-33a0-42af-8c29-4927ceb4f936" />
+
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+
+<img width="1410" height="799" alt="image" src="https://github.com/user-attachments/assets/ac1c6805-1220-4994-aa7c-c81c10aa183b" />
+
+* three-fourths. [Correct] [VERY IMPORTANT]
+* When the numerator in a fraction is greater than '1' then we put an 's' at the end like two-thirds, three-fourths etc. [VERY IMPORTANT]
+* Community -> Block/Unit -> Singular.
+* has -> Singular.
+* three-fourths -> Block/Unit -> Singular.
+* have -> Plural. [Wrong]
+* has -> Singular.
+
+<img width="1398" height="817" alt="image" src="https://github.com/user-attachments/assets/d8248e65-de7c-4d5c-8c4a-f933353c1097" />
+
+* [VERY IMPORTANT]
+
+<img width="1407" height="794" alt="image" src="https://github.com/user-attachments/assets/c2c5a14c-d579-48a2-a71b-4dd65e1ae2ae" />
+
+* 8. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/137f6fd4-e9e4-40d8-98e3-5ae7e01d625d" />
+
+* Majority of the people are in favour of. [Correct]
+* Majority of the community is in favour of. [Correct]
+
+<img width="1438" height="902" alt="image" src="https://github.com/user-attachments/assets/12d3bb21-8e64-4e53-b777-4240840bc654" />
+
+* Ans -> Option **C**. [Got Correct]
+* A number of/ A number -> Plural -> were. [VERY IMPORTANT]
+* A number of/ A number -> Greater than '2'. [MEANING]
+
+<img width="431" height="96" alt="image" src="https://github.com/user-attachments/assets/1bc054e3-16f3-4ff0-b10f-fde74d885e80" />
+
+* Yes. [VERY IMPORTANT]
+* The number -> One specific Number.  [MEANING] [VERY IMPORTANT]
+* The number -> Singular -> has/is. [VERY IMPORTANT]
+* The number of students in this class is 87. [Correct]
+
+<img width="1407" height="793" alt="image" src="https://github.com/user-attachments/assets/db60f02f-95ef-4bc6-a651-6173c54494cc" />
+<img width="1428" height="801" alt="image" src="https://github.com/user-attachments/assets/1428918e-8b49-4635-b79d-4e256eef4ccc" />
+
+* 9. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+
+<img width="1436" height="909" alt="image" src="https://github.com/user-attachments/assets/c4b49489-3a6d-431d-860b-3aaf974896b4" />
+
+* Ans -> Option **C**. [Got Correct]
+* Two minutes -> Duration -> Block/chunk of time -> we treat it a single entity -> Singular -> is. [VERY IMPORTANT]
+* Five thousand rupees -> Currency -> Block/chunk of money -> Singular -> is. [VERY IMPORTANT]
+* Ten kilometers -> Distance -> Block/chunk of distance -> Singular -> is. [VERY IMPORTANT]
+
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/e7bc3dcc-9111-4488-9470-b36ce38c3fb2" />
+
+* Two hours have passed and he still hasn't arrived. [Correct]
+
+<img width="417" height="88" alt="image" src="https://github.com/user-attachments/assets/77862d82-1167-46f6-9483-b9fe58d94337" />
+
+* Two hours have passed and he still hasn't arrived -> Passing of time. [VERY IMPORTANT]
+* Two minutes is not enough for the extempore -> Giving a paricular time frame. [VERY IMPORTANT]
+
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/a18a830f-0051-451c-8196-2ef6c42872ea" />
+<img width="1417" height="804" alt="image" src="https://github.com/user-attachments/assets/935c6357-762f-4b64-b387-9336d134dc99" />
+
+* 10. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+
+<img width="1422" height="815" alt="image" src="https://github.com/user-attachments/assets/41807b75-ad95-4f3f-adf5-c6e23beea281" />
+
+* [Example]
+
+<img width="1436" height="897" alt="image" src="https://github.com/user-attachments/assets/20bbbf9b-574e-467a-ae7d-a497f83e2702" />
+
+* Ans -> Option **C**. [Correct]
+* Option **B**.
+* Politics -> Academic Subject -> Singular -> is. [VERY IMPORTANT]
+* C -> Statistics -> Academic Subject -> Singular -> is. [VERY IMPORTANT]
+* D -> The statistics -> Numbers/data -> Plural.  [VERY IMPORTANT]
+* Reveal -> Plural. [VERY IMPORTANT]
+* Reveals -> Singular. [VERY IMPORTANT]
+
+<img width="1407" height="776" alt="image" src="https://github.com/user-attachments/assets/bad431a5-b5a2-4941-ace7-db38ce564e80" />
+<img width="1421" height="808" alt="image" src="https://github.com/user-attachments/assets/a3ece99d-fd9f-4645-bc52-c9d193365b03" />
+
+* 11. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+
+<img width="1440" height="908" alt="image" src="https://github.com/user-attachments/assets/bec268f5-6a1d-48e5-aa17-2fe877789dc9" />
+
+* Ans -> Option **A**. [Correct]
+* Option **E**. [Wrong] [Mam choose the wrong option]
+
+<img width="1427" height="828" alt="image" src="https://github.com/user-attachments/assets/0de42e39-8ae1-4b2f-ba69-17d039ca421b" />
+<img width="1424" height="794" alt="image" src="https://github.com/user-attachments/assets/cc8cd5a1-3f65-4508-b2e6-b7d6f9ea7a8e" />
+
+* Ans -> Option **E**. [Correct]
+
+<img width="1418" height="801" alt="image" src="https://github.com/user-attachments/assets/d4d27e73-ecee-4025-bea1-a3add76cd907" />
+<img width="1403" height="806" alt="image" src="https://github.com/user-attachments/assets/e84a1713-31cc-413c-a3e5-5afbe3d73a70" />
+
+* 12. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+
+<img width="1437" height="899" alt="image" src="https://github.com/user-attachments/assets/875244c8-879d-47e8-ba77-82d216371b36" />
+
+* Ans -> Option **E**. [Correct]
+* Option **B**. [Wrong]
+* A pair of scissors -> Singular -> is. [VERY IMPORTANT]
+* My scissors -> Plural -> are. [VERY IMPORTANT]
+* scissors -> Always exist in pair. [VERY IMPORTANT]
+* My scissors are missing. [Correct]
+* My jeans have faded. [Correct]
+* Subject -> This pair -> Singular. [VERY IMPORTANT]
+* do -> Plural. [VERY IMPORTANT]
+* does -> Singular. [VERY IMPORTANT]
+* Spectacles -> Always exist in pair. [VERY IMPORTANT]
+* Where are my spectacles. [Correct]
+
+<img width="1409" height="791" alt="image" src="https://github.com/user-attachments/assets/c7406092-2b58-4400-9bd5-944c3d5e7e08" />
+
+* Binoculars, sunglasses, goggles -> Always exist in pair -> Always **are**. [VERY IMPORTANT]
+* shoe  -> Singular -> is. [VERY IMPORTANT]
+* shoes -> Singular ->  are. [VERY IMPORTANT]
+* sock -> Singular -> is [VERY IMPORTANT]
+* sock -> Plural -> are. [VERY IMPORTANT]
+
+<img width="1395" height="790" alt="image" src="https://github.com/user-attachments/assets/57fe2d86-3ea4-4cb6-8277-e29bacafdf92" />
+
+* scissors, Spectacles, Binoculars, sunglasses, goggles -> Always Plural. [VERY IMPORTANT]
+
+<img width="1405" height="816" alt="image" src="https://github.com/user-attachments/assets/0e896626-0c36-484c-a555-be6792ab3acd" />
+
+* 13. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+
+<img width="1428" height="787" alt="image" src="https://github.com/user-attachments/assets/1f5c425e-8268-47fa-813e-ca47c7074402" />
+
+* A pair of -> Singular. [VERY IMPORTANT]
+
+<img width="1441" height="893" alt="image" src="https://github.com/user-attachments/assets/1a1e7736-bcb2-445d-b8a3-c37271dfbedf" />
+
+* Ans -> Option **C**. [Correct]
+* Option **A**. [Wrong]
+* Subject -> Mob -> One singular group -> Singular -> was
+
+<img width="431" height="89" alt="image" src="https://github.com/user-attachments/assets/adfd29ff-2e9a-4957-be0b-a179ed40d2d1" />
+
+* Yes.
+* Jury -> A group of judges. [MEANING]
+* Jury divided -> Divided into groups -> Plural -> were. [VERY IMPORTANT]
+* Committe -> one by one -> Emphasis on individuals -> Plural -> have. [VERY IMPORTANT]
+
+<img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/36e49e74-1476-4fef-9132-bee9a5e51bfd" />
+<img width="1426" height="809" alt="image" src="https://github.com/user-attachments/assets/70bd025f-cf5c-4312-80b4-53930ac1b1d0" />
+<img width="1409" height="812" alt="image" src="https://github.com/user-attachments/assets/10f799f7-f325-4f7b-a446-7970c57ec27c" />
+
+* Groups -> Divided, one by one -> Plural.
+* 14. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+* team -> their homes -> Individual actors -> plural -> are. [Example] [VERY IMPORTANT]
+
+<img width="1429" height="799" alt="image" src="https://github.com/user-attachments/assets/2058ed4a-4d47-4440-948f-9f44d986feaa" />
+<img width="1434" height="912" alt="image" src="https://github.com/user-attachments/assets/3857117b-a526-41b4-8461-d94649543278" />
+
+* Ans -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+* people -> Always Plural -> have. [VERY IMPORTANT]
+* Crowd, mob -> A group of people. [VERY IMPORTANT]
+* Cattle -> Always Plural -> are. [VERY IMPORTANT] 
+* Police, People, Cattle, Vermin, Gentry -> Always Plural -> are. [VERY IMPORTANT] 
+
+<img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/975ac5a2-fed5-4a62-a4bc-ecf955d1cf3c" />
+<img width="1401" height="794" alt="image" src="https://github.com/user-attachments/assets/10c546bb-68b9-4621-b097-a6ebdcd815b3" />
+
+* 15. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
+* The aboriginal peoples of Australia. [Correct]
+* peoples -> Members of a particular nation, tribes, races, community or an ethnic group. [VERY IMPORTANT]
+* The Americans are an industrious people. [VERY IMPORTANT] 
+
+<img width="1389" height="792" alt="image" src="https://github.com/user-attachments/assets/fe4ad9fa-b681-4ae8-a92c-09ca997e585d" />
+<img width="1434" height="909" alt="image" src="https://github.com/user-attachments/assets/ba7bcd8e-d964-4a9a-827e-a1d95403068c" />
+
+* Ans -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+
+<img width="422" height="364" alt="image" src="https://github.com/user-attachments/assets/2415b885-177c-4cb1-8de6-ce2d441ce800" />
+
+* Yes.
+* The teacher told him. [Correct]
+* The teacher told me. [Correct]
+* The teacher told him nad me to leave early. [Correct]
+* Either -> Always Singular -> is. [VERY IMPORTANT]
+* Either-or -> Look at the nearer noun and then decide whether it is singular or plural. [VERY IMPORTANT]
+* Nobody -> Always Singular -> has, he/she. [VERY IMPORTANT]
+* Either Riya's friends or she has done this. [Correct] [Look at the nearest noun -> she -> Singular -> has]
+* Everybody -> Always Singular -> his/her. [VERY IMPORTANT]
+* Both -> Always Plural -> are. [VERY IMPORTANT]
+
+<img width="1404" height="817" alt="image" src="https://github.com/user-attachments/assets/ad66c2d4-834d-4a4f-92f6-650bfc003f6c" />
+<img width="1405" height="852" alt="image" src="https://github.com/user-attachments/assets/f3cdfa2d-0aa0-48af-ba58-70cbf315b6a2" />
+<img width="1441" height="904" alt="image" src="https://github.com/user-attachments/assets/bad2f708-f6e8-424c-8803-3b3237f14799" />
+
+* Ans -> Option **A**. [Got Correct]
+
+<img width="1426" height="807" alt="image" src="https://github.com/user-attachments/assets/9ee7b69d-a07e-40ec-a936-adc846562690" />
+<img width="1448" height="926" alt="image" src="https://github.com/user-attachments/assets/70ab60be-c85c-40ad-a7aa-46aec9ed74fd" />
+
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+* amongst, among -> Same only.
+* Amid, Amidst -> Same only.
+* Subject -> Choice -> Singular.
+* Stems -> Singular.
+* Stem -> Plural.
+* Indian Government -> The government of India.
+
+<img width="1420" height="787" alt="image" src="https://github.com/user-attachments/assets/a2846397-2a59-465a-858e-1749907241ae" />
+<img width="1440" height="889" alt="image" src="https://github.com/user-attachments/assets/1a7ce8fc-6303-427e-9fc7-c8aabef54101" />
+
+* Ans -> Option **D**. [Correct]
+* Option **A**. [Wrong]
+* Herbivores -> Noun
+* Herbivore -> Adjective.
+* Teeth -> Plural -> their -> Skulls.
+
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/3c5b8cf8-d942-44f8-86f0-b0596b46c12f" />
+
+* Ans -> Option **B**.
+
+<img width="1415" height="891" alt="image" src="https://github.com/user-attachments/assets/2a0f262a-a6b9-4f5a-856d-2ff260ca6d54" />
+
+* Ans -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+* Gentry -> Always plural -> are. [VERY IMPORTANT]
+* offspring -> Plural. [VERY IMPORTANT]
+
+<img width="1411" height="810" alt="image" src="https://github.com/user-attachments/assets/c99ce273-943d-466e-9962-e9faabc17f39" />
+<img width="1401" height="793" alt="image" src="https://github.com/user-attachments/assets/1123954c-7bf5-49c0-92d5-284970010f07" />
+<img width="1409" height="805" alt="image" src="https://github.com/user-attachments/assets/0a480437-8246-4eab-aa29-a8df2053d7a8" />
+
+### Articles
+
+<img width="1421" height="819" alt="image" src="https://github.com/user-attachments/assets/1245a548-69b7-4c0b-bb56-90313f79a5c0" />
+<img width="1407" height="773" alt="image" src="https://github.com/user-attachments/assets/dc1268bc-238d-41e7-b107-a82337ca8427" />
+<img width="1393" height="781" alt="image" src="https://github.com/user-attachments/assets/16c212d1-ba05-440c-99dc-bc7a11727ab8" />
 
 
 
