@@ -4977,41 +4977,111 @@
 
 * [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1440" height="865" alt="image" src="https://github.com/user-attachments/assets/24ff772c-380e-4606-8d68-a75b8a5f5457" />
 
+* either-or, neither-nor -> Correlative conjunctions.  [VERY IMPORTANT]
+* Pronouns -> Neither, Either, Each, Every, Many. [VERY IMPORTANT]
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Everyone of the cookies was eaten. [Correct]
 
+<img width="1403" height="785" alt="image" src="https://github.com/user-attachments/assets/2d68442e-1d1a-4db1-834f-464c28546320" />
 
+* Lead -> Plural. [VERY IMPORTANT]
+* Leads -> Singular [VERY IMPORTANT]
+* Lead, Leads -> Verb.
+* Boys -> Plural. [VERY IMPORTANT]
+* Boy -> Singular. [VERY IMPORTANT]
+* Boys, Boy -> Noun.
+* Many girls wish to drive. [Correct]
+* Many a girl wishes to drive. [Correct]
+* girl -> Singular.
+* wishes -> Singular. [VERY IMPORTANT]
 
+<img width="1412" height="818" alt="image" src="https://github.com/user-attachments/assets/5ab13eb9-e6e2-467d-bfc1-597d47e5309c" />
 
+* Each and every student has to do this. [Correct]
+* Each and every -> Singular. [VERY IMPORTANT]
+* has -> Singular.
 
+<img width="1393" height="787" alt="image" src="https://github.com/user-attachments/assets/bd7d47c5-b5fd-4c5a-a79b-0e9d9024f536" />
+<img width="1409" height="817" alt="image" src="https://github.com/user-attachments/assets/acbb7453-a3c1-4893-88d3-115a76331e81" />
 
+* [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1424" height="794" alt="image" src="https://github.com/user-attachments/assets/2ccec7a4-b168-410c-a22f-2ed37d161210" />
 
+* 1. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1418" height="777" alt="image" src="https://github.com/user-attachments/assets/2dfca882-9f82-4196-91a6-4bf79420f51e" />
 
+* 2. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1380" height="769" alt="image" src="https://github.com/user-attachments/assets/a0d4b9cf-ab29-4776-9b41-92b8d18b0f66" />
 
+* 3. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1402" height="796" alt="image" src="https://github.com/user-attachments/assets/c8238dc4-5753-41f6-8189-f280da795c1b" />
 
+* 4. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1419" height="810" alt="image" src="https://github.com/user-attachments/assets/f6731694-11d1-4675-8b80-c3ac2e16759c" />
 
+* 5. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1439" height="909" alt="image" src="https://github.com/user-attachments/assets/26e8561b-5c49-4528-a5cf-b60fca4425b0" />
 
+* Ans -> Option **B**. [Correct]
+* Option **C**. [Wrong]
+* They, Them, Their -> Plural.
+* Everyone -> Singular.  [VERY IMPORTANT]
+* his/her -> Singular.
 
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/432e4fa3-94ad-4d16-a219-9f88518e000b" />
 
+* One must not underestimate oneself. [Correct] [VERY IMPORTANT]
+* anyone -> Singular.  [VERY IMPORTANT]
+* has -> Singular.  [VERY IMPORTANT]
 
+<img width="1395" height="825" alt="image" src="https://github.com/user-attachments/assets/f90ad47c-cfbe-462f-aa1e-2aee85a4b273" />
 
+* One -> Oneself. [VERY IMPORTANT]
 
+<img width="421" height="89" alt="image" src="https://github.com/user-attachments/assets/19ecc2fc-a86e-4210-86ab-8a7ae925bf56" />
+<img width="452" height="146" alt="image" src="https://github.com/user-attachments/assets/e01d54db-df5b-4d0f-9575-86b1bb996e6c" />
 
+* No.
 
+<img width="344" height="75" alt="image" src="https://github.com/user-attachments/assets/ab485ede-f74a-413d-a6e6-1204b85109f2" />
 
+* yes.
 
+<img width="1395" height="795" alt="image" src="https://github.com/user-attachments/assets/4eca4f6f-1a90-44f8-859e-ace1019278ec" />
 
+* Nobody -> Singular.  [VERY IMPORTANT]
 
+<img width="1425" height="833" alt="image" src="https://github.com/user-attachments/assets/2129921a-c4bd-40af-ad91-1c41763fac5c" />
 
+* 6. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
+<img width="1437" height="912" alt="image" src="https://github.com/user-attachments/assets/aabc6fa5-366a-43d8-a8b0-2d60bbda2b48" />
 
+* Ans -> Option **D**. [Got Correct]
+* All of the cake -> Referring to the **whole cake** itself -> Singular. [VERY IMPORTANT]
+* has -> Singular. [VERY IMPORTANT]
+* All -> Unit -> Singular. [VERY IMPORTANT]
 
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/6854df7c-927d-4d87-b923-d8767fdaafc1" />
 
+* Money -> Singular.
+* Milk -> Uncountable -> Singular.
+* Friends -> Plural -> are.
+* Guests -> Plural -> have.
+
+<img width="1407" height="779" alt="image" src="https://github.com/user-attachments/assets/e75a5bc1-dcaa-4273-a290-7bfd29a9df81" />
+<img width="1397" height="774" alt="image" src="https://github.com/user-attachments/assets/f9514975-2a62-4e94-8bd1-fcaa0624f641" />
+
+* 7. [Subject Verb Agreement(SVA)] [VERY IMPORTANT]
 
 
 
