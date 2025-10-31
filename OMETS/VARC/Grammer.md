@@ -5561,8 +5561,62 @@
 * Yes.
 
 <img width="1392" height="798" alt="image" src="https://github.com/user-attachments/assets/9753ffd8-5ebe-419e-8cd6-a41acbeb8109" />
+<img width="1438" height="907" alt="image" src="https://github.com/user-attachments/assets/b96b002a-8f52-4771-9bf7-4f87697e727e" />
 
-* Start from 18mins.
+* Ans -> Option **A**. [Got Correct] 
+
+<img width="432" height="88" alt="image" src="https://github.com/user-attachments/assets/67790fef-09e6-4dfe-8e88-3723b5e14fff" />
+
+* Yes.
+
+<img width="1408" height="834" alt="image" src="https://github.com/user-attachments/assets/b77a43ab-579d-4609-898d-bdbee84bf126" />
+
+* Ans -> Option **B**.
+* A -> Two(2) cars.
+
+<img width="1403" height="786" alt="image" src="https://github.com/user-attachments/assets/58d12290-6e32-4568-870c-bb3b6b12cd22" />
+<img width="1434" height="876" alt="image" src="https://github.com/user-attachments/assets/222a986b-1402-42ae-bfc2-0c477829ae64" />
+
+* Ans -> Option **A**. [Correct] 
+* Option **B**. [Wrong]
+* 3 -> the -> One specific novelist.
+* 4 -> Need an article here.
+* 2 -> Riya writes poetry which is better than a  poetry written by a novelists.  [VERY IMPORTANT] [Meaning of option '2']
+* Statement -> Riya is the one who writes both poems and novels.
+
+<img width="314" height="58" alt="image" src="https://github.com/user-attachments/assets/a9c7571e-50e7-46ca-ae7e-c75cd4d837ee" />
+
+* Yes.
+
+<img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/8482d4d9-3ef7-4855-aaf2-c0a86e0d8055" />
+
+*  [VERY IMPORTANT] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
