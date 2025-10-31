@@ -5334,52 +5334,235 @@
 <img width="1421" height="819" alt="image" src="https://github.com/user-attachments/assets/1245a548-69b7-4c0b-bb56-90313f79a5c0" />
 <img width="1407" height="773" alt="image" src="https://github.com/user-attachments/assets/dc1268bc-238d-41e7-b107-a82337ca8427" />
 <img width="1393" height="781" alt="image" src="https://github.com/user-attachments/assets/16c212d1-ba05-440c-99dc-bc7a11727ab8" />
+<img width="1398" height="798" alt="image" src="https://github.com/user-attachments/assets/03e4b604-4918-47d4-8667-dd72b5cf4672" />
+<img width="1412" height="803" alt="image" src="https://github.com/user-attachments/assets/24843385-d372-400e-b038-a65c2fce05b5" />
 
+* Pen -> countable -> A, The. [VERY IMPORTANT]
+* An -> vowel sounding/sound. [VERY IMPORTANT]
 
+<img width="1391" height="801" alt="image" src="https://github.com/user-attachments/assets/b722011c-c07a-439c-b30c-a29d92c8e44a" />
 
+* Pens -> The.
+* Pens have become more expensive.
+* Pens are instruments of writing
+* Pens -> In a general sense.
 
+<img width="1411" height="791" alt="image" src="https://github.com/user-attachments/assets/fb5b7f33-12a2-4166-a31a-a4a91b16d067" />
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/5c318852-8f4a-48a5-b8fa-fe3fc7aee7bf" />
 
+* Uncountable -> Water, Hair.
+* Countable -> A, An. [VERY IMPORTANT]
+* Uncountable -> The. [VERY IMPORTANT]
+* Water is the source of life. [Correct]
+* Water is a scarce resource. [Correct]
+* Water is colorless. [Correct]
+* Water is a necessity. [Correct]
+* Water is a universal solvent. [Correct]
 
+<img width="1420" height="794" alt="image" src="https://github.com/user-attachments/assets/f18e6d01-24c1-4857-8e3a-387c13b233fb" />
+<img width="1438" height="901" alt="image" src="https://github.com/user-attachments/assets/558f2a8d-1724-4eac-921f-4bbdfc7105f4" />
 
+* Ans -> Option **B**. [Got Correct]
+* Milk -> Substance -> General/Generic.
+* A spicy -> One particular instance.
+* A tree -> Non-specific tree.
+* The storm -> specific storm.
 
+<img width="1396" height="804" alt="image" src="https://github.com/user-attachments/assets/d3c1af3f-29b3-46c6-8861-3651de71ad80" />
+<img width="1877" height="904" alt="image" src="https://github.com/user-attachments/assets/8e61564b-1828-44a6-b847-ffdbda22d875" />
 
+* Yes, depending on the context.
+* The tree -> specific tree.
 
+<img width="1409" height="806" alt="image" src="https://github.com/user-attachments/assets/0e474177-c135-4a60-b0e4-d1814f29d95e" />
 
+* Indefinite -> A, An. [VERY IMPORTANT]
+* Definite -> The. [VERY IMPORTANT]
 
+<img width="1439" height="897" alt="image" src="https://github.com/user-attachments/assets/a90e3e4a-c9f3-4ae1-95ed-8850e1812816" />
 
+* Ans -> Option **B**. [Correct]
+* Option **C**. [Wrong] [VERY IMPORTANT]
 
+<img width="1413" height="798" alt="image" src="https://github.com/user-attachments/assets/b0effad2-9ca8-4bc3-b090-6f2c5913c3a2" />
 
+* [Articles] [VERY IMPORTANT]
+* Indefinite -> Not talking about anything in particular. [MEANING] [VERY IMPORTANT]
+* 1 -> a -> one.
+* We took shelter under a tree. [Indefinite]
+* a -> Could be any tree.
+* 2 -> a -> Could be any shooting star.
+* 3 -> a -> Necessary for every heater to do -> Talking about all heaters here. [VERY IMPORTANT]
+* 4 -> European -> 'y' sounding -> 'a'.
+* 5 -> A teacher -> Generic Sense when it is referring to the either class -> Talking about all of the teachers. [VERY IMPORTANT]
 
+<img width="1407" height="800" alt="image" src="https://github.com/user-attachments/assets/d289ae6b-e735-4afd-81a1-188a351fa32c" />
+<img width="1398" height="806" alt="image" src="https://github.com/user-attachments/assets/2c07d0a6-d874-4dfd-91c0-12dc8cff6283" />
+<img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/ef716fc8-0481-454b-9c4d-69ad7e199242" />
 
+* [Articles] [VERY IMPORTANT]
 
+<img width="1406" height="782" alt="image" src="https://github.com/user-attachments/assets/dd1f8f33-35eb-40d0-9162-0a9555e7b84e" />
+<img width="1434" height="926" alt="image" src="https://github.com/user-attachments/assets/6d6fc948-2f06-4ec5-a8ed-2f5d7f3a60e8" />
 
+* Ans -> Option **D**. [Correct]  [VERY IMPORTANT]
+* Option **C**. [Wrong]
+* City Name -> The Hague. [Exception] [VERY IMPORTANT]
 
+<img width="1403" height="784" alt="image" src="https://github.com/user-attachments/assets/91aafe67-74b0-4f2e-a6f5-6dc6af706508" />
 
+* A saw a bear in the jungle. The bear was huge. [Correct]
 
+<img width="1414" height="805" alt="image" src="https://github.com/user-attachments/assets/e488de01-cefe-4793-afa7-b6ad031bef07" />
 
+* The bear was a baby bear. [Correct]
+* The lion -> Whole class of lions.
 
+<img width="1416" height="828" alt="image" src="https://github.com/user-attachments/assets/afabc2c7-9339-4dfd-8a71-8b9fed9f4d0f" />
+<img width="1419" height="815" alt="image" src="https://github.com/user-attachments/assets/6ed15336-917b-45e1-a743-fc5e75ca63d5" />
 
+* Definite -> The.
+* [Articles] [VERY IMPORTANT]
 
+<img width="1417" height="823" alt="image" src="https://github.com/user-attachments/assets/90cb569f-7b0f-4866-90d0-95f0738acedb" />
 
+* [Articles] [VERY IMPORTANT]
 
+<img width="1430" height="908" alt="image" src="https://github.com/user-attachments/assets/2665a9a2-86dc-4235-90de-cfb7ba5adee5" />
 
+* Ans -> Option **C**. [Correct] 
+* Option **B**. [Wrong]
 
+<img width="1422" height="778" alt="image" src="https://github.com/user-attachments/assets/bd9d215c-cf28-4884-96cb-0a3c9f4a1ef2" />
+<img width="201" height="86" alt="image" src="https://github.com/user-attachments/assets/6f58de25-53ee-454e-ae1a-bb94f44dba8e" />
 
+* The Taj Mahal, The great wall of China -> Want to stress their uniqueness. [VERY IMPORTANT]
+* First, second, third, fourth -> Ordinals -> We use **"the"** here. [VERY IMPORTANT]
+* Name musical instruments -> The tabla, The guitar -> We are referring to an object here, we are referring to an abstract entity -> We use **"the"** here. [VERY IMPORTANT].
+* Abstract entity -> Instrument.
+* I play the guitar. [Correct]
 
+<img width="426" height="108" alt="image" src="https://github.com/user-attachments/assets/96b7bb72-4114-45c5-9b0d-77b6767ac420" />
 
+* Yes, A guitar.
+* We are buying one(1) guitar.
 
+<img width="1407" height="808" alt="image" src="https://github.com/user-attachments/assets/ac230f23-f801-40a4-b54d-e65ad8235469" />
 
+* guitar -> Singular Nouns -> So no **"zero articles"**. [VERY IMPORTANT]
 
+<img width="426" height="75" alt="image" src="https://github.com/user-attachments/assets/4cba7f81-f5d3-4a8e-838d-57e380af9cae" />
 
+* Yes.
 
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/80955745-fd90-44cb-b87e-f05021250574" />
+<img width="433" height="85" alt="image" src="https://github.com/user-attachments/assets/4323855e-be2e-4f57-9220-c57d23a1f0f5" />
 
+* Just musical instruments. [VERY IMPORTANT]
+* Finest -> After superlative degree of adjectives -> We have to use **"the"** here. [VERY IMPORTANT] [5th blank]
 
+<img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/962580cc-4fd1-4f16-be93-5538c44d048b" />
+<img width="1398" height="782" alt="image" src="https://github.com/user-attachments/assets/65d9ccc3-adbd-46e5-a1fd-9c67e29bda48" />
 
+* [Articles] [VERY IMPORTANT]
+* 1 -> The Taj Mahal, The Great Wall of China. [Example] [VERY IMPORTANT]
+* 2 -> Best, Biggest, Finest. [Example] [VERY IMPORTANT]
+* 3 -> The guitar, The Tabla. [Example] [VERY IMPORTANT]
+* 4 -> The ramayana, The Mahabharata, The Bible. [Example] [VERY IMPORTANT]
+* 5 -> First, Second, Third. [Example] [VERY IMPORTANT]
 
+<img width="1415" height="795" alt="image" src="https://github.com/user-attachments/assets/a5656e78-58b4-4eab-86cf-c19d025f51b5" />
+<img width="232" height="75" alt="image" src="https://github.com/user-attachments/assets/b608c8cf-755b-4a6b-b911-7dad6062f135" />
 
+* Legendary figure in India, otherwise we don't usually **"the"** before the names of people. [VERY IMPORTANT]
 
+### Articles & Preposition (5)
 
+<img width="1405" height="797" alt="image" src="https://github.com/user-attachments/assets/814d1310-6f2f-40a2-b4a0-9fc479e153c2" />
 
+* Police -> Always Plural.
+
+<img width="1415" height="821" alt="image" src="https://github.com/user-attachments/assets/c87a1918-954a-494d-b003-c15b436ab2cd" />
+
+* When talking about **Geographical regions**, we put **"the"** infront of them. [VERY IMPORTANT]
+* We are talking about a specific region, "The North".
+
+<img width="642" height="662" alt="image" src="https://github.com/user-attachments/assets/dd147ada-5e92-475d-83e5-e363e672ce96" />
+
+* The Global North.
+
+<img width="651" height="665" alt="image" src="https://github.com/user-attachments/assets/df47f470-7c38-446f-97b2-2573a5bbcade" />
+
+* The Global South.
+
+<img width="1399" height="792" alt="image" src="https://github.com/user-attachments/assets/164d5e4e-34ce-410d-9fcb-ec9147bdd578" />
+<img width="1434" height="911" alt="image" src="https://github.com/user-attachments/assets/d7478f4c-ef6e-4dca-b1f6-a19c31cb3768" />
+
+* Ans -> Option **C**. [Correct] 
+* Option **D**. [Wrong]
+* Country names that are plural or have 's' at the end -> Union, United, The republic of -> We put **"the"** infront of them. [VERY IMPORTANT]
+* 4 -> We don't put "the" infront of continents. [VERY IMPORTANT]
+* 3 -> The Andaman Islands -> Archipalago -> Group of islands -> We have to use "the". [VERY IMPORTANT]
+* Single Island -> No need to use "the". [VERY IMPORTANT]
+
+<img width="1407" height="783" alt="image" src="https://github.com/user-attachments/assets/d1a76d06-b623-46e2-b90b-3e266d75b760" />
+<img width="451" height="81" alt="image" src="https://github.com/user-attachments/assets/7f1bb7e7-91f5-4ae3-bb82-278e8438f9f3" />
+
+* No.
+* "The" is not placed generally infront of country names. [VERY IMPORTANT]
+
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/f32da53c-0554-4164-ac90-7d71111fed1a" />
+
+* China. [Correct]
+* The People Replublic of China. [Correct]
+* India. [Correct]
+* The Republic of India. [Correct]
+* The European union. [Yes] [Correct]
+
+<img width="1418" height="803" alt="image" src="https://github.com/user-attachments/assets/054c234f-1829-4811-adfd-891214ec10fc" />
+
+* [Articles] [VERY IMPORTANT]
+* Towns -> Harpur, Javalpul. [Correct] [Example]
+* Street -> Baker street, Princes Street, Wall street. [Correct] [Example]
+* Ranges -> Group of mountains. [MEANING]
+* The Himalayas, The Andes, The Alphes -> Mountain Ranges -> That's why "the" is allowed. [Correct] [Example]
+* Mt. Everest -> Unique, popular, only one -> The Everest. [Correct] [Example]
+* Mt. Kanchanjanga, Mt. kilimanjaro -> "the" is not allowed. [Correct] [Example]
+
+<img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/430a6573-6d03-470a-9fff-a8979c61c6fe" />
+<img width="1405" height="795" alt="image" src="https://github.com/user-attachments/assets/fb138aee-eeeb-4f8a-99f8-b64e2a6e1e0b" />
+
+* [Articles] [VERY IMPORTANT]
+* Lakshadweep -> Group of Islands -> The Lakshadweep. [Correct] [Example]
+
+<img width="211" height="81" alt="image" src="https://github.com/user-attachments/assets/dffd7dcd-5a8c-4990-8237-16a6a9a1efb2" />
+
+* Yes.
+* Names of all the rivers.
+
+<img width="1417" height="789" alt="image" src="https://github.com/user-attachments/assets/b05afea3-6d2c-4f09-a063-133310071873" />
+
+* [Articles] [VERY IMPORTANT]
+* The Dead Sea. [Yes]
+* 3 -> The North pole, The South pole. [Yes]
+* the bermuda triangle. [Yes]
+* 4 -> The Amazon. [Yes]
+* 5 -> The mexican gulf. [Yes]
+* Peninsulas -> Piece of land covered with water on three(3) sides -> The Indian peninsula, The deccan peninsula.
+
+<img width="1405" height="804" alt="image" src="https://github.com/user-attachments/assets/b8f27424-5e08-49a9-90e3-924ece5fe30f" />
+<img width="186" height="344" alt="image" src="https://github.com/user-attachments/assets/2ef5a970-39f2-4a4d-b4c2-5a7522c3ee8f" />
+
+* Reserves -> No.
+* Forest -> Yes.
+
+<img width="236" height="83" alt="image" src="https://github.com/user-attachments/assets/85a0cea2-2dfc-419f-b4e1-c90c7ad50130" />
+
+* Yes.
+
+<img width="1392" height="798" alt="image" src="https://github.com/user-attachments/assets/9753ffd8-5ebe-419e-8cd6-a41acbeb8109" />
+
+* Start from 18mins.
 
 
 
