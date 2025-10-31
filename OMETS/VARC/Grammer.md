@@ -5617,9 +5617,53 @@
 * Before the names of substances(Things which have uniform properties: Sugar, metals, grains) -> We do not put **"the"**.  [VERY IMPORTANT]
 
 <img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/5ea63315-a716-4c6d-a047-e3015fe8ad39" />
+<img width="1402" height="808" alt="image" src="https://github.com/user-attachments/assets/79687704-6bb5-44fa-9118-dd8f91f5a956" />
 
+* Seasons, substances(Uniform properties) -> No articles before them. [VERY IMPORTANT]
 
+<img width="1416" height="907" alt="image" src="https://github.com/user-attachments/assets/1f1bff9d-571d-4183-8b77-7f8e1fe5b702" />
 
+* Ans -> Option **C**. [Got Correct]
+* Meal names -> No articles before them. [VERY IMPORTANT]
+* Why do you always have breakfast so late. [Correct]
+
+<img width="1423" height="775" alt="image" src="https://github.com/user-attachments/assets/0162d16c-8f4b-4658-8a17-e871b9ca1745" />
+
+* C -> Specific virus and Specific hospital -> **"the"** used.
+
+* Honesty -> Abstract Noun. 
+* Abstract Noun -> Cannot be perceived through our '5' senses, can be states(childhood) as well, ideology names(Capitalism) as well -> Names of feelings, ideas, happiness, emotions, appitite, thinking, patriotism, stupidity, hunger, childhood. [VERY IMPORTANT]
+* Honesty is the best policy. [Correct]
+* The happiness I experience is unparalled. [Exception -> Specific instance/incident of happiness] [Correct]
+* Happiness is illusive. [Correct]
+* I am going to jail. [I am being imprisoned]
+* She is in hospital. [She is the patient]
+* I am vising him in the prison. [Correct]
+
+<img width="1405" height="809" alt="image" src="https://github.com/user-attachments/assets/5d6f83e6-2fae-4822-bfd5-c79df73af82b" />
+
+* The cellular Jail. [Correct]
+
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/bea63879-4c74-4b6c-b7ee-136c81f89925" />
+<img width="1440" height="911" alt="image" src="https://github.com/user-attachments/assets/44f56596-dab2-441d-a2a9-d5eb8ad4c03f" />
+
+* Ans -> Option **B**. [Got Correct]
+* C -> Best -> Superlative degree.
+* D -> Pacific -> Name of an ocean.
+* A -> Lunch -> One instance of lunch.
+
+<img width="1406" height="814" alt="image" src="https://github.com/user-attachments/assets/e8ecb5ba-c828-4ac1-9b3f-ab268c93dc32" />
+<img width="1436" height="898" alt="image" src="https://github.com/user-attachments/assets/6c02e3ab-e929-421c-8664-92319e439899" />
+
+* Ans -> Option **B**. [Got Correct]
+* C, D -> a -> We are talking about a specific word -> the.
+* American -> an.
+* B -> a conversation -> One(1) conversation.
+
+<img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/5404df66-de19-41d1-84b8-78ddf081ab9e" />
+<img width="1438" height="905" alt="image" src="https://github.com/user-attachments/assets/862dda40-4246-4b23-8f52-795b083b98d3" />
+
+* Ans -> Option **D**. [Got Correct]
 
 
 
