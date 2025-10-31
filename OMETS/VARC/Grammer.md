@@ -5664,9 +5664,48 @@
 <img width="1438" height="905" alt="image" src="https://github.com/user-attachments/assets/862dda40-4246-4b23-8f52-795b083b98d3" />
 
 * Ans -> Option **D**. [Got Correct]
+* friends and family. [Correct]
+* the friends and family. [Wrong]
+* D -> a -> Indefinite -> In a general sense.
+* D -> the -> Have introduced **friend and email** earlier so we can use **"the"** here. [the friend, the email]
 
+<img width="1407" height="814" alt="image" src="https://github.com/user-attachments/assets/2ee9e67b-8e0b-4511-9253-81acd40810f2" />
+<img width="1440" height="901" alt="image" src="https://github.com/user-attachments/assets/ee8c6bb8-3e80-4d16-a9ee-5d7ec800e709" />
 
+* Ans -> Option **A**. [Correct]
+* Option **C**. [Wrong]
+* 4 -> the UK. [Correct]
+* 6 -> watch TV -> Activing of watching. [Correct]
+* 3 -> the November -> Specific November. [Correct]
+* 2 -> the toilet -> Specific Toilet behind the tree. [Correct]
+* 1 -> a restaurant -> General. [Correct]
+* 5 -> the litre -> consumes a lot. [Correct]
 
+<img width="1403" height="809" alt="image" src="https://github.com/user-attachments/assets/43c82155-bbe6-4ddc-92e2-867cbb2d4ea2" />
+<img width="1436" height="908" alt="image" src="https://github.com/user-attachments/assets/11db1865-0c15-4299-a7f0-d14eddab84be" />
+
+* Ans -> Option **D**. [Got Correct]
+* 1 -> a. [Correct]
+* 3 -> The Whole of Delhi 'OR' All of Delhi.
+* 5 -> how to. [Correct]
+* I look forward to the trip. [Correct]
+* trip -> Noun.
+* name the activity -> We need a noun -> trip.
+* see -> Verb.
+* seeing -> Verb + ing -> Noun. [Verb + ing -> Gerund]
+* I look forward to seeing you. [Correct]
+* I look forward to meeting you. [Correct]
+
+<img width="1421" height="779" alt="image" src="https://github.com/user-attachments/assets/ce634d64-0e1d-44b7-8447-7e0f83ff0085" />
+
+[VERY IMPORTANT]
+
+#### Preposition
+
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/8568dded-2a8b-41b4-9a68-b822af788cc7" />
+
+* [Preposition]
+* Preposition -> 
 
 
 
