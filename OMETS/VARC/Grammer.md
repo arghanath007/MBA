@@ -5765,6 +5765,183 @@
 <img width="1438" height="888" alt="image" src="https://github.com/user-attachments/assets/2a6e70c2-9cb6-4308-8172-681567a41937" />
 
 * Ans -> Option **C**. [Got Correct]
+* 3 -> to. [Correct]
+* Superior, Inferior, Senior, Junior, Elder, Anterior, Posterior -> We use **"to" after them. [VERY IMPORTANT]
+* 4 -> of. [Correct]
+* 6 -> for. [Correct]
+
+<img width="1420" height="805" alt="image" src="https://github.com/user-attachments/assets/9692e81c-9c0d-4524-aada-7a6f5fa90f5a" />
+<img width="252" height="74" alt="image" src="https://github.com/user-attachments/assets/074fbb41-0edf-49f9-8444-889f20664f57" />
+
+* No. **"To"** is preferred. [VERY IMPORTANT]
+
+<img width="327" height="87" alt="image" src="https://github.com/user-attachments/assets/03d941d7-ab06-44d7-a44e-d43e75e1f5f3" />
+
+* Desk -> Location/point -> at.
+
+<img width="1423" height="810" alt="image" src="https://github.com/user-attachments/assets/b5ef4e40-bf18-4792-967f-c680ffad0876" />
+<img width="1414" height="795" alt="image" src="https://github.com/user-attachments/assets/b541c344-4091-441f-bd18-731d63b62e6a" />
+
+* To -> To indicate my direction -> Place and time(range).
+* Till -> For time.
+
+<img width="1392" height="798" alt="image" src="https://github.com/user-attachments/assets/9f7f95ff-684a-4886-b130-d3e6a037712f" />
+<img width="1401" height="786" alt="image" src="https://github.com/user-attachments/assets/570d41df-6101-47b3-bf3e-7b08ef5029cd" />
+
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1426" height="919" alt="image" src="https://github.com/user-attachments/assets/d8ecd1fe-7782-4ff7-9444-4ba5833ef540" />
+
+* Ans -> Option **B**. [Got Correct]
+* B -> to -> to a crime. [Correct]
+* Plead guilty to. [Correct] [VERY IMPORTANT]
+* Found guilty of.  [Correct] [VERY IMPORTANT]
+
+<img width="1425" height="781" alt="image" src="https://github.com/user-attachments/assets/3122922d-dd5c-45ca-ba7b-456b06504663" />
+<img width="1425" height="821" alt="image" src="https://github.com/user-attachments/assets/469d2281-f978-46ab-bd4c-9f5835ee6910" />
+<img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/1573bacd-c996-40aa-9c0d-2bb7b45bc224" />
+
+* [Preposition] [VERY IMPORTANT]
+* my -> Specific bike ride.
+* on foot -> Idiomatic usage.  [VERY IMPORTANT]
+
+<img width="1442" height="880" alt="image" src="https://github.com/user-attachments/assets/20fd758d-3649-4d58-84ec-0b2ddcee5630" />
+
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong]
+* Dispose of -> To get ride of something. [MEANING]
+* 2 -> Had. [Correct]
+* 3 -> time. [Correct]
+* 4 -> cope with. [Correct]
+* 5 ? The piano. [Correct]
+
+<img width="1435" height="906" alt="image" src="https://github.com/user-attachments/assets/408bb6ea-06e8-4e49-b548-36e69a4a2b71" />
+
+* Ans -> Option **A**. [Got Correct]
+
+<img width="1414" height="795" alt="image" src="https://github.com/user-attachments/assets/5b75713d-b7a9-488c-a036-9537bfa94fb2" />
+<img width="1430" height="835" alt="image" src="https://github.com/user-attachments/assets/66a8dcaf-dd2a-484e-bc20-3057476a1785" />
+<img width="1397" height="780" alt="image" src="https://github.com/user-attachments/assets/5ebd7b1c-3bba-470e-bda1-ce607de42b9c" />
+
+* [Preposition] [VERY IMPORTANT]
+* On -> Stationary location.  [VERY IMPORTANT]
+* Onto ->  Movement. [VERY IMPORTANT]
+
+<img width="1404" height="784" alt="image" src="https://github.com/user-attachments/assets/eb526768-4da2-4c8f-aa62-15f420dbaa2c" />
+<img width="1438" height="915" alt="image" src="https://github.com/user-attachments/assets/1474b6ea-28c4-4995-a684-a8dbae2fa007" />
+
+* Ans -> Option **A**. [Correct]
+* Option **B**. [Wrong]
+* B -> Not **"about"**.
+* C -> at in. [VERY IMPORTANT]
+* E -> No need of **"on"**. [VERY IMPORTANT]
+
+<img width="1427" height="786" alt="image" src="https://github.com/user-attachments/assets/8438c18b-dc5e-483b-8eaf-d689bd76888a" />
+<img width="1408" height="777" alt="image" src="https://github.com/user-attachments/assets/93746594-08b1-4397-a78a-84dfd7b35a6c" />
+<img width="1419" height="812" alt="image" src="https://github.com/user-attachments/assets/f69bb409-accd-4af8-9fab-ba39319043fb" />
+<img width="1409" height="801" alt="image" src="https://github.com/user-attachments/assets/86f03683-e176-48d6-8130-4ae77926ee97" />
+
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1899" height="923" alt="image" src="https://github.com/user-attachments/assets/b6264193-19e5-47f9-ba7f-32638e8a32b4" />
+<img width="1400" height="785" alt="image" src="https://github.com/user-attachments/assets/6ea07f5e-d8c7-4175-992f-2b5600e4e1d0" />
+
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1408" height="792" alt="image" src="https://github.com/user-attachments/assets/7c857d83-d8e6-4e5a-abc6-8af8af13b966" />
+<img width="290" height="69" alt="image" src="https://github.com/user-attachments/assets/a43b30a6-59cd-4dea-8b1f-759b9d5c4d5c" />
+
+* Yes.
+
+<img width="1412" height="807" alt="image" src="https://github.com/user-attachments/assets/5f31ac41-b7e3-49ec-9fd2-ffc77e44bfce" />
+
+* Upon -> More formal word for **"on"**. [VERY IMPORTANT]
+* Upon -> Approaching. [MEANING]
+* Winter is upon us. [Correct]
+
+### Parallelism (6)
+
+<img width="821" height="438" alt="image" src="https://github.com/user-attachments/assets/3320a552-c1ea-452b-b565-4942242135cd" />
+
+* Parallelism -> Similarity, consistency.
+
+<img width="1436" height="919" alt="image" src="https://github.com/user-attachments/assets/d203258c-2184-421f-9fab-cae51e8cbe5d" />
+
+* Ans -> Option **B**. [Correct]
+* Option **E**. [Wrong]
+* Whereas -> Used inbetween to give **contrast**.  [VERY IMPORTANT]
+* Comparing -> Less. [VERY IMPORTANT]
+* Indicate much less than other thing -> Much less. [VERY IMPORTANT]
+* Schooling -> Field -> within.  [VERY IMPORTANT]
+
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/4bd6e643-a10d-48e4-ac52-088d4c8d34df" />
+<img width="1440" height="911" alt="image" src="https://github.com/user-attachments/assets/5f6993a5-a669-43fa-ad2c-f4be553211bc" />
+
+* Ans -> Option **B**. [Got Correct]
+
+<img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/1cca92b9-00c5-4f4f-aead-25ba70cd754a" />
+<img width="1407" height="797" alt="image" src="https://github.com/user-attachments/assets/1ba5ff78-0f22-4608-909b-2441cb649026" />
+
+* A -> about -> Physical places.
+* She was roaming about this place. [Correct]
+
+<img width="1411" height="815" alt="image" src="https://github.com/user-attachments/assets/cae83249-19b0-4827-8967-49d1fd4cac1b" />
+
+* I finished the book in about two(2) days. [Correct]
+* in -> Preposition.
+* about -> adverb -> approximately.
+
+<img width="1400" height="833" alt="image" src="https://github.com/user-attachments/assets/5d7ef52d-d7a6-4fb8-b7a1-f709bae5d6aa" />
+
+#### Parallelism
+
+<img width="1424" height="827" alt="image" src="https://github.com/user-attachments/assets/f0cd77fc-dbb7-4c6b-a271-a2e0e3fc70e1" />
+
+* Chris likes to swim, to sleep and to eat. [Correct]
+* Chris likes to swim, sleep and eat. [Correct]
+
+<img width="1439" height="862" alt="image" src="https://github.com/user-attachments/assets/ff1a3afb-a324-43ea-93d2-01d26642ee38" />
+
+* [VERY IMPORTANT]
+
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/364b98fd-7439-47f4-95c5-8f1b81ab2f13" />
+<img width="1416" height="787" alt="image" src="https://github.com/user-attachments/assets/edff5e05-72a3-4e2c-afb0-916cda5c818a" />
+
+* [Parallelism] [VERY IMPORTANT]
+* Natarajan likes badminton, chess and golf. [Correct]
+* Natarajan likes playing badminton, playing chess and playing golf. [Correct]
+* Natarajan likes to play badminton, to play chess and to play golf. [Correct]
+
+<img width="430" height="104" alt="image" src="https://github.com/user-attachments/assets/cb9e44bd-8cb1-47aa-9c9c-2c765d4a737d" />
+
+* Yes.
+* 1 -> Wrong.
+* She likes reading, jogging and cooking. [Correct]
+* 2 -> Wrong.
+* 3 -> Correct.
+
+<img width="1408" height="785" alt="image" src="https://github.com/user-attachments/assets/afe75472-93bc-4318-9102-5d460f25d945" />
+<img width="1443" height="890" alt="image" src="https://github.com/user-attachments/assets/f7225a84-79b9-4a6f-b7d8-b6c11acc8ccc" />
+
+* Ans -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+* it's -> It i, It has. [VERY IMPORTANT]
+* its -> [VERY IMPORTANT]
+* and -> Two different things joined by **"and"** -> plural -> are.
+
+<img width="1415" height="811" alt="image" src="https://github.com/user-attachments/assets/fd9c66e7-6207-4353-a89f-43bcd005e47a" />
+
+ * [VERY IMPORTANT]
+ * For all its worth, I think we can pursue these returns. [Correct]
+
+<img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/6d06ce26-3419-42c7-a554-ebe2c685e4d5" />
+
+* [Parallelism] [VERY IMPORTANT]
+* Start from 29mins.
+
+
+
+
 
 
 
@@ -5782,6 +5959,25 @@
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
