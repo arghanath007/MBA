@@ -5698,14 +5698,73 @@
 
 <img width="1421" height="779" alt="image" src="https://github.com/user-attachments/assets/ce634d64-0e1d-44b7-8447-7e0f83ff0085" />
 
-[VERY IMPORTANT]
+* [VERY IMPORTANT]
 
 #### Preposition
 
 <img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/8568dded-2a8b-41b4-9a68-b822af788cc7" />
 
 * [Preposition]
-* Preposition -> 
+
+<img width="1416" height="803" alt="image" src="https://github.com/user-attachments/assets/74b3604d-8626-4ab9-99ad-bac00adaf622" />
+<img width="1418" height="800" alt="image" src="https://github.com/user-attachments/assets/796dfa4f-b96d-46e6-a09b-4f0f8b9a6fa7" />
+
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1406" height="799" alt="image" src="https://github.com/user-attachments/assets/3ee08ff5-13f7-441e-a247-51eb2f296fd8" />
+<img width="1441" height="921" alt="image" src="https://github.com/user-attachments/assets/a369e7ba-4f6f-4109-8fca-a61fb314d1d2" />
+
+ * Ans -> Option **C**. [Got Correct]
+
+<img width="1415" height="800" alt="image" src="https://github.com/user-attachments/assets/9079c571-977a-4600-9f84-259edb93fc88" />
+<img width="1442" height="919" alt="image" src="https://github.com/user-attachments/assets/b31bafd4-ae9e-48e9-bb41-b29d05b6bef3" />
+
+* Ans -> Option **A**. [Got Correct]
+* Take on -> Idiomatic expression -> Start doing something. [VERY IMPORTANT]
+* Challenges -> Take "on" -> Phrasal verbs. [VERY IMPORTANT]
+* Hobbies -> Take "up" -> Phrasal verbs. [VERY IMPORTANT]
+
+<img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/4f09d6df-7901-4bb9-842e-58feb23e18ec" />
+<img width="1394" height="787" alt="image" src="https://github.com/user-attachments/assets/4e4555ee-1846-40e1-93ca-f292c0243d8b" />
+<img width="1415" height="785" alt="image" src="https://github.com/user-attachments/assets/7f00f1ea-ff4a-422a-b06d-faa6e9623d11" />
+
+* Challenges -> Take on.
+* Offers -> Take up.
+
+<img width="1409" height="808" alt="image" src="https://github.com/user-attachments/assets/daf87fb2-ad97-45de-a2c6-f0cc52f3ff56" />
+
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1431" height="873" alt="image" src="https://github.com/user-attachments/assets/1fe73a51-2394-473c-a51d-98fa7447e07c" />
+
+* 134
+* Ans -> Option **E**. [Correct]
+* Option **B**. [Wrong]
+* 5 -> to.
+* 6 -> Present Perfect Continuous.
+* 1 -> Range -> at. [Correct]
+
+<img width="1424" height="787" alt="image" src="https://github.com/user-attachments/assets/765d488e-e6a6-4459-aedf-673561ddcb18" />
+
+* In -> Refers to an Area. [VERY IMPORTANT]
+* On -> Refers to a surface. [VERY IMPORTANT]
+* At -> Usually refers to a specific location/point. [VERY IMPORTANT]
+
+<img width="1429" height="812" alt="image" src="https://github.com/user-attachments/assets/98e9f857-4612-4648-a5e7-59952fb16628" />
+<img width="1426" height="797" alt="image" src="https://github.com/user-attachments/assets/de44b750-5fd2-4585-b1e0-ba33b43d009b" />
+
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1412" height="807" alt="image" src="https://github.com/user-attachments/assets/249abf9d-6c4a-46f1-b6fe-01dd283dfb00" />
+<img width="1410" height="796" alt="image" src="https://github.com/user-attachments/assets/55cec254-e663-4317-9374-3ed17f46b773" />
+
+* Since -> Refers to the starting time.  [VERY IMPORTANT]
+* Duration -> Refers to the length of time. [VERY IMPORTANT]
+* [Preposition] [VERY IMPORTANT]
+
+<img width="1438" height="888" alt="image" src="https://github.com/user-attachments/assets/2a6e70c2-9cb6-4308-8172-681567a41937" />
+
+* Ans -> Option **C**. [Got Correct]
 
 
 
@@ -5722,17 +5781,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
