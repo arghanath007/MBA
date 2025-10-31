@@ -5590,7 +5590,34 @@
 
 <img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/8482d4d9-3ef7-4855-aaf2-c0a86e0d8055" />
 
-*  [VERY IMPORTANT] 
+*  [VERY IMPORTANT]
+*  Nobody would bang their heads. [Correct] [Wrong in entrance exams] [VERY IMPORTANT]
+*  Nobody would bang his/her head. [Correct] [Correct in entrance exams] [VERY IMPORTANT]
+*  Nobody would bang his/her head on the wall. [Correct]
+
+<img width="1410" height="816" alt="image" src="https://github.com/user-attachments/assets/1ebe2718-c405-43cb-a820-cbbd8f65d960" />
+
+* Banging your head against a brick wall.
+* brick wall -> Any brick wall.
+* wall -> Any wall closer to me.
+*  Nobody would bang his/her head against a wall. [Correct]
+* a wall -> General/generic/any wall
+
+<img width="1397" height="781" alt="image" src="https://github.com/user-attachments/assets/576ae08a-dafd-44ae-914f-e836c4f4064c" />
+<img width="1430" height="890" alt="image" src="https://github.com/user-attachments/assets/73310a05-add6-4bf6-b43b-00f6040e01d5" />
+
+* Ans -> Option **D**. [Got Correct]
+* Before the names of seasons -> We do not put **"the"** -> Unless it is a very specific season. [VERY IMPORTANT]
+* The winter I went to my granny's place was very chilly. [Correct] [Example]
+* The winter he died. [Correct] [Example]
+
+<img width="238" height="70" alt="image" src="https://github.com/user-attachments/assets/650edb4f-29ca-4cd4-831d-2989614f5e41" />
+
+* Yes, Correct.
+* Before the names of substances(Things which have uniform properties: Sugar, metals, grains) -> We do not put **"the"**.  [VERY IMPORTANT]
+
+<img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/5ea63315-a716-4c6d-a047-e3015fe8ad39" />
+
 
 
 
