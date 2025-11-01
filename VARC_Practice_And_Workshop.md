@@ -423,7 +423,46 @@
 * theologian -> a specialist in theology. [MEANING]
 * theology -> the study of religious faith, practice, and experience. [MEANING]
 * masquerade -> a social gathering of persons wearing masks and often fantastic costumes -> In the mask of -> Disguised as, pretending to be as. [MEANING]
-* 1hr 18mins.
+
+<img width="2114" height="1160" alt="image" src="https://github.com/user-attachments/assets/37df5f29-070a-492f-91e5-4b2944af782b" />
+
+* RC3.
+
+<img width="2162" height="1432" alt="image" src="https://github.com/user-attachments/assets/24eea731-2df8-46e8-adcd-b73b1b897991" />
+
+* Ans -> Option **C**. [Correct] [1]
+* Option **D**. [Wrong]
+
+<img width="2148" height="1418" alt="image" src="https://github.com/user-attachments/assets/a70a73a8-d51a-49ef-9c14-6ab3e88e3802" />
+
+* Ans -> Option **D**. [Got Correct] [2]
+
+<img width="2158" height="1416" alt="image" src="https://github.com/user-attachments/assets/646fd1c5-91a7-4edb-8a82-2d53cc9cb3a0" />
+
+* Ans -> Option **C**. [Correct] [3]
+* Option **D**. [Wrong]
+
+<img width="2152" height="1440" alt="image" src="https://github.com/user-attachments/assets/d5e30f72-5b8f-40fe-ac62-5a61ba3f998a" />
+
+* Ans -> Option **B**. [Correct] [4]
+* Option **A**. [Wrong]
+
+<img width="2148" height="1228" alt="image" src="https://github.com/user-attachments/assets/3810f05c-5a15-411c-946a-3014a5050368" />
+
+* Ans -> Option **A**. [Correct]
+
+<img width="2150" height="1424" alt="image" src="https://github.com/user-attachments/assets/fc41a952-0601-49d2-8513-b1ec7fb66b9c" />
+
+* Ans -> Option **D**. [Correct] [5]
+* Option **A**. [Wrong]
+* Macro -> Bigger. [MEANING]
+* Micro -> Smaller. [MEANING]
+* However -> Counter Point. [VERY IMPORTANT]
+* Critic -> Looking at positive and negative both. [MEANING]
+
+
+
+
 
 
 
