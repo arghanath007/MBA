@@ -1,5 +1,11 @@
 # VARC_Practice
 
+# CAT
+
+1) Min Percentile -> 75%.
+2) Focus on overall percentile.
+3) Prioritize any '2' sections which you are doing good.
+
 # RC
 
 1) Understand the main theme/point of the RC.
@@ -369,9 +375,55 @@
 * Option **D**. [Wrong]
 * Cannot be Inferred -> Remove the '2' bad options. [VERY IMPORTANT]
 
+<img width="2104" height="1174" alt="image" src="https://github.com/user-attachments/assets/f247b502-8c32-41de-9740-79eebf2f910b" />
 
+* RC2.
 
+<img width="2160" height="1424" alt="image" src="https://github.com/user-attachments/assets/04e8bbc9-d1d2-4bc3-8ddd-4e9086063775" />
 
+* Ans -> Option **C**. [Correct] [1]
+* Option **D**. [Wrong]
+
+<img width="2140" height="1418" alt="image" src="https://github.com/user-attachments/assets/68d64291-644b-4fc0-a6ea-64059bc91435" />
+
+* Ans -> Option **A**. [Correct] [2]
+* Option **C**. [Wrong]
+* D -> Vague.
+* A -> ensures -> Present Simple Tense -> Factual statement. [VERY IMPORTANT]
+
+<img width="2158" height="1450" alt="image" src="https://github.com/user-attachments/assets/2d79a82e-0fa2-4729-8a44-86d58daee591" />
+
+* Ans -> Option **C**. [Correct] [3]
+* Option **B**. [Wrong]
+
+<img width="2162" height="1420" alt="image" src="https://github.com/user-attachments/assets/839609db-ff43-433d-b1e9-5409b0454498" />
+
+* Ans -> Option **B**. [Correct] [4]
+* Option **C**. [Wrong]
+
+<img width="2158" height="1448" alt="image" src="https://github.com/user-attachments/assets/064faf97-4e57-472d-9c15-df6c36411de0" />
+
+* Ans -> Option **B**. [Correct] [5]
+* Option **A**. [Wrong]
+
+<img width="2094" height="1172" alt="image" src="https://github.com/user-attachments/assets/c4f66530-cdbc-420c-a644-8bf17bcfdcfe" />
+
+* "Title" question in RCs.
+* What is this passage primarily about? [Ask Yourself] [VERY IMPORTANT]
+
+> Title.
+
+* Evocative -> Sensitive. [MEANING]
+* Impetus -> Push. [MEANING]
+* Cadaver -> Dead body. [MEANING]
+* Continues to haunt us -> Dilemma.
+* Discrete -> Identifiable. [MEANING]
+* Brain Dead -> Ethical question.
+* Cessation -> a temporary or final ceasing (as of action) -> Stop. [MEANING]
+* theologian -> a specialist in theology. [MEANING]
+* theology -> the study of religious faith, practice, and experience. [MEANING]
+* masquerade -> a social gathering of persons wearing masks and often fantastic costumes -> In the mask of -> Disguised as, pretending to be as. [MEANING]
+* 1hr 18mins.
 
 
 
