@@ -5937,8 +5937,8 @@
 <img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/6d06ce26-3419-42c7-a554-ebe2c685e4d5" />
 
 * [Parallelism] [VERY IMPORTANT]
-* Start from 29mins.
 
+<img width="1488" height="848" alt="image" src="https://github.com/user-attachments/assets/e3087a8c-18ad-4d83-a66e-8dab3cc01bf3" />
 
 
 
