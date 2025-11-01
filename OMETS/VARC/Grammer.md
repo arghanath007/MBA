@@ -5940,20 +5940,36 @@
 
 <img width="1488" height="848" alt="image" src="https://github.com/user-attachments/assets/e3087a8c-18ad-4d83-a66e-8dab3cc01bf3" />
 
+* Idiomatic Expression.
 
+<img width="1502" height="802" alt="image" src="https://github.com/user-attachments/assets/3362b7b5-6646-4e32-91e4-ed7d9ad1aa0e" />
 
+* We are not giving more importance to either of them(Ravi and sia). For us both are important.
+* They are of equal importance.
+* Smoking and to drink are injurious to health. [Wrong]
+* Smoking and drinking are injurious to health. [Correct]
 
+<img width="1776" height="998" alt="image" src="https://github.com/user-attachments/assets/9d32b4d3-923e-46b0-b740-382f91d28590" />
 
+* [Parallelism] [VERY IMPORTANT]
 
+<img width="1784" height="1326" alt="image" src="https://github.com/user-attachments/assets/165b0aa0-923d-4dce-a49b-5609a82bd715" />
 
+* Ans -> Option **C**. [Correct]
+* Option **D**. [Wrong] [Mam marked the wrong answer]
 
+<img width="1416" height="832" alt="image" src="https://github.com/user-attachments/assets/620a1423-ec6d-4ff6-97e0-8aae2bf2d060" />
 
+* Ans -> Option **D**. [Correct]
+* The army, The navy -> Two different organizations.
 
+<img width="1748" height="984" alt="image" src="https://github.com/user-attachments/assets/45db1368-9df2-44cc-bd9a-e17dd73bfbcd" />
+<img width="380" height="156" alt="image" src="https://github.com/user-attachments/assets/97069376-eb36-48eb-a6be-82dbb7e7b4ef" />
+<img width="1412" height="776" alt="image" src="https://github.com/user-attachments/assets/b2476709-f841-49c3-bc5b-ec98178238b9" />
 
-
-
-
-
+* [Parallelism] [VERY IMPORTANT]
+* Pair -> Correlative conjunction pair.
+* Parallel -> Same in Structure. [VERY IMPORTANT]
 
 
 
