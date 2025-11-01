@@ -5971,10 +5971,323 @@
 * Pair -> Correlative conjunction pair.
 * Parallel -> Same in Structure. [VERY IMPORTANT]
 
+<img width="955" height="578" alt="image" src="https://github.com/user-attachments/assets/f0bd3f7e-d584-49eb-afbc-7c81d2bba7ac" />
+
+* Ans -> Option **B**. [Got Correct]
+* Superlative degree -> More than '2' things being compared. [VERY IMPORTANT]
+* Comparison -> Like/Similar things. [VERY IMPORTANT]
+* Delhi's streets are wider and greener than Mumbai's. [Correct] [D]
+* B -> those -> the streets -> Already mentioned before.
+
+<img width="608" height="172" alt="image" src="https://github.com/user-attachments/assets/acf4247e-6a10-4381-a24f-196b77a150db" />
+
+* Yes.
+
+<img width="2154" height="1340" alt="image" src="https://github.com/user-attachments/assets/964e81a5-625d-42d2-8626-e4253973157d" />
+
+* Comparative degree -> Than. [VERY IMPORTANT]
+
+<img width="2154" height="1214" alt="image" src="https://github.com/user-attachments/assets/de9c2f54-b382-45f1-a0cc-274b9100fb08" />
+
+* I would rather pay for my education than take/receive financial aid. [Correct]
+* Pattern -> Do 'X', Do 'Y'.
+
+<img width="2080" height="1186" alt="image" src="https://github.com/user-attachments/assets/a37f529e-67db-45ab-b233-e9e48dc9c912" />
+<img width="2080" height="1192" alt="image" src="https://github.com/user-attachments/assets/1783876c-e9db-45c6-907c-1f3af4fc8592" />
+
+* [Parallelism] [VERY IMPORTANT]
+
+<img width="2806" height="1374" alt="image" src="https://github.com/user-attachments/assets/ec8077cf-a633-4431-8139-6bd891fe6f97" />
+
+* [VERY IMPORTANT]
+
+<img width="2160" height="1398" alt="image" src="https://github.com/user-attachments/assets/6b9b4ecf-7cc0-4d6c-a939-42fe726b46d8" />
+
+* Ans -> Option **D**. [Got Correct]
+* B -> an individual users. [Correct]
+
+<img width="2102" height="1176" alt="image" src="https://github.com/user-attachments/assets/34555a89-b5cc-4216-8639-608e15ae7611" />
+<img width="618" height="314" alt="image" src="https://github.com/user-attachments/assets/d2cdd7c7-fc20-4c46-b2c1-2690d04cc2fb" />
+
+* Market for the users is expanding. [VERY IMPORTANT]
+* User will increase. [VERY IMPORTANT]
+* User base expands. [VERY IMPORTANT]
+* User is **countable**. [VERY IMPORTANT]
+
+<img width="2772" height="1356" alt="image" src="https://github.com/user-attachments/assets/58c3028b-20f6-497a-92c5-0742dc9a81d3" />
+<img width="618" height="186" alt="image" src="https://github.com/user-attachments/assets/89a17894-6582-42d5-be5b-05daa8b667dc" />
+
+* No.
+* Things -> We wants **verbs, actions**.
+
+<img width="618" height="532" alt="image" src="https://github.com/user-attachments/assets/4a3f00e2-eb12-48d4-a5e6-8a1c87d5d0bd" />
+<img width="2152" height="1434" alt="image" src="https://github.com/user-attachments/assets/6e881613-0ba0-48b5-b3d9-16e44685fb9a" />
+
+* Ans -> Option **B**. [Correct]
+* Option **A**. [Wrong]
+* Group -> Singular -> its. [Correct]
+* Two elements -> to continue and to request. [Correct]
+* Two elements -> to continue and request. [Correct] ["to" is taken as common]
+
+<img width="2118" height="1198" alt="image" src="https://github.com/user-attachments/assets/921dc9ae-4948-4adc-b3ce-ca212208ab6d" />
+
+* [VERY IMPORTANT]
+
+<img width="2150" height="1394" alt="image" src="https://github.com/user-attachments/assets/204d3a06-764a-45c4-8f69-368aa9ee8a64" />
+
+* Ans -> Option **D**. [Correct]
+* Option **C**. [Wrong]
+* 1 -> Active voice.
+* There will be time. [Active voice]
+* 2,3 -> Active voice.
+* 4 -> Passive voice.
+
+<img width="2128" height="1206" alt="image" src="https://github.com/user-attachments/assets/6b16e1ee-755f-4c01-a9c2-91c159ce81ba" />
+
+* **Receiver of the action or the object of the verb** becomes the **subject** in **passive voice**. [VERY IMPORTANT]
+* questions -> Subject.
+* asked -> Verb.
+* team members -> Object.
+* Team members will be asking the **questions**. However, they are positioned as the **object**. This is the case of **passive voice**. [VERY IMPORTANT]
+* Doer -> Object. [In Passive voice]
+* Receiver -> Subject. [In Passive voice]
+* Team members would ask questions. [Active voice] 
+
+<img width="2134" height="1194" alt="image" src="https://github.com/user-attachments/assets/c797da65-dca3-4bd5-8680-07f3b29e751f" />
+
+* [VERY IMPORTANT]
+
+<img width="622" height="324" alt="image" src="https://github.com/user-attachments/assets/8a3a18c2-2cde-4280-a1e1-01e85ff2921d" />
+
+* Yes.
+* The court ordered that sia be present for the hearing. [Subjunctive mood] ["Must" is not there]
+
+<img width="2126" height="1196" alt="image" src="https://github.com/user-attachments/assets/17af29da-7e0b-479f-b510-a5e02982f34a" />
+<img width="2156" height="1444" alt="image" src="https://github.com/user-attachments/assets/0356f13b-310f-4902-8c6e-0fb2f43ca818" />
+
+* Ans -> Option **D**. [Correct]
+* Option **B**. [Wrong]
+* Examples -> Including/for instance.
+* Parallel to publishing -> Rethinking, not discovering. [VERY IMPORTANT]
+* B -> Which -> Not clear what it(which) is referring to.
+* Antecedent -> Noun. 
+
+<img width="2124" height="1198" alt="image" src="https://github.com/user-attachments/assets/9a46e776-791a-4ad2-819a-eb73f7621348" />
+<img width="2830" height="1344" alt="image" src="https://github.com/user-attachments/assets/82295f88-7f6b-42ae-8dc7-0a3c5c5886b4" />
+
+* B -> Which -> Relative pronoun.
+
+<img width="2140" height="1406" alt="image" src="https://github.com/user-attachments/assets/b9fdb4a9-1f08-447a-be18-a96a01b3ccfa" />
+
+* Ans -> Option **A**. [Correct]
+* Option **E**. [Wrong]
+* It is not that good. Nonetheless, you can use it at times. [Example]
+* Nonetheless, Nevertheless, However -> For **when we want to dilute something we have said earlier** -> Diluting the earlier statement. [VERY IMPORTANT]
+* But -> For **Outright contradiction**. [VERY IMPORTANT]
+* B -> Nevertheless -> Not diluting anything.
+* C, D -> We do not use **"the"** infront of capital's name. [VERY IMPORTANT]
+* E -> older -> Should be superlative degree -> Oldest.
+
+<img width="2134" height="1204" alt="image" src="https://github.com/user-attachments/assets/ce553a71-5ce9-4f81-afea-b7330a740eb3" />
+
+* [VERY IMPORTANT]
+
+<img width="2158" height="1418" alt="image" src="https://github.com/user-attachments/assets/03ac06b4-ffd3-4a6d-98ea-8706dbd004ae" />
+
+* Ans -> Option **A**. [Got Correct] [VERY IMPORTANT]
+
+<img width="612" height="146" alt="image" src="https://github.com/user-attachments/assets/788eb389-e048-4592-bd11-8cc76396b182" />
+
+* Yes.
+
+<img width="2084" height="1184" alt="image" src="https://github.com/user-attachments/assets/f5cfa08b-e885-4cf9-8aa1-4ada8fe44abe" />
+<img width="2148" height="1402" alt="image" src="https://github.com/user-attachments/assets/624f6e01-33cc-4d8e-88fe-82842c4cb5d4" />
+
+* Ans -> Option **C**. [Correct]
+* Option **B**. [Wrong]
+* D -> Many redundancies.
+* B -> Too many discrepencies.
+* C -> Noun-Noun comparison.
+* C -> Noun -> Face wash, Anti-Ageing cream. 
+
+<img width="2132" height="1212" alt="image" src="https://github.com/user-attachments/assets/3d332d6f-4efb-4ec1-9eab-63863bf5c320" />
+
+* [VERY IMPORTANT]
+
+<img width="2160" height="1428" alt="image" src="https://github.com/user-attachments/assets/00eb401a-a954-4108-a573-bb80daf41350" />
+
+* Ans -> Option **C**. [Got Correct] [Subject Verb Agreement(SVA)]
+* C -> Look at the nearer/closer noun -> Scarf -> Singular -> needs.
+* needs -> Singular. [VERY IMPORTANT]
+* need -> Plural. [VERY IMPORTANT]
+* B -> One, Other -> Singular. [VERY IMPORTANT]
+* have -> Plural.
+* has -> Singular. 
+
+<img width="2090" height="1184" alt="image" src="https://github.com/user-attachments/assets/8e99c2dc-400b-4a71-927f-9a7be2a68698" />
+<img width="2110" height="1216" alt="image" src="https://github.com/user-attachments/assets/ae01639e-e6e6-48ee-a55e-e61d1b4a68cb" />
+<img width="2092" height="1192" alt="image" src="https://github.com/user-attachments/assets/b25f5b6b-31a2-47db-8cb6-c451aa138d74" />
+<img width="2082" height="1204" alt="image" src="https://github.com/user-attachments/assets/5c7fc528-7341-4fa7-ac9c-61973ce20475" />
+
+* Look at the nearer/closer noun -> Or, Nor, Either or, Neither nor. [VERY IMPORTANT]
+* A -> Drinking and driving -> Joint Activity -> Singular -> is.
+* Bread and Butter -> Singular.
+
+<img width="2086" height="1190" alt="image" src="https://github.com/user-attachments/assets/66ff4798-102c-4e7a-a431-bb709797bad8" />
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
