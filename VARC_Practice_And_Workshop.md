@@ -1,5 +1,12 @@
 # VARC_Practice
 
+# RC
+
+1) Understand the main theme/point of the RC.
+2) 2/2 Rule -> Eliminate the '2' wrong options first and then check which is the correct option among the rest '2' options left.
+3) If not able to find which is the correct option, then try to find the differences among the '2' options left. Always go for differences.
+
+
 ## Practice
 
 ## VA
@@ -334,6 +341,55 @@
 
 * Ans -> option **B**. [Got Correct]
 * Question **3** -> Weaken the prediction method.
+
+<img width="2140" height="1232" alt="image" src="https://github.com/user-attachments/assets/a4663e0b-8267-44f3-8f33-5bdc7776df9e" />
+<img width="2112" height="1206" alt="image" src="https://github.com/user-attachments/assets/465aba13-4913-46f1-9e1e-0ad0eaa81860" />
+
+* RC1.
+
+<img width="2146" height="1434" alt="image" src="https://github.com/user-attachments/assets/3bf01c9a-2808-4ee6-ac06-89264d3b888e" />
+
+* Ans -> Option **C**. [Got Correct] [1]
+
+<img width="2154" height="1428" alt="image" src="https://github.com/user-attachments/assets/f20607bb-6914-4a04-a6e2-f0b5e07923a5" />
+
+* Ans -> Option **A**. [Correct] [2]
+* Option **D**. [Wrong]
+* None Except -> Only one is correct. [VERY IMPORTANT]
+* 2 -> Must -> Extreme word.
+* 3 -> Should be -> Extreme word.
+
+<img width="2156" height="1436" alt="image" src="https://github.com/user-attachments/assets/e18666df-c50c-47ff-9575-7478f3fb655a" />
+
+* Ans -> Option **B**. [Got Correct] [3]
+
+<img width="2158" height="1468" alt="image" src="https://github.com/user-attachments/assets/3ce41817-e94f-4b70-9880-a4c4952cbf90" />
+
+* Ans -> Option **C**. [Correct] [4]
+* Option **D**. [Wrong]
+* Cannot be Inferred -> Remove the '2' bad options. [VERY IMPORTANT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Brijesh sir
 
