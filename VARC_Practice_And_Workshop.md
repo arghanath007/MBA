@@ -624,7 +624,7 @@
 
 
 
-
+* Last Class -> VA Practice -> 31st OCT.
 
 
 
