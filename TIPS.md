@@ -26,6 +26,12 @@
 <img width="614" height="612" alt="image" src="https://github.com/user-attachments/assets/f08da1cb-b638-4400-808a-c86db7de18fc" />
 
 
+### VA
+
+1) OOO -> Odd One Out.
+
+<img width="590" height="468" alt="image" src="https://github.com/user-attachments/assets/34ae98c5-f833-47f6-8417-9e7357d6381b" />
+
 
 ## Quants
 
