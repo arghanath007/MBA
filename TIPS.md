@@ -12,8 +12,9 @@
 ### RC
 
 1) Understand the main theme/point of the RC.
-2) 2/2 Rule -> Eliminate the '2' wrong options first and then check which is the correct option among the rest '2' options left.
-3) If not able to find which is the correct option, then try to find the differences among the '2' options left. Always go for differences.
+2) Read the RC questions properly and understand them before answering.
+3) 2/2 Rule -> Eliminate the '2' wrong options first and then check which is the correct option among the rest '2' options left.
+4) If not able to find which is the correct option, then try to find the differences among the '2' options left. Always go for differences.
 
 ## Quants
 
