@@ -542,8 +542,116 @@
 * semiotics -> a general philosophical theory of signs and symbols that deals especially with their function in both artificially constructed and natural languages and comprises syntactics, semantics, and pragmatics -> Symbols. [MEANING]
 * amenable -> having or showing willingness to agree or to accept something that is wanted or asked for. [MEANING]
 
+<img width="2098" height="1210" alt="image" src="https://github.com/user-attachments/assets/62c74452-80c8-424e-a923-46cec5e87947" />
+<img width="2080" height="1174" alt="image" src="https://github.com/user-attachments/assets/4073cfad-2fe0-49ee-b715-f726392c253f" />
 
-* 13 Oct -> 1hr 5mins.
+* RC5.
+
+<img width="2160" height="1414" alt="image" src="https://github.com/user-attachments/assets/2345a7a6-4fc2-449b-ad34-1814788c5f7d" />
+
+* Ans -> Option **D**. [Correct] [1]
+* Option **C**. [Wrong]
+
+<img width="2156" height="1422" alt="image" src="https://github.com/user-attachments/assets/d5726072-7c71-49b4-817a-81ad531b0265" />
+
+* Ans -> Option **B**. [Correct] [2]
+* Option **A**. [Wrong]
+* Missionaries -> Religious influncers -> They spread religion. [MEANING]
+* A -> Too complex -> Extreme word.
+
+<img width="2124" height="1414" alt="image" src="https://github.com/user-attachments/assets/7824188b-4fad-4859-8a52-fe6e5cc1561f" />
+
+* Ans -> Option **D**. [Correct] [3]
+* Option **C**. [Wrong]
+* D -> ceased to exist -> Extreme word.
+
+<img width="2152" height="1416" alt="image" src="https://github.com/user-attachments/assets/66539529-1920-4683-a7e2-8cea35fcb3f8" />
+
+* Ans -> Option **A**. [Got Correct] [4]
+* ewe -> Female sheep. [MEANING]
+
+#### VA
+
+<img width="2146" height="1418" alt="image" src="https://github.com/user-attachments/assets/f43942d5-51f4-4961-92ba-f635bc511125" />
+
+* Ans -> Option **D**. [Correct] [1]
+* Option **A**. [Wrong]
+
+<img width="2162" height="1420" alt="image" src="https://github.com/user-attachments/assets/bdac38cf-105c-4826-95f0-c3435fcfc467" />
+
+* Ans -> Option **C**. [Got Correct] [2]
+
+<img width="2154" height="1430" alt="image" src="https://github.com/user-attachments/assets/62944f1c-01f7-47d0-97b6-79e89bc40042" />
+
+* Ans -> Option **B**. [Correct] [3]
+* Option **C**. [Wrong]
+* But -> Contradictory word. [VERY IMPORTANT]
+* Amiable -> Friendly. [MEANING]
+* A, D -> Most visited city -> Distorted.
+
+<img width="2164" height="1440" alt="image" src="https://github.com/user-attachments/assets/4f92be00-942a-4fa5-914e-34c33d5e9376" />
+
+* Ans -> Option **A**. [Got Correct] [4]
+
+<img width="2156" height="1420" alt="image" src="https://github.com/user-attachments/assets/b7b510e3-a743-47e6-bc9c-606e536ebbea" />
+
+* Ans -> Option **D**. [Correct] [5]
+* Option **C**. [Wrong]
+* C -> Ignorants of knowledge -> Extreme words.
+* A -> Narrow option.
+
+<img width="2160" height="1442" alt="image" src="https://github.com/user-attachments/assets/15f2d343-d307-4657-b36f-0b344d2c91fa" />
+
+* Ans -> Option **B**. [Got Correct] [6]
+
+<img width="2148" height="1426" alt="image" src="https://github.com/user-attachments/assets/b1809760-aff2-48c0-ad86-d45611679d2d" />
+
+* Ans -> Option **A**. [Got Correct] [7]
+
+<img width="2146" height="1428" alt="image" src="https://github.com/user-attachments/assets/f725f0e4-5eec-4c13-bc34-d9319e68ef52" />
+
+* Ans -> Option **C**. [Correct] [8]
+* Option **B**. [Wrong]
+
+<img width="2140" height="1428" alt="image" src="https://github.com/user-attachments/assets/0db2cd2c-0186-42b2-b9e0-484931104376" />
+
+* Ans -> Option **D**. [Got Correct] [9]
+
+<img width="2146" height="1418" alt="image" src="https://github.com/user-attachments/assets/f37f9f76-5ebe-42de-a004-34aa09785cd1" />
+
+* Ans -> Option **C**. [Correct] [10]
+* Option **E**. [Wrong]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
