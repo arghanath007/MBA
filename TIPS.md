@@ -1,8 +1,9 @@
 # CAT
 
-1) Min Percentile -> 75%. [Good Colleges -> 85%]
-2) Focus on overall percentile.
-3) Prioritize any '2' sections which you are doing good.
+1) Go to the exam hall with a blank/empty mind. Expect the unexpected.
+2)  Min Percentile -> 75%. [Good Colleges -> 85%]
+3) Focus on overall percentile.
+4) Prioritize any '2' sections which you are doing good.
 
 ## VARC
 
