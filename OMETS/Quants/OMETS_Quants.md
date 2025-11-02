@@ -3,6 +3,7 @@
 # IMPORTANT INFO
 
 * Tags -> [Answer] [Solution] [Formula] [VERY IMPORTANT] [Ans] [Example]
+* IMPORTANT TOPIC -> Arithmetic, Algebra, Geometry. 
 
 ### Percentages (1) [1]
 
@@ -676,6 +677,7 @@
 <img width="1387" height="801" alt="image" src="https://github.com/user-attachments/assets/25150e68-439e-4d92-be6e-00154ca1102b" />
 
 ### Profit & Loss (1) [5]
+
 
 
 
