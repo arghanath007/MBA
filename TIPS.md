@@ -1,6 +1,6 @@
 # CAT
 
-1) Go to the exam hall with a blank/empty mind. Expect the unexpected.
+1) Go to the exam hall with a blank/empty mind. Expect the unexpected. Instead of planning, be prepared.
 2)  Min Percentile -> 75%. [Good Colleges -> 85%]
 3) Focus on overall percentile.
 4) Prioritize any '2' sections which you are doing good.
@@ -10,6 +10,10 @@
 1) Attempt -> 16-17 questions -> Try to get 40+ marks. [Greens]
 2) Have to do good as it is the 1st section.
 3) 40+ Marks -> Either 2-3RC with 5-6VA questions OR 4RCs with 75% accuracy.
+4) 4RCs -> 1RC(Hard), 2RC(Medium), 1RC(Easy).
+5) 8 VA questions -> 2RCs [Marks wise]
+
+<img width="2058" height="1182" alt="image" src="https://github.com/user-attachments/assets/8e2ecf42-f20c-432b-b549-73833a30168b" />
 
 ### RC
 
