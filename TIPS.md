@@ -9,6 +9,7 @@
 
 1) Attempt -> 16-17 questions -> Try to get 40+ marks. [Greens]
 2) Have to do good as it is the 1st section.
+3) 40+ Marks -> Either 2-3RC with 5-6VA questions OR 4RCs with 75% accuracy.
 
 ### RC
 
