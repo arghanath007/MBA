@@ -29,8 +29,12 @@
 ### VA
 
 1) OOO -> Odd One Out.
+2) 4 sentences will have same topic and 1 sentence will have different topic.
 
 <img width="590" height="468" alt="image" src="https://github.com/user-attachments/assets/34ae98c5-f833-47f6-8417-9e7357d6381b" />
+<img width="606" height="186" alt="image" src="https://github.com/user-attachments/assets/a4505a17-6512-4235-8807-83d42a56bd0e" />
+
+3)
 
 
 ## Quants
