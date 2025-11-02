@@ -460,13 +460,58 @@
 * However -> Counter Point. [VERY IMPORTANT]
 * Critic -> Looking at positive and negative both. [MEANING]
 
+<img width="2060" height="1162" alt="image" src="https://github.com/user-attachments/assets/bc9f4206-f4d9-458b-9fe5-248feeef2e53" />
+<img width="2094" height="1182" alt="image" src="https://github.com/user-attachments/assets/c61319b9-bac0-4fe4-812b-dbbc3442d983" />
+
+* RC3
+
+<img width="2154" height="1416" alt="image" src="https://github.com/user-attachments/assets/19e57e37-f5bf-40d3-ab2b-0bc36ca72372" />
+
+* Ans -> Option **C**. [Correct] [1]
+* Option **B**. [Wrong]
+
+<img width="2152" height="1448" alt="image" src="https://github.com/user-attachments/assets/14c62d75-ab0e-47fe-bc2b-c622c5f7dc06" />
+
+* Ans -> Option **B**. [Correct] [2]
+* Option **C**. [Wrong]
+
+<img width="2162" height="1426" alt="image" src="https://github.com/user-attachments/assets/76efc863-984a-427a-b2f1-62e831ed57b2" />
+
+* Ans -> Option **D**. [Correct] [3]
+* Option **A**. [Wrong]
+* D -> Deserve -> Basis for elimination.
+
+<img width="2154" height="1430" alt="image" src="https://github.com/user-attachments/assets/a1bbe2ec-23b9-45da-8868-66baa6f3419f" />
+
+* Ans -> Option **D**. [Got Correct] [4]
+* Incarceration -> confinement in a jail or prison : the act of imprisoning someone or the state of being imprisoned. [MEANING]
+* carceral -> of, relating to, or suggesting a jail or prison. [MEANING]
+* indigent -> suffering from extreme poverty : impoverished. [MEANING]
+
+<img width="2144" height="1204" alt="image" src="https://github.com/user-attachments/assets/dd6ed6b0-e4d4-4025-8335-97d8cc0cf4de" />
+<img width="620" height="166" alt="image" src="https://github.com/user-attachments/assets/28720950-c5f4-4689-8cbd-a27bfa0e88c7" />
+
+* Yes.
+* In thrall -> Captivated, mesmerized, attracted to. [MEANING]
+* Thrall -> Magic. [MEANING]
+* enthrall -> to hold spellbound : charm. [MEANING]
 
 
-* 8th Oct -> Start from 7mins.
+* RC4.
+* 1hr 15mins.
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
 
 
 
