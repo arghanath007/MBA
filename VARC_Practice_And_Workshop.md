@@ -1,18 +1,5 @@
 # VARC_Practice
 
-# CAT
-
-1) Min Percentile -> 75%.
-2) Focus on overall percentile.
-3) Prioritize any '2' sections which you are doing good.
-
-# RC
-
-1) Understand the main theme/point of the RC.
-2) 2/2 Rule -> Eliminate the '2' wrong options first and then check which is the correct option among the rest '2' options left.
-3) If not able to find which is the correct option, then try to find the differences among the '2' options left. Always go for differences.
-
-
 ## Practice
 
 ## VA
@@ -496,9 +483,71 @@
 * Thrall -> Magic. [MEANING]
 * enthrall -> to hold spellbound : charm. [MEANING]
 
+<img width="2106" height="1204" alt="image" src="https://github.com/user-attachments/assets/694ba3bd-51bd-4d32-a727-d0f2ada089aa" />
+<img width="2100" height="1184" alt="image" src="https://github.com/user-attachments/assets/c47fb175-1261-42fb-9f5a-b713abe57067" />
 
 * RC4.
-* 1hr 15mins.
+
+<img width="1906" height="1348" alt="image" src="https://github.com/user-attachments/assets/ea5aaf2d-e7f7-4ae4-9228-4fdbe1756c24" />
+
+* Ans -> Option **B**. [Correct] [1]
+* Option **D**. [Wrong]
+
+<img width="1870" height="1352" alt="image" src="https://github.com/user-attachments/assets/71ff24ed-2032-4b96-a7fd-812c8bf8f85a" />
+
+* Ans -> Option **A**. [Got Correct] [2]
+
+<img width="1890" height="1390" alt="image" src="https://github.com/user-attachments/assets/b35c0086-7734-416c-9534-20c565b48720" />
+
+* Ans -> Option **B**. [Got Correct] [3]
+
+<img width="1872" height="1374" alt="image" src="https://github.com/user-attachments/assets/e5264f6f-e7e2-4301-a853-cc5cf458922f" />
+
+* Ans -> Option **B**. [Got Correct] [4]
+
+ <img width="2110" height="1192" alt="image" src="https://github.com/user-attachments/assets/29a6d159-a4bc-4358-9330-5c17c326e109" />
+
+* RC4.
+
+<img width="2138" height="1422" alt="image" src="https://github.com/user-attachments/assets/559803c1-bd23-46e2-9e22-d30680d6fdf4" />
+
+* Ans -> Option **E**. [Correct] [1]
+* Option **D**. [Wrong]
+
+<img width="636" height="200" alt="image" src="https://github.com/user-attachments/assets/9592fde9-8994-48dc-93ab-ee26de95f114" />
+
+* Yes. [1]
+
+<img width="2152" height="1408" alt="image" src="https://github.com/user-attachments/assets/cfce2a7b-1f9b-453d-b312-536931a11d88" />
+
+* Ans -> Option **B**. [Got Correct] [2]
+
+<img width="2154" height="1438" alt="image" src="https://github.com/user-attachments/assets/6d5ab9e2-3c26-426c-bd61-032c7a267868" />
+
+* Ans -> Option **B**. [Correct] [3]
+* Option **E**. [Wrong]
+* All of the Above -> Biases comes up when answering these types of questions -> Better to leave the question at that point, if you feel like you are doing that. [VERY IMPORTANT] [MEANING]
+
+<img width="2146" height="1410" alt="image" src="https://github.com/user-attachments/assets/15b4f572-fb95-4529-a607-5eed3d60feac" />
+
+* Ans -> Option **A**. [Correct] [4]
+* Option **E**. [Wrong]
+
+<img width="2144" height="1426" alt="image" src="https://github.com/user-attachments/assets/7eaa0577-d6a3-4182-9293-7589d871f6e3" />
+
+* Ans -> Option **D**. [Got Correct] [5]
+* Quaint -> Piacular in a very nice way. [MEANING]
+* Piacular -> sacrificial, expiatory. [MEANING]
+* clog -> a weight attached especially to an animal to hinder motion -> to halt or slow the progress, operation, or growth of : encumber. [MEANING]
+* semiotics -> a general philosophical theory of signs and symbols that deals especially with their function in both artificially constructed and natural languages and comprises syntactics, semantics, and pragmatics -> Symbols. [MEANING]
+* amenable -> having or showing willingness to agree or to accept something that is wanted or asked for. [MEANING]
+
+
+* 13 Oct -> 1hr 5mins.
+
+
+
+
 
 
 
