@@ -935,6 +935,20 @@
 * 66-50 -> 16.
 * [VERY IMPORTANT]
 
+### Profit & Loss (2) [6]
+
+<img width="1424" height="909" alt="image" src="https://github.com/user-attachments/assets/55b74cda-6639-4c3b-97bf-b3f8e89c2323" />
+<img width="1430" height="810" alt="image" src="https://github.com/user-attachments/assets/7a6c7e1f-7c45-455c-9645-f4838cf672bf" />
+<img width="1410" height="792" alt="image" src="https://github.com/user-attachments/assets/d49217db-58e8-447b-a164-e4002c9664d3" />
+
+* Solving using quadratic equation. 
+* 20% of 30 -> 6.
+* 30 + 6 -> 36.
+
+<img width="1434" height="827" alt="image" src="https://github.com/user-attachments/assets/fa552850-9ec7-4a98-8e67-82b8149db797" />
+
+
+
 
 
 
