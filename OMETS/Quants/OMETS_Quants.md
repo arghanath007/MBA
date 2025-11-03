@@ -946,6 +946,8 @@
 * 30 + 6 -> 36.
 
 <img width="1434" height="827" alt="image" src="https://github.com/user-attachments/assets/fa552850-9ec7-4a98-8e67-82b8149db797" />
+<img width="1426" height="914" alt="image" src="https://github.com/user-attachments/assets/e7fb0821-50e1-4c70-9560-346c7cdb2652" />
+
 
 
 
