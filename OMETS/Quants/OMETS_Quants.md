@@ -800,10 +800,140 @@
 
 * [**VERY IMPORTANT**] [Answer]
 
+<img width="2092" height="1210" alt="image" src="https://github.com/user-attachments/assets/d436d9f1-f5b0-4d7a-b6fe-14c2557a9fb3" />
+<img width="2030" height="1188" alt="image" src="https://github.com/user-attachments/assets/0752e2f5-029d-4298-bc61-57dc408881f6" />
 
+* Effective %. [FORMULA]
 
+<img width="2110" height="1182" alt="image" src="https://github.com/user-attachments/assets/07214491-65b9-4685-a8f0-b4ae844442a4" />
 
+* [**VERY IMPORTANT**] [Example]
 
+<img width="2074" height="1200" alt="image" src="https://github.com/user-attachments/assets/0703546e-e597-4e86-afe1-1dca0612f91a" />
+
+* Another approach.
+
+<img width="2152" height="1426" alt="image" src="https://github.com/user-attachments/assets/9c418ac4-476e-40f2-8d23-092f15b90e2e" />
+<img width="2096" height="1208" alt="image" src="https://github.com/user-attachments/assets/f6735130-143e-4419-8ed3-bb70f00d8836" />
+<img width="2378" height="3217" alt="image" src="https://github.com/user-attachments/assets/a80899a4-3d7d-41bd-a0e9-5803a411ac62" />
+
+* [Answer]
+
+<img width="2108" height="1184" alt="image" src="https://github.com/user-attachments/assets/d2899f14-ce70-4783-9d17-0033c6fd25c1" />
+
+* LCM of 5 & 10 -> 10.
+
+<img width="2088" height="1190" alt="image" src="https://github.com/user-attachments/assets/6b0741d2-64a7-4fbd-8a0e-308c7bdf4cf9" />
+<img width="2096" height="1198" alt="image" src="https://github.com/user-attachments/assets/789fc584-ab0b-491f-8586-5203070e73d2" />
+
+* [FORMULA] [**VERY IMPORTANT**]
+
+<img width="2086" height="1178" alt="image" src="https://github.com/user-attachments/assets/ec3f0cff-704c-4b6e-be3d-48096788467f" />
+<img width="2090" height="1176" alt="image" src="https://github.com/user-attachments/assets/ad2bee41-ed45-485f-ada6-bcacb0912c78" />
+<img width="2080" height="1168" alt="image" src="https://github.com/user-attachments/assets/8a01e15d-245c-4c87-8761-12a4efcc617b" />
+
+* [Example]
+
+<img width="2084" height="1200" alt="image" src="https://github.com/user-attachments/assets/3c5b5d75-4434-497d-a663-c9684da1c190" />
+<img width="908" height="788" alt="image" src="https://github.com/user-attachments/assets/f9231911-c714-444d-a56d-f1c1b6cb24c6" />
+
+* [FORMULA] [**VERY IMPORTANT**]
+
+<img width="2094" height="1196" alt="image" src="https://github.com/user-attachments/assets/2652b1fe-f011-476e-b45d-dd143d737f15" />
+
+* [Example]
+
+<img width="2146" height="1406" alt="image" src="https://github.com/user-attachments/assets/314e691b-d6d5-4443-84f8-642a1d5f35d4" />
+<img width="2104" height="1174" alt="image" src="https://github.com/user-attachments/assets/423d7b99-dc17-4412-84ef-d8025df792c5" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8f4a400b-77c7-4a73-9434-bd318059e2b1" />
+<img width="2162" height="1426" alt="image" src="https://github.com/user-attachments/assets/f409b367-ab77-428c-8087-c1a43d072017" />
+
+* 100%  -> 1. [Can be written as when using fractions] [VERY IMPORTANT] [FORMULA]
+
+<img width="2114" height="1196" alt="image" src="https://github.com/user-attachments/assets/b9358a89-87c8-4862-8c7c-9dc5f0034a71" />
+
+* [**VERY IMPORTANT**]
+
+<img width="2148" height="1420" alt="image" src="https://github.com/user-attachments/assets/d95f8cea-befb-49e0-a68c-219026939f52" />
+<img width="2110" height="1202" alt="image" src="https://github.com/user-attachments/assets/6376f88c-237f-443f-918a-27e4f9eb5645" />
+
+* 12x -> 100.
+* x -> 100/12
+* 2x -> 100/12 * 2 -> 100/6 -> 16.66 -> 1/6. [Answer]
+
+<img width="2144" height="1438" alt="image" src="https://github.com/user-attachments/assets/70f8b225-4f0e-4778-b7e4-53d4493ea2d6" />
+<img width="2094" height="1200" alt="image" src="https://github.com/user-attachments/assets/f2b1068d-e3a2-43f7-9932-0af77d05a7b4" />
+
+* MP = SP +D -> 5 + 1 -> 6.
+* D/MP -> 1/6.
+
+<img width="2120" height="1190" alt="image" src="https://github.com/user-attachments/assets/919e089c-abd3-4955-b7f7-68259c41adfe" />
+<img width="2132" height="1216" alt="image" src="https://github.com/user-attachments/assets/1cd789d3-bb12-4594-9a23-94f440f69c99" />
+<img width="2132" height="1216" alt="image" src="https://github.com/user-attachments/assets/0dd7ecec-5bd9-4dba-91f7-801b0baabcfe" />
+
+* LCM of 5 & 7 -> 35.
+
+<img width="2142" height="1216" alt="image" src="https://github.com/user-attachments/assets/4bc63efa-4b77-428f-bdeb-66592211a410" />
+<img width="2096" height="1194" alt="image" src="https://github.com/user-attachments/assets/8390ba01-e921-43c0-b9fa-e444aaae45fa" />
+
+* [Example]
+
+<img width="2104" height="1208" alt="image" src="https://github.com/user-attachments/assets/caadb5fd-db83-479a-b4ea-f579c240a1f5" />
+
+* Default -> If nothing is given in the question then by default it is **water**.
+
+<img width="2078" height="1196" alt="image" src="https://github.com/user-attachments/assets/1263570a-f1c9-4819-884d-01fe5365b9a1" />
+<img width="2068" height="1198" alt="image" src="https://github.com/user-attachments/assets/90cb4680-a809-411e-b2bc-959b54f2845a" />
+
+* 3-2-> 1.
+
+<img width="2102" height="1222" alt="image" src="https://github.com/user-attachments/assets/b6b333c2-7d96-4f77-bd78-a4d3d1f3df95" />
+<img width="1600" height="1556" alt="image" src="https://github.com/user-attachments/assets/8be20128-1cf7-467d-aa34-018bd81eef3a" />
+
+* [Answer]
+
+<img width="2098" height="1190" alt="image" src="https://github.com/user-attachments/assets/098ae8f9-acad-43b9-bbde-3e92e07c9c3d" />
+<img width="2158" height="1416" alt="image" src="https://github.com/user-attachments/assets/8aa2bf19-e293-40b5-ad16-f1b00c68dccc" />
+<img width="1364" height="862" alt="image" src="https://github.com/user-attachments/assets/a3a9dc24-01a9-46a5-9e94-c7a87f8fdf25" />
+<img width="1318" height="864" alt="image" src="https://github.com/user-attachments/assets/ba3899a1-a096-4421-a5c4-21ebc0e9b35f" />
+
+* 5% -> 1/20
+* 5% of 20 -> 1.
+* 20-1 -> 19.
+* 20 | 19.
+
+<img width="2126" height="1204" alt="image" src="https://github.com/user-attachments/assets/bb28dfb5-c2fc-4474-b474-76ba18e09060" />
+<img width="2623" height="1299" alt="image" src="https://github.com/user-attachments/assets/ae1c0d76-a50a-40cb-8616-ea7dbd022c2b" />
+
+* [Answer]
+
+<img width="2156" height="1416" alt="image" src="https://github.com/user-attachments/assets/4d7f0c2f-9d5a-4bdf-af58-5ad1b3546a1e" />
+
+* 25/4% -> 1/16.
+* 16-1 -> 15.
+* 8-1-> 7. 
+
+<img width="2098" height="1198" alt="image" src="https://github.com/user-attachments/assets/9ba68c35-b2da-43f7-adb5-439ab90a59e8" />
+<img width="2126" height="1220" alt="image" src="https://github.com/user-attachments/assets/8a6ef23a-f90d-4217-a75f-ab3e3247b1db" />
+
+* 15-14 -> 1.
+
+<img width="2168" height="1424" alt="image" src="https://github.com/user-attachments/assets/b3e14a86-2e08-4391-a98b-d2dc2fffcd5c" />
+
+* [VERY IMPORTANT]
+
+* 20% profit-> 1/5
+* CP -> 5.
+* SP -> 1 + 5 -> 6.
+* 10% loss-> 1/10
+* CP -> 10.
+* SP -> 10-1-> 9.
+
+<img width="2124" height="1214" alt="image" src="https://github.com/user-attachments/assets/372e6afe-943a-4e6d-8e24-434813b3e995" />
+<img width="2102" height="1186" alt="image" src="https://github.com/user-attachments/assets/748bdc68-db18-44f5-a0dd-11b7395ecb7a" />
+
+* 66-50 -> 16.
+* [VERY IMPORTANT]
 
 
 
