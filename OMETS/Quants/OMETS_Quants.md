@@ -1380,6 +1380,70 @@
 <img width="1416" height="803" alt="image" src="https://github.com/user-attachments/assets/d6ef40c6-285e-4ec2-b874-1366c5e078f0" />
 <img width="1414" height="812" alt="image" src="https://github.com/user-attachments/assets/40a495c1-169e-4da5-8953-148526c440c8" />
 
+### Compound Interest(CI) (1) [8]
+
+* Increased by 20% -> 120% -> 120/100 -> 1.2
+
+<img width="1406" height="809" alt="image" src="https://github.com/user-attachments/assets/16a8518a-0fbd-4970-b556-2d6a672889e4" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/0f68ad33-de28-4793-8052-931cf44202f9" />
+<img width="1433" height="808" alt="image" src="https://github.com/user-attachments/assets/28768f34-5b94-40f6-bfbe-2aa8a085fd5f" />
+<img width="1413" height="808" alt="image" src="https://github.com/user-attachments/assets/c41b0fa2-f5bc-482b-a52d-8981fbb64a1f" />
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/15053992-e8d1-44eb-a126-dbb159f143a7" />
+
+* [FORMULA] [VERY IMPORTANT]
+* SI and CI is the **same** for 1st year. [VERY IMPORTANT]
+* CI is increasing by r% every year. [VERY IMPORTANT]
+
+<img width="1416" height="811" alt="image" src="https://github.com/user-attachments/assets/279ebdb9-d644-4f06-848b-895b3758cec4" />
+<img width="1404" height="797" alt="image" src="https://github.com/user-attachments/assets/58e291d6-7c1d-45f9-9b50-3e009dd8f4ab" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1404" height="803" alt="image" src="https://github.com/user-attachments/assets/adf254bb-468c-424e-922f-409a7b169df0" />
+<img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5b38ca26-f78a-4120-a215-a6660b669465" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1431,4 +1495,5 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
