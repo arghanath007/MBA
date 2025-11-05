@@ -948,6 +948,190 @@
 <img width="1434" height="827" alt="image" src="https://github.com/user-attachments/assets/fa552850-9ec7-4a98-8e67-82b8149db797" />
 <img width="1426" height="914" alt="image" src="https://github.com/user-attachments/assets/e7fb0821-50e1-4c70-9560-346c7cdb2652" />
 <img width="1430" height="792" alt="image" src="https://github.com/user-attachments/assets/d3219040-a290-41f6-858c-14a93851758c" />
+<img width="1421" height="823" alt="image" src="https://github.com/user-attachments/assets/883dd8f4-3309-4874-9f86-85543d224c50" />
+
+* We have to make the quantity same.
+* 196-169->27.
+
+<img width="1423" height="850" alt="image" src="https://github.com/user-attachments/assets/54b132ba-4734-4406-86ad-e99028936458" />
+<img width="1408" height="918" alt="image" src="https://github.com/user-attachments/assets/de8e3532-c4a8-4948-b36c-44be7d36e245" />
+<img width="1413" height="810" alt="image" src="https://github.com/user-attachments/assets/2ae038ba-208f-4c89-a78f-122182622b47" />
+<img width="1394" height="805" alt="image" src="https://github.com/user-attachments/assets/711b05cb-7ca8-4e17-94a4-5a2045136103" />
+<img width="1430" height="911" alt="image" src="https://github.com/user-attachments/assets/aafa3a43-2988-4da8-ab56-45986ec299fb" />
+
+* Difference/Gap -> 37.5 + 25 -> 62.5%
+
+<img width="1420" height="810" alt="image" src="https://github.com/user-attachments/assets/1f6f24e4-1cc4-41b0-bf9e-28db29ea9ab0" />
+<img width="1407" height="804" alt="image" src="https://github.com/user-attachments/assets/64e4529a-2940-45ee-a281-2ae9ec5d4780" />
+
+* Answer -> Option **C**. [VERY IMPORTANT]
+
+<img width="1417" height="814" alt="image" src="https://github.com/user-attachments/assets/4fc25916-646a-4c06-8292-c9ef752fc419" />
+
+* 20% -> 1/5 -> Loss -> 5-1 -> 4.
+* 12.5% -> 1/8 -> Profit -> 8 + 1 -> 9.
+* 8% -> 2/25 -> Loss -> 25-2 -> 23.
+
+<img width="1411" height="806" alt="image" src="https://github.com/user-attachments/assets/a97d86b3-6bbd-43c0-b130-ed6b60cd6810" />
+<img width="1395" height="803" alt="image" src="https://github.com/user-attachments/assets/471f3d99-88fd-4fa9-9815-38dd5f6a566f" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/d9e0ce00-9333-46d0-b90e-a683dbe00c72" />
+<img width="1404" height="796" alt="image" src="https://github.com/user-attachments/assets/a9caf33b-7b55-465a-ae28-94a9f1c382a6" />
+<img width="1422" height="808" alt="image" src="https://github.com/user-attachments/assets/e17d0a9f-a5d2-4e9b-ab06-75291fa149eb" />
+<img width="1448" height="824" alt="image" src="https://github.com/user-attachments/assets/5c4c99db-48f7-4cdf-b36c-24a6f7507f20" />
+<img width="1426" height="816" alt="image" src="https://github.com/user-attachments/assets/29e4be05-29d9-4050-b774-895039d8dc11" />
+
+* A -> 300-240-> 60.
+* C-> 270-248.4->21.6
+* 60-21.6-> 38.40
+
+<img width="1433" height="921" alt="image" src="https://github.com/user-attachments/assets/dd981d03-33b3-4f79-95fe-87b6b0cd872b" />
+<img width="1440" height="821" alt="image" src="https://github.com/user-attachments/assets/d5532318-16b4-4139-997b-939f25a40abe" />
+<img width="1433" height="922" alt="image" src="https://github.com/user-attachments/assets/db566520-c628-4ba6-ade7-726378eefb8a" />
+<img width="1417" height="799" alt="image" src="https://github.com/user-attachments/assets/43de656b-6fda-403a-b6b2-8acfbdb0236e" />
+<img width="1404" height="787" alt="image" src="https://github.com/user-attachments/assets/b5867178-9dd9-421e-97e2-1907e8f42cdb" />
+<img width="1435" height="914" alt="image" src="https://github.com/user-attachments/assets/3ee8df0a-769b-4297-91b2-6e2bdc6ffed5" />
+<img width="1435" height="914" alt="image" src="https://github.com/user-attachments/assets/3765660e-eb0a-4e01-8825-ba4770b87e0f" />
+
+* [Answer]
+* LCM of 3 & 5 -> 15.
+* 1/3 * 15 -> 5.
+* 3/5 * 15 -> 3*3->9.
+* 15-5-9-> 1.
+
+<img width="1427" height="803" alt="image" src="https://github.com/user-attachments/assets/c67f2393-2ff6-4189-9bfb-4feec1e845c2" />
+
+* 14-17.5-> -3.5 * 5
+* 20-17.5 -> 2.5 * 1
+* -3.5 * 5 + 2.5*1 -> -17.5 + 2.5 -> -15. [15 articles we have accumed from LCM of 3 & 5]
+* -15%/15-> -1%
+* 17.5 - 1 -> 16.5% [Answer]
+
+<img width="1402" height="786" alt="image" src="https://github.com/user-attachments/assets/c66f782e-c17a-4419-a41b-e97cedf62d44" />
+
+* Deviation Method.
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1425" height="916" alt="image" src="https://github.com/user-attachments/assets/ed0c6f32-4cd3-4b3f-9b9e-1799b420d9b0" />
+<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/9d42560b-2b7e-4061-a92c-71edba0f71bc" />
+<img width="1402" height="796" alt="image" src="https://github.com/user-attachments/assets/c5ea1318-0a8d-42ea-a0f6-8f060c6fdae9" />
+<img width="1454" height="840" alt="image" src="https://github.com/user-attachments/assets/ecfde964-bd72-4c05-b6fb-904f9eb887b8" />
+<img width="1404" height="794" alt="image" src="https://github.com/user-attachments/assets/6f075675-b921-4762-bda2-37cafa645b2f" />
+
+* CP -> 56+65+26 -> 147.
+* P->8+7+14->29.
+*  [VERY IMPORTANT]
+
+<img width="1438" height="928" alt="image" src="https://github.com/user-attachments/assets/47698afe-0c7f-4850-9a76-ae80ed5d02ed" />
+
+* Purchase -> Rupee 1.
+* Sell -> 2.5 Rupee.
+* Profit -> 2.5-1 -> 1.5
+* Sold -> 40.
+* Left -> 60.
+* 80% of 60 -> 48.
+* Sell -> 1.5/2 -> 0.75
+* P -> 1 + 0.75 -> 1.75
+
+<img width="1412" height="793" alt="image" src="https://github.com/user-attachments/assets/2b019434-daa8-45ae-bbe4-1568e3d1592a" />
+ <img width="1420" height="811" alt="image" src="https://github.com/user-attachments/assets/a69603c1-304b-4fb9-9b92-9442c011e5eb" />
+
+*  [VERY IMPORTANT]
+
+<img width="1431" height="800" alt="image" src="https://github.com/user-attachments/assets/2ce8c28f-21eb-442f-841c-b46093ebfee9" />
+
+* LCM of 30 & 50 -> 150.
+* Dozens -> 5+3->8.
+* CP -> 150+150->300.
+* SP -> 40*8-> 320.
+
+<img width="1402" height="792" alt="image" src="https://github.com/user-attachments/assets/a384143e-393e-4bc8-bc77-9d10d874af57" />
+<img width="1407" height="802" alt="image" src="https://github.com/user-attachments/assets/7e28d19b-faf5-4542-bc48-c789b1b43992" />
+
+* SP -> (10-(x/1000))*x -> 10x - x^2/1000.
+
+<img width="1402" height="812" alt="image" src="https://github.com/user-attachments/assets/ad1a3e0b-6a52-428b-9aed-f1c10e223cad" />
+<img width="917" height="747" alt="image" src="https://github.com/user-attachments/assets/e2a4d22b-0509-4a9f-90f7-63495e60ebf5" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1398" height="798" alt="image" src="https://github.com/user-attachments/assets/2e199028-3df6-43ab-a627-e5ee498acf14" />
+
+* 10% of 110 -> 110 + 11 -> 121.
+* 10% of 121 -> 121 + 12.1 -> 133.1.
+
+<img width="1408" height="814" alt="image" src="https://github.com/user-attachments/assets/1def58d8-c4fc-4a1d-b60b-392d1f6d697f" />
+
+* 2500 + 2000 -> 4500.
+* 4500/5->900.
+* 900 * 100 -> 90000.
+* 10% loss in gun -> 9000.
+* 9000 - 2000 -> 7000
+* 20% profit in horse -> 7000.
+* 7000/20 -> 350
+* 350*100 -> 35000
+* SP of horse -> CP of horse + 10% of profit of horse -> 35000 + 7000 -> 42000.
+
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/bf63b71f-a5db-4455-83a1-d9d2d453da22" />
+<img width="1405" height="808" alt="image" src="https://github.com/user-attachments/assets/d66f2f17-7652-4727-b9d4-65b166ea3110" />
+<img width="1416" height="816" alt="image" src="https://github.com/user-attachments/assets/d138ca06-2a44-4f30-bf6e-59c2016def77" />
+<img width="1444" height="844" alt="image" src="https://github.com/user-attachments/assets/9bd77785-c284-46cb-a86d-808f80fa3d5b" />
+<img width="1422" height="821" alt="image" src="https://github.com/user-attachments/assets/c329e813-6fa2-444b-84af-48d59c49f2fa" />
+
+* Buy 3 get 1 free -> 1/4 -> 25% discount.
+
+<img width="1418" height="809" alt="image" src="https://github.com/user-attachments/assets/27f369c5-ede6-497a-8b75-58bfebabd240" />
+<img width="1406" height="795" alt="image" src="https://github.com/user-attachments/assets/5d22ca86-db4e-4b07-b043-421263921b6b" />
+
+* 10% -> 1/10 -> loss -> 10-1 -> 9.
+
+<img width="1407" height="815" alt="image" src="https://github.com/user-attachments/assets/5cbf3244-a509-4be9-9f01-46ccad7eaf75" />
+<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/6bdd8832-30aa-460e-afe3-4517341590aa" />
+
+* 10% of 120-> 120-12 -> 108.
+* 25% of 120-> 120-30 -> 90.
+
+<img width="1409" height="827" alt="image" src="https://github.com/user-attachments/assets/8357a1b8-d5ac-46eb-b391-24819cc37276" />
+<img width="1418" height="910" alt="image" src="https://github.com/user-attachments/assets/f47f094a-0f22-481a-8afa-01885c73d394" />
+<img width="1415" height="811" alt="image" src="https://github.com/user-attachments/assets/2bbcdf8e-41c5-4fba-b35f-7c31d1d86d95" />
+<img width="1401" height="800" alt="image" src="https://github.com/user-attachments/assets/44556503-cd18-463f-9bd2-58d983d20afc" />
+
+* 5% of 20 -> 1
+* 20+1->21.
+* 70% of 30 -> 21.
+
+<img width="1435" height="813" alt="image" src="https://github.com/user-attachments/assets/d4ecfa85-81b9-4d25-bbe8-7d3a8d44d50e" />
+<img width="1401" height="795" alt="image" src="https://github.com/user-attachments/assets/a8c10bc1-2d7c-4e40-8517-85d3e04be2d0" />
+
+* CP -> SP-P->5-1->4.
+* 4->58
+* 1 ->14.5
+* 5->72.5
+* 100-72.5-> 27.5
+
+<img width="1408" height="800" alt="image" src="https://github.com/user-attachments/assets/ba3d4b9a-5ff5-4b14-a7ec-2bd3b74b9c87" />
+
+* 1000-900->100.
+* 100/900 * 100 -> 1/9 -> 11.11%.
+* Weight,Price->100.[Let]
+* 5% reduced weight -> 100-5->95.
+* 5% increased price -> 100+5->105.
+* 105-95->10.
+
+<img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/4cf720c4-ee42-4a72-a7d5-fd8fafb3b173" />
+
+* MP% -> 50% -> 1/2
+* P -> 1.
+* CP -> 2
+* MP -> 1 + 2 -> 3.
+* 20% increase of 150 -> 150 + 30->180.
+* 40% discount on 180-> 180-72-> 108.
+* 80-108->28.
+
+## Simple Interest(SI) (1) [
+
 
 
 
