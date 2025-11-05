@@ -1402,10 +1402,26 @@
 
 * [FORMULA] [VERY IMPORTANT]
 
+<img width="1402" height="813" alt="image" src="https://github.com/user-attachments/assets/36e17185-0db9-45d1-9aa5-740eb22bd6c1" />
+
+* 14400-12000-> 2400
+* 17280-14400-> 2880
+* 20736-17280-> 3456
+* 20% of 12000 -> 2400
+* 20% of 14400 -> 2880
+* 20% of 17280 -> 3456
+
 <img width="1404" height="803" alt="image" src="https://github.com/user-attachments/assets/adf254bb-468c-424e-922f-409a7b169df0" />
 <img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5b38ca26-f78a-4120-a215-a6660b669465" />
+<img width="1424" height="804" alt="image" src="https://github.com/user-attachments/assets/d895d106-d721-4e33-995b-89cb6320ece9" />
+<img width="1418" height="785" alt="image" src="https://github.com/user-attachments/assets/ddd5caf8-56a8-4f9e-9064-212ea531a17a" />
 
-* Start from 20mins.
+* [VERY IMPORTANT]
+
+
+
+
+
 
 
 
@@ -1494,6 +1510,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
