@@ -1405,8 +1405,7 @@
 <img width="1404" height="803" alt="image" src="https://github.com/user-attachments/assets/adf254bb-468c-424e-922f-409a7b169df0" />
 <img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5b38ca26-f78a-4120-a215-a6660b669465" />
 
-
-
+* Start from 20mins.
 
 
 
@@ -1495,5 +1494,6 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
