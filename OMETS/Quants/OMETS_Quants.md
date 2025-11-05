@@ -1171,6 +1171,40 @@
 * P->4000.
 
 <img width="1415" height="814" alt="image" src="https://github.com/user-attachments/assets/4a8aef24-64c4-4743-a680-113f94746452" />
+<img width="1415" height="823" alt="image" src="https://github.com/user-attachments/assets/fb910c27-49aa-4d37-9560-94cb68c7d720" />
+
+* Triple -> 100 to 300 -> 300-100-> 200%. [FORMULA] [VERY IMPORTANT]
+* 8 times -> 100 to 800 -> 800-100-> 700%. [FORMULA] [VERY IMPORTANT]
+
+<img width="1427" height="815" alt="image" src="https://github.com/user-attachments/assets/9591da06-b467-4d82-92f0-37eaad4fcc72" />
+
+* 4 times -> 100 to 400 -> 300%.
+* 6 times -> 100 to 600 -> 500%.
+
+<img width="1416" height="804" alt="image" src="https://github.com/user-attachments/assets/d85c8ba2-dc3f-43d1-bd33-49d82bc03e23" />
+<img width="1428" height="917" alt="image" src="https://github.com/user-attachments/assets/44ec24df-abbc-4230-975c-7a095bbfb4b8" />
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/62830d9d-57af-4b0a-b5c0-45e838c38116" />
+<img width="1402" height="815" alt="image" src="https://github.com/user-attachments/assets/62b8454b-e9dd-4eb8-a81b-1d5268c78bcf" />
+
+* Double -> 1.
+* Double -> Interest is '1' in 5yrs -> 1 * 5 -> 5yrs.
+* 8 times -> 7.
+* Interes is '7' -> 7 * 1yr -> 7 * 5yrs -> 35yrs.
+* [VERY IMPORTANT]
+
+<img width="1405" height="795" alt="image" src="https://github.com/user-attachments/assets/c87df717-adef-4327-9e06-2ff573afe770" />
+
+* Triple -> 2.
+* 2 -> 7yrs
+* 9 times -> 8
+* 2 * 4 -> 8.
+* 7 * 4 -> 28. [Answer]
+
+<img width="1423" height="799" alt="image" src="https://github.com/user-attachments/assets/431679f7-b4ff-4a86-b1ed-9ec357d2a853" />
+
+* [VERY IMPORTANT]
+
+<img width="1427" height="918" alt="image" src="https://github.com/user-attachments/assets/088d95a4-ce60-4ba4-ba74-0d1535199e0f" />
 
 
 
@@ -1205,3 +1239,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Solutions/Answers
+
+<img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
+<img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
