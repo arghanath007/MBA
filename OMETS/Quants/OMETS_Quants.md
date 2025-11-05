@@ -1130,7 +1130,54 @@
 * 40% discount on 180-> 180-72-> 108.
 * 80-108->28.
 
-## Simple Interest(SI) (1) [
+## Simple Interest(SI) (1) [7]
+
+<img width="1411" height="816" alt="image" src="https://github.com/user-attachments/assets/156b67db-f38a-4488-8d6e-e2de65a5ee0b" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1435" height="929" alt="image" src="https://github.com/user-attachments/assets/cfa325a7-b18a-4a3b-b7e3-5d205d80543e" />
+<img width="1422" height="811" alt="image" src="https://github.com/user-attachments/assets/70b0d847-8da0-4e49-b0cb-7983ae6562d7" />
+<img width="1429" height="913" alt="image" src="https://github.com/user-attachments/assets/5825b67c-6998-480a-af47-26148870b6af" />
+<img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/19304eaf-b038-47b3-8d7b-cf097596cf2d" />
+
+* [Answer]
+
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/95077547-3086-4b5d-8ae9-38d5fc94910f" />
+
+* 6 * 2 -> 12.
+* 8 * 3 -> 24.
+* 9-2-3->4.
+* 12 * 4 ->48.
+* 12+24+48->84
+* This is a better and faster method to solve. [FORMULA] [VERY IMPORTANT]
+
+<img width="1420" height="806" alt="image" src="https://github.com/user-attachments/assets/14e47da4-0023-4a01-930b-cbf5f1c22001" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1411" height="803" alt="image" src="https://github.com/user-attachments/assets/a75a50ff-03f3-401d-a327-6537f771f1b7" />
+<img width="1425" height="919" alt="image" src="https://github.com/user-attachments/assets/8f251b4a-2616-4d44-9d05-ecd169d97961" />
+<img width="1423" height="816" alt="image" src="https://github.com/user-attachments/assets/b82d65cc-e120-43f2-aa01-0954f31ac8dd" />
+<img width="1419" height="831" alt="image" src="https://github.com/user-attachments/assets/55586c51-a2c7-4edd-9ad0-69a3b4e3bda3" />
+
+* Method '2' is much faster. [FORMULA] [VERY IMPORTANT]
+
+<img width="1418" height="834" alt="image" src="https://github.com/user-attachments/assets/3f93c354-2953-4995-89d2-250fb2e3026a" />
+<img width="1416" height="798" alt="image" src="https://github.com/user-attachments/assets/23950e8b-816b-4c1c-b5d2-a5adb9725ba7" />
+
+* SI for 1yr->800. [VERY IMPORTANT]
+* SI for 4yrs->4*800->3200.
+* P->4000.
+
+<img width="1415" height="814" alt="image" src="https://github.com/user-attachments/assets/4a8aef24-64c4-4743-a680-113f94746452" />
+
+
+
+
+
+
+
 
 
 
