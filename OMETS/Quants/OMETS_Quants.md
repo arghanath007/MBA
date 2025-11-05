@@ -1205,10 +1205,180 @@
 * [VERY IMPORTANT]
 
 <img width="1427" height="918" alt="image" src="https://github.com/user-attachments/assets/088d95a4-ce60-4ba4-ba74-0d1535199e0f" />
+<img width="1400" height="802" alt="image" src="https://github.com/user-attachments/assets/c19fc654-ad64-44f8-b11d-05064fde763f" />
+<img width="1419" height="800" alt="image" src="https://github.com/user-attachments/assets/2428906d-c40c-4042-910f-b51faf65d277" />
+<img width="1435" height="840" alt="image" src="https://github.com/user-attachments/assets/c073e2c2-3b61-43ff-a540-ecbd3c794826" />
 
+* 3yrs -> 21600.
+* 1yr->21600/3-> 7200.
+* 7200-4800->2400.
+* 10-6->4%.
+* 4%->2400
+* 1%->600
+* 100%->60000. [Answer]
+* This method is **better**. [FORMULA] [VERY IMPORTANT]
 
+<img width="1416" height="820" alt="image" src="https://github.com/user-attachments/assets/e0471e17-289c-48db-b7df-4abd6f2273c4" />
+<img width="1426" height="818" alt="image" src="https://github.com/user-attachments/assets/3605d9f1-c8fa-46f2-a539-9008c6ca6fa6" />
+<img width="1445" height="919" alt="image" src="https://github.com/user-attachments/assets/a0fb316b-0872-4b28-80ac-a798f84673c5" />
+<img width="1402" height="809" alt="image" src="https://github.com/user-attachments/assets/bb80f3ee-8273-41c4-9eb2-e099ec463414" />
 
+* Principle intially(P) -> 1.
+* Amount(A) -> I + P -> 6 + 1 -> 7.
 
+<img width="1418" height="824" alt="image" src="https://github.com/user-attachments/assets/f86cbbd3-9c76-452d-90ef-29a92bb895c8" />
+<img width="1440" height="826" alt="image" src="https://github.com/user-attachments/assets/e2e71064-476b-4ade-92c2-6cbc1fda7d09" />
+<img width="1409" height="790" alt="image" src="https://github.com/user-attachments/assets/b0251fc7-18cd-4cff-8a63-acb7098c546d" />
+
+* 5u-2u->3u.
+
+<img width="1424" height="811" alt="image" src="https://github.com/user-attachments/assets/134aabeb-7523-42e2-88e3-1f534b88b4a6" />
+
+* Interest is double.
+* I -> 200%.
+
+<img width="1409" height="801" alt="image" src="https://github.com/user-attachments/assets/4fad94ac-73b9-40e9-b0ae-0d983b115443" />
+
+* R->25:10->5:2
+* SI->5:2.[Because of 'R' is 5:2]
+* P->A-SI->3u-2u->1u
+* P->SI
+* 1->2 => It is double->200%.
+* 200/10->20yrs.[Answer]
+
+<img width="1410" height="824" alt="image" src="https://github.com/user-attachments/assets/90974c6d-cf66-4a59-8a5f-cfe9c84d4036" />
+
+* [VERY IMPORTANT]
+
+<img width="1427" height="794" alt="image" src="https://github.com/user-attachments/assets/baa56cf7-2f19-4541-8877-ec9145499b0a" />
+
+* SI depends on **P, R, T**. **R & T** are **same**. So SI will depend on **p** only. [FORMULA] [VERY IMPORTANT]
+
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/2a958350-4a94-40f6-898b-16c61b6d4815" />
+<img width="1401" height="800" alt="image" src="https://github.com/user-attachments/assets/b6928665-209d-40a0-bc42-82e7ab4c399c" />
+
+* 7u->2646.
+* 1u->2646/7.
+* 8u->2646/7 * 8.
+* [VERY IMPORTANT]
+
+<img width="1421" height="791" alt="image" src="https://github.com/user-attachments/assets/fff4b3c8-3bf8-4bba-9429-05a41f1f5587" />
+
+* [VERY IMPORTANT]
+* principle->100%.
+* 1yr -> 10%
+* 8yrs ->80%.
+* 4yrs->40%.
+* A->100+80->180%.
+* B->100+40->140%.
+* Total->7+9->16.
+
+<img width="1434" height="811" alt="image" src="https://github.com/user-attachments/assets/6337667d-e129-4860-8345-c075f35f0df2" />
+<img width="1411" height="802" alt="image" src="https://github.com/user-attachments/assets/6368901e-290d-4633-9d58-8a2e51f67079" />
+
+* 14yr old ->4yrs of interest -> Less interest -> So the principle amount will be more.
+* 10yr old ->8yrs of interest -> More interest -> So the principle amount will be less.
+* 440000/2->220000.
+* 10yr old ->Principle should be less than 220000.
+* Only '1' option is **less than 220000** which is option **A**. So option **A** is the **answer**. [FORMULA] [VERY IMPORTANT]
+* If more close values are given then we have to **solve** the question like **method '1'** above.
+
+<img width="1436" height="922" alt="image" src="https://github.com/user-attachments/assets/f44b554b-a9c7-4a41-b6bc-14902f24ed85" />
+
+* Principle ->100%
+* 1yr->20%
+* 2.5yrs->50%.
+* 180-100-> 80.
+* Every year we are getting 20%.
+* 80/20->4yrs.[Answer]
+
+<img width="1398" height="798" alt="image" src="https://github.com/user-attachments/assets/5a7646b6-c315-45ae-9a43-09c1ca4fadce" />
+<img width="1437" height="917" alt="image" src="https://github.com/user-attachments/assets/14568186-d83f-41f7-9769-67a34d1dddc0" />
+<img width="1426" height="825" alt="image" src="https://github.com/user-attachments/assets/1a42ee42-0bbc-4e63-983f-789bbb1fca05" />
+
+* SI depends on **P, R, T**. **P** is **same**. [FORMULA] [VERY IMPORTANT]
+
+<img width="1406" height="814" alt="image" src="https://github.com/user-attachments/assets/4f4a619d-22ac-40c4-88fe-46c33f2aa71b" />
+<img width="1410" height="819" alt="image" src="https://github.com/user-attachments/assets/924c9734-5c35-41f6-98c0-e778e709d172" />
+
+* 19/5*1->19/5.
+* 5*2->10.
+* 5*10->50.
+* 19u->3325
+* 1u->3325/19.
+* 50u->3325/19*50.
+
+<img width="1405" height="797" alt="image" src="https://github.com/user-attachments/assets/e9559d03-894c-4aab-908f-b0aaa3808833" />
+
+* [VERY IMPORTANT]
+
+<img width="1416" height="812" alt="image" src="https://github.com/user-attachments/assets/d3e62eb3-048a-4dec-b032-7e91aac6073e" />
+
+ * Interest of B -> 6. [Assuming multiple of (Double)2 & (Triple)3]
+ * Interest of B -> 6 -> Double of C -> 6/2 -> 3.
+ * Interest of C -> 3.
+ * Interest of B -> 6 -> Triple of A -> 6/3 -> 2.
+ * Interest of A -> 2.
+
+<img width="1402" height="807" alt="image" src="https://github.com/user-attachments/assets/cf8d88dc-15df-4d26-8feb-90de11bc12f3" />
+
+ * Interest depends on 'P, R & T'. 'T' is same.
+ * Interest = P * R
+ * 2=A*4
+ * A=1/2
+ * 6=B*6
+ * B=1.
+ * 3=C*5
+ * A=3/5
+ * Multiplying the ratios with '10'.
+ * 5+10+6->21yrs.
+ * 21yrs->210000
+ * 1yr->10000
+ * A-C->5-6->1
+ * 1yr->10000. [Answer]
+
+<img width="1414" height="797" alt="image" src="https://github.com/user-attachments/assets/098394a1-1de6-47df-9f21-2b82cd316563" />
+
+* [VERY IMPORTANT]
+
+<img width="1406" height="784" alt="image" src="https://github.com/user-attachments/assets/e76986c5-7789-42cd-84a7-42f5db956392" />
+<img width="1424" height="793" alt="image" src="https://github.com/user-attachments/assets/89764f69-2322-416c-9cbf-4a9e504bc025" />
+
+* C/A-> 150%-> 150/100-> 3/2
+* C/B-> 240%->240/100-> 12/5.
+* Assume 'C' to be a number which is LCM of '3 & 12'.
+
+<img width="1412" height="808" alt="image" src="https://github.com/user-attachments/assets/f7648106-fc53-4aae-a29a-2def630034d8" />
+<img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/ffc52b11-0b96-49b3-acce-c46bcc3b5e3e" />
+
+* 320->3200
+* 3200/320->10times -> Multiple the nos by '10'.
+* A->800*10->8000.
+
+<img width="1417" height="800" alt="image" src="https://github.com/user-attachments/assets/bbd89878-4e60-427a-a8fb-94479de188aa" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="920" alt="image" src="https://github.com/user-attachments/assets/eadaeb09-2f3f-4958-9dc1-2327304edef4" />
+
+* I -> 12220.
+* P->10000
+* SI->12220-10000->2220.
+* 5% of 50000 -> 2500.
+* 4% of 50000 -> 2000.
+* Between 4% and 5% ->4.4%. [Answer]
+
+<img width="1399" height="785" alt="image" src="https://github.com/user-attachments/assets/7d88dbf6-ed40-4963-b630-128f914f1142" />
+
+* [VERY IMPORTANT]
+
+* A -> 2x. [Let]
+* C -> 50% of A -> 2x + x -> 3x.
+* 2x+3x->5x.
+* 32%x + 93%x-> 125%x
+
+<img width="1416" height="803" alt="image" src="https://github.com/user-attachments/assets/d6ef40c6-285e-4ec2-b874-1366c5e078f0" />
+<img width="1414" height="812" alt="image" src="https://github.com/user-attachments/assets/40a495c1-169e-4da5-8953-148526c440c8" />
 
 
 
@@ -1261,3 +1431,4 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
