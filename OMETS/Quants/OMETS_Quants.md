@@ -1569,13 +1569,99 @@
 
 * [FORMULA] [VERY IMPORTANT] 
 
+<img width="1428" height="816" alt="image" src="https://github.com/user-attachments/assets/f57b7511-acc5-4594-b51d-980b4faf6334" />
 
+* Diff between 1st and 2nd yr of CI -> x + 6% of x - x -> 6% of x
+* 6% of x -> 90.
+* x-> 90*100/60->1500.
+* SI -> 1500.
+* SI -> P * R * T -> P * 6/100 * 1.
+* 1500->6P/100
+* P->25000
 
+<img width="1407" height="802" alt="image" src="https://github.com/user-attachments/assets/221f6c02-6141-4d29-9a4c-b3e125879e0a" />
 
+* [VERY IMPORTANT] 
 
+<img width="1390" height="801" alt="image" src="https://github.com/user-attachments/assets/d1d384a1-eb41-40a8-9191-f9a8887e6c20" />
 
+* Can be solved without the formula as well like above question.
+* 2yrs or 2 terms. [FORMULA] [VERY IMPORTANT] 
 
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/0cda3b34-0b8f-421d-bcee-ca2c989f3ce2" />
 
+* 3yrs or 3 terms. [FORMULA] [VERY IMPORTANT] 
+
+<img width="1409" height="790" alt="image" src="https://github.com/user-attachments/assets/9028800e-6f45-4767-ae81-8e0531f48eeb" />
+
+* [VERY IMPORTANT] 
+
+<img width="1424" height="825" alt="image" src="https://github.com/user-attachments/assets/b7002bb8-cc88-4dd9-858a-8a7f79b52ba5" />
+<img width="1395" height="799" alt="image" src="https://github.com/user-attachments/assets/a9d1d064-97ff-41c3-a804-3ac039174963" />
+
+* Another way without using formulas.
+* [VERY IMPORTANT] 
+
+<img width="1419" height="795" alt="image" src="https://github.com/user-attachments/assets/2a6b5b04-fac0-4fdd-9387-88c7087388d3" />
+
+* [VERY IMPORTANT] 
+
+<img width="1411" height="794" alt="image" src="https://github.com/user-attachments/assets/427ff0d7-70e8-4d72-a005-d639ad7fb0d1" />
+<img width="1418" height="814" alt="image" src="https://github.com/user-attachments/assets/630a8c98-1c6a-4225-b640-660b8d50deac" />
+
+* R->5% -> 1/20.
+* n-> 3yrs.
+* P -> (Whatever denominator we get from rate%(R%))^(time(n)) -> 20^3 -> 8000. [LET]
+* 5% of 8000 -> 400.
+* 5% of 8400 -> 420.[8000+400->8400]
+* 5% of 8820 -> 441.[8400+420->8820]
+* 400+420+441-> 1261
+* Gap->1261-1280->19.
+* When Gap is '19', 'P' is '8000'.
+* When Gap is '57', 'P' is '3 * 8000->24000'. [19*3->57]
+
+<img width="1421" height="807" alt="image" src="https://github.com/user-attachments/assets/3608a24b-6b92-488f-b091-709e73ef258a" />
+<img width="1421" height="827" alt="image" src="https://github.com/user-attachments/assets/6c6d25a3-d977-4a7d-a8bc-2f97d8b5c592" />
+
+* [VERY IMPORTANT] 
+
+<img width="1415" height="822" alt="image" src="https://github.com/user-attachments/assets/85faced2-ebf1-42e1-88ee-9c1491ff72d1" />
+
+* [FORMULA] [VERY IMPORTANT] 
+* 2nd yr interest -> 10% of P + 10% of 1st yr's interest -> 10% of 20000 + 10% of 2000 -> 2000 + 200 -> 2200.
+
+<img width="1428" height="817" alt="image" src="https://github.com/user-attachments/assets/adece29b-514e-42db-8398-ab5dc49dbd69" />
+
+* 12.5% -> 1/8.
+* 11.11% -> 1/9
+* 10% -> 1/10.
+* 2nd yr interest -> 11.11% of P + 11.1% of 1st yr's interest -> 11.11% of 36000 + 11.11% of 4500 -> 4000 + 500 -> 4500.
+
+<img width="1397" height="805" alt="image" src="https://github.com/user-attachments/assets/3fc60af9-cfe1-4809-a7eb-d50f5fe8002b" />
+
+* [FORMULA] [VERY IMPORTANT] 
+
+<img width="1405" height="802" alt="image" src="https://github.com/user-attachments/assets/b4e4e674-36a0-40df-909d-dbcbb67cfa54" />
+<img width="1405" height="802" alt="image" src="https://github.com/user-attachments/assets/5b41fb7f-2cdb-4ee0-9739-8433cb479a0f" />
+<img width="1403" height="814" alt="image" src="https://github.com/user-attachments/assets/9440f054-85a2-4e8c-88f5-b2fc9405d6f2" />
+<img width="1433" height="807" alt="image" src="https://github.com/user-attachments/assets/72d4d090-eb3b-4a64-8f6d-47444eda19a6" />
+
+* Using **successive percentage change** formula. [FORMULA] [VERY IMPORTANT] 
+* 15.56-15.76->0.20%
+* 0.2% of P -> 0.2% of 50000 -> 100. [Answer]
+
+<img width="438" height="101" alt="image" src="https://github.com/user-attachments/assets/3d0f8ca9-573b-4cb4-aeab-73b308ea41be" />
+<img width="1406" height="802" alt="image" src="https://github.com/user-attachments/assets/d81d121c-a470-46fa-8593-4e888cc7e366" />
+
+* Without using a **formula**. [VERY IMPORTANT] 
+* n -> 3
+* 15/3 -> 5% -> 1/20 increase -> 1+1/20-> 21/20.
+* n->2.
+* 15/2 -> 7.5% -> 75/1000 -> 3/40 increase -> 1+3/40-> 43/40.
+
+<img width="751" height="603" alt="image" src="https://github.com/user-attachments/assets/f309624f-7db0-4ee9-b270-068d48370fd0" />
+
+#### Installments & CI (2) [9]
 
 
 
@@ -1687,6 +1773,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
