@@ -1664,9 +1664,65 @@
 
 ### Installments & CI (2) [9]
 
+<img width="1436" height="917" alt="image" src="https://github.com/user-attachments/assets/27ed7230-8fb0-42ab-8971-e19a4ecb7692" />
+
+* CI for 10% for 2yrs -> Successive percentage change
+* 46.41-40->6.41%.
+
+<img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/43095a42-4f70-4540-bae7-ecba0bf78241" />
+<img width="1400" height="824" alt="image" src="https://github.com/user-attachments/assets/4dabee90-3618-452f-9981-51a886f08386" />
+
+* [VERY IMPORTANT] 
+
+<img width="1416" height="810" alt="image" src="https://github.com/user-attachments/assets/b2c12803-62ca-4081-a4d5-9218735e5000" />
+<img width="655" height="183" alt="image" src="https://github.com/user-attachments/assets/96a85fef-7d2c-46e2-ac4c-e5f379c02160" />
 
 
+* Combined interest generated in First 3yrs(04-07) -> 10000.
+* Combined interest generated in 6yrs -> 25000.
+* Combined interest generated in the next 3yrs(07-10) -> 25000-10000->15000.
+* 15000-10000->5000 increase in 3yrs.
+* 5000/10000*100-> 50% increase -> So the principle(P) also increased by 50%.
 
+<img width="1435" height="833" alt="image" src="https://github.com/user-attachments/assets/113621a0-d042-4f38-ade5-31f008c49b84" />
+<img width="1413" height="823" alt="image" src="https://github.com/user-attachments/assets/63d556c1-3337-4e6d-b319-35e8ae48ee27" />
+
+* 50% of P -> 10000
+* P->20000. [Answer] 
+* [VERY IMPORTANT] 
+
+<img width="1420" height="812" alt="image" src="https://github.com/user-attachments/assets/20e58dec-507a-4254-bb50-c26b91063093" />
+<img width="191" height="82" alt="image" src="https://github.com/user-attachments/assets/c7fd7553-3bfc-4b84-ac14-987aab2ba059" />
+
+* Rule of 72 -> Gives you an idea in how much time the sum of money is **doubled**. [FORMULA] [VERY IMPORTANT]
+* 72/(Rate of interest given in question) -> 72/18 -> ~4. [Approx '4', we are not sure if it is more or less than '4']
+* We get an approximation and from there we start solving to get the **correct answer**.
+
+<img width="1414" height="840" alt="image" src="https://github.com/user-attachments/assets/bb84e1da-c566-446b-a266-59f009a7a3e0" />
+<img width="1432" height="817" alt="image" src="https://github.com/user-attachments/assets/f628671a-4743-4e00-ae1c-8d41d4a5beb2" />
+
+* 4yrs -> ~93.7%
+* For 100% -> Greater than 4yrs -> 5yrs. [Answer] [VERY IMPORTANT]
+
+<img width="1415" height="812" alt="image" src="https://github.com/user-attachments/assets/a7806835-fe10-4e30-bed1-236cdfabac9e" />
+
+* P -> 4*3-> 64. [Let][4^3 to make the calculation easy]
+* 25% of 64->16.
+* 25% of 64 + 25% of 16->16+4->20.
+* 25% of 64 + 25% of 16 + 25% of 20 ->16+4+5->25.
+* 61-48->13.
+
+<img width="1410" height="801" alt="image" src="https://github.com/user-attachments/assets/cabb3056-9850-4083-b725-3e6b9669538f" />
+<img width="1398" height="792" alt="image" src="https://github.com/user-attachments/assets/5d1bbaad-7b2c-42d3-9d18-2c7dc2786686" />
+
+* [VERY IMPORTANT]
+* A->P * (1+r/100)^n
+* K-> (1+r/100)
+* n -> 2 & 3. [Years]
+* K->6/5->120%.
+* 120-100->20%.
+
+<img width="1401" height="792" alt="image" src="https://github.com/user-attachments/assets/45dfa156-9905-4ce8-820e-49b41e983980" />
 
 
 
@@ -1772,6 +1828,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
