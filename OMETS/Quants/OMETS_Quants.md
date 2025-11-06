@@ -1660,26 +1660,25 @@
 * 15/2 -> 7.5% -> 75/1000 -> 3/40 increase -> 1+3/40-> 43/40.
 
 <img width="751" height="603" alt="image" src="https://github.com/user-attachments/assets/f309624f-7db0-4ee9-b270-068d48370fd0" />
-
-#### Installments & CI (2) [9]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5b38ca26-f78a-4120-a215-a6660b669465" />
 
-* [VERY IMPORTANT]
+### Installments & CI (2) [9]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1773,6 +1772,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
