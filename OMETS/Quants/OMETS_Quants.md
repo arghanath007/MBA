@@ -1412,9 +1412,186 @@
 * 20% of 17280 -> 3456
 
 <img width="1404" height="803" alt="image" src="https://github.com/user-attachments/assets/adf254bb-468c-424e-922f-409a7b169df0" />
-<img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5b38ca26-f78a-4120-a215-a6660b669465" />
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/4653c3b0-1c28-44a0-acf1-09e81e68a590" />
+
+* X+8-x->8.
+* x+17-x-8->9.
+* 9-8->1.
+* 1/8->12.5% PA.
+* [VERY IMPORTANT]
+
+<img width="764" height="483" alt="image" src="https://github.com/user-attachments/assets/676ad425-2cdf-4159-8956-aed0148be79e" />
+
+* P -> 10000. [Initially]
+
 <img width="1424" height="804" alt="image" src="https://github.com/user-attachments/assets/d895d106-d721-4e33-995b-89cb6320ece9" />
+<img width="680" height="211" alt="image" src="https://github.com/user-attachments/assets/74c4b00b-8673-4095-99f0-cfe895278d57" />
+<img width="669" height="188" alt="image" src="https://github.com/user-attachments/assets/aebc0300-e81a-42b4-afe9-5e615ba823a2" />
+
+* K -> 1.2 [Ratio]
+* 1.2->120% from the previous year.
+* 120-100->20%.
+* R-> 20% PA.
+
+<img width="1409" height="821" alt="image" src="https://github.com/user-attachments/assets/44b8685c-ad09-402d-9cc6-3912ecb42775" />
 <img width="1418" height="785" alt="image" src="https://github.com/user-attachments/assets/ddd5caf8-56a8-4f9e-9064-212ea531a17a" />
+<img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/d154431c-b6be-4d7b-a393-358cc0131656" />
+
+* Diff->5600-5000->600.
+
+<img width="650" height="178" alt="image" src="https://github.com/user-attachments/assets/c172229d-52a7-45b1-bf86-1178efa2fe0f" />
+
+* R->600/5000*100-> 12. [Answer]  [VERY IMPORTANT]
+
+<img width="1402" height="804" alt="image" src="https://github.com/user-attachments/assets/bbca8477-851b-466c-8f14-a3adb1279d75" />
+
+* 25% increase -> 1/4 -> increase -> 1 + 1/4 -> 5/4.
+* 14-11->3yrs. [VERY IMPORTANT]
+
+<img width="1421" height="823" alt="image" src="https://github.com/user-attachments/assets/b248658a-f21b-4e3c-9c44-7b14b6a89b00" />
+
+* 20% increase -> 1/5 -> increase -> 1 + 1/5 -> 6/5.
+* We are going from 7th yr to 6th yr -> Going one year ago/back -> Inverse of 6/5 -> 5/6. [FORMULA] [VERY IMPORTANT]
+* 24000 * 5/6 -> 20000. [Answer] [VERY IMPORTANT]
+
+<img width="1430" height="832" alt="image" src="https://github.com/user-attachments/assets/b30768cf-6219-4c76-92ec-b2341c39a79b" />
+<img width="1418" height="801" alt="image" src="https://github.com/user-attachments/assets/032c1210-0c57-48ca-9778-279b036a29b5" />
+
+* K^2=49/25.
+* K->7/5->140%.
+* 140-100->40%
+* R->40%. [Answer] [VERY IMPORTANT]
+
+<img width="1421" height="810" alt="image" src="https://github.com/user-attachments/assets/b00e95b8-2973-49ad-b927-62f96b2be551" />
+<img width="1402" height="797" alt="image" src="https://github.com/user-attachments/assets/a786d835-deaa-4e53-9e01-7b6c98915cd2" />
+<img width="1422" height="811" alt="image" src="https://github.com/user-attachments/assets/770c1fb6-e5b8-4ca4-939e-21a1a97f2868" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1415" height="789" alt="image" src="https://github.com/user-attachments/assets/02d17127-d607-434f-984b-7f2d0109f2ea" />
+
+* Semi-Annually:- [FORMULA] [VERY IMPORTANT]
+* R -> 20/2 -> 10% semi anually.
+* T -> 2 * 2 -> 4yrs.
+
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/900e41a8-83ce-4626-99bc-758e74960c91" />
+<img width="1401" height="799" alt="image" src="https://github.com/user-attachments/assets/4a0890b4-82b9-4790-8a26-1758575c6d14" />
+<img width="1419" height="805" alt="image" src="https://github.com/user-attachments/assets/abadd627-017e-4fde-b0a8-bf6e6595e767" />
+<img width="650" height="872" alt="image" src="https://github.com/user-attachments/assets/a3c3fd66-402e-4214-8b6c-022e675bddbe" />
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/225dc473-ebbc-4f7b-9ac1-8da52809dc60" />
+<img width="1441" height="843" alt="image" src="https://github.com/user-attachments/assets/dcae1648-1d36-4ca7-a4d7-7d5323ec10de" />
+<img width="1409" height="793" alt="image" src="https://github.com/user-attachments/assets/03e2d6e4-22e7-4124-b238-4744c9be460d" />
+
+* [VERY IMPORTANT]
+
+<img width="1416" height="805" alt="image" src="https://github.com/user-attachments/assets/1c086385-03ce-46f0-9019-c9c1ad6c0411" />
+<img width="1429" height="808" alt="image" src="https://github.com/user-attachments/assets/d4c682d2-11be-44d0-944e-92e1423e1f6d" />
+<img width="592" height="230" alt="image" src="https://github.com/user-attachments/assets/f91c65c8-e1ba-4f78-8919-9c50dee63724" />
+
+* [VERY IMPORTANT]
+
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/ddae76c5-15bb-4051-81fb-087bf3a66ba9" />
+
+* [VERY IMPORTANT]
+
+<img width="1406" height="801" alt="image" src="https://github.com/user-attachments/assets/a484808e-2798-486e-8310-3048fb3ae31a" />
+
+* [VERY IMPORTANT]
+
+<img width="1416" height="798" alt="image" src="https://github.com/user-attachments/assets/8455663b-1a98-4cc8-b8c4-9ee7acf84940" />
+
+* 1->5yrs.
+* 3->3*5->15yrs.
+
+<img width="1429" height="841" alt="image" src="https://github.com/user-attachments/assets/e7b3e928-b567-433e-8942-901f2294dec2" />
+<img width="1414" height="821" alt="image" src="https://github.com/user-attachments/assets/1cb152f0-0372-479d-a056-1bab2d81dff1" />
+<img width="1411" height="819" alt="image" src="https://github.com/user-attachments/assets/44421d6c-8f95-42f4-98f9-260cc9f2a3c4" />
+<img width="1417" height="809" alt="image" src="https://github.com/user-attachments/assets/e44742e7-8c3f-4148-83ff-13881b7a01e4" />
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/e4d60c9f-487c-4105-a04c-d0acead917cb" />
+<img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/5d88fb06-ec96-49df-9d45-3c6622d80be6" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/bc7bec02-af22-44a7-95ac-c44b041d36ce" />
+<img width="1436" height="908" alt="image" src="https://github.com/user-attachments/assets/a425b41e-6f59-4c16-9de7-baa340c9aebc" />
+<img width="1413" height="812" alt="image" src="https://github.com/user-attachments/assets/801ceb5d-6ad1-441c-86ed-9c8bd500b6a5" />
+<img width="712" height="899" alt="image" src="https://github.com/user-attachments/assets/75941ac8-3e8d-474a-8691-90c661607482" />
+
+* [Answer]
+
+<img width="1426" height="808" alt="image" src="https://github.com/user-attachments/assets/f09c3683-7290-4179-a890-e6e9e7daf416" />
+
+* As from 6yrs to 12yrs, 'P' value doubled from 1500 to 3000. So the value doubled from initial value(P) to 6yrs. [FORMULA] [VERY IMPORTANT]
+* 1500/2-> 750 -> Initial value of 'P'.
+* Double of 750->1500.
+
+<img width="1418" height="801" alt="image" src="https://github.com/user-attachments/assets/a923809a-9714-4fa2-ace1-1e34bc16f8fd" />
+<img width="1416" height="806" alt="image" src="https://github.com/user-attachments/assets/446ee544-f172-4ef5-920f-950254f1eff6" />
+<img width="1402" height="798" alt="image" src="https://github.com/user-attachments/assets/5f567037-47ab-4c30-b7fa-595c40811da7" />
+
+* K = P*(1+R/100)^n. [LET]
+* Putting the value of 'K' in equation '1'. [Another way] [FORMULA] [VERY IMPORTANT]
+
+<img width="225" height="279" alt="image" src="https://github.com/user-attachments/assets/218efafe-2c00-42db-8f59-10fc202e5fd9" />
+<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/51d4cac0-6b04-4241-aaca-e7523ae641ee" />
+<img width="1423" height="927" alt="image" src="https://github.com/user-attachments/assets/8e32b837-fbdb-4516-bbaa-9fada9dcceb4" />
+<img width="1436" height="833" alt="image" src="https://github.com/user-attachments/assets/e2137c1f-eb7b-488f-a9a6-b4f74575e70d" />
+
+* [VERY IMPORTANT]
+
+<img width="1443" height="929" alt="image" src="https://github.com/user-attachments/assets/fedc53aa-b498-477a-a491-6f1cc05535e5" />
+<img width="1415" height="800" alt="image" src="https://github.com/user-attachments/assets/6be6fd31-d530-4e3b-8d8a-81da5a62e6c5" />
+<img width="1434" height="1600" alt="image" src="https://github.com/user-attachments/assets/c4b51700-e889-45a1-9742-22b7196c9bc8" />
+
+* [Answer]
+
+<img width="1412" height="785" alt="image" src="https://github.com/user-attachments/assets/b8d027cb-e516-4d54-bd91-eb6ccb77050f" />
+
+* 20% -> 1/5 -> increase -> 1+1/5-> 6/5.
+* (6/5)^3 -> 216/125.
+* 125+216-> 341.
+
+<img width="1420" height="802" alt="image" src="https://github.com/user-attachments/assets/51acf0e9-7807-4b1b-b339-f6751cc5bee0" />
+<img width="1392" height="798" alt="image" src="https://github.com/user-attachments/assets/80ff6e32-e693-48d4-83fc-50ffd855b6c2" />
+
+* [VERY IMPORTANT]
+
+<img width="1409" height="801" alt="image" src="https://github.com/user-attachments/assets/7f2cb8b9-040c-418f-b977-4b5ff6623fb4" />
+
+* [FORMULA] [VERY IMPORTANT] 
+
+<img width="1410" height="795" alt="image" src="https://github.com/user-attachments/assets/5652f065-8819-44d2-921c-fefded561005" />
+
+* 1st year 'CI' is same as that of 'SI'. [FORMULA] [VERY IMPORTANT] 
+* 1st year 'CI' -> 450.
+* 954-450->504
+* 504-450->54.
+
+<img width="1397" height="790" alt="image" src="https://github.com/user-attachments/assets/2053b71f-e4cf-467f-95e5-91cd60aec6f0" />
+<img width="1407" height="796" alt="image" src="https://github.com/user-attachments/assets/651260fe-4377-4722-8d08-6119148c58f9" />
+
+* [FORMULA] [VERY IMPORTANT] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5b38ca26-f78a-4120-a215-a6660b669465" />
 
 * [VERY IMPORTANT]
 
@@ -1510,6 +1687,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
