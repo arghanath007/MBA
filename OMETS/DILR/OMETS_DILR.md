@@ -715,6 +715,59 @@
 * Sun rises in the **EAST**.
 * Sun falls in the **WEST**
 
+<img width="1426" height="806" alt="image" src="https://github.com/user-attachments/assets/9e3e3ee3-c295-49b1-b472-ed20a546c69b" />
+<img width="1409" height="796" alt="image" src="https://github.com/user-attachments/assets/783d3bad-abbd-4ee6-8c22-2802d4d5d495" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/5ceada51-962a-43a7-9a3b-e3a5c1b2c8ba" />
+<img width="1403" height="792" alt="image" src="https://github.com/user-attachments/assets/3ac676ad-05ec-43d6-90e9-ce3bec806100" />
+<img width="1418" height="826" alt="image" src="https://github.com/user-attachments/assets/0e23afd6-9ec0-41cb-9841-e89607654419" />
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/f4a875d9-ad0c-43a6-a0ad-b0c219b64397" />
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/60445086-d2fd-4fa9-ac8c-927af58afab9" />
+
+* [VERY IMPORTANT]
+
+<img width="1409" height="800" alt="image" src="https://github.com/user-attachments/assets/018c82c9-cf9e-48e6-95a9-a8c545d7db35" />
+
+* Vertical Distance -> 'Y' axis. [FORMULA] [VERY IMPORTANT] 
+* Vertical Distance -> BC + ED -> 19 + 9->28.
+
+<img width="1401" height="822" alt="image" src="https://github.com/user-attachments/assets/addfce45-3974-453d-8286-afd487e660c7" />
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/4e6a1fad-c633-438e-8628-ebf8226ce4aa" />
+
+* [VERY IMPORTANT]
+
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/676a6a5d-052f-4118-bf93-4ad7bcd93d95" />
+
+* Vertical Distance -> 'Y' axis.
+* Vertical Distance -> BC + DE -> 25 + 6->31.
+* [VERY IMPORTANT]
+
+<img width="1434" height="818" alt="image" src="https://github.com/user-attachments/assets/382d31cb-d8fc-484e-85f1-e0d51f3db1e0" />
+
+* [VERY IMPORTANT]
+
+<img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/f4906496-00ef-4339-96d9-57a46f044809" />
+<img width="214" height="91" alt="image" src="https://github.com/user-attachments/assets/aaa0fdc5-cc72-424f-a467-3590b73b0285" />
+
+* [VERY IMPORTANT]
+
+<img width="1431" height="804" alt="image" src="https://github.com/user-attachments/assets/3c01f7bf-d487-44dc-b7e1-f759eaab1af3" />
+<img width="175" height="76" alt="image" src="https://github.com/user-attachments/assets/92b0e78a-0e9c-470b-9f5c-e66155a6a41b" />
+
+* Phthogorian Triplet. [FORMULA] [VERY IMPORTANT]
+
+<img width="1429" height="820" alt="image" src="https://github.com/user-attachments/assets/4e2e1de1-b737-45a2-8c61-52a9e3ebe707" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/8be4e4c1-43ba-4302-9bd4-efd8c4b6aa07" />
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/8a73b9b1-941a-473b-9584-3984604d9ff2" />
+
+* [VERY IMPORTANT]
+* Properties of Rhombus and Parallelogram neeeded, sometimes they are asked in these types of **questions**. [FORMULA] [VERY IMPORTANT] 
+
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/e53cf1b1-5995-4fe3-8b53-c46e1db6f816" />
+
+### Directions (2) [8]
+
+
+
 
 
 
