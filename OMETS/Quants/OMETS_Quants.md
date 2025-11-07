@@ -1993,7 +1993,7 @@
 
 <img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/fc1f35d4-9167-472b-b48d-a8eaa26fe3c8" />
 
-### Ratio & Proportions (1) [11]
+### Ratio & Proportions (1) [10]
 
 
 
@@ -2117,6 +2117,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+<img width="1403" height="841" alt="image" src="https://github.com/user-attachments/assets/e1ce68dc-51be-4063-95af-356056257ef2" />
 
 
 
