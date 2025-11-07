@@ -1852,8 +1852,149 @@
 
 *  [VERY IMPORTANT] 
 
+<img width="634" height="827" alt="image" src="https://github.com/user-attachments/assets/28d649e9-73d0-4298-8a44-6c2b9ddd0316" />
 
-* 1hr 20mins.
+* 10% -> 1/10.
+* x/y->10/11.
+* We are purchasing the product for '2500'. We have given a down-payment(dp) of '1500' as well.
+
+<img width="1429" height="806" alt="image" src="https://github.com/user-attachments/assets/0ec4bb46-e3a5-4f5c-b4d2-a6f6fac6d82f" />
+
+* 5% -> 5/100 -> 1/20
+* x/y->20/21.
+* 6000+3200-> 9200.
+
+<img width="1419" height="821" alt="image" src="https://github.com/user-attachments/assets/e2a27b8d-892b-4e0a-84b6-0079a0db6121" />
+
+#### Installments on SI.
+
+<img width="1423" height="812" alt="image" src="https://github.com/user-attachments/assets/af6e0b95-5b2a-4d50-be04-e37f0cdf4a16" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1437" height="812" alt="image" src="https://github.com/user-attachments/assets/cc42aec7-312c-4ab4-b62a-cb5aca1d5e73" />
+<img width="1418" height="812" alt="image" src="https://github.com/user-attachments/assets/756e5c3b-a93a-4da8-a8f9-30c0e5bb92c9" />
+
+* [FORMULA]
+
+<img width="1433" height="801" alt="image" src="https://github.com/user-attachments/assets/87d3432a-7e16-43c1-bf71-4e9f7bc3461e" />
+
+* Installments -> I+I+I+I.
+* I + (PRT)/100
+* 3+2+1->6.
+* When calculating for a certain money in the **future**. [VERY IMPORTANT]
+
+<img width="1404" height="799" alt="image" src="https://github.com/user-attachments/assets/2d52895b-0529-45b7-b2db-d660d4fee0b6" />
+<img width="1438" height="800" alt="image" src="https://github.com/user-attachments/assets/f117d30f-9011-4d05-90f6-9caf84522f38" />
+
+* 5%*4yrs->20%.
+* 120%->6/5.
+
+<img width="1440" height="814" alt="image" src="https://github.com/user-attachments/assets/11c2b3a1-00a8-4980-a5b4-2b4ec5f57666" />
+<img width="1437" height="854" alt="image" src="https://github.com/user-attachments/assets/900a786f-25ed-46f6-83f4-2158ca816de9" />
+
+* When calculating for a certain money which is already taken(loan) in the **present**. [VERY IMPORTANT]
+
+<img width="1421" height="820" alt="image" src="https://github.com/user-attachments/assets/fa780890-6300-4570-9b19-f601967771c8" />
+
+* Installments -> 4.
+* '4' Installments means '400%'.
+* '4' Installments -> Back counting -> 3 + 2 + 1 -> 6.
+* 6 * 5%->30%.
+* 400%+30%->430%.
+
+<img width="1428" height="832" alt="image" src="https://github.com/user-attachments/assets/b6cdef52-c54f-478d-85a3-0db40409226e" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1423" height="790" alt="image" src="https://github.com/user-attachments/assets/24ae936b-5d0e-4c75-890c-97f739bada84" />
+<img width="1441" height="812" alt="image" src="https://github.com/user-attachments/assets/e5f30ceb-3a70-4cfa-83fb-42ce56c40d49" />
+<img width="1900" height="897" alt="image" src="https://github.com/user-attachments/assets/89966d89-2028-4362-a51b-7d325c3fc02e" />
+<img width="1421" height="812" alt="image" src="https://github.com/user-attachments/assets/32e8998e-9a36-44f6-81f2-2dd8474e9725" />
+
+* [Example] [FORMULA] [VERY IMPORTANT]
+
+<img width="1399" height="803" alt="image" src="https://github.com/user-attachments/assets/0e662088-625c-41fb-8d1f-e1e3d8802d36" />
+<img width="819" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fd9b7bf-8cf6-4aa5-84c2-7e34f067bc9d" />
+
+* Quaterly -> Every '3' months -> 4 installments.
+* n=4.
+* 16/4-> 4% per installment.
+* n=4 -> 3+2+1->6.
+* 6*4->24%.
+* n=4 ->400%.
+* 400+24->424%.
+
+<img width="1408" height="805" alt="image" src="https://github.com/user-attachments/assets/e165cda9-8f0d-4bfa-870b-aab84202e465" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="915" alt="image" src="https://github.com/user-attachments/assets/96b6499d-2846-4bd2-8c15-f25e4b4ed0d2" />
+<img width="1439" height="819" alt="image" src="https://github.com/user-attachments/assets/26c03d64-2bd0-4e07-8f95-a50e6fce520f" />
+<img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/58e047ba-88fb-475d-9b97-131006beddf7" />
+
+* [Answer]
+
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/f3741c34-0a1f-49b1-ab0a-66a9ccf3b1b6" />
+<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/d81f3b35-f924-4f94-a4a3-47933727c21f" />
+
+* P->18000-6000->12000.
+* 12000-2400->9600.
+* Everytime '2400' is reduced.
+
+<img width="1418" height="798" alt="image" src="https://github.com/user-attachments/assets/6eec9c8b-fe4e-44f1-aac1-26d93b21b973" />
+<img width="1398" height="797" alt="image" src="https://github.com/user-attachments/assets/0007680f-c38c-48e7-ae80-2e39717323c3" />
+
+* Combined Principle->36000.
+* Total Pay->20400.
+* SI->20400-18000->2400.
+
+<img width="1426" height="827" alt="image" src="https://github.com/user-attachments/assets/64ca3a81-7371-4489-880b-c42fd6cb3bbe" />
+
+* Combined Principle->36000 for '1' month.
+* Time period-> '1' month.
+* SI -> (PRT)/100
+* '1' month -> 1/12 PA.
+
+<img width="1407" height="800" alt="image" src="https://github.com/user-attachments/assets/4af1cfda-61fd-4a44-baf1-99f3f83377ea" />
+
+* [Example] [FORMULA] [VERY IMPORTANT]
+
+<img width="1416" height="821" alt="image" src="https://github.com/user-attachments/assets/be1723b3-e2a1-4bfb-aab7-69c9bbf757a9" />
+
+* GAP -> 18000-6000->12000.
+* '6' -> '6' months.
+
+<img width="1425" height="827" alt="image" src="https://github.com/user-attachments/assets/aa9e90dd-910b-4899-b946-37de408109b8" />
+
+* r-> Rate of interest per month(m).
+* '6' installments -> 600%
+* '6' installments -> 5+4+3+2+1->15.
+* 15*r%.
+
+<img width="1434" height="823" alt="image" src="https://github.com/user-attachments/assets/4bea7e41-9ff9-4a8b-acf9-8861b126318e" />
+<img width="1396" height="786" alt="image" src="https://github.com/user-attachments/assets/b619d13a-6708-4820-ac05-4dc402a8e0df" />
+
+* To convert the rate of interest per month to **yearly**, we have to multiply the rate of interest by '12'.
+* [Example] [FORMULA] [VERY IMPORTANT]
+* (12000 * r * 6)/100 => (PRT)/100
+
+<img width="1424" height="809" alt="image" src="https://github.com/user-attachments/assets/ef382268-979c-468b-aed0-78c14ad39db9" />
+<img width="1444" height="823" alt="image" src="https://github.com/user-attachments/assets/bc306274-204f-4494-90e3-fb1d7f793508" />
+
+* Approach '1'. [FORMULA] [VERY IMPORTANT]
+
+<img width="1439" height="832" alt="image" src="https://github.com/user-attachments/assets/0df516a9-a2fb-44c8-af4e-f1cdcaab06a3" />
+<img width="1407" height="806" alt="image" src="https://github.com/user-attachments/assets/bfe2eefc-5986-46b7-81db-3ff97a17626c" />
+<img width="1422" height="815" alt="image" src="https://github.com/user-attachments/assets/304fd20a-abfb-4a23-9a88-65016b14445f" />
+<img width="637" height="227" alt="image" src="https://github.com/user-attachments/assets/165f6b16-de6f-4d75-898f-14714db661a6" />
+
+* Approach '2'. [FORMULA] [VERY IMPORTANT]
+
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/fc1f35d4-9167-472b-b48d-a8eaa26fe3c8" />
+
+### Ratio & Proportions (1) [11]
+
 
 
 
@@ -1976,6 +2117,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
