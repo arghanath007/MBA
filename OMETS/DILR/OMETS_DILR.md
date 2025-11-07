@@ -690,10 +690,30 @@
 
 ### Directions (1) [7]
 
+* Maximum 1-2 questions come from **directions**. [FORMULA] [IMPORTANT]
 
+<img width="1410" height="813" alt="image" src="https://github.com/user-attachments/assets/3a099cbe-b030-41c4-8073-0226775033c0" />
+<img width="1407" height="803" alt="image" src="https://github.com/user-attachments/assets/15999460-068f-4dd1-93ec-ede3b92dffc6" />
+<img width="1409" height="806" alt="image" src="https://github.com/user-attachments/assets/ac4b4594-5101-477d-8770-0bac3024cff3" />
 
+* Person facing the North:- [FORMULA] [IMPORTANT]
+* Right side -> EAST.
+* Left Side -> WEST.
+* Person facing the South:- [FORMULA] [IMPORTANT]
+* Right side -> West.
+* Left Side -> EAST.
+* Person facing the EAST:- [FORMULA] [IMPORTANT]
+* Right side -> South.
+* Left Side -> North.
+* Person facing the West:- [FORMULA] [IMPORTANT]
+* Right side -> North.
+* Left Side -> South.
 
+<img width="1407" height="804" alt="image" src="https://github.com/user-attachments/assets/0d27b910-5616-42cf-b894-9f1cfdd13560" />
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/ae449115-69b8-47c1-9543-31e1056752bf" />
 
+* Sun rises in the **EAST**.
+* Sun falls in the **WEST**
 
 
 
