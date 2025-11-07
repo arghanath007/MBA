@@ -1,4 +1,4 @@
-# OMET Quants
+<img width="1403" height="841" alt="image" src="https://github.com/user-attachments/assets/e1ce68dc-51be-4063-95af-356056257ef2" /># OMET Quants
 
 # IMPORTANT INFO
 
@@ -1723,6 +1723,137 @@
 * 120-100->20%.
 
 <img width="1401" height="792" alt="image" src="https://github.com/user-attachments/assets/45dfa156-9905-4ce8-820e-49b41e983980" />
+<img width="1421" height="818" alt="image" src="https://github.com/user-attachments/assets/8ee11b92-3e19-4027-b2f9-b7ab5bbae44f" />
+<img width="1423" height="801" alt="image" src="https://github.com/user-attachments/assets/47850e9a-aa09-49e5-ba61-87f52c5d9d18" />
+
+* 440 : 728.
+* 91-55-> 36 -> 3rd yr.
+* 2nd yr -> Slightly less than 1/3 of total -> 1/3 of 91 -> 30.33 -> ~30.
+* 36-30->6.
+* 6/30*100-> 20%.
+* [VERY IMPORTANT]
+
+<img width="1429" height="919" alt="image" src="https://github.com/user-attachments/assets/d5837266-59aa-48f5-a240-f22e58154574" />
+<img width="1433" height="809" alt="image" src="https://github.com/user-attachments/assets/04ac66ee-70f7-4817-92d9-0bb5e413ed57" />
+
+* 3rd yr-> 217-136->81.
+* 2nd yr-> 1/3 of 217 -> 72.33 -> ~72.
+* 81-72->9.
+* 9/72 * 100 -> 100/8->25/2->12.5%. [C] [Answer]
+
+<img width="1433" height="800" alt="image" src="https://github.com/user-attachments/assets/d6297fa1-1c78-41bc-9566-fb5598a62822" />
+<img width="1442" height="834" alt="image" src="https://github.com/user-attachments/assets/ca2d77a3-17f2-4e28-9c75-564dddebe020" />
+
+* 1st yr-> 217-72-81-> 64.
+* 72-64->8
+* 8/64*100 -> 100/8->25/2->12.5%. [C] [Answer]
+* Crossing checking with 1st year value as well so that we ge the correct answer.
+* [VERY IMPORTANT]
+
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/118a4dbf-93d4-46b3-8154-3b9d9d0a45e3" />
+<img width="1432" height="835" alt="image" src="https://github.com/user-attachments/assets/53fba63b-044c-48da-9fa6-7626607f827d" />
+
+* Why we are doing '1/3' of the **total**.
+
+<img width="1392" height="801" alt="image" src="https://github.com/user-attachments/assets/97cdd179-9735-4e04-952c-0b79e32a44d7" />
+
+* K = R/100. [LET]
+* [VERY IMPORTANT]
+
+#### Installments on CI
+
+<img width="1413" height="780" alt="image" src="https://github.com/user-attachments/assets/5613703c-3cef-4f53-bb05-53a1e6e87276" />
+<img width="1411" height="804" alt="image" src="https://github.com/user-attachments/assets/3ec44b48-9a06-4f30-a5fe-2dc1bd8cb7b7" />
+
+* 20%-> 120%-> 6/5.
+* 20% increase in 1yr -> multiply by 6/5.
+* 20% increase 1yr ago/back -> multiply by 5/6. [Reciprocal of 6/5] [FORMULA] [VERY IMPORTANT]
+
+<img width="1408" height="820" alt="image" src="https://github.com/user-attachments/assets/c5717b69-9b32-4bbf-9daf-13ce49da4712" />
+<img width="1403" height="841" alt="image" src="https://github.com/user-attachments/assets/b8578aea-d69a-4de7-b7e7-918010609773" />
+<img width="1432" height="838" alt="image" src="https://github.com/user-attachments/assets/f777e032-a2fc-4bae-bb97-56f2d22b71a4" />
+<img width="1438" height="787" alt="image" src="https://github.com/user-attachments/assets/e4a58b3f-62ba-429d-bf0a-8ecc6385a9ac" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1408" height="816" alt="image" src="https://github.com/user-attachments/assets/6f289a15-3d82-4771-98b5-5a83afffd3e7" />
+
+* K = 100/(100+R).
+
+<img width="1419" height="811" alt="image" src="https://github.com/user-attachments/assets/628ea3fc-2363-46e5-9bbe-1392911487ff" />
+<img width="1403" height="804" alt="image" src="https://github.com/user-attachments/assets/13203393-d216-4a02-9dcc-21cc939b95f1" />
+<img width="881" height="778" alt="image" src="https://github.com/user-attachments/assets/a80cf1c1-b1c3-4a74-9219-4949ab954a5b" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1437" height="813" alt="image" src="https://github.com/user-attachments/assets/69211c7b-3299-4e8e-a9e0-4b8614ab1281" />
+
+* 15%->3/20.
+* x-> Denominator.
+* y-> Sum of Denominator + Numerator. [FORMULA] [VERY IMPORTANT]
+
+<img width="1432" height="836" alt="image" src="https://github.com/user-attachments/assets/ede76aae-e9b6-4a8e-a8b8-1878ae6a4b08" />
+
+* 15%=x/y
+* 100/(100+15)=x/y
+* 100/115=x/y.
+* 20/23=x/y
+* x=20, y=23.
+  
+<img width="740" height="461" alt="image" src="https://github.com/user-attachments/assets/ce134fe0-4ceb-49f1-83cf-c819d3f82fa4" />
+
+* 2 installments. [FORMULA] [VERY IMPORTANT]
+
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/98cc2e05-40a2-42db-a38a-62730e9499df" />
+
+* 3 installments. [FORMULA] [VERY IMPORTANT]
+
+<img width="1424" height="833" alt="image" src="https://github.com/user-attachments/assets/39edaeec-1092-4dfb-bd55-7aa863182af3" />
+
+* Reciprocal calculations. [FORMULA] [VERY IMPORTANT]
+* 'Y' will always be greater than 'X'.
+
+<img width="1424" height="814" alt="image" src="https://github.com/user-attachments/assets/30ea11c1-3bb7-4e38-a446-eb31ef39d752" />
+<img width="1417" height="810" alt="image" src="https://github.com/user-attachments/assets/a31e3bae-675d-4536-8c7b-f9f4b2acfe65" />
+<img width="1405" height="818" alt="image" src="https://github.com/user-attachments/assets/41054c16-1d15-421f-a9b3-936e07c09a80" />
+
+* [Example]
+
+<img width="1433" height="799" alt="image" src="https://github.com/user-attachments/assets/e111996a-c11a-4230-9188-0c95272ea3e2" />
+
+* Reciprocal calculations. [FORMULA] [VERY IMPORTANT]
+
+<img width="1463" height="819" alt="image" src="https://github.com/user-attachments/assets/103f4e5b-179d-4deb-9129-ef5960b14eb6" />
+
+*  [FORMULA] [VERY IMPORTANT]
+
+<img width="1428" height="802" alt="image" src="https://github.com/user-attachments/assets/e1c75d53-ea61-49e3-a64f-2ed259ebd19a" />
+<img width="1436" height="793" alt="image" src="https://github.com/user-attachments/assets/500bba3e-3d7c-4d66-ba09-4d3c9d3289e2" />
+
+* For '2' installments. 
+
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/33d434bc-e77d-492b-8466-e9b5ac13d740" />
+<img width="1409" height="792" alt="image" src="https://github.com/user-attachments/assets/426b9922-e27a-478a-b835-32361058d732" />
+<img width="1436" height="817" alt="image" src="https://github.com/user-attachments/assets/94c78450-963c-4866-9ea2-87c05b98bc57" />
+<img width="1415" height="816" alt="image" src="https://github.com/user-attachments/assets/8110435f-3e66-40ff-bb42-99642b73dd2e" />
+
+* 30% -> 3/10
+* x/y-> 10/(10+3) -> 10/13. [VERY IMPORTANT]
+
+<img width="1438" height="814" alt="image" src="https://github.com/user-attachments/assets/558f0f61-4052-4521-8c99-3c70f0312d68" />
+
+* Since '4' installments are done. [VERY IMPORTANT]
+* 20% -> 1/5
+* x/y-> 5/(1+5) -> 5/6.
+
+<img width="1438" height="920" alt="image" src="https://github.com/user-attachments/assets/4507d612-ea71-46b8-978f-ca00da434870" />
+<img width="1416" height="803" alt="image" src="https://github.com/user-attachments/assets/f77a3b5b-d6a8-4a3c-8751-d905619bf020" />
+<img width="1426" height="844" alt="image" src="https://github.com/user-attachments/assets/f5411042-817e-412d-bc74-f9af934a91de" />
+
+*  [VERY IMPORTANT] 
+
+
+* 1hr 20mins.
 
 
 
@@ -1735,6 +1866,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -1828,6 +1976,7 @@
 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
+
 
 
 
