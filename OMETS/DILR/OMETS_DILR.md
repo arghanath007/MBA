@@ -763,19 +763,83 @@
 * Properties of Rhombus and Parallelogram neeeded, sometimes they are asked in these types of **questions**. [FORMULA] [VERY IMPORTANT] 
 
 <img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/e53cf1b1-5995-4fe3-8b53-c46e1db6f816" />
+<img width="1395" height="1600" alt="image" src="https://github.com/user-attachments/assets/6defadf6-6d18-4109-b38e-976d38551f4c" />
+<img width="1600" height="1194" alt="image" src="https://github.com/user-attachments/assets/b57cdfa5-4637-44f1-b5eb-3cc0356eea7f" />
+<img width="1024" height="582" alt="image" src="https://github.com/user-attachments/assets/399bb007-ed48-43a4-8d1b-ff001a224cae" />
+
+* [Answer]
 
 ### Directions (2) [8]
 
+<img width="1435" height="914" alt="image" src="https://github.com/user-attachments/assets/a4f8769b-1cfe-4cfe-bf65-5ed006e6f69a" />
+<img width="159" height="81" alt="image" src="https://github.com/user-attachments/assets/2e63cc24-0f84-4d30-a64b-1180a80a76e0" />
+<img width="1406" height="803" alt="image" src="https://github.com/user-attachments/assets/30992e0e-380d-4977-905d-77ddd1643b9b" />
+
+* Speed of both of them is the **same**. They will meet half way to their home.
+* [VERY IMPORTANT]
+
+<img width="1417" height="820" alt="image" src="https://github.com/user-attachments/assets/11f3d1c4-a3f4-41e6-ae99-c7686ef69707" />
+<img width="1431" height="810" alt="image" src="https://github.com/user-attachments/assets/ff8860b4-954d-4ea3-8c7f-71207c0b3c5a" />
+<img width="199" height="80" alt="image" src="https://github.com/user-attachments/assets/4ce5fcfb-6d71-4ec7-b380-4e4e502e5439" />
+<img width="1412" height="794" alt="image" src="https://github.com/user-attachments/assets/36c5ca58-6f49-44dd-b819-63012cd7af53" />
+<img width="1408" height="802" alt="image" src="https://github.com/user-attachments/assets/b1121282-2198-4247-a313-0ae0c10a6751" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="905" alt="image" src="https://github.com/user-attachments/assets/76b82ac5-80c3-4d23-9957-7cc3e5d98033" />
+<img width="1403" height="794" alt="image" src="https://github.com/user-attachments/assets/9ae99f8c-3b69-498f-98ff-04c80207ab44" />
+<img width="1425" height="923" alt="image" src="https://github.com/user-attachments/assets/50024caa-ba1f-49c7-9e4f-a86d2c5459f3" />
+<img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/5b24fa3a-985d-49d8-b6f0-b5c373af576d" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="913" alt="image" src="https://github.com/user-attachments/assets/aa2af042-55b6-455c-a468-14c1808a71f7" />
+<img width="1419" height="801" alt="image" src="https://github.com/user-attachments/assets/cc2296af-d953-4354-a1a7-7f17b7d9f2c5" />
+<img width="1430" height="927" alt="image" src="https://github.com/user-attachments/assets/f8377232-d4b4-42be-8118-b51d16716e2f" />
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/f1c10515-4c0f-456a-adbe-4cb186b221fc" />
+<img width="1430" height="812" alt="image" src="https://github.com/user-attachments/assets/fd08f7cf-8b59-46be-bbab-be912b1d4818" />
+
+* [VERY IMPORTANT]
+
+<img width="1428" height="817" alt="image" src="https://github.com/user-attachments/assets/e33c170a-869b-430b-bac2-2a8657573fac" />
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/51d2cd37-3eec-4bba-8da2-2bac8f7a5b40" />
+<img width="1433" height="809" alt="image" src="https://github.com/user-attachments/assets/29136cd9-11bf-459c-84df-89b38dbbbbf5" />
+
+* [VERY IMPORTANT]
+
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/32455730-8d68-408f-a074-59f77d2d859e" />
+<img width="1440" height="927" alt="image" src="https://github.com/user-attachments/assets/8beb3e59-ae1e-4f31-be25-8b52cb1fb1b1" />
+
+* Initial direction is **unknown**. [FORMULA] [VERY IMPORTANT]
+
+<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/0f279df4-5b56-4aa2-824b-a89a8b8b29cc" />
+
+* We are stating from somewhere point 'A'. [LET]
+
+<img width="1429" height="818" alt="image" src="https://github.com/user-attachments/assets/c4151e43-06c5-4f4c-afe5-c4fae1034fe2" />
+<img width="1405" height="811" alt="image" src="https://github.com/user-attachments/assets/c6a0b9b4-f6d2-4067-ba54-dd2ade9fb6c4" />
+
+* D -> Pointing **South(S)** currently.
+
+<img width="233" height="75" alt="image" src="https://github.com/user-attachments/assets/d914fd7d-f8a3-491b-a461-51a75ce70ffe" />
+<img width="1424" height="815" alt="image" src="https://github.com/user-attachments/assets/6e47f82b-50ad-4326-a88d-ec1437672727" />
+
+* When going **North(N)** we got answer as **South(S)**. [FORMULA] [VERY IMPORTANT]
+* When going **East(E)** we got answer as **West(W)**. [FORMULA] [VERY IMPORTANT]
+<img width="1437" height="812" alt="image" src="https://github.com/user-attachments/assets/4aec76ba-8eb4-4395-a177-8513bb3e83c5" />
+<img width="1425" height="803" alt="image" src="https://github.com/user-attachments/assets/532a492a-5dba-4474-a5db-1a5d2dadf70d" />
+
+* Rotate the **diagram**.
+* D -> Pointing **West(W)** currently.  [VERY IMPORTANT]
+
+<img width="1436" height="910" alt="image" src="https://github.com/user-attachments/assets/04470ae9-413c-407b-8fb5-5ddb078d2b36" />
+<img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/35f5daaa-11f4-4eee-a1f7-477037d02200" />
+<img width="1430" height="814" alt="image" src="https://github.com/user-attachments/assets/be93516c-d51f-49b4-817b-98aa07d52e7c" />
+
+* Answer -> North-West. [D]
 
 
-
-
-
-
-
-
-
-
+1hr 4mins
 
 
 
