@@ -838,8 +838,45 @@
 
 * Answer -> North-West. [D]
 
+<img width="1434" height="823" alt="image" src="https://github.com/user-attachments/assets/a4b56f57-61d1-4a93-9c43-6a6ccc07eb2c" />
+<img width="239" height="89" alt="image" src="https://github.com/user-attachments/assets/cc2046dd-0cdc-4d07-9c06-d47cf3161ca5" />
 
-1hr 4mins
+* [VERY IMPORTANT]
+
+<img width="428" height="88" alt="image" src="https://github.com/user-attachments/assets/d2b4d09d-e36f-444d-a2d4-7c99aeea6b13" />
+
+* YES. [FORMULA]
+
+<img width="1432" height="806" alt="image" src="https://github.com/user-attachments/assets/f42adb4b-092d-4454-a8bc-af5a336e0147" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="917" alt="image" src="https://github.com/user-attachments/assets/e83ebd7e-fa5f-4f7b-b0cb-a0e7a6ed05bd" />
+<img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/c129bfee-cf17-4baa-9c2f-b81dd7b786ac" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="798" alt="image" src="https://github.com/user-attachments/assets/f0daef2e-a535-42c1-b56d-781c7037b0ff" />
+<img width="1407" height="807" alt="image" src="https://github.com/user-attachments/assets/7a63534a-2f2c-4566-b601-e81d3059af84" />
+<img width="1435" height="812" alt="image" src="https://github.com/user-attachments/assets/4f15ba75-b9cc-4363-a521-66d0d2e0de77" />
+<img width="1422" height="811" alt="image" src="https://github.com/user-attachments/assets/5dbc3b7a-b824-4d8d-b484-4f43a44f2dcc" />
+<img width="1438" height="829" alt="image" src="https://github.com/user-attachments/assets/7659a80d-40c6-4469-a40b-4a26c2310ca1" />
+
+* [VERY IMPORTANT]
+
+<img width="1433" height="815" alt="image" src="https://github.com/user-attachments/assets/b4dfbd6f-cf30-4ad2-893f-2f3b06cbfd72" />
+<img width="1411" height="799" alt="image" src="https://github.com/user-attachments/assets/c20622bc-84fb-4aa8-bc3b-5dbee1ba866f" />
+<img width="1431" height="831" alt="image" src="https://github.com/user-attachments/assets/2c01a36e-5035-4be6-8dc8-520bc9305dbb" />
+
+* [VERY IMPORTANT]
+
+<img width="1441" height="842" alt="image" src="https://github.com/user-attachments/assets/f65b8cd5-24ca-497e-a923-57137275e4d4" />
+
+* Answer -> 25 -> Option **E**. [VERY IMPORTANT]
+
+<img width="1426" height="806" alt="image" src="https://github.com/user-attachments/assets/d36feabc-da49-4797-86a6-ee07a3104454" />
+
+### Directions (3) [9]
 
 
 
