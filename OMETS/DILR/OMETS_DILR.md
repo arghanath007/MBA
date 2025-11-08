@@ -878,20 +878,143 @@
 
 ### Directions (3) [9]
 
+<img width="1407" height="800" alt="image" src="https://github.com/user-attachments/assets/d395922b-0bf2-43f6-9c5e-8d3dc8b32f3c" />
+<img width="1412" height="820" alt="image" src="https://github.com/user-attachments/assets/ac5c4da5-eeb2-4f9f-bec2-3a2a7246c5d0" />
+<img width="1391" height="788" alt="image" src="https://github.com/user-attachments/assets/b9d83cbe-3643-4656-aa90-749cbd5eb038" />
 
+* [VERY IMPORTANT]
 
+<img width="1425" height="911" alt="image" src="https://github.com/user-attachments/assets/ec6cb81e-a0f3-48b1-a860-cb439c959b60" />
+<img width="1404" height="802" alt="image" src="https://github.com/user-attachments/assets/493346dd-39f5-4cd9-9664-f1f446c8a864" />
 
+* We have to find the direction of the starting point from final point. [VERY IMPORTANT]
 
+<img width="1411" height="821" alt="image" src="https://github.com/user-attachments/assets/cd6705e2-b40c-400f-bcd8-8515f1142071" />
 
+* [VERY IMPORTANT]
 
+<img width="1428" height="912" alt="image" src="https://github.com/user-attachments/assets/74ed4ed6-242b-4246-97f3-f96d2238439b" />
+<img width="1407" height="799" alt="image" src="https://github.com/user-attachments/assets/ee1d1b19-c55a-4b71-90b6-f1a6e21636ea" />
+<img width="1392" height="792" alt="image" src="https://github.com/user-attachments/assets/4dcfddf9-282e-4af1-9e2f-27c2a91feb78" />
+<img width="1397" height="789" alt="image" src="https://github.com/user-attachments/assets/ea83a844-d44e-4964-83ad-585299c172a0" />
 
+* [VERY IMPORTANT]
 
+<img width="1438" height="909" alt="image" src="https://github.com/user-attachments/assets/a7bbc089-4a60-4cfd-8846-09397db1a5dc" />
+<img width="1403" height="817" alt="image" src="https://github.com/user-attachments/assets/6271ef76-3e51-43fb-84e4-86a937148809" />
+<img width="1413" height="913" alt="image" src="https://github.com/user-attachments/assets/d87fdca2-8fed-4d93-9cb2-919e9dd5580a" />
 
+* [VERY IMPORTANT]
 
+<img width="1428" height="810" alt="image" src="https://github.com/user-attachments/assets/679ff047-d31e-45d7-af49-52807628923f" />
 
+* [VERY IMPORTANT]
 
+<img width="1433" height="910" alt="image" src="https://github.com/user-attachments/assets/2fd79861-8abe-488f-8550-c37e278b30c8" />
+<img width="276" height="77" alt="image" src="https://github.com/user-attachments/assets/34f0a413-7d45-49b4-bdc3-5daed2256d19" />
 
+* 45 degree, YES.
 
+<img width="1406" height="797" alt="image" src="https://github.com/user-attachments/assets/9ef8e703-1202-47db-ad17-a983e247664a" />
+<img width="1433" height="909" alt="image" src="https://github.com/user-attachments/assets/f1c270d5-ef84-4af2-88e8-a4af70d4cde3" />
+<img width="1392" height="789" alt="image" src="https://github.com/user-attachments/assets/2153ebe2-8e35-455d-b2d4-ce6ac04354a4" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1434" height="808" alt="image" src="https://github.com/user-attachments/assets/70a91d36-95fb-429e-8a96-18bbc271d89d" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/8823a4f6-569f-4688-ae2c-5c7fff377bcc" />
+<img width="1393" height="792" alt="image" src="https://github.com/user-attachments/assets/d083fe3b-f991-4050-b1ae-950683a48906" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="908" alt="image" src="https://github.com/user-attachments/assets/0144514e-f9bc-4764-a7d6-866bf82ba95e" />
+<img width="1419" height="809" alt="image" src="https://github.com/user-attachments/assets/0c9b5c48-d9e4-4469-b195-bc59a3cf3f26" />
+<img width="1407" height="784" alt="image" src="https://github.com/user-attachments/assets/99682561-2ab4-4698-b216-dc68e60a4e58" />
+
+* [VERY IMPORTANT]
+
+<img width="1425" height="819" alt="image" src="https://github.com/user-attachments/assets/bdb08687-ed70-494b-a4dd-6f9217cb9710" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="918" alt="image" src="https://github.com/user-attachments/assets/1a4dff18-1dfe-4d17-ba6e-3fc90a601206" />
+
+* [VERY IMPORTANT]
+
+<img width="1420" height="814" alt="image" src="https://github.com/user-attachments/assets/bc449492-6bb2-458a-92c3-7e23090fe42a" />
+<img width="1422" height="801" alt="image" src="https://github.com/user-attachments/assets/53f3a507-9cd4-49c0-a050-22d7bb6a3f10" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="826" alt="image" src="https://github.com/user-attachments/assets/f6faab34-6370-4a90-b470-ce462949f7ee" />
+<img width="1435" height="913" alt="image" src="https://github.com/user-attachments/assets/6c3cffa4-d6c2-4c57-a8a5-c4d620b7942f" />
+<img width="1403" height="804" alt="image" src="https://github.com/user-attachments/assets/e8f1db1b-e65c-4ee8-ad79-a2df10c015b1" />
+
+* [VERY IMPORTANT]
+
+<img width="1429" height="911" alt="image" src="https://github.com/user-attachments/assets/cf34c045-b614-44fe-a397-c58f997ff4b0" />
+
+* Opposite of **North-East** is **South-West**.
+
+<img width="1438" height="828" alt="image" src="https://github.com/user-attachments/assets/07febf6e-f216-4bb3-8a19-44cfeb5a5a08" />
+<img width="1439" height="822" alt="image" src="https://github.com/user-attachments/assets/4325d6be-e245-45d2-b2ec-b4f488d4a01c" />
+<img width="1432" height="911" alt="image" src="https://github.com/user-attachments/assets/68277a37-4d1d-484e-a7ff-d5d46adcae80" />
+<img width="1422" height="816" alt="image" src="https://github.com/user-attachments/assets/64c87575-b210-4607-9284-64402791c718" />
+<img width="1432" height="912" alt="image" src="https://github.com/user-attachments/assets/79665911-21e1-49ca-9e3e-121c5046ea3e" />
+<img width="1426" height="801" alt="image" src="https://github.com/user-attachments/assets/555b63c0-e666-411e-a31d-267d4ea6463c" />
+
+* West -> On broken unreliable compass.
+* Actual direction -> South. [Answer]
+* [VERY IMPORTANT]
+
+#### Shadow
+
+<img width="1423" height="817" alt="image" src="https://github.com/user-attachments/assets/7b505b35-dc4e-4151-be85-0d95c8001611" />
+
+* Sun rises in the East. [Morning]
+* Sun sets in the West. [Evening]
+
+<img width="1431" height="813" alt="image" src="https://github.com/user-attachments/assets/bdbd16a7-05b7-4434-90d4-6cf89effd07b" />
+
+* [FORMULA] [VERY IMPORTANT]
+* Facing a tree -> Opposite to each other. [MEANING]
+
+<img width="1427" height="808" alt="image" src="https://github.com/user-attachments/assets/e6114c07-f7d2-45c1-b532-e4de0a94d99b" />
+
+* [FORMULA] [VERY IMPORTANT]
+* Evening -> Shadow is in the East. [FORMULA] [VERY IMPORTANT]
+* Morning- -> Shadow is in the West. [FORMULA] [VERY IMPORTANT]
+
+<img width="1432" height="833" alt="image" src="https://github.com/user-attachments/assets/69523113-7ddd-4e3d-ba17-23474f88a1f0" />
+<img width="1429" height="918" alt="image" src="https://github.com/user-attachments/assets/879b557f-6cb5-4753-805c-0b6bc1fe96fe" />
+
+* Backs are towards each other -> sitting in opposite directions. [MEANING]
+
+<img width="1425" height="821" alt="image" src="https://github.com/user-attachments/assets/01986c4f-94fb-45d5-a11f-738ba11fa73a" />
+<img width="1445" height="907" alt="image" src="https://github.com/user-attachments/assets/e62d31fd-0ce0-410a-870a-6ae2683d3d73" />
+<img width="1434" height="821" alt="image" src="https://github.com/user-attachments/assets/c32d1b97-8545-42a3-bda7-04429b43436c" />
+<img width="1434" height="796" alt="image" src="https://github.com/user-attachments/assets/ed260cb0-5b20-4cda-ae3c-cc94a713d869" />
+
+* [VERY IMPORTANT]
+
+<img width="1430" height="916" alt="image" src="https://github.com/user-attachments/assets/b3159008-237c-4928-b61d-e6ce198a0a01" />
+<img width="1436" height="915" alt="image" src="https://github.com/user-attachments/assets/da059554-adb3-407f-aa2c-584f88bed9fc" />
+
+* [VERY IMPORTANT]
+
+<img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/a984d52e-c43b-4a78-9dd0-c69b5826c242" />
+<img width="1394" height="792" alt="image" src="https://github.com/user-attachments/assets/75bb8dff-f164-4dac-81e1-770856c5afc2" />
+
+* [VERY IMPORTANT]
+
+<img width="1357" height="760" alt="image" src="https://github.com/user-attachments/assets/a716cfc9-8564-439b-8344-674b8955b64d" />
+
+* Shadow of Pranay will fall on Pranav regardless of Pranay facing Norht or South directions. So the answer is **Cannot be determined**. [Answer]
+
+### Blood Relations (1) [10]
 
 
 
