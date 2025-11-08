@@ -50,6 +50,7 @@
 
 # OMETS
 
+<img width="1401" height="316" alt="image" src="https://github.com/user-attachments/assets/a6e5eca1-9e29-4f26-992b-eaa35e35550b" />
 
 
 
