@@ -1095,49 +1095,36 @@
 
 * [VERY IMPORTANT]
 
-58mins.
+<img width="1437" height="915" alt="image" src="https://github.com/user-attachments/assets/e0d04cfc-ea37-48f9-a6c4-30d7832fcd62" />
 
+* Brother's only sibling -> My father.
+* Sibling -> one of two or more individuals having one common parent -> one of two or more things related by a common tie or characteristic. [MEANING] [VERY IMPORTANT]
 
+<img width="1432" height="795" alt="image" src="https://github.com/user-attachments/assets/2cbdcdf4-e5bb-4485-bd90-b39c498fc319" />
 
+* [VERY IMPORTANT]
 
+<img width="1422" height="821" alt="image" src="https://github.com/user-attachments/assets/dd485c23-7c97-4896-8e16-80047af9814d" />
+<img width="1434" height="904" alt="image" src="https://github.com/user-attachments/assets/daad5c9f-3e80-4ccb-b733-a1f66ae13a9c" />
+<img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/f19b5700-080e-4523-a416-5e52630771be" />
+<img width="442" height="82" alt="image" src="https://github.com/user-attachments/assets/7afa59bd-3d3d-41c2-a41c-abc8e20cbb64" />
 
+* Yes.
 
+<img width="1430" height="909" alt="image" src="https://github.com/user-attachments/assets/62c8a28b-cb45-4d38-8248-03e701ed00ce" />
+<img width="1394" height="785" alt="image" src="https://github.com/user-attachments/assets/620d7d46-3bed-4411-9158-a784d1e3e915" />
+<img width="1441" height="910" alt="image" src="https://github.com/user-attachments/assets/3b4b8d4c-3fd6-4e0e-ac74-2890fdd53c53" />
 
+* David's father's daughter-in-law -> David's wife. [VERY IMPORTANT]
 
+<img width="1400" height="797" alt="image" src="https://github.com/user-attachments/assets/bc2efc75-a2a0-43eb-ad46-7874df5b28ff" />
 
+* [VERY IMPORTANT]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1440" height="794" alt="image" src="https://github.com/user-attachments/assets/82559499-4b22-43a8-8381-2575ab73dad3" />
+<img width="1433" height="914" alt="image" src="https://github.com/user-attachments/assets/5ed3ecd7-05df-410b-851b-2335c714b981" />
+<img width="1429" height="797" alt="image" src="https://github.com/user-attachments/assets/96debde2-8666-47b1-b816-9d6f1042b602" />
+<img width="1440" height="812" alt="image" src="https://github.com/user-attachments/assets/3f362b13-2b5a-4655-8b71-41d3f0ef944b" />
 
 ### Blood Relations (2) [11]
 
@@ -1147,9 +1134,20 @@
 * [VERY IMPORTANT]
 
 <img width="1442" height="905" alt="image" src="https://github.com/user-attachments/assets/1bd5b416-5375-4c37-a885-4604807a65a8" />
+<img width="1436" height="913" alt="image" src="https://github.com/user-attachments/assets/6ee53d2b-4b3c-4a1f-91ca-c59e6aa4eb58" />
+<img width="1439" height="808" alt="image" src="https://github.com/user-attachments/assets/7841affa-085f-437e-8867-bfe9accda7a7" />
 
+* [VERY IMPORTANT]
 
+<img width="1437" height="917" alt="image" src="https://github.com/user-attachments/assets/7fae1763-60d4-4fc4-92cc-3f145522dd13" />
+<img width="429" height="67" alt="image" src="https://github.com/user-attachments/assets/b2d71e1c-6877-4e1b-9b28-aa3ef755bada" />
 
+* YES.
+
+<img width="1430" height="830" alt="image" src="https://github.com/user-attachments/assets/d049dc62-9ca6-49d4-8b44-505beb0ca132" />
+<img width="1399" height="799" alt="image" src="https://github.com/user-attachments/assets/69a14024-8e9e-4739-89e1-1315e60ed200" />
+
+* [VERY VERY IMPORTANT]
 
 
 
