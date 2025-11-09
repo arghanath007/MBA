@@ -1149,6 +1149,51 @@
 
 * [VERY VERY IMPORTANT]
 
+<img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/bc9b109c-b478-40ac-bc1f-2c917ac1861c" />
+<img width="1441" height="801" alt="image" src="https://github.com/user-attachments/assets/745f4a66-bcd1-4f0a-8eb9-4d2e042ff861" />
+<img width="1424" height="823" alt="image" src="https://github.com/user-attachments/assets/11bfe479-9c38-4351-90fc-0c86c7868685" />
+<img width="1431" height="794" alt="image" src="https://github.com/user-attachments/assets/70118eef-a74d-4ab5-bad4-9e6bf9a5363f" />
+
+* E's niece -> C.
+* [VERY VERY IMPORTANT]
+
+<img width="1432" height="785" alt="image" src="https://github.com/user-attachments/assets/3892af30-ba7c-4fa5-a559-acf65e8c25d9" />
+
+* [VERY VERY IMPORTANT]
+
+<img width="1434" height="916" alt="image" src="https://github.com/user-attachments/assets/f4b31018-1ec8-4b0f-8a0c-9c0529687b52" />
+<img width="1415" height="796" alt="image" src="https://github.com/user-attachments/assets/85ed71f6-b705-4e43-96f0-f774c48b93b2" />
+
+* [VERY IMPORTANT]
+
+<img width="317" height="73" alt="image" src="https://github.com/user-attachments/assets/86c7527d-a9db-4470-922f-4a7a4b0b2b93" />
+
+* Sister-in-law.
+
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/2c017bd3-9bd6-4886-9862-9f2fa2f1c62f" />
+
+* [VERY IMPORTANT]
+
+<img width="1422" height="825" alt="image" src="https://github.com/user-attachments/assets/8832822e-26be-4cbf-b1fb-104dc11cbbe4" />
+
+* Ramya -> One of the parents, could be mother or father.
+
+<img width="1443" height="834" alt="image" src="https://github.com/user-attachments/assets/9d9d6421-846c-4d82-9e9f-d09a6ae4d5bb" />
+<img width="1415" height="795" alt="image" src="https://github.com/user-attachments/assets/80c5a07f-86d5-4406-a376-60f29b6f11e6" />
+
+* Sanjana's husband -> Son of Ramya's husband.
+* [VERY IMPORTANT]
+
+<img width="1438" height="904" alt="image" src="https://github.com/user-attachments/assets/bda13168-76a6-4373-8320-a971690c5781" />
+<img width="1442" height="848" alt="image" src="https://github.com/user-attachments/assets/c5fb9c76-a989-4236-ba73-33f08072a41b" />
+<img width="1438" height="839" alt="image" src="https://github.com/user-attachments/assets/6dcc9ada-769f-40ee-88e2-7e0c40845b3f" />
+<img width="1436" height="816" alt="image" src="https://github.com/user-attachments/assets/056b2129-d477-4077-9d70-e04b33276b14" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="901" alt="image" src="https://github.com/user-attachments/assets/377e753d-e9b3-4d93-af48-d8e785f793b2" />
+
+
 
 
 
