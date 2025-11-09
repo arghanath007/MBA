@@ -1016,6 +1016,145 @@
 
 ### Blood Relations (1) [10]
 
+<img width="680" height="426" alt="image" src="https://github.com/user-attachments/assets/3a897c5a-d957-4994-b345-325626fa8de9" />
+
+* BLOOD RELATIONS -> Usually 1-2 questions. [VERY IMPORTANT]
+
+<img width="222" height="74" alt="image" src="https://github.com/user-attachments/assets/94cc4c17-6d53-4495-9c74-d38dc7c3c0df" />
+<img width="316" height="214" alt="image" src="https://github.com/user-attachments/assets/f6b1395a-bd56-47b8-8ca1-a9e634af4773" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1420" height="806" alt="image" src="https://github.com/user-attachments/assets/151b5409-0772-4c71-9a4e-f7ad3031850c" />
+
+* C, D -> Brothers.
+* D, E -> Brother, sisters.
+* E -> Father of 'A'.
+* F -> Mother of 'A'.
+
+<img width="1411" height="817" alt="image" src="https://github.com/user-attachments/assets/73cc8c31-d36e-4f87-977e-df4373fddb1c" />
+<img width="1431" height="793" alt="image" src="https://github.com/user-attachments/assets/02a1ccae-8154-4168-aa7b-f65ee018e1e3" />
+<img width="1429" height="797" alt="image" src="https://github.com/user-attachments/assets/13158d70-d6e4-429e-b976-0a7d83625242" />
+<img width="1429" height="814" alt="image" src="https://github.com/user-attachments/assets/410e20e0-dae9-4c9a-8499-0e9ad484e1d8" />
+
+* A related to H -> Brother in law.
+* H related to A -> Brother in law.
+
+<img width="1430" height="853" alt="image" src="https://github.com/user-attachments/assets/5dd020b9-0b9f-4aa9-9bbf-99801f085115" />
+<img width="1429" height="816" alt="image" src="https://github.com/user-attachments/assets/2deb2e48-e378-4872-960e-23a0070a6e5b" />
+
+* I related to C -> C related to I -> Cousins.
+
+<img width="1434" height="807" alt="image" src="https://github.com/user-attachments/assets/e5bed580-4032-4ade-958a-5a1b3f6d7998" />
+
+* H related to M -> No relation.
+* G related to M -> No relation.
+* K related to I -> No relation.
+* Father's father -> Paternal grandparents.
+* Mother's father -> Maternal grandparents.
+* C related to J -> Nephew.
+
+<img width="1431" height="814" alt="image" src="https://github.com/user-attachments/assets/9ee9b7ca-40d7-4888-82c2-0cf7d8a273a7" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1443" height="916" alt="image" src="https://github.com/user-attachments/assets/977d8c8c-98b3-43af-b1b4-b24cbeeb6228" />
+<img width="1407" height="793" alt="image" src="https://github.com/user-attachments/assets/195e4a99-34a6-4ce3-b2d1-53e3e761ef11" />
+<img width="1427" height="809" alt="image" src="https://github.com/user-attachments/assets/27796b25-18d0-4ce6-9e66-b7f01b6fdd85" />
+<img width="1438" height="916" alt="image" src="https://github.com/user-attachments/assets/ac8b9bf3-b209-4106-9bdf-265bbb4838eb" />
+
+* X's brother's wife's father-in-law -> X's father.
+
+<img width="1440" height="806" alt="image" src="https://github.com/user-attachments/assets/9115d816-6222-472b-9638-78bb30110bb1" />
+<img width="1434" height="793" alt="image" src="https://github.com/user-attachments/assets/7e43a751-88c6-4e89-b1f7-a71b044276b8" />
+
+* [VERY IMPORTANT]
+
+<img width="1436" height="916" alt="image" src="https://github.com/user-attachments/assets/32a25725-bde5-4473-91a8-e13bec174f99" />
+<img width="1405" height="785" alt="image" src="https://github.com/user-attachments/assets/d944eac9-36cf-44dd-ad70-8a4ac423c7d3" />
+<img width="1439" height="812" alt="image" src="https://github.com/user-attachments/assets/e9ff1f79-5669-42af-8dd8-dc7308bf0fbb" />
+<img width="215" height="86" alt="image" src="https://github.com/user-attachments/assets/dcc8a443-706d-4ca3-beb5-0b067c555731" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="909" alt="image" src="https://github.com/user-attachments/assets/330a570e-0905-4609-8fd1-b3548285737e" />
+<img width="1434" height="793" alt="image" src="https://github.com/user-attachments/assets/62d75744-a61d-4b95-ace2-27096cfb33b2" />
+<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/ef1b404c-f5a6-4727-a64e-3c0e2ac727c0" />
+<img width="1437" height="904" alt="image" src="https://github.com/user-attachments/assets/4cea61c2-b140-4fab-a6fb-c3f7a95ce0dc" />
+<img width="1412" height="782" alt="image" src="https://github.com/user-attachments/assets/e6232ac2-eb34-4751-913c-098e0feee834" />
+<img width="1397" height="787" alt="image" src="https://github.com/user-attachments/assets/ace96394-fc9c-413f-a283-8362e50766f4" />
+<img width="1437" height="903" alt="image" src="https://github.com/user-attachments/assets/82c20fd8-84d5-441b-b519-ae9b0e397c72" />
+<img width="1396" height="795" alt="image" src="https://github.com/user-attachments/assets/3e1221bf-5d04-4327-88de-574d05b0f23c" />
+<img width="1388" height="793" alt="image" src="https://github.com/user-attachments/assets/3d3a24e3-324d-4441-90f1-12056e55c110" />
+
+* [VERY IMPORTANT]
+
+<img width="1432" height="914" alt="image" src="https://github.com/user-attachments/assets/f8066d49-6e98-4dd1-8869-eb9184a53e38" />
+<img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/b6f0248b-2f4d-4c66-abf2-d055bddd8a08" />
+<img width="1414" height="800" alt="image" src="https://github.com/user-attachments/assets/36d19769-8432-4204-8ebf-a9624676946f" />
+
+* [VERY IMPORTANT]
+
+58mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Blood Relations (2) [11]
+
+<img width="1436" height="932" alt="image" src="https://github.com/user-attachments/assets/677f6e5a-e6b8-404c-915d-ff62929f08dc" />
+<img width="1405" height="784" alt="image" src="https://github.com/user-attachments/assets/c5549502-10b9-4e3b-aeb7-f6ac4275ae4c" />
+
+* [VERY IMPORTANT]
+
+<img width="1442" height="905" alt="image" src="https://github.com/user-attachments/assets/1bd5b416-5375-4c37-a885-4604807a65a8" />
+
+
+
+
+
+
+
+
 
 
 
