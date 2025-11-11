@@ -1192,7 +1192,9 @@
 * [VERY IMPORTANT]
 
 <img width="1438" height="901" alt="image" src="https://github.com/user-attachments/assets/377e753d-e9b3-4d93-af48-d8e785f793b2" />
+<img width="1402" height="792" alt="image" src="https://github.com/user-attachments/assets/866764bb-32e4-4ac6-b69a-d9458b62787c" />
 
+44mins -> 20th question.
 
 
 
