@@ -1308,7 +1308,66 @@
 
 * [VERY IMPORTANT]
 
+<img width="1440" height="818" alt="image" src="https://github.com/user-attachments/assets/5880ec4e-219f-4434-b63e-9a9d255d0ab5" />
+<img width="1430" height="792" alt="image" src="https://github.com/user-attachments/assets/c8e8d776-5efd-4802-88b0-14904faf4da6" />
 
+* H is the niece of G.
+
+<img width="1441" height="809" alt="image" src="https://github.com/user-attachments/assets/e52e55c3-22c7-4120-b739-5072a833f6cd" />
+<img width="1398" height="800" alt="image" src="https://github.com/user-attachments/assets/cedf20f7-67a4-48b2-a0d2-305ff5cac6b4" />
+<img width="1391" height="787" alt="image" src="https://github.com/user-attachments/assets/6c3707ab-9697-4adb-a6d9-a7cbdea899cb" />
+
+* [VERY IMPORTANT]
+
+<img width="1409" height="789" alt="image" src="https://github.com/user-attachments/assets/339056a2-dc2c-4314-b4b0-eb10d32b4ac6" />
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/119163c1-a871-482f-9723-697dc7b76318" />
+<img width="1438" height="828" alt="image" src="https://github.com/user-attachments/assets/7581072c-f237-4a2f-9393-81c7343b9622" />
+<img width="1432" height="806" alt="image" src="https://github.com/user-attachments/assets/41d0ec39-8f32-4614-810c-e3f7a5360d80" />
+<img width="377" height="139" alt="image" src="https://github.com/user-attachments/assets/9043c1b2-952c-4df3-9e62-f0b234bb8f89" />
+
+* Yes.
+
+<img width="1437" height="838" alt="image" src="https://github.com/user-attachments/assets/9849d931-6d27-445a-980c-29f9aedfa714" />
+
+* We have '2' cases.
+* R can be son of P & M OR R can be the son of N & S.
+
+<img width="1434" height="830" alt="image" src="https://github.com/user-attachments/assets/6f0e11df-be49-4049-8d52-9472d2c6ec73" />
+
+* R can be cousin of T OR R can be the brother of T. So cannot be determined.
+
+<img width="1421" height="790" alt="image" src="https://github.com/user-attachments/assets/e4209bfb-3b30-4fed-a118-3e8755fdf33b" />
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/fbd9843f-5c1e-4984-9199-bd0b70dfd359" />
+<img width="1419" height="801" alt="image" src="https://github.com/user-attachments/assets/e3b84d85-b406-4858-81cd-bab336bbf42f" />
+
+* M->4.
+* F->4.
+
+<img width="1433" height="792" alt="image" src="https://github.com/user-attachments/assets/d4764409-1f6d-4244-a544-af17a6a81d45" />
+
+* [VERY IMPORTANT]
+
+<img width="1431" height="812" alt="image" src="https://github.com/user-attachments/assets/35db72a1-3d0e-4e53-9527-9d43c63f5f3d" />
+<img width="1428" height="820" alt="image" src="https://github.com/user-attachments/assets/31744a90-a316-444e-b5cb-a196aa4e6f9e" />
+
+* B -> Widow.
+
+<img width="1432" height="827" alt="image" src="https://github.com/user-attachments/assets/ab06179b-1b9e-4c24-93b6-55ae6d555958" />
+<img width="1434" height="811" alt="image" src="https://github.com/user-attachments/assets/57e551d0-0721-4756-93cc-06103e5b4ee9" />
+<img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/e690fe5f-4e15-4f8b-9168-4b587fa5fe88" />
+<img width="1422" height="813" alt="image" src="https://github.com/user-attachments/assets/ee7ebbe2-bece-4597-a031-fb868934e834" />
+
+* A's mother can be either A or F
+
+<img width="1422" height="820" alt="image" src="https://github.com/user-attachments/assets/80ec5e41-1102-4ef1-9e43-c3c65b316989" />
+<img width="1438" height="800" alt="image" src="https://github.com/user-attachments/assets/2c9bca10-992c-41dd-84f9-73fd328a8bbd" />
+<img width="1428" height="787" alt="image" src="https://github.com/user-attachments/assets/af6e4b7e-e09b-4ca3-8eb2-f9ff6c313fdf" />
+
+* [VERY IMPORTANT]
+
+### Input Output (1) [13]
+
+16th Sept.
 
 
 
