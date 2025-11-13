@@ -1193,24 +1193,74 @@
 
 <img width="1438" height="901" alt="image" src="https://github.com/user-attachments/assets/377e753d-e9b3-4d93-af48-d8e785f793b2" />
 <img width="1402" height="792" alt="image" src="https://github.com/user-attachments/assets/866764bb-32e4-4ac6-b69a-d9458b62787c" />
+<img width="1406" height="795" alt="image" src="https://github.com/user-attachments/assets/0e740179-cb42-465c-9549-92e36843d669" />
 
-44mins -> 20th question.
+* A & B are siblings.
 
+<img width="1401" height="804" alt="image" src="https://github.com/user-attachments/assets/78556e8b-cd5d-4005-b769-0d068b33f2a8" />
 
+#### 2nd Variety
 
+<img width="1430" height="909" alt="image" src="https://github.com/user-attachments/assets/b71c11b3-2c35-474d-8123-7a5dc8cf5be7" />
+<img width="1405" height="808" alt="image" src="https://github.com/user-attachments/assets/0d290850-952c-427b-a068-88a355013338" />
+<img width="1426" height="805" alt="image" src="https://github.com/user-attachments/assets/f09b7a48-d0fb-49a2-a967-33e8f5d39001" />
 
+* [VERY IMPORTANT]
 
+<img width="1421" height="907" alt="image" src="https://github.com/user-attachments/assets/77e17999-2d22-4b9d-b6c3-d9a12ccaee7e" />
+<img width="1403" height="791" alt="image" src="https://github.com/user-attachments/assets/6900f242-7218-4e54-b84d-69000844a411" />
+<img width="1437" height="922" alt="image" src="https://github.com/user-attachments/assets/0c4696b6-e369-402d-8e15-0d8463a781a1" />
+<img width="1404" height="795" alt="image" src="https://github.com/user-attachments/assets/cdbd3074-1467-418b-ba01-0858d993322b" />
+<img width="1419" height="802" alt="image" src="https://github.com/user-attachments/assets/e12a6ec3-b5b8-4911-95d3-3bba31a4116a" />
+<img width="1415" height="827" alt="image" src="https://github.com/user-attachments/assets/52c909b0-1a45-400b-92d9-4ad32ad07bb3" />
 
+* C has to be male. 
+* C is the husband of D.
 
+<img width="1438" height="810" alt="image" src="https://github.com/user-attachments/assets/6326efae-3827-4c9b-9cdb-b00b8f08b32b" />
 
+* C is female. 
 
+<img width="1431" height="820" alt="image" src="https://github.com/user-attachments/assets/326c41ba-46df-405f-96f5-3883059516f7" />
 
+* C cannot be grandfather.
 
+<img width="1437" height="835" alt="image" src="https://github.com/user-attachments/assets/3100c5c2-062f-4f4b-8554-f30ce890c85a" />
 
+* [VERY IMPORTANT]
 
+<img width="1435" height="918" alt="image" src="https://github.com/user-attachments/assets/d577a615-596f-4ded-9994-0d3895111f75" />
+<img width="1425" height="810" alt="image" src="https://github.com/user-attachments/assets/7ef83c9d-42d6-4994-a863-8e303e7524a6" />
 
+* I should be Female.
 
+<img width="1415" height="894" alt="image" src="https://github.com/user-attachments/assets/586aaf6a-d980-42e5-975f-ef24cd520de3" />
 
+* A△B£C$D. [Question]
+* A is the ___ D. [Question]
+* [VERY IMPORTANT]
+
+<img width="1427" height="816" alt="image" src="https://github.com/user-attachments/assets/a7a7d524-0c2f-4216-9a3e-5d59b45a7d32" />
+<img width="1432" height="906" alt="image" src="https://github.com/user-attachments/assets/1a0adb77-ff19-44e1-bfc0-b0054ee49884" />
+
+* H can be male or female.
+* [VERY IMPORTANT]
+
+<img width="1438" height="801" alt="image" src="https://github.com/user-attachments/assets/5bc7b9e8-d6bd-45b0-b5e8-6c3d16bc04e2" />
+<img width="1437" height="915" alt="image" src="https://github.com/user-attachments/assets/fe2c9cd7-6a79-4c7f-8401-ea0ad0c9c90a" />
+<img width="1425" height="794" alt="image" src="https://github.com/user-attachments/assets/5d146294-6cdf-4e3b-8c16-005fea348212" />
+<img width="1432" height="919" alt="image" src="https://github.com/user-attachments/assets/1da4811a-a21f-4455-ac09-c70dcb369eb1" />
+<img width="1439" height="807" alt="image" src="https://github.com/user-attachments/assets/791e3a12-09fb-486a-a007-0019ec5e5183" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/af8337ac-b83a-4668-b2c1-5baf473efd9c" />
+<img width="1436" height="808" alt="image" src="https://github.com/user-attachments/assets/619db508-a7e9-43f3-bdad-42469bbb0318" />
+
+* [VERY IMPORTANT]
+
+<img width="1422" height="807" alt="image" src="https://github.com/user-attachments/assets/835ddf99-48f6-4d83-9d75-72ac395992d8" />
+
+### Blood Relations (3) [12]
+
+#### 3rd Varity
 
 
 
