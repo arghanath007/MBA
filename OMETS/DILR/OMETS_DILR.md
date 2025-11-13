@@ -1367,8 +1367,148 @@
 
 ### Input Output (1) [13]
 
-16th Sept.
+<img width="1436" height="819" alt="image" src="https://github.com/user-attachments/assets/b06894bc-8871-4cbb-9f3f-8dd7226f43e5" />
+<img width="1434" height="819" alt="image" src="https://github.com/user-attachments/assets/8568d439-cf5b-4d6a-9b0b-665dd11b2f06" />
+<img width="1438" height="792" alt="image" src="https://github.com/user-attachments/assets/bc76f9bb-2a20-4944-8f54-a3f0cd1d4399" />
+<img width="1430" height="811" alt="image" src="https://github.com/user-attachments/assets/99d3bd71-5b35-4571-8cb3-b43e3f218ae9" />
+<img width="1436" height="820" alt="image" src="https://github.com/user-attachments/assets/e4e807cb-3de0-4d3c-988e-44ef6ffa2f39" />
+<img width="1431" height="820" alt="image" src="https://github.com/user-attachments/assets/c220f92e-33fb-4a87-80fb-23c4d955fd56" />
 
+* [EXAMPLE]
+* It is doing sidewise here. [FORMULA]
+
+<img width="1435" height="830" alt="image" src="https://github.com/user-attachments/assets/9e5b3282-4c41-4758-b533-f66512987731" />
+<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/4f32cf09-35cf-4fed-8c0c-10c021d7dd61" />
+
+* Swap/Interchange between A and B.
+
+<img width="1418" height="827" alt="image" src="https://github.com/user-attachments/assets/80f5140a-1051-46ad-8cec-f6a44eb0080c" />
+<img width="1434" height="824" alt="image" src="https://github.com/user-attachments/assets/32e58a5d-3f6e-41bd-962b-e12fc431528c" />
+
+* [EXAMPLE] [FORMULA]
+
+<img width="1435" height="801" alt="image" src="https://github.com/user-attachments/assets/0716734a-2e49-4779-8daf-6e337c066d7b" />
+
+* Swap/Interchange between 38 and 78.
+
+<img width="1440" height="803" alt="image" src="https://github.com/user-attachments/assets/2eef5b22-d6bc-4d10-b83e-2dfc647f1034" />
+
+* [EXAMPLE] [FORMULA]
+
+<img width="1433" height="808" alt="image" src="https://github.com/user-attachments/assets/20ef6b49-f16b-45d3-8f75-f21cbf1e7fc0" />
+<img width="1426" height="801" alt="image" src="https://github.com/user-attachments/assets/129383b3-f482-48d9-91aa-1cbda94fe7f1" />
+<img width="1433" height="801" alt="image" src="https://github.com/user-attachments/assets/c78e308a-9d55-408b-a8f7-747a3c78b406" />
+
+* [EXAMPLE] [FORMULA]
+
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/2c645945-02af-4acc-9443-4c2ef303211f" />
+<img width="1436" height="817" alt="image" src="https://github.com/user-attachments/assets/3ca5ba89-3d59-4efd-88e3-42eb7779abeb" />
+
+* [EXAMPLE] [VERY IMPORTANT]
+
+<img width="1429" height="798" alt="image" src="https://github.com/user-attachments/assets/946b4a9f-000c-4b8f-97ad-fac2d6f3809d" />
+<img width="1438" height="828" alt="image" src="https://github.com/user-attachments/assets/7df98339-d33f-4ffc-bc1d-4b0fbfb9f3e6" />
+
+* Numbers->7.
+* Steps-> Numbers-1->7-1->6. [FORMULA] [EXAMPLE] [VERY IMPORTANT]
+
+<img width="1395" height="792" alt="image" src="https://github.com/user-attachments/assets/c48b81cf-92e3-4e37-aedd-bcc5061b2dd1" />
+<img width="1436" height="822" alt="image" src="https://github.com/user-attachments/assets/05ebc724-57b3-4dd5-aae1-f8be2f01fbf1" />
+
+* [VERY IMPORTANT]
+
+<img width="1417" height="819" alt="image" src="https://github.com/user-attachments/assets/94b0917d-f306-45a3-bc7d-a4f53472eb47" />
+
+* Output is given and we have to find the input.
+* Numbers->8.
+* Steps->8-1->7.
+
+<img width="1441" height="833" alt="image" src="https://github.com/user-attachments/assets/0137b4b5-7a33-4516-bf6a-7850f3e55756" />
+<img width="1435" height="818" alt="image" src="https://github.com/user-attachments/assets/c088eae0-ddd1-42b7-bb48-1f48361a589b" />
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/729fc16c-7d0c-4e06-b8d4-a19ee901673c" />
+<img width="1427" height="791" alt="image" src="https://github.com/user-attachments/assets/839998a1-d53a-46f5-b385-a77e2ba1a9cb" />
+<img width="1432" height="806" alt="image" src="https://github.com/user-attachments/assets/0a0d1cc4-88a0-43c6-8fd7-1235c091bff1" />
+
+* [VERY IMPORTANT]
+
+<img width="1399" height="792" alt="image" src="https://github.com/user-attachments/assets/36ea2376-8364-4dd1-b0e1-2664cb2bca32" />
+<img width="1431" height="810" alt="image" src="https://github.com/user-attachments/assets/a7e16f19-0700-4a21-b2ec-925e05fdd544" />
+
+* Prime Nos -> 2,3,5,7,11,13,17,19.
+* Ans -> Option **C**.
+
+<img width="1390" height="794" alt="image" src="https://github.com/user-attachments/assets/46529ca2-d340-4b74-8cff-540d66270002" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="806" alt="image" src="https://github.com/user-attachments/assets/e8a7cc70-0ecf-4bff-be46-b84749e7c0af" />
+<img width="430" height="102" alt="image" src="https://github.com/user-attachments/assets/b3c6dfa9-c4a8-458b-83b1-aaa592659b16" />
+
+* Yes, we can do that but possibility of doing mistake. [FORMULA]
+
+<img width="1388" height="791" alt="image" src="https://github.com/user-attachments/assets/3fb0d6b7-d13f-40cf-b7b2-19baa80886c2" />
+<img width="1398" height="790" alt="image" src="https://github.com/user-attachments/assets/ef6ae0a3-7859-40d1-bc9a-57b4e00b7159" />
+<img width="1428" height="817" alt="image" src="https://github.com/user-attachments/assets/9c91135a-673c-4671-b9ce-e1a679168859" />
+<img width="311" height="281" alt="image" src="https://github.com/user-attachments/assets/636950d8-22ba-4176-b645-62cd599841b6" />
+
+* Yes.
+
+<img width="278" height="145" alt="image" src="https://github.com/user-attachments/assets/b1435d62-7a8c-4314-98f5-9fb7034c3aee" />
+
+* Yes.
+
+<img width="250" height="73" alt="image" src="https://github.com/user-attachments/assets/ca5a3cd7-c205-4a26-8004-e4c747aa2c6f" />
+
+* Yes.
+
+<img width="1434" height="819" alt="image" src="https://github.com/user-attachments/assets/80e08144-f26f-4ea7-bc6f-93bf1ec9930c" />
+<img width="1437" height="811" alt="image" src="https://github.com/user-attachments/assets/7327e07b-f432-4d6e-8de9-0677d4ab387f" />
+
+* It is going **sideways**.
+
+<img width="1437" height="833" alt="image" src="https://github.com/user-attachments/assets/0a1025be-1a82-47a8-9d74-d834f96eb1f1" />
+<img width="1442" height="815" alt="image" src="https://github.com/user-attachments/assets/72b46ef5-0582-479e-af89-0b317d8ef398" />
+<img width="1436" height="816" alt="image" src="https://github.com/user-attachments/assets/09b3e379-814a-450d-bf90-647fbc0c7bc2" />
+
+* [VERY IMPORTANT]
+
+<img width="1427" height="796" alt="image" src="https://github.com/user-attachments/assets/5daab621-ec40-4051-8916-1b0940fb0d50" />
+<img width="1407" height="804" alt="image" src="https://github.com/user-attachments/assets/de3e6290-9b94-4929-9c49-99349594f78f" />
+<img width="1441" height="813" alt="image" src="https://github.com/user-attachments/assets/8526ecc8-3704-43b6-99fd-b4a8c5dcde95" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="837" alt="image" src="https://github.com/user-attachments/assets/99f50451-0b80-4074-8077-9fdcb1c0fd7f" />
+<img width="367" height="404" alt="image" src="https://github.com/user-attachments/assets/60c2a82e-c8f5-4d36-814e-813f554271c1" />
+
+* Numbers->8.
+* Steps->8-1->7.
+* NO, for these types of questions. [FORMULA] [VERY IMPORTANT]
+
+<img width="1430" height="794" alt="image" src="https://github.com/user-attachments/assets/ae4ddc61-90bb-4edf-82fe-9e4f2e22a556" />
+<img width="1441" height="798" alt="image" src="https://github.com/user-attachments/assets/df787575-c29a-478f-a56b-f414a6f79398" />
+<img width="291" height="163" alt="image" src="https://github.com/user-attachments/assets/8404bf68-44f1-4b3e-813e-2d549b9622b9" />
+
+* Yes.
+
+<img width="1440" height="802" alt="image" src="https://github.com/user-attachments/assets/3f83df91-bf7b-4ed8-9f6f-5bb7204cf033" />
+<img width="1404" height="789" alt="image" src="https://github.com/user-attachments/assets/10f42048-2529-463e-a4ba-56359bda2b39" />
+<img width="1431" height="817" alt="image" src="https://github.com/user-attachments/assets/501387a3-0188-4f21-8589-d9e42427208d" />
+
+* [VERY IMPORTANT]
+
+<img width="1429" height="799" alt="image" src="https://github.com/user-attachments/assets/da7362b1-3344-4561-8e1f-b0673c0d0212" />
+<img width="1432" height="795" alt="image" src="https://github.com/user-attachments/assets/32901de6-ecdf-4090-bd27-5703499a42bd" />
+
+* Cannot go backwards.  [VERY IMPORTANT]
+
+<img width="1431" height="802" alt="image" src="https://github.com/user-attachments/assets/0fbb90f7-78c5-464e-9389-5d84b9e0ab0b" />
+<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/bb39c7e7-702d-4eb7-8efc-baa24c77461c" />
+<img width="1425" height="797" alt="image" src="https://github.com/user-attachments/assets/1c33ecf7-177d-48fb-8a51-e00f355a5fcb" />
+
+* [VERY IMPORTANT]
+
+### Input Output (2) [14]
 
 
 
