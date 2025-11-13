@@ -1262,19 +1262,51 @@
 
 #### 3rd Varity
 
+<img width="1421" height="816" alt="image" src="https://github.com/user-attachments/assets/16b72c72-fd91-42c6-af00-bc8e531301d5" />
 
+* 1. [VERY IMPORTANT]
 
+<img width="944" height="413" alt="image" src="https://github.com/user-attachments/assets/52907453-c95d-48b8-a693-01f6d76a204a" />
 
+* 2
 
+<img width="971" height="405" alt="image" src="https://github.com/user-attachments/assets/d8337381-37ba-4dc8-858e-249054928ba2" />
 
+* 3
 
+<img width="950" height="460" alt="image" src="https://github.com/user-attachments/assets/80d2a077-e13d-40db-b3a8-bae95430f1e9" />
 
+* 4
 
+<img width="903" height="259" alt="image" src="https://github.com/user-attachments/assets/02473c3d-28db-4a51-856c-b24af715ebcd" />
 
+* 5
 
+<img width="1434" height="824" alt="image" src="https://github.com/user-attachments/assets/c5a1a84e-5b90-4992-962b-54431b86348e" />
+<img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/d1040876-dbf2-461f-9589-4bc750c1ab63" />
 
+* Parents of C -> B & D.
+* D has no siblings.
 
+<img width="1437" height="822" alt="image" src="https://github.com/user-attachments/assets/6c9c44ff-be52-43fb-b224-024aa06d2b3e" />
+<img width="1437" height="809" alt="image" src="https://github.com/user-attachments/assets/bafc4c97-9268-47cb-8a28-964145b30ecc" />
+<img width="1434" height="801" alt="image" src="https://github.com/user-attachments/assets/a78da571-26e4-4d44-a8bc-9d54519348f6" />
+<img width="1393" height="794" alt="image" src="https://github.com/user-attachments/assets/ec54eda2-b0a0-4058-ab25-0e04121d9cff" />
+<img width="1433" height="803" alt="image" src="https://github.com/user-attachments/assets/70d01e71-072e-49a1-ae01-5217e5cb8d09" />
+<img width="1424" height="806" alt="image" src="https://github.com/user-attachments/assets/7b5f6053-542f-475a-8480-51960490d9dc" />
 
+* 4 males.
+* 2 females.
+
+<img width="1420" height="813" alt="image" src="https://github.com/user-attachments/assets/cd6600f8-a686-4886-b201-566cdf90e634" />
+<img width="197" height="79" alt="image" src="https://github.com/user-attachments/assets/2ad9ea6a-6ab2-4c59-a376-31094c594583" />
+
+* Yes.
+* We will not count 'G' as it was in **if** condition. [VERY IMPORTANT]
+
+<img width="1431" height="802" alt="image" src="https://github.com/user-attachments/assets/06f473d8-673c-4823-a157-279f12a0578e" />
+
+* [VERY IMPORTANT]
 
 
 
