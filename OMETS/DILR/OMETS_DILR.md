@@ -2,6 +2,10 @@
 
 ## IMPORTANT INFO
 
+<img width="271" height="289" alt="image" src="https://github.com/user-attachments/assets/9ae36044-3632-4c01-8ef7-637583203273" />
+
+* For Practice.
+
 <img width="1414" height="787" alt="image" src="https://github.com/user-attachments/assets/708ad80e-98f9-4486-bf2b-f93b15d9742c" />
 <img width="422" height="114" alt="image" src="https://github.com/user-attachments/assets/ffe7765b-6840-488c-ab02-2fe526e23c5b" />
 
@@ -1614,6 +1618,7 @@
 <img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/d72fe544-cd82-48d0-ba1c-af42bc1de57b" />
 
 * [VERY IMPORTANT] 
+
 
 
 
