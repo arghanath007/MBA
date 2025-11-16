@@ -1561,9 +1561,59 @@
 
 * [VERY IMPORTANT] 
 
-46mins.
+<img width="1430" height="857" alt="image" src="https://github.com/user-attachments/assets/fc576aba-2e02-4d1e-adb2-0ecc6155a9a3" />
+<img width="1436" height="804" alt="image" src="https://github.com/user-attachments/assets/1e953f04-7a05-4897-b921-d87542cb4060" />
+<img width="1446" height="897" alt="image" src="https://github.com/user-attachments/assets/1587ee0f-17ba-475a-8739-3e96c10f02b7" />
 
+* [VERY IMPORTANT] 
 
+<img width="1430" height="837" alt="image" src="https://github.com/user-attachments/assets/bb8be623-84c4-4ee4-8090-9707c7fef2db" />
+<img width="1439" height="920" alt="image" src="https://github.com/user-attachments/assets/fd1f31fd-8371-4a5f-a57c-698edd38f321" />
+
+* [VERY IMPORTANT] 
+
+<img width="1440" height="813" alt="image" src="https://github.com/user-attachments/assets/b21d1c54-c4ea-49d9-94cc-a260dd1a130e" />
+<img width="1427" height="809" alt="image" src="https://github.com/user-attachments/assets/22d7edfc-0819-4fa5-888a-a1cd4fac6e1b" />
+<img width="284" height="148" alt="image" src="https://github.com/user-attachments/assets/9c90e17c-8500-4123-9928-0910063f44fe" />
+
+* Yes. [VERY IMPORTANT] 
+
+<img width="1434" height="815" alt="image" src="https://github.com/user-attachments/assets/0b2e7a2e-71e8-450b-8e64-236ce2a0581e" />
+<img width="1437" height="924" alt="image" src="https://github.com/user-attachments/assets/2cdc4f2a-86f2-4f3f-9394-b6823765091c" />
+<img width="1439" height="833" alt="image" src="https://github.com/user-attachments/assets/493c677b-232a-462c-a8bb-e1acfe7ff2ed" />
+<img width="1424" height="793" alt="image" src="https://github.com/user-attachments/assets/127a8f3c-d048-45e3-b797-d7b627569afe" />
+<img width="1434" height="805" alt="image" src="https://github.com/user-attachments/assets/36c69635-686d-4885-b289-9eaa5334ba9a" />
+
+* New Machine. [5]
+
+<img width="230" height="150" alt="image" src="https://github.com/user-attachments/assets/df2ed0bb-9d27-4967-a4c5-8cb3c61128b1" />
+
+* Yes, machine decoded.
+* Decode machine first always.  
+
+<img width="1438" height="857" alt="image" src="https://github.com/user-attachments/assets/8407460d-9466-4fb3-88fd-711f37fd0532" />
+<img width="1436" height="924" alt="image" src="https://github.com/user-attachments/assets/ebb7d2e0-ac82-4ecf-9d90-b544f61753f9" />
+<img width="1900" height="928" alt="image" src="https://github.com/user-attachments/assets/efe7d1c2-6720-4d6a-9119-1c42bbc63b1f" />
+<img width="1438" height="814" alt="image" src="https://github.com/user-attachments/assets/3586e1df-7308-4d94-b14b-bf5c4144a6fd" />
+
+* -1 + 5 ->4.
+
+<img width="1439" height="802" alt="image" src="https://github.com/user-attachments/assets/3576dafa-5303-4643-b777-bb4b468a0e39" />
+
+* Not possible.
+
+<img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/a30dea71-7b5e-48eb-9dd9-50db2f5e5a36" />
+<img width="1436" height="790" alt="image" src="https://github.com/user-attachments/assets/44e3aeb3-c338-41f4-88c9-d85038bd53d9" />
+<img width="1433" height="921" alt="image" src="https://github.com/user-attachments/assets/5a8ae4fa-0d01-4e68-bf58-a9eb4b516915" />
+<img width="1428" height="802" alt="image" src="https://github.com/user-attachments/assets/ed167e67-3234-49f5-800f-746b28ecda80" />
+
+* [VERY IMPORTANT] 
+
+<img width="1440" height="911" alt="image" src="https://github.com/user-attachments/assets/b88fd394-2e17-4cb6-95fa-f63e3597f4dc" />
+<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/67618d4e-3fab-4f1d-8b78-2dda4f781f0b" />
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/d72fe544-cd82-48d0-ba1c-af42bc1de57b" />
+
+* [VERY IMPORTANT] 
 
 
 
