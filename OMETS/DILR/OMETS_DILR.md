@@ -1510,6 +1510,71 @@
 
 ### Input Output (2) [14]
 
+<img width="1433" height="814" alt="image" src="https://github.com/user-attachments/assets/ad59aca1-ad4e-4f50-bac8-0d99916153f3" />
+<img width="1432" height="830" alt="image" src="https://github.com/user-attachments/assets/7470f91e-1e54-47c9-af5e-88d3d3350988" />
+
+* We are interchanging/swapping.
+
+<img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/a0d24b9e-8542-4c73-b18c-f7c404129528" />
+<img width="1434" height="912" alt="image" src="https://github.com/user-attachments/assets/96e6ada5-a90a-4c00-8ff8-78b80a25c6bf" />
+<img width="1396" height="795" alt="image" src="https://github.com/user-attachments/assets/6116f34b-b4a9-4749-bfc3-15f4f31643c8" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="914" alt="image" src="https://github.com/user-attachments/assets/63412ee5-e760-45af-b07b-e592dbabb812" />
+<img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/9ae32695-e026-488b-bdcb-df2de067e8d3" />
+<img width="1431" height="820" alt="image" src="https://github.com/user-attachments/assets/9db39598-1ae1-4acd-9513-7edbc3586573" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/7191496d-30c8-4005-a30b-a172f8c7b3f0" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="795" alt="image" src="https://github.com/user-attachments/assets/785e6bb8-ad53-4a5f-bc76-9fa4cdf78c7f" />
+<img width="1438" height="823" alt="image" src="https://github.com/user-attachments/assets/380c3219-978c-4566-abfc-44fd8c4e2f49" />
+
+* Reverse is not possible.
+
+<img width="1436" height="916" alt="image" src="https://github.com/user-attachments/assets/27b9df8f-6a47-4eab-a1e5-ebb2a020b5cb" />
+<img width="1437" height="817" alt="image" src="https://github.com/user-attachments/assets/3b4dac85-869a-4b1f-8c1b-b73365dfe54d" />
+<img width="1423" height="830" alt="image" src="https://github.com/user-attachments/assets/7beaea1d-a6ef-455c-a3f7-df11b5186477" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="907" alt="image" src="https://github.com/user-attachments/assets/435317d3-dde3-448a-b730-d53be461e7af" />
+<img width="1440" height="806" alt="image" src="https://github.com/user-attachments/assets/7947d9a6-c62b-4212-a54d-a97d34e75008" />
+
+* [VERY IMPORTANT] 
+
+<img width="1439" height="917" alt="image" src="https://github.com/user-attachments/assets/e0ecbbea-9429-4265-a2e5-5e09562a57d8" />
+
+* Alphabet ascending.
+
+<img width="254" height="77" alt="image" src="https://github.com/user-attachments/assets/9e14fef2-9819-43b5-8600-98041cdd424a" />
+
+* Yes.
+
+<img width="1438" height="806" alt="image" src="https://github.com/user-attachments/assets/8b83a70f-fd30-4fb8-ad4a-12e9f94966b6" />
+
+* We are doing **sideways**. [FORMULA] [VERY IMPORTANT] 
+
+<img width="1433" height="841" alt="image" src="https://github.com/user-attachments/assets/bad341f6-f327-4f04-8af5-5373c03b9cac" />
+<img width="1435" height="806" alt="image" src="https://github.com/user-attachments/assets/44c0bf80-ec54-4f97-b29c-72729b0f7338" />
+
+* [VERY IMPORTANT] 
+
+46mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
