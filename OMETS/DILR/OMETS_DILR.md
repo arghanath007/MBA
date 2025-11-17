@@ -1635,6 +1635,59 @@
 
 * [VERY IMPORTANT] 
 
+<img width="1440" height="917" alt="image" src="https://github.com/user-attachments/assets/5c762760-1f72-4ac5-a8de-1292058c0683" />
+<img width="1437" height="797" alt="image" src="https://github.com/user-attachments/assets/212fbb22-1cbb-4ae0-93e1-1968a08aca04" />
+
+* [VERY IMPORTANT] 
+
+<img width="1437" height="920" alt="image" src="https://github.com/user-attachments/assets/a1f0e0bb-2384-49ba-b043-5fa20c75277e" />
+<img width="1432" height="810" alt="image" src="https://github.com/user-attachments/assets/64c48956-d620-479f-a616-5f583934ddad" />
+<img width="1435" height="913" alt="image" src="https://github.com/user-attachments/assets/6322bcbc-6985-4b91-8da2-ddedf76d64ae" />
+<img width="1437" height="809" alt="image" src="https://github.com/user-attachments/assets/054763fa-b1de-4e0b-8aa6-9ab67b877866" />
+<img width="1442" height="918" alt="image" src="https://github.com/user-attachments/assets/ac336ecc-53aa-4daf-b5ff-028e3616a11c" />
+<img width="1422" height="812" alt="image" src="https://github.com/user-attachments/assets/4ffc5549-7a95-4772-98ff-0463c651e178" />
+<img width="1433" height="910" alt="image" src="https://github.com/user-attachments/assets/3a3cf30a-931f-4d09-a787-a92c948b3bf3" />
+<img width="1427" height="805" alt="image" src="https://github.com/user-attachments/assets/859f030c-31cf-4176-b1bf-0202cee7f5cb" />
+<img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/96bbcf5a-00ca-4a52-a8af-86d8de41bda9" />
+
+* New Machine. [7]
+* 1-> Swap of 1st and 2nd value.
+* 2-> Sum of digits.
+* 3-> Swap of 1st and 2nd value.
+* 4-> Multiply by 2.
+* 5-> Alternative of +3 & -2.
+* 6-> Swap of 1st and 2nd value.
+
+<img width="1430" height="832" alt="image" src="https://github.com/user-attachments/assets/e894283b-1d28-4684-90ea-a8b55da48496" />
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/ece70489-9928-4ecf-a056-41b5de2f0db1" />
+<img width="1433" height="828" alt="image" src="https://github.com/user-attachments/assets/094aec09-68db-46c5-b4aa-857c3d909fef" />
+<img width="1420" height="841" alt="image" src="https://github.com/user-attachments/assets/5e94313c-6055-4dfa-876f-f4f5d07fb15b" />
+
+* [VERY IMPORTANT] 
+
+<img width="423" height="156" alt="image" src="https://github.com/user-attachments/assets/824160db-2ae5-4f5d-aaa1-c47a9ff14161" />
+
+* Yes, in the last question reverse is **not possible** to find.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
