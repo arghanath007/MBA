@@ -58,6 +58,18 @@
 
 * [VERY IMPORTANT]
 
+<img width="1424" height="810" alt="image" src="https://github.com/user-attachments/assets/e6f3c337-99e1-4506-aaba-d8734008c7e9" />
+<img width="1440" height="814" alt="image" src="https://github.com/user-attachments/assets/0babdd88-8c56-4078-8132-215adc8ada61" />
+<img width="1428" height="827" alt="image" src="https://github.com/user-attachments/assets/8989cc34-baa2-4ada-ad0c-5eb25f9a35e6" />
+<img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/96bbcf5a-00ca-4a52-a8af-86d8de41bda9" />
+
+* 1-> Swap of 1st and 2nd value.
+* 2-> Sum of digits.
+* 3-> Swap of 1st and 2nd value.
+* 4-> Multiply by 2.
+* 5-> Alternative of +3 & -2.
+* 6-> Swap of 1st and 2nd value.
+
 
 
 
