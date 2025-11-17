@@ -1619,13 +1619,21 @@
 
 * [VERY IMPORTANT] 
 
+### Input Output (3) [15]
 
+<img width="1414" height="809" alt="image" src="https://github.com/user-attachments/assets/788ed03d-1253-45d3-a2ed-38a29878ceeb" />
 
+* [VERY IMPORTANT] 
 
+<img width="1428" height="798" alt="image" src="https://github.com/user-attachments/assets/724e563c-5a27-4a64-9679-77f056931dbf" />
 
+* Random Machine. [VERY IMPORTANT] 
+* New Machine. [6]
 
+<img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/b25f8b05-d743-462b-bd35-34138ae51ceb" />
+<img width="1414" height="794" alt="image" src="https://github.com/user-attachments/assets/cc2b93c9-ec50-42b9-bf06-8e4e26473797" />
 
-
+* [VERY IMPORTANT] 
 
 
 
