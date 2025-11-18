@@ -1669,10 +1669,39 @@
 
 * Yes, in the last question reverse is **not possible** to find.
 
+### Calendar (1) [16]
 
+* 52 weeks -> 52 mondays, 52 tuesdays, 52 wednesdays, 52 thusdays, 52 friday, 52 Saturday, 52 Sunday.
 
+<img width="1417" height="808" alt="image" src="https://github.com/user-attachments/assets/07bf73ae-21fa-4630-9627-e870f66d6d29" />
+<img width="1410" height="787" alt="image" src="https://github.com/user-attachments/assets/29f83183-bba2-45df-8323-a932731b07d4" />
 
+* 2 odd days -> 2 consecutive days.
+* [VERY IMPORTANT] [FORMULA]
 
+<img width="1422" height="817" alt="image" src="https://github.com/user-attachments/assets/ea972518-ee79-4e7e-879b-a627a6055056" />
+
+* Century yr -> 1000, 2000, 3000, 4000, ...
+* Non-Century yr -> 1976, 1982, 1989, 2008, ...
+* 3000 -> Divisible by 4 -> Every yr which is divisible by '4' is not guranteed to be a **leap yr**.
+* Yr divisible by 400 -> Guranteed **leap yr**.
+
+<img width="1426" height="812" alt="image" src="https://github.com/user-attachments/assets/504bf29b-5323-47ad-ba9e-3e8f38d357c5" />
+<img width="1439" height="845" alt="image" src="https://github.com/user-attachments/assets/d7cce430-00cd-41b1-a147-c7974dfaf54d" />
+
+* Century yr -> Leap yr -> divisible by 400. [FORMULA]
+* Non-Century yr -> Leap yr -> divisible by 4. [FORMULA]
+
+<img width="1427" height="827" alt="image" src="https://github.com/user-attachments/assets/4182f4b3-7a32-4351-b387-b85b3b459c05" />
+<img width="1439" height="828" alt="image" src="https://github.com/user-attachments/assets/04ab5920-63d7-4a77-bc1c-0c0816cb7c52" />
+<img width="1422" height="811" alt="image" src="https://github.com/user-attachments/assets/e081d5ff-42d2-4e06-bcb2-c2248ff0ce03" />
+
+* [FORMULA] 
+
+<img width="1436" height="829" alt="image" src="https://github.com/user-attachments/assets/c89429d6-2d49-4f41-966d-4ede3974c233" />
+
+* 100yrs -> 5 odd days.
+* 32mins.
 
 
 
