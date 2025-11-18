@@ -1989,6 +1989,59 @@
 
 ### Clocks (1) [19]
 
+<img width="1438" height="817" alt="image" src="https://github.com/user-attachments/assets/05765412-936f-4f1e-b1e3-92f76de7be64" />
+
+* [FORMULA]
+
+<img width="1400" height="805" alt="image" src="https://github.com/user-attachments/assets/2a213ce2-dd14-4b9d-9c43-f1c4c5e644d4" />
+<img width="1406" height="792" alt="image" src="https://github.com/user-attachments/assets/7c70da6f-4ff9-4b08-a76e-b61902f6db62" />
+
+* Quarter -> 1/4.
+* 60*1/4->15mins.
+
+<img width="1386" height="796" alt="image" src="https://github.com/user-attachments/assets/f415c9f5-1989-4d65-a5c0-9e366864fbd6" />
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/e1614fed-7570-49bf-8812-dabb83275116" />
+<img width="1393" height="789" alt="image" src="https://github.com/user-attachments/assets/84a1c51c-65af-454a-b707-639a06d8c279" />
+<img width="1427" height="858" alt="image" src="https://github.com/user-attachments/assets/7815440d-c9e2-4167-b991-a9d78cf1803f" />
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/edbf6505-9812-464c-af16-3bcbe0070d5a" />
+
+* [FORMULA] 
+
+<img width="1436" height="809" alt="image" src="https://github.com/user-attachments/assets/59f8d8d4-7486-4e97-b558-ad341f4e8d88" />
+<img width="1427" height="816" alt="image" src="https://github.com/user-attachments/assets/25402ad6-093b-4622-8cc1-c7cc4ed11f67" />
+
+* 360-40->320 degree.
+* [VERY IMPORTANT]
+
+<img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/b46b377a-d2d3-4e6c-8bfd-30a3cdbe980f" />
+<img width="1441" height="820" alt="image" src="https://github.com/user-attachments/assets/7d07924a-e118-40f6-87dc-69b4a47ba103" />
+<img width="1442" height="917" alt="image" src="https://github.com/user-attachments/assets/2c7b2bd2-9822-4c46-8a1e-6a909b030c0b" />
+<img width="1399" height="793" alt="image" src="https://github.com/user-attachments/assets/a8831eb0-6259-4572-be82-2a3cd267daec" />
+<img width="1410" height="808" alt="image" src="https://github.com/user-attachments/assets/7bb3c875-7d40-471f-bc1b-b944c12e40e5" />
+<img width="1438" height="920" alt="image" src="https://github.com/user-attachments/assets/c080639f-9aee-41d8-a879-28a3ec0e0df1" />
+<img width="1434" height="804" alt="image" src="https://github.com/user-attachments/assets/74e9b53d-b749-4cd0-98b8-748752982f52" />
+<img width="1414" height="801" alt="image" src="https://github.com/user-attachments/assets/9824a6e6-ebea-44ac-8e55-66949017aac6" />
+
+* [VERY IMPORTANT]
+* Min. angle -> 140. [Can be asked as a question] [VERY IMPORTANT]
+* Max. angle -> 220. [Can be asked as a question] [VERY IMPORTANT]
+
+<img width="1387" height="804" alt="image" src="https://github.com/user-attachments/assets/ba6306ac-b4bd-4c77-8a51-5f6c4cf7e35c" />
+<img width="1436" height="910" alt="image" src="https://github.com/user-attachments/assets/dc22f1c3-e118-4247-9f55-155611efa6a0" />
+
+* Coincide -> Hour hand and minute hand are on top of each other -> Angle is '0' degrees.
+* We have to find the **minute hand or 'M'**.
+
+<img width="1432" height="818" alt="image" src="https://github.com/user-attachments/assets/2e647236-e46b-41c6-95a2-6dcc2f8186da" />
+<img width="1402" height="800" alt="image" src="https://github.com/user-attachments/assets/880d2d63-962b-4b37-91a6-555b217a2711" />
+<img width="1429" height="811" alt="image" src="https://github.com/user-attachments/assets/f60a1e44-4bae-4c4c-af47-8267ef39ad5d" />
+
+* [VERY IMPORTANT] [EXAMPLE]
+
+<img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/d8b98bc8-50a1-4f07-9bec-34a816c603a5" />
+
+48mins.
+
 
 
 
