@@ -1791,6 +1791,157 @@
 
 ### Calendar (2) [17]
 
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/977e2228-0cac-4a7b-9f5e-31422ce9b616" />
+<img width="1429" height="841" alt="image" src="https://github.com/user-attachments/assets/cf5b9cab-f9f4-4779-b7b8-ffb852d27cf2" />
+
+* Leap yr -> 2 odd days-> 20*2->40.
+* 102/7-> 4 odd days.
+
+<img width="1430" height="820" alt="image" src="https://github.com/user-attachments/assets/6209b15d-a26c-41b7-b71d-83edb910e859" />
+
+* Jan->31->31/7->3.
+* Feb->28->28/7->0.
+* 5th March->5/7->5.
+* 8/7->1 odd day.
+
+<img width="1439" height="836" alt="image" src="https://github.com/user-attachments/assets/43611417-32ff-4c09-81a4-f87752eaaa32" />
+
+* 4 + 1-> 5 odd days -> 5 means **Friday**.
+* [VERY IMPORTANT]
+
+<img width="165" height="341" alt="image" src="https://github.com/user-attachments/assets/a9e95153-3301-4176-a8f1-265a55a5ddcf" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1429" height="831" alt="image" src="https://github.com/user-attachments/assets/3b64d939-4aa5-4141-82af-ce5069cc3bea" />
+<img width="1439" height="830" alt="image" src="https://github.com/user-attachments/assets/dc9bf65f-5fec-4c1a-926d-565f9e30588f" />
+
+* [VERY IMPORTANT]
+
+<img width="1441" height="863" alt="image" src="https://github.com/user-attachments/assets/18f18a1e-95a3-46c3-a02c-fafd5a58fcb4" />
+<img width="1411" height="814" alt="image" src="https://github.com/user-attachments/assets/96629a05-4602-45cc-b1d9-37b89acaf0e3" />
+<img width="1431" height="806" alt="image" src="https://github.com/user-attachments/assets/0bb0a9cf-74de-47c7-aa1a-eda8a3ef9f2d" />
+
+* [VERY IMPORTANT]
+
+* 1984-> Leap yr-> Feb -> 29days->29/7-> 1 odd day.
+* 1st Oct-> 1 odd day-> 1/7-> 1.
+
+<img width="1437" height="815" alt="image" src="https://github.com/user-attachments/assets/55e01c12-63be-47d6-a718-6ec56e11ae60" />
+<img width="1429" height="798" alt="image" src="https://github.com/user-attachments/assets/3ba9f6eb-e9cf-48d5-8707-0fe5785ca3a9" />
+<img width="1434" height="909" alt="image" src="https://github.com/user-attachments/assets/1b54cb66-4fb0-4cb9-8f4e-73442ef75f01" />
+<img width="1414" height="789" alt="image" src="https://github.com/user-attachments/assets/87694ee6-3665-498d-a538-8da02629db48" />
+<img width="753" height="409" alt="image" src="https://github.com/user-attachments/assets/3b1882c9-766a-4724-814e-bd92fd5c1a00" />
+<img width="680" height="386" alt="image" src="https://github.com/user-attachments/assets/24e94cf1-9dbe-4d52-8db6-9dfeee2e3e51" />
+
+* We have calculated the date of October 10, 1984 as saturday, which should be wednesday.
+
+<img width="962" height="521" alt="image" src="https://github.com/user-attachments/assets/912d9f56-137f-46fb-a8d1-1f8ee102b3a7" />
+
+* October 10, 1984 -> Wednesday. [VERY IMPORTANT]
+
+<img width="1024" height="767" alt="image" src="https://github.com/user-attachments/assets/076457b0-145d-499d-9b37-5868f5f6ccf9" />
+
+* 1st monday of October 1994. [VERY IMPORTANT]
+
+<img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/5bdc8bc0-545a-4c44-9f34-e2edc72e41e0" />
+
+* 2002 -> Non-leap year -> Till feb 28.
+* 2008 -> Leap year -> Till Feb 29.
+* 2002 and 2008 are not same even thought they start on a **monday**.
+
+<img width="1435" height="821" alt="image" src="https://github.com/user-attachments/assets/7372d86f-1cb4-4126-b866-59e9e959fb9e" />
+<img width="1439" height="831" alt="image" src="https://github.com/user-attachments/assets/b4d9ee3c-8f4a-42d2-8fea-83fd182fbc21" />
+
+* One way. [VERY IMPORTANT]
+* Ans -> Option **D** -> 2013.
+
+<img width="1438" height="824" alt="image" src="https://github.com/user-attachments/assets/78077c9d-8d4e-4c82-897d-c734bd6e591f" />
+<img width="1437" height="833" alt="image" src="https://github.com/user-attachments/assets/9c08e9d5-b7d6-4a47-b7a1-c6ebd601fd94" />
+
+* 2002 -> Non-leap year -> Till feb 28.
+* 2008 -> Leap year -> Till Feb 29 -> So 2002 and 2008 are not same.
+
+<img width="1438" height="832" alt="image" src="https://github.com/user-attachments/assets/17d75097-7746-4ee9-b987-61fda4540eee" />
+
+* Sum->1+1+2+1+1+1+2+1+1+1+2->14.
+
+<img width="1436" height="828" alt="image" src="https://github.com/user-attachments/assets/a7476e97-3b2b-45d9-94ab-d5824aad99ea" />
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/ceeeadf7-88d3-482b-986d-cfbb88e838a2" />
+
+* 2013-> Non-Leap year.
+* Another way. [VERY IMPORTANT]
+
+<img width="836" height="410" alt="image" src="https://github.com/user-attachments/assets/00a68d22-eee0-4556-a75d-379293f75618" />
+
+* [FORMULA] 
+
+<img width="1439" height="812" alt="image" src="https://github.com/user-attachments/assets/ce1b35cd-4bd5-425a-a4e2-4689bfa1678c" />
+
+* 1984->Leap yr.
+* 1984+28->2012. [Answer]
+* [VERY IMPORTANT]
+
+<img width="1437" height="925" alt="image" src="https://github.com/user-attachments/assets/d89182a5-6ca9-4755-93dc-e5ba19b21936" />
+
+* 2004->Leap yr.
+* 2004+28->2032. [Answer]
+* 2004 and 2032 calendars will be the **same**.
+* Ans -> Option **C**.
+
+<img width="1398" height="796" alt="image" src="https://github.com/user-attachments/assets/7a12d393-93d1-4c73-be47-87965aa4e049" />
+<img width="1435" height="916" alt="image" src="https://github.com/user-attachments/assets/b90e71d7-e083-4e64-86b4-4ee1368963a9" />
+
+* Leap Yr -> Divisible by 4 or 400 in case of century leap years. [VERY IMPORTANT]
+
+<img width="1403" height="791" alt="image" src="https://github.com/user-attachments/assets/8c0efd96-ba1a-4347-966b-45480fa2148d" />
+<img width="1416" height="805" alt="image" src="https://github.com/user-attachments/assets/217ebe8f-5390-4bb6-a671-64f36309c5a9" />
+<img width="432" height="242" alt="image" src="https://github.com/user-attachments/assets/a77b02ba-699e-4d5e-9b4f-8a8a30b3b2e5" />
+
+* Yes.
+
+<img width="1397" height="484" alt="image" src="https://github.com/user-attachments/assets/55f31d9b-7593-461e-955c-83a97a9f2c30" />
+<img width="1440" height="918" alt="image" src="https://github.com/user-attachments/assets/50000f33-6037-45c5-9eae-f69f6c3147f4" />
+<img width="1403" height="789" alt="image" src="https://github.com/user-attachments/assets/e5fc3eaa-91c6-47c0-ad9f-84ccea017937" />
+<img width="1442" height="916" alt="image" src="https://github.com/user-attachments/assets/bd0d8f8f-e93c-4491-a1a0-3d1bbaf0881f" />
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/6b691bfd-08e4-461c-b0f0-a0a7865db328" />
+
+* [VERY IMPORTANT]
+
+<img width="1433" height="816" alt="image" src="https://github.com/user-attachments/assets/de29941d-89eb-47fe-9f6c-275313ffc89c" />
+<img width="1393" height="792" alt="image" src="https://github.com/user-attachments/assets/82a00380-77a6-4abb-b1f3-86d05d6b4860" />
+
+* Ans -> Option **D** -> Tuesday.
+
+<img width="1393" height="784" alt="image" src="https://github.com/user-attachments/assets/0c576e23-7a4c-4cff-bb65-cdcc6c5b1b1c" />
+<img width="879" height="433" alt="image" src="https://github.com/user-attachments/assets/a0920c6c-672f-426f-bf0d-d5ee736384ac" />
+
+* [FORMULA]
+
+<img width="1430" height="916" alt="image" src="https://github.com/user-attachments/assets/7391d3b0-ac93-4a52-b7ee-2de03fee3136" />
+<img width="1438" height="798" alt="image" src="https://github.com/user-attachments/assets/1594a3a3-e553-46fb-950e-664f3a536d0c" />
+<img width="1427" height="823" alt="image" src="https://github.com/user-attachments/assets/e1939974-2ee1-40ee-aff0-1642a3bac588" />
+<img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/1cc1d757-c5d4-45f8-ae69-c12ee0370ae1" />
+
+* 30/7-> 2 odd days.
+* 8/7-> 1 odd day -> Monday.
+* Ans -> Option **B** -> Monday.
+
+<img width="989" height="332" alt="image" src="https://github.com/user-attachments/assets/cd5117dc-846d-4667-81ac-1e60c7a6fb38" />
+
+* Answer.
+
+### Calendar (3) [18]
+
+
+
+
+
+
+
+
+
+
 
 
 
