@@ -1933,6 +1933,65 @@
 
 ### Calendar (3) [18]
 
+<img width="1430" height="922" alt="image" src="https://github.com/user-attachments/assets/38dd954f-e4cc-4127-872d-5fb24aa8bed0" />
+<img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/2fe735dd-4f29-4664-9fa2-cec34f27af6e" />
+<img width="1415" height="803" alt="image" src="https://github.com/user-attachments/assets/09a55a8b-0ae2-4081-8d1b-cb823f5cd312" />
+<img width="1433" height="822" alt="image" src="https://github.com/user-attachments/assets/5ef099b0-1470-43f6-9936-fa6e7b9d7859" />
+
+* March->31-12->19.
+* No holiday. [Answer] [VERY IMPORTANT]   
+
+<img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/01b6850f-ff68-4362-912d-b2f265e76fbf" />
+<img width="1425" height="817" alt="image" src="https://github.com/user-attachments/assets/6f1f5b79-872c-4a3c-b5fc-1430586521e9" />
+<img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/844fa763-d494-4db8-86de-905f3bb13665" />
+<img width="1393" height="790" alt="image" src="https://github.com/user-attachments/assets/58dfe6c3-dbf6-45e1-a8f0-1636f9f0b1ed" />
+<img width="1442" height="919" alt="image" src="https://github.com/user-attachments/assets/83ca7ab5-611c-4d3b-af8d-875801c3d698" />
+<img width="1416" height="804" alt="image" src="https://github.com/user-attachments/assets/3bd36d95-816f-413c-9b86-6c4b10c495fc" />
+<img width="1404" height="814" alt="image" src="https://github.com/user-attachments/assets/f487f46d-7754-40c6-8a23-3cabbe32ad6f" />
+
+*  [VERY IMPORTANT]   
+
+<img width="1436" height="918" alt="image" src="https://github.com/user-attachments/assets/e1be9e35-3f9a-49aa-be80-357c5759df53" />
+<img width="1394" height="790" alt="image" src="https://github.com/user-attachments/assets/7de0b287-aef6-4793-abf8-e5b107b988f9" />
+<img width="1428" height="792" alt="image" src="https://github.com/user-attachments/assets/df2780fd-56c9-42aa-b338-2cb72e1ecde0" />
+<img width="293" height="426" alt="image" src="https://github.com/user-attachments/assets/e7306d80-1105-410c-82a6-93f9a9c5c952" />
+<img width="1393" height="796" alt="image" src="https://github.com/user-attachments/assets/fae03609-9391-4fbb-aad2-d20681d75891" />
+<img width="1389" height="793" alt="image" src="https://github.com/user-attachments/assets/e1205bdf-44a9-480b-b520-c3f301c62aef" />
+
+* Mon, Tues->53 times.
+
+<img width="1413" height="825" alt="image" src="https://github.com/user-attachments/assets/0269c0dd-a79a-401f-babe-b96bc7a3fae1" />
+
+*  [VERY IMPORTANT]   
+
+<img width="1430" height="912" alt="image" src="https://github.com/user-attachments/assets/012800dc-6d27-4d8d-8e2a-67e71917afda" />
+<img width="1411" height="797" alt="image" src="https://github.com/user-attachments/assets/10e98af9-6b58-4789-8640-e54c22e89119" />
+<img width="1393" height="787" alt="image" src="https://github.com/user-attachments/assets/4eb7e7c7-2054-4586-8af4-2b16449b740b" />
+<img width="1436" height="918" alt="image" src="https://github.com/user-attachments/assets/35aaf1ef-590f-42c5-ba13-cb3da63cb05c" />
+<img width="1431" height="814" alt="image" src="https://github.com/user-attachments/assets/44547e8c-9f62-4bd3-ad3b-9c5c87a986d8" />
+
+* Divisible by 400.
+
+<img width="1433" height="791" alt="image" src="https://github.com/user-attachments/assets/a7d143f9-fff2-463f-9d40-995f0fbdaec7" />
+<img width="1426" height="810" alt="image" src="https://github.com/user-attachments/assets/29cc0265-0448-42ce-8f55-402a4d9d46e0" />
+<img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/f76c5f70-099e-4139-8c7f-625ec7fa56df" />
+<img width="1430" height="808" alt="image" src="https://github.com/user-attachments/assets/68bc7a7f-78c2-4333-9302-7883150c7c51" />
+
+* This is a better way. [VERY IMPORTANT]
+* Ans -> Option **B** -> Wednesday.
+
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/d25ce9bf-386a-4323-a170-1c610132a4dd" />
+<img width="1393" height="796" alt="image" src="https://github.com/user-attachments/assets/0b465b2e-1509-4041-87c8-c5eddb3b69a5" />
+
+* Getting confused between if '5' is 'Thusday OR Friday'. If it is starting from '0' or '1'. [VERY IMPORTANT]
+
+<img width="1437" height="817" alt="image" src="https://github.com/user-attachments/assets/5aefbb23-3d60-439a-8595-79f354f4ea17" />
+
+### Clocks (1) [19]
+
+
+
+
 
 
 
