@@ -1701,19 +1701,95 @@
 <img width="1436" height="829" alt="image" src="https://github.com/user-attachments/assets/c89429d6-2d49-4f41-966d-4ede3974c233" />
 
 * 100yrs -> 5 odd days.
-* 32mins.
 
+<img width="1412" height="824" alt="image" src="https://github.com/user-attachments/assets/ce2aac04-a528-482d-9427-9ffc82127668" />
 
+* [FORMULA]
 
+<img width="1404" height="574" alt="image" src="https://github.com/user-attachments/assets/f27cdf28-7b08-4a7f-9f22-4c95f023f54d" />
+<img width="1404" height="397" alt="image" src="https://github.com/user-attachments/assets/4d5a4566-80f7-480c-ac8b-58e083bc76d2" />
+<img width="1401" height="567" alt="image" src="https://github.com/user-attachments/assets/8e99dd31-63d1-4985-bc01-302ce171d0d7" />
 
+* [Example]
+* 2004 -> Leap year -> Divisible by '4'.
 
+<img width="1408" height="811" alt="image" src="https://github.com/user-attachments/assets/291a0281-f071-400f-8d4b-f5de936daab0" />
+<img width="1440" height="819" alt="image" src="https://github.com/user-attachments/assets/2b80abd8-b520-4531-a697-810320802f54" />
 
+* [Example] [VERY IMPORTANT]
 
+<img width="1429" height="917" alt="image" src="https://github.com/user-attachments/assets/605530c4-c9c3-48cf-bead-3a5c3f44d312" />
+<img width="1434" height="800" alt="image" src="https://github.com/user-attachments/assets/7211b94b-5e6e-4b65-ada4-b7052b279543" />
+<img width="1432" height="908" alt="image" src="https://github.com/user-attachments/assets/9b574a02-51f3-4090-8a87-ee70337fcae0" />
 
+* [VERY IMPORTANT]
 
+<img width="1435" height="799" alt="image" src="https://github.com/user-attachments/assets/fef3672c-8e9f-4d12-9886-0011b1e5fe6f" />
+<img width="1435" height="836" alt="image" src="https://github.com/user-attachments/assets/02ea481b-c98f-4162-96be-98afd1572454" />
 
+* 1992 is a leap yr -> 366 days -> 2 odd days -> x+2 + 2-> x+4.
 
+<img width="1440" height="824" alt="image" src="https://github.com/user-attachments/assets/5567491c-e70d-4b30-84a4-46cf09850c4a" />
+<img width="1428" height="813" alt="image" src="https://github.com/user-attachments/assets/af5c8ac2-a705-437f-b230-fb544bf5b2f0" />
+<img width="1434" height="830" alt="image" src="https://github.com/user-attachments/assets/9b684bf2-2c20-4a4f-b3ed-ab40981d3c9e" />
 
+* 79/7-> 2 odd days.
+
+<img width="1433" height="836" alt="image" src="https://github.com/user-attachments/assets/19e3e72a-3ee3-4c8f-a247-abb45e246918" />
+
+* [VERY IMPORTANT]
+
+<img width="1418" height="801" alt="image" src="https://github.com/user-attachments/assets/4a7d4d3a-bd7d-4c62-888a-308a1237396f" />
+
+* This is better. [VERY IMPORTANT]
+* 9/7-> 2 odd days.
+
+<img width="1441" height="906" alt="image" src="https://github.com/user-attachments/assets/276b5c89-a8aa-4aff-be21-02a0d2c7f256" />
+<img width="1394" height="791" alt="image" src="https://github.com/user-attachments/assets/730ebaf8-e6f3-4db4-9b34-00dc1a7e711d" />
+<img width="1436" height="911" alt="image" src="https://github.com/user-attachments/assets/b14f58de-d7c9-4f4a-a1ed-8a2e31592908" />
+<img width="1431" height="807" alt="image" src="https://github.com/user-attachments/assets/4c468a1c-3e4a-44b8-b56b-55ec628b5fe5" />
+<img width="1439" height="911" alt="image" src="https://github.com/user-attachments/assets/8b8ade43-0806-4ee4-b6e9-bc3406d8db30" />
+<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/a08b8770-ac40-43cf-8f4a-c923b0b232af" />
+<img width="1437" height="928" alt="image" src="https://github.com/user-attachments/assets/beb31822-2398-4212-be37-3f3583a299c3" />
+<img width="1439" height="794" alt="image" src="https://github.com/user-attachments/assets/efb4a45b-4a4d-4eba-ba29-a03a586efc98" />
+<img width="1423" height="820" alt="image" src="https://github.com/user-attachments/assets/93c99c2c-802f-4e03-a1a0-d47fe1165bad" />
+
+* [VERY IMPORTANT]
+
+<img width="373" height="114" alt="image" src="https://github.com/user-attachments/assets/8f936cb7-3fe1-43ba-841f-d3ec9a512722" />
+
+* Yes.
+
+<img width="1439" height="928" alt="image" src="https://github.com/user-attachments/assets/ddda0cca-9e40-4aee-b50f-324535e84cd6" />
+<img width="1411" height="811" alt="image" src="https://github.com/user-attachments/assets/c0af6b39-9a96-40f1-8bd9-52a802cde8cd" />
+<img width="1432" height="822" alt="image" src="https://github.com/user-attachments/assets/c1f56a6f-e2d2-4b67-860f-73d8700d2e15" />
+
+* April -> 30days.
+* 1st april -> 1st is gone -> 30-1->29 days.
+
+<img width="1438" height="829" alt="image" src="https://github.com/user-attachments/assets/5696bc09-b19d-43b8-92ee-b324ba168155" />
+
+* 122/7-> 3 odd days.
+
+<img width="1438" height="809" alt="image" src="https://github.com/user-attachments/assets/6d3bf19d-4fb7-46b3-80f0-6f4337f470ff" />
+
+* One way.
+
+<img width="1437" height="828" alt="image" src="https://github.com/user-attachments/assets/07cd7c36-db8c-42ca-8e90-2ec77f217ba6" />
+<img width="1431" height="807" alt="image" src="https://github.com/user-attachments/assets/38b7d504-17b1-4d61-9477-3c07aa82b14d" />
+
+* 10/7-> 3 odd days.
+* Second way.
+
+<img width="1439" height="828" alt="image" src="https://github.com/user-attachments/assets/3a10cf77-fc91-4cc0-98a4-a0f5a95579e2" />
+<img width="1438" height="815" alt="image" src="https://github.com/user-attachments/assets/c24ff366-e084-4812-8cd5-3f733c39e398" />
+<img width="1427" height="816" alt="image" src="https://github.com/user-attachments/assets/19807ea5-53bf-4195-982c-8fa99ab83bb8" />
+<img width="1432" height="818" alt="image" src="https://github.com/user-attachments/assets/6f44b650-b329-455c-b6e5-65db2902601f" />
+<img width="1430" height="805" alt="image" src="https://github.com/user-attachments/assets/93a75d0e-037b-4f9b-8870-49f316efb995" />
+
+* [VERY IMPORTANT]
+
+### Calendar (2) [17]
 
 
 
