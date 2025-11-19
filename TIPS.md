@@ -61,10 +61,16 @@
 <img width="1428" height="827" alt="image" src="https://github.com/user-attachments/assets/8989cc34-baa2-4ada-ad0c-5eb25f9a35e6" />
 <img width="565" height="333" alt="image" src="https://github.com/user-attachments/assets/0e538ead-6df2-46d2-98f1-d39187b69efa" />
 
+### SNAP
+
+<img width="836" height="176" alt="image" src="https://github.com/user-attachments/assets/cdff56c6-02be-4b9b-9b0a-58afb0ac2120" />
+
 ### NMAT
 
 <img width="1424" height="810" alt="image" src="https://github.com/user-attachments/assets/e6f3c337-99e1-4506-aaba-d8734008c7e9" />
 <img width="1440" height="814" alt="image" src="https://github.com/user-attachments/assets/0babdd88-8c56-4078-8132-215adc8ada61" />
+<img width="1101" height="763" alt="image" src="https://github.com/user-attachments/assets/39fa844a-8854-4f61-9743-b22b3237fd3d" />
+<img width="1323" height="809" alt="image" src="https://github.com/user-attachments/assets/f57dedba-1f2d-4005-a849-c7de9d765a15" />
 
 
 
