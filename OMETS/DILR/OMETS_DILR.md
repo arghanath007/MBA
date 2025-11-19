@@ -2039,18 +2039,61 @@
 * [VERY IMPORTANT] [EXAMPLE]
 
 <img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/d8b98bc8-50a1-4f07-9bec-34a816c603a5" />
+<img width="1409" height="818" alt="image" src="https://github.com/user-attachments/assets/4ab7cb53-7ffc-46ee-930b-122b3b710ba2" />
 
-48mins.
+* Opposite direction -> 180 degree.
+* Ans -> Option **B**.
+* [VERY IMPORTANT]
 
+<img width="1432" height="832" alt="image" src="https://github.com/user-attachments/assets/14825a02-2736-42fc-94dc-07efe59f0625" />
+<img width="1426" height="820" alt="image" src="https://github.com/user-attachments/assets/0068aabd-08c2-4520-819c-32d8be006c0c" />
+<img width="1442" height="907" alt="image" src="https://github.com/user-attachments/assets/15d86f64-ce08-41c8-be78-b7b38bfc77c5" />
+<img width="1410" height="791" alt="image" src="https://github.com/user-attachments/assets/c7938126-9e5f-4afa-9cb1-0c962b9aaefa" />
 
+* [VERY IMPORTANT]
 
+<img width="1068" height="442" alt="image" src="https://github.com/user-attachments/assets/519a3560-4190-4d80-9180-adad2ddae398" />
+<img width="1226" height="400" alt="image" src="https://github.com/user-attachments/assets/44395de4-4c1d-4f2a-93ff-7e1132c5f5ae" />
 
+* Some angles are made '2' times in '1hr'. [FORMULA]
+* Some angles are made '1' time in '1hr'. [FORMULA]
 
+<img width="1430" height="914" alt="image" src="https://github.com/user-attachments/assets/2752542f-ef83-403b-b5dc-a56302475795" />
+<img width="1421" height="805" alt="image" src="https://github.com/user-attachments/assets/8753d10f-db1a-48ad-834e-d9660c968b3e" />
+<img width="1221" height="393" alt="image" src="https://github.com/user-attachments/assets/f41236d1-a348-418e-9838-942f139191ab" />
 
+* [FORMULA]
 
+<img width="220" height="108" alt="image" src="https://github.com/user-attachments/assets/228d3a99-28b9-4255-a2b8-3b097b70d437" />
 
+* Yes.
 
+<img width="1429" height="828" alt="image" src="https://github.com/user-attachments/assets/1137e31e-75f9-4d73-b69e-03f65fb3bef2" />
+<img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/ea30e053-3bd3-457b-aa10-7c9da070523e" />
 
+* Angle = '0' degree doesn't happen between '12' and '1'. First time it happens between '1' & '2'. [FORMULA]
+
+<img width="1438" height="831" alt="image" src="https://github.com/user-attachments/assets/29346f3f-c19b-45ba-8308-2ecfa04da9b2" />
+<img width="1430" height="828" alt="image" src="https://github.com/user-attachments/assets/dbe2b687-7332-4e40-8303-a5bb2203a62b" />
+
+* 12hrs -> 11 times.
+* 24hrs -> 22 times.
+* [FORMULA]
+
+<img width="1407" height="806" alt="image" src="https://github.com/user-attachments/assets/757a0d3b-e4e9-4371-858f-df630d7ff4c1" />
+
+* 1st time '0' degree -> Between '1' and '2' -> 1:05 5/11.
+
+<img width="1252" height="810" alt="image" src="https://github.com/user-attachments/assets/20f7712b-5018-496c-918f-e21dfdf8b204" />
+<img width="1439" height="814" alt="image" src="https://github.com/user-attachments/assets/6e8250f5-ec7a-466b-a89f-38404a89576d" />
+
+* 1hr->60mins
+* 1:05 5/11 -> 60 + 5 5/11 -> 65 5/11.
+
+<img width="1440" height="839" alt="image" src="https://github.com/user-attachments/assets/f08281cc-fdd4-4539-9209-7c82ab3e03be" />
+<img width="1420" height="824" alt="image" src="https://github.com/user-attachments/assets/602d2e8f-8e5c-46b7-95ae-2372fbd980ec" />
+
+* [FORMULA]
 
 
 
