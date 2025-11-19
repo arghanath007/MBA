@@ -2256,6 +2256,88 @@
 
 ### Non-verbal Reasoning (1) [21]
 
+* Weightage -> 1-2 questions.
+
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/1a028849-f4a6-4fa6-88e5-9379165e5756" />
+
+* CR.
+
+<img width="1440" height="828" alt="image" src="https://github.com/user-attachments/assets/30d7eff2-2046-4799-bb9e-c322fc78b469" />
+<img width="1425" height="808" alt="image" src="https://github.com/user-attachments/assets/dc9666bb-5aa6-4d62-895e-ee963c46fa9f" />
+<img width="1872" height="887" alt="image" src="https://github.com/user-attachments/assets/97c0ff19-f1df-44e7-b0a1-52ec6258b5c1" />
+<img width="1421" height="820" alt="image" src="https://github.com/user-attachments/assets/fc4f3017-823c-4d55-8ce9-2255d833d74c" />
+
+* Questions
+
+<img width="1440" height="907" alt="image" src="https://github.com/user-attachments/assets/4e98e3f8-5954-4d47-b7e4-f4385f09f370" />
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/7f943e9c-15c1-4b9c-b3ad-80f13e014068" />
+<img width="1429" height="817" alt="image" src="https://github.com/user-attachments/assets/4b54a513-4fb8-4db3-9d32-7ce90d1946c0" />
+<img width="1430" height="811" alt="image" src="https://github.com/user-attachments/assets/37be0a1f-6353-408b-9cfd-6f7c5e962e28" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="904" alt="image" src="https://github.com/user-attachments/assets/af0c91fa-b7f5-4f0b-b9b1-8cc73c7c6810" />
+<img width="1439" height="819" alt="image" src="https://github.com/user-attachments/assets/ae43d547-1666-49ab-acec-3f8a9bcd73fb" />
+<img width="1435" height="903" alt="image" src="https://github.com/user-attachments/assets/d178bca4-3d48-4d76-9917-04f39d3a3351" />
+<img width="1407" height="794" alt="image" src="https://github.com/user-attachments/assets/2e509ee9-d968-4965-9afa-410b6c64e46b" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="917" alt="image" src="https://github.com/user-attachments/assets/6be2bab4-2ae7-461a-ad29-ace31f06ec3b" />
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/7e84cec0-557d-446e-9bd9-5ba243d45892" />
+<img width="1079" height="512" alt="image" src="https://github.com/user-attachments/assets/c12ad195-2294-4995-b7d6-cbd3b74da547" />
+<img width="1433" height="917" alt="image" src="https://github.com/user-attachments/assets/1dd1fc41-5dcd-48d8-a18e-c89788f8c6ba" />
+<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/84302b63-3631-49d0-90c2-7cb3a4d3b1ec" />
+<img width="1435" height="913" alt="image" src="https://github.com/user-attachments/assets/f85ae125-25be-4e5b-8f53-853b2a9a5c2a" />
+<img width="1437" height="813" alt="image" src="https://github.com/user-attachments/assets/c3bbca27-0891-4fa6-afc9-4982674867a7" />
+<img width="1438" height="910" alt="image" src="https://github.com/user-attachments/assets/8e4a1b33-c10d-457f-9d90-c01d57c8c63e" />
+
+* [VERY IMPORTANT]
+
+<img width="1393" height="795" alt="image" src="https://github.com/user-attachments/assets/6aef4912-a878-46b1-adfe-2f3db657a4fa" />
+<img width="1399" height="799" alt="image" src="https://github.com/user-attachments/assets/122c3317-7c12-44e5-bb3a-5db9eb587073" />
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/4036caf3-6d62-471d-b6a7-0e3b62e5795b" />
+<img width="1435" height="902" alt="image" src="https://github.com/user-attachments/assets/59a9f629-bde0-41ef-abaa-de051d789cc6" />
+<img width="1426" height="820" alt="image" src="https://github.com/user-attachments/assets/f9f510cb-1439-474f-95e5-906bf1b60f78" />
+
+* 1st to 2nd figure.
+* Circle moves -> 90 degree anti-clockwise.
+* Square moves -> 180 degree clock-wise.
+
+<img width="1430" height="794" alt="image" src="https://github.com/user-attachments/assets/965f5c28-050a-4491-bf13-5019afb33ae8" />
+
+* 2nd to 3rd figure.
+* Circle moves -> 180 degree anti-clockwise.
+* Square moves -> 90 degree clock-wise.
+
+<img width="1436" height="802" alt="image" src="https://github.com/user-attachments/assets/3254aba1-6c5c-4687-b235-b7c6e601b3a5" />
+<img width="1436" height="793" alt="image" src="https://github.com/user-attachments/assets/80c7594e-1276-4b54-88af-538bfc115449" />
+
+* [VERY IMPORTANT]
+
+<img width="1420" height="789" alt="image" src="https://github.com/user-attachments/assets/8991fb65-e06d-4ee6-ab7b-24a9b14e681a" />
+<img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/89b7a240-4806-422b-862f-c257c92b43c9" />
+
+* 1st to 2nd -> Top-right '4' moved -> Clock-wise direction.
+* 2nd to 3rd -> bottom-right '4' moved -> Anti-clock-wise direction.
+* 3rd to 4th -> bottom-left '4' moved -> Clock-wise direction.
+* 4th to 5th -> top-left '4' moved -> Anti-clock-wise direction.
+* 5th to answer -> top-right '4' moved -> Clock-wise direction.
+
+<img width="1429" height="783" alt="image" src="https://github.com/user-attachments/assets/4e7f7e6b-53d0-43f9-a4fa-51d94670dc1c" />
+<img width="1387" height="793" alt="image" src="https://github.com/user-attachments/assets/8f281714-c6af-4978-9c65-864fa2c149bd" />
+
+* [VERY IMPORTANT]
+
+### Non-verbal Reasoning (2) [22]
+
+
+
+
+
+
+
+
 
 
 
