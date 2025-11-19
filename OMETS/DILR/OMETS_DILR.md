@@ -2115,14 +2115,146 @@
 
 ### Clocks (2) [20]
 
+* Normal angles happens in any '1hr'-> 2 times. [FORMULA]
+* 12hrs->22times.
+* 24hrs->44times.
 
+<img width="1406" height="793" alt="image" src="https://github.com/user-attachments/assets/166f0955-36d8-4b7e-95f5-5008353d65f8" />
 
+* Ans -> Option **C** -> 44. [FORMULA]
 
+<img width="1442" height="912" alt="image" src="https://github.com/user-attachments/assets/55e35ac6-b3ea-4885-a09c-35e1e59b243e" />
 
+* Overlap -> Angle is '0' degrees. [FORMULA]
+* '12' to '1' -> No or '0' overlap -> 7-1-> 6 times. [FORMULA] [VERY IMPORTANT]
 
+<img width="1427" height="820" alt="image" src="https://github.com/user-attachments/assets/3aba7963-2bb0-4aab-850e-8463e1c5bfde" />
+<img width="201" height="80" alt="image" src="https://github.com/user-attachments/assets/22c7fb29-5ea9-4b52-bc72-16ad53e6ab3a" />
 
+* Yes.
 
+<img width="1430" height="802" alt="image" src="https://github.com/user-attachments/assets/ae6e2c9f-8484-4282-9f22-8b8678f97f41" />
+<img width="1432" height="804" alt="image" src="https://github.com/user-attachments/assets/b70032cd-9915-4227-85a8-038aea9e0d92" />
 
+* [VERY IMPORTANT]
+
+#### Clock Errors
+
+<img width="1424" height="808" alt="image" src="https://github.com/user-attachments/assets/ef606030-9e94-46db-b48a-3455b02615ff" />
+<img width="1424" height="806" alt="image" src="https://github.com/user-attachments/assets/9d40e35d-64cb-4999-8106-eb87a8297677" />
+<img width="1402" height="799" alt="image" src="https://github.com/user-attachments/assets/0fbdda4f-be04-467b-91e1-82ea484fadb2" />
+
+* Gap -> 2mins.
+* Gap -> 10hrs.
+* 5hrs -> 1min.
+* [VERY IMPORTANT]
+
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/1e4a7ef0-96f0-4a6c-84af-645268617090" />
+<img width="1435" height="799" alt="image" src="https://github.com/user-attachments/assets/b85436e1-427b-4c0a-8d07-bf875b30ed1a" />
+<img width="1424" height="803" alt="image" src="https://github.com/user-attachments/assets/103bd8d0-ae84-42dd-8bf0-90deda57f630" />
+
+* [VERY IMPORTANT]
+
+<img width="1436" height="908" alt="image" src="https://github.com/user-attachments/assets/41cdfa4b-5afe-4385-822b-206923eec977" />
+<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/7736412d-605e-4b5f-9122-e858def20358" />
+<img width="1443" height="911" alt="image" src="https://github.com/user-attachments/assets/b1f6de1c-e00e-4764-88eb-00dd1acab509" />
+
+* [VERY IMPORTANT]
+* Overtakes-> 1st time meeting. [FORMULA]
+* 1st time meeting between minute and hour hand -> 1:05 5/11->65 5/11 mins. [FORMULA]
+* Minute hand took 65 5/11 mins. [FORMULA]
+* In a normal clock, minute hand takes 65 5/11 mins to **catch** the hour hand. [FORMULA]
+* If it is not able to do so then either the clock is running fast or it is running slow. [FORMULA]
+* Hour and minute hand do not meet from '12' to '1'.
+* Hour and minute hand meet from '1' to '2' for the 1st time.
+
+<img width="1425" height="797" alt="image" src="https://github.com/user-attachments/assets/e27fdaff-92bd-4c63-8259-bfedd50798e9" />
+<img width="1435" height="837" alt="image" src="https://github.com/user-attachments/assets/2abca832-a69f-4d35-a9d1-d4ab3f9317a3" />
+<img width="1426" height="815" alt="image" src="https://github.com/user-attachments/assets/e1da83b3-35ab-410b-9dbf-0303631b160e" />
+
+* Normal time -> 65 5/11 mins.
+* Fast -> 60mins.
+
+<img width="1441" height="837" alt="image" src="https://github.com/user-attachments/assets/6983cae6-d213-466a-9f48-e53a6759b7f1" />
+<img width="1440" height="830" alt="image" src="https://github.com/user-attachments/assets/8855c50d-0a9e-4829-aca5-c016e6920682" />
+<img width="1429" height="818" alt="image" src="https://github.com/user-attachments/assets/ee39a1fa-22ed-466c-b788-bf8b114ae16a" />
+
+* Gain -> 65 5/11 - 60 -> 5 5/11mins faster.
+* Ans -> option **A**.
+* [VERY IMPORTANT]
+
+<img width="1440" height="919" alt="image" src="https://github.com/user-attachments/assets/d30f326c-c607-48ab-8f3c-7dd79df5718f" />
+<img width="1415" height="809" alt="image" src="https://github.com/user-attachments/assets/1a6d2e6b-1197-4f28-8851-0197c01e70a2" />
+<img width="1430" height="825" alt="image" src="https://github.com/user-attachments/assets/662c6d50-00f6-4338-a47f-ea1b1a4a0c71" />
+
+* [VERY IMPORTANT]
+
+<img width="1436" height="928" alt="image" src="https://github.com/user-attachments/assets/dc845568-c0ab-47f3-880a-02e836a6f08e" />
+<img width="1407" height="807" alt="image" src="https://github.com/user-attachments/assets/8feaa93f-3780-4fc0-b87c-7c0719016cc1" />
+<img width="1439" height="822" alt="image" src="https://github.com/user-attachments/assets/2c3f2063-8b31-4118-a66c-b6b0ae0e64ff" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/a5bb954b-864b-4c51-b0db-1a4fe86cc697" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="808" alt="image" src="https://github.com/user-attachments/assets/641907c3-9fba-4278-93bd-42eaad2bd8e9" />
+<img width="1432" height="810" alt="image" src="https://github.com/user-attachments/assets/5bf87709-e0d5-4f74-b61b-e193744d33f7" />
+
+* [VERY IMPORTANT]
+
+<img width="428" height="99" alt="image" src="https://github.com/user-attachments/assets/1568a0a9-fe8c-44af-aff5-7501898e1882" />
+
+* Yes.
+
+<img width="1439" height="917" alt="image" src="https://github.com/user-attachments/assets/e1be4bb6-2f27-45ca-b7f5-f926277ce953" />
+
+* Hour hand Sum->11. [FORMULA]
+* Minute hand Sum->60. [FORMULA]
+* 10+1->11.
+* 40+20->60.
+
+<img width="1436" height="816" alt="image" src="https://github.com/user-attachments/assets/f3f109c4-c0bf-4e16-8889-d9667a8ae141" />
+
+* [VERY IMPORTANT]
+
+<img width="238" height="74" alt="image" src="https://github.com/user-attachments/assets/68a8e977-fd0b-438d-9395-8fc951ec65d8" />
+
+* Yes.
+
+<img width="1441" height="801" alt="image" src="https://github.com/user-attachments/assets/af433465-889c-4623-806e-ca84e7b8b19d" />
+<img width="600" height="233" alt="image" src="https://github.com/user-attachments/assets/c0535403-b491-48a3-b981-eaf4b7faaa87" />
+
+* Mirage image of 3:45.
+* 3+8-> 11.
+* 45+15->60.
+* Mirage image of 3:45-> 8:15.[Answer]
+
+<img width="1436" height="819" alt="image" src="https://github.com/user-attachments/assets/368a2538-07a9-4d67-9d9e-406e4784d586" />
+<img width="1414" height="786" alt="image" src="https://github.com/user-attachments/assets/31d3dc16-706d-4535-8a04-d070d11f32f4" />
+<img width="1440" height="920" alt="image" src="https://github.com/user-attachments/assets/43696556-fc20-46cd-821f-6d78f9e809b6" />
+<img width="1436" height="796" alt="image" src="https://github.com/user-attachments/assets/0df7c794-380c-4264-bb58-1f51e746f7ce" />
+
+* [VERY IMPORTANT]
+
+<img width="1089" height="687" alt="image" src="https://github.com/user-attachments/assets/03211661-1413-405c-a8d7-2c788e032d9d" />
+
+* [FORMULA]
+
+<img width="1440" height="925" alt="image" src="https://github.com/user-attachments/assets/ab720920-3132-4113-aa65-af3be436a218" />
+<img width="1430" height="814" alt="image" src="https://github.com/user-attachments/assets/9e719eca-7fa8-4bec-a24e-f41d8bb81f15" />
+<img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/d8a369e1-9748-438c-a5a9-ed895e26fec2" />
+<img width="1438" height="813" alt="image" src="https://github.com/user-attachments/assets/48bd1146-91e5-4529-a1ff-d2a3adedd830" />
+<img width="1425" height="805" alt="image" src="https://github.com/user-attachments/assets/4d2cb263-e4e2-4b4b-a8f7-05aa1643d897" />
+
+* [VERY IMPORTANT]
+* 6 O'clock -> 6 strikes -> 5 interval -> 10 sec value.
+* 5 interval -> 10 sec value.
+* 1 interval -> 2 sec value.
+* 12 O'clock -> 12 strikes -> 11 interval -> 22 sec value. [12-1->11][11*2->22]
+* 11 interval -> 22 sec value. [Answer]
+
+<img width="1422" height="817" alt="image" src="https://github.com/user-attachments/assets/45cc5650-a4ec-44be-80bb-e5d526ce8bcc" />
+
+### Non-verbal Reasoning (1) [21]
 
 
 
