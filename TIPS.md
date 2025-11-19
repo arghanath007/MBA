@@ -72,6 +72,9 @@
 <img width="1101" height="763" alt="image" src="https://github.com/user-attachments/assets/39fa844a-8854-4f61-9743-b22b3237fd3d" />
 <img width="1323" height="809" alt="image" src="https://github.com/user-attachments/assets/f57dedba-1f2d-4005-a849-c7de9d765a15" />
 
+### MICA
+
+<img width="401" height="311" alt="image" src="https://github.com/user-attachments/assets/1241919c-8e19-4bb4-91e9-93b87acdd35a" />
 
 
 
