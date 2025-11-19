@@ -2095,6 +2095,28 @@
 
 * [FORMULA]
 
+<img width="1438" height="843" alt="image" src="https://github.com/user-attachments/assets/0c8a4b83-41b7-4e57-9b47-dd722d90aabe" />
+<img width="1421" height="828" alt="image" src="https://github.com/user-attachments/assets/6b6ffbfa-7fe9-4e46-a4d8-5fbe8b07d6ed" />
+<img width="1406" height="827" alt="image" src="https://github.com/user-attachments/assets/62886235-9452-485a-8686-22aaa2eeaa7d" />
+
+* opposite -> 180 degree. [FORMULA]
+* Between '5' to '7', we get 180 degree only once(1) or '1' time.
+
+<img width="1430" height="835" alt="image" src="https://github.com/user-attachments/assets/c0544c46-4c6a-44e8-bbf5-d294916e5d96" />
+
+* Where 90 degree is skipped? [QUESTION]
+
+<img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/6205d596-b95e-4a79-ac5b-902cea5a6629" />
+<img width="1416" height="814" alt="image" src="https://github.com/user-attachments/assets/26777c67-8eff-42fd-8777-920ac832cc67" />
+
+* [FORMULA]
+
+<img width="1428" height="819" alt="image" src="https://github.com/user-attachments/assets/fe1a3795-db61-498d-b323-6ec9f4de3d9c" />
+
+### Clocks (2) [20]
+
+
+
 
 
 
