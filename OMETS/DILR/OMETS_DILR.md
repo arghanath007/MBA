@@ -2421,24 +2421,126 @@
 <img width="1436" height="813" alt="image" src="https://github.com/user-attachments/assets/0a6ed6fb-a89b-40ac-b2bf-9312c1dba0a7" />
 <img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/36553769-de54-4140-a251-2fe03c7a37d2" />
 
+### Non-verbal Reasoning (3) [23]
 
+<img width="1413" height="796" alt="image" src="https://github.com/user-attachments/assets/9f6065c6-1bcf-4b69-bc26-e654cfa3f189" />
+<img width="1409" height="907" alt="image" src="https://github.com/user-attachments/assets/26b9b0f5-5424-41fd-a500-4cbf2e4bf73c" />
+<img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/7751dd10-95b0-47e4-b2ad-49271ac66730" />
 
+* [VERY IMPORTANT]
 
+<img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/f6c6a93b-5c9e-40e2-8a3a-89c3fe49e84f" />
+<img width="1436" height="918" alt="image" src="https://github.com/user-attachments/assets/44867b5a-e2a1-47dc-8229-a5214b9c619a" />
+<img width="1424" height="801" alt="image" src="https://github.com/user-attachments/assets/8e6ccf9b-a2d0-4303-af34-1260d1b48200" />
 
+* [VERY IMPORTANT]
 
+<img width="1429" height="909" alt="image" src="https://github.com/user-attachments/assets/84c025dd-b01b-494f-8d87-59f8b37cf5d4" />
+<img width="1393" height="805" alt="image" src="https://github.com/user-attachments/assets/c95549cb-5e7d-41a4-aa36-b361b6801e70" />
 
+* [VERY IMPORTANT]
 
+<img width="1427" height="918" alt="image" src="https://github.com/user-attachments/assets/8e46d505-1e73-452a-9220-bba471953c4d" />
+<img width="1405" height="803" alt="image" src="https://github.com/user-attachments/assets/bece06d3-c2df-4888-9e16-8ec482b06b6e" />
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/aa4f25d4-7372-44ca-bf42-e65699b97b45" />
+<img width="1440" height="817" alt="image" src="https://github.com/user-attachments/assets/0cca0eb8-764a-4d0b-a2a8-c829cdb16ec1" />
+<img width="1433" height="918" alt="image" src="https://github.com/user-attachments/assets/9d875bf7-b1f6-443d-ae6d-ebd1b42149a7" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/3c7cc898-c349-46d6-8e0e-9b9b56220ef9" />
 
+* [VERY IMPORTANT]
 
+<img width="1436" height="895" alt="image" src="https://github.com/user-attachments/assets/8a7d3542-da45-4795-8c40-e790ca549ec3" />
+<img width="1419" height="819" alt="image" src="https://github.com/user-attachments/assets/ba0c3f6a-566e-4254-a7b9-76ee45756677" />
+<img width="1435" height="822" alt="image" src="https://github.com/user-attachments/assets/75b3fc0f-66c3-47ac-b590-6593b0887ab2" />
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/4fabf8ba-3782-47f8-b6a9-03e551105923" />
 
-
-
-
-
-
-
-
+* [VERY IMPORTANT]
  
+<img width="1434" height="907" alt="image" src="https://github.com/user-attachments/assets/cb356acf-f8f0-4b72-847e-fb05bf99ec14" />
+<img width="1416" height="806" alt="image" src="https://github.com/user-attachments/assets/5a07a32e-734c-44f4-a652-791a532fe7a3" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="849" alt="image" src="https://github.com/user-attachments/assets/c835c46d-b528-4d6d-b550-7b1b07ef4672" />
+<img width="1436" height="834" alt="image" src="https://github.com/user-attachments/assets/f0a9f762-62ae-4129-ace8-83b25813ae7e" />
+
+* Circled -> Mirror image and original image are **same**.
+* Mirror Image. [FORMULA]
+
+<img width="1412" height="802" alt="image" src="https://github.com/user-attachments/assets/0ca825a5-a7d9-4aaa-b446-195fad1adf97" />
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/aead6e5f-ec6b-4c54-b704-1df3864d397a" />
+<img width="1406" height="805" alt="image" src="https://github.com/user-attachments/assets/46330b5e-c666-4be9-9ebb-1517a7858577" />
+<img width="1442" height="917" alt="image" src="https://github.com/user-attachments/assets/c53d9d0d-0631-4e23-97dd-c8e7358fc1f4" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="812" alt="image" src="https://github.com/user-attachments/assets/8f302f92-c7f8-47ff-85f0-963922288c05" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="917" alt="image" src="https://github.com/user-attachments/assets/e4a0c5ca-a75c-4c8b-93f5-cdd468095042" />
+<img width="1418" height="815" alt="image" src="https://github.com/user-attachments/assets/82ac36f0-f686-4f49-955b-8d7b3b8e15c2" />
+<img width="1439" height="818" alt="image" src="https://github.com/user-attachments/assets/29bc6655-9ef2-4567-b48b-0813b6fbc0d5" />
+<img width="1433" height="922" alt="image" src="https://github.com/user-attachments/assets/da47fd77-10c6-4035-9c8c-fbf35b4015be" />
+<img width="1417" height="824" alt="image" src="https://github.com/user-attachments/assets/bc836ecd-a524-4b6b-abf7-5964442b62e8" />
+
+* Ans -> Option **D**.
+* [VERY IMPORTANT]
+
+<img width="1425" height="828" alt="image" src="https://github.com/user-attachments/assets/60bfa152-9e53-4605-8f12-a204dc7c1e71" />
+<img width="1423" height="823" alt="image" src="https://github.com/user-attachments/assets/805a49be-88f2-4642-900b-83d7332053ae" />
+
+*  [FORMULA]
+
+<img width="1434" height="903" alt="image" src="https://github.com/user-attachments/assets/5b6c4a22-9c90-43a5-a592-a7b3de74000d" />
+<img width="1423" height="802" alt="image" src="https://github.com/user-attachments/assets/8fd38b74-28dc-4757-bb32-a739979448b6" />
+
+* [VERY IMPORTANT]
+
+<img width="1399" height="813" alt="image" src="https://github.com/user-attachments/assets/731d1437-7345-4405-a5fc-037e27518a15" />
+<img width="1403" height="802" alt="image" src="https://github.com/user-attachments/assets/592781b7-0133-43d3-94ce-a5ea5fe797cf" />
+<img width="1441" height="913" alt="image" src="https://github.com/user-attachments/assets/3dac6938-6882-4f0e-91a2-defd919505a7" />
+<img width="1432" height="817" alt="image" src="https://github.com/user-attachments/assets/e7107773-351c-491d-820e-901b615067ae" />
+<img width="1442" height="906" alt="image" src="https://github.com/user-attachments/assets/3c48d9cd-b258-4dc9-85f0-57235d156411" />
+<img width="1440" height="823" alt="image" src="https://github.com/user-attachments/assets/2e3b4544-cc27-4293-8a09-22ae9ae8170d" />
+
+* [VERY IMPORTANT]
+
+<img width="1427" height="920" alt="image" src="https://github.com/user-attachments/assets/a1b71bae-b6b6-4a6a-895e-9e78e8024fd1" />
+<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/12f7e922-77c4-44bd-a436-48de1c67eede" />
+<img width="1437" height="902" alt="image" src="https://github.com/user-attachments/assets/a1d0318b-9c64-4abf-a062-84e971ae2f01" />
+<img width="1423" height="825" alt="image" src="https://github.com/user-attachments/assets/1147fe9e-24d5-40b7-a928-2f68d10f27df" />
+
+* [VERY IMPORTANT]
+
+<img width="1427" height="805" alt="image" src="https://github.com/user-attachments/assets/a715d742-bcbc-45ff-ab95-02bbe0ac7234" />
+
+### Venn-Diagram (1) [24]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
