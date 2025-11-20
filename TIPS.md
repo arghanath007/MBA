@@ -50,6 +50,7 @@
 
 # OMETS
 
+<img width="848" height="282" alt="image" src="https://github.com/user-attachments/assets/434c1414-b3b9-4d5a-ba56-cf88b10c51b1" />
 <img width="1401" height="316" alt="image" src="https://github.com/user-attachments/assets/a6e5eca1-9e29-4f26-992b-eaa35e35550b" />
 <img width="505" height="327" alt="image" src="https://github.com/user-attachments/assets/24669adf-c5c9-4613-a7c5-ac4c42e919b4" />
 <img width="442" height="75" alt="image" src="https://github.com/user-attachments/assets/2cd910a8-d87e-4264-9393-83f8b59ed09d" />
