@@ -2331,6 +2331,40 @@
 
 ### Non-verbal Reasoning (2) [22]
 
+<img width="1432" height="832" alt="image" src="https://github.com/user-attachments/assets/ec88bfed-192d-4baa-b0f7-a3a0cf173f11" />
+<img width="1439" height="924" alt="image" src="https://github.com/user-attachments/assets/ceb9e9f2-5774-493d-a429-094344ea62c6" />
+<img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/c39e543d-f577-42d3-b8b4-bb0216a4fbe5" />
+<img width="1416" height="791" alt="image" src="https://github.com/user-attachments/assets/378cff42-ced7-49fe-9608-e687e3f1227b" />
+
+* [VERY IMPORTANT]
+
+<img width="1431" height="915" alt="image" src="https://github.com/user-attachments/assets/af71b0b4-e669-4042-94fc-364c21cbf513" />
+
+* [VERY IMPORTANT]
+
+<img width="1407" height="799" alt="image" src="https://github.com/user-attachments/assets/37b27ead-9ff2-4493-9749-b8a3fee9b40d" />
+<img width="1438" height="826" alt="image" src="https://github.com/user-attachments/assets/4b4bd850-bc1e-4e80-9ea1-d2f8e711ac49" />
+
+* 90 degree clockwise movement.
+
+<img width="1430" height="917" alt="image" src="https://github.com/user-attachments/assets/edfd05d6-6dda-4749-9a89-8cd37081e0c7" />
+<img width="1413" height="810" alt="image" src="https://github.com/user-attachments/assets/9c3fd8c4-9277-4596-b0bd-0e95e8050dae" />
+<img width="228" height="152" alt="image" src="https://github.com/user-attachments/assets/e0446626-d234-4c62-91bb-f8d44fc5407e" />
+
+* Yes.
+
+<img width="1424" height="912" alt="image" src="https://github.com/user-attachments/assets/f42fb6d9-45d4-41e5-b79c-0d7933a570a0" />
+
+* The letters(a, #) are moving in anti-clockwise direction.
+* The letters(b, c) are moving in clockwise direction.
+
+<img width="1422" height="802" alt="image" src="https://github.com/user-attachments/assets/c0126db8-177d-4762-a501-a3acd60aae35" />
+
+
+
+
+
+
 
 
 
