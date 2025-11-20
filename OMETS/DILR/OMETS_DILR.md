@@ -2517,7 +2517,10 @@
 
 ### Venn-Diagram (1) [24]
 
+<img width="1413" height="805" alt="image" src="https://github.com/user-attachments/assets/4d935b28-2d00-4bee-8095-662a11c64d14" />
 
+* [FORMULA]
+* Start from 15mins.
 
 
 
