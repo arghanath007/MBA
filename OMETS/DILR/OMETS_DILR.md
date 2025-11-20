@@ -2359,6 +2359,67 @@
 * The letters(b, c) are moving in clockwise direction.
 
 <img width="1422" height="802" alt="image" src="https://github.com/user-attachments/assets/c0126db8-177d-4762-a501-a3acd60aae35" />
+<img width="1439" height="787" alt="image" src="https://github.com/user-attachments/assets/daee0597-2e64-4ec0-99ce-d4da9e672758" />
+<img width="1435" height="815" alt="image" src="https://github.com/user-attachments/assets/c632595a-292a-45ba-a498-0cc0912703ac" />
+<img width="1442" height="925" alt="image" src="https://github.com/user-attachments/assets/8b547470-fe88-44e3-afe1-5a732f32b925" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="797" alt="image" src="https://github.com/user-attachments/assets/debca521-08eb-4bf1-bfb3-d7230c39cc61" />
+<img width="1439" height="917" alt="image" src="https://github.com/user-attachments/assets/2b639071-6487-4b1d-afd8-f0bf5c4fb062" />
+<img width="1432" height="797" alt="image" src="https://github.com/user-attachments/assets/82e0703e-1dcb-4a9a-8295-4e5666e17e09" />
+<img width="1433" height="805" alt="image" src="https://github.com/user-attachments/assets/466ccc3f-3020-47f2-bb50-ccef78ec26b3" />
+<img width="1440" height="929" alt="image" src="https://github.com/user-attachments/assets/5beb97f5-90ac-4127-8334-e8c51e72c06d" />
+<img width="1438" height="811" alt="image" src="https://github.com/user-attachments/assets/92f3f346-6ef1-4014-847c-01cd3a85cf3d" />
+<img width="1434" height="808" alt="image" src="https://github.com/user-attachments/assets/b4e6a589-2078-440e-8928-a2a80ddf4e3d" />
+<img width="348" height="83" alt="image" src="https://github.com/user-attachments/assets/a03f6152-991f-43f3-8ae6-67d73c3bb820" />
+
+* Yes.
+
+<img width="1431" height="913" alt="image" src="https://github.com/user-attachments/assets/12709a68-b6c1-460f-8382-072ffab0ad80" />
+<img width="1408" height="780" alt="image" src="https://github.com/user-attachments/assets/ffd9a376-78cd-43a9-b142-10a258aa2ffa" />
+<img width="1435" height="918" alt="image" src="https://github.com/user-attachments/assets/135946b3-edec-4c1e-96d4-13ae3100c46d" />
+<img width="1437" height="823" alt="image" src="https://github.com/user-attachments/assets/c3a9876c-7858-4463-91c9-020ad31bfd29" />
+<img width="1432" height="801" alt="image" src="https://github.com/user-attachments/assets/5a607c48-8640-482c-896b-cee5a1f1b3e0" />
+<img width="1425" height="823" alt="image" src="https://github.com/user-attachments/assets/1519cdde-a659-4eea-8582-54891dcefb81" />
+<img width="826" height="147" alt="image" src="https://github.com/user-attachments/assets/5f4ce139-f4c0-4eca-94d2-eeaf7b3137d1" />
+<img width="434" height="285" alt="image" src="https://github.com/user-attachments/assets/9f5b7863-f0b3-4d9d-b5e9-de3e0cd85c20" />
+
+* Yes.
+
+<img width="851" height="397" alt="image" src="https://github.com/user-attachments/assets/350ab642-6f18-4788-be9d-c50dc77125ed" />
+
+* Logic -> Even no -> 4 -> Odd one out.
+
+<img width="442" height="145" alt="image" src="https://github.com/user-attachments/assets/ab0511a0-28ce-47f3-9f5c-86ba6b118f7e" />
+
+* Logic -> Not a prime no. -> 9 -> Odd one out.
+
+<img width="1419" height="823" alt="image" src="https://github.com/user-attachments/assets/bf7c077b-cd1d-4f3c-b43c-46a43c5a085c" />
+<img width="1436" height="914" alt="image" src="https://github.com/user-attachments/assets/47046a46-1a69-4dd4-a5c3-d102ce36af25" />
+<img width="1428" height="817" alt="image" src="https://github.com/user-attachments/assets/9941bdc0-7c8d-4d8f-8516-2387b41372be" />
+<img width="1420" height="916" alt="image" src="https://github.com/user-attachments/assets/e986615b-a515-462a-99a1-e93bf6c7cad6" />
+<img width="1417" height="795" alt="image" src="https://github.com/user-attachments/assets/555ce68c-2383-4bcd-b6a9-1a8ab3f2e5a7" />
+<img width="1439" height="919" alt="image" src="https://github.com/user-attachments/assets/841908ea-65de-424f-b166-318cb8cf82e7" />
+
+* 3 are inside, 1 is outside.
+* C -> All 4 are inside.
+* [VERY IMPORTANT]
+
+<img width="1426" height="820" alt="image" src="https://github.com/user-attachments/assets/27e4be19-f90b-4d2b-9591-49f80e8537ac" />
+<img width="1393" height="783" alt="image" src="https://github.com/user-attachments/assets/3060af3e-86fc-4a7b-87c9-a87433163e51" />
+<img width="1435" height="923" alt="image" src="https://github.com/user-attachments/assets/a4fe6397-91c5-4eca-a957-70c3f3347ecd" />
+
+* [VERY IMPORTANT]
+
+<img width="1431" height="829" alt="image" src="https://github.com/user-attachments/assets/91a6a8a3-22e4-48cb-80ff-7becb39fb4b3" />
+
+* B -> All arrows are consecutive.
+* Rest -> Not consecutive.
+
+<img width="1426" height="905" alt="image" src="https://github.com/user-attachments/assets/4aa14aef-985a-46be-b244-adfd4453bbb7" />
+<img width="1436" height="813" alt="image" src="https://github.com/user-attachments/assets/0a6ed6fb-a89b-40ac-b2bf-9312c1dba0a7" />
+<img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/36553769-de54-4140-a251-2fe03c7a37d2" />
 
 
 
@@ -2377,7 +2438,7 @@
 
 
 
-
+ 
 
 
 
