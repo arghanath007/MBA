@@ -2633,16 +2633,80 @@
 
 ### Venn-Diagram (2) [25]
 
+<img width="1403" height="807" alt="image" src="https://github.com/user-attachments/assets/3abec6f1-6df2-4936-83ae-cfc319b78b6a" />
+<img width="1406" height="806" alt="image" src="https://github.com/user-attachments/assets/71cc4ebe-5fd7-4751-abb7-43d6ec9d9c17" />
 
+* Atleast 2 -> Exactly '2' + Exactly '3'->E2 + E3.
 
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/a065e1c2-e3ae-4522-bc3a-231a4b434175" />
 
+* E0 + E1 ->300-100->200.
 
+<img width="1432" height="823" alt="image" src="https://github.com/user-attachments/assets/e8f74cc7-64c0-4bfb-bbd5-d37f0fafc8a4" />
 
+* b +n-> 300-230->70.
 
+<img width="1438" height="813" alt="image" src="https://github.com/user-attachments/assets/69209d8b-e50d-430b-8a88-c92c96cd9304" />
 
+* E1->1a+b+c->80.
+* E0+E1->200.
+* 200=E0+E1->200=E0+180->E0=20.
 
+<img width="1431" height="817" alt="image" src="https://github.com/user-attachments/assets/08f5eb86-8502-4705-b9aa-761594932f51" />
 
+* E0=n=20.
+* 70=b+n.
+* b->50.
 
+<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/41f9b126-af40-43d5-9115-f580be76802d" />
+<img width="1418" height="814" alt="image" src="https://github.com/user-attachments/assets/48613e9b-7caa-4b09-a440-691e2abc7f4e" />
+<img width="1434" height="852" alt="image" src="https://github.com/user-attachments/assets/5acf09de-84f4-46a7-bc28-bb8a3144a8b6" />
+<img width="1427" height="825" alt="image" src="https://github.com/user-attachments/assets/82742bde-2c1d-45bf-94a9-d12d5606e611" />
+<img width="1407" height="798" alt="image" src="https://github.com/user-attachments/assets/061efcf9-463a-4804-81b4-c36d0ac30f91" />
+<img width="1440" height="838" alt="image" src="https://github.com/user-attachments/assets/274bb68c-2cff-4bf8-88f3-8507b7a6c2d5" />
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/d265789c-bba2-44ee-a72e-a21f6c005da0" />
+
+* d -> H + IE
+* f-> TOI + IE.
+* g->TOI + IE + H.
+* d + g + f -> 90. [Answer] [1]
+
+<img width="1440" height="824" alt="image" src="https://github.com/user-attachments/assets/460b413b-f2e6-49c2-bf53-b28bc65a79be" />
+<img width="1421" height="816" alt="image" src="https://github.com/user-attachments/assets/ac89391d-fb49-446d-bb71-31403bd45b98" />
+<img width="1427" height="820" alt="image" src="https://github.com/user-attachments/assets/9a57ffe2-6e96-485b-9f52-e46c2a72dee7" />
+<img width="1409" height="789" alt="image" src="https://github.com/user-attachments/assets/0be75825-6385-430f-8a46-e4bee472dda3" />
+
+* [VERY IMPORTANT]
+
+#### 4-circled Venn Diagram
+
+<img width="874" height="793" alt="image" src="https://github.com/user-attachments/assets/0ec1cc78-5df7-4b56-959c-b290508bb18b" />
+<img width="1430" height="825" alt="image" src="https://github.com/user-attachments/assets/2d1ea2c7-ed38-4ee0-ae69-7857bf65f3e9" />
+<img width="1435" height="840" alt="image" src="https://github.com/user-attachments/assets/6d48fbe0-3456-473c-af46-1217ba7af216" />
+
+* [FORMULA]
+
+<img width="1428" height="841" alt="image" src="https://github.com/user-attachments/assets/ebc20832-8c96-4ede-889b-00dd92428346" />
+
+* Coffee->230.
+* 230-a-f-e-o-j->k+l+n->230-180->50.
+* k+l+n->50.
+* 210-180->30.
+* l+n->30.
+* k->50-30->20.
+* 220-210->10
+* l->10.
+* n->50-20-10->20.
+
+<img width="1437" height="828" alt="image" src="https://github.com/user-attachments/assets/e673b7af-aa11-4a43-ada4-492f433a11e5" />
+<img width="1438" height="819" alt="image" src="https://github.com/user-attachments/assets/e618524a-67f1-4587-8842-0280272260a8" />
+<img width="1416" height="790" alt="image" src="https://github.com/user-attachments/assets/fd477739-dbb9-4428-9044-ba9469bd9bbd" />
+<img width="1421" height="790" alt="image" src="https://github.com/user-attachments/assets/a3da0490-2844-4c04-8efa-3f83352d194f" />
+<img width="1409" height="800" alt="image" src="https://github.com/user-attachments/assets/9f634d6e-91c2-4397-a7ff-1ce74217bc03" />
+
+* [VERY IMPORTANT]
+
+<img width="1430" height="828" alt="image" src="https://github.com/user-attachments/assets/b450a425-716a-4a44-9ea4-a4c7fc3b513b" />
 
 
 
