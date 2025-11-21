@@ -2518,9 +2518,128 @@
 ### Venn-Diagram (1) [24]
 
 <img width="1413" height="805" alt="image" src="https://github.com/user-attachments/assets/4d935b28-2d00-4bee-8095-662a11c64d14" />
+<img width="1405" height="811" alt="image" src="https://github.com/user-attachments/assets/a56ef5aa-b585-464c-a8ad-30f110382f87" />
 
 * [FORMULA]
-* Start from 15mins.
+* T -> Total.
+* Tea & Coffee => Segments/parameters -> 0 drink, 1 drink, 2 drinks.
+
+<img width="1435" height="822" alt="image" src="https://github.com/user-attachments/assets/4ed537b5-f901-46df-975c-b75740b16941" />
+<img width="1426" height="818" alt="image" src="https://github.com/user-attachments/assets/47a0ba6b-cb8b-4a26-a386-c56db97f930b" />
+<img width="1904" height="889" alt="image" src="https://github.com/user-attachments/assets/b8e62c8c-71ef-422d-866a-50ab7ef8d342" />
+<img width="1425" height="850" alt="image" src="https://github.com/user-attachments/assets/7f59f254-2313-4eac-a484-3c1308e57e4f" />
+
+* [FORMULA]
+
+<img width="1405" height="796" alt="image" src="https://github.com/user-attachments/assets/c71f439e-ed5d-41aa-8c2f-647a4c2dae8c" />
+<img width="219" height="90" alt="image" src="https://github.com/user-attachments/assets/cfeeb890-d9b9-4a39-ac6a-bb13b290fc09" />
+
+* Yes.
+
+<img width="1410" height="798" alt="image" src="https://github.com/user-attachments/assets/e15b8049-99ea-4802-b15d-8aef581f09d5" />
+<img width="1413" height="818" alt="image" src="https://github.com/user-attachments/assets/8728db91-dad3-4d6c-9385-6b47957799b0" />
+<img width="1424" height="811" alt="image" src="https://github.com/user-attachments/assets/7192e2a0-af03-41d6-b565-72c9bae2e4bd" />
+<img width="1440" height="840" alt="image" src="https://github.com/user-attachments/assets/32fc3ee6-5e2f-462f-8eb1-03aaa47e488f" />
+<img width="1409" height="798" alt="image" src="https://github.com/user-attachments/assets/ecf537b6-dbb9-40c0-901d-ede76f1b2c18" />
+
+* [VERY IMPORTANT]
+
+<img width="1416" height="804" alt="image" src="https://github.com/user-attachments/assets/02f88041-0d6d-40b0-8925-22e2c782c3ac" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/8bb431ad-ab80-4675-a785-dd1e7c352805" />
+
+* [VERY IMPORTANT]
+
+<img width="1430" height="814" alt="image" src="https://github.com/user-attachments/assets/aad54e2b-8137-4e30-9f2d-fef6a082ded6" />
+<img width="1426" height="829" alt="image" src="https://github.com/user-attachments/assets/52bec7a5-f26e-47fb-8d80-9a8093f037b4" />
+<img width="1429" height="834" alt="image" src="https://github.com/user-attachments/assets/e045265b-a574-4dd1-bebc-18fd56de78a3" />
+<img width="1436" height="828" alt="image" src="https://github.com/user-attachments/assets/fb9674e7-3340-4403-b6e7-aa0e126c67b8" />
+<img width="1419" height="800" alt="image" src="https://github.com/user-attachments/assets/1821643d-219f-4a4c-9902-844786b01565" />
+<img width="1422" height="819" alt="image" src="https://github.com/user-attachments/assets/1503c27d-f45d-461d-95f5-94dbf3601f3f" />
+
+* [VERY IMPORTANT]
+
+<img width="1428" height="804" alt="image" src="https://github.com/user-attachments/assets/3a691a1a-2565-4a1a-9a2a-b0ed9519a0eb" />
+<img width="1438" height="810" alt="image" src="https://github.com/user-attachments/assets/35b3cf10-14be-43f1-aaa0-71c2752157d2" />
+<img width="1415" height="804" alt="image" src="https://github.com/user-attachments/assets/09b7448c-c04e-4db7-b9bf-55a262e8eb05" />
+
+* [VERY IMPORTANT] 
+
+#### 3 circle Venn-diagram
+
+<img width="1411" height="800" alt="image" src="https://github.com/user-attachments/assets/023891f2-8314-4a1c-8573-2dc6c7a02018" />
+<img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/e3b0b331-48f2-4a70-9592-b3577b193435" />
+<img width="1428" height="823" alt="image" src="https://github.com/user-attachments/assets/c8cc3d49-c551-4bf1-aa58-c93e9a15799f" />
+
+* [FORMULA]
+
+<img width="1437" height="838" alt="image" src="https://github.com/user-attachments/assets/a3ee0114-c317-445e-a5a7-0db49454db48" />
+<img width="1419" height="808" alt="image" src="https://github.com/user-attachments/assets/10b1e679-b831-481a-85e3-00cda395c418" />
+
+* and -> Intersection OR Common parts. [FORMULA]
+* Common parts of Physics and chemistry -> d + g. [FORMULA]
+
+<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/afa69b2b-b8ef-4031-ab8b-80df8b50c574" />
+
+* or -> union. [FORMULA]
+
+<img width="1436" height="839" alt="image" src="https://github.com/user-attachments/assets/3a4e76f5-0ac6-414c-a039-9f85a82ad05e" />
+<img width="1423" height="810" alt="image" src="https://github.com/user-attachments/assets/db9b0b35-455a-4978-9cfa-04b5bff9e0d8" />
+<img width="331" height="350" alt="image" src="https://github.com/user-attachments/assets/2d0c3289-c7d7-44b7-9749-8fe92b942696" />
+
+* Yes.
+
+<img width="1426" height="806" alt="image" src="https://github.com/user-attachments/assets/69ee22e7-ba30-46b6-bc6e-39aa64fb95ca" />
+<img width="1431" height="819" alt="image" src="https://github.com/user-attachments/assets/2cb89600-997f-4a43-92e7-8820175fa8a1" />
+<img width="1432" height="824" alt="image" src="https://github.com/user-attachments/assets/81840bd3-5059-44bb-adea-4e1b448ca44d" />
+
+* [FORMULA]
+
+<img width="1431" height="809" alt="image" src="https://github.com/user-attachments/assets/8b382309-f7cd-4ed7-a688-8205a9040e28" />
+
+* [FORMULA]
+* 4 cicle venn-diagram:- [FORMULA]
+* T -> E0 + E1 + E2 + E3 + E4.
+* A + B + C + D -> E1 + 2E2 + 3E3 + 4E4.
+
+<img width="1424" height="843" alt="image" src="https://github.com/user-attachments/assets/1cdc61ed-3839-4eaa-b8e2-d20b8c7b4f99" />
+<img width="1435" height="828" alt="image" src="https://github.com/user-attachments/assets/3d10c292-3c35-416d-80e8-62e8df88184b" />
+<img width="1438" height="849" alt="image" src="https://github.com/user-attachments/assets/3475383b-91dd-418a-bc6f-8d1477cf6b82" />
+<img width="1427" height="853" alt="image" src="https://github.com/user-attachments/assets/2f5a38f6-2e1d-425b-9ffc-12c2ce79331c" />
+
+* 500-m->500-20->480.
+
+<img width="1415" height="821" alt="image" src="https://github.com/user-attachments/assets/5831391d-531d-4bd3-ac7c-9fa615fad76b" />
+
+* [VERY IMPORTANT]
+
+<img width="1430" height="819" alt="image" src="https://github.com/user-attachments/assets/a317b146-eb4d-4f69-8001-55532c40d5a8" />
+<img width="1430" height="838" alt="image" src="https://github.com/user-attachments/assets/749ae204-298a-4f8c-b621-6a11fca8219a" />
+<img width="1429" height="809" alt="image" src="https://github.com/user-attachments/assets/8a0f76d3-10bf-4363-8b20-15e742e682bf" />
+<img width="1435" height="788" alt="image" src="https://github.com/user-attachments/assets/536d7742-f0f5-4691-8032-9401ed356cd9" />
+<img width="403" height="122" alt="image" src="https://github.com/user-attachments/assets/a95d8b00-7de0-4504-928a-2027640c93c8" />
+
+* Yes.
+
+<img width="1427" height="814" alt="image" src="https://github.com/user-attachments/assets/86ebc534-2a45-4df6-9ba6-4ae51a0293db" />
+<img width="1438" height="803" alt="image" src="https://github.com/user-attachments/assets/9be6bcf0-88c8-494f-96ca-8ac4eaeef8b0" />
+<img width="1433" height="818" alt="image" src="https://github.com/user-attachments/assets/266b218d-ef00-4fbe-85d0-dd35f291a2d1" />
+
+* [VERY IMPORTANT]
+
+<img width="434" height="110" alt="image" src="https://github.com/user-attachments/assets/365806d3-a5cb-4d8f-baa6-3db149e7be8b" />
+<img width="419" height="171" alt="image" src="https://github.com/user-attachments/assets/4585abe2-92b3-4e78-a5e5-3e0ebb7cdc77" />
+
+* Another way of solving in next class. [FORMULA]
+
+### Venn-Diagram (2) [25]
+
+
+
+
+
+
+
+
 
 
 
