@@ -2768,17 +2768,35 @@
 
 <img width="1431" height="808" alt="image" src="https://github.com/user-attachments/assets/85b41693-d214-4f7e-a11a-f496a1578f37" />
 <img width="1440" height="815" alt="image" src="https://github.com/user-attachments/assets/aa1bed88-4dc9-42dc-9268-eba051d98da5" />
+<img width="1405" height="803" alt="image" src="https://github.com/user-attachments/assets/3b4940c8-c207-4d2c-bf35-d998e8e10501" />
 
+* None=E0=0.
 
+<img width="1423" height="813" alt="image" src="https://github.com/user-attachments/assets/c8d5d963-152d-48f5-954b-8812db3d6be6" />
+<img width="219" height="81" alt="image" src="https://github.com/user-attachments/assets/e26ae59e-540f-4588-ae1c-b0c0cc2a64e4" />
 
+* Yes, for 'b' to be maximum.
 
+<img width="1436" height="816" alt="image" src="https://github.com/user-attachments/assets/5ad49bff-126c-4941-b0c1-3a95feb60d39" />
+<img width="1438" height="858" alt="image" src="https://github.com/user-attachments/assets/1f45d922-3178-449b-b5a5-bf6cce93576a" />
 
+* b_max->250-110->140.
 
+<img width="1440" height="836" alt="image" src="https://github.com/user-attachments/assets/eba62455-ddf3-442c-8ee9-31893db90c6a" />
+<img width="1438" height="823" alt="image" src="https://github.com/user-attachments/assets/ab72941c-ef50-4a73-adb3-e809fe8ba01c" />
 
+* Let, d=c=0.
 
+<img width="1413" height="822" alt="image" src="https://github.com/user-attachments/assets/5f86cc0c-568d-41e1-97f6-0529882e411d" />
 
+* For 'f_max' -> d,e,g should be minimum.
 
+<img width="1437" height="840" alt="image" src="https://github.com/user-attachments/assets/6a92a739-725a-4e68-b562-04e5f068330c" />
+<img width="1421" height="799" alt="image" src="https://github.com/user-attachments/assets/846b22a9-f7ee-49a7-a012-7ff3a66679f2" />
 
+* [VERY IMPORTANT]
+
+### Venn-Diagram (4) [27]
 
 
 
