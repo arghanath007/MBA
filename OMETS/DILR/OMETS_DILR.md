@@ -6,6 +6,7 @@
 
 * For Practice.
 
+<img width="1387" height="438" alt="image" src="https://github.com/user-attachments/assets/d3c36792-f954-4fa6-8d23-2fdcc530ed6f" />
 <img width="1414" height="787" alt="image" src="https://github.com/user-attachments/assets/708ad80e-98f9-4486-bf2b-f93b15d9742c" />
 <img width="422" height="114" alt="image" src="https://github.com/user-attachments/assets/ffe7765b-6840-488c-ab02-2fe526e23c5b" />
 
@@ -2920,11 +2921,193 @@
 <img width="1425" height="803" alt="image" src="https://github.com/user-attachments/assets/eeca9167-8454-423f-a9a1-68d8858aab9f" />
 <img width="1420" height="820" alt="image" src="https://github.com/user-attachments/assets/9f89c47e-6665-4011-90bd-9e700020f5fe" />
 
+* 1. [VERY IMPORTANT]
 * LCM/multiple of 2,3,4,5-> 60k. [LET]
 * 50% of 60k->30k
 * Hindi also speak sanskrit-> d+g=30k.
 
 <img width="1416" height="835" alt="image" src="https://github.com/user-attachments/assets/7e2bbe89-49a8-40a7-a055-beca73f20652" />
+
+* e=f=1/2 * 60k
+* e=f=30k.
+* a->60-30-15
+* a=15k.
+
+<img width="1423" height="812" alt="image" src="https://github.com/user-attachments/assets/4f8cb0d8-5a05-448b-a0c7-cc56daf10c3e" />
+
+* d+g->30.
+* g->10k.
+* n->10k.
+* c->2*10k
+* c->20k.
+* c->1/4*b
+* 20->1/4*b
+* b->80k.
+* T->15k*3+20k*2+10k*2+80k->185k.
+
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/e1ebbc4e-f5c8-46d2-9611-70f70d1223ec" />
+<img width="1401" height="802" alt="image" src="https://github.com/user-attachments/assets/73776ae2-7816-4b56-97c9-22cbfb354324" />
+<img width="1410" height="801" alt="image" src="https://github.com/user-attachments/assets/c4b0abed-805f-4dce-a2d8-2207bfc58162" />
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/a77af119-619a-40a3-8cfb-fbe512623df3" />
+<img width="1424" height="816" alt="image" src="https://github.com/user-attachments/assets/a4a8f778-dc9e-4e2a-9b42-2f60c9a89426" />
+<img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/a9120127-0ef9-4137-8e8c-488a8bff9261" />
+<img width="1424" height="816" alt="image" src="https://github.com/user-attachments/assets/d94953e2-cb8a-4e18-b3df-d8e4f513f4ae" />
+<img width="1428" height="824" alt="image" src="https://github.com/user-attachments/assets/0f8daed6-8352-4bde-8f00-8d6bf381d775" />
+<img width="1438" height="803" alt="image" src="https://github.com/user-attachments/assets/ca3a311f-9336-463f-b4e6-1e7ad8747a2f" />
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/0e3f6e06-c95a-4a98-bf00-f9b8fc7ca059" />
+<img width="179" height="75" alt="image" src="https://github.com/user-attachments/assets/3fb5b9e6-979a-4df4-897d-0cd913dbb970" />
+
+* Yes.
+* [VERY IMPORTANT]
+
+<img width="1433" height="823" alt="image" src="https://github.com/user-attachments/assets/6dd308a9-cebc-4640-b29e-6cb4e1774462" />
+
+* 2.
+
+<img width="1425" height="836" alt="image" src="https://github.com/user-attachments/assets/cdf11cf4-9860-477a-8892-61548413abb9" />
+
+* e->25-g.[g=10]
+* e->15.
+* befg->80
+* b+15+5+10->80.
+* b->50.
+
+<img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/063bcae8-bf89-47f4-855f-07e953de095f" />
+
+* a->75-d
+* a->60.
+* None->250-60-15-15-10-5-50-80
+* N->15.
+
+<img width="1445" height="834" alt="image" src="https://github.com/user-attachments/assets/d673998f-1a39-4bdb-8047-e8f0ad16d15e" />
+<img width="1396" height="809" alt="image" src="https://github.com/user-attachments/assets/f4513f0d-4085-4446-afe4-a0a064d08661" />
+
+* d+f->50+5->55.
+
+<img width="1407" height="787" alt="image" src="https://github.com/user-attachments/assets/c1830a7c-a093-4ce5-9ccc-5866c3ae9966" />
+<img width="1411" height="803" alt="image" src="https://github.com/user-attachments/assets/188fd325-7199-44d1-baff-e0c40560525b" />
+<img width="1410" height="801" alt="image" src="https://github.com/user-attachments/assets/e3dbf679-f5b5-4219-8eb5-96f2cca9d2fb" />
+
+* Only House -> a->60 -> We have to **maximize** it.
+* We can either buy '1' thing or sell '1' thing.
+
+<img width="482" height="504" alt="image" src="https://github.com/user-attachments/assets/bb4965cb-a062-41d5-976c-5b7335b59e19" />
+
+* If '80' people bought cars.
+
+<img width="472" height="470" alt="image" src="https://github.com/user-attachments/assets/549840f9-eda7-453f-88bd-bff40d1d24ca" />
+
+* If '80' people bought Two-whellers.
+
+<img width="538" height="513" alt="image" src="https://github.com/user-attachments/assets/8c2f8f35-18b5-4bcb-a953-d9b4e0cc486e" />
+
+* If '80' people sold their house.
+
+<img width="518" height="530" alt="image" src="https://github.com/user-attachments/assets/226d2dc3-2300-4d6e-bbdb-669f809edd42" />
+
+* '3' possibilities are there -> Buys cars, buys two-wheller, sells the house.
+
+<img width="1435" height="830" alt="image" src="https://github.com/user-attachments/assets/69950425-a1cf-479c-8bd1-6a91afbfe5d3" />
+<img width="1425" height="814" alt="image" src="https://github.com/user-attachments/assets/f56a2965-bc21-4e56-b57f-ede456413b11" />
+
+* Selling cars of the '15' people. They are left with their house only.
+* The 60 having house bought a car.
+
+<img width="1414" height="809" alt="image" src="https://github.com/user-attachments/assets/05668e95-a9ff-46dd-94f9-163042789797" />
+
+* Selling two-whellers of the '15' people. They are left with their house only.
+
+<img width="1422" height="817" alt="image" src="https://github.com/user-attachments/assets/a9587ce6-7036-4a6a-ae85-14b72edd7519" />
+
+* The '15' people who had nothing(E0), they bought a house.
+* Only house->15*3->45. [Answer]
+
+<img width="1416" height="816" alt="image" src="https://github.com/user-attachments/assets/26c0c154-d606-4be5-8459-8e6846bb7271" />
+
+* [VERY IMPORTANT]
+
+<img width="1412" height="812" alt="image" src="https://github.com/user-attachments/assets/a1d3dbb2-49f5-4f03-88e7-69d7c4fc80fb" />
+<img width="1441" height="824" alt="image" src="https://github.com/user-attachments/assets/8dca003a-9456-484a-b3f5-ea2cea9c4995" />
+<img width="426" height="109" alt="image" src="https://github.com/user-attachments/assets/74e47a12-93ef-4228-8ff4-2c788247f74e" />
+
+* Everyone is doing something, either selling or buying. They cannot do nothing.
+* So the '60' people who had house only bought a car and they moved to the right.
+
+<img width="201" height="94" alt="image" src="https://github.com/user-attachments/assets/8725b876-d8b9-4d0e-9a80-fac9abbe1091" />
+
+* They have to sell their car and two-wheller and then buy a house. Not possible.
+
+<img width="1415" height="815" alt="image" src="https://github.com/user-attachments/assets/1ea0b7af-3109-4e6b-bf1b-dcff22ecd228" />
+<img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/55e4f80f-2d32-4a90-8b1e-e67db12f5424" />
+
+* House & Car-> 15+10->25.
+
+<img width="1437" height="831" alt="image" src="https://github.com/user-attachments/assets/961896bd-29d0-48d1-89e1-747ec6686232" />
+
+* 10,5 -> They already have car->So they will not buy another car.
+* Two-whellers who can buy car->15+80->95.
+
+<img width="1429" height="818" alt="image" src="https://github.com/user-attachments/assets/f11f55d2-46c6-425a-aaf3-37365ffc7a22" />
+
+* '15' two-whellers sold their two-whellers and bought a car.
+* We cannot send the '80' people because they only own two-whellers and selling that they will own none(E0) and that place is for 'E1' or people who own house and a car. They will have to buy both car and a house, which is not possible as condition was to buy a car only.
+
+<img width="1430" height="831" alt="image" src="https://github.com/user-attachments/assets/5f28ac80-dce7-4c86-9274-9ee9bc515b9e" />
+<img width="1427" height="835" alt="image" src="https://github.com/user-attachments/assets/6326ef2e-0b8c-4a7e-a4a8-e9d32e131556" />
+
+* The '80' two-whellers can go to 'C' place.
+* People who have House & Car -> 15*2+10->40.
+
+<img width="1435" height="819" alt="image" src="https://github.com/user-attachments/assets/98934b63-dcc1-4e17-bcbf-4fb8e7e94de1" />
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/4a288525-ca41-4609-b1d4-aa243995f836" />
+<img width="1427" height="909" alt="image" src="https://github.com/user-attachments/assets/306d84f0-ab43-4481-a18e-34f63d478c2a" />
+<img width="1423" height="818" alt="image" src="https://github.com/user-attachments/assets/aeb44d1a-78b5-4017-aad0-38d10323ff69" />
+
+* Not possible as there is no condition for purchases.
+
+<img width="216" height="84" alt="image" src="https://github.com/user-attachments/assets/8da070f3-efab-4495-851d-dfcf23eee7a2" />
+
+* Yes.
+
+<img width="1437" height="804" alt="image" src="https://github.com/user-attachments/assets/cfeca45f-0997-4b3d-ba24-ab02a5342772" />
+
+* '5' sold their cars and they are left with their two-whellers only.
+* '10' cannot be moved because it has 'House, Car & two-wheeler'. They cannot sell 'House & Car' both.
+
+<img width="1399" height="798" alt="image" src="https://github.com/user-attachments/assets/979fb8e5-61bd-478b-9207-c6dbe34b6df8" />
+<img width="1431" height="806" alt="image" src="https://github.com/user-attachments/assets/709d39bf-f3ba-45e0-837b-82188395a6b8" />
+
+* Only two-whellers->80+5->85. [Answer]
+* '5' people sold their cars before hand.
+* '20' people more sold their cars and now they own nothing. So they are in none(n) now.
+* So '25' people sold their cars.
+* n->35.
+
+<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/264bed08-4030-4187-9fa7-075d7472dddb" />
+<img width="1434" height="815" alt="image" src="https://github.com/user-attachments/assets/e522fb04-3966-4f15-8472-9413f5a14f16" />
+
+* Critical Reasoning -> 3-4 questions minimum. [VERY IMPORTANT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
