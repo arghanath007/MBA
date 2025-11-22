@@ -3088,6 +3088,7 @@
 
 * Critical Reasoning -> 3-4 questions minimum. [VERY IMPORTANT]
 
+### Syllogism (1) [29]
 
 
 
