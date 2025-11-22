@@ -2916,6 +2916,35 @@
 
 ### Venn-Diagram (5) [28]
 
+<img width="1409" height="799" alt="image" src="https://github.com/user-attachments/assets/f9e4a045-c067-4a2b-b844-4cd305a949ed" />
+<img width="1425" height="803" alt="image" src="https://github.com/user-attachments/assets/eeca9167-8454-423f-a9a1-68d8858aab9f" />
+<img width="1420" height="820" alt="image" src="https://github.com/user-attachments/assets/9f89c47e-6665-4011-90bd-9e700020f5fe" />
+
+* LCM/multiple of 2,3,4,5-> 60k. [LET]
+* 50% of 60k->30k
+* Hindi also speak sanskrit-> d+g=30k.
+
+<img width="1416" height="835" alt="image" src="https://github.com/user-attachments/assets/7e2bbe89-49a8-40a7-a055-beca73f20652" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
