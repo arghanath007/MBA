@@ -2712,6 +2712,65 @@
 
 #### PYQs
 
+<img width="1415" height="798" alt="image" src="https://github.com/user-attachments/assets/3da11e12-2ae0-451c-a0ad-0c6f53419565" />
+
+* 400-150->250.
+* 50% like cricket->400/2->200.
+
+<img width="1441" height="806" alt="image" src="https://github.com/user-attachments/assets/5d937da9-b16a-4ca6-8c54-ed02811ea680" />
+
+* 20% like both->400/5->80.
+* Girls->150.
+* 20% girls like both->150/5->30.
+
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/08e99b62-410f-4c3c-8489-2f7dd62735c8" />
+
+* Boys only cricket->85-50->35.
+* Boys only hockey->70-50->20.
+* None cricket->250-20-50-35->250-105->145.
+* Girls:
+* Cricket->115-30->85.
+* Hockey->50-30->20.
+* None->150-20-30-85->150-135->15.
+
+<img width="1435" height="815" alt="image" src="https://github.com/user-attachments/assets/d0b7625e-9ba2-4e0c-948d-5ad659f12480" />
+<img width="1428" height="813" alt="image" src="https://github.com/user-attachments/assets/badad0ad-ecee-4cc4-9fcb-491660fea69a" />
+<img width="1414" height="802" alt="image" src="https://github.com/user-attachments/assets/4bc3b012-9f8e-43f5-8d15-f66952718ebb" />
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/df8547cc-f871-4517-b491-ce376c330f61" />
+<img width="1417" height="792" alt="image" src="https://github.com/user-attachments/assets/6bd1e11c-792b-4061-84cd-070482c99b22" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="822" alt="image" src="https://github.com/user-attachments/assets/ce45ef23-70af-4706-a44a-045afd3ef93c" />
+<img width="1420" height="824" alt="image" src="https://github.com/user-attachments/assets/812acc0a-b902-4a61-b8dd-641cbc7a245b" />
+
+* 1 -> If -> Valid for this question only.
+* a->90.
+* Find f.
+
+<img width="1439" height="823" alt="image" src="https://github.com/user-attachments/assets/39fdc88a-7238-40d7-a8b5-459830c2d703" />
+
+* d + e + f ->30. [Given]
+* 1 -> 30. [Answer]
+
+<img width="1435" height="825" alt="image" src="https://github.com/user-attachments/assets/e3a4628f-f644-4a5f-875e-9875d7b895c5" />
+<img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/126e8f58-a07b-4a61-b179-74e69cc0a6d6" />
+
+* 2 -> If -> Valid for this question only.
+* 2 -> 110. [Answer]
+
+<img width="1417" height="820" alt="image" src="https://github.com/user-attachments/assets/945e57d1-8f14-443c-afe7-4094a35c0989" />
+<img width="220" height="198" alt="image" src="https://github.com/user-attachments/assets/f0fa09c1-10ed-4700-b6e6-28dc10571125" />
+
+* 3
+* Hockey but not football -> e + b.
+* C and F only -> d.
+
+<img width="1431" height="808" alt="image" src="https://github.com/user-attachments/assets/85b41693-d214-4f7e-a11a-f496a1578f37" />
+<img width="1440" height="815" alt="image" src="https://github.com/user-attachments/assets/aa1bed88-4dc9-42dc-9268-eba051d98da5" />
+
+
+
 
 
 
