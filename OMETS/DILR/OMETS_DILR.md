@@ -3090,6 +3090,45 @@
 
 ### Syllogism (1) [29]
 
+<img width="1430" height="795" alt="image" src="https://github.com/user-attachments/assets/367767f6-11f7-45e0-a970-609eb99d25be" />
+<img width="1244" height="804" alt="image" src="https://github.com/user-attachments/assets/10579127-a5fa-4e6e-b915-b1ecdf2cbe8e" />
+
+* Types of conclusions:-
+
+1) Definite True.
+2) Reject or Definite false.
+3) May or may not be -> Can't say.
+
+<img width="1440" height="831" alt="image" src="https://github.com/user-attachments/assets/ec2d8c6a-38fb-4931-90fa-bf3fdd2348ee" />
+<img width="1429" height="807" alt="image" src="https://github.com/user-attachments/assets/64209409-ea17-4bbd-b022-f8fd11d537e9" />
+<img width="1427" height="815" alt="image" src="https://github.com/user-attachments/assets/40850efe-3c72-43b6-a66d-da1acd2c7203" />
+
+* [FORMULA]
+
+<img width="1245" height="801" alt="image" src="https://github.com/user-attachments/assets/f370d0b5-2de6-4fe1-84a9-4cb85bee7c49" />
+<img width="1047" height="786" alt="image" src="https://github.com/user-attachments/assets/28ba2859-defe-4fd0-8b0e-97d8f7f883cf" />
+<img width="1063" height="809" alt="image" src="https://github.com/user-attachments/assets/31bb41e6-f188-4b6c-8bfe-3d714780f90d" />
+<img width="1064" height="807" alt="image" src="https://github.com/user-attachments/assets/f51a47ff-7d85-4877-88d1-7b745d724b3a" />
+
+* [FORMULA]
+
+<img width="1243" height="550" alt="image" src="https://github.com/user-attachments/assets/94155bbd-1a8d-4010-afd0-c1d2a0a5c7ed" />
+<img width="1433" height="806" alt="image" src="https://github.com/user-attachments/assets/6b72a6d1-a4fb-4d73-bb36-7bcb6416564a" />
+
+* [FORMULA]
+
+<img width="1241" height="801" alt="image" src="https://github.com/user-attachments/assets/3e17180c-10f7-444f-96f9-e32a2f26296a" />
+<img width="1260" height="809" alt="image" src="https://github.com/user-attachments/assets/ae2e6790-36f7-4d2d-a992-dcb84080fe95" />
+<img width="1084" height="801" alt="image" src="https://github.com/user-attachments/assets/448f9127-9339-420a-a07e-ed20a21eb75b" />
+
+* Start from 25mins.
+
+
+
+
+
+
+
 
 
 
