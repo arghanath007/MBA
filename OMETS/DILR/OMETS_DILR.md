@@ -2798,14 +2798,123 @@
 
 ### Venn-Diagram (4) [27]
 
+<img width="1409" height="799" alt="image" src="https://github.com/user-attachments/assets/9d1ae371-a5f1-4690-88c3-9b351dd8c563" />
 
+* 1.
+* Total->500.
+* 500-270->230.
 
+<img width="1409" height="825" alt="image" src="https://github.com/user-attachments/assets/e7dddc7c-dbe4-46cd-9fea-fff2bd03fe9c" />
+<img width="1427" height="830" alt="image" src="https://github.com/user-attachments/assets/2792d465-ac89-4b4d-976a-eb1084512e59" />
 
+* e+f->120
+* f->50.
+* e->70.
+* c+e->150.
+* c->80.
 
+<img width="1434" height="851" alt="image" src="https://github.com/user-attachments/assets/0557f791-5b20-4d59-bf22-4ccd07299fc5" />
 
+* a+c->140.
+* a->60.
 
+<img width="1424" height="832" alt="image" src="https://github.com/user-attachments/assets/56ddd6a2-2c58-465f-9b9b-18699365aa80" />
+<img width="1425" height="843" alt="image" src="https://github.com/user-attachments/assets/964d9cbd-9d9d-446e-abbe-bf7c14442f69" />
 
+* d+g->100
+* d->40.
 
+<img width="1437" height="835" alt="image" src="https://github.com/user-attachments/assets/3d34f320-ab5f-4765-81f6-adc4b429a0b4" />
+
+* h->500-140-130-130-50->500-450->50.
+* h->50.
+
+<img width="1431" height="830" alt="image" src="https://github.com/user-attachments/assets/8cc38277-cec6-4918-9912-994a21bc6ee7" />
+<img width="1422" height="802" alt="image" src="https://github.com/user-attachments/assets/5606b968-af35-4730-9f0b-cccc2b1f660b" />
+<img width="1429" height="822" alt="image" src="https://github.com/user-attachments/assets/630d94d1-696b-4a55-a1c5-3a45564e4ca2" />
+<img width="1431" height="824" alt="image" src="https://github.com/user-attachments/assets/f14d4d80-2382-41e3-ac96-6234a6636c7f" />
+
+* [VERY IMPORTANT]
+
+<img width="1430" height="796" alt="image" src="https://github.com/user-attachments/assets/a1ffa585-89c1-4489-aed7-caac01acaa8e" />
+<img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/95221613-354c-435b-8e10-cae19ced1194" />
+<img width="1400" height="783" alt="image" src="https://github.com/user-attachments/assets/5b21e0f8-3144-4661-9189-7abd91b8a40c" />
+<img width="1414" height="801" alt="image" src="https://github.com/user-attachments/assets/6763418a-8c81-4397-bca2-f2ed24a23051" />
+
+* [VERY IMPORTANT]
+
+<img width="1410" height="817" alt="image" src="https://github.com/user-attachments/assets/181b497a-7bb7-44de-b07f-763b7ed35f9c" />
+<img width="1405" height="789" alt="image" src="https://github.com/user-attachments/assets/08078165-5d12-4cb0-b8ad-1e9d63ad1763" />
+
+* 2. [VERY IMPORTANT]
+* None=0. 
+
+<img width="1435" height="819" alt="image" src="https://github.com/user-attachments/assets/3eb6c3da-22e4-46af-87a5-4f8f814994a6" />
+
+* And(&) -> intersection/common parts.
+* XI & Sam -> gmlo->75.
+* No & MI -> kojn->75.
+* E3 -> lknm->75.
+
+<img width="1435" height="823" alt="image" src="https://github.com/user-attachments/assets/3620c970-18cb-4ffc-9604-b3b4d35564ee" />
+
+* XI & Sam only->g->25.
+* No & MI -> j->25.
+* E2->ejhf.
+
+<img width="1428" height="826" alt="image" src="https://github.com/user-attachments/assets/5186f9b8-e9dd-46b4-beed-af1c75427528" />
+
+* 155+175+165+150-> 645
+
+<img width="1430" height="828" alt="image" src="https://github.com/user-attachments/assets/140325b7-4591-462d-a1a9-a1805bc8b774" />
+<img width="1409" height="797" alt="image" src="https://github.com/user-attachments/assets/e10a14ef-bfc3-48d1-8543-430823e990f6" />
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/e9ab2060-4278-4aa2-bf70-aa6810d3ffb2" />
+
+* E2-E1=100
+* 140-E1=100
+* E1=40.
+
+<img width="1435" height="833" alt="image" src="https://github.com/user-attachments/assets/564bd6c7-017a-45d1-925a-d51f93f0554f" />
+<img width="1437" height="823" alt="image" src="https://github.com/user-attachments/assets/3ea3bd7d-8368-4a47-ae00-6f3a4f0961c7" />
+<img width="1432" height="822" alt="image" src="https://github.com/user-attachments/assets/b453bde2-05fc-466d-9582-ad9104bea1e9" />
+
+* E4=O=25.
+* lgom=75.
+* l+25+25+m=75.
+* l+m->25.
+* kojn->75.
+* k+25+25+n=75
+* k+n->25.
+
+<img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/60e66c2c-7557-4eff-a460-ebe32f742ccf" />
+<img width="1425" height="808" alt="image" src="https://github.com/user-attachments/assets/1656b191-9924-46c7-967d-ab3f6760d8df" />
+
+* g+j->25.
+* 1->O->25.[Answer]
+* We cannot find individual values of 'a,b,c,d,e,f'. 
+
+<img width="1431" height="816" alt="image" src="https://github.com/user-attachments/assets/5132b67a-6a3e-4e30-83f6-5f386bf7ed2e" />
+<img width="1420" height="815" alt="image" src="https://github.com/user-attachments/assets/9372893a-8ad9-42f5-9708-9b9c39ee7bf3" />
+<img width="1412" height="800" alt="image" src="https://github.com/user-attachments/assets/f1cd8f34-c0e8-4895-a519-9aeaa37965a3" />
+<img width="1438" height="819" alt="image" src="https://github.com/user-attachments/assets/c89ce450-433c-4c5d-bc87-8aa70c66d2dc" />
+<img width="1424" height="824" alt="image" src="https://github.com/user-attachments/assets/dec1dfea-5208-4c4c-b274-0b55f42444a3" />
+<img width="1433" height="824" alt="image" src="https://github.com/user-attachments/assets/82f91779-df29-4822-8e72-c99aa4d2648b" />
+<img width="1417" height="822" alt="image" src="https://github.com/user-attachments/assets/f834ef39-d533-4634-8e6e-0cc592fd7bb9" />
+
+* g->15.
+* j->10.
+
+<img width="1423" height="825" alt="image" src="https://github.com/user-attachments/assets/c36d09ce-4af3-4c25-9a21-daf125ab7cba" />
+
+* l+m->35.
+* k+n->40.
+
+<img width="1435" height="826" alt="image" src="https://github.com/user-attachments/assets/1d4fa614-2331-4001-aec3-92af2d61b115" />
+<img width="1429" height="816" alt="image" src="https://github.com/user-attachments/assets/3d6169e8-5912-4b3e-b2ba-704dae64d8df" />
+
+* Next class.
+
+### Venn-Diagram (5) [28]
 
 
 
