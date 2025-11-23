@@ -3120,8 +3120,44 @@
 <img width="1241" height="801" alt="image" src="https://github.com/user-attachments/assets/3e17180c-10f7-444f-96f9-e32a2f26296a" />
 <img width="1260" height="809" alt="image" src="https://github.com/user-attachments/assets/ae2e6790-36f7-4d2d-a992-dcb84080fe95" />
 <img width="1084" height="801" alt="image" src="https://github.com/user-attachments/assets/448f9127-9339-420a-a07e-ed20a21eb75b" />
+<img width="1428" height="860" alt="image" src="https://github.com/user-attachments/assets/d1e0bcd9-1b46-4af1-b880-b503a51586a5" />
 
-* Start from 25mins.
+* Some -> Atleast '1' element and maximum of 'all' the elements. [FORMULA]
+
+<img width="1423" height="807" alt="image" src="https://github.com/user-attachments/assets/24807add-67da-4875-b4f0-f083f0ac7260" />
+
+* **All** diagram. [FORMULA]
+
+<img width="1259" height="795" alt="image" src="https://github.com/user-attachments/assets/15c30b69-b66f-49c3-9a08-365153948397" />
+<img width="1148" height="820" alt="image" src="https://github.com/user-attachments/assets/91a42ce7-03a3-407e-8029-0c5c47985c6b" />
+<img width="1270" height="816" alt="image" src="https://github.com/user-attachments/assets/9b113830-9629-4fb8-883c-18a6ae8ac3df" />
+
+* [FORMULA]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
