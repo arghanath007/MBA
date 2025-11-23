@@ -3233,8 +3233,38 @@
 * Some flowers are beautiful.
 * No direct relationship between beautiful and big.
 
-*17mins.
+<img width="1421" height="821" alt="image" src="https://github.com/user-attachments/assets/9d854588-789d-4249-a09a-38fd01a66f2c" />
+<img width="1428" height="840" alt="image" src="https://github.com/user-attachments/assets/9d108cee-10ad-4041-8ee9-f0b2f3376688" />
+<img width="1438" height="826" alt="image" src="https://github.com/user-attachments/assets/97929db9-90f3-47a1-8985-751e7077b695" />
+<img width="1434" height="820" alt="image" src="https://github.com/user-attachments/assets/2f6e837f-7897-4e92-8834-eb159ce12bcb" />
+<img width="1398" height="787" alt="image" src="https://github.com/user-attachments/assets/42694d6e-66c5-4f04-803f-85b7944f6a10" />
+<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/a0121f9f-35be-47f5-8187-59641b82bab5" />
+<img width="295" height="84" alt="image" src="https://github.com/user-attachments/assets/f84b87b4-8ee1-4734-b2af-dbd0a762134f" />
 
+* Yes that is **indirect** which is **possibility**.
+
+<img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/663e91e0-fcdf-42ea-81b6-d5d3e74e215d" />
+<img width="1432" height="801" alt="image" src="https://github.com/user-attachments/assets/9f7ce34f-55d4-4f17-82b9-08f4a3cfd3a3" />
+<img width="1422" height="817" alt="image" src="https://github.com/user-attachments/assets/d4b1f2c4-7cec-41c1-9ec5-d956083a494f" />
+
+* Direct conclusion -> YES.
+
+<img width="1388" height="786" alt="image" src="https://github.com/user-attachments/assets/7f708954-6d8c-4f9e-be04-ffe7e667acf3" />
+<img width="1409" height="812" alt="image" src="https://github.com/user-attachments/assets/0776f4b2-4167-484c-a451-573cfcad5b7c" />
+<img width="1437" height="810" alt="image" src="https://github.com/user-attachments/assets/be2f56c4-3450-4f85-b5dd-6b62f7a70b89" />
+
+* Direct conclusion -> YES.  [VERY IMPORTANT]
+* As all actors are dancers as well and no dancers are singers. So no actor is a singer as well.
+* Direct conclusion -> No actors are singers.
+
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/6faf4a0a-4ca2-4924-b5cf-fe602182c3fd" />
+<img width="1435" height="809" alt="image" src="https://github.com/user-attachments/assets/6e19ca55-9c49-4c54-a4bc-fec14b5443ba" />
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/d488c3b8-6902-4ac0-baa2-1bd906e79cbb" />
+
+* Direct Conclusion -> Some snakes are not dangerous.
+*  [VERY IMPORTANT]
+
+* 44mins.
 
 
 
