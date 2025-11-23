@@ -3264,10 +3264,21 @@
 * Direct Conclusion -> Some snakes are not dangerous.
 *  [VERY IMPORTANT]
 
-* 44mins.
+<img width="1438" height="846" alt="image" src="https://github.com/user-attachments/assets/13d7c851-649e-434d-8a72-1af6d397ad74" />
+<img width="1410" height="788" alt="image" src="https://github.com/user-attachments/assets/0d2dd7c9-3f36-46a2-9a6b-cb557a6fc7db" />
+<img width="433" height="82" alt="image" src="https://github.com/user-attachments/assets/a589f937-19b2-4c21-aa6b-cdc882c90e47" />
+<img width="474" height="143" alt="image" src="https://github.com/user-attachments/assets/d433863b-0ed3-40d9-9216-8839236dbd24" />
 
+* Some has the possibility of being **all**.
 
+<img width="1429" height="812" alt="image" src="https://github.com/user-attachments/assets/bc082edf-8e16-441a-87f2-ce2af5d0b989" />
+<img width="1425" height="828" alt="image" src="https://github.com/user-attachments/assets/83bdd25a-6856-41a2-a65b-00ec0eedb51d" />
 
+* Possibility.
+
+<img width="1414" height="808" alt="image" src="https://github.com/user-attachments/assets/1088a58c-8590-4850-b7b8-985015afaf16" />
+<img width="1419" height="815" alt="image" src="https://github.com/user-attachments/assets/f6d2666d-ba8a-4fa9-81de-5b32351531af" />
+<img width="1424" height="810" alt="image" src="https://github.com/user-attachments/assets/4cb8d3d8-b4b8-488d-ad81-11ddae962579" />
 
 
 
