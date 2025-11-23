@@ -3134,6 +3134,79 @@
 
 * [FORMULA]
 
+<img width="1428" height="830" alt="image" src="https://github.com/user-attachments/assets/3e191a7e-bfa6-4d94-b824-d5a6ffc4b8c5" />
+
+* [FORMULA]
+
+<img width="1434" height="830" alt="image" src="https://github.com/user-attachments/assets/223afb0c-bd74-48eb-a9e0-59521aa391bb" />
+<img width="1276" height="826" alt="image" src="https://github.com/user-attachments/assets/89041c5b-3532-4bcc-a92a-070d5942d30a" />
+
+* 'All' can come in the definition of 'some'.
+
+<img width="1276" height="812" alt="image" src="https://github.com/user-attachments/assets/683d1edc-ec16-422f-930d-9be6a92b8741" />
+
+* Disjoint set.
+* **No's** diagram. [FORMULA]
+
+<img width="1426" height="824" alt="image" src="https://github.com/user-attachments/assets/2c1f95b9-24ae-4dee-bd23-dc3a720001d5" />
+<img width="1438" height="805" alt="image" src="https://github.com/user-attachments/assets/30fe86ec-da10-4487-8f00-2e8f6ee12497" />
+
+* In **some**, **all** can also come. [FORMULA]
+
+<img width="1437" height="825" alt="image" src="https://github.com/user-attachments/assets/7fdffb54-2591-432a-b0f8-b06994e87b50" />
+
+* Some boys are good.
+* 100% True is also possible -> All boys are good.
+
+<img width="1283" height="824" alt="image" src="https://github.com/user-attachments/assets/cca28663-7f46-4787-9944-c3dbb091a842" />
+<img width="1325" height="821" alt="image" src="https://github.com/user-attachments/assets/49ed7af5-f4d3-4a5f-9084-21faf3800fbf" />
+<img width="1347" height="834" alt="image" src="https://github.com/user-attachments/assets/aed77596-6c70-40bb-9332-7d452b616a67" />
+<img width="1272" height="825" alt="image" src="https://github.com/user-attachments/assets/6150af05-569c-4886-8b12-5f1df0596e95" />
+<img width="1257" height="816" alt="image" src="https://github.com/user-attachments/assets/e3258fe4-3fa8-468a-abb6-4a834de67a99" />
+
+* **Some's** diagram. [FORMULA]
+
+<img width="1215" height="831" alt="image" src="https://github.com/user-attachments/assets/148f45dd-5b05-4981-a195-7f73965e2867" />
+
+* [FORMULA]
+
+<img width="1435" height="831" alt="image" src="https://github.com/user-attachments/assets/70e25462-d28c-4a6a-9054-20b06cb233ab" />
+<img width="1421" height="855" alt="image" src="https://github.com/user-attachments/assets/8d54f169-b644-4e96-9d36-0cb4dbb174d7" />
+<img width="1417" height="828" alt="image" src="https://github.com/user-attachments/assets/e4d1b33b-abdd-47fc-8466-c9e226ae061d" />
+<img width="1429" height="816" alt="image" src="https://github.com/user-attachments/assets/670afe65-284e-4731-a446-637d839f02d1" />
+
+* [FORMULA]
+
+<img width="1331" height="847" alt="image" src="https://github.com/user-attachments/assets/e478b45f-8fd4-4cad-9f15-dbc7ed233f73" />
+
+* Min. of '1 S' is not 'P'.
+
+<img width="1312" height="847" alt="image" src="https://github.com/user-attachments/assets/0c5462d6-575b-451f-9b3a-43896296bf83" />
+
+* All 'S' are 'P' -> Not possible.
+
+<img width="1266" height="841" alt="image" src="https://github.com/user-attachments/assets/b7fdf280-9b3e-4136-bf71-6bdfe0a8a4a2" />
+<img width="1249" height="841" alt="image" src="https://github.com/user-attachments/assets/01cf0409-c33b-4b8d-92f0-69826c5669b0" />
+<img width="1272" height="837" alt="image" src="https://github.com/user-attachments/assets/04e2056a-f760-4d91-9f0e-953543176aef" />
+<img width="1259" height="815" alt="image" src="https://github.com/user-attachments/assets/97aa7295-95b1-4cf1-8acd-ab8fb7fa52ac" />
+<img width="1262" height="820" alt="image" src="https://github.com/user-attachments/assets/dd9d02ae-1692-459d-99d9-10b72163ecf4" />
+
+* **Some not's** diagram. [FORMULA]
+
+<img width="1435" height="824" alt="image" src="https://github.com/user-attachments/assets/9c8c5505-6b6d-4078-a009-715bafb5e69b" />
+
+* [FORMULA]
+
+### Syllogism (2) [30]
+
+<img width="1420" height="860" alt="image" src="https://github.com/user-attachments/assets/7212adc4-4903-4789-9047-988ed3a43290" />
+
+* [FORMULA]
+
+
+
+
+
 
 
 
