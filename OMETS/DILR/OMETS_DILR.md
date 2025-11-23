@@ -3203,6 +3203,43 @@
 
 * [FORMULA]
 
+<img width="1433" height="920" alt="image" src="https://github.com/user-attachments/assets/36c43bc9-f2d2-4623-bf0a-ca06137f22a6" />
+<img width="1420" height="811" alt="image" src="https://github.com/user-attachments/assets/96c495b2-a341-4af1-8c9a-034e9a7f7876" />
+
+* No direct conclusion.
+
+<img width="1439" height="828" alt="image" src="https://github.com/user-attachments/assets/a5d57430-7f6e-4fcf-8f93-52ba4615b182" />
+<img width="1418" height="828" alt="image" src="https://github.com/user-attachments/assets/8fb2744c-1e93-48b7-8b03-29c71b3389e9" />
+<img width="1437" height="837" alt="image" src="https://github.com/user-attachments/assets/ff2d30e8-7eb8-484f-9964-6d670a114f6e" />
+<img width="1421" height="821" alt="image" src="https://github.com/user-attachments/assets/825f5cb5-b5c2-414e-8cb6-44f63eac8980" />
+
+* [VERY IMPORTATN] [EXAMPLE]
+
+<img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/f1c49aa3-94ba-45c2-b7f2-b8a416b30f31" />
+
+* We cannot directly conclude the relation between 'R & Q'.
+
+<img width="1438" height="825" alt="image" src="https://github.com/user-attachments/assets/93851f5a-d1b3-4e5f-998f-4854a820ac23" />
+<img width="1435" height="822" alt="image" src="https://github.com/user-attachments/assets/6aea6044-19cc-428e-a9f0-71e9a8ff5991" />
+<img width="1432" height="823" alt="image" src="https://github.com/user-attachments/assets/b2a677c5-faf6-4083-adb1-bf1993e25d6a" />
+<img width="1441" height="801" alt="image" src="https://github.com/user-attachments/assets/7fdf28f2-84cb-48f5-8814-d3ac8e6e506b" />
+
+* Relationship of 'R & Q' is indirectly visible.
+
+<img width="1428" height="829" alt="image" src="https://github.com/user-attachments/assets/44583719-cd6c-4d6b-8c88-1964b8a8a29c" />
+<img width="1428" height="800" alt="image" src="https://github.com/user-attachments/assets/593fffbc-7047-4d30-a026-167f60ee6108" />
+
+* **Many** can be replaced with **some**. [FORMULA]
+* Some flowers are beautiful.
+* No direct relationship between beautiful and big.
+
+
+
+
+
+
+
+
 
 
 
