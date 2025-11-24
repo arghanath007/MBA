@@ -3374,9 +3374,24 @@
 
 ### Syllogism (4) [32]
 
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/2cc7e399-8a8f-4e7b-94ed-8cf2a2c4a575" />
 
+* Ports & aerodromes can have connection -> Possibility.
+* Capitals & aerodromes can have connection -> Possibility.
 
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/f0c58dc3-c407-40cb-8557-b4c54a849c07" />
+<img width="1422" height="847" alt="image" src="https://github.com/user-attachments/assets/d9558982-a9e7-47b0-8b1b-cd0962c7fef0" />
+<img width="1436" height="825" alt="image" src="https://github.com/user-attachments/assets/55dfeccf-02ea-421e-9fb2-b57935aeb618" />
 
+* Conclusion '1' -> True -> Habour cannot come inside ports and harbours are inside aerodromes so some part of aerodromes i.e harbours will never be inside ports. [VERY IMPORTANT]
+
+<img width="1434" height="869" alt="image" src="https://github.com/user-attachments/assets/ea35b5ca-cca1-4423-9524-3d024612bde8" />
+<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/a1108c07-695a-4095-93b5-5a5ff993f3bc" />
+<img width="261" height="66" alt="image" src="https://github.com/user-attachments/assets/43d99571-eba6-4034-ab47-2fa2b53b1f46" />
+<img width="450" height="191" alt="image" src="https://github.com/user-attachments/assets/abb24619-0f30-406d-ae48-5bdb2532c66a" />
+<img width="1434" height="811" alt="image" src="https://github.com/user-attachments/assets/afcd2108-6316-4540-9904-aa6cd93aed98" />
+
+* [VERY IMPORTANT]
 
 
 
