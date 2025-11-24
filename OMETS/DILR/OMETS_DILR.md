@@ -3308,6 +3308,93 @@
 
 * [VERY IMPORTANT]
 
+<img width="1408" height="803" alt="image" src="https://github.com/user-attachments/assets/2eb8522b-cc18-4933-89e2-6be383a495de" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="920" alt="image" src="https://github.com/user-attachments/assets/8f240719-8c7f-4881-bbd0-98b8c8815a74" />
+<img width="1419" height="836" alt="image" src="https://github.com/user-attachments/assets/7fbd47f7-8ef0-434b-95ef-45bb64b546aa" />
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/3a47344f-6603-41b2-a70d-b2d7be44b323" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="823" alt="image" src="https://github.com/user-attachments/assets/26b40b2d-d7ad-4eaf-b85d-bc199e7a3d16" />
+<img width="1400" height="792" alt="image" src="https://github.com/user-attachments/assets/e443541e-6fd9-4c5f-bf24-8c0a02eb1d3e" />
+<img width="1432" height="905" alt="image" src="https://github.com/user-attachments/assets/2512a274-915d-4da4-ab79-4d6c0ddd509d" />
+
+* There is a difference between **False & possibility**.
+
+<img width="1413" height="791" alt="image" src="https://github.com/user-attachments/assets/524419fb-b5ba-415a-9283-aad7308d4890" />
+<img width="1424" height="819" alt="image" src="https://github.com/user-attachments/assets/d4fc3f1d-63ed-4c2c-b786-012ce1daf516" />
+
+* [VERY IMPORTANT]
+
+<img width="1425" height="916" alt="image" src="https://github.com/user-attachments/assets/a93316ea-b36e-4723-b05c-71c819eb7799" />
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/c19bfa02-d3c5-4d7f-be74-ee835e6615c8" />
+<img width="1413" height="811" alt="image" src="https://github.com/user-attachments/assets/9a229cb2-f9ce-4fcf-99ba-4cd52dd12d47" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="890" alt="image" src="https://github.com/user-attachments/assets/361e27a6-2bda-410b-a418-638067b3fbf6" />
+<img width="1438" height="849" alt="image" src="https://github.com/user-attachments/assets/77ea4cb4-98d0-4bce-bcd2-2aa0a5a39b4f" />
+<img width="1434" height="819" alt="image" src="https://github.com/user-attachments/assets/fed6b0e8-d0d1-44c5-b350-ab0c7e22d264" />
+<img width="1445" height="844" alt="image" src="https://github.com/user-attachments/assets/36b4c527-1dd4-428f-a828-85d7891bd0bb" />
+<img width="1432" height="818" alt="image" src="https://github.com/user-attachments/assets/bf0f64d0-4ca0-4f27-b08f-c3ceb6d54189" />
+
+* For rule 'III' also we checked options 'II & III' only. [FORMULA] [VERY IMPORTANT]
+ 
+<img width="1439" height="922" alt="image" src="https://github.com/user-attachments/assets/b77b7882-a073-40c3-9a57-d1c6a71b91db" />
+<img width="1436" height="819" alt="image" src="https://github.com/user-attachments/assets/cf504e0a-5097-4730-9114-0d2f5eb8b8aa" />
+<img width="1430" height="831" alt="image" src="https://github.com/user-attachments/assets/efaf609f-f595-4750-b71a-8ea489ec3b1d" />
+
+* As all came as possibilities(P) -> We have to check the rules for **Either-OR** -> If the rules don't follow then we have to tick **none**. [FORMULA] 
+
+<img width="1418" height="790" alt="image" src="https://github.com/user-attachments/assets/4ab7b273-459d-4231-8a41-e3fa19b8c25f" />
+<img width="1435" height="815" alt="image" src="https://github.com/user-attachments/assets/afc5403e-7510-4c47-bdf1-e7301c1d9968" />
+
+* [VERY IMPORTANT]
+
+<img width="1436" height="924" alt="image" src="https://github.com/user-attachments/assets/2b68dcc8-54dd-4c7b-aee0-2e7277595491" />
+<img width="1432" height="843" alt="image" src="https://github.com/user-attachments/assets/d431e39f-edc1-4f0b-b168-be72300f13c5" />
+<img width="1440" height="806" alt="image" src="https://github.com/user-attachments/assets/454e2f0d-98d1-409d-8463-d7439c8f86a6" />
+<img width="1424" height="803" alt="image" src="https://github.com/user-attachments/assets/61a49710-b739-41d7-acac-8bb0ed69ce26" />
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/28a1c080-a7f8-4607-957f-7d4434350446" />
+
+* As option is not given, so we have to find the closest matching option to the answer.
+
+<img width="1439" height="825" alt="image" src="https://github.com/user-attachments/assets/8afe5e40-f330-4074-8640-44aa1d7c3db3" />
+
+* Only option left is **Option 'C'** after eliminating the other options.
+
+<img width="1437" height="817" alt="image" src="https://github.com/user-attachments/assets/8717d307-0199-40d8-a761-2e8ec992e784" />
+<img width="1432" height="830" alt="image" src="https://github.com/user-attachments/assets/bb302e58-7be0-4b19-ac9c-63c51708e5d4" />
+<img width="1425" height="802" alt="image" src="https://github.com/user-attachments/assets/05ea6e0d-d48d-4f99-b74d-8de5917bd1ff" />
+
+* [VERY IMPORTANT]
+
+### Syllogism (4) [32]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
