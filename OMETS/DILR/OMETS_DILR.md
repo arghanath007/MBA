@@ -3280,6 +3280,33 @@
 <img width="1419" height="815" alt="image" src="https://github.com/user-attachments/assets/f6d2666d-ba8a-4fa9-81de-5b32351531af" />
 <img width="1424" height="810" alt="image" src="https://github.com/user-attachments/assets/4cb8d3d8-b4b8-488d-ad81-11ddae962579" />
 
+### Syllogism (3) [31]
+
+<img width="1436" height="913" alt="image" src="https://github.com/user-attachments/assets/764eba3d-d0c4-4d7a-a2cf-f029102bde14" />
+<img width="1428" height="813" alt="image" src="https://github.com/user-attachments/assets/8b3b6c81-ff89-4c32-9581-95ca6bfb0c1d" />
+<img width="1414" height="802" alt="image" src="https://github.com/user-attachments/assets/d604dfe3-98aa-482a-89ad-dd85100b8ae1" />
+
+* [VERY IMPORTANT]
+
+<img width="1061" height="300" alt="image" src="https://github.com/user-attachments/assets/58d3740e-d8e4-4c9c-afb6-562b7b7f6c2e" />
+
+* If both the statements are **possibilities** then the above rule will apply.
+* [FORMULA]
+
+<img width="1402" height="796" alt="image" src="https://github.com/user-attachments/assets/38bcba9b-3931-4a6b-ad1c-4a081ed87dc9" />
+<img width="1433" height="915" alt="image" src="https://github.com/user-attachments/assets/8cf093b4-4d3e-4954-9cd0-d5e0fcd45d80" />
+<img width="1429" height="782" alt="image" src="https://github.com/user-attachments/assets/4786a911-9af0-4147-b61d-8e80e6e2c315" />
+<img width="1440" height="841" alt="image" src="https://github.com/user-attachments/assets/ea457194-3701-492c-865e-c9cd21545e6a" />
+<img width="1397" height="790" alt="image" src="https://github.com/user-attachments/assets/7f039dff-3dc4-462e-84e6-a4772a167fd1" />
+
+* [VERY IMPORTANT]
+
+<img width="1436" height="911" alt="image" src="https://github.com/user-attachments/assets/22befd8d-0077-4fbf-be27-67097f40e74a" />
+<img width="1430" height="824" alt="image" src="https://github.com/user-attachments/assets/11739f87-00e0-43b0-a4df-3c50e2265606" />
+<img width="1431" height="804" alt="image" src="https://github.com/user-attachments/assets/39d5185e-ce35-46d6-9476-9deaf3da1080" />
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/a2c2fdb7-f006-4a3f-949c-88239120a632" />
+
+* [VERY IMPORTANT]
 
 
 
