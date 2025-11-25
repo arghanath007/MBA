@@ -3389,14 +3389,58 @@
 <img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/a1108c07-695a-4095-93b5-5a5ff993f3bc" />
 <img width="261" height="66" alt="image" src="https://github.com/user-attachments/assets/43d99571-eba6-4034-ab47-2fa2b53b1f46" />
 <img width="450" height="191" alt="image" src="https://github.com/user-attachments/assets/abb24619-0f30-406d-ae48-5bdb2532c66a" />
+
+* Yes.
+
 <img width="1434" height="811" alt="image" src="https://github.com/user-attachments/assets/afcd2108-6316-4540-9904-aa6cd93aed98" />
 
 * [VERY IMPORTANT]
 
-15mins.
+<img width="1442" height="921" alt="image" src="https://github.com/user-attachments/assets/a36a617f-df76-406f-a8be-323f89c1b2f9" />
+<img width="1419" height="805" alt="image" src="https://github.com/user-attachments/assets/5aa0a4b1-8339-4a63-8243-dd18c9dcd419" />
+<img width="1421" height="807" alt="image" src="https://github.com/user-attachments/assets/f5cdfb95-4f1b-44af-b4eb-f4194372362d" />
 
+* There is a common part between shooter and surfers which cannot be a part of boxers. That's why conclusion 'III' is **True**.
 
+<img width="1434" height="803" alt="image" src="https://github.com/user-attachments/assets/34899d83-a8d1-4ac9-a293-323effcdb29c" />
 
+* [VERY IMPORTANT]
+
+<img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/348882c5-83f0-46cd-a254-a60d36e226ce" />
+<img width="350" height="74" alt="image" src="https://github.com/user-attachments/assets/6dfad76b-047c-4822-a437-2eaf665b044e" />
+
+* None of these -> Yes -> Not present in options but follows. [FORMULA]
+* None follow -> None of them are following. [FORMULA]
+
+<img width="380" height="108" alt="image" src="https://github.com/user-attachments/assets/612067fb-afd1-4187-b51f-f8e3bbaa92e5" />
+<img width="1407" height="823" alt="image" src="https://github.com/user-attachments/assets/427e92f6-d955-4d9e-b15a-920816daaa5e" />
+<img width="1445" height="841" alt="image" src="https://github.com/user-attachments/assets/3d214158-64b7-4ee1-9e22-51fb503fde00" />
+<img width="1438" height="800" alt="image" src="https://github.com/user-attachments/assets/4f087f7c-ef3d-4d12-8717-9577cff6daf7" />
+<img width="1418" height="796" alt="image" src="https://github.com/user-attachments/assets/f7749251-ed67-4506-8166-26ad0033960b" />
+
+* None follows -> Meaning none of the options follows, but here **Either-OR** follows so **None follows** option cannot be correct. [FORMULA]
+* None of these options follow my answer. [FORMULA] [VERY IMPORTANT]
+
+<img width="1438" height="918" alt="image" src="https://github.com/user-attachments/assets/9253d4dc-4e14-4dc5-ab5c-21be51580995" />
+<img width="1436" height="800" alt="image" src="https://github.com/user-attachments/assets/9527ad9c-0e27-470f-9213-fb1bffb0d52c" />
+<img width="1435" height="834" alt="image" src="https://github.com/user-attachments/assets/e9f9923b-aa26-41ec-bf92-02a4e86ee71f" />
+
+* All conclusions are possibilities -> **Either-OR** rules. [FORMULA]
+
+<img width="1438" height="818" alt="image" src="https://github.com/user-attachments/assets/42b20f6f-0aeb-459c-b664-2de7d902d5df" />
+<img width="1881" height="936" alt="image" src="https://github.com/user-attachments/assets/032222be-b0b9-4d34-bc0f-8edd239a1404" />
+
+* Syllables should have come first and not labels.
+
+<img width="1232" height="517" alt="image" src="https://github.com/user-attachments/assets/716d84e6-b416-4861-a5e4-28632cd68b0a" />
+
+* [FORMULA] [Example]
+* All labels are syllables -> Negation => Some labels are not syllables. [Correct]
+* Some syllables are not labels. [Wrong]
+
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/6880d2a3-a72d-4911-9815-8d0e33bdd7c1" />
+
+* [VERY IMPORTANT]
 
 
 
