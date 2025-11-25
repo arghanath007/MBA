@@ -3442,10 +3442,38 @@
 
 * [VERY IMPORTANT]
 
+<img width="1440" height="930" alt="image" src="https://github.com/user-attachments/assets/9cdfbc46-8c8b-49a4-9f7e-e87ba0fc0126" />
+<img width="1431" height="832" alt="image" src="https://github.com/user-attachments/assets/cf85d9c5-4302-4942-bdb4-056fdffde041" />
+<img width="1426" height="849" alt="image" src="https://github.com/user-attachments/assets/e2237e2e-ee04-49ed-b401-deb3dfe737a0" />
+<img width="1416" height="831" alt="image" src="https://github.com/user-attachments/assets/bee000b3-dd69-446f-96b5-539e9c043f9a" />
+<img width="1404" height="808" alt="image" src="https://github.com/user-attachments/assets/c98b8492-a435-48e0-b782-e2814c7cee60" />
+<img width="1438" height="796" alt="image" src="https://github.com/user-attachments/assets/5513e8b0-8654-4247-9c40-84f0b2c73fae" />
 
+* [VERY IMPORTANT]
 
+<img width="1443" height="924" alt="image" src="https://github.com/user-attachments/assets/555e4c1d-a737-4bca-a21d-7143a88357e7" />
+<img width="1434" height="818" alt="image" src="https://github.com/user-attachments/assets/0c2f4dba-0865-4d5f-a198-f59a5e30c832" />
 
+* [VERY IMPORTANT]
 
+<img width="1434" height="926" alt="image" src="https://github.com/user-attachments/assets/2031771a-ee1b-4865-a5ec-dbb66f11c549" />
+<img width="1432" height="800" alt="image" src="https://github.com/user-attachments/assets/a182df66-c91b-49f1-ab6e-3444f1f03d66" />
+<img width="1435" height="808" alt="image" src="https://github.com/user-attachments/assets/91ccb3b0-0090-4611-b87b-eb5249336cfd" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="913" alt="image" src="https://github.com/user-attachments/assets/069e7671-b660-486f-b94c-7fd89e817335" />
+<img width="1439" height="839" alt="image" src="https://github.com/user-attachments/assets/3c87af2a-6596-49ac-a199-a282d64632f7" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="896" alt="image" src="https://github.com/user-attachments/assets/dc60cac9-08f9-48ff-8ea9-4c91c0855e00" />
+<img width="1434" height="821" alt="image" src="https://github.com/user-attachments/assets/06c39a8a-9421-4ea5-8dcf-d821e4e30754" />
+<img width="1433" height="805" alt="image" src="https://github.com/user-attachments/assets/07ee05c8-c090-4a32-aca3-67d92b5a72ef" />
+
+* [VERY IMPORTANT]
+
+## Arrangements (1)  [33]
 
 
 
