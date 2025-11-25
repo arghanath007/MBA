@@ -3475,6 +3475,88 @@
 
 ## Arrangements (1)  [33]
 
+<img width="1437" height="826" alt="image" src="https://github.com/user-attachments/assets/108565b8-fa8d-4df5-a544-6a94a85043ff" />
+
+* [FORMULA]
+
+<img width="1432" height="872" alt="image" src="https://github.com/user-attachments/assets/b91c9870-ccc5-47c7-9f08-e9c16e21ccaa" />
+<img width="1441" height="818" alt="image" src="https://github.com/user-attachments/assets/39d71d69-e44c-4ba0-bc43-89f26c364fad" />
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/63586bb3-d6a9-4761-a33a-64d599ff2019" />
+<img width="1435" height="815" alt="image" src="https://github.com/user-attachments/assets/0ba7ee99-d01e-477e-accf-c7c83377944f" />
+
+* [FORMULA]
+
+<img width="1422" height="873" alt="image" src="https://github.com/user-attachments/assets/67a7dfa4-634a-47b3-b0dc-137d6b1f952c" />
+<img width="1435" height="825" alt="image" src="https://github.com/user-attachments/assets/fae3e234-bd47-430a-a471-a4bf6c26691b" />
+<img width="1412" height="835" alt="image" src="https://github.com/user-attachments/assets/c63bdf9e-a5d6-4e0d-81fd-9cd176cfdcd7" />
+<img width="1133" height="445" alt="image" src="https://github.com/user-attachments/assets/8e21cfef-7301-405e-b161-aa47d8fd994b" />
+
+* By default -> North Facing. 
+
+<img width="1429" height="820" alt="image" src="https://github.com/user-attachments/assets/1ee7f570-9354-45d4-8a93-609fe09aa320" />
+<img width="1429" height="835" alt="image" src="https://github.com/user-attachments/assets/b35675ed-402e-4270-b83c-f5e319c23af9" />
+<img width="1439" height="850" alt="image" src="https://github.com/user-attachments/assets/8c25f61c-846d-47d7-bd51-f54a9a69eb65" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="813" alt="image" src="https://github.com/user-attachments/assets/9c6cbd3b-18ab-4dda-8b98-c3c803272657" />
+
+* Distance between two(2) people -> Somewhere inbetween. [FORMULA]
+* Exact/Exactly distance between two(2) people -> Same distance from the left and the right side. [FORMULA]
+
+<img width="1429" height="823" alt="image" src="https://github.com/user-attachments/assets/91d1863a-0549-4711-8eb5-7c2126d1eae2" />
+
+* [FORMULA]
+
+<img width="1439" height="798" alt="image" src="https://github.com/user-attachments/assets/9fd92348-a87d-49bb-b212-0c8725172671" />
+
+* [VERY IMPORTANT]
+
+<img width="1865" height="387" alt="image" src="https://github.com/user-attachments/assets/5651b66b-8007-4aff-83c4-1efb6998c105" />
+
+* [FORMULA]
+
+<img width="1089" height="582" alt="image" src="https://github.com/user-attachments/assets/eb7538d0-237d-4d0c-a4ff-aeea5908f74d" />
+
+* [FORMULA]
+
+<img width="1433" height="823" alt="image" src="https://github.com/user-attachments/assets/3ce3ee49-2ebb-4066-b27f-6a1d404179a4" />
+<img width="1430" height="814" alt="image" src="https://github.com/user-attachments/assets/2acfcb7d-a2e4-4222-a59c-2549c3bb9695" />
+<img width="242" height="74" alt="image" src="https://github.com/user-attachments/assets/91dc8be4-7134-436b-85b2-8f410b5745b1" />
+
+* YEs.
+
+<img width="1438" height="808" alt="image" src="https://github.com/user-attachments/assets/6b5f5032-7332-4ea3-a910-049b184c2f76" />
+<img width="1419" height="792" alt="image" src="https://github.com/user-attachments/assets/8f890b10-c866-4413-9030-d365c6837c6b" />
+<img width="1429" height="837" alt="image" src="https://github.com/user-attachments/assets/2f9e19e7-54d5-40b8-9f51-37482b0dd4f1" />
+<img width="1866" height="897" alt="image" src="https://github.com/user-attachments/assets/91fcc914-f3ca-40f5-b808-bac646bca608" />
+<img width="1435" height="845" alt="image" src="https://github.com/user-attachments/assets/8bca3b3b-6440-4982-b760-fc07661173c6" />
+<img width="1427" height="830" alt="image" src="https://github.com/user-attachments/assets/d4739a21-eb44-4f98-892a-ef76a38b41cc" />
+
+* [VERY IMPORTANT]
+
+## Arrangements (2)  [34]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
