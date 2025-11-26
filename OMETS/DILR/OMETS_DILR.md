@@ -3537,6 +3537,54 @@
 
 ## Arrangements (2)  [34]
 
+<img width="1432" height="831" alt="image" src="https://github.com/user-attachments/assets/afbb4498-e180-408f-bacc-ccf0f0f2f0e7" />
+
+* As circular arrangement is a closed loop so there will be '1' arrangement as we have to fix 'B' here. [FORMULA]
+
+<img width="1435" height="864" alt="image" src="https://github.com/user-attachments/assets/40710498-f30e-435d-afcb-2d25ab0b491e" />
+<img width="1438" height="824" alt="image" src="https://github.com/user-attachments/assets/a17fe900-9332-4b34-ae00-36f4c35b98e1" />
+
+* As we can superimpose them on moving to the right, so we will have only '1' arrangement.
+
+<img width="1433" height="851" alt="image" src="https://github.com/user-attachments/assets/c66e50ab-e98a-465a-bab9-b7aa4dc559e3" />
+<img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/31ca9573-3707-4cb7-b50d-73d63c0926e6" />
+<img width="1438" height="845" alt="image" src="https://github.com/user-attachments/assets/a2989202-b462-4ecc-8bb4-0a7bbd132609" />
+
+* [FORMULA]
+
+<img width="1436" height="814" alt="image" src="https://github.com/user-attachments/assets/77512bbd-7961-4341-ae6e-8e51339501d1" />
+<img width="1431" height="848" alt="image" src="https://github.com/user-attachments/assets/20f9386a-7d02-4aed-8cb5-e9524fabc857" />
+
+* [FORMULA]
+* Circular -> Right -> Immediate right.
+* Circular -> Left -> Immediate left.
+* In **linear** it is different, we get **multiple ways**.
+
+<img width="1433" height="820" alt="image" src="https://github.com/user-attachments/assets/7b1231e6-8d65-4aac-b5c4-7431041064ba" />
+<img width="1436" height="812" alt="image" src="https://github.com/user-attachments/assets/c3cdd2ec-c30e-49e0-be8f-ce58a7eb6915" />
+<img width="1438" height="849" alt="image" src="https://github.com/user-attachments/assets/d4712ae7-99b9-4909-9267-50e58dc0c11f" />
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/2bbddebe-9ad3-4a21-8854-6ea1bc203cdf" />
+<img width="1432" height="825" alt="image" src="https://github.com/user-attachments/assets/f95b304c-dcd8-4bdf-8d7e-682ef0388028" />
+<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/418d7945-08b9-468a-9080-e4474f0c4d76" />
+<img width="1426" height="812" alt="image" src="https://github.com/user-attachments/assets/28a97f3a-b6eb-4ef4-934c-974bd6a85f70" />
+
+* [VERY IMPORTANT]
+
+<img width="1436" height="827" alt="image" src="https://github.com/user-attachments/assets/bb3befa0-ebe5-4c4b-a214-403fbfff7cd8" />
+<img width="1441" height="846" alt="image" src="https://github.com/user-attachments/assets/e5497565-b9b8-4fed-b31a-52f2212ca265" />
+<img width="1436" height="810" alt="image" src="https://github.com/user-attachments/assets/f63b1cb8-1817-424e-8dca-cb86e33d1718" />
+<img width="1413" height="828" alt="image" src="https://github.com/user-attachments/assets/4912a790-b0df-49b1-a3a2-a40d44ef27ff" />
+<img width="1423" height="838" alt="image" src="https://github.com/user-attachments/assets/c4c70ce9-afdd-4179-8e23-09a2b400eb87" />
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/d7dd9636-26f4-4a82-886a-12ecaf40a91d" />
+<img width="1441" height="826" alt="image" src="https://github.com/user-attachments/assets/108771c4-ca4e-4c20-b946-ff4d39872871" />
+
+* Direction of 'T' is unknown. 
+
+<img width="1429" height="814" alt="image" src="https://github.com/user-attachments/assets/fae9af34-da20-4c4c-af83-6c6eb713762a" />
+
+* Finally got '1' question **correct**.
+
+## Arrangements (3)  [35]
 
 
 
