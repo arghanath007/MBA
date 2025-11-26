@@ -3680,6 +3680,27 @@
 
 ### DI (1) [36]
 
+<img width="1436" height="787" alt="image" src="https://github.com/user-attachments/assets/c172e1a5-43d9-4881-9e62-98ddd02b7e69" />
+<img width="1412" height="805" alt="image" src="https://github.com/user-attachments/assets/46b68b0c-b8de-43d9-96e9-9fe24b5eebe1" />
+<img width="1417" height="824" alt="image" src="https://github.com/user-attachments/assets/b0bc350a-c38f-4bb5-b562-8943f825796a" />
+<img width="1411" height="795" alt="image" src="https://github.com/user-attachments/assets/4ef59118-25a5-4fd8-9ef9-3e89b81347ad" />
+<img width="1409" height="799" alt="image" src="https://github.com/user-attachments/assets/f1aee087-ccfb-4616-83f4-1bb1eae9c548" />
+
+* [FORMULA]
+
+<img width="1401" height="802" alt="image" src="https://github.com/user-attachments/assets/816c28cc-5717-4025-b272-c01b561672be" />
+<img width="1434" height="805" alt="image" src="https://github.com/user-attachments/assets/0a2f53f1-ab64-47fa-8e45-06b6951421c5" />
+<img width="1143" height="417" alt="image" src="https://github.com/user-attachments/assets/91ddc28c-2f2e-4200-8fd5-f5982c5e8f7d" />
+
+* Yes. [FORMULA]
+
+<img width="1431" height="816" alt="image" src="https://github.com/user-attachments/assets/9a83e5e8-8ae0-4695-aa5f-4ed7e1bdf72c" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/d3aa42de-3f09-48a0-84bf-0c4b234fc7f7" />
+
+
+
+
+
 
 
 
