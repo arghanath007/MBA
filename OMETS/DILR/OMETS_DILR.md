@@ -3586,6 +3586,99 @@
 
 ## Arrangements (3)  [35]
 
+<img width="1430" height="819" alt="image" src="https://github.com/user-attachments/assets/15e8e0cb-b549-42b7-b29b-c41ba9364b05" />
+
+* North facing -> Away from center -> Right: Clockwise, Left: Anti-clockwise. [FORMULA]
+
+<img width="1425" height="814" alt="image" src="https://github.com/user-attachments/assets/c3dc65b4-44d7-4c28-bf80-2499cff33df3" />
+<img width="1437" height="847" alt="image" src="https://github.com/user-attachments/assets/4bebe15c-8dc5-42b8-a1dd-e46f7d18f1ae" />
+<img width="1410" height="794" alt="image" src="https://github.com/user-attachments/assets/cd5d7c0c-3791-4dba-8997-4498748fd95e" />
+<img width="1461" height="832" alt="image" src="https://github.com/user-attachments/assets/52982682-be5e-49d7-8450-3df3cc872b50" />
+<img width="1439" height="808" alt="image" src="https://github.com/user-attachments/assets/845da5da-a5ca-4a66-ad49-8baa11adc373" />
+<img width="1424" height="825" alt="image" src="https://github.com/user-attachments/assets/ef6bb923-3901-446e-b671-27126243fad6" />
+<img width="1434" height="806" alt="image" src="https://github.com/user-attachments/assets/d89cbf50-1348-42c6-ab98-393cfb9cf049" />
+
+* We do not know the order of 'D & B'.
+* Information 'II' is redundant because even if we write it or not there is no impact on the overall question.
+
+<img width="1443" height="819" alt="image" src="https://github.com/user-attachments/assets/ae4e7a1e-694e-4dbb-9168-1f61afd95eb9" />
+<img width="1421" height="814" alt="image" src="https://github.com/user-attachments/assets/792c0b51-0208-46c5-baa8-c7ffc91cba58" />
+<img width="1436" height="813" alt="image" src="https://github.com/user-attachments/assets/3a272196-e9ca-48b8-981a-534001e9fbdc" />
+<img width="301" height="80" alt="image" src="https://github.com/user-attachments/assets/ffb6ffd0-e2e8-4527-b7fe-757bee5c002e" />
+
+* Yes.
+* "Immediate" word was not used. So we have to take 'H' as well along with 'F'. [FORMULA] [VERY IMPORTANT]
+
+<img width="1436" height="811" alt="image" src="https://github.com/user-attachments/assets/9e13b162-cf6d-4c3e-981d-b07e087f43d1" />
+<img width="1441" height="836" alt="image" src="https://github.com/user-attachments/assets/f8ca7506-1d78-4076-804a-f9540e0f8e51" />
+
+* 7 -> II -> Not possible -> Cannot be True.
+
+<img width="1609" height="858" alt="image" src="https://github.com/user-attachments/assets/8cb10f08-6553-4cd0-85b2-48d22a97f5a7" />
+
+* 7 -> IV -> Not possible -> Cannot be True.
+
+<img width="1438" height="845" alt="image" src="https://github.com/user-attachments/assets/11905161-ace1-4cda-9ac5-4626a357a976" />
+
+* [VERY IMPORTANT]
+
+<img width="1421" height="809" alt="image" src="https://github.com/user-attachments/assets/9493859a-57a9-459b-b082-739c02424755" />
+<img width="1428" height="931" alt="image" src="https://github.com/user-attachments/assets/942f293d-d58f-431e-bd46-58129e867e29" />
+<img width="1427" height="808" alt="image" src="https://github.com/user-attachments/assets/9d8afef4-cb66-4709-b0ec-3932cd79f64b" />
+<img width="1439" height="819" alt="image" src="https://github.com/user-attachments/assets/3ddacaab-6494-4ca9-8998-490c3b0206d6" />
+
+* Finding the positions of 'G'. 
+
+<img width="1438" height="818" alt="image" src="https://github.com/user-attachments/assets/ede212d1-6727-4600-8202-35463a2e74ac" />
+<img width="1418" height="808" alt="image" src="https://github.com/user-attachments/assets/9a49f7b6-5b4d-4995-be50-2bb5414b70f9" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/f73224be-ee3f-43bd-a76f-abd3e270d7dc" />
+<img width="1427" height="831" alt="image" src="https://github.com/user-attachments/assets/5d586c5b-c435-4329-9da3-b8e407c22c79" />
+<img width="1429" height="811" alt="image" src="https://github.com/user-attachments/assets/38c07d80-c889-4e27-beff-1a1f006199a2" />
+<img width="1427" height="806" alt="image" src="https://github.com/user-attachments/assets/66affc7f-5408-4c52-b9e5-83518fede0a0" />
+
+* 'H' faces 'C' -> 'H' is **opposite** to 'C'. [FORMULA]
+
+<img width="1439" height="807" alt="image" src="https://github.com/user-attachments/assets/48b7e991-beb1-4a31-84ec-bbe176a65bbd" />
+<img width="1409" height="795" alt="image" src="https://github.com/user-attachments/assets/89348d97-5d68-4040-845a-716454561159" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="833" alt="image" src="https://github.com/user-attachments/assets/89d65e8c-dffc-46c1-b852-01a7917dde64" />
+<img width="1435" height="814" alt="image" src="https://github.com/user-attachments/assets/43d36a38-f6ac-4dfc-88cc-b1b0643896b7" />
+<img width="1435" height="850" alt="image" src="https://github.com/user-attachments/assets/b12ec992-315c-4cc3-8914-00c3fbdf0223" />
+<img width="1433" height="824" alt="image" src="https://github.com/user-attachments/assets/c0d474e2-25d1-4026-a9ca-875621076646" />
+<img width="1434" height="862" alt="image" src="https://github.com/user-attachments/assets/2346c58c-35c6-4732-b674-092f70d5eeb4" />
+<img width="1431" height="827" alt="image" src="https://github.com/user-attachments/assets/1413ec00-dbb8-4ba0-9f6b-dfa2cad0dc6c" />
+<img width="1429" height="806" alt="image" src="https://github.com/user-attachments/assets/1a35399b-bc25-4f2d-9b82-1aff7f7efc90" />
+<img width="1438" height="818" alt="image" src="https://github.com/user-attachments/assets/bd519944-c33c-4827-977d-a521c862e136" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/f3640185-5825-48b4-a3dc-f1e1d245f7d0" />
+
+* Case '3' -> Cancelled.
+
+<img width="1438" height="822" alt="image" src="https://github.com/user-attachments/assets/5257d3ae-c582-412f-82c0-6f819d5fb388" />
+<img width="1435" height="836" alt="image" src="https://github.com/user-attachments/assets/e9c4c8f8-0d0c-430a-a102-124bab3a2321" />
+<img width="1429" height="791" alt="image" src="https://github.com/user-attachments/assets/0c91489d-39b6-49c3-848a-9ad33e4b2b51" />
+<img width="1437" height="823" alt="image" src="https://github.com/user-attachments/assets/806d9ddc-930d-474f-a24a-b9e12865afa0" />
+
+* Not possible.
+
+<img width="1433" height="829" alt="image" src="https://github.com/user-attachments/assets/1d8357e8-4000-4b8b-a385-1be44ea4e9e2" />
+
+* Not possible.
+
+<img width="1437" height="794" alt="image" src="https://github.com/user-attachments/assets/893917f3-b0d6-4582-a930-d926445009d6" />
+<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/fe103950-afa5-4837-9c39-2769433e840f" />
+<img width="1435" height="861" alt="image" src="https://github.com/user-attachments/assets/69c0aa1c-de6b-48da-b453-053c2ebdf9f7" />
+<img width="1426" height="819" alt="image" src="https://github.com/user-attachments/assets/e34dae1e-e7c4-4702-903d-0a6bfc65564f" />
+<img width="1440" height="830" alt="image" src="https://github.com/user-attachments/assets/ec1a7c78-010f-4856-a5be-0e7be7dc0e07" />
+<img width="1433" height="828" alt="image" src="https://github.com/user-attachments/assets/dde5bd8e-cc84-4ca9-84c1-de6730f42816" />
+<img width="1439" height="831" alt="image" src="https://github.com/user-attachments/assets/cc3e7cc9-2fe2-4f49-9151-91ae64f542a2" />
+
+* [VERY IMPORTANT]
+
+<img width="1402" height="783" alt="image" src="https://github.com/user-attachments/assets/195d6e39-beae-4b0a-a4ca-9e7451cf3b2d" />
+
+### DI (1) [36]
 
 
 
