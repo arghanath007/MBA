@@ -1,5 +1,9 @@
 # Exam Dates
 
+## Exams
+
+<img width="512" height="733" alt="image" src="https://github.com/user-attachments/assets/c38e1a68-e074-4997-b7dc-26540043603a" />
+
 ## CAT
 
 * CAT 25 -> 30/11/25 -> 12:30PM to 2:30PM -> Slot 2 -> TCS Gito Bitan.
