@@ -3829,6 +3829,121 @@
 
 ### DI (3) [38]
 
+<img width="1426" height="793" alt="image" src="https://github.com/user-attachments/assets/55d0774d-58f0-4c6d-81f8-7c436fb866eb" />
+<img width="1426" height="812" alt="image" src="https://github.com/user-attachments/assets/d45293f8-a157-47ae-9f7c-8cbd830c3acd" />
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/7b41e239-262f-4b96-b88b-dde09f89e332" />
+<img width="1426" height="817" alt="image" src="https://github.com/user-attachments/assets/f4de2903-1d84-45af-8f4f-b421b8711bc0" />
+<img width="1407" height="796" alt="image" src="https://github.com/user-attachments/assets/6c43174e-b8db-4cff-a899-febd9ae136ab" />
+
+* 3. [Question]
+
+<img width="1428" height="795" alt="image" src="https://github.com/user-attachments/assets/000a3050-a78f-4a23-9a78-47516bba33d8" />
+<img width="175" height="129" alt="image" src="https://github.com/user-attachments/assets/b337aaf4-c5a9-4c94-913e-415a676eeb67" />
+
+* Yes, another way.
+
+<img width="1428" height="814" alt="image" src="https://github.com/user-attachments/assets/5a303c13-e500-4e6f-b53c-c775fc339d29" />
+<img width="1404" height="800" alt="image" src="https://github.com/user-attachments/assets/0cf98196-709b-4e1e-aaf9-2855b8cc5eb2" />
+<img width="294" height="81" alt="image" src="https://github.com/user-attachments/assets/a73421a5-e472-4cfd-84f9-faf441fa6985" />
+
+* Not possible.
+
+<img width="1439" height="816" alt="image" src="https://github.com/user-attachments/assets/d74f75cc-2b49-44cc-9d7f-a911a87e5467" />
+
+* Damodar's total be 'D' rupees.
+* Edward's total be 'E' rupees.
+
+<img width="1419" height="806" alt="image" src="https://github.com/user-attachments/assets/ed7bcc18-1d97-42fa-a39a-cd4b5e6427ea" />
+
+* D/E=69/80.
+* It means that if 'D' is spending '69' parts then 'E' is spending '80' parts.
+* 'D' is spending less.
+* 80-59->11 parts.
+* 'D' is spending '11' parts less than than of 'E'.
+
+<img width="1405" height="792" alt="image" src="https://github.com/user-attachments/assets/910c4164-37a6-4df3-909d-b71866caa0d5" />
+<img width="1411" height="794" alt="image" src="https://github.com/user-attachments/assets/065e91eb-fd64-4822-b7c6-09c3e71e9af9" />
+
+* Not less than -> More or eqaul to.
+
+<img width="1438" height="825" alt="image" src="https://github.com/user-attachments/assets/d0219206-4947-46d3-bb04-9706b62de8ea" />
+
+* Percentages depends on "what".
+
+<img width="1435" height="815" alt="image" src="https://github.com/user-attachments/assets/6dd654ad-0007-4bed-bdb9-07fffba26db9" />
+<img width="1433" height="799" alt="image" src="https://github.com/user-attachments/assets/7dceb641-7491-4a60-8080-8ac56424da10" />
+<img width="1403" height="791" alt="image" src="https://github.com/user-attachments/assets/303571c8-7eb8-43cc-9182-d9d37f5085ff" />
+<img width="1405" height="793" alt="image" src="https://github.com/user-attachments/assets/29ac4c8b-dcae-46aa-9ef2-761d42df6075" />
+<img width="1434" height="838" alt="image" src="https://github.com/user-attachments/assets/4d78a0e3-173c-4ab5-9947-7719e5f3ee42" />
+<img width="1425" height="816" alt="image" src="https://github.com/user-attachments/assets/b8f65698-9301-4b01-8365-281c0c4c7b27" />
+<img width="1432" height="804" alt="image" src="https://github.com/user-attachments/assets/f9763a1f-ff95-442e-94b3-f17beff98333" />
+<img width="1437" height="821" alt="image" src="https://github.com/user-attachments/assets/ab66ce77-4320-4bf8-b8ed-8386487025b9" />
+<img width="1432" height="846" alt="image" src="https://github.com/user-attachments/assets/1d6bb07d-bca4-4386-a701-5626ad3598ba" />
+<img width="287" height="81" alt="image" src="https://github.com/user-attachments/assets/5a532cce-90a7-42f6-abd6-a06744595465" />
+
+* Yes.
+
+<img width="1438" height="801" alt="image" src="https://github.com/user-attachments/assets/4f141d24-8d08-4029-a085-cb1ae3c5b8e4" />
+
+* K_min -> Not '0.5'.
+
+<img width="1418" height="808" alt="image" src="https://github.com/user-attachments/assets/de73d541-3a89-4069-953f-13df08f68413" />
+
+* Phone between 10K and 20k -> Mummy happy, papa not happy.
+* Phone 20k -> Mummy happy, papa happy.
+
+<img width="1017" height="545" alt="image" src="https://github.com/user-attachments/assets/e75512bf-6716-4d48-95f7-2d04a5db19cc" />
+
+* Phone between 20K and 60k -> Mummy happy, papa happy, bhai not happy.
+* Phone 60k -> Mummy happy, papa happy, bhai happy.
+
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/84b4a9d3-506c-4a85-b4e2-d7a3f036b82d" />
+
+* [FORMULA]
+
+<img width="1432" height="821" alt="image" src="https://github.com/user-attachments/assets/cf8ddb62-5713-477f-bed6-f66c56822e99" />
+
+* K_min -> Least -> 1.5. [Answer]
+* [VERY IMPORTANT]
+
+<img width="1436" height="805" alt="image" src="https://github.com/user-attachments/assets/ffca7c3b-4189-488b-ad32-d5e39fab7b6a" />
+<img width="1438" height="811" alt="image" src="https://github.com/user-attachments/assets/a4afc9e4-4ede-4759-835d-a0149432f19d" />
+<img width="1422" height="798" alt="image" src="https://github.com/user-attachments/assets/133d2aa7-2f8d-4a15-8217-ed7dbb7c92e7" />
+
+* 4. [Question]
+
+<img width="1398" height="789" alt="image" src="https://github.com/user-attachments/assets/4b21205d-83ab-4305-a906-fa2d3cd04ee4" />
+<img width="1423" height="834" alt="image" src="https://github.com/user-attachments/assets/535bfae2-2bbc-4aad-b1f4-a00f22c07a69" />
+<img width="232" height="77" alt="image" src="https://github.com/user-attachments/assets/4b576a8b-e06f-41ed-98a4-ae1a78ea2461" />
+
+* Yes.
+
+<img width="1435" height="804" alt="image" src="https://github.com/user-attachments/assets/fc7a2012-a977-4e17-b283-c5e6ff52a45c" />
+<img width="1439" height="793" alt="image" src="https://github.com/user-attachments/assets/f02329d4-46d3-4cf0-a7ae-3538d092b212" />
+<img width="1424" height="806" alt="image" src="https://github.com/user-attachments/assets/71e474d9-1482-4632-977b-d506f83dd72e" />
+<img width="1430" height="810" alt="image" src="https://github.com/user-attachments/assets/44993b0d-5070-4392-a1c0-8eec0d3cbda3" />
+<img width="1438" height="812" alt="image" src="https://github.com/user-attachments/assets/a5c5da6b-353f-4f3d-b500-a4026dcc0c33" />
+<img width="1434" height="791" alt="image" src="https://github.com/user-attachments/assets/2ae31a81-3efe-43ac-8a67-1e561d00ce47" />
+<img width="1426" height="817" alt="image" src="https://github.com/user-attachments/assets/9741c05a-c399-4cec-a636-0358975d0c92" />
+
+* To find **total** is very time taking process.
+* Every product in 2024 is increasing by '35%', so their total is also going to increase by '35%'. [FORMULA]
+* 19900 approx is 20000.
+* 35% of 20000 ->27000.
+* 27000+3000->30000.
+
+<img width="1430" height="813" alt="image" src="https://github.com/user-attachments/assets/06494a38-29a5-4507-97a7-7b966367f86e" />
+<img width="1432" height="803" alt="image" src="https://github.com/user-attachments/assets/ec1376e6-1daa-4234-8a3e-a223bd0886a3" />
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/98b51dfd-9662-4384-8fe4-689f4d6511bb" />
+
+* [VERY IMPORTANT]
+
+### DI (4) [39]
+
+
+
+
+
 
 
 
