@@ -3940,14 +3940,79 @@
 
 ### DI (4) [39]
 
+<img width="1433" height="914" alt="image" src="https://github.com/user-attachments/assets/1aa250bd-00b5-4b1f-89a7-41bdd0495c9a" />
+<img width="1436" height="802" alt="image" src="https://github.com/user-attachments/assets/d2eb8aca-9c7b-46a1-96b0-db4bafd08230" />
+<img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/ef712e69-7e11-4ab0-ad9c-5458150c6b83" />
 
+* 'D' cannot be the highest.
 
+<img width="1434" height="820" alt="image" src="https://github.com/user-attachments/assets/d740e31d-268b-4433-b984-f5dcf39266ac" />
+<img width="1434" height="825" alt="image" src="https://github.com/user-attachments/assets/e763ee53-1638-4e2b-bfb4-f361a2bd9d95" />
+<img width="1441" height="800" alt="image" src="https://github.com/user-attachments/assets/1bc68370-eb01-4d1b-bd8e-561f45d6076a" />
+<img width="1433" height="818" alt="image" src="https://github.com/user-attachments/assets/b608d61a-42a5-4b20-b141-4bce13cd9d34" />
+<img width="1434" height="823" alt="image" src="https://github.com/user-attachments/assets/8d400e57-e057-4237-9ceb-a714629b44f5" />
 
+* Atmost -> Possibility -> 4 IIM calls -> 0,1,2,3,4 -> Max of '4'. [FORMULA]
+* Atleast -> Surity -> 2 IIM calls -> '2' or more.  [FORMULA]
 
+<img width="1430" height="811" alt="image" src="https://github.com/user-attachments/assets/1dc6ef20-4741-4a46-9451-9de68c3d918f" />
 
+* We will not have surity on the total as well.
 
+<img width="1437" height="816" alt="image" src="https://github.com/user-attachments/assets/8196b887-bb63-4868-b4e9-6b7031be48ef" />
 
+* We will not have surity on the total as well.
 
+<img width="1431" height="833" alt="image" src="https://github.com/user-attachments/assets/326e1cfd-5887-47e0-ab50-139d17c0b4f7" />
+<img width="1431" height="823" alt="image" src="https://github.com/user-attachments/assets/ebb1104c-8969-45ad-bc5d-7552e00be5a5" />
+
+* We will not have surity on the total as well.
+
+<img width="1440" height="828" alt="image" src="https://github.com/user-attachments/assets/2777393b-3605-4a08-8e50-5abc4ff89de6" />
+<img width="1437" height="830" alt="image" src="https://github.com/user-attachments/assets/eb520391-12ed-42d0-a95c-65201849f393" />
+
+* We will not have surity on the total as well.
+
+<img width="1437" height="824" alt="image" src="https://github.com/user-attachments/assets/71a7ce4d-26f2-4894-892b-91c067ed1ad0" />
+<img width="1437" height="816" alt="image" src="https://github.com/user-attachments/assets/bc65978f-c957-4858-b3ad-42676b97abc5" />
+
+* [VERY IMPORTATN]
+
+<img width="1442" height="800" alt="image" src="https://github.com/user-attachments/assets/05adab3d-5c98-4161-a7e7-962442fbb863" />
+<img width="1439" height="821" alt="image" src="https://github.com/user-attachments/assets/eb5721a6-937c-4239-ba08-782254c9cfcd" />
+
+* Total Degree -> 360 degree. [FORMULA]
+
+<img width="1415" height="813" alt="image" src="https://github.com/user-attachments/assets/412dd6d0-6cbd-43cb-82af-dec87c24b870" />
+
+* To convert percentages into degrees -> Multiply with 360.
+
+<img width="1422" height="797" alt="image" src="https://github.com/user-attachments/assets/f27ca4ef-7c57-4248-a64e-fbd98b056f67" />
+
+* To convert degrees into percentages -> Multiply with 100.
+
+<img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/13bf1d27-412c-4e80-a38d-3909cd85fa04" />
+<img width="1426" height="825" alt="image" src="https://github.com/user-attachments/assets/2e4af5e0-26c1-426d-b724-607b811400c9" />
+
+* One way. [FORMULA]
+
+<img width="1439" height="798" alt="image" src="https://github.com/user-attachments/assets/145dfb9d-3fa9-4bdf-97c9-41e8028b193d" />
+<img width="1431" height="813" alt="image" src="https://github.com/user-attachments/assets/43b4b2a4-a692-494f-a387-d64d403d878c" />
+
+* 2nd way. [FORMULA]
+* This is easier and faster. 
+
+<img width="1438" height="809" alt="image" src="https://github.com/user-attachments/assets/45b42f03-2e8a-4319-9173-494250181207" />
+
+* 1cr -> 10^7. [FORMULA]
+* As options are very far from each other, so we can do approximations in the calculations. [FORMULA]
+
+<img width="1438" height="807" alt="image" src="https://github.com/user-attachments/assets/e6508220-97b9-4bc0-b39b-e85517a52214" />
+<img width="1415" height="805" alt="image" src="https://github.com/user-attachments/assets/5e54c99e-e814-4565-97d8-b4dfbfe88733" />
+
+* [VERY IMPORTANT]
+
+### DI (5) [40]
 
 
 
