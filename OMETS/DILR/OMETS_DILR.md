@@ -3739,8 +3739,69 @@
 * [FORMULA] [VERY IMPORTANT]
 
 <img width="1437" height="813" alt="image" src="https://github.com/user-attachments/assets/6f9414b6-642d-4943-90bb-3f44003a8403" />
+<img width="1435" height="809" alt="image" src="https://github.com/user-attachments/assets/991095fd-e484-47ed-8ee1-fbaafc1dc5c0" />
 
 * [FORMULA] [VERY IMPORTANT]
+
+<img width="1440" height="803" alt="image" src="https://github.com/user-attachments/assets/790f0eb0-8c3c-44f8-928d-6842b389ee5f" />
+<img width="1420" height="808" alt="image" src="https://github.com/user-attachments/assets/e8eeabc3-5679-44af-9d4c-084a01bf989d" />
+<img width="1431" height="822" alt="image" src="https://github.com/user-attachments/assets/7a40255e-c3c3-439c-942d-5046096e4173" />
+<img width="1423" height="809" alt="image" src="https://github.com/user-attachments/assets/9a28d34e-15a7-44c9-bf66-77cabccaa105" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1441" height="836" alt="image" src="https://github.com/user-attachments/assets/5cdb6755-0bc1-4c7c-a994-87f5193408a7" />
+
+* More than 10% increase.
+
+<img width="1436" height="839" alt="image" src="https://github.com/user-attachments/assets/55a72aea-2873-4237-8152-4ec49efd9c17" />
+
+* Yes.
+
+<img width="1432" height="796" alt="image" src="https://github.com/user-attachments/assets/7caf5890-dcef-4626-99e4-7e09df76ab02" />
+<img width="1398" height="792" alt="image" src="https://github.com/user-attachments/assets/9028e8e2-3587-45e8-88e8-416849ab17c0" />
+<img width="1429" height="811" alt="image" src="https://github.com/user-attachments/assets/17f3664f-f50a-459d-8f97-4c926cf5b84e" />
+<img width="1433" height="813" alt="image" src="https://github.com/user-attachments/assets/b404bce1-01d7-455d-b7dc-5c5478931be0" />
+<img width="1436" height="833" alt="image" src="https://github.com/user-attachments/assets/eef6c1d7-1c17-4b9e-87de-f642fe653f9b" />
+<img width="1442" height="850" alt="image" src="https://github.com/user-attachments/assets/48b284b8-e2c7-48eb-b400-5bddbd5ce34b" />
+<img width="1117" height="519" alt="image" src="https://github.com/user-attachments/assets/8f55b183-9be2-49db-9fa9-2b935ce32657" />
+
+* No risk.
+
+<img width="1904" height="928" alt="image" src="https://github.com/user-attachments/assets/ca6fa9a3-359d-4935-a3f4-92c2dd0be66c" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1410" height="794" alt="image" src="https://github.com/user-attachments/assets/b85d512f-4add-4155-9a8d-a0b37353c838" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/f6e263b9-72ef-4d92-8c7c-899bf51091e0" />
+<img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/468a7bd4-b4ed-4bcc-8016-d57fe53c6208" />
+<img width="1431" height="809" alt="image" src="https://github.com/user-attachments/assets/59346769-60d7-46ba-a76c-36c370bef643" />
+<img width="1396" height="507" alt="image" src="https://github.com/user-attachments/assets/4a576a84-e678-4bbd-af19-bcfa1c02bade" />
+
+* 2. [Questions]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
