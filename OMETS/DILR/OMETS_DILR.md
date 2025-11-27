@@ -3696,6 +3696,69 @@
 
 <img width="1431" height="816" alt="image" src="https://github.com/user-attachments/assets/9a83e5e8-8ae0-4695-aa5f-4ed7e1bdf72c" />
 <img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/d3aa42de-3f09-48a0-84bf-0c4b234fc7f7" />
+<img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/20716a79-b436-44de-86ad-971311823e0d" />
+
+* [EXAMPLE]
+
+<img width="1420" height="791" alt="image" src="https://github.com/user-attachments/assets/53809c36-2526-4a8c-b906-8134138c19f1" />
+<img width="1418" height="803" alt="image" src="https://github.com/user-attachments/assets/4fa2f77b-cc59-49fa-b1d5-3ade2ed2ef41" />
+<img width="1398" height="787" alt="image" src="https://github.com/user-attachments/assets/21e3f1a1-d077-4b19-a58a-3c5d33ba6020" />
+<img width="1432" height="823" alt="image" src="https://github.com/user-attachments/assets/1df9026b-04ee-4332-a8a0-22e6a4d0a4e7" />
+
+* Not asking for values, just asking for the **name**, so do **approximations** of the calculations. [FORMULA] [VERY IMPORTANT]
+
+<img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/99c22384-f6db-41fd-a10b-7850981ad5f9" />
+<img width="1439" height="807" alt="image" src="https://github.com/user-attachments/assets/abc983e3-18ee-489a-a9c6-c263db62d9f2" />
+<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/b5872b5b-a04d-42c8-bc39-625b60f48826" />
+<img width="1439" height="809" alt="image" src="https://github.com/user-attachments/assets/94059012-5655-4f22-894d-0bb8f0a7800e" />
+
+* Try to use percentages and find the value like above, it is faster to do. [FORMULA] [VERY IMPORTANT]
+
+<img width="1433" height="827" alt="image" src="https://github.com/user-attachments/assets/363cd54d-40b8-466b-a828-63f5d2590eb6" />
+<img width="1434" height="818" alt="image" src="https://github.com/user-attachments/assets/81f4e409-dbe5-49ac-ad09-1c18223e36a6" />
+
+* The company who has the highest increase doesn't necessarily has the highest % increase as well. We have to calculate and check that. We cannot blindly say. [FORMULA] [VERY IMPORTANT]
+
+<img width="1438" height="847" alt="image" src="https://github.com/user-attachments/assets/3fcae242-5f42-478c-9981-918b7425ddab" />
+<img width="1439" height="810" alt="image" src="https://github.com/user-attachments/assets/f33ca631-ee78-4231-8626-a8b2c2735b77" />
+<img width="1436" height="828" alt="image" src="https://github.com/user-attachments/assets/6c160753-7ab9-4fbf-863e-fffac788a600" />
+<img width="1436" height="822" alt="image" src="https://github.com/user-attachments/assets/14f1e260-2b66-4e21-ae3f-0dd0bc52a8ec" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1414" height="802" alt="image" src="https://github.com/user-attachments/assets/cd75a8dd-dd24-43bb-bdb6-a6a749ee6fd9" />
+
+* To be continued in next class.
+
+### DI (2) [37]
+
+<img width="1425" height="800" alt="image" src="https://github.com/user-attachments/assets/fac47f32-aafa-4131-88c7-3cf810cf5385" />
+<img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/79b9ef32-57d1-4eb9-96cb-961fc48b51a9" />
+<img width="1426" height="807" alt="image" src="https://github.com/user-attachments/assets/e5fe46c6-a5ed-47df-88a1-9c93a3aa9336" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+<img width="1437" height="813" alt="image" src="https://github.com/user-attachments/assets/6f9414b6-642d-4943-90bb-3f44003a8403" />
+
+* [FORMULA] [VERY IMPORTANT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
