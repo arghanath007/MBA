@@ -4015,13 +4015,67 @@
 ### DI (5) [40]
 
 <img width="1429" height="801" alt="image" src="https://github.com/user-attachments/assets/5e317617-f53c-4033-9f41-0d8541cd780a" />
+<img width="1427" height="799" alt="image" src="https://github.com/user-attachments/assets/3f8e1f76-9e84-43ff-9198-2c355fcea280" />
+<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/af430e73-a96f-4f40-810a-15b3a0689080" />
+<img width="1435" height="829" alt="image" src="https://github.com/user-attachments/assets/10c83eba-4515-421c-ba88-d6202908ed39" />
 
+* [VERY IMPORTANT]
 
+<img width="1436" height="812" alt="image" src="https://github.com/user-attachments/assets/db9e48e3-f88f-4dc8-b17a-d77020ebe9fa" />
+<img width="1413" height="793" alt="image" src="https://github.com/user-attachments/assets/86a750e4-6179-4c8e-a5f9-b55d0616e12a" />
 
+* Examples.
 
+<img width="1437" height="824" alt="image" src="https://github.com/user-attachments/assets/4c68f54c-79d1-4197-97e0-4ebbcda9167d" />
 
+* 108k+12k->120K.
+* 360K+12k->372k.
 
+<img width="1438" height="822" alt="image" src="https://github.com/user-attachments/assets/2d609f3d-bdfb-4338-988d-827178f6e75e" />
+<img width="1420" height="799" alt="image" src="https://github.com/user-attachments/assets/903c4596-22c3-4ac2-b4f2-6715a5c09eb1" />
+<img width="1427" height="832" alt="image" src="https://github.com/user-attachments/assets/32a1709f-14ef-436f-a560-042148524a38" />
+<img width="1433" height="820" alt="image" src="https://github.com/user-attachments/assets/5c5d55fd-da07-4382-a63e-83720b49d07a" />
 
+* [VERY IMPORTANT]
+
+<img width="1418" height="796" alt="image" src="https://github.com/user-attachments/assets/d1dff04c-023f-4f1d-a40c-1765d266d174" />
+<img width="1416" height="788" alt="image" src="https://github.com/user-attachments/assets/c8b48f05-e790-48f0-9452-11f9aeb04135" />
+<img width="1423" height="808" alt="image" src="https://github.com/user-attachments/assets/bcf67feb-cf4c-47b6-9603-cac80da74de0" />
+<img width="1439" height="921" alt="image" src="https://github.com/user-attachments/assets/8d5a1ab9-4d4a-466c-8c2e-0801898127a3" />
+<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/2e5ec37c-57c9-4395-b922-381985a56367" />
+<img width="1437" height="820" alt="image" src="https://github.com/user-attachments/assets/f82acb7a-caa7-4bb7-90bd-5754237c4099" />
+<img width="1434" height="810" alt="image" src="https://github.com/user-attachments/assets/f9740900-ecef-4fe2-addd-b68395c5d859" />
+
+* Time taking process.
+
+<img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/3a29bb50-8acb-4582-8f7d-1ddf84ef5fb8" />
+<img width="1435" height="809" alt="image" src="https://github.com/user-attachments/assets/a086a7e8-e3d2-46f2-b934-c13886a7e67f" />
+<img width="1436" height="839" alt="image" src="https://github.com/user-attachments/assets/765a4c68-d10d-4041-a9e3-60789c8d3190" />
+
+* This is much faster. [FORMULA]
+
+<img width="1431" height="838" alt="image" src="https://github.com/user-attachments/assets/122ec4b7-7ea1-452a-ac85-455b5c49708b" />
+<img width="1427" height="806" alt="image" src="https://github.com/user-attachments/assets/b8c45b10-537a-441c-ac8e-b15435d7a853" />
+<img width="1425" height="792" alt="image" src="https://github.com/user-attachments/assets/274a319e-e409-415f-85dc-bafc4689e19c" />
+
+* This is much faster. [FORMULA]
+
+<img width="1396" height="792" alt="image" src="https://github.com/user-attachments/assets/5ec6a805-c6fd-4654-9e15-bdd74abf1ba2" />
+<img width="1435" height="814" alt="image" src="https://github.com/user-attachments/assets/4f43f4c5-2c14-4074-aee3-8606cd2e83ca" />
+
+* 'a' is common in every calculation, so no need of 'a' value -> No role of 'a' here.
+
+<img width="1439" height="824" alt="image" src="https://github.com/user-attachments/assets/f592cb0c-58e9-4fea-9cc6-4be0143d5cb5" />
+<img width="1437" height="821" alt="image" src="https://github.com/user-attachments/assets/3a98a041-b4bb-45cb-8cb7-66f7337a4321" />
+<img width="1438" height="819" alt="image" src="https://github.com/user-attachments/assets/9999789d-9c03-4a92-94f7-1ae5f360d802" />
+<img width="1433" height="807" alt="image" src="https://github.com/user-attachments/assets/f508218f-17c4-4483-9e68-e1a8ae5a7370" />
+
+* [VERY IMPORTANT]
+
+<img width="1430" height="796" alt="image" src="https://github.com/user-attachments/assets/af170257-cc78-40f5-a611-74db13742fd2" />
+<img width="1438" height="814" alt="image" src="https://github.com/user-attachments/assets/4dd20cbf-b710-4335-acfd-34ff08187fc4" />
+
+### DI (6) [41]
 
 
 
