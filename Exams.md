@@ -3,6 +3,7 @@
 ## Exams
 
 <img width="512" height="733" alt="image" src="https://github.com/user-attachments/assets/c38e1a68-e074-4997-b7dc-26540043603a" />
+<img width="593" height="240" alt="image" src="https://github.com/user-attachments/assets/9bddb00a-d61d-47ba-a94f-376931fcff20" />
 
 ## CAT
 
