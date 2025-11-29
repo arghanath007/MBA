@@ -4322,12 +4322,28 @@
 
 ### Puzzles (1) [43]
 
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/085b75df-f544-46a2-8d1b-628ee1884bfc" />
+<img width="1434" height="822" alt="image" src="https://github.com/user-attachments/assets/d8f02348-f8f5-4c98-9609-3219b856a7cd" />
+<img width="1424" height="807" alt="image" src="https://github.com/user-attachments/assets/58d354c4-fb7b-4762-acaa-89cc4670b218" />
+<img width="1419" height="800" alt="image" src="https://github.com/user-attachments/assets/b9d86bf8-5e21-40d9-a967-edbc90491307" />
+<img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/dd4608e6-dc2d-4c15-9947-bea148bbd33c" />
+<img width="1435" height="915" alt="image" src="https://github.com/user-attachments/assets/2866563b-9998-47f2-997e-dd6c8e9b69cf" />
+<img width="1434" height="810" alt="image" src="https://github.com/user-attachments/assets/d26a6826-6b08-4986-a094-dcc3791ecf28" />
+<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/ea08ea35-65c3-4f64-963f-ae371b2c1936" />
+<img width="1448" height="847" alt="image" src="https://github.com/user-attachments/assets/0cd93c0e-3583-411c-b259-8a7a4258e0af" />
+<img width="1434" height="807" alt="image" src="https://github.com/user-attachments/assets/b58241bd-1737-4e98-9e2b-d4718e110586" />
+<img width="1419" height="808" alt="image" src="https://github.com/user-attachments/assets/aea25e74-0748-4481-bcdf-4e1afe11dbb2" />
+<img width="1415" height="810" alt="image" src="https://github.com/user-attachments/assets/7aa8bdcc-7c51-4491-843a-111ccd05dfb2" />
 
+* J & K can be 'J or P' as there are '2' blanks left there. 'R' has one blank left.
 
+<img width="1408" height="808" alt="image" src="https://github.com/user-attachments/assets/d901834b-3598-42e4-87e6-8e6546d8d3a6" />
 
+* Cannot be False -> Always True.
+* A, B, D -> Can be True.
+* C -> Always True.
 
-
-
+<img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/25f5d753-0852-48cc-9d13-9dee81643125" />
 
 
 
@@ -4442,6 +4458,7 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
 
 
