@@ -1,4 +1,4 @@
-# LRDI
+<img width="1434" height="826" alt="image" src="https://github.com/user-attachments/assets/65bccdd9-7fd5-422a-93d1-7da9047fb56c" /># LRDI
 
 ## IMPORTANT INFO
 
@@ -4077,87 +4077,248 @@
 
 ### DI (6) [41]
 
+<img width="1421" height="792" alt="image" src="https://github.com/user-attachments/assets/4a9fa413-b645-40e6-9b40-97f17bbbfe6e" />
+<img width="1430" height="830" alt="image" src="https://github.com/user-attachments/assets/724b456e-e0d6-41ae-9da0-b4ce25e60e45" />
+<img width="1431" height="844" alt="image" src="https://github.com/user-attachments/assets/9921e50e-53df-4461-90b5-6e294c1e6ea4" />
+<img width="381" height="78" alt="image" src="https://github.com/user-attachments/assets/88ca61ac-7781-4cc0-81b5-9c59d5eebc17" />
 
+* Yes.
 
+<img width="1427" height="832" alt="image" src="https://github.com/user-attachments/assets/e5f18733-fb22-4222-8a36-8aa57d2312ad" />
+<img width="1443" height="852" alt="image" src="https://github.com/user-attachments/assets/8804b14b-3797-47e7-b3fa-f3674eedde45" />
+<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/163f404a-9a65-49d8-a95d-c3b0391d055d" />
+<img width="415" height="107" alt="image" src="https://github.com/user-attachments/assets/270bc24c-1166-4a3e-ba36-e011cd4121d8" />
 
+* Yes.
 
+<img width="1427" height="807" alt="image" src="https://github.com/user-attachments/assets/a483e24d-11df-4acf-91dc-6b3c68468820" />
+<img width="1425" height="819" alt="image" src="https://github.com/user-attachments/assets/e83a4700-02b3-4969-8a43-738da77f9c61" />
+<img width="1424" height="815" alt="image" src="https://github.com/user-attachments/assets/d7df5091-791c-4342-9a2a-38566b14d110" />
+<img width="1434" height="819" alt="image" src="https://github.com/user-attachments/assets/3c88f900-e3f5-4dea-b89f-421c7165d8ad" />
 
+* [VERY IMPORTANT]
 
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/ddcfbca6-26dc-4f8e-b75e-a85023ffc54a" />
+<img width="1438" height="799" alt="image" src="https://github.com/user-attachments/assets/bab05239-f2a2-4f6b-9d03-3424dddf0532" />
 
+* We cannot comment individually. 
 
+<img width="1436" height="819" alt="image" src="https://github.com/user-attachments/assets/e3ddb41d-3cf5-457d-99b3-929cadc18578" />
 
+* [EXAMPLE] [FORMULA]
 
+<img width="1432" height="790" alt="image" src="https://github.com/user-attachments/assets/c25a58dd-4bc0-41d6-a70f-0574b2dd7120" />
+<img width="1417" height="825" alt="image" src="https://github.com/user-attachments/assets/24de0df6-1f8f-405a-ac9d-533dc3582268" />
+<img width="1439" height="797" alt="image" src="https://github.com/user-attachments/assets/4cf98326-d394-45b9-9a23-f0c951f3a269" />
+<img width="1432" height="825" alt="image" src="https://github.com/user-attachments/assets/0339ac5b-a2ed-4563-b737-de879fdeb919" />
 
+* [VERY IMPORTANT]
 
+<img width="1435" height="908" alt="image" src="https://github.com/user-attachments/assets/3fc68749-027b-452e-85a3-8290dcdb90e9" />
+<img width="1428" height="812" alt="image" src="https://github.com/user-attachments/assets/7015b47c-cf77-4eaa-bfd3-9eab6f1185a3" />
+<img width="1423" height="801" alt="image" src="https://github.com/user-attachments/assets/4b6d348d-f3c2-4abd-b29a-334613357301" />
 
+* Percentage -> Unitless.
 
+<img width="1427" height="810" alt="image" src="https://github.com/user-attachments/assets/03188ec6-3a08-45b1-9756-41d382a4b966" />
 
+* 12500 to 17500 ->40% increase.
+* Let 100x -> 2014.
+* 40% increase of 100x -> 140x.
+* Let 140x -> 2015.
 
+<img width="1411" height="812" alt="image" src="https://github.com/user-attachments/assets/f1d24aee-06b9-41d8-8063-94a5f2fc68b4" />
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/16f5dad6-6411-4497-83c5-a9ebcc30e0dd" />
 
+* E -> 14%->14x.
 
+<img width="1438" height="841" alt="image" src="https://github.com/user-attachments/assets/73734f85-e85f-44bf-843c-78dab5eea02f" />
 
+* 2016 -> E -> 12%=16.8x.
+* 2016 -> 140x.
 
+<img width="1445" height="838" alt="image" src="https://github.com/user-attachments/assets/ad4b50c3-50ba-4f35-a398-bc73e0246626" />
+<img width="440" height="141" alt="image" src="https://github.com/user-attachments/assets/57e3de67-8991-45a9-9df3-57361f97d6e2" />
 
+* Yes.
 
+<img width="1431" height="804" alt="image" src="https://github.com/user-attachments/assets/dad64073-c715-47fb-85ef-0ae87cb161d7" />
 
+* [VERY IMPORTANT]
 
+<img width="266" height="210" alt="image" src="https://github.com/user-attachments/assets/fd450c56-4b5c-45c1-9f49-c1bc8620f0e7" />
+<img width="1416" height="810" alt="image" src="https://github.com/user-attachments/assets/d5ee0729-0dca-4850-9d3c-8019e92be193" />
 
+* 0% increase.
 
+<img width="1433" height="923" alt="image" src="https://github.com/user-attachments/assets/a9e90335-fbbd-45c5-ad27-a876267089d7" />
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/c40d3b4a-4ca9-44ea-ae49-207b5d80f8aa" />
+<img width="224" height="68" alt="image" src="https://github.com/user-attachments/assets/038f7567-8521-4025-bdb9-7d6b89b455c4" />
 
+* Yes, we do not use the previous question's data in the next question.
 
+<img width="1432" height="834" alt="image" src="https://github.com/user-attachments/assets/f810d9bd-05a2-4535-8439-645b8e2e3b6a" />
+<img width="1428" height="804" alt="image" src="https://github.com/user-attachments/assets/a0209147-e70d-4e1d-b3bf-e3c3f5d0a2a5" />
+<img width="1433" height="807" alt="image" src="https://github.com/user-attachments/assets/e43fe9a2-2305-4443-88b6-0d5587330f8c" />
+<img width="1433" height="820" alt="image" src="https://github.com/user-attachments/assets/abbe1eed-e8e4-40da-b8c9-108832831c73" />
 
+* 100x to 120x -> 20% increase.
+* 15% to 18% -> 3/15*100 -> 20% increase.
 
+<img width="1436" height="817" alt="image" src="https://github.com/user-attachments/assets/ac39e977-937a-4beb-a19a-34a985e9933f" />
 
+* [VERY IMPORTANT]
 
+<img width="1429" height="806" alt="image" src="https://github.com/user-attachments/assets/5c63415d-123a-49e6-ad79-cd72ab5fd2ca" />
+<img width="1413" height="793" alt="image" src="https://github.com/user-attachments/assets/e07c007e-31e0-4775-82b7-991d3325ced6" />
 
+* Line Graph. [1]
 
+<img width="1437" height="799" alt="image" src="https://github.com/user-attachments/assets/b36bbdd1-e4fc-4776-a0bd-bdb2170f04f1" />
 
+* Income -> Expenditure + Profit. [FORMULA]
 
+<img width="1427" height="798" alt="image" src="https://github.com/user-attachments/assets/2e003ebe-b135-40ab-b60a-ae4f459c4c33" />
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/3a22fb2c-84b2-4cd5-baa7-c145dba6e4cc" />
+<img width="1436" height="810" alt="image" src="https://github.com/user-attachments/assets/31df493b-94c4-49bb-87f6-060954f324f9" />
+<img width="1428" height="831" alt="image" src="https://github.com/user-attachments/assets/62a25f77-0966-43f1-9e69-1349309f4aab" />
 
+* [VERY IMPORTANT]
 
+<img width="1437" height="831" alt="image" src="https://github.com/user-attachments/assets/8e18e18c-82af-4615-b117-e3a4d6d3bec2" />
 
+* 15% of 100k-> 15k.
+* I = E + P ->100+15->115k.
 
+<img width="1433" height="817" alt="image" src="https://github.com/user-attachments/assets/f46a53b5-f14e-4d45-8c6f-a6f62f890410" />
+<img width="1426" height="816" alt="image" src="https://github.com/user-attachments/assets/4b212161-eaff-4d6a-b587-2a5499d60a0e" />
+<img width="1429" height="806" alt="image" src="https://github.com/user-attachments/assets/80e99817-364e-4aaf-9973-ed7f08376382" />
+<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/add342c9-7d83-4155-85b4-4c6531516035" />
+<img width="1439" height="819" alt="image" src="https://github.com/user-attachments/assets/5e6d2b3c-e9de-4519-bc58-fd480cf22ec8" />
+<img width="1438" height="816" alt="image" src="https://github.com/user-attachments/assets/ec768d6a-6e08-4391-9958-4b08fd3dc283" />
 
+* Numerator & Denominator are same -> 100%. [FORMULA]
+* Numerator is greater than Denominator -> More than 100%. [FORMULA]
 
+<img width="1441" height="814" alt="image" src="https://github.com/user-attachments/assets/cede5ccc-da01-4799-903f-ac67d1d56063" />
+<img width="1436" height="809" alt="image" src="https://github.com/user-attachments/assets/b52f36c2-ec3d-4e77-9691-617138a26228" />
 
+* To be continued next class.
 
+### DI (7) [42]
 
+<img width="1419" height="802" alt="image" src="https://github.com/user-attachments/assets/023ffb5c-84ac-4b8f-a487-9a3ecf34c6b5" />
+<img width="1409" height="797" alt="image" src="https://github.com/user-attachments/assets/832721bd-b561-4b0f-8736-305b9f89bafc" />
+<img width="1426" height="797" alt="image" src="https://github.com/user-attachments/assets/eae463d3-dafc-4825-b62c-90fa349f44cc" />
+<img width="1438" height="826" alt="image" src="https://github.com/user-attachments/assets/5f34e5f5-d2fe-41e3-af14-bb3cddc04843" />
 
+* 50% of 113 -> 56.5
 
+<img width="1413" height="824" alt="image" src="https://github.com/user-attachments/assets/41676999-2773-49ae-b705-8e3f2256ca82" />
+<img width="1423" height="833" alt="image" src="https://github.com/user-attachments/assets/86c93d01-2989-4612-a180-e94c001827cf" />
 
+* 50% of 25->12.5
+* 10% of 25->2.5
+* 60% of 25->15
+* 70% of 25->17.5
+* 17->Just less than 70% ->68%.
 
+<img width="1431" height="816" alt="image" src="https://github.com/user-attachments/assets/c20cb0ed-ed4a-4e15-9504-858a27b702c0" />
+<img width="1399" height="787" alt="image" src="https://github.com/user-attachments/assets/6b2a2031-c303-4c6d-8ac4-39bfae72db20" />
 
+* [VERY IMPORTANT]
 
+<img width="1406" height="792" alt="image" src="https://github.com/user-attachments/assets/6bb6c6f8-00c4-4074-900f-0551452a59aa" />
+<img width="1440" height="815" alt="image" src="https://github.com/user-attachments/assets/f45e6754-80a5-424a-af71-e8eea37bbcf7" />
+<img width="1433" height="799" alt="image" src="https://github.com/user-attachments/assets/6c681d8e-558a-4383-bbf8-72329246ee24" />
+<img width="1425" height="790" alt="image" src="https://github.com/user-attachments/assets/ca778e2f-e2be-4c97-af8d-4a25d4dfb17e" />
+<img width="1408" height="795" alt="image" src="https://github.com/user-attachments/assets/37950dea-c833-4fce-ace9-14fa90195213" />
+<img width="1434" height="827" alt="image" src="https://github.com/user-attachments/assets/a135bc2d-a2f7-4b5c-a7ce-7f0d2590c6c7" />
 
+* Numerators are same. Denominator is larger. 
 
+<img width="1433" height="810" alt="image" src="https://github.com/user-attachments/assets/6a32e990-70a4-478e-ad1d-65643d830aa2" />
+<img width="1434" height="826" alt="image" src="https://github.com/user-attachments/assets/f90e4607-4c5d-4e35-b044-a4f751896e1b" />
+<img width="1433" height="815" alt="image" src="https://github.com/user-attachments/assets/e5276289-83a7-4be5-9b35-10e997045fd7" />
 
+* profitability = Net Profit(NP)/Sales. [FORMULA]
 
+<img width="1405" height="787" alt="image" src="https://github.com/user-attachments/assets/2c6eee9a-96b5-4bfc-bc07-87913119440e" />
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/3b372611-e39a-4522-a579-a3072aee5104" />
 
+* Expense -> Sales - Profit. [FORMULA]
 
+<img width="1417" height="807" alt="image" src="https://github.com/user-attachments/assets/af60fb1b-dc34-473b-bdaa-5780b947d470" />
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/ee473b9e-5158-42e2-93dd-c76939def4f5" />
+<img width="1438" height="801" alt="image" src="https://github.com/user-attachments/assets/eeac79dd-f019-4d61-ba7c-a07248bfd44c" />
+<img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/84aefe33-a860-4bbf-a65c-f0125741f054" />
 
+* Sales -> Expense + Profit. [FORMULA]
 
+<img width="1418" height="807" alt="image" src="https://github.com/user-attachments/assets/ec390490-5512-4ac1-8f28-867a7de2f43d" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/f26b93ec-7559-4d18-bd56-462145d3e8db" />
+<img width="1424" height="807" alt="image" src="https://github.com/user-attachments/assets/c499bca4-dc9b-4ff2-a97a-67a5312f7f5c" />
+<img width="1409" height="804" alt="image" src="https://github.com/user-attachments/assets/9647e06a-fc7c-4c1d-9675-5a85e677f4d4" />
 
+* Ans -> Close to 18%.
 
+<img width="1600" height="1077" alt="image" src="https://github.com/user-attachments/assets/53539539-2b78-40c4-b9d4-bc91409a6296" />
 
+* Answer.
 
+<img width="1415" height="794" alt="image" src="https://github.com/user-attachments/assets/e54ba7cc-9e6d-4ff2-831a-0d897472814d" />
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/73ea117b-da69-4a4b-b611-d9c8caae0c93" />
+<img width="1390" height="430" alt="image" src="https://github.com/user-attachments/assets/e75afba0-6115-4f3a-87ab-4a374b1e838f" />
 
+* 2.
 
+<img width="1426" height="795" alt="image" src="https://github.com/user-attachments/assets/abd39ee1-841a-4e4d-bc96-61163d1dd08b" />
+<img width="1427" height="811" alt="image" src="https://github.com/user-attachments/assets/8c87041f-a6df-47b5-bc5c-db77848f7358" />
+<img width="1436" height="821" alt="image" src="https://github.com/user-attachments/assets/3393fa5c-5ed4-4b35-a40e-b559ee3ff192" />
 
+* [FORMULA]
 
+<img width="1421" height="809" alt="image" src="https://github.com/user-attachments/assets/65f7b7d2-a320-4113-9913-8fc18ac42d7c" />
+<img width="1414" height="804" alt="image" src="https://github.com/user-attachments/assets/d467171b-5f93-46d5-855d-b735d26d055f" />
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/1a71df2f-1e41-452a-830e-08d40a3d350f" />
 
+* All '38' students came from passing 9th class.
 
+<img width="1413" height="809" alt="image" src="https://github.com/user-attachments/assets/36631f4f-c28c-458b-bd62-b754fdb3d718" />
 
+* 43-7->36.
 
+<img width="1431" height="808" alt="image" src="https://github.com/user-attachments/assets/683e14c5-c80e-412f-b711-93f9e8af7b39" />
+<img width="1409" height="797" alt="image" src="https://github.com/user-attachments/assets/e235d342-d601-4d27-b27a-d78d7703c383" />
+<img width="1421" height="808" alt="image" src="https://github.com/user-attachments/assets/0d99415d-b0c4-434b-8b05-1b2e033f3902" />
+<img width="1429" height="818" alt="image" src="https://github.com/user-attachments/assets/e60b4c6b-adfd-4086-b9d6-8082868b3373" />
+<img width="1427" height="817" alt="image" src="https://github.com/user-attachments/assets/ca22c390-bec6-448e-832d-af3176ba64ac" />
 
+* New admission in class '6'->40-4->36.
 
+<img width="1411" height="806" alt="image" src="https://github.com/user-attachments/assets/ec61080b-40fe-4bad-8f20-6c5f291dbd3d" />
 
+* Q14 -> Lowest no. of fails. 
 
+<img width="197" height="80" alt="image" src="https://github.com/user-attachments/assets/2a5a7a1e-5382-45bb-b4ca-214ba977d6dc" />
 
+* Yes.
 
+<img width="1420" height="820" alt="image" src="https://github.com/user-attachments/assets/0ce05e06-3d29-41b1-abc2-7b1303ea9ad0" />
+<img width="1406" height="817" alt="image" src="https://github.com/user-attachments/assets/77e8047d-74f1-4609-bbb8-a243b6cdf97e" />
+<img width="1403" height="793" alt="image" src="https://github.com/user-attachments/assets/cd2bdfbc-ffa1-4332-96b1-7e7c684e662e" />
+<img width="1409" height="801" alt="image" src="https://github.com/user-attachments/assets/7a41ab6b-1d91-46b1-8155-04d5b91e9e83" />
+<img width="1415" height="804" alt="image" src="https://github.com/user-attachments/assets/f85d29d4-a675-497c-9dde-b224bae9b449" />
+<img width="1412" height="800" alt="image" src="https://github.com/user-attachments/assets/d71d8da2-d495-49d7-86fc-ea26f2f097f5" />
 
+* Students failed in class 10th -> 2. [Answer]
 
+<img width="1410" height="799" alt="image" src="https://github.com/user-attachments/assets/bcc99642-c444-41ff-8c84-91689875cdde" />
 
+* [VERY IMPORTANT]
 
+<img width="1415" height="806" alt="image" src="https://github.com/user-attachments/assets/ae4e6422-ad4a-460a-91a9-a76681f4fcd0" />
+<img width="1427" height="810" alt="image" src="https://github.com/user-attachments/assets/16a85190-9354-4ea6-942c-b7fc292ac427" />
 
 
 
@@ -4220,6 +4381,67 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## MISC
+
+<img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
+<img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
 
 
 
