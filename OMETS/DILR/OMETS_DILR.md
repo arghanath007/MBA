@@ -4344,12 +4344,51 @@
 * C -> Always True.
 
 <img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/25f5d753-0852-48cc-9d13-9dee81643125" />
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/b208a2dc-b2f8-4c5d-9097-3f9fe75ec0c0" />
+<img width="1433" height="819" alt="image" src="https://github.com/user-attachments/assets/0572c4d3-56d8-44f8-a2c0-c7ec49610656" />
 
+* Either-Or.
+* Rohan cannot be a scientist.
+* Rohan has '2' options -> Doctor or Lawyer.
 
+<img width="1419" height="804" alt="image" src="https://github.com/user-attachments/assets/07d085db-9b1a-4bd0-a7df-2ea2330a20ac" />
+<img width="1407" height="803" alt="image" src="https://github.com/user-attachments/assets/046c51ed-ac06-4c75-9393-38affb3911d1" />
+<img width="1436" height="914" alt="image" src="https://github.com/user-attachments/assets/6ff2e0d0-b184-4749-b589-e7f5eee6c21b" />
+<img width="1430" height="799" alt="image" src="https://github.com/user-attachments/assets/c0992055-3729-42e2-bf10-db9b563d1967" />
+<img width="1423" height="809" alt="image" src="https://github.com/user-attachments/assets/8bbab006-45e1-461f-94d2-97bbc440af42" />
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/b4c845d9-8ea0-4fc8-889a-6d026d4f1ff5" />
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/e1e7611a-fcc1-43c0-af6c-3e000faf845e" />
+<img width="1425" height="804" alt="image" src="https://github.com/user-attachments/assets/9e4aeb9e-f076-45bf-bc63-2b4603696542" />
+<img width="1435" height="824" alt="image" src="https://github.com/user-attachments/assets/b1bd4021-be1e-4201-80c9-11c7b158af7a" />
+<img width="1435" height="823" alt="image" src="https://github.com/user-attachments/assets/46fe595e-d43d-4f0b-8a46-16901320aa0f" />
+<img width="1429" height="819" alt="image" src="https://github.com/user-attachments/assets/8e2f5485-e889-4f99-b798-c1506a25140d" />
+<img width="279" height="87" alt="image" src="https://github.com/user-attachments/assets/f81dd1b2-989c-4af8-be3b-1ddc38b2d5fd" />
 
+* Yes.
 
+<img width="1439" height="832" alt="image" src="https://github.com/user-attachments/assets/e5005393-058f-4aa3-9850-b439d841bce4" />
+<img width="1438" height="804" alt="image" src="https://github.com/user-attachments/assets/65ee271e-9a7f-48f9-af6f-4d8383c77e38" />
 
+* D -> Country -> Mongolia.
+* D -> Country -> Bhutan -> It is not possible as we have already had 'Bhutan & French' in 'B'.
 
+<img width="1431" height="826" alt="image" src="https://github.com/user-attachments/assets/53f5b785-a038-4218-b97b-fbe2e9889ab4" />
+<img width="1436" height="818" alt="image" src="https://github.com/user-attachments/assets/f770a08c-785c-4969-aa92-4b9bb5b88b2c" />
+
+* F -> U -> Language -> Dutch -> Not possible as it is already there in 'Q'.
+* A -> U -> Language -> Dutch.
+
+<img width="1441" height="820" alt="image" src="https://github.com/user-attachments/assets/e5f48030-e42f-48c7-98b1-6e8c78ef37ee" />
+<img width="1432" height="809" alt="image" src="https://github.com/user-attachments/assets/34704eb0-bc90-4191-a990-9e63e7fa64a2" />
+<img width="1430" height="813" alt="image" src="https://github.com/user-attachments/assets/a77293f5-b275-415a-864c-aa9c94a61f34" />
+<img width="1432" height="814" alt="image" src="https://github.com/user-attachments/assets/dedf2166-0bf5-4278-915f-8c61ad2dab8a" />
+<img width="1422" height="809" alt="image" src="https://github.com/user-attachments/assets/dc26809f-8dcc-4db0-8fa4-bbb3c4c9994d" />
+
+* 'U & S' -> Same Country -> Bhutan.
+
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/6a7d8b32-25d0-4790-acfa-7db213bcf4ce" />
+
+* [VERY IMPORTANT]
 
 
 
@@ -4458,6 +4497,7 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
 
 
