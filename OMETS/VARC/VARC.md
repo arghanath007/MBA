@@ -6379,9 +6379,67 @@
 
 ### CR (2) [30]
 
+<img width="1439" height="911" alt="image" src="https://github.com/user-attachments/assets/31e66784-56ba-402d-b8e3-29be20a414d2" />
 
+* A -> Vague, this year -> Limited scope.
+* Nocturnal -> Night functioning creatures -> Bats, owls. [MEANING]
+* Dawn -> Morning(Sunrise). [MEANING]
+* Dusk -> Evening(Sunset). [MEANING]
 
+<img width="1408" height="800" alt="image" src="https://github.com/user-attachments/assets/0a5e658a-7949-493c-bc33-d239bbd7a4d5" />
+<img width="1394" height="793" alt="image" src="https://github.com/user-attachments/assets/1d27be2f-af0f-46be-a3ff-09b7d8215388" />
+<img width="1441" height="913" alt="image" src="https://github.com/user-attachments/assets/3a3e21a8-21f2-4005-b8fe-e7b74cd4a77c" />
+<img width="1406" height="792" alt="image" src="https://github.com/user-attachments/assets/66ca0a9a-24d0-4eea-9b4a-9cc638b714b3" />
+<img width="1410" height="799" alt="image" src="https://github.com/user-attachments/assets/c374ee42-5d2a-44d8-ae7a-0896f45e16f1" />
 
+* E -> Irrevalent.
+
+<img width="1434" height="920" alt="image" src="https://github.com/user-attachments/assets/e4886fd4-2273-4c7c-a0bd-1051cce127d6" />
+<img width="1415" height="802" alt="image" src="https://github.com/user-attachments/assets/e909afd6-f60d-4a92-8696-4f58d43117b4" />
+<img width="1413" height="801" alt="image" src="https://github.com/user-attachments/assets/67a47925-4456-464c-933e-abd03ce55adb" />
+<img width="1423" height="807" alt="image" src="https://github.com/user-attachments/assets/631272fe-5b7b-481e-b86d-8d8635366d9c" />
+<img width="1420" height="807" alt="image" src="https://github.com/user-attachments/assets/199dd39d-a379-4f49-a9c0-a1103d4c7624" />
+<img width="1427" height="809" alt="image" src="https://github.com/user-attachments/assets/fbbd7549-9123-4c2b-814f-d0498a543dc6" />
+
+* For elimination. [FORMULA]
+* Disproportionate -> Going from particular to generic or vice-versa. [FORMULA]
+* Comparative -> Comparisions. [FORMULA]
+* Simplistic -> Reduced it into simpler terms without remembering the complexitites. [FORMULA]
+
+<img width="1415" height="803" alt="image" src="https://github.com/user-attachments/assets/3187b1b6-a079-4e0a-a04c-9be832634ed8" />
+<img width="1438" height="910" alt="image" src="https://github.com/user-attachments/assets/2f91a855-9991-4824-bf68-b45db4d1dff5" />
+<img width="1398" height="791" alt="image" src="https://github.com/user-attachments/assets/673c90bd-ad54-4d76-b291-bbe7a810891e" />
+<img width="1440" height="914" alt="image" src="https://github.com/user-attachments/assets/fa300dc4-8541-44e3-b7da-429540da4ffb" />
+<img width="1431" height="802" alt="image" src="https://github.com/user-attachments/assets/2971d532-711b-4d04-bef4-6de817e6c981" />
+
+* Answer -> Option **E**.
+
+<img width="1424" height="809" alt="image" src="https://github.com/user-attachments/assets/9fb63fcd-4065-488f-aa85-d7dd9ac1e595" />
+<img width="1435" height="917" alt="image" src="https://github.com/user-attachments/assets/58ced526-6839-4061-8bd3-f268eed1ea95" />
+<img width="1416" height="810" alt="image" src="https://github.com/user-attachments/assets/d5c98d2d-f598-4c0c-b993-836aa331fde3" />
+
+* II -> Philosophical.
+
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/8824eb22-44fc-4ec3-aaab-3fa57d2c6d73" />
+<img width="1413" height="792" alt="image" src="https://github.com/user-attachments/assets/ef1e7246-1396-44f9-a667-b5c6e7d01560" />
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/920f83d8-ccb8-438f-b5c2-dfc4c52f85c6" />
+
+* II -> Idiom.
+
+<img width="1415" height="799" alt="image" src="https://github.com/user-attachments/assets/5e528ba8-38e9-4f49-a29c-064956f6829e" />
+
+#### Course of Action
+
+<img width="1408" height="802" alt="image" src="https://github.com/user-attachments/assets/83131d05-2699-46c4-a35e-1796085152cc" />
+<img width="1406" height="803" alt="image" src="https://github.com/user-attachments/assets/993703a5-3c4f-44ea-a0d8-41978ad0fdb0" />
+<img width="1433" height="918" alt="image" src="https://github.com/user-attachments/assets/d1481ad9-a03e-4a10-acfa-4d47d6d4e8c3" />
+<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/a3c9d9a3-500b-439f-b73d-2cc414561c62" />
+<img width="1439" height="914" alt="image" src="https://github.com/user-attachments/assets/f1ece4a8-0d84-48d0-ae00-bd44996afc7c" />
+<img width="1419" height="798" alt="image" src="https://github.com/user-attachments/assets/9314e235-d5b6-4108-9e04-90f4aaf787cc" />
+<img width="1440" height="911" alt="image" src="https://github.com/user-attachments/assets/d8d076f1-da9e-4b42-9a3b-32540c15f3b4" />
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/390d56ce-c38c-4359-8f1e-bd3be1543524" />
+
+### CR (3) [31]
 
 
 
