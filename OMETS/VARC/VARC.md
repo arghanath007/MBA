@@ -6298,25 +6298,86 @@
 <img width="1230" height="807" alt="image" src="https://github.com/user-attachments/assets/d501e924-0e0e-488c-b1a3-71e2ae076568" />
 <img width="1232" height="796" alt="image" src="https://github.com/user-attachments/assets/e1ee4ce0-9b37-435a-95ae-0c60f9c10a48" />
 
+### CR (1) [29]
 
+* Implicit -> Understood.
 
+<img width="1393" height="792" alt="image" src="https://github.com/user-attachments/assets/3aca996a-b0da-4557-8f83-1885f71dbc60" />
+<img width="1428" height="917" alt="image" src="https://github.com/user-attachments/assets/a4303524-1512-4d5d-9e14-4df8a6934457" />
 
+* B -> All -> Very generic.
+* Statement -> Particular case.
+* We cannot make a **particular case** into a **generic case**. [FORMULA]
+* All fathers -> All children.
 
+<img width="1394" height="786" alt="image" src="https://github.com/user-attachments/assets/eac3f6cc-03b8-4567-8cec-5960d231d046" />
+<img width="1432" height="913" alt="image" src="https://github.com/user-attachments/assets/627c5d4e-479e-41a7-ba05-367ca8197de9" />
 
+* Statement -> About World.
+* A, B -> About India.
+* Popularity of the world is being discussed and nothing is mentioned about India. So we cannot assume anything about India.
 
+<img width="1406" height="797" alt="image" src="https://github.com/user-attachments/assets/434a8b3a-496f-4b1a-ab14-4629b7110bb8" />
+<img width="1435" height="912" alt="image" src="https://github.com/user-attachments/assets/88bb0545-4171-452f-a555-2f7a61775e34" />
 
+* Most supported -> Inference.
+* Verbatim -> Word for word. [MEANING]
+* A -> Out of scope.
+* B -> No -> Extreme.
+* C -> Out of scope.
+* D -> Wrong attribute.
 
+<img width="1396" height="799" alt="image" src="https://github.com/user-attachments/assets/07a2bcb1-eac1-4acb-878d-047fa322020a" />
+<img width="1440" height="910" alt="image" src="https://github.com/user-attachments/assets/951d0e6c-6032-4d52-aadd-a351315940c8" />
 
+* A -> will -> Strong.
+* B -> Without -> Little cost.
+* C -> Never -> Extreme.
+* D -> Correct.
+* E -> Most -> Extreme.
+* Most, never, will, always, absolutely -> Strong/Extreme words. [FORMULA]
 
+<img width="1414" height="808" alt="image" src="https://github.com/user-attachments/assets/d525529b-5e51-4dab-9a76-4e09c4fbae5a" />
+<img width="1412" height="801" alt="image" src="https://github.com/user-attachments/assets/9e3345d3-1079-4aad-9471-521e0050c161" />
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/7382ca11-10d4-46b3-b595-06925eda26fd" />
 
+* Hampered -> to restrict the movement of by bonds or obstacles. [MEANING]
+* A -> Anyone.
+* B -> Will not -> Not necessarily -> Extreme.
+* C -> Mostly -> Extreme.
+* D -> Out of Scope.
+* E -> usually -> Correct.
 
+<img width="1407" height="798" alt="image" src="https://github.com/user-attachments/assets/bc75662a-1e5b-433b-9814-0624ffc8703a" />
+<img width="1403" height="797" alt="image" src="https://github.com/user-attachments/assets/1eec4c73-ffc1-41cf-a3d7-1e24daf3fbc6" />
+<img width="1395" height="789" alt="image" src="https://github.com/user-attachments/assets/5d4f5516-b796-4bd4-bc95-84555a7a4808" />
+<img width="1412" height="790" alt="image" src="https://github.com/user-attachments/assets/e4fc047a-a9d3-46c4-aab1-8c1535c45bf3" />
+<img width="437" height="117" alt="image" src="https://github.com/user-attachments/assets/ab0b0183-df34-4072-85d7-07b36ebc6a83" />
 
+* Need the **arguments** to be valid and not true. [FORMULA]
 
+<img width="1439" height="910" alt="image" src="https://github.com/user-attachments/assets/b660f11d-fb76-4f65-b150-f3a82e264745" />
+<img width="1403" height="797" alt="image" src="https://github.com/user-attachments/assets/bdc96c5f-5acc-47fa-a0a3-170a56ec18db" />
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/89831637-5fe6-4c34-be7b-c95b24ee6fd4" />
+<img width="1399" height="795" alt="image" src="https://github.com/user-attachments/assets/860bd65c-6bac-461b-92a3-d743908cd4c7" />
 
+* Contradictor arguments -> Then we choose **Either-OR** option. [FORMULA]
 
+<img width="1427" height="917" alt="image" src="https://github.com/user-attachments/assets/efa27523-d267-46a5-9c84-0719fa3f7205" />
 
+* We have to **weaken** the **argument**. [FORMULA]
+* sophisticated -> Understanding the topics. [MEANING] 
 
+<img width="1409" height="799" alt="image" src="https://github.com/user-attachments/assets/038af271-0fac-49bb-8a10-3bd18f2b4325" />
+<img width="1428" height="912" alt="image" src="https://github.com/user-attachments/assets/50e0bb18-843d-4b7d-9476-109a576f6626" />
 
+* Persevered -> Persisted. [MEANING]
+* B -> Strengthen.
+* D -> Weakening.
+
+<img width="1408" height="802" alt="image" src="https://github.com/user-attachments/assets/4182cb4d-741c-4ebc-b3b7-3f912d40b3fc" />
+
+### CR (2) [30]
 
 
 
