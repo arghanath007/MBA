@@ -6441,34 +6441,90 @@
 
 ### CR (3) [31]
 
+#### Assertion & Reason
 
+<img width="1413" height="809" alt="image" src="https://github.com/user-attachments/assets/1b107c38-79be-4787-8f68-28b15260c8f3" />
+<img width="1412" height="805" alt="image" src="https://github.com/user-attachments/assets/05c2d869-2ba7-419e-bce6-cf78711907e0" />
 
+* Answer -> Option **B**. 
 
+<img width="1435" height="912" alt="image" src="https://github.com/user-attachments/assets/2fe05cb0-06eb-46b4-bb35-c3b8b7e4264b" />
+<img width="1406" height="802" alt="image" src="https://github.com/user-attachments/assets/6623a8ac-50f6-41a3-b7b9-a1ee65934543" />
 
+* B -> Tropic of Cancer.
 
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/38038d54-7f4d-4de2-8998-bdc5e1d10ff4" />
 
+* A -> True.
+* B -> False -> Inner surface expands.
 
+<img width="1404" height="799" alt="image" src="https://github.com/user-attachments/assets/135b26f3-88a5-49af-a73c-8b0a00f0635b" />
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/44f0eedd-0641-4329-8404-cb4c0296c3dc" />
+<img width="1392" height="786" alt="image" src="https://github.com/user-attachments/assets/6010cab2-4068-4df0-b1a9-a2edb6685076" />
+<img width="1433" height="910" alt="image" src="https://github.com/user-attachments/assets/0e268ca3-9ced-4a93-87a3-96ce4b9645a3" />
+<img width="1404" height="797" alt="image" src="https://github.com/user-attachments/assets/969ce4a9-681f-47f5-943a-c5c8e57b408d" />
 
+#### Cause & Effect
 
+* Possible questions -> Cannot, Can be.
 
+<img width="1417" height="790" alt="image" src="https://github.com/user-attachments/assets/c6df93b5-97e6-47f7-a279-b84e132487fa" />
 
+* Answer -> Option **D**.
 
+<img width="1429" height="809" alt="image" src="https://github.com/user-attachments/assets/ed74e5be-95d4-4e2b-9914-54429739420d" />
 
+* Another way of asking the question.
 
+<img width="1437" height="910" alt="image" src="https://github.com/user-attachments/assets/7dcae615-7989-41c0-9067-44ca2ee7f050" />
 
+* Cannot -> Read question carefully.
 
+<img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/61dabb4a-3c76-471a-b33c-dc6481b85fd4" />
 
+* [VERY IMPORTATN]
 
+<img width="1441" height="917" alt="image" src="https://github.com/user-attachments/assets/60af5aaa-8031-4d06-a958-f26f007edea7" />
+<img width="1421" height="810" alt="image" src="https://github.com/user-attachments/assets/46d84e10-1199-4f11-a272-a24b98afdf62" />
 
+* [VERY IMPORTATN]
 
+<img width="1443" height="911" alt="image" src="https://github.com/user-attachments/assets/5411089b-a2a0-49c4-8ce7-929a9ec4a5e9" />
 
+* Oncology -> a branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer. [MEANING]
 
+<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/0f1ca713-5b8f-4a07-942f-6be27b062d42" />
+<img width="1434" height="925" alt="image" src="https://github.com/user-attachments/assets/8a2fc7bf-77fd-40f5-8837-a7adfa1399fc" />
+<img width="1409" height="797" alt="image" src="https://github.com/user-attachments/assets/deb2d62e-b78f-4402-b758-23fed8648aa7" />
+<img width="1437" height="925" alt="image" src="https://github.com/user-attachments/assets/0c31e530-c909-4fac-87d8-ee0604b1a080" />
+<img width="1419" height="798" alt="image" src="https://github.com/user-attachments/assets/579b729b-7e51-41bd-bacd-2d052aa6bab5" />
+<img width="1426" height="816" alt="image" src="https://github.com/user-attachments/assets/1b6163d0-402c-4ba9-b82d-03c4bd2b5310" />
 
+* D -> were -> Past tense.
+* Cause -> will -> Future.
 
+<img width="1436" height="912" alt="image" src="https://github.com/user-attachments/assets/02c03b95-e8bb-46a5-a283-d5a8aa3b52d0" />
+<img width="1424" height="810" alt="image" src="https://github.com/user-attachments/assets/04a35cbe-e7a4-42f9-b0c3-8078221a819a" />
 
+* [VERY IMPORTANT]
 
+<img width="1441" height="918" alt="image" src="https://github.com/user-attachments/assets/a0fdec7e-a5ad-4a44-bc64-ec68b6d58e2a" />
 
+* [VERY IMPORTANT]
 
+<img width="1425" height="813" alt="image" src="https://github.com/user-attachments/assets/d4dfd908-6927-4853-87e6-6d98531ac835" />
+<img width="1433" height="929" alt="image" src="https://github.com/user-attachments/assets/2602070b-de76-4b8f-b84a-70b296519888" />
+<img width="1426" height="809" alt="image" src="https://github.com/user-attachments/assets/6f77edab-cc9e-4877-8e04-53bf5f549e89" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="909" alt="image" src="https://github.com/user-attachments/assets/16eb2305-240b-4a95-85d3-34b26a1e8912" />
+
+* surged -> Increased ->  to rise and fall actively. [MEANING]
+
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/30676958-8201-48ff-965a-8ba2b8f30327" />
+
+### CR (4) [32]
 
 
 
