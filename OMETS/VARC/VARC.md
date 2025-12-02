@@ -6526,19 +6526,87 @@
 
 ### CR (4) [32]
 
+<img width="918" height="569" alt="image" src="https://github.com/user-attachments/assets/3bef151c-3012-4149-805d-4d4fbebd3c18" />
+<img width="1437" height="910" alt="image" src="https://github.com/user-attachments/assets/c03aac82-18cf-46e9-9153-595a6fdf11b0" />
+<img width="1417" height="799" alt="image" src="https://github.com/user-attachments/assets/d94bd4e5-f842-43af-a676-3298f4fdefe8" />
+<img width="1436" height="915" alt="image" src="https://github.com/user-attachments/assets/c265bf1e-5b02-41ea-abbb-3c4540dc104a" />
+<img width="1394" height="789" alt="image" src="https://github.com/user-attachments/assets/f45cbf3c-a7c1-4406-970a-cad77182b16d" />
 
+* [VERY IMPORTANT]
 
+#### Inference
 
+<img width="1436" height="906" alt="image" src="https://github.com/user-attachments/assets/5fb34bdb-2cb1-4768-af29-09ec65483b08" />
 
+* A, B, D -> More extreme.
+* E -> Extreme > But falls under the scope.
 
+<img width="1423" height="804" alt="image" src="https://github.com/user-attachments/assets/93dfabab-5e68-4f83-bae4-463d4e1940f7" />
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/23a5998c-0ce3-4a58-9fa4-3b5c8ca4caeb" />
 
+* [VERY IMPORTANT]
 
+<img width="1440" height="915" alt="image" src="https://github.com/user-attachments/assets/2a1d8345-76ef-4a9b-a83c-af35e62f9fd4" />
 
+* A -> Restating the premise.
+* C -> We cannot infer this.
 
+<img width="1420" height="806" alt="image" src="https://github.com/user-attachments/assets/c73d9ec4-c3b5-4bab-8c4c-dad14cb98eec" />
 
+* [VERY IMPORTANT]
 
+#### Arguments
 
+<img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/363e931c-0817-4d65-b071-a29e527b5c9b" />
+<img width="1434" height="820" alt="image" src="https://github.com/user-attachments/assets/b8e8cfe5-4d56-4c33-b8a6-bfe8a531d3e0" />
 
+* Either '1' or '2' is strong. Both can't be strong. Both scenarios cannot be applicable at the same time. [VERY IMPORTANT]
+
+<img width="1440" height="911" alt="image" src="https://github.com/user-attachments/assets/fead5d06-4f5b-4abd-8402-583a5e1108cd" />
+<img width="437" height="80" alt="image" src="https://github.com/user-attachments/assets/725ca24b-85cd-4167-a0f0-45fdc996a345" />
+
+* Yes.
+* We can retire before the retirement age as well.
+
+<img width="1428" height="805" alt="image" src="https://github.com/user-attachments/assets/6ada0f48-7b2b-4a69-99e6-c47f3c682e8a" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="915" alt="image" src="https://github.com/user-attachments/assets/87174f91-1fe2-4475-88d1-577f6da13e95" />
+<img width="1416" height="806" alt="image" src="https://github.com/user-attachments/assets/cfc6d518-2728-44ee-b59d-f2f2e42e0a13" />
+<img width="1443" height="913" alt="image" src="https://github.com/user-attachments/assets/ae394970-8fc3-47d6-a6f4-1345550cc804" />
+<img width="1420" height="808" alt="image" src="https://github.com/user-attachments/assets/6e3e0082-3a60-4ecf-ab6e-06d2d8396355" />
+
+#### Weaken
+
+<img width="1405" height="811" alt="image" src="https://github.com/user-attachments/assets/c7a7679e-f4d9-4dbd-ab7e-74a2dfec8a79" />
+
+* Weaken -> Oppose the given argument. [FORMULA]
+* Support -> Help the conclusion. [FORMULA] 
+
+<img width="1441" height="917" alt="image" src="https://github.com/user-attachments/assets/bfb50edd-3e59-4852-9547-0c9895f45f16" />
+<img width="1426" height="815" alt="image" src="https://github.com/user-attachments/assets/dfc69b75-3f2c-42c0-802e-ac1da5ed3fcb" />
+
+* [VERY IMPORTANT]
+
+#### Strengthen
+
+<img width="1429" height="909" alt="image" src="https://github.com/user-attachments/assets/309a6710-0970-429a-bfea-cd4caebe2419" />
+<img width="1411" height="801" alt="image" src="https://github.com/user-attachments/assets/9d5e8120-f7f4-4686-a805-ca6b39b5f4a3" />
+
+* A, B, E -> Extreme.
+* C -> Satisfied -> Our point was to get better grades.
+
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/700c27fc-4ae5-431c-9f56-16db9adf5585" />
+
+* Faddish -> Fad, popular or trendy areas. [MEANING]
+
+<img width="1417" height="813" alt="image" src="https://github.com/user-attachments/assets/70a19740-03b7-4079-9d6b-99d4f7c86225" />
+<img width="1399" height="790" alt="image" src="https://github.com/user-attachments/assets/391f5259-6fc3-4bce-953d-565bfc126e64" />
+
+* [VERY IMPORTANT]
+
+### VA Practice (1) [33]
 
 
 
