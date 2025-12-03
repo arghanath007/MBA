@@ -6853,6 +6853,138 @@
 
 ### VA and Grammer Practice (2) [34]
 
+#### Grammer
+
+<img width="1424" height="915" alt="image" src="https://github.com/user-attachments/assets/283e642c-3d8f-41e5-8f50-b39e25645988" />
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/3b688bf1-cc41-4782-9a10-d469a964e490" />
+<img width="1400" height="789" alt="image" src="https://github.com/user-attachments/assets/ea811dce-e842-4076-8094-a63f57152e4f" />
+<img width="1408" height="807" alt="image" src="https://github.com/user-attachments/assets/22fa89be-1dbf-466a-9b5d-3ecb90833499" />
+
+* Dangling modifiers.
+* [VERY IMPORTANT]
+
+<img width="1438" height="912" alt="image" src="https://github.com/user-attachments/assets/30e44ec6-cf18-44d5-b031-f370c794e6a2" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/6a04f2cd-c64d-4e7d-a92c-4fc313f51628" />
+
+* to -> common.
+* complete -> submit -> attend.
+
+<img width="1443" height="917" alt="image" src="https://github.com/user-attachments/assets/a6365fbd-204c-4cc4-8a6a-24ccb598cfd7" />
+
+* Subject -> Quality -> singular.
+* Have -> Plural.
+* Has -> Singular.
+* Attention to detail -> Secondary subject.
+
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/000672ea-63fe-4aab-ba93-506e8d7160c0" />
+<img width="1415" height="811" alt="image" src="https://github.com/user-attachments/assets/a2adac0f-6d87-4fb3-acd4-739a69087918" />
+
+* [VERY IMPORTANT]
+
+<img width="1395" height="793" alt="image" src="https://github.com/user-attachments/assets/ff191368-2803-422b-a8ae-e1d7a573fbfa" />
+<img width="1432" height="834" alt="image" src="https://github.com/user-attachments/assets/9daedbab-ba87-4e53-9547-f72206c23f3e" />
+<img width="1423" height="803" alt="image" src="https://github.com/user-attachments/assets/5f4094de-a083-4ea3-bce6-cca9b79a5b56" />
+<img width="1425" height="809" alt="image" src="https://github.com/user-attachments/assets/6e1dbc80-79be-404c-9d2d-60f770a33d03" />
+<img width="1402" height="792" alt="image" src="https://github.com/user-attachments/assets/202b5f29-8a04-42d7-a29b-9731bc6f2d2c" />
+<img width="1423" height="809" alt="image" src="https://github.com/user-attachments/assets/dec032ee-37a2-4ccd-bf6c-2b5c443b81f5" />
+<img width="1410" height="800" alt="image" src="https://github.com/user-attachments/assets/e6a3b6d9-6869-44bd-8b4e-391d46a7ede4" />
+
+* Subject Verb Agreement. [FORMULA]
+
+<img width="1414" height="803" alt="image" src="https://github.com/user-attachments/assets/1a3b957c-2ea2-46a2-a398-dc53d01541e5" />
+
+* A number -> Several, many -> Verb is always plural.
+* The number -> '1' specific number ->  Verb is always singular.
+
+<img width="1393" height="792" alt="image" src="https://github.com/user-attachments/assets/372a63a7-7643-4efb-aa79-3ecc2f49e1c1" />
+<img width="1404" height="804" alt="image" src="https://github.com/user-attachments/assets/90cc925b-b55e-44c6-b309-1a0e6525d9fe" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/409da5fe-3a3d-4ad1-ae64-1215b3011936" />
+<img width="1407" height="806" alt="image" src="https://github.com/user-attachments/assets/78c85ce4-a181-4c73-81ba-0577754cc61a" />
+<img width="1442" height="913" alt="image" src="https://github.com/user-attachments/assets/fee9092c-16bc-4178-bed2-0026c0209799" />
+
+* Told -> Past.
+* would be -> Past.
+* Will -> Future.
+* [VERY IMPORTANT]
+
+<img width="1402" height="790" alt="image" src="https://github.com/user-attachments/assets/33f14b14-a1e7-41f4-9796-2fd96d68f9b0" />
+<img width="1436" height="907" alt="image" src="https://github.com/user-attachments/assets/e557a2aa-265d-4f97-b00a-41940dbaea81" />
+<img width="1406" height="791" alt="image" src="https://github.com/user-attachments/assets/69e32655-27b4-4ec4-86b2-376a696dc7ae" />
+
+* After **"accused"** -> **"of"** always comes.
+
+<img width="1395" height="793" alt="image" src="https://github.com/user-attachments/assets/bcdeafd9-e354-49dc-a81b-11b2d5a9e163" />
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/a2a5da39-29d2-4ff8-80f4-fc45555cec15" />
+
+* Gerund -> -ing form of verb -> Used as a **noun** in a sentence.
+
+<img width="1439" height="860" alt="image" src="https://github.com/user-attachments/assets/ea0e2d83-fb19-4a7d-be79-0c0e7fff2017" />
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/a67f1806-a0a9-499a-855b-80287e48e018" />
+
+* Noun -> Integrity, leadership, helping.
+* [VERY IMPORTANT]
+
+<img width="1442" height="911" alt="image" src="https://github.com/user-attachments/assets/7e36234d-1253-483f-9dec-a18e0235b1f0" />
+<img width="1413" height="807" alt="image" src="https://github.com/user-attachments/assets/2029ac3c-3c5c-4720-afdb-bbc8c99b63fd" />
+
+* Each -> Singular.
+* Is -> Singular. [VERY IMPORTANT]
+
+<img width="1439" height="907" alt="image" src="https://github.com/user-attachments/assets/5693fcb9-7fdd-4ea8-8c7c-005d36202e53" />
+<img width="1411" height="801" alt="image" src="https://github.com/user-attachments/assets/9831196f-28d3-4073-86a6-2c76084cef95" />
+
+* Action '1' -> arrived -> Simple Past(SP). [FORMULA]
+* Action '2' -> had -> Past Perfect(PP). [VERY IMPORTANT]
+
+<img width="1440" height="907" alt="image" src="https://github.com/user-attachments/assets/8e729074-9d21-458d-9594-641d3d9d6886" />
+<img width="797" height="291" alt="image" src="https://github.com/user-attachments/assets/d0336c8e-b6a4-419e-be50-43f8c0202c7c" />
+
+* Answer -> Option **A**.
+
+<img width="1432" height="913" alt="image" src="https://github.com/user-attachments/assets/51e9c93d-df3b-4dbc-9345-8ff794a8d079" />
+<img width="1413" height="808" alt="image" src="https://github.com/user-attachments/assets/f255b095-4912-420f-ac13-8864f9f9ad00" />
+
+* Verb -> In base form.
+
+<img width="1398" height="794" alt="image" src="https://github.com/user-attachments/assets/ecfed009-88d9-45e4-9386-cf873538ace4" />
+<img width="1431" height="917" alt="image" src="https://github.com/user-attachments/assets/d19338e4-e1ca-4a30-a8e8-ff2477379e16" />
+<img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/f99526b4-3e94-4658-a2d8-eaac791fe3e3" />
+<img width="1434" height="912" alt="image" src="https://github.com/user-attachments/assets/b1323c77-1fcf-4dc5-94dd-385e99408ec8" />
+<img width="251" height="74" alt="image" src="https://github.com/user-attachments/assets/03cd87ea-806f-4008-a0db-67b34936b93e" />
+
+* Yes.
+
+<img width="1410" height="468" alt="image" src="https://github.com/user-attachments/assets/b9bb282c-bfa3-43ce-925f-2e69ba3c2b17" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="911" alt="image" src="https://github.com/user-attachments/assets/76913aee-dcee-4669-808e-9147dce4b02e" />
+<img width="1404" height="797" alt="image" src="https://github.com/user-attachments/assets/8fb2972c-7b4c-461c-beb3-6683c0c25125" />
+
+* Answer -> Option **A** -> Take.
+* Subjective mood -> Request -> Base form -> Take. 
+* [VERY IMPORTANT]
+
+#### Conditional
+
+<img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/5a972d87-6043-425e-bd24-a7fbe83b4127" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
