@@ -6606,12 +6606,252 @@
 
 * [VERY IMPORTANT]
 
+## Practice Questions
+
 ### VA Practice (1) [33]
 
+<img width="1439" height="918" alt="image" src="https://github.com/user-attachments/assets/f0ab72b6-8e7d-424a-87b5-c6316d18cad4" />
 
+* Requires -> Subjective mood -> Request, Demand, Command -> have to use "Base form of the verb".
+* Requires -> Demand -> Base form of the verb. [FORMULA]
 
+<img width="1396" height="788" alt="image" src="https://github.com/user-attachments/assets/91063da0-f2ad-401e-8616-4826a9c28e28" />
 
+* [VERY IMPORTANT]
 
+<img width="355" height="93" alt="image" src="https://github.com/user-attachments/assets/f241c0ef-a263-4a4d-8c68-6dcf6e608bc0" />
+
+* Yes.
+
+<img width="1439" height="918" alt="image" src="https://github.com/user-attachments/assets/7ffdf84b-5570-46c2-b2a6-8eb29b11aa89" />
+<img width="1431" height="815" alt="image" src="https://github.com/user-attachments/assets/55d6955b-ceca-4239-a16f-979e570ff726" />
+
+* Perfect Tense.
+
+<img width="1400" height="795" alt="image" src="https://github.com/user-attachments/assets/04f26908-79a1-421b-a6c9-bfb28b81c022" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="904" alt="image" src="https://github.com/user-attachments/assets/78580a20-572b-4e10-aa5b-523d1c4c50e9" />
+
+* The budget, the timelines -> Should be in **Parallelism**.
+* Primary Subject -> The budget -> Singular -> has been -> Singular.
+
+<img width="1432" height="801" alt="image" src="https://github.com/user-attachments/assets/5f952664-380d-468a-af4d-5eb425d56493" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="908" alt="image" src="https://github.com/user-attachments/assets/3c415b68-a9c6-45af-9422-1d258de0b569" />
+
+* Than -> Comparative degree. 
+* Fewer, Lesser -> Comparative degree. [FORMULA]
+* Fewer -> Countable(Numbers). [FORMULA]
+* Lesser -> Uncountable(Quantity). [FORMULA]
+
+<img width="1396" height="795" alt="image" src="https://github.com/user-attachments/assets/bb98406b-f9c7-444a-9789-c17e35a7a738" />
+<img width="1395" height="791" alt="image" src="https://github.com/user-attachments/assets/105e93d1-381f-44bf-8e66-3097ccc1b2a7" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/fe85f6c4-71b3-4dfe-ba65-08c3251dfad6" />
+<img width="1395" height="788" alt="image" src="https://github.com/user-attachments/assets/d59cd497-f829-4e65-af2f-122cf1e0e80c" />
+
+* Dangling, misplaced modifiers.
+* Dangling -> subject is missing.
+* C -> "We" was used instead of "visitors" -> Wrong subject.
+
+<img width="1414" height="799" alt="image" src="https://github.com/user-attachments/assets/a51a2fd2-4ab3-4bed-9a4a-3fccf0d07f2d" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="912" alt="image" src="https://github.com/user-attachments/assets/b2341143-be3e-4085-a3cd-893329b3c4a1" />
+<img width="1433" height="800" alt="image" src="https://github.com/user-attachments/assets/747473d7-ae55-4763-ae73-4ac19c3da670" />
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/e9c2cb65-6d3f-4ce5-abbc-d918a1eeb7fe" />
+
+* After "superior" -> Always "to". [FORMULA]
+
+<img width="1437" height="907" alt="image" src="https://github.com/user-attachments/assets/359bd4f6-77e2-4d22-bf2f-88d20aab551d" />
+<img width="1419" height="801" alt="image" src="https://github.com/user-attachments/assets/a2325834-132d-45e7-8236-d3ec99fd6779" />
+<img width="1407" height="798" alt="image" src="https://github.com/user-attachments/assets/1cae4885-45a1-4f34-b769-acb80409c531" />
+
+* Neither, Either, each, every, many a -> If they are the **subject** then the **verb** is always **singular**. [FORMULA] 
+* [VERY IMPORTANT]
+
+<img width="1442" height="922" alt="image" src="https://github.com/user-attachments/assets/6cda25b6-3d12-4e38-8967-d3af1a0531f4" />
+
+* A -> Redundant.
+* B -> 'ig' form is not needed.
+* D -> Compose -> Made of. [MEANING]
+* Comprises -> consists of.
+
+<img width="1416" height="819" alt="image" src="https://github.com/user-attachments/assets/5a584309-32a6-4c87-9d56-2ebefa4fb67e" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="909" alt="image" src="https://github.com/user-attachments/assets/2b22db00-12ab-4b7c-a857-c623eaad234a" />
+<img width="1429" height="804" alt="image" src="https://github.com/user-attachments/assets/ae3aeedf-0fa8-419c-8a54-e089b75c6881" />
+<img width="1435" height="912" alt="image" src="https://github.com/user-attachments/assets/f8f2a62a-1017-4442-8c8d-a3a7d2d0a907" />
+
+* Pilot -> Subject.
+* Object -> Rahul and me.
+* I -> Subject. [FORMULA]
+* We want **object**.
+* failed -> action -> pilot is doing.
+
+<img width="1418" height="800" alt="image" src="https://github.com/user-attachments/assets/77189872-3dac-4e5d-9bb4-98aca9e4dba3" />
+
+* Who is failing?
+
+> Pilot -> Subject.
+
+* Who is **doing the action** is the **subject of the sentence**.
+
+<img width="1405" height="796" alt="image" src="https://github.com/user-attachments/assets/4822e752-a6a0-4520-9d18-d806e83011c4" />
+
+* A sentence can stands on it's own without a **object** also.
+
+#### Analogies
+
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/53fbeed4-f33a-4562-aba7-89ba7e64cf33" />
+<img width="1402" height="790" alt="image" src="https://github.com/user-attachments/assets/4bc31432-59b0-4f6b-825d-b4878780e070" />
+<img width="1440" height="915" alt="image" src="https://github.com/user-attachments/assets/fc2e374a-5bb6-402e-aa5f-04731d01f94b" />
+
+* [VERY IMPORTANT]
+* Synecdoche -> Part-for-whole.
+
+<img width="1393" height="786" alt="image" src="https://github.com/user-attachments/assets/dcc58e2f-8a33-418b-8676-3218afd3f316" />
+<img width="1439" height="911" alt="image" src="https://github.com/user-attachments/assets/209e75a8-9ae0-4047-84cf-bbd854e238ff" />
+<img width="1398" height="802" alt="image" src="https://github.com/user-attachments/assets/87ec474b-32ef-4a44-a601-5d3a57ee58f9" />
+
+* Varnish -> Not a tool.
+
+<img width="1434" height="909" alt="image" src="https://github.com/user-attachments/assets/5456600c-0768-477f-b4db-8aa77b0230fe" />
+<img width="1393" height="795" alt="image" src="https://github.com/user-attachments/assets/c16dd863-5611-4128-a373-be9d72e9941c" />
+<img width="1435" height="911" alt="image" src="https://github.com/user-attachments/assets/5753db0c-5765-49c9-9136-6f58c3eaa728" />
+<img width="1396" height="788" alt="image" src="https://github.com/user-attachments/assets/4855e920-371b-4d86-ba94-6a17e418d30e" />
+<img width="1432" height="916" alt="image" src="https://github.com/user-attachments/assets/cae56ef9-43e2-4abe-b378-ef8da0ab854c" />
+<img width="1418" height="799" alt="image" src="https://github.com/user-attachments/assets/574f0200-068c-463a-b286-72fa99c466cb" />
+<img width="1422" height="919" alt="image" src="https://github.com/user-attachments/assets/c47f4532-a60a-4e69-8679-c1f0b9283b38" />
+<img width="1414" height="812" alt="image" src="https://github.com/user-attachments/assets/f1cd55d3-3034-4595-9616-6d42ac57b851" />
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/9dfa7272-7b4d-420a-8b2a-bf18c45915a6" />
+<img width="1419" height="813" alt="image" src="https://github.com/user-attachments/assets/d57dab7e-0660-4afd-b141-068246d7b193" />
+<img width="1425" height="797" alt="image" src="https://github.com/user-attachments/assets/9ab220e4-3766-4948-903a-ad75d2843395" />
+
+*  Seeds undergoes germination.
+* Hypothesis undergoes testing.
+
+#### Vocab
+
+<img width="1437" height="917" alt="image" src="https://github.com/user-attachments/assets/802b08ce-7e2d-45ba-8737-7b1c348d527a" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/35a8b3f0-70b7-4765-ada8-fbbdc641fe85" />
+
+* Fulsome -> Insincere praise, flattery. [MEANING]
+* Fulgent -> Shining brightly, radiant.  [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1436" height="909" alt="image" src="https://github.com/user-attachments/assets/bdf16986-3e3c-4be7-8ce0-6f40bfc9b463" />
+<img width="1422" height="798" alt="image" src="https://github.com/user-attachments/assets/b1fc4ea8-e4cd-4a19-974f-9ea424a8aa51" />
+
+* Opaque -> Unclear, difficult to understand. [MEANING]
+* Limpid -> Easy, clean and transparent. [MEANING]
+* Succinct -> Brief, concise, clearly expressed. [MEANING]
+
+<img width="1434" height="913" alt="image" src="https://github.com/user-attachments/assets/b09df007-6d20-48c5-b31a-b25620127248" />
+<img width="1408" height="803" alt="image" src="https://github.com/user-attachments/assets/5e0230ec-7df3-42e3-ac50-3e68b3a13372" />
+
+* Equivocal -> Ambiguous. [MEANING]
+* Categorical -> Definite. [MEANING]
+* Histrionic -> Overly dramatic, theatrical. [MEANING]
+* Insipid -> Bland, no flavour, lacking vigor. [MEANING]
+
+<img width="1439" height="910" alt="image" src="https://github.com/user-attachments/assets/3e468c68-6105-4dd1-8017-54f0df15c0b2" />
+<img width="1420" height="806" alt="image" src="https://github.com/user-attachments/assets/7f77ebcd-a0d2-439e-bd68-5124684b9249" />
+
+* Sanguine -> Optimistic, hopeful.  [MEANING]
+* Restive -> Impatient, anxious. [MEANING]
+* Phlegmatic -> Stoic, unemotional. [MEANING]
+* Serene -> Calm, peaceful. [MEANING]
+
+<img width="1439" height="920" alt="image" src="https://github.com/user-attachments/assets/b0cda54d-000a-464f-b115-f8d628fb243d" />
+
+* Truculent -> Aggressively, defiant, ready to fight. [MEANING]
+* Decorous -> Polite, showing, restraint. [MEANING]
+* Ebullient -> Cheerful, happy, energetic.  [MEANING]
+* Undercut -> Undermine, not following. [MEANING]
+* The memo was not calm and specific.
+
+<img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/c16fbc85-4157-4d2d-8383-50bf593cb164" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="913" alt="image" src="https://github.com/user-attachments/assets/63cc14c0-7c0b-42a7-ac12-20aedc01b2ae" />
+<img width="1418" height="809" alt="image" src="https://github.com/user-attachments/assets/3c2356c2-952c-4f9c-b26b-9e105ec403db" />
+<img width="1414" height="791" alt="image" src="https://github.com/user-attachments/assets/53d4d4e7-64fe-4448-b7eb-5cc79f5dc275" />
+
+* Conspicuous -> Easily seen, obvious. [MEANING]
+* Evanescent -> fading quickly, fleating. [MEANING]
+* Vagrant -> Wandering, not staying in place. [MEANING]
+* Pallid -> Pale, weak, lacking color.[MEANING]
+ 
+<img width="1442" height="935" alt="image" src="https://github.com/user-attachments/assets/a873e4db-26d5-48a5-b9d2-9d896e912d7c" />
+
+* Mellifluous -> Sweet sounding, smooth. [MEANING]
+* Tenable -> Defensible, easy to be maintained logically. [MEANING]
+* Anodyne -> Harmless, inoffensive. [MEANING]
+* Parochial -> Narrow, limited(in context to outlook).  [MEANING]
+
+<img width="1418" height="799" alt="image" src="https://github.com/user-attachments/assets/4438d737-c5ae-4bc9-9e30-6286bd8df005" />
+
+* [VERY IMPORTANT]
+
+<img width="1445" height="911" alt="image" src="https://github.com/user-attachments/assets/d7fc69cb-a3da-4c17-9574-889696eec58f" />
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/5882d2fd-a3fd-4655-9667-eda869b95fb5" />
+
+* Seminal -> Original, pioneering.  [MEANING]
+* Perennial -> Lasting for a long time enduring. [MEANING]
+* Transient -> Fleeting, temporary, lasting for a short time. [MEANING]
+* Cardinal -> Basic fundamental. [MEANING]
+* [VERY IMPORTANT]
+
+#### Idioms
+
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/b58de0fe-a3aa-436a-b83a-76647eef29be" />
+
+* Burn the midnight oil -> To work late in the night. [MEANING]
+
+<img width="1408" height="805" alt="image" src="https://github.com/user-attachments/assets/2c66f78d-7371-43e4-a370-81ffe58785b9" />
+<img width="1437" height="922" alt="image" src="https://github.com/user-attachments/assets/043449c6-07e4-4e48-a956-c1c6ef53cdf8" />
+
+* Throw in the towel -> To give up, quit. [MEANING]
+
+<img width="1409" height="801" alt="image" src="https://github.com/user-attachments/assets/267423f8-8c02-4628-9621-221210172ed2" />
+<img width="1440" height="915" alt="image" src="https://github.com/user-attachments/assets/6a515ae3-b839-4ef8-88ad-1481f67bed79" />
+
+* On the back burner -> Delayed, deproteinized. [MEANING]
+
+<img width="1398" height="803" alt="image" src="https://github.com/user-attachments/assets/e796cbfd-cc29-4c02-a232-76154b9ead4d" />
+<img width="1440" height="909" alt="image" src="https://github.com/user-attachments/assets/80fd30bd-a29a-47b8-a845-53d69e4bf971" />
+
+* Turn a blind eye -> To deliberately ignore something wrong.  [MEANING]
+
+<img width="1417" height="813" alt="image" src="https://github.com/user-attachments/assets/a9e92898-c363-4324-8763-e7e7ed45e4a4" />
+<img width="1435" height="913" alt="image" src="https://github.com/user-attachments/assets/f00d6731-a1cf-49c3-b239-3cd8ec4f41b8" />
+
+* Bite the bullet -> To face difficult situation with courage. [MEANING]
+
+<img width="397" height="71" alt="image" src="https://github.com/user-attachments/assets/99d914b2-8918-44d2-b2ce-cf4ab8f91127" />
+
+* Yes. 
+
+<img width="1422" height="809" alt="image" src="https://github.com/user-attachments/assets/d9c8c9d1-b145-43ee-bb5d-13aa509202cd" />
+<img width="1436" height="915" alt="image" src="https://github.com/user-attachments/assets/c34e4dc8-9933-4886-a29c-4a8b49e5ff6d" />
+ 
+* Walk back -> To take back, soften a previous made statement. [MEANING]
+
+<img width="1418" height="808" alt="image" src="https://github.com/user-attachments/assets/8a7c143a-e534-4423-a41e-d80afaf590b5" />
+<img width="1415" height="811" alt="image" src="https://github.com/user-attachments/assets/4b2396a8-cbda-463b-96e1-44f00af2f065" />
+
+### VA and Grammer Practice (2) [34]
 
 
 
