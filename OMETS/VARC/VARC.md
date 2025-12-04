@@ -6968,9 +6968,86 @@
 #### Conditional
 
 <img width="1439" height="915" alt="image" src="https://github.com/user-attachments/assets/5a972d87-6043-425e-bd24-a7fbe83b4127" />
+<img width="1405" height="794" alt="image" src="https://github.com/user-attachments/assets/63ee5320-765d-40a0-9d83-85a845eed6ec" />
 
+* Possible case.
+* [VERY IMPORTANT]
 
+<img width="1442" height="916" alt="image" src="https://github.com/user-attachments/assets/119baf34-19f2-429b-94ed-2cc46ab33842" />
+<img width="1384" height="786" alt="image" src="https://github.com/user-attachments/assets/9cb205c9-95e5-4f08-9fab-95ede18297ec" />
+<img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/5a654968-1d37-4708-8037-18869ce9ef2a" />
 
+* Hypothetical condition/case -> Subject mood -> Verb -> Plural.
+* [VERY IMPORTANT]
+
+<img width="1444" height="913" alt="image" src="https://github.com/user-attachments/assets/336f8c88-4fbb-40bf-be48-d1a78a53a14e" />
+<img width="1418" height="807" alt="image" src="https://github.com/user-attachments/assets/0ec6ad7c-15d7-4324-90cd-07bd8a3fe688" />
+
+* If + simple past -> Action '1'.
+* Might/could/would -> We get 'base verb' -> Action '2'.
+* [VERY IMPORTANT]
+
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/cfe8577f-9013-45b9-bf15-c42f6f9d3aef" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/b0f0d057-880b-4d20-bbce-66e0ee549584" />
+
+* Action '1' -> Started -> Simple past
+* Action '2' -> had -> Past Perfect
+* [VERY IMPORTANT]
+
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/05d70bbb-541c-455d-be62-a74028854bd7" />
+<img width="1405" height="809" alt="image" src="https://github.com/user-attachments/assets/a0686a88-12cc-471e-ab65-c63245cf6a12" />
+
+* [VERY IMPORTANT]
+
+<img width="1434" height="915" alt="image" src="https://github.com/user-attachments/assets/3177e873-8734-4a00-9870-0a3bc49abaf8" />
+<img width="1408" height="796" alt="image" src="https://github.com/user-attachments/assets/88ee9a10-39d8-40f5-8cfe-86281fec1223" />
+<img width="1421" height="822" alt="image" src="https://github.com/user-attachments/assets/cc3733dd-991e-4f18-ae2d-329acb8f0533" />
+<img width="1415" height="811" alt="image" src="https://github.com/user-attachments/assets/32d53803-41ac-47bc-9438-ce3dd792d591" />
+
+* When -> had been working.
+* [VERY IMPORTANT]
+
+#### Identify correct Sentence
+
+<img width="1440" height="923" alt="image" src="https://github.com/user-attachments/assets/f3575b81-59c8-43d9-a891-e88915df20c1" />
+<img width="570" height="375" alt="image" src="https://github.com/user-attachments/assets/e5250ad9-dbe8-4fa6-b5d2-00d287be8801" />
+<img width="1436" height="911" alt="image" src="https://github.com/user-attachments/assets/c9b795b8-3b70-4fac-b56e-df526312060f" />
+<img width="622" height="390" alt="image" src="https://github.com/user-attachments/assets/fc3ec823-68cd-49d8-875b-0585f8a8caf7" />
+
+* [VERY IMPORTANT]
+
+<img width="876" height="419" alt="image" src="https://github.com/user-attachments/assets/a333a6cb-50a3-45e3-b262-df4aceda8b72" />
+<img width="573" height="306" alt="image" src="https://github.com/user-attachments/assets/a82a8995-fe55-4dc3-891f-7673e7f5e396" />
+<img width="1399" height="800" alt="image" src="https://github.com/user-attachments/assets/bc4440a7-addc-42fd-a0f2-d34605a3c1a4" />
+
+* After **"suprised"** -> we use **"at"**. [FORMULA]
+
+<img width="1442" height="920" alt="image" src="https://github.com/user-attachments/assets/ca0daa1a-e503-4942-994c-b6562c5b2c45" />
+<img width="1397" height="797" alt="image" src="https://github.com/user-attachments/assets/e1b1e16b-0ce5-462a-a34f-bbea093e354f" />
+
+* Comparison between '2' things -> We use **"between"**. [FORMULA]
+* Comparison between more than '2' things -> We use **"among"**. [FORMULA]
+
+<img width="1406" height="799" alt="image" src="https://github.com/user-attachments/assets/7d6a5877-9bfe-4a18-a5d8-41754fd382a7" />
+
+* The book was divided into four section. [Correct]
+* [VERY IMPORTANT]
+
+<img width="1438" height="913" alt="image" src="https://github.com/user-attachments/assets/d0b3059d-ac43-41f2-9224-65a51edf40b4" />
+<img width="637" height="301" alt="image" src="https://github.com/user-attachments/assets/3c68d708-5b05-4205-a1ab-fb525e856f46" />
+
+* After **"responsible"** -> we use **"for"**. [FORMULA]
+
+<img width="1437" height="910" alt="image" src="https://github.com/user-attachments/assets/bcfa0334-1780-4399-a071-332c4fd92508" />
+<img width="596" height="299" alt="image" src="https://github.com/user-attachments/assets/e150bd44-a5b4-439b-8755-3be4621817cc" />
+
+* After **"indifferent"** -> we use **"to"**. [FORMULA]
+
+<img width="766" height="684" alt="image" src="https://github.com/user-attachments/assets/9d716354-5a0b-458f-951e-98952468f8f0" />
+
+* Grammer revision classes. [VERY IMPORTANT]
+
+### MCQ PJ
 
 
 
