@@ -7049,22 +7049,182 @@
 
 ### MCQ PJ
 
+<img width="1441" height="915" alt="image" src="https://github.com/user-attachments/assets/66be51f4-f2c3-481f-8a30-6c9008398b81" />
 
+* 1
+* Ans -> Option **A** -> CBEDA.
 
+<img width="1439" height="815" alt="image" src="https://github.com/user-attachments/assets/99c71140-fdfa-45e5-abe9-c6ed09e69ac9" />
 
+* Her, both -> Have to introduce "wife".
+* B -> Wife.
 
+<img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/a27ad2ea-71bb-4b27-acd4-12295d861222" />
+<img width="1428" height="808" alt="image" src="https://github.com/user-attachments/assets/2ff4312b-4802-4291-81cf-341d900dfc6b" />
+<img width="1438" height="907" alt="image" src="https://github.com/user-attachments/assets/d1ec52f1-0a2c-4271-8435-82d66adbf0fc" />
 
+* 2
 
+<img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/056558f4-38fc-4d82-ab63-daccbe67bf06" />
 
+* Starts with 'B' and then any sequence.
 
+<img width="1439" height="926" alt="image" src="https://github.com/user-attachments/assets/15a387b7-10ce-4280-a827-1d96d23c4915" />
 
+* Colonial America -> American Revolution -> 1776. [VERY IMPORTANT]
 
+<img width="1443" height="824" alt="image" src="https://github.com/user-attachments/assets/6d507a42-6c85-44c6-9564-98983a9912cf" />
 
+* Ans -> Option **B**.
 
+<img width="1434" height="923" alt="image" src="https://cloud.githubusercontent.com/assets/54589605//70ccc636-f325-4f9c-b63e-7458c7e2ecf2.png" />
+<img width="1435" height="809" alt="image" src="https://github.com/user-attachments/assets/d5d1ea92-a8a4-470d-983d-d96ee799aeee" />
+<img width="1416" height="817" alt="image" src="https://github.com/user-attachments/assets/05e892bc-78c1-4d78-8d38-8b3dff2bfd60" />
+<img width="1403" height="807" alt="image" src="https://github.com/user-attachments/assets/849099ae-dc3d-4dd2-96fa-a9a49434e2d0" />
 
+* C -> F.
+* E -> F.
+* [VERY IMPORTANT]
 
+<img width="1437" height="889" alt="image" src="https://github.com/user-attachments/assets/48ef0a86-5d36-4aaa-ae4e-d307d6669670" />
+<img width="1437" height="810" alt="image" src="https://github.com/user-attachments/assets/0014e73c-0bba-43f4-adc2-e993be1e6ba9" />
 
+* C -> B.
 
+<img width="1442" height="919" alt="image" src="https://github.com/user-attachments/assets/1257f0c9-fd16-4ae7-8a73-5bbdc0171711" />
+<img width="1419" height="833" alt="image" src="https://github.com/user-attachments/assets/d30e2266-6049-4705-8c09-8e0b9ca56af1" />
+
+* Ans -> Option **B**.
+
+<img width="1432" height="903" alt="image" src="https://github.com/user-attachments/assets/50ea0807-5058-48da-aec3-0ab44b0b2abf" />
+<img width="1422" height="792" alt="image" src="https://github.com/user-attachments/assets/e97906cb-4355-425e-b913-c51d9eaa864a" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="903" alt="image" src="https://github.com/user-attachments/assets/5c02817c-a35b-49fb-bc76-3d4902e3bea7" />
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/191ecb4c-762a-45d2-b6cc-197399264c1c" />
+<img width="1437" height="901" alt="image" src="https://github.com/user-attachments/assets/f6b8996d-1f73-4d70-8946-09ac623322fe" />
+<img width="1429" height="825" alt="image" src="https://github.com/user-attachments/assets/d44baed1-5c09-4d3a-98fd-fbbc21c898aa" />
+<img width="1426" height="810" alt="image" src="https://github.com/user-attachments/assets/341359f6-e94e-4067-945c-e9c64f551a36" />
+<img width="1439" height="890" alt="image" src="https://github.com/user-attachments/assets/c69def13-b19f-4a30-877d-78a8d7e97e7f" />
+<img width="1433" height="843" alt="image" src="https://github.com/user-attachments/assets/ad74fa88-13e8-4275-9811-4c468a719ceb" />
+
+* D -> E.
+* [VERY IMPORTANT]
+
+#### Grammar
+
+<img width="1412" height="801" alt="image" src="https://github.com/user-attachments/assets/9d95ecc4-c893-419e-bae2-c597a9b6f4b4" />
+
+* 1 -> B. [Correct] [Answer]
+* Rarely, Seldon, Not only, Not even -> Negative openings to a sentence . [FORMULA]
+* Helping Verb + Subject + Main verb -> Structure. [FORMULA]
+* Where does he live.
+* does -> Helping Verb.
+* he -> Subject.
+* live -> Main verb
+
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/d73895b7-9f14-46df-bceb-19d8de8c7657" />
+<img width="1419" height="816" alt="image" src="https://github.com/user-attachments/assets/e6244824-d29f-4115-baec-a67840366d92" />
+<img width="1419" height="818" alt="image" src="https://github.com/user-attachments/assets/1ddaa8cb-c87c-4ee9-9742-0feb7e27f07c" />
+
+* 2 -> C. [Correct] [Answer]
+
+<img width="1409" height="811" alt="image" src="https://github.com/user-attachments/assets/8ef4d25a-2185-4edc-9f79-3a4e20087753" />
+
+* 3 -> B. [Correct] [Answer]
+
+<img width="1413" height="806" alt="image" src="https://github.com/user-attachments/assets/d42cdf53-a934-4707-a431-63d4b91c6b9c" />
+<img width="1410" height="806" alt="image" src="https://github.com/user-attachments/assets/173a562b-5bb1-4e6c-b1e7-6dd274137409" />
+
+* Absence of articles(a, an, the) -> Not always considered as **errors**. [FORMULA]
+
+* 4 -> C. [Correct] [Answer]
+
+<img width="1379" height="805" alt="image" src="https://github.com/user-attachments/assets/5c07af89-4e1c-46d3-9cd9-3d777d91ccb0" />
+<img width="205" height="135" alt="image" src="https://github.com/user-attachments/assets/88aa193d-60d4-4379-9fa1-12137a8dcd1f" />
+
+* Base form, YES.
+
+<img width="1388" height="814" alt="image" src="https://github.com/user-attachments/assets/06dd0890-ada0-44ea-8651-1b2498e5ef38" />
+<img width="1381" height="809" alt="image" src="https://github.com/user-attachments/assets/9d803274-b081-4a00-a386-a5a2b2c11380" />
+
+* [VERY IMPORTANT]
+
+<img width="1375" height="806" alt="image" src="https://github.com/user-attachments/assets/dad4c101-11ce-43c2-b16d-0a9af4e5eec3" />
+<img width="1385" height="818" alt="image" src="https://github.com/user-attachments/assets/64da23a7-741f-4ce7-b11c-59c870da840f" />
+
+* 4 -> C. [Correct] [Answer]
+
+<img width="1382" height="821" alt="image" src="https://github.com/user-attachments/assets/156e0abf-6edc-4ea5-b479-124e822b9ef5" />
+<img width="1378" height="661" alt="image" src="https://github.com/user-attachments/assets/ecd6f6f5-e023-4e91-9134-c0fe630d149f" />
+
+* 1 -> B. [Not Correct] [Answer]
+* [VERY IMPORTANT]
+
+<img width="1380" height="675" alt="image" src="https://github.com/user-attachments/assets/443042da-d508-4f93-bc74-ddec870fdd35" />
+
+* 2 -> C. [Correct] [Answer]
+
+<img width="1246" height="813" alt="image" src="https://github.com/user-attachments/assets/83fedd42-fb9b-47e4-bf7c-008215b2c7ff" />
+<img width="1227" height="811" alt="image" src="https://github.com/user-attachments/assets/0a321fa2-874d-4c33-96c2-ba05bfd7fafe" />
+
+* 3 -> C. [Not Correct] [Answer]
+* Less -> Uncountable. [FORMULA]
+* Fewer -> Countable. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1231" height="807" alt="image" src="https://github.com/user-attachments/assets/d38032d1-7e06-4fad-8d48-1117dd38b6cc" />
+
+* 4 -> A. [Not Correct] [Answer]
+* [VERY IMPORTANT]
+
+<img width="1235" height="808" alt="image" src="https://github.com/user-attachments/assets/c618ad50-76f0-4dde-afc8-3e8ecc58a592" />
+
+* One of the issue......
+* 5 -> A. [Not Correct] [Answer]
+* [VERY IMPORTANT]
+
+<img width="1226" height="809" alt="image" src="https://github.com/user-attachments/assets/34c1d5ea-822f-49d0-b5f7-35fdce0f7dda" />
+
+* One of the issues that need addressing...... [OR]
+* The issue that needs addressing is..... [OR]
+* that, which -> Talks about what comes immediately before them. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1233" height="808" alt="image" src="https://github.com/user-attachments/assets/67d2d9ab-0d92-488f-b5ee-968e7fa672fe" />
+<img width="1222" height="798" alt="image" src="https://github.com/user-attachments/assets/da149a25-0ac9-446b-870e-9e3d5d5aead6" />
+
+* 1 -> B.
+* [VERY IMPORTANT]
+
+<img width="1207" height="813" alt="image" src="https://github.com/user-attachments/assets/45a587c4-b675-4fff-8a23-85968a52fbc4" />
+
+* 2 -> B.
+* [VERY IMPORTANT]
+
+<img width="1219" height="819" alt="image" src="https://github.com/user-attachments/assets/aaaef4db-284f-4147-b82b-c0054bea5215" />
+
+* 3 -> D.
+* [VERY IMPORTANT]
+
+<img width="1203" height="808" alt="image" src="https://github.com/user-attachments/assets/f7f056f8-3669-4f1a-87c5-bbf9f1bb35bc" />
+<img width="1205" height="806" alt="image" src="https://github.com/user-attachments/assets/6940698a-d332-478c-959d-052f3eb060e5" />
+
+* [VERY IMPORTANT]
+* didn't, knew -> Past.
+* know -> Present.
+* If the  helping verb is in the past tense then the main verb is immune to past/present tense. [FORMULA]
+* He did tell me about it. [EXAMPLE]
+* He told me about it.
+* did -> Past -> tell -> present.
+* told -> Past
+
+<img width="1219" height="812" alt="image" src="https://github.com/user-attachments/assets/bf073f67-b235-480e-8240-ce1572df801b" />
+<img width="1212" height="823" alt="image" src="https://github.com/user-attachments/assets/171940a3-ae07-4836-8458-a37ff29d8f53" />
+
+* than -> to/over.
+* 5 -> C.
 
 
 
