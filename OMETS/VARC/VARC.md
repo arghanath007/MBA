@@ -7226,6 +7226,267 @@
 * than -> to/over.
 * 5 -> C.
 
+### Grammar & MCQ
+
+* Grammatical errors -> Read and feel the errors.
+* Grammatical errors -> Most of them are in **verbs**.
+* Verbs -> SVA, tenses.
+
+Checklist:-
+
+1) Verbs -> SVA, tenses.
+2) Prepositions -> Whichever sound correct unless there is an exception.
+3) Articles -> a, an, the.
+4) Modifiers
+5) Parallel construction
+6) 
+
+<img width="795" height="821" alt="image" src="https://github.com/user-attachments/assets/e0af3768-564a-4daf-b8ba-1e0ac399b5a5" />
+<img width="343" height="547" alt="image" src="https://github.com/user-attachments/assets/2353a359-a5d0-4c09-aca2-f1ec0b86aee6" />
+
+* [VERY IMPORTANT]
+
+<img width="1265" height="813" alt="image" src="https://github.com/user-attachments/assets/1aa61f03-671d-445c-870b-5312ea681a4e" />
+
+* Amount -> number.
+* 1 -> A.
+* 2 -> B.
+
+<img width="1243" height="810" alt="image" src="https://github.com/user-attachments/assets/ddb59a26-08ad-4262-a000-9675a9725106" />
+
+* Discuss -> Doesn't take "about". [FORMULA]
+
+<img width="1256" height="820" alt="image" src="https://github.com/user-attachments/assets/6dfe95ef-a1c7-43e8-92e7-e01413854339" />
+
+* I know him.
+* I know something about him.
+
+<img width="1331" height="842" alt="image" src="https://github.com/user-attachments/assets/f38584df-3f0c-401f-a01a-5352ad9cb5d3" />
+<img width="1213" height="788" alt="image" src="https://github.com/user-attachments/assets/f93d2cb3-dd44-4397-80d4-b2f51bf2df2d" />
+
+* Taller -> Comparative.
+* More -> As "taller" there is no need for "more".
+* 3 -> C.
+* 4 -> B.
+
+<img width="1223" height="818" alt="image" src="https://github.com/user-attachments/assets/2a72a2ce-fdc9-4b16-8b48-15bdeda3f76d" />
+
+* 5 -> B.
+* 6 -> B.
+* After **Preposition** -> Noun, pronoun, gerund will come -> Verb will never come. [FORMULA]
+
+<img width="1234" height="810" alt="image" src="https://github.com/user-attachments/assets/a2d23fcb-3385-45a8-8bca-6629177cd6cb" />
+
+* Committee -> Collective noun -> Singular -> has -> Singular. [FORMULA]
+* Have -> Plural.
+* Collective noun -> Collective action -> Singular. [FORMULA]
+* Collective noun -> Individual action -> Plural. [FORMULA]
+
+<img width="306" height="118" alt="image" src="https://github.com/user-attachments/assets/45b8627b-226f-49dc-8775-ac3450fa67fb" />
+
+* Yes.
+
+<img width="1213" height="785" alt="image" src="https://github.com/user-attachments/assets/8b3d93fd-daca-4434-b614-c9e13d63c5ff" />
+
+* 7 -> B.
+* 8 -> E.
+* After **"at"** -> -ing action comes.
+* 9 -> C.
+* Me -> Object.
+* I -> Subject.
+* It is I.
+
+<img width="1406" height="821" alt="image" src="https://github.com/user-attachments/assets/60aa862a-7f52-462c-bcdb-696cca0c29cb" />
+
+* Who is it?
+
+> It is I.
+
+* Who is responsible?
+
+> I am responsible.
+> It is I who is responsible.
+
+<img width="1231" height="800" alt="image" src="https://github.com/user-attachments/assets/c42d88ab-0bb0-4dc7-a1db-e125bb2c5272" />
+
+* Everyone -> Singular -> has -> Singular.
+* have -> Plural.
+* 10 -> B.
+
+<img width="1258" height="814" alt="image" src="https://github.com/user-attachments/assets/3ffa7ee2-db0b-4713-8151-9726c664ceb8" />
+
+* Neither-Nor, Either-Or -> Conjunction. [FORMULA]
+* Neither, Either -> Pronoun. [FORMULA]
+* Nor, Or -> Conjunction. [FORMULA]
+* Either, Neither -> '2' alternatives. [FORMULA]
+* None, any -> More than '2' alternatives. [FORMULA]
+
+<img width="1146" height="792" alt="image" src="https://github.com/user-attachments/assets/a8a6154e-cff9-4bd5-9d1c-919045643644" />
+<img width="1163" height="813" alt="image" src="https://github.com/user-attachments/assets/fdeedcd3-d5f7-4ee4-a843-8cf358fb51e0" />
+
+* Neither of the options was....
+* None of the options were....
+
+<img width="849" height="779" alt="image" src="https://github.com/user-attachments/assets/e0350478-679c-45c7-ad69-8ed14564cdab" />
+<img width="1201" height="601" alt="image" src="https://github.com/user-attachments/assets/6a20bc9f-276a-4deb-b9fc-7dd9f00630ca" />
+<img width="1367" height="785" alt="image" src="https://github.com/user-attachments/assets/d17dc4d1-7b48-42a8-94de-5d0ef36a1cc5" />
+
+* Depends on the subject. [FORMULA]
+
+<img width="1241" height="830" alt="image" src="https://github.com/user-attachments/assets/8f905dc3-0636-46b7-b92c-e6571777c6c9" />
+
+* A number -> Plural. [FORMULA]
+* The number -> A/One fixed number -> Singular -> has -> Singular. [FORMULA]
+* 2 -> B.
+
+<img width="1236" height="805" alt="image" src="https://github.com/user-attachments/assets/0bc8eb2f-0be0-4ff3-8c2f-49aad2cf715d" />
+
+* For -> Time period -> Duration. [FORMULA]
+* Since -> A specific point in time -> Date, month, year, week. [FORMULA]
+* 4 -> C.
+
+<img width="1226" height="818" alt="image" src="https://github.com/user-attachments/assets/3a0d6e47-e17a-4298-8f42-ee813b6cc2a0" />
+
+* .... since the last two months. [Correct]
+* ....for two months. [Correct]
+
+<img width="1208" height="793" alt="image" src="https://github.com/user-attachments/assets/cb1cba5e-c77e-4843-a0d3-8567790d9475" />
+
+* 5 -> C.
+* Insisted -> Imperative -> Should be.
+
+<img width="1238" height="812" alt="image" src="https://github.com/user-attachments/assets/e39ad359-84bf-4f36-ba20-9d25bafd2d37" />
+<img width="1227" height="796" alt="image" src="https://github.com/user-attachments/assets/a958e13f-d3e2-4b51-b215-63f1a2c20d76" />
+
+* After **"considered"** -> Need not take **"as"**. [FORMULA]
+* After **"comprises"** -> **"of"** is implied. [FORMULA]
+* After **"discuss"** -> **"about"** is implied. [FORMULA]
+* 6 -> B.
+* 7 -> B.
+
+<img width="1238" height="805" alt="image" src="https://github.com/user-attachments/assets/570d21c0-2d09-4105-af9e-f713e6ecc001" />
+
+* THe CFO -> Subject -> Singular.
+* with/along the heads of units -> Additional, no need to count them.
+* has -> Singular.
+* have -> Plural.
+
+<img width="1231" height="814" alt="image" src="https://github.com/user-attachments/assets/e69ac94b-1674-453d-8bd2-f487734fba24" />
+
+* One -> is.
+* that -> ideas.
+* 9 -> B.
+* [VERY IMPORTANT]
+
+<img width="1233" height="808" alt="image" src="https://github.com/user-attachments/assets/9d8432fa-d541-45bb-acde-0dd99b261994" />
+
+* Either -> Subject -> Singular.
+* is -> Singular.
+* are -> Plural.
+
+<img width="1257" height="810" alt="image" src="https://github.com/user-attachments/assets/4aae0e92-28be-4908-bacd-b4db2f492150" />
+<img width="1217" height="797" alt="image" src="https://github.com/user-attachments/assets/566deb80-5318-4a5c-9425-ba1fa20f82b8" />
+
+* 1 -> C.
+* No-Sooner, Rather -> Than. [FORMULA]
+* Hardly, Scarcely -> When. [FORMULA]
+
+<img width="1206" height="809" alt="image" src="https://github.com/user-attachments/assets/0534be4b-abcf-4535-9e53-5c71c0d1faa0" />
+
+* Inverted construction.
+
+<img width="421" height="102" alt="image" src="https://github.com/user-attachments/assets/1fe8a0ce-c48d-414c-a3ec-e6aa201159d6" />
+
+* Yes.
+
+<img width="1186" height="801" alt="image" src="https://github.com/user-attachments/assets/b0cd78c7-d24a-4403-bd0b-f576d354e79d" />
+
+* Essential -> Imperative -> Should be.
+* 2 -> C.
+* 3 -> C.
+* If -> Will.
+* Not an universal truth.
+
+<img width="1203" height="807" alt="image" src="https://github.com/user-attachments/assets/ccccab08-0d35-4ba3-9b17-18d9354b033f" />
+<img width="1421" height="816" alt="image" src="https://github.com/user-attachments/assets/e9a6fb8f-0809-4f5f-8612-f9a0a86c682d" />
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/32f4bbcc-03ca-4c7c-a7fe-55e9fefe2103" />
+<img width="1438" height="830" alt="image" src="https://github.com/user-attachments/assets/4cd48035-fbbd-4a06-bbed-d68d65d560bf" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="1221" height="803" alt="image" src="https://github.com/user-attachments/assets/e820c4c1-130c-48a1-8e6a-b38e9938aea5" />
+
+* 4 -> E.
+* Complete -> Adjective.
+* Completed -> Passive voice.
+* Not -> Did.
+* Did -> Helping verb.
+* Not -> Inversion/Negative word.
+
+<img width="1241" height="816" alt="image" src="https://github.com/user-attachments/assets/5efe2e66-e8de-41df-a279-86424443acf6" />
+
+* Not until I reached home did I get to know about the meeting. [Correct]
+* Until I reached home I did not get to know about the meeting. [Correct]
+
+<img width="1247" height="816" alt="image" src="https://github.com/user-attachments/assets/933b6d39-ccea-4480-b287-913a5fd74e1e" />
+<img width="1248" height="805" alt="image" src="https://github.com/user-attachments/assets/5a87e388-989a-46c4-b128-667980f95210" />
+
+* 5 -> C.
+
+<img width="1161" height="807" alt="image" src="https://github.com/user-attachments/assets/664e9aaa-8475-453d-b0dc-5234d6038d2c" />
+
+* No fewer than.....
+* Participants -> Plural -> Countable -> Fewer -> Countable. [FORMULA]
+* Less -> Uncountable. [FORMULA]
+
+<img width="1165" height="823" alt="image" src="https://github.com/user-attachments/assets/b4fcbcf8-836d-4712-9001-aff5efd20fcf" />
+
+* Much -> Uncountable. [FORMULA]
+* Many -> Countable. [FORMULA]
+* 6 -> B.
+* 7 -> 'C' OR 'E' -> Depends on the rules.
+* Criteria -> Plural. [FORMULA]
+* Criterian -> Singular [FORMULA]
+
+<img width="1181" height="816" alt="image" src="https://github.com/user-attachments/assets/e1a18244-754b-4487-a87f-a8c61ff66d93" />
+<img width="1145" height="632" alt="image" src="https://github.com/user-attachments/assets/8bf01891-80c3-409b-997e-e7f539c9574a" />
+
+* [VERY IMPORTANT]
+
+<img width="1238" height="818" alt="image" src="https://github.com/user-attachments/assets/5a090a1a-f727-4641-be39-db48c69ccb8c" />
+
+* After **"Different"** -> It takes **"from"**.  [FORMULA]
+* B -> B.
+* the one -> pronoun/singular.
+* The proposal is -> the one -> Singular. [FORMULA]
+* The proposals are -> the ones -> Plural. [FORMULA]
+
+<img width="1225" height="812" alt="image" src="https://github.com/user-attachments/assets/9d95cdc7-bb83-4a9d-80ba-3496a1246b9a" />
+
+* 9 -> B.
+* Between -> '2' people. [FORMULA]
+* Among -> More than '2' people. [FORMULA]
+
+<img width="1232" height="814" alt="image" src="https://github.com/user-attachments/assets/bcb67d3a-1cbe-469f-9207-70866baf17e2" />
+<img width="1225" height="818" alt="image" src="https://github.com/user-attachments/assets/d6b6d191-9d31-456c-b078-a20c46fa64fd" />
+
+* 10 -> A.
+* Emerging technologies -> Plural -> are -> Plural.
+* like -> Such as.
+* Such as is much better.
+* [VERY IMPORTANT]
+
+<img width="1229" height="811" alt="image" src="https://github.com/user-attachments/assets/89e57b1e-a36d-4eaa-ba06-81b720c738ab" />
+
+* Like -> Similarities -> Objects like paper, pencil etc. [FORMULA]
+* Such as -> Examples -> . [FORMULA]
+
+#### PJs.
+
+
+
+
+
 
 
 
