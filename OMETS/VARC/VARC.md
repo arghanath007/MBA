@@ -7543,6 +7543,319 @@ Checklist:-
 
 ### Mixed VA Practice
 
+#### Grammar
+
+<img width="1435" height="927" alt="image" src="https://github.com/user-attachments/assets/a8847399-008e-4da3-a809-16b3cdde5f7e" />
+
+* Has -> Singular.
+* Subject -> Suite -> Singular.
+
+<img width="1395" height="578" alt="image" src="https://github.com/user-attachments/assets/58f71c1f-278d-4152-a6c2-95ac331d9364" />
+<img width="1441" height="913" alt="image" src="https://github.com/user-attachments/assets/c2c1bde6-b54e-4c80-8840-088d03024c9b" />
+
+* That -> Used for anything -> Restrictive clause -> Sentence is incomplete without **"that"** clause or phrase. [FORMULA]
+* Which -> Non-restrictive clause -> Extra information in **"which"** clause or phrase. [FORMULA]
+
+<img width="1424" height="808" alt="image" src="https://github.com/user-attachments/assets/efc63655-fb61-435a-8f64-b271a052cbe5" />
+
+* [VERY IMPORTANT]
+* The imaging technique ___ has now been adopted worldwide. [Sentence is incomplete -> Restrictive clause -> That]
+* The book, which is red in color, is mine.
+*  which is red in color -> Extra/non-important information -> Non-restrictive clause
+*  The book is mine -> Important information.
+
+<img width="1440" height="908" alt="image" src="https://github.com/user-attachments/assets/391b3abf-04f2-480e-9154-3b172e13b230" />
+<img width="814" height="379" alt="image" src="https://github.com/user-attachments/assets/f1148b43-ae95-4066-8534-bed61d4ea39d" />
+<img width="823" height="387" alt="image" src="https://github.com/user-attachments/assets/81fa3bd5-150e-4430-b2df-7c7b49be70d6" />
+
+* With **"to"** -> "to" + base form.
+
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/9a07a8ef-5fec-48f4-82b2-484bd2aaaa9a" />
+<img width="1161" height="393" alt="image" src="https://github.com/user-attachments/assets/81503531-998e-42f9-bd4a-37321b268cd3" />
+<img width="1152" height="363" alt="image" src="https://github.com/user-attachments/assets/7cf6e6c1-6aae-4c44-9cab-0218599db2d4" />
+
+* Each -> Singular.
+* D -> Not the correct possessive pronoun.
+* [VERY IMPORTANT]
+
+<img width="1437" height="909" alt="image" src="https://github.com/user-attachments/assets/2618c3ff-4dae-4090-b8e0-628c6b31f54f" />
+<img width="208" height="74" alt="image" src="https://github.com/user-attachments/assets/e3271b5c-290a-4cb6-8770-05a03dbaa853" />
+<img width="1400" height="445" alt="image" src="https://github.com/user-attachments/assets/5785ed12-4c15-483b-9909-a1fb35dd32c0" />
+
+* Team -> Definite/specific group -> The. 
+* Yes.
+* Our -> Possession.
+
+<img width="1437" height="920" alt="image" src="https://github.com/user-attachments/assets/ac8152ab-b23a-4728-9121-fa7fcb541a09" />
+<img width="1395" height="445" alt="image" src="https://github.com/user-attachments/assets/ec4f65a4-1e22-48f9-be39-a5a44d7fb436" />
+
+* Parallelism.
+* [VERY IMPORTANT]
+
+<img width="1437" height="915" alt="image" src="https://github.com/user-attachments/assets/d8ae1f60-6e0f-41ef-8bfc-3ffdb80620a9" />
+
+* Researchers -> Plural
+* Tense -> Past Perfect.
+* 2 actions in past -> '1' action in simple past & '1' action in past perfect.
+* Reached -> Action '1'.
+* had mapped -> Action '2'.
+
+<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/65ebfaf1-610b-4bef-b32e-248db49b6916" />
+
+* [VERY IMPORTANT]
+
+<img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/a195728e-6db2-4f58-b48b-20a21110faca" />
+
+* Subjunctive ,base form of verb
+* Insists -> Subjunctive.
+
+<img width="1018" height="420" alt="image" src="https://github.com/user-attachments/assets/7cc8e1dd-2348-4e42-af21-665315c0bf41" />
+<img width="1397" height="458" alt="image" src="https://github.com/user-attachments/assets/d4817e1c-7142-4bf9-a1d8-a83315886a2f" />
+
+* [VERY IMPORTANT]
+
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/36625de0-e788-45b8-95f6-984ab5da56d4" />
+<img width="1419" height="820" alt="image" src="https://github.com/user-attachments/assets/fc647c2d-3489-4b42-9ecd-fe98ae5aae66" />
+
+* Split -> Individual members of a committee -> Plural..
+* Answer -> Option **B** -> are, their.
+* [VERY IMPORTANT]
+
+<img width="1437" height="916" alt="image" src="https://github.com/user-attachments/assets/3ee7bf73-48a9-40a7-9c68-d2713b38e660" />
+<img width="783" height="375" alt="image" src="https://github.com/user-attachments/assets/280a39bf-ffdc-4b5d-8dce-7a8be1b62300" />
+<img width="783" height="390" alt="image" src="https://github.com/user-attachments/assets/72ffa481-8f97-4400-a81f-143cdf3f8547" />
+
+* Idiomatic usage.
+
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/c73c411d-dd22-43d8-8f72-fb3cf4832c26" />
+<img width="994" height="364" alt="image" src="https://github.com/user-attachments/assets/c14072bf-e574-43f8-862c-df1508d180f6" />
+<img width="1434" height="917" alt="image" src="https://github.com/user-attachments/assets/4f240a81-14d9-463f-bb62-b366786bd7d6" />
+<img width="770" height="376" alt="image" src="https://github.com/user-attachments/assets/b814b8b4-71c2-4615-8f6e-978c01fafb1d" />
+<img width="1437" height="904" alt="image" src="https://github.com/user-attachments/assets/716cd543-d997-42aa-96d8-ec3c36a672c4" />
+<img width="1128" height="451" alt="image" src="https://github.com/user-attachments/assets/8e2d724e-6f10-4858-bb35-3c93bfb94f07" />
+
+* Every -> Singular -> it -> Singular. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1439" height="904" alt="image" src="https://github.com/user-attachments/assets/437c3f8d-4bc0-4a37-8ebb-14c720b95b11" />
+<img width="861" height="457" alt="image" src="https://github.com/user-attachments/assets/3dd663fb-285b-45e5-8d4f-4115799db6c6" />
+<img width="793" height="369" alt="image" src="https://github.com/user-attachments/assets/1801add9-aac4-4810-86e0-85a0e2e1b041" />
+
+* Innovative -> an.
+* [VERY IMPORTANT]
+
+<img width="1441" height="918" alt="image" src="https://github.com/user-attachments/assets/99fca767-462d-47ef-bc05-9578d36a5952" />
+<img width="819" height="374" alt="image" src="https://github.com/user-attachments/assets/67f5eb03-a753-4b3d-a1a5-359baf135cf4" />
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/a9b863e4-2d2d-4ec8-aaa2-fc1c776c2a42" />
+<img width="1256" height="470" alt="image" src="https://github.com/user-attachments/assets/8e8a3c56-7460-4caa-aa10-b85613938465" />
+
+* Parallelism.
+
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/f668fff8-55ce-43b3-97eb-aa4c11d18f3e" />
+<img width="1407" height="804" alt="image" src="https://github.com/user-attachments/assets/c4580209-b343-4076-b141-24f6da7d8bfb" />
+<img width="1398" height="526" alt="image" src="https://github.com/user-attachments/assets/2ddbbfdb-2148-4fe9-9f86-e32324c95856" />
+
+* If -> hypothetical case -> Were. [FORMULA]
+* Will -> Changed to **"would"**.  [FORMULA]
+* Can -> Changed to **"could"**.  [FORMULA]
+* Shall -> Changed to **"should"**.  [FORMULA]
+* may -> Changed to **"might"**.  [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1437" height="925" alt="image" src="https://github.com/user-attachments/assets/fb38ecd9-bade-4358-9b04-409bf9c0f0fd" />
+<img width="1401" height="809" alt="image" src="https://github.com/user-attachments/assets/8c63dd80-7fc8-4134-8fc3-104f9f3c4368" />
+
+* Gerund -> -ing form of verb used as a noun(subject) in a sentence. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1440" height="919" alt="image" src="https://github.com/user-attachments/assets/3592946e-bc6e-4e94-a5fa-14529e6b3f73" />
+<img width="926" height="439" alt="image" src="https://github.com/user-attachments/assets/5f3bf11c-bf33-4897-abda-54ad00885937" />
+<img width="1204" height="536" alt="image" src="https://github.com/user-attachments/assets/a3951f16-7fc7-4da2-ab18-02365095c275" />
+
+* Which.
+* That -> Restrictive clause.
+* [VERY IMPORTANT]
+
+<img width="1441" height="921" alt="image" src="https://github.com/user-attachments/assets/23e332d7-be5d-4839-9d52-b0c827833b91" />
+<img width="1020" height="396" alt="image" src="https://github.com/user-attachments/assets/0e986a62-c3ae-4c78-8e25-c33f869a9aa4" />
+<img width="976" height="358" alt="image" src="https://github.com/user-attachments/assets/3bba1c39-18af-443e-b0ce-e59ff468a264" />
+
+* Neither, Either -> Singular.  [FORMULA]
+* Neither-Nor -> Verb agrees to the nearest one. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1115" height="523" alt="image" src="https://github.com/user-attachments/assets/fa5e543d-8b30-46cf-a68a-9c2b11482c83" />
+
+* Variations -> are.
+
+#### Confusable words
+
+* Correct & incorrect both come.
+
+<img width="1436" height="924" alt="image" src="https://github.com/user-attachments/assets/02f9e6e1-b830-4461-8a98-25505b51800b" />
+<img width="1413" height="811" alt="image" src="https://github.com/user-attachments/assets/c1ed36a4-2675-4591-8309-6b24cc9ddee0" />
+
+* Assure -> Comfort someone. [MEANING]
+* Ensure -> Make certain, gurantee, recheck. [MEANING] 
+* Insure -> Provide insurance. [MEANING]
+
+<img width="1422" height="833" alt="image" src="https://github.com/user-attachments/assets/de9cc747-2516-4138-8808-1470287a874d" />
+<img width="1438" height="910" alt="image" src="https://github.com/user-attachments/assets/9bb60430-d275-4aeb-b11f-c5dc6b0d5448" />
+
+* Stationery -> School supplies, Writing material. [MEANING]
+* Stationary -> Not moving. [MEANING]
+* C -> Contradictory.
+
+<img width="1423" height="811" alt="image" src="https://github.com/user-attachments/assets/ff1c0c5f-96e6-44ad-be3a-f2ed4179ded2" />
+
+* [VERY IMPORTANT]
+
+<img width="439" height="75" alt="image" src="https://github.com/user-attachments/assets/5e011e86-54e9-44ee-b0f1-4ecd66164f88" />
+
+* Sentence '3' is unstable.
+
+<img width="1441" height="915" alt="image" src="https://github.com/user-attachments/assets/d10d434b-824a-4430-887b-a4d72cdb70fb" />
+
+* Disinterested -> Unbiased, boring, neutral, fair.  [MEANING]
+* Uninterested -> Not interested.   [MEANING]
+
+<img width="1428" height="825" alt="image" src="https://github.com/user-attachments/assets/aa44a2a1-f16a-43b9-a4f8-489e0de7318a" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="910" alt="image" src="https://github.com/user-attachments/assets/69e01ca0-2e59-4f08-aaf6-129fa2e2a03e" />
+
+* Principal -> Chief, Person. [MEANING]
+* Principle -> Rules, morals. [MEANING]
+
+<img width="1404" height="789" alt="image" src="https://github.com/user-attachments/assets/cd3bbe5c-cde2-4529-b4a0-892afdd5e8a9" />
+
+* [VERY IMPORTANT] 
+
+<img width="345" height="71" alt="image" src="https://github.com/user-attachments/assets/5fd9f421-c265-42e0-87e7-cf474eae4576" />
+
+* Yes.
+
+<img width="1438" height="905" alt="image" src="https://github.com/user-attachments/assets/8ca26003-737d-4165-b7e6-da617489fc0f" />
+
+* Historic -> Something important or landmark. [MEANING]
+* Historical -> Belonging to the past. [MEANING]
+* Histrionics -> Theatrics -> Drama related or dramatic. [MEANING]
+
+<img width="1416" height="804" alt="image" src="https://github.com/user-attachments/assets/f04f763c-1899-4b75-beab-e068ce14e6f6" />
+
+* [VERY IMPORTANT] 
+
+<img width="1433" height="914" alt="image" src="https://github.com/user-attachments/assets/44a98ff3-ea3c-4c79-9a98-ef2040d9459c" />
+
+* Fewer -> Countable. [FORMULA]
+* Less -> Uncountable. [FORMULA]
+
+<img width="344" height="66" alt="image" src="https://github.com/user-attachments/assets/5cefda62-75d1-4a61-bc4a-0348075da549" />
+
+* Yes.
+
+<img width="1095" height="642" alt="image" src="https://github.com/user-attachments/assets/521669ce-5739-43e3-a38a-263e54faf2ae" />
+
+#### Sentence Arrangement
+
+<img width="1432" height="911" alt="image" src="https://github.com/user-attachments/assets/fc43e082-9ab3-42e3-9b59-6dcf3a18cbf9" />
+<img width="986" height="439" alt="image" src="https://github.com/user-attachments/assets/c238ae38-ca26-45cf-a425-dc924484fe3a" />
+<img width="1437" height="920" alt="image" src="https://github.com/user-attachments/assets/7f9246b8-2168-431b-977e-3f4a5d08395f" />
+
+* [VERY IMPORTANT] 
+
+<img width="689" height="362" alt="image" src="https://github.com/user-attachments/assets/0ddef76f-701b-468d-a2da-90b5dbef6edd" />
+
+* Answer -> Option **A** -> PQRS.
+
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/4d655f0c-8fa8-42b3-a0a4-8e3a478b115f" />
+
+* [VERY IMPORTANT]
+* Q -> R.
+* Answer -> Option **A** -> PQRS.
+
+<img width="1102" height="531" alt="image" src="https://github.com/user-attachments/assets/d9fa2bd0-b9f7-460e-8d61-dbf6096e01bb" />
+<img width="1443" height="917" alt="image" src="https://github.com/user-attachments/assets/926dffd0-4e0b-4b90-a4b8-89b6df744956" />
+<img width="610" height="458" alt="image" src="https://github.com/user-attachments/assets/3cc642c3-c642-43aa-8ae1-c26ade4750ed" />
+
+* [VERY IMPORTANT]
+* Answer -> QRSP.
+
+<img width="156" height="102" alt="image" src="https://github.com/user-attachments/assets/2d2885a2-b384-4d8e-9d34-619e1caf8586" />
+
+* Yes.
+
+<img width="664" height="485" alt="image" src="https://github.com/user-attachments/assets/8eee53a6-aa4d-4c23-8235-f9dee3fba6d2" />
+<img width="681" height="393" alt="image" src="https://github.com/user-attachments/assets/856e2aaa-0992-4240-abd0-da781a92db3e" />
+
+* PQRS. [Answer]
+
+<img width="947" height="419" alt="image" src="https://github.com/user-attachments/assets/f75d0ede-bad0-4729-88bf-c26d4d2ab49b" />
+<img width="723" height="401" alt="image" src="https://github.com/user-attachments/assets/fe31c5fb-1023-4d2c-8d5d-ab80f8ab222c" />
+
+* PRQS.
+
+<img width="807" height="443" alt="image" src="https://github.com/user-attachments/assets/4fc72bff-18c2-4f50-9498-fe9ca37552eb" />
+<img width="957" height="487" alt="image" src="https://github.com/user-attachments/assets/cb2dcd05-d16a-47d0-a4cb-f67c87859f4e" />
+
+* R -> S.
+* Answer -> Option **A** ->  PQRS.
+
+<img width="902" height="468" alt="image" src="https://github.com/user-attachments/assets/5e58ab38-181a-432e-bf94-a910b2f07edb" />
+
+#### One Word Substitutions
+
+<img width="857" height="426" alt="image" src="https://github.com/user-attachments/assets/3ba5dee8-b924-438c-ab27-f1af776b374f" />
+<img width="796" height="339" alt="image" src="https://github.com/user-attachments/assets/e2065d26-f958-452c-873c-bfd4475299e9" />
+
+* A
+
+<img width="742" height="288" alt="image" src="https://github.com/user-attachments/assets/4c79552d-2127-4b8c-9733-9c54155c27d2" />
+
+* C. [Answer] [VERY IMPORTANT]
+
+<img width="773" height="353" alt="image" src="https://github.com/user-attachments/assets/c099d72d-bc8c-4690-ba92-cece78900b51" />
+
+* Clergy -> Priest. [MEANING]
+* Cracy -> Government. [MEANING]
+* Theo -> God. [MEANING]
+* C. [Answer]
+
+<img width="951" height="705" alt="image" src="https://github.com/user-attachments/assets/be0342ff-a2b3-40cc-a5b5-c17c196d0ca8" />
+<img width="874" height="670" alt="image" src="https://github.com/user-attachments/assets/2095a4ee-f6c1-4123-812f-f81325ca2a2e" />
+<img width="747" height="266" alt="image" src="https://github.com/user-attachments/assets/53681d75-ce21-439b-9c22-8bfc95b88b49" />
+<img width="843" height="340" alt="image" src="https://github.com/user-attachments/assets/9b609763-40a8-4bdb-b9b3-e53374ad7660" />
+
+* Iconoclast, Maverick -> Synonymes sortof.
+* A. [Answer] [VERY IMPORTANT]
+
+<img width="887" height="354" alt="image" src="https://github.com/user-attachments/assets/9309dcf9-cdd1-4d63-baeb-2007dfc68e3e" />
+<img width="1394" height="438" alt="image" src="https://github.com/user-attachments/assets/28d064c0-3102-4bb3-bb7f-d7cd23214f80" />
+
+* Nostrum -> Quack, fraud
+* A. [Answer] [VERY IMPORTANT]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
