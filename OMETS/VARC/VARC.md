@@ -7483,6 +7483,94 @@ Checklist:-
 
 #### PJs.
 
+<img width="1432" height="913" alt="image" src="https://github.com/user-attachments/assets/0a24ac03-923d-406c-9207-78b51e782be4" />
+
+* B -> D.
+
+<img width="1394" height="789" alt="image" src="https://github.com/user-attachments/assets/72675909-ca89-491d-b6fe-c3cb71d91135" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="908" alt="image" src="https://github.com/user-attachments/assets/6b4bc7d6-ab1e-4ac2-9c4a-cc63b9d2dec3" />
+
+* C -> B.
+
+<img width="1399" height="787" alt="image" src="https://github.com/user-attachments/assets/1cf30509-c6ec-4300-9888-a4ac37c4704b" />
+<img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/f780cfb9-7577-4595-89aa-7e2dc5307b7f" />
+
+* [VERY IMPORTANT]
+
+<img width="1435" height="923" alt="image" src="https://github.com/user-attachments/assets/52e062c8-7f98-40af-860b-b2f2dc35389b" />
+<img width="1420" height="793" alt="image" src="https://github.com/user-attachments/assets/7a1c5f8b-cb4f-4d3f-be70-04de63fd419e" />
+<img width="1416" height="794" alt="image" src="https://github.com/user-attachments/assets/dd0d5ba3-c545-4eab-ae8d-2b469632c447" />
+
+* Broad -> Narrow.
+
+<img width="1436" height="909" alt="image" src="https://github.com/user-attachments/assets/59bc4cbb-9c90-480b-80c5-ac2739e76639" />
+<img width="1437" height="812" alt="image" src="https://github.com/user-attachments/assets/b24c7e81-7f1a-46d8-8f70-508fceefcccc" />
+<img width="1415" height="812" alt="image" src="https://github.com/user-attachments/assets/1d881482-8166-40d5-8c57-74665ba143ad" />
+<img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/d1c9e662-8c66-41ed-b864-8998d3f9483c" />
+<img width="1441" height="927" alt="image" src="https://github.com/user-attachments/assets/48a57fac-0493-4839-b82d-b7007f71a24d" />
+<img width="1438" height="916" alt="image" src="https://github.com/user-attachments/assets/b4625f51-1f0b-4377-bf27-4ae077b48c08" />
+<img width="1423" height="818" alt="image" src="https://github.com/user-attachments/assets/f83b4248-35f1-411d-a9b1-17e0eb55a31c" />
+<img width="1431" height="804" alt="image" src="https://github.com/user-attachments/assets/bde0e2ee-2fd2-4778-b7e5-75655646cb37" />
+<img width="1417" height="819" alt="image" src="https://github.com/user-attachments/assets/b4dba4f5-b2e1-4683-8244-984199dbf86d" />
+
+* D -> C.
+* Social behavior -> Social fact
+
+<img width="1428" height="906" alt="image" src="https://github.com/user-attachments/assets/af84c90a-09cb-4c15-abe2-c045b355aa4a" />
+<img width="1423" height="774" alt="image" src="https://github.com/user-attachments/assets/4bb76319-45fc-4a97-894c-aebb8c44a6dd" />
+<img width="1430" height="887" alt="image" src="https://github.com/user-attachments/assets/2f10f73e-6863-43d6-8fbd-d73535713d9c" />
+
+* [VERY IMPORTANT]
+* A -> Introductory.
+
+<img width="1425" height="800" alt="image" src="https://github.com/user-attachments/assets/637476fa-9a00-4136-be27-56996cd2c869" />
+<img width="1438" height="900" alt="image" src="https://github.com/user-attachments/assets/a2089a6f-0c58-4f81-9b1d-0d74cee4d154" />
+<img width="1430" height="812" alt="image" src="https://github.com/user-attachments/assets/75d3f833-a88d-4086-ba26-3bc6f4d85f97" />
+
+* C -> A.
+* [VERY IMPORTANT]
+
+<img width="1441" height="903" alt="image" src="https://github.com/user-attachments/assets/dc530bf8-df66-403b-adfc-e6c5d55e01e9" />
+<img width="1429" height="811" alt="image" src="https://github.com/user-attachments/assets/0997037c-f1ce-44b0-936c-d117a82c51a7" />
+<img width="1424" height="819" alt="image" src="https://github.com/user-attachments/assets/168b4ad6-882a-4ee5-9f92-7e777ba834cd" />
+
+* B -> F.
+* interest -> attentive.
+* [VERY IMPORTANT]
+
+### Mixed VA Practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
