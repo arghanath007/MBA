@@ -5,7 +5,7 @@
 <img width="512" height="733" alt="image" src="https://github.com/user-attachments/assets/c38e1a68-e074-4997-b7dc-26540043603a" />
 <img width="593" height="240" alt="image" src="https://github.com/user-attachments/assets/9bddb00a-d61d-47ba-a94f-376931fcff20" />
 
-## CAT
+## CAT [DONE]
 
 * CAT 25 -> 30/11/25 -> 12:30PM to 2:30PM -> Slot 2 -> TCS Gito Bitan.
 
@@ -15,7 +15,7 @@
 
 * SNAP 25:-
 
-1) SNAP Test 1 - 06-December-2025 (Saturday)
+1) SNAP Test 1 - 06-December-2025 (Saturday) [DONE]
 2) SNAP Test 2 - 14-December-2025 (Sunday)
 3) SNAP Test 3 - 20-December-2025 (Saturday)
 
@@ -36,6 +36,11 @@
 
 * NMAT
 
+<img width="434" height="558" alt="image" src="https://github.com/user-attachments/assets/accbc9bd-808f-4acc-a549-4503baff7b77" />
+
+* Expected questions.
+
 <img width="791" height="203" alt="image" src="https://github.com/user-attachments/assets/aef19063-c0ea-4b7e-8fba-6a6f9e3e6dba" />
 
 * 16 Dec 2025 12:00 PM. [Check again at the end of Nov if new dates have come or not]
+
