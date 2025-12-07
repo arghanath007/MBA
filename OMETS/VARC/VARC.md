@@ -8172,16 +8172,143 @@ Checklist:-
 
 * Yes.
 
+<img width="1417" height="809" alt="image" src="https://github.com/user-attachments/assets/e32577d2-ba32-4b69-abd3-c318fa09d461" />
+<img width="1439" height="921" alt="image" src="https://github.com/user-attachments/assets/87d643ec-1d20-4dfb-8a98-e92eb20beb8d" />
+<img width="1416" height="818" alt="image" src="https://github.com/user-attachments/assets/a4f3de25-5396-4a5a-9af0-ba8788d21e49" />
 
+* [VERY IMPORTANT]
 
+<img width="1440" height="915" alt="image" src="https://github.com/user-attachments/assets/a85a9d10-29fa-466f-b434-1a3f9ba8a365" />
+<img width="1407" height="805" alt="image" src="https://github.com/user-attachments/assets/f7171c7f-cd4c-4fd8-a1c4-914ac5dd43ce" />
 
+* Moral -> Ethics. [MEANING]
+* Morale -> Spirit, enthusiasm. [MEANING]
 
+<img width="1410" height="798" alt="image" src="https://github.com/user-attachments/assets/e3231baf-43b4-4827-b2bc-0f3d26637df1" />
+<img width="1433" height="914" alt="image" src="https://github.com/user-attachments/assets/d77b7165-1807-4ba4-9092-bfee88287078" />
 
+* [VERY IMPORTANT]
+* Contrite -> Feeling guilty, being sorry. [MEANING]
+* Fulsome -> Insincere, excessive, flattery. [MEANING]
+* Laconic -> Use of few words, concise. [MEANING]
+* Perfunctory -> Done without interest or sincerity. [MEANING]
 
+<img width="1413" height="801" alt="image" src="https://github.com/user-attachments/assets/c8f234d4-45a8-441e-ba94-e288fc0efaef" />
 
+* [VERY IMPORTANT]
 
+<img width="1441" height="908" alt="image" src="https://github.com/user-attachments/assets/b90d89f9-ff31-490f-9382-94064d7284d4" />
+<img width="837" height="350" alt="image" src="https://github.com/user-attachments/assets/534c44d7-eb6c-42e7-9306-ff848ec87392" />
+<img width="1438" height="912" alt="image" src="https://github.com/user-attachments/assets/e288c86a-5113-41e5-b70a-4ccdcc3399bc" />
 
+* Ambivalence -> Mixed feelings, Talking from both sides. [MEANING]
+* Bravado -> Boldness, showoff bravery. [MEANING]
+* Caprice -> Sudden changes, Volatile. [MEANING]
+* Levity -> Humorous, lightness [MEANING]
 
+<img width="1424" height="804" alt="image" src="https://github.com/user-attachments/assets/714ed404-549e-4e52-8038-930d24227e43" />
+<img width="1442" height="914" alt="image" src="https://github.com/user-attachments/assets/c92f9f62-1d75-4014-8109-d08b82a046ac" />
+
+* [VERY IMPORTANT]
+* Pellucid -> Clear, lucid. [MEANING]
+* Intractable -> Difficult to control. [MEANING]
+* Epigrammatic -> Witty. [MEANING]
+* Obsolescent -> Outdated. [MEANING]
+
+<img width="1410" height="800" alt="image" src="https://github.com/user-attachments/assets/a93d0eb2-b091-41b0-bd03-d7dace0f563a" />
+
+#### Idioms
+
+<img width="1438" height="907" alt="image" src="https://github.com/user-attachments/assets/caefcf29-b8ca-425a-825b-2683e284e1d0" />
+<img width="1416" height="809" alt="image" src="https://github.com/user-attachments/assets/97b8594f-e09c-4a0d-ada0-6540a5cc9447" />
+
+* Changed the rules
+* C, D -> Literal, not idiomatic use.
+
+<img width="1440" height="909" alt="image" src="https://github.com/user-attachments/assets/6ffa3c2d-bd09-480c-9836-70d2dd125cbe" />
+<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/7fda57d4-2e91-4d9b-a828-2f998ebfacab" />
+
+* [VERY IMPORTANT]
+* Allude -> Refer indirectly.  [MEANING]
+* Elude -> Escape. [MEANING]
+* Elide -> Omit. [MEANING]
+* Allied(Ally) -> United with. [MEANING]
+* Ally -> Noun.
+* Allusion -> Noun.
+
+<img width="1418" height="809" alt="image" src="https://github.com/user-attachments/assets/07093e26-b276-4a6a-bb87-aaf6e486c1e4" />
+
+* During the keynote, the researcher elided the important data. [Correct]
+
+<img width="1440" height="909" alt="image" src="https://github.com/user-attachments/assets/16ffad19-1671-4926-9241-2e1e38ed75cf" />
+<img width="1428" height="805" alt="image" src="https://github.com/user-attachments/assets/a09477a5-e7e6-4435-94a3-e7c2411064d0" />
+
+* Discrete -> Separate, distinct.
+* Discreet -> Careful, cautious, secretly.
+* [VERY IMPORTANT]
+
+#### Analogies
+
+<img width="1438" height="910" alt="image" src="https://github.com/user-attachments/assets/74d4ef81-2bb6-4720-a09b-e5e84e37e226" />
+<img width="1409" height="811" alt="image" src="https://github.com/user-attachments/assets/9eb29a19-66e4-4259-876d-8ff346e53609" />
+
+* Alveoli -> Air sacks. [MEANING]
+
+<img width="1441" height="918" alt="image" src="https://github.com/user-attachments/assets/ce5636a7-9875-4f9a-9ce6-4362e1e22f50" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/bf6c9b7a-65a8-4f7c-a2f0-3b9a96d08a65" />
+
+* Keystone -> Central piece of arch, main support of arch. [MEANING]
+* Cornerstone -> Main support of building. [MEANING]
+* Quarry -> Stone mine. [MEANING]
+
+#### PJ, OOO, PC
+
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/a3640621-ae95-4def-8139-afcf8cc21304" />
+<img width="1418" height="797" alt="image" src="https://github.com/user-attachments/assets/850bfe39-7756-4ea3-98bd-4e9c8c5fc62f" />
+
+* Ans -> Option **C**.
+
+<img width="1437" height="916" alt="image" src="https://github.com/user-attachments/assets/b720cebf-ab47-46c3-8a17-8b55af191b17" />
+<img width="1403" height="801" alt="image" src="https://github.com/user-attachments/assets/4549545c-8edb-4062-952b-4e20ae03957e" />
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/e1c09994-149e-47af-ac9a-96653e33b287" />
+<img width="1062" height="631" alt="image" src="https://github.com/user-attachments/assets/4f1ddd1d-c812-4dcb-aa9f-b33986fd47e4" />
+
+#### RC
+
+<img width="1444" height="928" alt="image" src="https://github.com/user-attachments/assets/1c0c41f4-a189-4924-9547-d767bf5fca54" />
+
+* 1.
+
+<img width="1441" height="915" alt="image" src="https://github.com/user-attachments/assets/01d92d9c-4e10-4acf-8571-76bcb4db4169" />
+
+* 2.
+
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/59f9a211-c95b-484a-9680-c5a7f8848373" />
+
+* 3.
+* Atrophy -> Vaporize. [MEANING]
+
+<img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/51a0cfa0-9ffa-4f76-9d7b-ae81e3b21f93" />
+<img width="1403" height="791" alt="image" src="https://github.com/user-attachments/assets/5bcd068a-9c12-43c4-a4a6-5a783c4a038e" />
+
+* Unknown -> Novelty -> New thing.
+
+<img width="1403" height="818" alt="image" src="https://github.com/user-attachments/assets/84947422-e789-4353-b0f1-175f4e1068d5" />
+<img width="1408" height="809" alt="image" src="https://github.com/user-attachments/assets/fc7ddc0f-7041-4c92-8719-5df307cf92d2" />
+
+* Trenchant -> Sharp, cutting. [MEANING]
+
+#### CR
+
+<img width="1439" height="914" alt="image" src="https://github.com/user-attachments/assets/e150f0f7-d5c1-4778-aac4-4e2e47c80b08" />
+<img width="1400" height="789" alt="image" src="https://github.com/user-attachments/assets/470636a8-40b9-4e29-95bb-d370bce17748" />
+<img width="1438" height="917" alt="image" src="https://github.com/user-attachments/assets/951fb380-f16a-445b-a761-875e5bc67ad1" />
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/8ebfde17-4958-47ed-9198-0677c4b64085" />
+<img width="1414" height="809" alt="image" src="https://github.com/user-attachments/assets/1f26be35-d233-437c-b32a-f939847e106e" />
+
+### Mixed Grammar
+
+19th Nov.
 
 
 
