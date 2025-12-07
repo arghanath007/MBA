@@ -1,4 +1,4 @@
-# VARC
+<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/cd24f572-5089-4fa3-b29f-847907d5aec7" /># VARC
 
 ## Next Class
 
@@ -8024,20 +8024,102 @@ Checklist:-
 
 ### NMAT CR and Vocab.
 
+#### CR.
 
+<img width="1435" height="910" alt="image" src="https://github.com/user-attachments/assets/b93f92dc-7788-4354-a2db-9ba97986d68a" />
+<img width="1418" height="791" alt="image" src="https://github.com/user-attachments/assets/7de94bbc-8d22-46a2-9e4c-d1333f31a4fa" />
+<img width="1402" height="607" alt="image" src="https://github.com/user-attachments/assets/7f616d96-9859-4251-b38d-8f2389d9588c" />
+<img width="1400" height="640" alt="image" src="https://github.com/user-attachments/assets/b376706d-e1be-4062-99f4-18dbe70c2fd2" />
+<img width="1439" height="894" alt="image" src="https://github.com/user-attachments/assets/1ed314b5-6afc-49dd-a13e-aff1db2c59e6" />
+<img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/0db4a116-dc14-4a01-9088-6c835c8e3b60" />
+<img width="1441" height="898" alt="image" src="https://github.com/user-attachments/assets/1b51818e-2ab7-430f-9bfc-62ce4336c695" />
+<img width="1424" height="809" alt="image" src="https://github.com/user-attachments/assets/05fa5644-4b1e-45d6-aa52-757f9af12d96" />
+<img width="1437" height="908" alt="image" src="https://github.com/user-attachments/assets/b1bb8c3b-37ef-4442-82da-8deda68faa09" />
+<img width="1429" height="810" alt="image" src="https://github.com/user-attachments/assets/83cf9de3-6c97-477f-b917-e4f82504c24a" />
+<img width="1434" height="910" alt="image" src="https://github.com/user-attachments/assets/869de10d-3c7c-4e09-9f32-c9e05db756a4" />
 
+* Assertions -> Inference/Conclusion can be drawn. [VERY IMPORTANT] [FORMULA]
 
+<img width="1433" height="831" alt="image" src="https://github.com/user-attachments/assets/c5bc39e5-a800-49d5-a22d-fc821ab77fbd" />
+<img width="1409" height="803" alt="image" src="https://github.com/user-attachments/assets/639ea4bd-de8d-4bef-953f-e26444dd28c1" />
 
+#### Fill in the blanks
 
+<img width="1427" height="804" alt="image" src="https://github.com/user-attachments/assets/28fb6c6c-8c82-4011-b903-61ace74aaf61" />
 
+* Good soldiers -> fit to do **"something good"**.
+* Confront -> Something negative. [MEANING]
+* Meet -> Soldiers don't meet their enemies. [MEANING]
+* Embrace -> Friend/Acquientance. [MEANING]
+* Confront -> Enenmy. [MEANING]
+* Ans -> Option **A**.
+* [VERY IMPORTANT]
 
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/09bcf1f3-d142-4bd8-bb98-306b06c7cdd8" />
 
+* Aid -> help. [MEANING]
+* Vitiate -> Spoil.  [MEANING]
+* Subvert -> Ruin. [MEANING]
+* Uphold -> Support/Help/Sustain something. [MEANING]
+* Labors -> Hardword. [MEANING]
+* Ans -> Option **B**.
 
+<img width="1418" height="813" alt="image" src="https://github.com/user-attachments/assets/4e7a28e8-0e3c-400e-b8a4-ee945f5fe3f1" />
 
+* Ans -> Option **B**.
 
+<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/bc018a00-d4d4-4f86-8272-976c14e78a48" />
 
+* Inscrutable -> Difficult to understand/check. [MEANING]
+* Scrunity -> Can be checked. [MEANING]
+* Abase -> Humilated. [MEANING]
+* Providence -> God. [MEANING]
+* Ans -> Option **A**.
+* [VERY IMPORTANT]
 
+<img width="1435" height="822" alt="image" src="https://github.com/user-attachments/assets/b50d8316-097c-4b4f-b535-65153eac47eb" />
 
+* Unabashed -> Shameless, not hesitant. [MEANING]
+* Impudent -> Ill behaved. [MEANING]
+* bashful -. Shy person. [MEANING]
+* Ans -> Option **C**.
+* [VERY IMPORTANT]
+
+<img width="1418" height="827" alt="image" src="https://github.com/user-attachments/assets/33b1029d-244d-4b4c-8903-0598c5ee03cb" />
+<img width="1413" height="817" alt="image" src="https://github.com/user-attachments/assets/81d1a39b-5a86-4403-97f4-59d3f93ebff9" />
+
+* Abdicate -> To give up your position. [MEANING]
+* Usurp -> Take over forcefully. [MEANING]
+* Ans -> Option **B**.
+* [VERY IMPORTANT]
+
+<img width="1418" height="805" alt="image" src="https://github.com/user-attachments/assets/2e315b93-fa32-4c6c-b510-1776472b41ef" />
+
+* Baptism -> To name the child in a church. [MEANING]
+* Anointment -> To name someone as the successor. [MEANING]
+* Ointment -> Something we apply on body. [MEANING]
+* Ans -> Option **C**.
+
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/b5b5a13d-06c5-4d6c-b0dd-4a27c73b6a74" />
+
+* Aberration -> Unusual. [MEANING]
+* Ans -> Option **A**.
+
+<img width="1430" height="830" alt="image" src="https://github.com/user-attachments/assets/374b2c8b-6b25-4331-a082-d602f829aeaa" />
+
+* Indolence -> lazy. [MEANING]
+* Abeyance -> To stop something, to hold on to something for a while, keep at bay. [MEANING]
+* Diligence -> Doing something with great care. [MEANING]
+* Ans -> Option **C**.
+* [VERY IMPORTANT]
+
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/6b2d4f05-c576-4059-9cc4-23ab178ba773" />
+
+* Accustomed -> Used to.
+* Unseemly -> Bad.
+* Ans -> Option **C**.
+
+### Mixed VA Practice
 
 
 
