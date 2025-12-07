@@ -7838,35 +7838,191 @@ Checklist:-
 
 ### Mixed Practice
 
-* 8th Nov.
+#### Verbal Analogies
 
+* Analogies -> Analogy is all about similar relationships.
 
+<img width="1405" height="797" alt="image" src="https://github.com/user-attachments/assets/c02244a2-1df9-4edb-bed9-273c359edea2" />
+<img width="1414" height="799" alt="image" src="https://github.com/user-attachments/assets/c85884ff-3cf2-40c9-9a2d-a34e845e7f33" />
 
+* Ans -> Option **C**.
 
+<img width="771" height="425" alt="image" src="https://github.com/user-attachments/assets/ede4fc6d-4e3a-43ae-918d-f632c5a34229" />
 
+* Order is important.
 
+<img width="628" height="554" alt="image" src="https://github.com/user-attachments/assets/a8436249-5fb1-47fe-9626-ed4e76a17c21" />
 
+* [FORMULA] [VERY IMPORTATN]
 
+<img width="769" height="473" alt="image" src="https://github.com/user-attachments/assets/49d090ea-2c45-4b76-96a5-5b1c04826779" />
 
+* Applause -> approval publicly expressed (as by clapping the hands) -> Sound. [MEANING]
+* Accolade -> a mark of acknowledgment -> Words. [MEANING]
 
+<img width="926" height="652" alt="image" src="https://github.com/user-attachments/assets/4722aead-d0f7-46af-86e0-798045a41177" />
+<img width="550" height="395" alt="image" src="https://github.com/user-attachments/assets/adf187bf-bbd4-4d11-b4da-30294bc85860" />
+<img width="771" height="802" alt="image" src="https://github.com/user-attachments/assets/ea317b20-a974-4435-95bd-f285e58f4950" />
+<img width="1407" height="800" alt="image" src="https://github.com/user-attachments/assets/6dcd0f62-5cc0-4bbf-871d-92e05fefc18e" />
 
+* Abstinence -> Control/Restricted on drinking -> the practice of abstaining from something : the practice of not doing or having something that is wanted or enjoyable. [MEANING]
+* Drunkenness -> Too much of drinking -> saturated with liquid. [MEANING]
+* Celibacy -> abstention from sexual intercourse. [MEANING]
+* Promiscuity -> miscellaneous mingling or selection of persons or things. [MEANING]
+* promiscuous -> having or involving many sexual partners : not restricted to one sexual partner or few sexual partners. [MEANING]
 
+<img width="437" height="158" alt="image" src="https://github.com/user-attachments/assets/3cf089a0-a146-45fa-945b-3d3f27175d69" />
 
+* Yes.
 
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/7edde399-4606-4e71-8f61-dd0cbaeb248e" />
+<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/de0dfb20-8088-41ca-93de-c5042e0f9f22" />
+<img width="479" height="350" alt="image" src="https://github.com/user-attachments/assets/c41ae5c9-da17-4031-8760-c22ac719842c" />
+<img width="562" height="469" alt="image" src="https://github.com/user-attachments/assets/1050710f-93a2-4ce3-8e31-3c21fd2c4663" />
 
+* Ans -> Option **E**.
+* Referee, Judge -> Legal power.
+* Professor -> Not a legal power.
+* [VERY IMPORTATN]
+* Arbitrator is needed to solve a deadlock.
+* Partition -> Arbitrator -> Britisher -> Radcliffe.
 
+<img width="1397" height="485" alt="image" src="https://github.com/user-attachments/assets/a7adae44-7814-4343-8793-a598329ef1d4" />
+<img width="1403" height="801" alt="image" src="https://github.com/user-attachments/assets/853e5b24-5508-4328-81c9-f1c71fa0c557" />
 
+* Arbitrary decision.
+* Arbitrary -> Absolute, choosen at random without thought, sometimes unfair. [MEANING]
 
+<img width="1200" height="465" alt="image" src="https://github.com/user-attachments/assets/9ad752f2-7ece-4c1b-8fc7-2c3def4b74dd" />
 
+* Unintelligible -> Difficult to understand/comprehend. [MEANING]
 
+<img width="642" height="368" alt="image" src="https://github.com/user-attachments/assets/95adef17-f771-4d42-bb1a-9bfc68f7f30c" />
 
+* Ans -> Option **B**.
+* Shoplift, trespass -> Illegal.
+* Eavesdrop -> Not illegal.
 
+<img width="748" height="419" alt="image" src="https://github.com/user-attachments/assets/40b26010-b02b-456e-a4fd-806ee8f5c53a" />
+<img width="666" height="436" alt="image" src="https://github.com/user-attachments/assets/df9a8d18-5bd7-48cc-85ae-2191ff59bb1f" />
 
+* Reticent -> Not talking. [MEANING]
+* Ans -> Option **A**.
+* Tasteless -> Things.
+* Reticent, abstemious -> People.
 
+<img width="1408" height="475" alt="image" src="https://github.com/user-attachments/assets/b930d619-73f8-448d-baa2-b63c21fa004c" />
+<img width="777" height="388" alt="image" src="https://github.com/user-attachments/assets/d8f650e5-b0b4-4f46-9731-c19d5547f5c5" />
+<img width="729" height="507" alt="image" src="https://github.com/user-attachments/assets/c74e0157-288e-49f5-b888-c59d986bf2c0" />
 
+* [VERY IMPORTATN]
+* Conjecture -> Guess.
 
+<img width="1430" height="818" alt="image" src="https://github.com/user-attachments/assets/f49f4e92-f9af-40dd-a1eb-41e886f90871" />
 
+* Sphere -> 3-dimensional.
+* Circle -> 2-dimensional.
+* Every square is a rectangle.
+* Every sonmet is a type of a poem.
+* Sonmet -> 14 line poems.
+* Ans -> Option **C**.
 
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/f0a06662-8f7c-4d3f-97ee-d1dc20d93675" />
+
+* [VERY IMPORTATN]
+
+<img width="1174" height="405" alt="image" src="https://github.com/user-attachments/assets/17bc7aca-41dd-4794-83a6-daa20e044b60" />
+<img width="1149" height="440" alt="image" src="https://github.com/user-attachments/assets/d5977135-4464-41d7-97b4-0904a6c96b9a" />
+
+* Seminary -> It is a place where priests get training. [MEANING]
+* Theologian -> Who studies religion. [MEANING]
+* Conservatory -> It is a place where artists get training. [MEANING]
+* Artist ->  Who studies arts. [MEANING]
+* Academy -> Anyone can go to an academy. Not exclusively meant for cadets. [MEANING]
+* Researchers may not always go to a laboratory.
+* Ans -> Option **D**.
+* [VERY IMPORTATN]
+
+<img width="1225" height="440" alt="image" src="https://github.com/user-attachments/assets/11d14de4-2179-42f0-99b2-4cd3ca3e7d8c" />
+
+* Shard -> Remaining of pottery. [MEANING]
+* Splinter -> Remaining of wood. [MEANING]
+* The wig does not break.
+* Ans -> Option **E**.
+* [VERY IMPORTATN]
+
+<img width="1417" height="809" alt="image" src="https://github.com/user-attachments/assets/43884ea9-d880-4e8b-9f9d-507724bc00df" />
+
+* Obtrusive -> Visibile, cannot/difficult to ignore. [MEANING]
+* Unobtrusive -> Not visible. [MEANING]
+* Elusive -> Difficult to capture. [MEANING]
+* Appropriated,usurp -> To snatch. [MEANING]
+* Ans -> Option **C**.
+
+<img width="1419" height="637" alt="image" src="https://github.com/user-attachments/assets/bf228a9f-36e4-4ed3-a615-ffafe0988bf3" />
+
+* [VERY IMPORTATN]
+
+<img width="1432" height="814" alt="image" src="https://github.com/user-attachments/assets/f1f614b7-fecf-42d6-ad39-6469592a3008" />
+<img width="1414" height="593" alt="image" src="https://github.com/user-attachments/assets/fac18e0f-df1c-4f9d-9a9e-117edbe4d3be" />
+
+* Carat -> Purity of gold is measured in carat. [MEANING]
+* Ream -> Thickness of paper is measured in ream. [MEANING]
+* Meter -> We used meter to measure the length of the rope. [MEANING]
+* Pound -> We used pound to measure the weight of the sugar. [MEANING]
+* Liter -> We used liter to measure the beer. [MEANING]
+* Proof -> Purity of Alcohol is measured in proof. [MEANING]
+* Ans -> Option **A**.
+
+<img width="650" height="396" alt="image" src="https://github.com/user-attachments/assets/07eb57ff-29fa-431a-94c5-69c76dbf10d0" />
+<img width="691" height="421" alt="image" src="https://github.com/user-attachments/assets/452e5fd7-a187-40ad-85f0-4c41b1a6e7e6" />
+
+* Stutter -> Defect in speech. [MEANING]
+* Astigmatism -> Defect in sight. [MEANING]
+* Salt is used for Taste.
+* Ans -> Option **C**.
+
+<img width="742" height="422" alt="image" src="https://github.com/user-attachments/assets/a3660955-9ae3-4589-ab6f-fb403b2c2c7d" />
+<img width="1411" height="806" alt="image" src="https://github.com/user-attachments/assets/1227a6ce-f7f2-4fb0-8816-0b3f1aadbf2e" />
+
+* Nature -> Untruthful, forgiving. [MEANING]
+* Act -> Lie, Pardon. [MEANING]
+* Pilfer ->  to steal stealthily in small amounts and often again and again. [MEANING]
+* Kneeling, Lying -> Position.
+* Pray, Sleep -> Action.
+* Ans -> Option **D**.
+
+<img width="783" height="495" alt="image" src="https://github.com/user-attachments/assets/071804a1-dd2d-472b-b36c-1fcfa1c2cf1c" />
+<img width="789" height="500" alt="image" src="https://github.com/user-attachments/assets/02ea3a3d-983b-43ba-b404-84fd3b273400" />
+
+* Palate -> Roof of the mouth. [MEANING]
+* Kerb -> Edge of the foothpath. [MEANING]
+* Ceiling -> Roof of the room. [MEANING]
+* Ans -> Option **E**.
+
+<img width="572" height="348" alt="image" src="https://github.com/user-attachments/assets/78d31141-f912-4b36-bd8c-afd410904060" />
+
+* Gyration -> Move in circle. [MEANING]
+* Ans -> Option **C**.
+
+<img width="1121" height="514" alt="image" src="https://github.com/user-attachments/assets/f3d61066-3a93-4495-b66d-aaa8a48e24c7" />
+
+* indigence -> a level of poverty in which real hardship and deprivation are suffered and comforts of life are wholly lacking -> Not having much money. [MEANING]
+* Indigence makes you frugal.
+* Danger makes you vigilant.
+* Capricious -> Moody. [MEANING]
+* Ans -> Option **A**.
+* [VERY IMPORTATN]
+
+<img width="1427" height="820" alt="image" src="https://github.com/user-attachments/assets/256f1256-bf13-466a-a7ce-b5c7198c3054" />
+<img width="1142" height="676" alt="image" src="https://github.com/user-attachments/assets/9e409237-e9c2-4838-9721-5d1e8bd9928d" />
+
+* Affluence ->  abundance of property : wealth. [MEANING]
+* Spendthrift -> a person who spends improvidently or wastefully. [MEANING]
+* Squander -> to spend extravagantly or foolishly : dissipate, waste. [MEANING]
+* Squander :: Affluence.
+
+### NMAT CR and Vocab.
 
 
 
