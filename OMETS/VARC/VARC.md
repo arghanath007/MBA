@@ -8308,7 +8308,233 @@ Checklist:-
 
 ### Mixed Grammar
 
-19th Nov.
+#### Grammar
+
+<img width="1415" height="804" alt="image" src="https://github.com/user-attachments/assets/ffb6ab01-1ff5-47ee-8cc6-16b8bab0e547" />
+<img width="1420" height="813" alt="image" src="https://github.com/user-attachments/assets/9970719b-2063-479c-a469-5c3b1da535bd" />
+
+* Bouquet -> Subject.
+* Bouquet -> Singular.
+* Exotic flowers -> Not the subject.
+* Were -> Past.
+* Are -> Present.
+* have been -> Passive voice.
+* Yesterday -> Past tense.
+* Tomorrow -> Future tense.
+* Along with, together with, in addition to -> They keep the subject as it is -> Extra information.
+* Ans -> Option **C**.
+
+<img width="1435" height="819" alt="image" src="https://github.com/user-attachments/assets/1db75e60-6557-446e-b7af-60775f9296a0" />
+
+* Inversions -> Negative adverbs -> Only, never -> Helping verb(Hv) + Subject + Main verb. [FORMULA]
+* Never did he call me again -> Emphasis -> Stylistic variation.
+* He never called me again -> Formal way.
+* Ans -> Option **A**.
+* [VERY IMPORTANT]
+
+<img width="1417" height="819" alt="image" src="https://github.com/user-attachments/assets/9ecc3888-b554-4cf2-9f01-08c4ea4b50cd" />
+
+* Ans -> Option **C**.
+
+<img width="745" height="331" alt="image" src="https://github.com/user-attachments/assets/3275e678-4d91-439f-aec4-2f2a039c33bd" />
+<img width="1417" height="807" alt="image" src="https://github.com/user-attachments/assets/716b1e20-d38c-47f0-aeb4-290e4d8c0eea" />
+<img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/20191dc2-47ad-40c0-a47d-067d5a2e4b04" />
+<img width="1413" height="809" alt="image" src="https://github.com/user-attachments/assets/254dd63a-ef8b-4c6a-bda3-55aea1214875" />
+
+* Subject -> Award.
+* Preposition -> To.
+* Ans -> Option **B**.
+* The award was given to me and to him. [Correct]
+* Subject -> I -> When **"I"** brings a **verb**.
+* [VERY IMPORTANT]
+
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/92d2f4ca-5154-492b-bcbe-b49f404d27db" />
+
+* Were/Seemed -> Possible answers. 
+* Ans -> Option **D**.
+* [VERY IMPORTANT]
+
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/d1d5b8d0-9e70-44fe-88d3-0874fa08df52" />
+<img width="1429" height="797" alt="image" src="https://github.com/user-attachments/assets/6338ceed-a52d-4247-b33f-70f621c85dff" />
+<img width="1412" height="798" alt="image" src="https://github.com/user-attachments/assets/60e06902-1bd6-4dbb-91a4-c2f4fdce771d" />
+
+* Who completed the survey?
+* Dangling modifier.
+* The results didn't do the survey.
+
+<img width="1427" height="804" alt="image" src="https://github.com/user-attachments/assets/8105d842-6bed-460c-9cf1-1fb22b00ddcd" />
+<img width="1430" height="813" alt="image" src="https://github.com/user-attachments/assets/0e952ce2-ca72-41a7-834f-6affd5ae720d" />
+<img width="1439" height="821" alt="image" src="https://github.com/user-attachments/assets/3e509b8a-56bb-4c89-a564-8dd0e6632305" />
+
+* Parallel construction.
+* Ans -> Option **C**.
+
+<img width="1418" height="799" alt="image" src="https://github.com/user-attachments/assets/05a3070f-21d0-4363-89fa-ca89d352460b" />
+<img width="1422" height="807" alt="image" src="https://github.com/user-attachments/assets/e69adce1-6f00-4302-ad43-2a80e65d52f1" />
+
+* Parallel construction -> Conjunction -> Something is getting joined -> Those things have to be in the same format.
+* [VERY IMPORTANT]
+
+<img width="1404" height="801" alt="image" src="https://github.com/user-attachments/assets/410a213d-2b4d-40d4-a7a7-c18384b679e6" />
+<img width="1415" height="806" alt="image" src="https://github.com/user-attachments/assets/ad7bcc4e-c2d0-4326-b7e4-223955f733ad" />
+
+* Similar ideas must be in similar form.
+
+<img width="1040" height="799" alt="image" src="https://github.com/user-attachments/assets/cc400115-2009-4b3c-a491-7b71aada9909" />
+<img width="1433" height="817" alt="image" src="https://github.com/user-attachments/assets/24d5cbf3-2bc0-4cda-b7dc-72feea0aba3c" />
+
+* Were -> Hypothetical scenario, contrary to expectation.
+* Ans -> Option **B**.
+
+<img width="1417" height="809" alt="image" src="https://github.com/user-attachments/assets/e577f1cf-e7a3-408a-abe7-545be746c171" />
+
+* Next March -> will be completing. [Correct]
+* Going on for 3yrs.
+* Ans -> Option **D**.
+* [VERY IMPORTANT]
+
+<img width="1433" height="844" alt="image" src="https://github.com/user-attachments/assets/f7bc4af8-9dc9-436f-8d83-afc2cda7d368" />
+<img width="1439" height="829" alt="image" src="https://github.com/user-attachments/assets/a28c8bc8-feb2-4c2f-bdbf-9da8544a8ecc" />
+
+* Active Voice(AC) -> Subject(S) + Verb(V) + Object(O). [FORMULA]
+* Passive Voice(PC) -> Object(O). + Verb changes(V) + Subject(S). [FORMULA]
+* Change the voice -> Keep the **tense** as it is. We cannot change the **tense**. [FORMULA]
+* Verb changes(V) keeping the **tense** as it is. [FORMULA]
+* Ans -> Option **A**.
+
+<img width="1436" height="835" alt="image" src="https://github.com/user-attachments/assets/665ba3f4-369d-4398-abd6-71ce748d5504" />
+<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/8e245ef5-3390-47de-8306-67c9d6437383" />
+
+* She plays football. [Active]
+* Football is played by her. [Passive]
+* She is playing football. [Active]
+* Football is being played by her. [Passive]
+* [VERY IMPORTANT] [Examples]
+
+<img width="1397" height="788" alt="image" src="https://github.com/user-attachments/assets/192d173f-7152-4e6b-a00e-a375726d00a5" />
+<img width="1430" height="815" alt="image" src="https://github.com/user-attachments/assets/82feabe1-0e18-44c2-92eb-68238113fbd6" />
+<img width="1441" height="837" alt="image" src="https://github.com/user-attachments/assets/59a4a61b-038f-4f05-ae0c-67a7206d33b7" />
+
+* A -> Change in meaning -> Meaningless sentence.
+* Ans -> Option **B**.
+
+<img width="1430" height="809" alt="image" src="https://github.com/user-attachments/assets/6b9b96e4-7bbf-4588-b067-e52970be319a" />
+
+* Direct Speech(DS).
+* Indirect Speech(IS).
+* Didn't -> Past tense.
+* Didn't -> Reported speech -> Past perfect.
+* Reported speech -> then **"?"** -> **"that"** will not come. [FORMULA]
+* [VERY IMPORTANT] 
+* Ans -> Option **C**.
+
+<img width="1429" height="820" alt="image" src="https://github.com/user-attachments/assets/d0a94c0d-0ac0-4538-8c31-573ef26a7903" />
+<img width="1415" height="809" alt="image" src="https://github.com/user-attachments/assets/e53661a5-8288-40d2-9373-ed5ad74d091f" />
+
+* Tomorrow -> next day.
+* said -> that.
+* will -> would -> Past tense of **"will"**.
+* [VERY IMPORTANT] 
+* Ans -> Option **A**.
+
+<img width="1414" height="791" alt="image" src="https://github.com/user-attachments/assets/95cc4288-5840-4dd0-91ab-db5f452a3c43" />
+<img width="1408" height="806" alt="image" src="https://github.com/user-attachments/assets/f7756a57-1802-4ebf-ac02-9aa217314781" />
+
+* [VERY IMPORTANT] 
+* Ans -> Option **A**.
+
+<img width="419" height="69" alt="image" src="https://github.com/user-attachments/assets/d36c9fd0-8aba-4cc9-bd96-fa7b0d1ff276" />
+
+* Yes.
+
+<img width="1421" height="809" alt="image" src="https://github.com/user-attachments/assets/2874e1b8-1a85-4f32-a901-e0500653c869" />
+<img width="1410" height="809" alt="image" src="https://github.com/user-attachments/assets/17c909b8-4b26-476a-b60a-610c82a95d9f" />
+
+* One -> one's.
+* You -> Your.
+* She -> her.
+* Pronoun consistency is important.
+* [VERY IMPORTANT] 
+* Ans -> Option **C**.
+
+<img width="1434" height="815" alt="image" src="https://github.com/user-attachments/assets/c670d564-f234-4bcf-9e58-7d8f081b33a1" />
+<img width="1417" height="825" alt="image" src="https://github.com/user-attachments/assets/565ead0e-289f-428d-9a71-217c4079598b" />
+
+* A series -> Singular -> has -> Singular.
+* Present continuous should be used for ongoing action. [FORMULA]
+* [VERY IMPORTANT] 
+* Ans -> Option **A**.
+
+#### Vocab
+
+<img width="1423" height="819" alt="image" src="https://github.com/user-attachments/assets/9a953ac5-e8dd-42ea-9113-2c21a3c67989" />
+
+* Equivocal -> unclear. [MEANING]
+* Peelucid ->
+* Trenchant -> Sharp & critical. [MEANING] 
+* Emphatic -> Comprehensive, clear, vocal.  [MEANING]
+* Ans -> Option **B**.
+
+<img width="1413" height="805" alt="image" src="https://github.com/user-attachments/assets/140a2143-8426-48b5-ad56-e3f68ac1c42f" />
+<img width="1404" height="820" alt="image" src="https://github.com/user-attachments/assets/cf91a0a5-2041-4b1c-b47f-4424d3425ad6" />
+<img width="920" height="580" alt="image" src="https://github.com/user-attachments/assets/3a5b445b-c59b-428b-aa40-5225ad3f6307" />
+
+* fell/fall back on -> Have am alternative plan. [MEANING]
+* Play second fiddle to -> Take a secondary position. [MEANING]
+* flew in the face of -> Contradict. [MEANING]
+* [VERY IMPORTANT] 
+* Ans -> Option **B**.
+
+<img width="1416" height="832" alt="image" src="https://github.com/user-attachments/assets/d3754910-dbf0-44ca-960d-d544792cc87f" />
+<img width="1416" height="816" alt="image" src="https://github.com/user-attachments/assets/6eaa2ffa-3258-493c-9001-f6d572806780" />
+<img width="1408" height="802" alt="image" src="https://github.com/user-attachments/assets/b5cad3f6-0243-4d3c-aeff-827a494490dd" />
+
+* Ans -> Option **B**.
+
+<img width="1427" height="806" alt="image" src="https://github.com/user-attachments/assets/b2436013-f8d0-4330-8e52-9f3f1ac9abe6" />
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/5bdbb29c-eb45-4462-b683-cb7c4704c7ef" />
+<img width="1419" height="797" alt="image" src="https://github.com/user-attachments/assets/4de0017d-5091-4bb7-89d0-bf1e6f3f37f7" />
+
+* Ans -> Option **B**.
+* [VERY IMPORTANT] 
+
+### Vocab Practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
