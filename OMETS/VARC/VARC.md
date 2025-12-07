@@ -8121,6 +8121,64 @@ Checklist:-
 
 ### Mixed VA Practice
 
+#### Figure of Speech
+
+<img width="1420" height="813" alt="image" src="https://github.com/user-attachments/assets/fb8da638-f326-4423-8d1c-30b9d558be4d" />
+
+* 1.
+
+<img width="1419" height="806" alt="image" src="https://github.com/user-attachments/assets/0a290a05-33ae-4a30-929a-8c1730ee7608" />
+<img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/8466fd67-6e3e-4031-87e8-6219ced60874" />
+
+* 2.
+* Pun intended, Pun not intended.
+
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/0c881a19-9f19-4421-93c2-b715e4a851a3" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="1434" height="918" alt="image" src="https://github.com/user-attachments/assets/4eca22c6-8e09-411f-92ed-4c15a707eb83" />
+<img width="1397" height="314" alt="image" src="https://github.com/user-attachments/assets/9700b136-4f34-4d76-a843-1032b9678b28" />
+
+* Ans -> Option **B**.
+* [VERY IMPORTANT] 
+
+<img width="1442" height="916" alt="image" src="https://github.com/user-attachments/assets/267238fc-555e-4055-afad-24d80a04b37f" />
+
+* No sooner -> than. [FORMULA]
+* Inversion.
+* When -> Not an idiom. [FORMULA]
+* Rather -> Than -> Because **comparison** comes. [FORMULA]
+* Hardly, scarcely -> We can use **"when"** with them. [FORMULA]
+* No sooner -> Idiomatic usage.
+* Hardly, scarcely -> Not idiomatic usage.
+
+<img width="1409" height="800" alt="image" src="https://github.com/user-attachments/assets/ec0b8fba-9d4b-4210-93a4-08c21c1085ec" />
+<img width="1412" height="798" alt="image" src="https://github.com/user-attachments/assets/93f56427-da93-4124-aec0-dc920a95e1cc" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="913" alt="image" src="https://github.com/user-attachments/assets/b8ebee9c-a660-4f59-99a6-1e3cb72f26cc" />
+
+* Either-Or, Neither-Nor -> Verb will agree with nearer subject.
+* Nearer subject -> Analysts -> plural.
+
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/8090970e-27c8-47c1-867a-0f079c354e36" />
+
+* [VERY IMPORTANT]
+* Either the analysts or the CFO is attending the postmortem. [Correct]
+
+<img width="422" height="59" alt="image" src="https://github.com/user-attachments/assets/025626ba-e683-4bbe-9c78-887c6e531bbf" />
+
+* Yes.
+
+
+
+
+
+
+
+
 
 
 
