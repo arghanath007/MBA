@@ -8500,7 +8500,7 @@ Checklist:-
 
 ### Vocab Practice
 
-#### Idioms
+#### Idioms 1
 
 <img width="1436" height="911" alt="image" src="https://github.com/user-attachments/assets/3269bb31-5995-4b6d-99c9-d82c25e3f80b" />
 <img width="1429" height="802" alt="image" src="https://github.com/user-attachments/assets/48bd7857-fb02-4628-933e-9895c3179618" />
@@ -8630,7 +8630,145 @@ Checklist:-
 
 * [VERY IMPORTANT] [FORMULA]
 
-* 49mins.
+#### Idioms 2
+
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/127624f5-dc06-486d-811a-cebbd0db7dd9" />
+<img width="1441" height="904" alt="image" src="https://github.com/user-attachments/assets/05c366a3-fceb-42a2-954d-1e0b4db67ced" />
+<img width="1442" height="911" alt="image" src="https://github.com/user-attachments/assets/2944b305-14b9-451c-90e9-4b0618c08c62" />
+<img width="1435" height="890" alt="image" src="https://github.com/user-attachments/assets/bb7291a6-9925-4ccc-9422-1515a821ea5d" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="914" alt="image" src="https://github.com/user-attachments/assets/ffb35974-d41b-44db-84a2-52aa6fca7a1a" />
+<img width="1436" height="915" alt="image" src="https://github.com/user-attachments/assets/e7a7feb6-b9bf-4556-bcb3-776b65308305" />
+<img width="1441" height="909" alt="image" src="https://github.com/user-attachments/assets/f7052e75-3510-422c-a9d8-2de95c26ed2b" />
+<img width="1436" height="905" alt="image" src="https://github.com/user-attachments/assets/c6d4ecc5-fb07-44fc-92dd-432440377074" />
+<img width="1441" height="904" alt="image" src="https://github.com/user-attachments/assets/94ed8840-96b4-47c4-93a8-a96000928844" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="914" alt="image" src="https://github.com/user-attachments/assets/7635a242-3933-4a41-9cdb-ea387612c08c" />
+
+* Bury the hatchet.
+
+<img width="1442" height="912" alt="image" src="https://github.com/user-attachments/assets/c6e1a9e8-179e-4808-b745-e12abb647f68" />
+<img width="1441" height="912" alt="image" src="https://github.com/user-attachments/assets/9249f19c-3c70-4822-bc94-b79db318b58b" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="921" alt="image" src="https://github.com/user-attachments/assets/f690c262-0a4a-4c9a-a752-2ebf8541feeb" />
+<img width="1440" height="907" alt="image" src="https://github.com/user-attachments/assets/99f8be3d-4b79-481f-ac68-dfab9290ce82" />
+<img width="1439" height="913" alt="image" src="https://github.com/user-attachments/assets/9c577a24-3e7f-4c7d-86eb-e7945fcfc1b2" />
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/13150da1-f253-4104-a1ce-6f425d69057f" />
+<img width="1431" height="898" alt="image" src="https://github.com/user-attachments/assets/f652ac45-acfc-43f6-be8f-1b79a344df38" />
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/d77940a0-893f-4545-9534-30a0ef75ba44" />
+<img width="1439" height="910" alt="image" src="https://github.com/user-attachments/assets/f90d88d3-4095-4911-976f-24549f49895a" />
+<img width="1432" height="914" alt="image" src="https://github.com/user-attachments/assets/eec78946-52e7-44ef-a410-7f2b4b6576fc" />
+
+* [VERY IMPORTANT]
+
+<img width="1392" height="428" alt="image" src="https://github.com/user-attachments/assets/e02a602a-3a88-4a85-9d87-f0ec5bf647e0" />
+<img width="907" height="382" alt="image" src="https://github.com/user-attachments/assets/4bf5cdba-d370-46c2-ad6d-2f073ea070cf" />
+<img width="1420" height="799" alt="image" src="https://github.com/user-attachments/assets/155f5802-f6bb-40d2-872d-80648dee3116" />
+
+* Pull up your socks.
+* Gird up your loins, fasten your seat belts -> Get ready. [MEANING]
+
+<img width="928" height="352" alt="image" src="https://github.com/user-attachments/assets/a10753ad-e9b4-4ee5-9cea-f98b8441c26d" />
+<img width="889" height="393" alt="image" src="https://github.com/user-attachments/assets/f0c9274e-4cf4-4e80-acbc-b3bf34cf3ec6" />
+
+* Putting extra effort. [MEANING]
+
+<img width="1396" height="452" alt="image" src="https://github.com/user-attachments/assets/45294498-495c-4af1-91c9-a8177809f6d8" />
+
+* To take something with a pinch/grain of salt -> Not taken very seriously. [MEANING]
+
+<img width="857" height="404" alt="image" src="https://github.com/user-attachments/assets/cf36cbcb-760d-4d3e-b640-a97d18a6f735" />
+
+* Not my cup of tea -> Don't prefer doing it, Don't enjoy it, Not good at it. [MEANING]
+
+<img width="927" height="373" alt="image" src="https://github.com/user-attachments/assets/81fd04f1-37c9-461b-a1ce-434e91a3b4e4" />
+<img width="1402" height="533" alt="image" src="https://github.com/user-attachments/assets/9ec60fde-bacd-445e-80da-e91658962976" />
+<img width="1075" height="517" alt="image" src="https://github.com/user-attachments/assets/f69e1fcb-f71f-4837-b154-09058af78525" />
+
+* At the timp of my tongue -> Remember but not able to recall. [MEANING]
+* Ans -> Option **A**.
+
+<img width="1423" height="808" alt="image" src="https://github.com/user-attachments/assets/daa642fa-c2e5-4d6b-9850-721e9f5b3c34" />
+
+* Stand by me through thick and thin -> Stand by, Stand for something, support no matter what. [MEANING]
+* Stand for -> Symbolizes something.
+* Stand by -> Support.
+
+<img width="1398" height="522" alt="image" src="https://github.com/user-attachments/assets/b65007d0-2a6f-4d3e-acfc-e960356bba46" />
+
+<img width="1407" height="814" alt="image" src="https://github.com/user-attachments/assets/142e2fb0-02f7-4e69-8ca2-cf703540787b" />
+
+* Give me your word -> To promise. [MEANING]
+* Word got around -> News spread quickly. [MEANING]
+
+<img width="1425" height="827" alt="image" src="https://github.com/user-attachments/assets/ade9bf93-5df6-4349-a47f-e703adff7c6d" />
+
+* Tip of the iceberg -> Scratching the surface. [MEANING]
+* Break the ice -> Overcome the awkwardness. [MEANING]
+* On thin ice -> In a difficult/risky situation. [MEANING]
+* ICE.
+
+<img width="1421" height="813" alt="image" src="https://github.com/user-attachments/assets/e0aa237d-1d01-4e15-88e2-c79f34b0b2cc" />
+
+* [VERY IMPORTANT]
+
+<img width="843" height="336" alt="image" src="https://github.com/user-attachments/assets/2802252c-2d4d-4229-812c-5e16d1e82911" />
+<img width="1396" height="521" alt="image" src="https://github.com/user-attachments/assets/53eafe5b-6b62-4768-8c98-c2fd44c21bf8" />
+
+* A stone's throw -> Very near. [MEANING]
+
+<img width="871" height="398" alt="image" src="https://github.com/user-attachments/assets/d6bf62b9-5fe7-48ef-98c5-e3fc69f72e80" />
+<img width="1150" height="500" alt="image" src="https://github.com/user-attachments/assets/1893c338-b676-47d3-b9e5-a339b024f06e" />
+
+* [VERY IMPORTANT]
+
+<img width="953" height="473" alt="image" src="https://github.com/user-attachments/assets/db50afec-94ac-4f37-b981-1f42837f6f3d" />
+<img width="894" height="375" alt="image" src="https://github.com/user-attachments/assets/ab6844ce-0168-41d9-b7b4-603793bea1da" />
+
+* Save Face -> Maintain some reputation. [MEANING]
+
+<img width="1061" height="382" alt="image" src="https://github.com/user-attachments/assets/700daec3-2845-4414-b1cd-8bc404ee32eb" />
+
+* Play it by ear -> Take things as they come -> on spot decisions -> sponteneous.  [MEANING]
+
+<img width="1413" height="802" alt="image" src="https://github.com/user-attachments/assets/8d93c9d6-1204-43ca-b1d4-6e6684ef29e7" />
+
+* Took off -> Sucessful. [MEANING]
+* Take on -> Face the challenge. [MEANING]
+* Take off -> Become sucessful. [MEANING]
+* Take in -> Deceived. [MEANING]
+* Taken aback -> suprised. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="962" height="396" alt="image" src="https://github.com/user-attachments/assets/1b72c1ad-6ee1-4a95-b7e8-d06814133a66" />
+<img width="952" height="376" alt="image" src="https://github.com/user-attachments/assets/ce1db63d-b801-41dc-acc9-01608e8e74c2" />
+
+* [VERY IMPORTANT]
+
+### SNAP practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
