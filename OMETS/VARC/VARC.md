@@ -8753,6 +8753,281 @@ Checklist:-
 
 ### SNAP practice
 
+<img width="1441" height="924" alt="image" src="https://github.com/user-attachments/assets/d3b14d24-6676-43cd-97ef-1cadef391840" />
+<img width="823" height="428" alt="image" src="https://github.com/user-attachments/assets/cb3087da-26d6-46f1-b7a9-85385446b500" />
+
+* Report immediately.
+* [VERY IMPORTANT]
+
+<img width="1437" height="916" alt="image" src="https://github.com/user-attachments/assets/dda0f9a0-3e6a-4643-823d-b0c8d2de952b" />
+<img width="1070" height="407" alt="image" src="https://github.com/user-attachments/assets/f957e2c0-fcdd-4309-89a6-fab02396ab81" />
+
+* has been scheduled.
+* Subject -> Set -> Singular -> is -> Singular.
+
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/dd307a80-0c7f-4b8d-b560-92a2ef985dba" />
+<img width="1439" height="912" alt="image" src="https://github.com/user-attachments/assets/78e19627-7a3c-4a53-a62c-294d6b2f2dbb" />
+<img width="1173" height="370" alt="image" src="https://github.com/user-attachments/assets/170969e8-6ec3-40ae-b338-a7d0171b5a41" />
+
+* Ans -> Option **C**.
+* Subjected -> Past.
+* Test -> In future.
+* [VERY IMPORTANT]
+
+<img width="1420" height="817" alt="image" src="https://github.com/user-attachments/assets/fd385297-f288-4a3b-bbc2-95e2861e6bb7" />
+<img width="1407" height="807" alt="image" src="https://github.com/user-attachments/assets/e073592b-9545-477b-b95e-d95657d83bf6" />
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/714a6484-cd11-4de2-9e07-59362253082c" />
+<img width="1413" height="823" alt="image" src="https://github.com/user-attachments/assets/446d5c01-eaf9-45b9-a8be-ec80d6d071a6" />
+
+* IMPORTANT Topics.
+
+<img width="1438" height="913" alt="image" src="https://github.com/user-attachments/assets/999aeed2-0837-450e-89a9-dd309eb3b65b" />
+<img width="1417" height="808" alt="image" src="https://github.com/user-attachments/assets/88163e8e-ee86-41a7-a025-6c8d1a67a199" />
+<img width="1440" height="918" alt="image" src="https://github.com/user-attachments/assets/4e3b7a1c-9750-40c3-8e88-ef546c23513f" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/5b6e0211-1984-4d96-9a93-2469fc5fc359" />
+
+* Comparison -> Much => More => Most.
+* Comparison happening between '2' things -> More.
+* [VERY IMPORTANT]
+
+<img width="1433" height="917" alt="image" src="https://github.com/user-attachments/assets/3487da5f-d7fe-446c-a399-d375cc9990bc" />
+<img width="771" height="410" alt="image" src="https://github.com/user-attachments/assets/1b5aa6ce-4399-42c1-8dac-0b95ccb7db99" />
+<img width="1396" height="571" alt="image" src="https://github.com/user-attachments/assets/8fb6aff3-4704-4be4-820a-c6135de33b64" />
+
+* Sentence -> Passive voice -> No subject -> That's why no subjunctive mood.
+
+<img width="1438" height="909" alt="image" src="https://github.com/user-attachments/assets/02adcd8e-e1d3-450b-a236-0e92e8c807cd" />
+<img width="839" height="484" alt="image" src="https://github.com/user-attachments/assets/24bd844c-25e2-45c1-81ba-91499dbc8483" />
+<img width="949" height="551" alt="image" src="https://github.com/user-attachments/assets/8febe7be-e36e-44f0-b15c-e7d32d787c86" />
+
+* Answer -> Option **A**.
+* [VERY IMPORTANT]
+
+<img width="805" height="475" alt="image" src="https://github.com/user-attachments/assets/81ed257c-99f2-4758-8e18-f5b8a35b5436" />
+<img width="1437" height="913" alt="image" src="https://github.com/user-attachments/assets/48a2bb27-b8d2-4629-b8cb-a68979050245" />
+<img width="1019" height="489" alt="image" src="https://github.com/user-attachments/assets/18952fe8-8d26-4b7d-b587-95e2afbdd728" />
+
+* Subjunctive mood -> Base form
+* Board -> Subject.
+* [VERY IMPORTANT]
+
+<img width="1435" height="915" alt="image" src="https://github.com/user-attachments/assets/ed1e3d2a-e7b7-4923-81c0-467e9e47df8f" />
+<img width="834" height="429" alt="image" src="https://github.com/user-attachments/assets/ed5e7048-917d-466e-bc4f-209b78931c45" />
+<img width="809" height="393" alt="image" src="https://github.com/user-attachments/assets/1874f7a3-f217-4884-822d-b9f2e955bc89" />
+
+* Unique/specific.
+
+<img width="298" height="134" alt="image" src="https://github.com/user-attachments/assets/397a2b51-61bf-4a61-9d27-a247927b103c" />
+
+* Yes.
+
+<img width="1440" height="917" alt="image" src="https://github.com/user-attachments/assets/eb2b4282-bb99-4f68-a595-172ac68a0a97" />
+<img width="1250" height="450" alt="image" src="https://github.com/user-attachments/assets/d7e78808-c823-4bb9-9345-387db45d4746" />
+
+* Parallelism.
+* We want noun form.
+
+<img width="1440" height="913" alt="image" src="https://github.com/user-attachments/assets/5dbb2c0f-1410-47da-bff1-29c22bfa5de4" />
+<img width="857" height="391" alt="image" src="https://github.com/user-attachments/assets/b090ed7b-96c5-4c24-b3e6-636243603eb0" />
+
+* Ans -> A & D both -> They are same only. 
+
+<img width="1442" height="917" alt="image" src="https://github.com/user-attachments/assets/2be2d838-cfda-45ca-8cd2-00584c5c3db1" />
+<img width="766" height="352" alt="image" src="https://github.com/user-attachments/assets/7bedd933-5dc9-4c9c-8879-97a0b8101f79" />
+
+* [VERY IMPORTANT]
+* If -> Comes with **conditions**. [FORMULA]
+
+<img width="1429" height="912" alt="image" src="https://github.com/user-attachments/assets/447d7e1a-4354-4829-8353-82a876439668" />
+<img width="1429" height="820" alt="image" src="https://github.com/user-attachments/assets/80f51421-cf84-4ffe-bb74-c3ff5d8bc6dc" />
+<img width="1414" height="802" alt="image" src="https://github.com/user-attachments/assets/9d5381e6-b644-4408-8228-c1e87e909e86" />
+
+* Gerund.
+* After **"committed"** -> **"to"** comes. [FORMULA]
+* Ans -> Option **A**.
+* [VERY IMPORTANT]
+
+<img width="843" height="450" alt="image" src="https://github.com/user-attachments/assets/a404901b-aff3-4d9c-96a5-a3b652038fab" />
+
+* Council divided -> Individuals -> Plural.
+* Ans -> Can be both Option **A & B**.
+* [VERY IMPORTANT]
+
+<img width="316" height="84" alt="image" src="https://github.com/user-attachments/assets/df8f9413-f4c6-4bdf-b3f8-23639ecf128b" />
+<img width="316" height="147" alt="image" src="https://github.com/user-attachments/assets/b22199b3-26ed-4610-a2ae-ed70731b4259" />
+
+* Yes.
+
+<img width="424" height="75" alt="image" src="https://github.com/user-attachments/assets/23f70491-f432-4bb2-94ca-19bc79d46b1d" />
+
+* Yes.
+
+<img width="1436" height="923" alt="image" src="https://github.com/user-attachments/assets/967532ae-45ce-47bc-befd-d8a132ac6446" />
+<img width="948" height="412" alt="image" src="https://github.com/user-attachments/assets/c70c1784-1ff5-46a7-9f87-02ab402d1ab1" />
+
+<img width="824" height="448" alt="image" src="https://github.com/user-attachments/assets/7ce88891-851f-471f-bdfc-3c02467476fc" />
+
+* Insist -> On.
+* Same preposition in both the blanks -> 
+* [VERY IMPORTANT]
+
+<img width="250" height="70" alt="image" src="https://github.com/user-attachments/assets/f882727f-edc1-4874-8daa-e6ed5cfdf974" />
+
+* Yes.
+
+<img width="1441" height="915" alt="image" src="https://github.com/user-attachments/assets/d697a4ba-5ebd-4928-b73e-9f09237918c1" />
+<img width="1441" height="899" alt="image" src="https://github.com/user-attachments/assets/1aa32336-802f-416b-ad11-04f720e50917" />
+<img width="1403" height="529" alt="image" src="https://github.com/user-attachments/assets/c84159c9-2cc0-4212-8a04-1d70ec0df50f" />
+
+* '2' Subjects joined by **"and"** -> Plural -> have -> Plural. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="306" height="71" alt="image" src="https://github.com/user-attachments/assets/fb79c60b-e097-46a8-8919-85adc68a39fd" />
+
+* Yes.
+* Each -> Singular -> has -> Singular. [FORMULA]
+
+<img width="1437" height="920" alt="image" src="https://github.com/user-attachments/assets/ac84cd4c-cce4-4970-858b-3cc42559bbc0" />
+
+* [VERY IMPORTANT]
+
+<img width="701" height="452" alt="image" src="https://github.com/user-attachments/assets/8f05e33b-bdf0-4129-862b-e89ca0c6a797" />
+<img width="1405" height="809" alt="image" src="https://github.com/user-attachments/assets/f58f1b2b-5ccf-418e-9d14-34f5c58ca143" />
+
+* Which VS That.  [FORMULA]
+* Which -> Non-essential clause -> Extra/not important/non-essential information. [FORMULA]
+* That -> Essential clause -> Important/Essential information. [FORMULA]
+* The book which is red is mine.
+* which is red -> Extra/not important information -> we used **"which"**.
+* The book that he took is mine.
+* that he took -> Important information -> we used **"that"**.
+<img width="1417" height="807" alt="image" src="https://github.com/user-attachments/assets/37af5e54-993e-4a9b-8bf6-0573dca50117" />
+
+*  Was presumed extinct locally -> Non-essential clause -> Extra/not important/non-essential information -> Which.
+* [VERY IMPORTANT]
+
+<img width="1436" height="918" alt="image" src="https://github.com/user-attachments/assets/e08bd4c8-60a8-4d13-8601-ecfd2883162e" />
+<img width="1429" height="813" alt="image" src="https://github.com/user-attachments/assets/db9e9604-e59d-4328-95db-2e572c6e0de1" />
+
+* Adverb's -> Possessivr noun. [FORMULA]
+* Adverb's -> Possession is not required. [FORMULA]
+
+<img width="1431" height="907" alt="image" src="https://github.com/user-attachments/assets/0f840626-8f83-4984-8498-c4120f6c33af" />
+<img width="1416" height="530" alt="image" src="https://github.com/user-attachments/assets/69913de7-b4ae-4f04-9202-03dffd1fee1a" />
+
+* Either -> Singular -> Fails -> Singular. [FORMULA]
+* States -> Subjunctive mood -> base form -> Be. [FORMULA]
+* [VERY IMPORTANT]
+* Ans -> Option **D**. 
+
+#### Idioms
+
+<img width="1438" height="913" alt="image" src="https://github.com/user-attachments/assets/f6b624f7-57a8-4d83-8bf1-7b8ba3c8bb94" />
+<img width="902" height="596" alt="image" src="https://github.com/user-attachments/assets/c89cc778-16ec-4365-ae61-37fffd412af1" />
+<img width="1436" height="912" alt="image" src="https://github.com/user-attachments/assets/0af5c5a3-b2ad-4417-b610-da6296a51b56" />
+<img width="1439" height="913" alt="image" src="https://github.com/user-attachments/assets/f30d6dab-8abc-444f-b199-d50f2be7e0b4" />
+<img width="1441" height="917" alt="image" src="https://github.com/user-attachments/assets/a0eef6d9-44bd-44f2-b388-1f6b88cfe205" />
+
+* [VERY IMPORTANT]
+
+<img width="1438" height="915" alt="image" src="https://github.com/user-attachments/assets/c5aace53-ea7c-4a1c-8703-dd93bcf9c3ff" />
+<img width="751" height="542" alt="image" src="https://github.com/user-attachments/assets/4f04de44-6799-4ad6-bcf0-f7b2cc03b6e7" />
+
+* [VERY IMPORTANT]
+
+<img width="1442" height="919" alt="image" src="https://github.com/user-attachments/assets/ca6d97c9-4246-40dc-9ff9-eba5a98ea5f5" />
+<img width="842" height="594" alt="image" src="https://github.com/user-attachments/assets/e8bd64da-e52e-4603-a245-cf04bb71fe7f" />
+
+* [VERY IMPORTANT]
+
+<img width="1442" height="914" alt="image" src="https://github.com/user-attachments/assets/50cd874b-1dae-4274-a80c-bc68a7a2b6a6" />
+<img width="812" height="540" alt="image" src="https://github.com/user-attachments/assets/bedfada0-cfa4-4261-864a-5084fa2698e4" />
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/3b05bc40-c32a-4c4d-a5b7-801e2c52097b" />
+<img width="770" height="631" alt="image" src="https://github.com/user-attachments/assets/5ed28091-aa18-4a41-af9a-3cccf1809404" />
+
+* Close but no cigar -> A tie after extra time. 
+* [VERY IMPORTANT]
+
+<img width="1440" height="922" alt="image" src="https://github.com/user-attachments/assets/95924bfa-584f-422f-bd86-b26cc94c85b9" />
+<img width="742" height="502" alt="image" src="https://github.com/user-attachments/assets/84d01bd0-02a0-48b8-9615-8e29bfe40191" />
+<img width="1435" height="909" alt="image" src="https://github.com/user-attachments/assets/856f0514-b362-4ec5-a4a9-67a32491bf92" />
+<img width="987" height="685" alt="image" src="https://github.com/user-attachments/assets/e88fddaa-7f29-4220-a279-18316280153a" />
+<img width="1399" height="793" alt="image" src="https://github.com/user-attachments/assets/fee80cb3-ebab-4317-ba0b-a83ce8a7daab" />
+
+* [VERY IMPORTANT]
+
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/79e6691f-6d33-41d9-8edd-a9ccb14a773e" />
+
+* Let's play devil's advocate.
+
+<img width="1435" height="917" alt="image" src="https://github.com/user-attachments/assets/d8363e90-b298-4f7b-b112-dbf1f60f3a9c" />
+<img width="743" height="559" alt="image" src="https://github.com/user-attachments/assets/86ba7118-3f6c-4fe2-85b7-f8e80756a1bd" />
+<img width="935" height="668" alt="image" src="https://github.com/user-attachments/assets/c1e96d2a-7af1-4491-aaa9-5cbadd9b09c5" />
+<img width="1039" height="581" alt="image" src="https://github.com/user-attachments/assets/292f7ea1-0cc7-4155-83bd-757cc69ab31b" />
+
+* A dime a dozen -> Cheap but premium looking, Extremely common and easily found. [FORMULA]
+* Answer -> Both option **A & B**.
+* [VERY IMPORTANT]
+
+<img width="433" height="86" alt="image" src="https://github.com/user-attachments/assets/bdcc79e7-ba49-4d4c-a06f-f79625b3fe1e" />
+<img width="442" height="118" alt="image" src="https://github.com/user-attachments/assets/d30cbfb1-3417-4fd3-9d1d-304cbacce752" />
+
+* Yes.
+
+<img width="1438" height="919" alt="image" src="https://github.com/user-attachments/assets/bec807a6-6436-4a5e-9a02-def2fbcea6b0" />
+<img width="749" height="567" alt="image" src="https://github.com/user-attachments/assets/8577d6c5-f735-4181-8980-17716fbae309" />
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/986d402e-a62a-4475-8b1e-7b3119268439" />
+<img width="785" height="527" alt="image" src="https://github.com/user-attachments/assets/2ec00ed4-0637-4b00-abe0-e27112b461f7" />
+
+* Draw a blank ->  appearing or causing to appear dazed, confounded, or nonplussed -> not having any relevant thoughts. [FORMULA]
+* [VERY IMPORTANT]
+
+<img width="1439" height="913" alt="image" src="https://github.com/user-attachments/assets/fa3f0336-3f11-4915-8295-26813db5221b" />
+<img width="786" height="566" alt="image" src="https://github.com/user-attachments/assets/175931a0-9d00-4706-b1fa-b5496fa09167" />
+
+* [VERY IMPORTANT]
+
+
+* COMPLETED Till 4th Dec.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
