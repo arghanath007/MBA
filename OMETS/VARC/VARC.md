@@ -8500,7 +8500,137 @@ Checklist:-
 
 ### Vocab Practice
 
+#### Idioms
 
+<img width="1436" height="911" alt="image" src="https://github.com/user-attachments/assets/3269bb31-5995-4b6d-99c9-d82c25e3f80b" />
+<img width="1429" height="802" alt="image" src="https://github.com/user-attachments/assets/48bd7857-fb02-4628-933e-9895c3179618" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="1438" height="913" alt="image" src="https://github.com/user-attachments/assets/151c89fe-1588-43c6-b63b-7eba74c616c7" />
+<img width="1436" height="903" alt="image" src="https://github.com/user-attachments/assets/8ae66e5e-c335-4d66-bc10-7231bbe5d72d" />
+<img width="1442" height="905" alt="image" src="https://github.com/user-attachments/assets/38d92c6f-75d2-470b-9650-447a33489ecd" />
+<img width="1441" height="910" alt="image" src="https://github.com/user-attachments/assets/4f7bc2e8-8ede-47ef-9236-ad22229dae2a" />
+<img width="1437" height="913" alt="image" src="https://github.com/user-attachments/assets/ff6ea194-47a2-4b77-8999-0d64e6a3619e" />
+<img width="1442" height="905" alt="image" src="https://github.com/user-attachments/assets/d086cea6-67f8-4eef-b79e-ec5100a428e5" />
+<img width="1443" height="913" alt="image" src="https://github.com/user-attachments/assets/f641b76e-b427-4304-88dd-4045aa60c76a" />
+<img width="1440" height="923" alt="image" src="https://github.com/user-attachments/assets/e923e8da-121c-4d98-8654-a8a881e81b7a" />
+<img width="1437" height="908" alt="image" src="https://github.com/user-attachments/assets/20ee1c70-a61a-4d0e-8c17-84185e3d594a" />
+<img width="1441" height="907" alt="image" src="https://github.com/user-attachments/assets/90133a41-a15c-4b5d-bbbc-66e13b58e019" />
+<img width="1440" height="909" alt="image" src="https://github.com/user-attachments/assets/c61e2c54-986b-4444-8bf5-c8d394a078ab" />
+<img width="1440" height="914" alt="image" src="https://github.com/user-attachments/assets/ce0b93b0-47fa-4548-9778-c6d266737947" />
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/ca0fd997-3df8-4a26-a255-0df20982ef8b" />
+<img width="1441" height="919" alt="image" src="https://github.com/user-attachments/assets/a331411d-7112-4e0d-8616-cdae7d93203c" />
+<img width="1439" height="913" alt="image" src="https://github.com/user-attachments/assets/13c037c7-e8de-47e9-a450-ceb5a789bc4b" />
+<img width="1439" height="905" alt="image" src="https://github.com/user-attachments/assets/4612a536-5c27-4376-aab2-5ba4b97b4c0e" />
+<img width="1439" height="921" alt="image" src="https://github.com/user-attachments/assets/f4bb8917-c9de-48f5-a79b-6ba144899b02" />
+<img width="1439" height="908" alt="image" src="https://github.com/user-attachments/assets/f802881b-69ed-42a9-aafc-9de83c55c491" />
+<img width="1441" height="906" alt="image" src="https://github.com/user-attachments/assets/8db52039-85c7-410f-bc87-c0d26d5899e5" />
+<img width="1434" height="917" alt="image" src="https://github.com/user-attachments/assets/c6e2933a-b252-48ef-9aaf-7fe27e4e6060" />
+<img width="711" height="458" alt="image" src="https://github.com/user-attachments/assets/cc2eb910-d22a-403b-a2a4-3abe13daf224" />
+
+* Raining cats and dogs -> Heavy rain ->  water that has fallen as rain : rainwater. [MEANING]
+
+<img width="1426" height="809" alt="image" src="https://github.com/user-attachments/assets/051afbbe-9a26-42b8-b214-ab05fa029c5a" />
+<img width="1075" height="397" alt="image" src="https://github.com/user-attachments/assets/5d7472c2-e3be-4d13-9018-ff4ae8d5997a" />
+
+* Once in a blue Moon -> Out of the blue -> They are both the same only.
+
+<img width="1328" height="655" alt="image" src="https://github.com/user-attachments/assets/d76b8cff-1c71-4ad9-898b-c0a22d223181" />
+<img width="708" height="420" alt="image" src="https://github.com/user-attachments/assets/edac7c7a-fa03-4486-b406-ae786783ab61" />
+
+* Going by the book.
+
+<img width="624" height="419" alt="image" src="https://github.com/user-attachments/assets/113d5bfe-8abf-498c-8816-96842d8986de" />
+<img width="824" height="423" alt="image" src="https://github.com/user-attachments/assets/a52c2146-7f24-43fa-b90d-4b56ec38b783" />
+<img width="699" height="368" alt="image" src="https://github.com/user-attachments/assets/b641e5f7-2ead-40ca-80b2-fc76a44d84ba" />
+<img width="600" height="385" alt="image" src="https://github.com/user-attachments/assets/2c5f4967-ed20-49fa-b225-a4707f1e7646" />
+<img width="1131" height="493" alt="image" src="https://github.com/user-attachments/assets/d8ed2b61-f8d1-41c5-90cf-fe0c57a238a2" />
+
+* In a soup.
+* On a sticky wicket.
+* In a pickle.
+
+<img width="1281" height="463" alt="image" src="https://github.com/user-attachments/assets/14761f76-7699-4055-a62a-29dd4e01816c" />
+
+* Burning the midnight oil.
+
+<img width="850" height="451" alt="image" src="https://github.com/user-attachments/assets/347f7af9-cb67-4e26-821e-854e043dba28" />
+
+* To turn a blind eye -> To something bad, not something good.
+* Sweep under the rug/carpet.
+
+<img width="1416" height="812" alt="image" src="https://github.com/user-attachments/assets/7056f7b4-5e71-4a11-9933-8a29d437acce" />
+<img width="1414" height="803" alt="image" src="https://github.com/user-attachments/assets/4767627b-fc51-4c0d-a645-7e311ba80c62" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="1037" height="534" alt="image" src="https://github.com/user-attachments/assets/9f1e1eeb-93b7-4a51-b158-3d088c2618aa" />
+<img width="1019" height="431" alt="image" src="https://github.com/user-attachments/assets/ece8c34a-e64e-4534-af9e-1daa4c9b5bbe" />
+
+* Chin music.
+
+<img width="1423" height="820" alt="image" src="https://github.com/user-attachments/assets/b8362dcb-9e1d-4f86-ae90-2c7741f48e18" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="606" height="312" alt="image" src="https://github.com/user-attachments/assets/2f4732ae-5e05-42e3-80c5-189ed8cba819" />
+<img width="1414" height="788" alt="image" src="https://github.com/user-attachments/assets/ac4fbcfc-30c0-422e-9774-fcfd22203ada" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="658" height="382" alt="image" src="https://github.com/user-attachments/assets/2b4df2d9-7336-4e7c-bfe1-991eb269a0a2" />
+<img width="1412" height="807" alt="image" src="https://github.com/user-attachments/assets/5010956c-07da-4158-b4df-9e6209c4f09e" />
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/55451e30-b385-4860-9b9c-b0af560cc7cb" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="979" height="576" alt="image" src="https://github.com/user-attachments/assets/5b713446-ca1b-4b2e-90d7-023c1595221e" />
+<img width="1412" height="808" alt="image" src="https://github.com/user-attachments/assets/42d1e7d1-9526-4bf5-9a1e-c52f227d2310" />
+<img width="1393" height="789" alt="image" src="https://github.com/user-attachments/assets/616589af-50f3-42bc-8469-3351e47372f8" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="646" height="427" alt="image" src="https://github.com/user-attachments/assets/66ef43cd-b3bc-4788-8670-d23945fc1472" />
+<img width="1369" height="758" alt="image" src="https://github.com/user-attachments/assets/a6a84dcb-97c6-4e70-8719-185003f5b464" />
+<img width="1414" height="804" alt="image" src="https://github.com/user-attachments/assets/5c6cd7aa-c907-45f7-9a24-a4e8545dcf1d" />
+
+* Run from post to pillar -> To try every option. [MEANING]
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="1430" height="812" alt="image" src="https://github.com/user-attachments/assets/949c5f36-5c20-4dd3-bd88-cdc138b75f1c" />
+
+* In the heart of my hearts -> Deep within, intutive -> at the deepest level where one's honest feelings are. [MEANING]
+* Wear one's heart on one's sleeve -> Quick to display emotions, to show emotions. [MEANING]
+* By heart ->
+* Lose heart -> 
+
+<img width="701" height="363" alt="image" src="https://github.com/user-attachments/assets/a610062f-cb7b-47b3-a25a-cd9cf9a44ee9" />
+<img width="831" height="662" alt="image" src="https://github.com/user-attachments/assets/36e644d3-382c-495f-8bc5-629bd01469fb" />
+
+* limbo -> a state of uncertainty. [MEANING] 
+
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/3817bb9f-5259-4552-a3c1-ee2b4855203e" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="743" height="418" alt="image" src="https://github.com/user-attachments/assets/c5ef20b0-7b23-480b-a683-f8d0a667afbb" />
+<img width="1404" height="810" alt="image" src="https://github.com/user-attachments/assets/d8a27c94-0483-444e-a099-dbdccaaef385" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="840" height="578" alt="image" src="https://github.com/user-attachments/assets/a6d972d6-6a5e-4cec-8227-af8ab9a1c96f" />
+<img width="1397" height="787" alt="image" src="https://github.com/user-attachments/assets/d05e60a7-3fe0-4304-a702-0f40aebd4968" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+<img width="919" height="447" alt="image" src="https://github.com/user-attachments/assets/c04b5308-f820-4b62-9d57-1f720adc96f2" />
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/c615f828-fa6f-461a-8b41-45e303cfeb53" />
+<img width="1399" height="790" alt="image" src="https://github.com/user-attachments/assets/21cb923d-da18-473a-bfd8-3426057bfeca" />
+
+* [VERY IMPORTANT] [FORMULA]
+
+* 49mins.
 
 
 
