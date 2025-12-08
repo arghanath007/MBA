@@ -1,4 +1,4 @@
-<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/cd24f572-5089-4fa3-b29f-847907d5aec7" /># VARC
+# VARC
 
 ## Next Class
 
@@ -9107,4 +9107,4 @@ Checklist:-
 <img width="1283" height="830" alt="image" src="https://github.com/user-attachments/assets/646090e2-dad7-4e8e-818b-b3d4ebc7ae2e" />
 <img width="1051" height="793" alt="image" src="https://github.com/user-attachments/assets/055491b7-c743-4edd-bac6-0af6e1808299" />
 <img width="1396" height="791" alt="image" src="https://github.com/user-attachments/assets/56d47c63-3aa9-421d-85af-e8b90efba231" />
- 
+ <img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/cd24f572-5089-4fa3-b29f-847907d5aec7" />
