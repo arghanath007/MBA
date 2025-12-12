@@ -23,13 +23,14 @@
 
 ## Vocab 
 
+* Vocab -> https://github.com/arghanath007/MBA/blob/main/OMETS/VARC/Vocab_Backup.md [Backup]
 * Link-> https://github.com/arghanath007/MBA/blob/main/OMETS/VARC/Vocab.md [Original]
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Grammer
 
-* Link -> 
+* Link -> https://github.com/arghanath007/MBA/blob/main/OMETS/VARC/Grammer.md. [Main]
 * Link -> https://github.com/arghanath007/MBA/blob/main/OMETS/VARC/Grammar_Backup.md [Backup]
 
 ### CR (1) [29]
