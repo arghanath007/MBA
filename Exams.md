@@ -29,6 +29,8 @@
 
 * IMPORTANT Topics.
 
+<img width="644" height="701" alt="image" src="https://github.com/user-attachments/assets/255426e2-40d6-43a6-b5b0-b4d7784798a0" />
+
 ## MICAT
 
 * MICAT I
