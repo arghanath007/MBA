@@ -8987,8 +8987,259 @@ Checklist:-
 
 * [VERY IMPORTANT]
 
+### Snap Practice
 
-* COMPLETED Till 4th Dec.
+#### Idioms
+
+<img width="1441" height="913" alt="image" src="https://github.com/user-attachments/assets/b5f70f16-d7bc-4f0f-ab1c-5f507a58df78" />
+<img width="921" height="404" alt="image" src="https://github.com/user-attachments/assets/d4cf804a-8aae-414f-a866-237cbac94b8e" />
+<img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/9b8be6bb-e328-4974-a68b-495b65e6c486" />
+<img width="1442" height="910" alt="image" src="https://github.com/user-attachments/assets/d540de48-0a80-4560-b27a-128750c9e161" />
+
+* Took off -> Run away, left -> to leave suddenly. [MEANING]
+
+<img width="1436" height="907" alt="image" src="https://github.com/user-attachments/assets/561c5e95-3a1e-46dd-9cbc-b4b9683e5486" />
+<img width="1411" height="808" alt="image" src="https://github.com/user-attachments/assets/57c14ede-8055-49d7-8c02-1730b07cbd3a" />
+<img width="1410" height="805" alt="image" src="https://github.com/user-attachments/assets/3a789bc3-9405-4f26-8994-e51aedc82fb0" />
+
+* Close to the chest -> play it secretly/be secretive, not telling anyone. [MEANING]
+
+<img width="1438" height="912" alt="image" src="https://github.com/user-attachments/assets/45ac983e-0402-4981-a86a-7086e55cdea0" />
+<img width="893" height="395" alt="image" src="https://github.com/user-attachments/assets/3a334852-1d0a-40a5-bf34-5f51e2eafd40" />
+<img width="1397" height="390" alt="image" src="https://github.com/user-attachments/assets/f03d50b5-3434-41b1-8372-b86b74f968a9" />
+
+* Save face -> Maintain reputation -> Damage control.
+* [VERY IMPORTANT]
+
+<img width="1434" height="913" alt="image" src="https://github.com/user-attachments/assets/561c83b5-7ccc-4faa-abc6-b1989ba096bb" />
+<img width="801" height="300" alt="image" src="https://github.com/user-attachments/assets/bc0ff325-5e38-4484-b792-4ce54bd2ee0e" />
+<img width="1437" height="908" alt="image" src="https://github.com/user-attachments/assets/298708ed-0165-495f-b8fe-ad508faf00da" />
+<img width="889" height="353" alt="image" src="https://github.com/user-attachments/assets/4aaed34e-c77b-478a-b996-f3a2bb6304ea" />
+
+#### Vocab
+
+<img width="1439" height="910" alt="image" src="https://github.com/user-attachments/assets/55deaf94-9f05-4969-a5be-2c6d12d11de7" />
+<img width="891" height="433" alt="image" src="https://github.com/user-attachments/assets/ab2ff95e-5c41-44ff-9e49-df28c874a09f" />
+
+* Pessimistic -> Negative. [MEANING]
+* Hostile -> Angry, aggressive. [MEANING]
+* Indifferent -> Apathetic. [MEANING]
+* nonchalant -> 
+* [VERY IMPORTANT]
+
+<img width="1421" height="805" alt="image" src="https://github.com/user-attachments/assets/dd989496-8ef5-457b-968e-4030f865e4d5" />
+<img width="1438" height="911" alt="image" src="https://github.com/user-attachments/assets/015ab0b2-0671-4844-a8c1-2c754363bffa" />
+
+* Derogatory -> Insulting, degrading, lack of respect, demeaning. [MEANING]
+* Perfunctory -> Done without any real interest. [MEANING]
+* Perfunctory -> Mundane. [MEANING]
+* Mundane -> Trite. [MEANING]
+* Trite -> Unorginal, lacking freshness. [MEANING]
+* Contrite -> Remoresful, regreteful, feeling guilty. [MEANING]
+* Disinterested -> Neutral, unbiased. [MEANING]
+
+<img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/c790fa25-01cf-44e6-ae7d-e5c0e87e0e99" />
+
+* [VERY IMPORTANT]
+
+<img width="1440" height="910" alt="image" src="https://github.com/user-attachments/assets/43e03796-d4e2-4642-a6c9-5d0e14e31895" />
+<img width="1394" height="588" alt="image" src="https://github.com/user-attachments/assets/ede19ff3-79af-4f89-a729-d10157afa574" />
+
+* Ubiquitous -> Universal. [MEANING]
+* Hidden from view -> Obscure. [MEANING]
+* Outdated -> Obsolete, Antiquated, arcane. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1442" height="914" alt="image" src="https://github.com/user-attachments/assets/28861d4a-2af2-4974-89e7-30509edc16e5" />
+
+* Pernicious -> Harmful. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="413" height="93" alt="image" src="https://github.com/user-attachments/assets/9cb63bb9-4333-4cbd-a3a3-909699fbc3a1" />
+<img width="1228" height="681" alt="image" src="https://github.com/user-attachments/assets/8269f8f9-50d5-4929-ad14-017fd4021d0c" />
+
+* Yes, sometimes work.
+* Pernicious -> Salubrious. [antonym]
+* Salubrious -> healthy, benehicial.
+
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/ce09d7f7-e8f3-41c1-b8ca-8897f5daa380" />
+<img width="1394" height="511" alt="image" src="https://github.com/user-attachments/assets/439f2aed-2b37-4aa0-82b5-02cd117191e9" />
+
+* Seismologiest -> Studies earthquakes. [VERY IMPORTANT]
+* Dermatologist -> Skin. [VERY IMPORTANT]
+* Astrologist -> Horoscope. [VERY IMPORTANT]
+* astrology -> the divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects. [VERY IMPORTANT]
+
+<img width="1442" height="909" alt="image" src="https://github.com/user-attachments/assets/a8746d3d-d40f-417b-8596-07befe424359" />
+<img width="1396" height="463" alt="image" src="https://github.com/user-attachments/assets/6c8e1d3f-35f0-4be3-91db-c2658bc399af" />
+
+* [VERY IMPORTANT]
+
+<img width="1443" height="911" alt="image" src="https://github.com/user-attachments/assets/81371f26-7b5c-43ed-90dd-912be6c80c88" />
+<img width="726" height="372" alt="image" src="https://github.com/user-attachments/assets/2df60b1f-bf82-4743-945b-74f212cdbab8" />
+<img width="1407" height="565" alt="image" src="https://github.com/user-attachments/assets/77b7ea5c-7baf-4fcc-a8f0-ceb38317501c" />
+
+* Adjective + '-ly' -> Adverb form. [VERY IMPORTANT]
+* [VERY IMPORTANT]
+
+<img width="1437" height="911" alt="image" src="https://github.com/user-attachments/assets/ea0c411b-0bfe-4789-af6d-8d7bd51a8be5" />
+<img width="1405" height="795" alt="image" src="https://github.com/user-attachments/assets/50b9e6ce-9df6-4203-9e14-e9715d6d40f9" />
+<img width="1400" height="649" alt="image" src="https://github.com/user-attachments/assets/a7bad9e0-7ef8-41d4-b9b3-60ffdef6df1e" />
+
+* Sear -> Burn. [MEANING]
+* Disinterested -> Not interested.
+* Raucous -> Very loud, harsh sound. [MEANING]
+* 1,2, 4 -> Correct
+* Malapropism -> Wrong usage. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1441" height="908" alt="image" src="https://github.com/user-attachments/assets/70ecd551-0f4a-4470-a21b-501c3d1e0ab4" />
+<img width="955" height="333" alt="image" src="https://github.com/user-attachments/assets/96c90446-ddc6-4ed7-af72-70c42d6b0a4b" />
+
+* Xenophobia -> Fear of strangers. [MEANING]
+* Achluophobia -> Fear of dark. [MEANING]
+* Acrophobia -> Fear of heights. [MEANING]
+* Arachnophobia -> Fear of spiders. [MEANING]
+* nyctophobia -> abnormal fear of darkness/night. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1441" height="914" alt="image" src="https://github.com/user-attachments/assets/936a5b8e-6ae5-4236-bed9-ec2064f365c7" />
+<img width="1201" height="461" alt="image" src="https://github.com/user-attachments/assets/70edaad0-cd98-45f9-b054-6d224b4ae41b" />
+
+* Verb form -> Assist, Assisted.
+* **"to"** -> Present tense.
+* [VERY IMPORTANT]
+
+<img width="1435" height="911" alt="image" src="https://github.com/user-attachments/assets/78d28537-51c9-4da6-bd0c-5d12838fdc9f" />
+<img width="1409" height="810" alt="image" src="https://github.com/user-attachments/assets/75ea043e-e9c2-4b9b-b155-776027dec9aa" />
+
+* Cracy -> Form of government.
+* Plutocracy -> Rule by elite, rich, wealthy people. [MEANING] 
+* Plutocracy -> Oligarchy, Aristocracy. [Synonym]
+* Meritocracy -> Rule by merit. [MEANING] 
+* Autocracy -> Rule by dictator. [MEANING] 
+* Theocracy -> Rule by god's people. [MEANING] 
+* god's people -> Priests/church.
+* [VERY IMPORTANT]
+
+<img width="1438" height="914" alt="image" src="https://github.com/user-attachments/assets/a29e5de8-7b8c-43d2-9aae-fdf7ed7eef3d" />
+<img width="1202" height="450" alt="image" src="https://github.com/user-attachments/assets/28719dd9-a28f-4c0b-a29b-098f35dacb50" />
+
+* Ennoble -> Dignify, Honour. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1437" height="915" alt="image" src="https://github.com/user-attachments/assets/13eb81f9-2896-4cfe-82cd-9eafce396084" />
+
+* [VERY IMPORTANT]
+
+<img width="1442" height="910" alt="image" src="https://github.com/user-attachments/assets/8a28cf5d-c0d6-4526-85e6-bc517f6c9287" />
+<img width="1003" height="439" alt="image" src="https://github.com/user-attachments/assets/2736fad0-7648-470b-bc9b-905daa0fa405" />
+
+* Phile -> Lover of something. [MEANING]
+* Bibliophile -> Lover of books. [MEANING]
+* Technophile -> Lover of Tech. [MEANING]
+* Francophile -> Lover of france. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1437" height="910" alt="image" src="https://github.com/user-attachments/assets/dbc0bb3a-8a57-4d37-b4d5-ecae7eaefca8" />
+<img width="873" height="399" alt="image" src="https://github.com/user-attachments/assets/5d347258-3ce0-4731-92d3-c0cbe2d5d15e" />
+<img width="946" height="532" alt="image" src="https://github.com/user-attachments/assets/ff46392d-6e9f-46a2-95d7-39558a753fe9" />
+<img width="916" height="652" alt="image" src="https://github.com/user-attachments/assets/fcdd9d6b-85d2-4a26-b514-7269e2161607" />
+
+* Vicariously -> Adverb.
+* 3 -> Not a word.
+* Vicariate -> Office of vicar. [MEANING]
+* Vicar -> Church official. [MEANING]
+* Vicariate, Vicar -> Noun.
+* Vicar -> Person.
+* [VERY IMPORTANT]
+
+<img width="1432" height="912" alt="image" src="https://github.com/user-attachments/assets/b28db66a-f4df-40c6-91ab-59b53aa2a208" />
+<img width="1396" height="500" alt="image" src="https://github.com/user-attachments/assets/715862e7-49e0-46d8-b44d-d794f62ed90c" />
+<img width="1439" height="914" alt="image" src="https://github.com/user-attachments/assets/ab277775-0685-4c83-8580-b7dde58318fc" />
+<img width="1019" height="361" alt="image" src="https://github.com/user-attachments/assets/3e44514e-755c-4bfb-b977-92c2685d978f" />
+
+* Mournful -> Gloomy, morbid, sad. [MEANING]
+* [VERY IMPORTANT]
+
+<img width="1442" height="909" alt="image" src="https://github.com/user-attachments/assets/5cde2e7f-7e97-4196-991f-ccd4ec1fcd84" />
+<img width="905" height="344" alt="image" src="https://github.com/user-attachments/assets/7a1f546c-9a67-4bab-92ad-36adff7798e7" />
+<img width="842" height="376" alt="image" src="https://github.com/user-attachments/assets/bd62971d-8fd7-4929-8dfc-4cb0eb5be4bf" />
+
+* Critique -> Noun & Verb Form -> Same -> Critique.
+* Critique -> Formal word.
+* Criticise -> Informal word.
+* [VERY IMPORTANT]
+
+<img width="328" height="70" alt="image" src="https://github.com/user-attachments/assets/bff38738-a017-467c-92bf-a6329216e4a8" />
+
+* Yes.
+
+<img width="1441" height="910" alt="image" src="https://github.com/user-attachments/assets/adb0949f-df89-4d60-89a7-0b7db41b3ffe" />
+<img width="1079" height="390" alt="image" src="https://github.com/user-attachments/assets/99218126-0a06-4ac1-92a0-275b7f8e60e2" />
+<img width="1015" height="400" alt="image" src="https://github.com/user-attachments/assets/1d1aba5b-6097-4bee-a2d1-d73e86bdcaf7" />
+
+* Hamlet -> Small village. [MEANING]
+* Township -> Administrative division. [MEANING]
+* Aerophobia -> Fear of flying. [MEANING]
+* Agoraphobia -> Fear of open crowded space. [MEANING]
+* Aquaphobia -> Fear of water. [MEANING]
+* Amaxophobia -> Fear of driving -> Mike Ross(Suits). [MEANING]
+
+<img width="1415" height="795" alt="image" src="https://github.com/user-attachments/assets/ba091c79-dff1-4a46-8491-3c1abcf9cded" />
+<img width="1073" height="552" alt="image" src="https://github.com/user-attachments/assets/09940de8-8b01-4998-94a2-24904441b9ce" />
+
+* Androphobia -> Fear of Men. [MEANING]
+* Anthropophobia -> Fear of people/society. [MEANING]
+* Gynophobia -> Fear of female. [MEANING]
+* Hemophobia -> Fear of blood. [MEANING]
+* Glassophobia -> Fear of public speaking. [MEANING]
+* Claustrophobia -> Fear of closed/enclosed spaced. [MEANING]
+* Ophidiophobia -> Fear of snakes. [MEANING]
+
+<img width="1407" height="801" alt="image" src="https://github.com/user-attachments/assets/721a34a6-7606-4b48-9f3d-ebce627e19d9" />
+<img width="1429" height="814" alt="image" src="https://github.com/user-attachments/assets/224f7d21-cabd-4554-b5dd-9f7bea9aae07" />
+
+* Anglophile -> Lover of English people/culture/language or England. [MEANING]
+* Autophile -> Someone who loves being alone. [MEANING]
+* Dendrophile -> Lover of trees. [MEANING]
+* Oenophile -> Lover of wine. [MEANING]
+* Nyctophile -> Lover of night. [MEANING]
+
+<img width="1413" height="803" alt="image" src="https://github.com/user-attachments/assets/c1593b04-54b0-4a7c-ae21-0dbd98e88a41" />
+<img width="1421" height="808" alt="image" src="https://github.com/user-attachments/assets/775c9cb3-61be-46f6-99a7-54cdcf69e8bf" />
+<img width="1184" height="588" alt="image" src="https://github.com/user-attachments/assets/6f939a74-c0fb-453e-bf9f-359d3fdfe478" />
+
+* Heliophile -> Lover of sunlight. [MEANING]
+* Plutophile -> Lover of wealth. [MEANING]
+* Astrophile -> lover of stars. [MEANING]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
