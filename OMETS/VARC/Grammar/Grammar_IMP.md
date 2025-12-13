@@ -203,6 +203,139 @@
 
 * 7 -> Option A. [Correct]
 
+<img width="1225" height="804" alt="500856638-abb64e02-01ac-40b2-8d3b-b91f331005d9" src="https://github.com/user-attachments/assets/b0857f1a-7fbf-44e5-bf25-15797c1c727d" />
+
+* 8 -> Option B. [Correct]
+* 9 -> Option A. [Correct]
+* Creation "of" something. [FORMULA]
+* Creation "of" Pakistan. [Example]
+
+<img width="1421" height="818" alt="500864252-b488d7ee-d01b-4ac3-ad8f-ae230d399009" src="https://github.com/user-attachments/assets/82be69f3-564e-4103-b661-c634a14ac153" />
+<img width="1407" height="804" alt="500866074-542a4765-76fb-4890-9272-b58b38be5c07" src="https://github.com/user-attachments/assets/eb93b9fd-4abd-442a-a613-884c312f9e1d" />
+
+* 11 -> Option A. [Correct]
+* John, inspite of not being well, scored good marks in CAT. [Example]
+* John -> Subject(S).
+* scored -> Verb(V)
+
+<img width="1404" height="806" alt="500869401-0a3df40d-f7eb-44be-a3e8-295b7dc93563" src="https://github.com/user-attachments/assets/219f849e-3a03-491a-bced-d0d63d1c044f" />
+
+* 12 -> Option both 'A & B'. [Correct]
+
+<img width="1440" height="989" alt="500870933-92eec36e-48ef-46b8-93ac-feb2437c3bd7" src="https://github.com/user-attachments/assets/d2e9fd9a-ad18-4f35-a5b1-2e4786a8ee95" />
+
+* With/After **"Act"** -> **"Upon"** is used. [VERY IMPORTANT]
+* 1st blank -> You compete **"with"** someone. [VERY IMPORTANT]
+* Volumes -> Book or movies -> **"In"**. [VERY IMPORTANT]
+* 13 -> Option C. [Correct]
+
+<img width="1431" height="986" alt="500874001-ac88525b-3b20-4839-9f1c-3c0ad94f9321" src="https://github.com/user-attachments/assets/2959844c-d162-4791-8c7f-44dcbdcdeb38" />
+
+* 14 -> Option A. [Correct]
+* With/After **"as"** -> **"in"** is used. [VERY IMPORTANT]
+* want **"of"** -> Shortage of, lack of. [VERY IMPORTANT] [Idioms] [MEANING]
+
+<img width="1441" height="988" alt="500875654-dd5f5ccf-c760-44f1-ace4-bbf59999cd96" src="https://github.com/user-attachments/assets/bbc17075-72df-490f-af78-d4fc29025bfb" />
+
+* 15 -> Option D. [Correct]
+* I spent my time "in" something. [VERY IMPORTANT]
+* With/After **"aid"** -> **"of"** is used. [VERY IMPORTANT]
+* His best research is spent "on" this. [VERY IMPORTANT] [idioms]
+* He spends his money "on" something. [VERY IMPORTANT] [idioms]
+* With/After **"alloted"** -> **"to"** is used. [VERY IMPORTANT]
+* My seat has been alloted "to" someone else.[idioms] [Example]
+
+<img width="1232" height="799" alt="501053261-694f4bb4-9cea-4c05-8d1e-79e00c6c2333" src="https://github.com/user-attachments/assets/628d4c29-e58d-4657-9729-cccadfd44e93" />
+
+* 16 -> Option B. [Correct]
+
+<img width="1440" height="969" alt="501055413-f2170fbb-9434-4e49-af0a-ede588d16f45" src="https://github.com/user-attachments/assets/cac6b26b-7b72-4c04-9f32-d09638108711" />
+
+* 17 -> Option C. [Correct]
+* Fill in the Blank -> Attack the blank which is the easiest to fill. [FORMULA] [VERY IMPORTANT]
+* After a preposition, a verb nerver comes. [VERY IMPORTANT]
+
+<img width="1437" height="980" alt="501060676-f01951ad-954f-4d0f-b65c-d38782199401" src="https://github.com/user-attachments/assets/1f21c1c4-6523-4802-95db-f62810f501c9" />
+
+* 18 -> Option B. [Correct]
+
+<img width="1186" height="797" alt="501070820-8203ba1e-d2e7-4514-a53f-767a62ea1e4d" src="https://github.com/user-attachments/assets/d035e434-b041-4159-8bde-68e0f96e2d9d" />
+
+* 20 -> Option A. [Correct]
+
+<img width="1440" height="966" alt="501072389-c19cc7ce-e76d-48d5-9b03-bab7ab62d3e6" src="https://github.com/user-attachments/assets/a2e82585-d6ac-42fe-a21a-a664f040da5f" />
+
+* 1 -> Option B. [Correct]
+* For -> It is working as "because", as a conjunction. [VERY IMPORTANT]
+* Because, Or -> Conjunction. 
+
+<img width="1372" height="785" alt="501073325-0c06f7a7-2ae7-4dc4-b123-6de25f732d94" src="https://github.com/user-attachments/assets/2d835c0e-c6b3-4512-9115-28d6dbca4b46" />
+
+* of 'X', or else "of" 'Y' -> Parallel Construction.
+
+<img width="1442" height="972" alt="501074751-ef81b69a-4dcd-4a4b-9ecd-b841eb442172" src="https://github.com/user-attachments/assets/2c3b54cb-aa81-4f8a-80b9-574bc7cb71ac" />
+
+* 2 -> Option A. [Correct]
+* With/After **"necessary"** -> **"for"** is used. [VERY IMPORTANT]
+* With/After **"necessities"** -> **"of"** is used. [VERY IMPORTANT]
+* X is necessary "for" Y. [Example]
+* The necessities "of" one man differs from the necessaties "of" another man. [Example]
+* We take **"into"** account something. [Example]
+* You pass your judgement **"upon"** something. [Correct] [Example]
+* You pass your judgement **"on"** something. [Correct] [Example]
+
+<img width="1425" height="970" alt="501079424-6e38e0b9-a4a1-457d-bf3f-6927584c5d40" src="https://github.com/user-attachments/assets/9c16cbcc-fa4a-4c61-823f-66f25f8f227c" />
+
+* 3 -> Option C. [Correct]
+* I have been misunderstood "by" so many people. [VERY IMPORTANT]
+* You reconcile "with" someone. [Correct]
+* You resign "to" you faith but you resign "from" your company. [Example]
+
+<img width="1439" height="987" alt="501090825-b36be07a-ff64-4112-b3aa-68febb87bd40" src="https://github.com/user-attachments/assets/fc29f0aa-bb44-48ee-80fb-60ec33372865" />
+
+* 4 -> Option A. [Correct]
+* With/After **"made"** -> **"up of"** is used. [VERY IMPORTANT]
+
+<img width="1442" height="968" alt="501099474-44a00aeb-010a-444f-87e2-a17059db6ea9" src="https://github.com/user-attachments/assets/db4b695f-487a-47fa-904b-a75e80504d6f" />
+
+* 5 -> Option D. [Correct]
+* With/After **"contrary"** -> **"to"** is used. [VERY IMPORTANT]
+* My experice of marriage is contrary "to" yours. [Example] [Correct]
+* You are bound "by" something. [Example] [Correct]
+* I want to live a life like you but I am bound "by" my marriage. [Example] [VERY IMPORTANT]
+* bound "by" -> Vows of marriage. [VERY IMPORTANT]
+* bound "for" -> Destination. [VERY IMPORTANT]
+* The train is bound "for" Delhi.  [Example]
+* bound "to" -> I am bound "to" loose my temper. [VERY IMPORTANT]
+* bound together "by".
+
+<img width="1438" height="973" alt="501107565-3165ae3e-8ce5-4c77-8d14-5256b6ba0463" src="https://github.com/user-attachments/assets/c496c6ec-8382-4eef-b274-d05bd33962ef" />
+
+* 6 -> Option C. [Correct]
+* With/After **"on account"** -> **"of"** is used. [VERY IMPORTANT]
+* With/After **"to account"** -> **"for"** is used. [VERY IMPORTANT]
+* On the account "of" diwali we are observing 3days of holiday. [Example]
+* How can I account "for" this mysterious being. [Example]
+
+<img width="1437" height="980" alt="501110036-dd0ceeb1-4f24-48eb-ac94-f6b2ac924c91" src="https://github.com/user-attachments/assets/3f87f9c5-ae7a-46d5-8628-9434e818b62e" />
+
+* 7 -> Option A. [Correct]
+* With/After **"origin"** -> **"of"** is used. [VERY IMPORTANT]
+* The origin "of" life. [Example]
+* Something is "of" primitive origin. [Correct] [Example]
+* Point "of" origin. [Correct]  [Example]
+* About -> Topic of discussion -> Here we are talking about the source and not about the Topic of discussion. That's why about was not used in the 1st blank. [IMPORTANT]
+
+<img width="1430" height="971" alt="501113355-93b02b7e-7c52-4948-bed4-61f2828f07d9" src="https://github.com/user-attachments/assets/d079acb4-6d4c-497e-a231-b77db2ebbc6f" />
+
+* 8 -> Option B. [Correct]
+
+<img width="1441" height="970" alt="501143351-0fd5d328-c0ef-4da2-b349-b49151658412" src="https://github.com/user-attachments/assets/9b8ff093-7e6b-45b7-a022-12693a8da221" />
+
+* 9 -> Option C. [Correct]
+* Link -> https://github.com/arghanath007/MBA/blob/main/OMETS/VARC/Grammar_Backup.md [DONE]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -215,6 +348,44 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Meanings
+
+1) Heresy -> Going against the church. [MEANING]
+2) Tribunal -> Court. [MEANING]
+3) want **"of"** -> Shortage of, lack of. [VERY IMPORTANT] [Idioms] [MEANING]
+4) aid -> Help. [MEANING]
+5) Propitious -> Fortunate. [MEANING]
+6) Inquisition -> Conquoring. [MEANING]
+7) Developing in -> Within something. [VERY IMPORTANT]
+8) Developing into -> Transforming into. [VERY IMPORTANT]
+9) Transformed into, Developed into, metamorphos into. [VERY IMPORTANT]
+10) Polemic -> One who argues for something. [MEANING]
+11) Passes "to" -> It means "moving to".
+12) You reconcile "with" someone -> It means to "patch up** with someone.
+13) bound "by" -> Vows of marriage. 
+14) bound "for" -> Destination => The train is bound "for" Delhi. 
+15) bound "to" -> I am bound "to" loose my temper.
+16) To account "for" -> To explain something.
+17) About -> Topic of discussion. [MEANING]
+18) in accordance with -> Rule/law. [MEANING]
+19) According to "data" -> As per "data". [MEANING]
+20) with respect to -> Used for certain subject matter. [MEANING]
+21) Divinization -> Elivating someone to the status of god, To give someone a divine status. [MEANING]
+22) Divine -> Noun -> of, relating to, or proceeding directly from God. [MEANING]
+    
 
 
 
