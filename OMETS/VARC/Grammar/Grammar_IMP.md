@@ -385,6 +385,7 @@
 20) with respect to -> Used for certain subject matter. [MEANING]
 21) Divinization -> Elivating someone to the status of god, To give someone a divine status. [MEANING]
 22) Divine -> Noun -> of, relating to, or proceeding directly from God. [MEANING]
+23) Recused -> Removed/excuse yourself. [MEANING]
     
 
 
