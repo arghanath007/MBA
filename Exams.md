@@ -16,7 +16,7 @@
 * SNAP 25:-
 
 1) SNAP Test 1 - 06-December-2025 (Saturday) [DONE]
-2) SNAP Test 2 - 14-December-2025 (Sunday)
+2) SNAP Test 2 - 14-December-2025 (Sunday) [DONE]
 3) SNAP Test 3 - 20-December-2025 (Saturday)
 
 <img width="706" height="150" alt="image" src="https://github.com/user-attachments/assets/319f3efb-ad9e-48eb-b1d8-f6e81609145f" />
@@ -30,10 +30,13 @@
 * IMPORTANT Topics.
 
 <img width="644" height="701" alt="image" src="https://github.com/user-attachments/assets/255426e2-40d6-43a6-b5b0-b4d7784798a0" />
+<img width="1051" height="449" alt="image" src="https://github.com/user-attachments/assets/d82e2d73-6945-423d-885b-fbed1bcce009" />
+
+* Marks needed.
 
 ## MICAT
 
-* MICAT I
+* MICAT I [DONE]
 
 <img width="588" height="299" alt="image" src="https://github.com/user-attachments/assets/36daa223-ddcb-4428-8ded-8dee1759fa26" />
 
