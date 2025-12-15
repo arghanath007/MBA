@@ -55,5 +55,5 @@
 
 <img width="791" height="203" alt="image" src="https://github.com/user-attachments/assets/aef19063-c0ea-4b7e-8fba-6a6f9e3e6dba" />
 
-* 16 Dec 2025 12:00 PM. [Check again at the end of Nov if new dates have come or not]
-
+* 19 Dec 2025 12:00 PM. [Check again at the end of Nov if new dates have come or not] [UPDATED]
+* NMAT -> No Geometry, LR there, Cubes, Dices, Binary Logic, Syllogisms, Clocks, Calendars, LS. [Topcis of 2025]
