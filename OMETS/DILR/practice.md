@@ -31,6 +31,46 @@
 
 
 
+## SNAP 2023 Paper
+
+<img width="1425" height="816" alt="image" src="https://github.com/user-attachments/assets/ef96a74d-ba91-4d0e-813e-d2dc2edd41aa" />
+<img width="1429" height="821" alt="image" src="https://github.com/user-attachments/assets/d3aa1472-7909-471b-8bca-7407eb4c8fac" />
+
+* Q1 to Q15 -> VARC questions.
+
+<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/cf96170b-33e7-45cb-ac39-04ef2de44347" />
+
+* SNAP exam pattern.
+
+<img width="1442" height="919" alt="image" src="https://github.com/user-attachments/assets/521370a9-f489-4370-bc15-273a94d2917c" />
+<img width="1429" height="805" alt="image" src="https://github.com/user-attachments/assets/5f69d06f-4c07-4be4-9110-b3a775e6442d" />
+<img width="1440" height="905" alt="image" src="https://github.com/user-attachments/assets/da8bf95a-b943-446e-981d-78f7a9d8f77f" />
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/f4b1f60f-3963-4736-b3ca-f15c846002e7" />
+
+* [IMPORTANT]
+
+<img width="1440" height="905" alt="image" src="https://github.com/user-attachments/assets/ae717a03-72f9-49b5-b984-8f303d15139c" />
+<img width="1411" height="815" alt="image" src="https://github.com/user-attachments/assets/7e671ff7-f232-43a5-9f96-68c322db1ad2" />
+<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/c05fbfee-ba0e-41f4-9a6f-f98250dc0fb6" />
+
+* Ans -> D.
+
+<img width="1416" height="810" alt="image" src="https://github.com/user-attachments/assets/9c2196ea-7233-41b4-a9cd-e835c6ca0615" />
+<img width="1428" height="824" alt="image" src="https://github.com/user-attachments/assets/47629f36-99c7-4832-a0a6-e972a91cf784" />
+<img width="1426" height="813" alt="image" src="https://github.com/user-attachments/assets/19d41380-0f60-4744-bd37-bb132328baa4" />
+
+* Ans -> Uncle OR Maternal Uncle.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
