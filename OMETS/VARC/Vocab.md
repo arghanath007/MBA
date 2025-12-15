@@ -1,4 +1,54 @@
-## Vocab 
+# Vocab 
+
+## Confusion Busters
+
+* Link -> https://www.youtube.com/watch?v=qPeZlKr85Pk [1]
+* Link -> https://www.youtube.com/watch?v=z6q_rBt-3Aw [2]
+* Link -> https://www.youtube.com/watch?v=RNc03gnoSFQ [3]
+* Link -> https://www.youtube.com/watch?v=lNliELWwLh8 [4]
+* Link -> https://www.youtube.com/watch?v=seY5LQ8vCA4 [5]
+* Link -> https://www.youtube.com/watch?v=gGpDLTL5Kd0 [6]
+* Link -> https://www.youtube.com/watch?v=CObU51KE_UM [7]
+
+* Local -> Nearby. [MEANING]
+* Locale -> Means a place where something happens. [MEANING]
+
+<img width="446" height="800" alt="image" src="https://github.com/user-attachments/assets/bdd948a7-a772-40ee-8fba-668f32d18b0f" />
+<img width="450" height="804" alt="image" src="https://github.com/user-attachments/assets/d7f30332-cf04-49f7-9dbb-328bdd0ae46d" />
+
+* Historic -> Something significant, something important. [MEANING]
+* Historical -> Relating to history. [MEANING]
+* It was a historic event. [Example]
+* The monument has historical significance. [EXAMPLE]
+
+<img width="452" height="797" alt="image" src="https://github.com/user-attachments/assets/d23546d2-ba5d-478a-8300-d6b3f0e6cbda" />
+
+* Disinterested -> Neutral, unbiased, not biased. [MEANING]
+* Uninterested -> Not interested. [MEANING]
+* The judge was known for his disinterested stance. [Example]
+
+<img width="457" height="792" alt="image" src="https://github.com/user-attachments/assets/bd123343-2649-478d-9add-2c09579f3412" />
+
+* Venal -> Corruptible. [MEANING]
+* Venial -> Minor sin. [MEANING]
+
+<img width="460" height="802" alt="image" src="https://github.com/user-attachments/assets/2417a7a9-468b-45d2-a1f9-65bc5e72cbd0" />
+
+* Persecute -> Harass/oppress. [MEANING]
+* Prosecute -> To take legal action. [MEANING]
+
+<img width="451" height="798" alt="image" src="https://github.com/user-attachments/assets/023b8888-0b05-4b7b-9623-0d87c6ea0abf" />
+
+* Elicit -> Draw out. [MEANING]
+* The response had to be elicited out of her because she was very reserved. [Example]
+* Illicit -> Illegal, unlawful, not moral.  [MEANING]
+* The money he earned from the project was illict. [Example]
+* They had an illict affair. [Example]
+
+<img width="455" height="803" alt="image" src="https://github.com/user-attachments/assets/10f7cd97-e176-4eab-93ec-a128eeb6159e" />
+
+* Ingenious -> Clever, intelligent. [MEANING]
+* Ingenuous -> Naive, clueless, innocent. [MEANING]
 
 ### Vocab Basics (1) [1]
 
