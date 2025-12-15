@@ -19,6 +19,10 @@
 2) SNAP Test 2 - 14-December-2025 (Sunday) [DONE]
 3) SNAP Test 3 - 20-December-2025 (Saturday)
 
+<img width="1244" height="773" alt="image" src="https://github.com/user-attachments/assets/11c08058-2e04-4164-9ca6-124f93cfa99b" />
+
+* SNAP Exam pattern.
+
 <img width="706" height="150" alt="image" src="https://github.com/user-attachments/assets/319f3efb-ad9e-48eb-b1d8-f6e81609145f" />
 <img width="1356" height="748" alt="image" src="https://github.com/user-attachments/assets/758adb92-a529-4f79-8e5a-a3c1524244b5" />
 
