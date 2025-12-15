@@ -188,6 +188,41 @@
 
 * Answer -> A.
 
+<img width="1488" height="861" alt="image" src="https://github.com/user-attachments/assets/c377ca0b-dbb8-44fe-9158-02d9cbd2a7ac" />
+<img width="1661" height="909" alt="image" src="https://github.com/user-attachments/assets/76e5f727-4a71-466b-b5e6-d3809dbf8360" />
+<img width="1498" height="838" alt="image" src="https://github.com/user-attachments/assets/3ff9e996-c5db-4909-9bf5-e025304a6be1" />
+<img width="1467" height="800" alt="image" src="https://github.com/user-attachments/assets/21b7c06e-ccc0-4ef5-bac1-999bffe819ca" />
+<img width="1724" height="908" alt="image" src="https://github.com/user-attachments/assets/98256f21-9bb9-4585-8b28-ac5d8bc6d7d2" />
+<img width="992" height="436" alt="image" src="https://github.com/user-attachments/assets/9a40f683-090e-4620-b8e8-fefe486fe41b" />
+<img width="1292" height="457" alt="image" src="https://github.com/user-attachments/assets/6ce47511-77ea-4adf-8f4e-e33c17970336" />
+<img width="887" height="436" alt="image" src="https://github.com/user-attachments/assets/b878bc40-d689-41a4-a34d-1d0c2122b3bb" />
+<img width="796" height="396" alt="image" src="https://github.com/user-attachments/assets/2c9e0ea2-c52c-4a54-9d1a-e0bdd8b4e1bf" />
+<img width="1288" height="877" alt="image" src="https://github.com/user-attachments/assets/70171dff-186b-49ea-961d-54a3c9a98dfa" />
+<img width="1683" height="890" alt="image" src="https://github.com/user-attachments/assets/c0d17f20-348d-4e0c-8c3a-14ce1d1c11e1" />
+<img width="1120" height="427" alt="image" src="https://github.com/user-attachments/assets/d27b1678-0d88-45f2-af53-4415c8e04550" />
+<img width="1737" height="916" alt="image" src="https://github.com/user-attachments/assets/207a65fc-b2e4-45b6-b393-387288f5fe94" />
+<img width="1357" height="403" alt="image" src="https://github.com/user-attachments/assets/2f188827-2815-46bb-8e6e-82d16c30ef03" />
+<img width="1005" height="427" alt="image" src="https://github.com/user-attachments/assets/6cef5ab3-2fe6-4a9c-a118-e167db7d058a" />
+<img width="1430" height="642" alt="image" src="https://github.com/user-attachments/assets/9dd14f7e-0d38-4d09-96da-83e729b2f325" />
+
+* LCM of 10,15 -> 30.
+* Total Work(W) -> 30.
+* 30/10->3.
+* 30/15->2.
+* 8*3->24.
+* 6/2->3.
+
+<img width="1600" height="918" alt="image" src="https://github.com/user-attachments/assets/a452102a-d952-41b5-a93a-ca91252e30ba" />
+<img width="1527" height="914" alt="image" src="https://github.com/user-attachments/assets/975d2be9-d3e3-4742-b8a5-494c66a4f897" />
+<img width="1434" height="651" alt="image" src="https://github.com/user-attachments/assets/98726f0f-b5c5-4737-9e07-cecde37c5959" />
+<img width="1412" height="668" alt="image" src="https://github.com/user-attachments/assets/018ceca6-1631-4c65-b2e9-bb052c538a90" />
+<img width="1438" height="538" alt="image" src="https://github.com/user-attachments/assets/7c972e52-aa7f-4d17-a419-5527b4c39cb4" />
+<img width="1183" height="905" alt="image" src="https://github.com/user-attachments/assets/e95945b0-7e9f-4f80-af66-0d9008a69307" />
+
+
+
+
+
 
 
 
