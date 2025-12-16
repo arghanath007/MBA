@@ -148,9 +148,11 @@
 * Expand ->
 * Ans -> Option **C** -> Ink.
 
+<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/e2ac2fac-bf92-461c-b7f8-2dea630ceecc" />
+<img width="1441" height="846" alt="image" src="https://github.com/user-attachments/assets/4c40895e-05b1-4b29-a945-9ee8c9001f58" />
+<img width="1404" height="798" alt="image" src="https://github.com/user-attachments/assets/505939c9-ecb5-49c6-adaf-ddae32d46f6f" />
 
-
-
+## SNAP 2022 Paper
 
 
 
@@ -331,9 +333,6 @@
 * Ashok -> Uncle.
 * [VERY IMPORTANT]
 
-<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/e2ac2fac-bf92-461c-b7f8-2dea630ceecc" />
-<img width="1441" height="846" alt="image" src="https://github.com/user-attachments/assets/4c40895e-05b1-4b29-a945-9ee8c9001f58" />
-<img width="1404" height="798" alt="image" src="https://github.com/user-attachments/assets/505939c9-ecb5-49c6-adaf-ddae32d46f6f" />
 
 
 
