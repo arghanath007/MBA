@@ -58,8 +58,104 @@
 <img width="1416" height="810" alt="image" src="https://github.com/user-attachments/assets/9c2196ea-7233-41b4-a9cd-e835c6ca0615" />
 <img width="1428" height="824" alt="image" src="https://github.com/user-attachments/assets/47629f36-99c7-4832-a0a6-e972a91cf784" />
 <img width="1426" height="813" alt="image" src="https://github.com/user-attachments/assets/19d41380-0f60-4744-bd37-bb132328baa4" />
+<img width="1402" height="803" alt="image" src="https://github.com/user-attachments/assets/b3143b56-5bbd-4960-be15-d3980f680068" />
 
 * Ans -> Uncle OR Maternal Uncle.
+
+<img width="1439" height="813" alt="image" src="https://github.com/user-attachments/assets/d7c81d2a-38ae-4451-bf4b-49bcd8b39b77" />
+
+* 34512.
+
+<img width="1421" height="829" alt="image" src="https://github.com/user-attachments/assets/180ad78a-9c76-420f-88f4-6defcda61198" />
+<img width="1442" height="912" alt="image" src="https://github.com/user-attachments/assets/76733a10-b726-440b-8485-a77b6c5981ff" />
+<img width="1428" height="808" alt="image" src="https://github.com/user-attachments/assets/6c7f68da-2d02-4d2c-8372-84b5152e91bf" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/4d35f6f8-f77b-49ca-ae0f-78b970f57158" />
+
+* [IMPORTANT]
+
+<img width="1438" height="916" alt="image" src="https://github.com/user-attachments/assets/22fdc771-6fb4-4cfc-8523-0f9e9af55202" />
+<img width="1422" height="815" alt="image" src="https://github.com/user-attachments/assets/17a16d81-2c82-4e62-86c6-40462c4fa19c" />
+<img width="1415" height="809" alt="image" src="https://github.com/user-attachments/assets/a54fac8b-7031-40e6-8cd4-3d947c1cf0e2" />
+
+* Top To Bottom -> 345216.
+* Bottom To Top -> 612543. [Answer]
+* Ans -> Option **D**.
+
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/5f8950f6-a3b3-4748-bbaf-72f9efc96601" />
+<img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/53fadf17-bfc2-4621-8e35-413a33e15bae" />
+
+* 2023 -> Not leap year.
+* Option **A & D** -> Leap Years -> Not possible.
+
+<img width="1441" height="908" alt="image" src="https://github.com/user-attachments/assets/e40fa59d-5019-4eee-951a-140c307dcbac" />
+
+* Only a few -> Some. [Same Meaning only]
+
+<img width="1408" height="805" alt="image" src="https://github.com/user-attachments/assets/2f1e9154-98b4-464b-ad29-3504cc387188" />
+<img width="175" height="88" alt="image" src="https://github.com/user-attachments/assets/c21d5122-3812-47bf-aff7-98413bddb143" />
+
+* Yes.
+
+<img width="1440" height="912" alt="image" src="https://github.com/user-attachments/assets/6faa7f95-7ca6-4b56-a3ca-5960455c99b2" />
+<img width="1446" height="826" alt="image" src="https://github.com/user-attachments/assets/0f1127c9-2d29-4a69-b4a8-cb3185fdb834" />
+<img width="1431" height="816" alt="image" src="https://github.com/user-attachments/assets/6c2da6f7-f98c-43f9-a7eb-4bad1f02991b" />
+
+* As it doesn't follow the **Either-Or** rule. So it is **Neither-Or**. [IMPORTANT] 
+* Ans -> 'D'.
+
+<img width="1427" height="835" alt="image" src="https://github.com/user-attachments/assets/e18ed1c4-6600-4c01-b7a8-900627768c37" />
+<img width="1434" height="835" alt="image" src="https://github.com/user-attachments/assets/b297ce3c-dbb4-43f8-b23e-365bc05a006e" />
+<img width="1428" height="812" alt="image" src="https://github.com/user-attachments/assets/ea16e77c-ec42-40df-aba2-d9bdcf6b4c3e" />
+<img width="1431" height="822" alt="image" src="https://github.com/user-attachments/assets/bb806811-3801-4174-b398-5dad9eb95ab7" />
+<img width="1430" height="816" alt="image" src="https://github.com/user-attachments/assets/041d0578-2a44-4216-8128-83de426d2d9f" />
+<img width="1425" height="816" alt="image" src="https://github.com/user-attachments/assets/2f9269f6-18ff-47a8-8b20-977e48ff4e5e" />
+<img width="1407" height="810" alt="image" src="https://github.com/user-attachments/assets/73ef02f9-aec0-460a-aeb3-444272e830e3" />
+<img width="1408" height="588" alt="image" src="https://github.com/user-attachments/assets/8e3e11ea-44ac-4946-9f85-7e88fc0deaf5" />
+
+* [IMPORTANT]
+
+<img width="1408" height="810" alt="image" src="https://github.com/user-attachments/assets/a3071cc1-02cd-469f-850f-7f40eaf125be" />
+<img width="1428" height="827" alt="image" src="https://github.com/user-attachments/assets/f071190f-302e-487c-b32b-e5ab60fbca5c" />
+<img width="1424" height="806" alt="image" src="https://github.com/user-attachments/assets/bb4c27ff-fd18-4b19-b831-a611c1e84d7d" />
+
+* Water Image -> Upside down. [FORMULA]
+* Option **D** -> B. [Answer]  
+
+<img width="1438" height="935" alt="image" src="https://github.com/user-attachments/assets/ac8e1997-6177-4b2f-9f03-b56945dc4280" />
+<img width="1435" height="824" alt="image" src="https://github.com/user-attachments/assets/c66da179-b13e-4929-bca9-cede121ffe8d" />
+<img width="1435" height="816" alt="image" src="https://github.com/user-attachments/assets/d4c850fe-c122-4925-8ca6-bb0d4d7e8ebe" />
+<img width="1439" height="865" alt="image" src="https://github.com/user-attachments/assets/0e446d92-6d1b-4cbf-ae68-b386ece98cb9" />
+<img width="1406" height="628" alt="image" src="https://github.com/user-attachments/assets/97f324bf-ad18-48c9-8817-d32f95747ba3" />
+
+* Feb 2020 -> Leap year -> 29days.
+* 14th -> 14/4 -> Rem=2.
+* Sahil -> Rem=2.
+* 1st Feb -> Amir.
+* 29/4 -> Rem=1 -> Amir.
+* As Amir worked on 29th Feb, the extra day of the month.
+* Most Work -> Amir. [Answer]
+
+<img width="1420" height="819" alt="image" src="https://github.com/user-attachments/assets/3f6afe58-be03-46be-96de-b5ecec3ff489" />
+<img width="1437" height="826" alt="image" src="https://github.com/user-attachments/assets/7effc566-08c9-4a62-97ed-5ecfbc5ac14d" />
+<img width="1427" height="812" alt="image" src="https://github.com/user-attachments/assets/61e19a37-6c3a-4dc4-ab11-d57751c18b9a" />
+
+* 5th, 16th, 24th -> E,P,X.
+* 5th, 24th, 16th -> E, X, P.
+* 8th, 18th, 19th -> h,R,S.
+* 19th, 8th, 18th -> S, H, R.
+* Suffic -> Later.
+* Shrink ->
+* Expand ->
+* Ans -> Option **C** -> Ink/
+
+
+
+
+
+
+
+
+
 
 
 
