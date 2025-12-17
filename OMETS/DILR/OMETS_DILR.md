@@ -4601,6 +4601,97 @@
 
 ### Truthteller, Liar, Alternator, Binary Logic and Comparison (2)
 
+<img width="1409" height="807" alt="image" src="https://github.com/user-attachments/assets/19ed91c1-11da-44bb-8fe8-ae88b2216eef" />
+<img width="1415" height="798" alt="image" src="https://github.com/user-attachments/assets/61e5174d-bd4c-4fc2-83fb-607fb18f7430" />
+<img width="1419" height="808" alt="image" src="https://github.com/user-attachments/assets/1b9d65b4-7d8e-433d-b4ca-720ad7da467c" />
+<img width="1483" height="849" alt="image" src="https://github.com/user-attachments/assets/0b25d6b4-6626-49ce-89f2-c5ac72300491" />
+<img width="1608" height="862" alt="image" src="https://github.com/user-attachments/assets/e8f48e42-bb31-46db-bb1b-7eaa7f440227" />
+<img width="1436" height="788" alt="image" src="https://github.com/user-attachments/assets/0c9b116c-dc8f-4620-859e-a9ef5143d2b8" />
+<img width="1422" height="809" alt="image" src="https://github.com/user-attachments/assets/b1615033-1a3e-483f-8b33-fde11981576f" />
+
+* [Example]
+
+<img width="1426" height="817" alt="image" src="https://github.com/user-attachments/assets/ebd650da-367d-4714-a44b-b93dfb706dd0" />
+<img width="1436" height="806" alt="image" src="https://github.com/user-attachments/assets/a0d34820-5d46-4d8f-b0b7-633d485f10b8" />
+<img width="1427" height="813" alt="image" src="https://github.com/user-attachments/assets/09a855c4-0532-4c56-9a8b-15a3cb5c52e3" />
+<img width="1432" height="831" alt="image" src="https://github.com/user-attachments/assets/fc22f22a-6bf3-433c-8150-990bb015b0e0" />
+
+* [Example]
+
+<img width="1429" height="910" alt="image" src="https://github.com/user-attachments/assets/2df42454-766c-4bb2-a399-204fb8a7925a" />
+
+* Ans -> C -> Raj(R).
+
+<img width="1427" height="798" alt="image" src="https://github.com/user-attachments/assets/84dd3d7c-9d10-49df-87ab-94f39a67982a" />
+<img width="1429" height="800" alt="image" src="https://github.com/user-attachments/assets/f6e90dae-ef5c-4657-9205-736140c220a6" />
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/ec095ed2-5a34-49ab-9574-2bb5177cff19" />
+<img width="1432" height="811" alt="image" src="https://github.com/user-attachments/assets/c455004c-f1be-42b0-87bb-7d27f4334782" />
+<img width="1429" height="837" alt="image" src="https://github.com/user-attachments/assets/093b8dfb-879c-485f-be20-b83571e22703" />
+<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/8d5634f7-fd2c-4cf4-b0b9-873f1b6d0720" />
+
+* [Example]
+
+<img width="1425" height="802" alt="image" src="https://github.com/user-attachments/assets/073a1675-5616-46fe-b589-0923758bb41d" />
+<img width="1420" height="826" alt="image" src="https://github.com/user-attachments/assets/b80e7429-39d1-4ad6-8f9e-4691d9b3bfa5" />
+<img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/219e2062-e12e-4a54-8f4b-0f579a7d9a68" />
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/8ced41c8-f338-48ce-b284-d6afa3e8433b" />
+
+* [Example]
+
+<img width="1415" height="800" alt="image" src="https://github.com/user-attachments/assets/04df1c9b-2216-45b1-a9b2-7b7c76b74e5f" />
+
+* All of them are **alternators** -> One True and other False. [Formula]
+* Only '2' cases are needed.
+
+<img width="1418" height="800" alt="image" src="https://github.com/user-attachments/assets/2cc1c43e-c9e1-4cd0-836d-26017c635f72" />
+<img width="1417" height="816" alt="image" src="https://github.com/user-attachments/assets/6cf39be4-a347-4b84-be5a-3ac82d669ac5" />
+<img width="1450" height="836" alt="image" src="https://github.com/user-attachments/assets/447370fd-17c4-4e8f-ad7a-e4a15cf0793c" />
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/a7b2f2ca-d418-415b-8ecd-0afcaae00aa9" />
+<img width="1423" height="815" alt="image" src="https://github.com/user-attachments/assets/da04f33c-ca19-468e-b757-7f4f7561d319" />
+
+* Laxman's 2nd statement -> Should be **True** -> As the 1st statement was **False**.
+
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/6d6de8b2-3d1e-4be0-bcb1-de2217a1624c" />
+<img width="1411" height="817" alt="image" src="https://github.com/user-attachments/assets/c8518f11-0b7f-481b-812a-c0bd616fc677" />
+<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/8be0d5bf-c958-47f4-8fdf-f0fb3509fbee" />
+
+* [IMPORTANT]
+
+<img width="1435" height="814" alt="image" src="https://github.com/user-attachments/assets/3f4f94ed-6aa5-45d8-a8c0-4e12cce3f28c" />
+<img width="1417" height="805" alt="image" src="https://github.com/user-attachments/assets/c50249c1-84fa-4bae-ab88-a4c3326d2b20" />
+<img width="175" height="64" alt="image" src="https://github.com/user-attachments/assets/afd4cbb8-8f25-4356-a7b2-b7ccd2997733" />
+
+* Yes.
+* Each professor gives two replies to any questions to them, at least one of which is True -> '1' True or Max '2' True -> No one is a liar.  [Formula]
+* Only one Truthteller there. [Formula]
+
+<img width="1428" height="808" alt="image" src="https://github.com/user-attachments/assets/5445c371-b802-4795-9060-ca7c1721cc71" />
+<img width="1418" height="801" alt="image" src="https://github.com/user-attachments/assets/c91db677-0b4f-477f-8748-c105cf88b896" />
+<img width="1427" height="810" alt="image" src="https://github.com/user-attachments/assets/e43300ed-cc0f-4d7b-bc9a-0f69b0c312d9" />
+<img width="1437" height="830" alt="image" src="https://github.com/user-attachments/assets/f4cfde93-03ba-4d01-b529-8818056a7dfc" />
+<img width="1426" height="815" alt="image" src="https://github.com/user-attachments/assets/a400a4f9-ed84-4b14-b24f-b7dc5eba86c0" />
+
+* As we are getting ambiguity. So we have to make cases within this table. [Formula]
+
+<img width="1420" height="815" alt="image" src="https://github.com/user-attachments/assets/67b9a20b-92a9-4359-83ae-332a885dfcdb" />
+
+* Raman's 2nd statement -> Should be **False** -> As the 1st statement was **True**, as only one person can be a truthteller and Pranay is already the truthteller here.
+
+<img width="1426" height="812" alt="image" src="https://github.com/user-attachments/assets/c79517a2-bbcf-49d3-a754-931268d2e3b2" />
+<img width="1415" height="816" alt="image" src="https://github.com/user-attachments/assets/3a4eac76-520c-43be-8bc8-a39171a0b29a" />
+
+* Raman's 2nd statement -> Should be **True** -> As the 1st statement was **False**, as no liars are possible here.
+
+<img width="1424" height="802" alt="image" src="https://github.com/user-attachments/assets/19994872-f813-4f5a-a750-cfe7f0a3e9eb" />
+<img width="1409" height="817" alt="image" src="https://github.com/user-attachments/assets/52bf2cce-7ffb-4aee-97d8-1ed500bfbb70" />
+<img width="1419" height="807" alt="image" src="https://github.com/user-attachments/assets/6c656c93-754e-4275-b4d5-bb083bb8a018" />
+
+* [Example] [IMPORTANT]
+
+
+### Truthteller, Liar, Alternator, Binary Logic and Comparison (3)
+
+
 
 
 
@@ -4744,13 +4835,3 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
-
-
-
-
-
-
-
-
-
-
