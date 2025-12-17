@@ -154,6 +154,121 @@
 
 ## SNAP 2022 Paper
 
+<img width="1408" height="804" alt="image" src="https://github.com/user-attachments/assets/155d50aa-4598-4cbf-a6e4-b5483945fcab" />
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/39305107-12c9-45af-88dc-32cac8c1571f" />
+
+* A bit of time taking. [IMPORTANT]
+
+<img width="1440" height="919" alt="image" src="https://github.com/user-attachments/assets/0b74464c-33de-41b7-8580-62549279e948" />
+<img width="1426" height="824" alt="image" src="https://github.com/user-attachments/assets/97d5be1b-3e77-4340-a2f2-05b8f4daa8e8" />
+<img width="1439" height="918" alt="image" src="https://github.com/user-attachments/assets/01cd9131-95ed-4468-a4fb-bf6bbad418cb" />
+<img width="1411" height="825" alt="image" src="https://github.com/user-attachments/assets/e2b79dae-fc5a-4d82-b2e3-c09abcea4e29" />
+<img width="1424" height="807" alt="image" src="https://github.com/user-attachments/assets/035f7d85-4a4b-409f-8130-2f4bf1cf89dd" />
+
+* [IMPORTANT]
+
+<img width="1406" height="802" alt="image" src="https://github.com/user-attachments/assets/a355bd6a-86c7-4c88-9bdf-0a6e926af198" />
+<img width="1418" height="812" alt="image" src="https://github.com/user-attachments/assets/66bbb33b-111e-48a0-840c-1a9e133c08e2" />
+
+* Truthteller, Liar, Alternator. [IMPORTANT]
+
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/05531aea-653d-49ab-8741-35d8d75cd453" />
+<img width="1412" height="812" alt="image" src="https://github.com/user-attachments/assets/fac2a2d3-259b-4537-8c65-b03a3185b547" />
+
+* [IMPORTANT] [FORMULA]
+
+<img width="1433" height="929" alt="image" src="https://github.com/user-attachments/assets/eb6002f4-fb4a-430d-aa3c-e3af446e2d77" />
+<img width="1412" height="801" alt="image" src="https://github.com/user-attachments/assets/fa9248d1-dd04-47f2-a384-f9e1023d0133" />
+<img width="1421" height="823" alt="image" src="https://github.com/user-attachments/assets/899e3113-84f3-4282-834b-17da964de032" />
+<img width="1422" height="823" alt="image" src="https://github.com/user-attachments/assets/32578f2d-bc80-4f2a-9d19-e374b3d1d60d" />
+<img width="1415" height="796" alt="image" src="https://github.com/user-attachments/assets/7406bba0-e108-4386-a582-e95ec3c9a2f4" />
+<img width="1423" height="808" alt="image" src="https://github.com/user-attachments/assets/3e8bfc3b-597a-4ed0-991d-9bd1a5490b4c" />
+
+* Not doable in exam.   [IMPORTANT]
+
+<img width="1436" height="917" alt="image" src="https://github.com/user-attachments/assets/541b7e21-16d3-411d-afe3-516a9bfefc1c" />
+<img width="1427" height="816" alt="image" src="https://github.com/user-attachments/assets/1009e45a-06ee-4e3a-927f-8f819a5c4089" />
+<img width="1413" height="816" alt="image" src="https://github.com/user-attachments/assets/fa4416b7-61e4-4759-b6ae-fc0a4dddb62b" />
+<img width="1438" height="837" alt="image" src="https://github.com/user-attachments/assets/fdeeaa11-2ceb-4248-9cc8-f0c1a09ec4bf" />
+<img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/fb4588aa-4c20-4ae3-88af-9db00c936c27" />
+<img width="1426" height="791" alt="image" src="https://github.com/user-attachments/assets/7132e40a-9985-43fa-b29f-ae0880661854" />
+<img width="1453" height="856" alt="image" src="https://github.com/user-attachments/assets/d0814c8b-1e0a-45bf-9b30-9942e97de0ca" />
+<img width="1421" height="816" alt="image" src="https://github.com/user-attachments/assets/01125822-976b-4a2e-9281-e5a42ee1f6eb" />
+<img width="1434" height="814" alt="image" src="https://github.com/user-attachments/assets/5c6e5f32-95a0-42dd-b6e2-6b88ca916f81" />
+
+* Not to be attempted in paper. SKIP. 
+
+<img width="1417" height="809" alt="image" src="https://github.com/user-attachments/assets/c32585b2-69c1-40d6-b7d6-4034081951eb" />
+<img width="1402" height="791" alt="image" src="https://github.com/user-attachments/assets/51cea60c-88b7-461f-85a5-c7a46ed897ac" />
+<img width="1438" height="919" alt="image" src="https://github.com/user-attachments/assets/f7d02b03-07bf-4b26-a0f9-7feca1a615f2" />
+<img width="1416" height="808" alt="image" src="https://github.com/user-attachments/assets/6e932977-9a82-4454-ab24-959b8dc696e3" />
+<img width="1435" height="817" alt="image" src="https://github.com/user-attachments/assets/f56d8502-7260-4992-b1f0-0e78e54d1a8d" />
+<img width="1425" height="812" alt="image" src="https://github.com/user-attachments/assets/82c2db88-36a3-4ad9-aaf9-1087e850c8f4" />
+
+* 8/7 -> 1 odd day. 
+
+<img width="1439" height="822" alt="image" src="https://github.com/user-attachments/assets/d9096388-1573-44a1-b932-a7cfbb0b78a7" />
+
+* Ans -> C.
+
+<img width="1408" height="793" alt="image" src="https://github.com/user-attachments/assets/2d85c2e9-83bf-4627-aa8e-ba7c9546dc1e" />
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/3ee5e581-9349-4ae9-864b-9887b6f6195d" />
+
+* Leave these types of questions in the exam.
+
+<img width="1426" height="813" alt="image" src="https://github.com/user-attachments/assets/29aaca44-f03a-4837-a068-c730dc812a3b" />
+<img width="1438" height="827" alt="image" src="https://github.com/user-attachments/assets/9cc37ba4-9bb4-4512-936a-76186427dbc2" />
+
+* Ans -> D.
+
+<img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/00e37ba4-1d92-4483-b5d5-b606cc936d96" />
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/cf68ab93-9f4d-47bf-8077-73a0e1922ba9" />
+<img width="1414" height="809" alt="image" src="https://github.com/user-attachments/assets/fa68b1ec-3e28-4525-b8d0-51f3659f8ad8" />
+<img width="1438" height="805" alt="image" src="https://github.com/user-attachments/assets/60453b2a-8982-4718-82ba-ca56d715464e" />
+<img width="205" height="82" alt="image" src="https://github.com/user-attachments/assets/a7ae7741-c04e-4c40-9d6a-bb02b4e3eb88" />
+
+* Yes.
+
+<img width="1436" height="813" alt="image" src="https://github.com/user-attachments/assets/eb143b1c-3d95-4a54-bd45-ff24caa10f61" />
+<img width="1406" height="788" alt="image" src="https://github.com/user-attachments/assets/805251a1-2c91-485d-be00-f54b1a08756e" />
+<img width="1405" height="800" alt="image" src="https://github.com/user-attachments/assets/c6674608-7ec6-4158-a780-c4f2884e496f" />
+<img width="1438" height="918" alt="image" src="https://github.com/user-attachments/assets/5c2851d4-391b-42e8-bfff-725674e5436a" />
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/32707543-1b8b-4c0e-88ec-03638a59ba32" />
+<img width="1439" height="910" alt="image" src="https://github.com/user-attachments/assets/d6cbff19-c705-49b8-8f42-748364f66755" />
+<img width="1409" height="820" alt="image" src="https://github.com/user-attachments/assets/231dc48a-5319-463d-8143-182b620656eb" />
+<img width="1265" height="525" alt="image" src="https://github.com/user-attachments/assets/68a947f5-b5ed-4549-bf92-e000acd56e05" />
+
+* Ans -> A.
+
+<img width="1434" height="810" alt="image" src="https://github.com/user-attachments/assets/ec4afbb0-8812-459c-93df-c738b6706965" />
+<img width="1442" height="839" alt="image" src="https://github.com/user-attachments/assets/cb69b99c-6fef-4491-8f2c-9c5c43678911" />
+<img width="1440" height="816" alt="image" src="https://github.com/user-attachments/assets/a7aea2b8-995b-4093-8140-2db964a1e0b7" />
+<img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/d968c6d4-5070-4f72-a898-bd4b272dd805" />
+<img width="1423" height="812" alt="image" src="https://github.com/user-attachments/assets/b5626808-df71-4aca-817f-510e09e1ddb7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
