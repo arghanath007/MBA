@@ -4392,6 +4392,104 @@
 
 ## PYQs
 
+* Link -> https://github.com/arghanath007/MBA/blob/main/OMETS/DILR/practice.md
+
+### Truthteller, Liar, Alternator, Binary Logic and Comparison
+
+* Truthteller -> Always tells the Truth. [FORMULA]
+* Liar -> Always Ties. [FORMULA]
+* Alternator -> One Truth and one Lie in an alternate matter. [FORMULA]
+
+<img width="1417" height="828" alt="image" src="https://github.com/user-attachments/assets/c8187d42-176b-447d-8eb2-6c7c4d8cd82c" />
+<img width="1443" height="814" alt="image" src="https://github.com/user-attachments/assets/91fb43ad-43eb-4dd7-8b84-62ea7157e70d" />
+
+* Who can speak and who cannot speak. [Table For]
+* CBD -> Cannot Be Determined.
+* Truthteller(TT) -> Cannot lie.
+* Liar -> Cannot tell the truth.
+* [FORMULA]
+
+<img width="353" height="71" alt="image" src="https://github.com/user-attachments/assets/280059bf-62bc-493f-9c3a-c2b9acc5d0b2" />
+
+* Yes.
+
+<img width="1425" height="792" alt="image" src="https://github.com/user-attachments/assets/d3a3c0bd-5c3d-4e83-a464-7de1a7b81fcb" />
+<img width="1416" height="801" alt="image" src="https://github.com/user-attachments/assets/77b4b208-7952-4574-a89b-0da094b713ca" />
+<img width="1436" height="812" alt="image" src="https://github.com/user-attachments/assets/76908d20-6758-4f9b-9841-1ebc111de9c7" />
+
+* [FORMULA]
+
+<img width="1405" height="801" alt="image" src="https://github.com/user-attachments/assets/49997304-6a2c-4792-b259-cd1297dcfcb0" />
+<img width="1417" height="834" alt="image" src="https://github.com/user-attachments/assets/6c99c141-0c90-41cb-90e8-ab4f1b8a44db" />
+<img width="1428" height="839" alt="image" src="https://github.com/user-attachments/assets/7d2cd5d2-af94-4ec6-8676-888d3d953a38" />
+<img width="1425" height="812" alt="image" src="https://github.com/user-attachments/assets/20c317be-c7cf-40a2-9f41-a65522c79a38" />
+<img width="1421" height="831" alt="image" src="https://github.com/user-attachments/assets/76dca09f-53c3-42cd-8ff2-ffe6c04a8223" />
+<img width="1403" height="801" alt="image" src="https://github.com/user-attachments/assets/34d81fab-db63-4e5f-abca-fea2a5c5c9aa" />
+
+* [Example] [IMPORTANT]
+
+<img width="1408" height="800" alt="image" src="https://github.com/user-attachments/assets/b84a824a-5566-414e-89de-31b457fe1ddd" />
+<img width="1437" height="910" alt="image" src="https://github.com/user-attachments/assets/9ba964a4-fef9-4579-ad73-ba6baecdb57a" />
+
+* I am a liar -> This statement can be said by the **alternator** only. [FORMULA]
+
+<img width="1427" height="808" alt="image" src="https://github.com/user-attachments/assets/53209def-10c3-4cef-8963-89ddb85d2a56" />
+<img width="1422" height="805" alt="image" src="https://github.com/user-attachments/assets/ad83b34e-414e-4fed-b2c0-c26514dfcd73" />
+
+* As the 2nd statment of the **alternator** is **false**, so the 1st statement of the **alternator** is **true** guranteed.
+
+<img width="1390" height="797" alt="image" src="https://github.com/user-attachments/assets/86cd0b9f-f49f-4ab4-987c-7a4c365f19a6" />
+<img width="1424" height="827" alt="image" src="https://github.com/user-attachments/assets/b24b3fe4-8ca6-4e2e-b876-e40a955aab5d" />
+
+* Alternator -> Johar.
+* 1st statement of 'Karan' -> False -> Liar.
+* Shahrukh -> Truthteller.
+* 2nd statement of 'Karan' -> False -> Liar.
+* 1st statement of 'Shahrukh' -> True -> Truthteller.
+* 2nd statement of 'Shahrukh' -> True -> Truthteller.
+
+<img width="1435" height="812" alt="image" src="https://github.com/user-attachments/assets/9470059c-c46e-47b4-b7a3-6c02dc6443ad" />
+<img width="1394" height="788" alt="image" src="https://github.com/user-attachments/assets/4649cd6b-5cb6-4c56-8c1f-0b9ee8e0ab13" />
+
+* [Example] [VERY IMPORTANT]
+
+<img width="1439" height="913" alt="image" src="https://github.com/user-attachments/assets/143f0282-321b-4b9e-965d-4b5989d41c9d" />
+<img width="1426" height="817" alt="image" src="https://github.com/user-attachments/assets/bf87fa77-6ba1-4536-859c-f7a8e5ba52df" />
+
+* TT -> 1st & 2nd statements -> True.
+* Liar(L) -> 1st & 2nd statements -> False.
+
+<img width="1409" height="806" alt="image" src="https://github.com/user-attachments/assets/fed5f544-f97b-45bd-84b9-2b08365402f5" />
+<img width="1427" height="815" alt="image" src="https://github.com/user-attachments/assets/17c83a7d-523d-4bca-8cc2-cbfe48b51713" />
+<img width="1419" height="790" alt="image" src="https://github.com/user-attachments/assets/9f7c4d6c-e48c-4952-9db8-34ef04c3781d" />
+
+* Alternator(Al) -> 1st statement -> True/False. [FORMULA]
+* Alternator(Al) -> 2nd statement -> False/True. [FORMULA] 
+* Alternator(Al) -> 1st statement -> True -> 2nd statement -> False.  [FORMULA]
+* Alternator(Al) -> 1st statement -> False -> 2nd statement -> True.  [FORMULA]
+
+<img width="1431" height="813" alt="image" src="https://github.com/user-attachments/assets/216242a6-bd3f-42cf-8a16-e19e14cda91b" />
+<img width="1425" height="807" alt="image" src="https://github.com/user-attachments/assets/ffed7f7f-a24f-4d7e-bf43-bc1ff259e368" />
+
+* Need to check the 3rd case as **CBD** is there in the **options**. [FORMULA]
+
+<img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/445b43e3-8bc0-4299-9842-fa62170f45f5" />
+<img width="1427" height="803" alt="image" src="https://github.com/user-attachments/assets/d369682f-3e62-43fb-b028-3fe357719873" />
+<img width="1425" height="839" alt="image" src="https://github.com/user-attachments/assets/a3e7ddf2-6a31-4703-8065-349a7331f5c8" />
+<img width="1412" height="813" alt="image" src="https://github.com/user-attachments/assets/faca2242-ed09-44f8-97af-d0938f366fbf" />
+<img width="1507" height="830" alt="image" src="https://github.com/user-attachments/assets/d50b5e69-1d97-43c6-b805-a5e97060b5a6" />
+<img width="1427" height="796" alt="image" src="https://github.com/user-attachments/assets/1f01c2f9-412d-42a6-b0de-0c0d165a3384" />
+
+* [Example]
+* Start from 51mins.
+
+
+
+
+
+
+
+
 
 
 
@@ -4497,6 +4595,7 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
 
 
