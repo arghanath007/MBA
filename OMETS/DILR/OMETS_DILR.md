@@ -4394,7 +4394,7 @@
 
 * Link -> https://github.com/arghanath007/MBA/blob/main/OMETS/DILR/practice.md
 
-### Truthteller, Liar, Alternator, Binary Logic and Comparison
+### Truthteller, Liar, Alternator, Binary Logic and Comparison (1)
 
 * Truthteller -> Always tells the Truth. [FORMULA]
 * Liar -> Always Ties. [FORMULA]
@@ -4481,7 +4481,156 @@
 <img width="1427" height="796" alt="image" src="https://github.com/user-attachments/assets/1f01c2f9-412d-42a6-b0de-0c0d165a3384" />
 
 * [Example]
-* Start from 51mins.
+
+<img width="1439" height="936" alt="image" src="https://github.com/user-attachments/assets/dd3e2a82-d417-45ac-a9c0-93f7d0cf177c" />
+<img width="1420" height="811" alt="image" src="https://github.com/user-attachments/assets/f154e1ac-beaa-4b3c-9274-ed6c55501151" />
+<img width="1434" height="825" alt="image" src="https://github.com/user-attachments/assets/7ade8c7c-6466-4339-af12-780d8360e5bc" />
+<img width="1439" height="823" alt="image" src="https://github.com/user-attachments/assets/a697377f-3a16-4da7-b9ca-5f14095cc36d" />
+<img width="1416" height="811" alt="image" src="https://github.com/user-attachments/assets/1fbb555e-5668-426c-a6f9-b35d329ce2c6" />
+<img width="1436" height="813" alt="image" src="https://github.com/user-attachments/assets/9adaf1e8-7ad5-4632-ad9a-95e5c44f1460" />
+
+* Need to check the other cases as well as **CBD** is there in the **options**. [FORMULA]
+
+<img width="1439" height="831" alt="image" src="https://github.com/user-attachments/assets/0a7c93e9-845a-467d-b732-4bd2a0e20434" />
+<img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/88f4fd7f-f741-452a-9544-46b0ca3e66e9" />
+<img width="1441" height="815" alt="image" src="https://github.com/user-attachments/assets/7a247582-e5d0-4659-90c2-6458077bd420" />
+<img width="1441" height="833" alt="image" src="https://github.com/user-attachments/assets/ba05512e-ed68-453c-979e-e472cbfb6690" />
+<img width="1412" height="814" alt="image" src="https://github.com/user-attachments/assets/8d1438c3-36f2-4c06-958c-7de83a4afeb1" />
+<img width="1431" height="805" alt="image" src="https://github.com/user-attachments/assets/75f6d57d-3fcf-4de3-9343-dd83ef02efef" />
+<img width="1438" height="834" alt="image" src="https://github.com/user-attachments/assets/3a79ba11-ec5c-4599-92dd-c521fb10b243" />
+<img width="1437" height="830" alt="image" src="https://github.com/user-attachments/assets/81fd8930-6f2a-45d7-8b1d-be5de29125de" />
+<img width="1428" height="821" alt="image" src="https://github.com/user-attachments/assets/54973c5f-ee90-4ddc-b9f4-88545bb2ae05" />
+<img width="1436" height="825" alt="image" src="https://github.com/user-attachments/assets/7da5cd4d-2a72-4c70-b9f0-c27ce1037baa" />
+<img width="1433" height="824" alt="image" src="https://github.com/user-attachments/assets/3f61ae76-808c-4b51-89c1-1a12a80cfeff" />
+<img width="1426" height="809" alt="image" src="https://github.com/user-attachments/assets/92756a93-446b-4bad-a7cd-f0c3cc601855" />
+
+* Multiple cases are **satisfied**. All of the cases are **satisfied**
+
+<img width="1430" height="832" alt="image" src="https://github.com/user-attachments/assets/df8c090b-aad4-4f6b-baa0-96ada5801f48" />
+
+* Ans -> A.
+
+<img width="437" height="113" alt="image" src="https://github.com/user-attachments/assets/9bec7bd8-44a1-4234-b267-6a588c1dd1c4" />
+<img width="437" height="125" alt="image" src="https://github.com/user-attachments/assets/667224e7-8a2c-4559-be0e-bc4ea6b9bac8" />
+
+* Yes. [FORMULA]
+
+<img width="425" height="82" alt="image" src="https://github.com/user-attachments/assets/80b39f37-0689-4aad-a754-e1b1ca73d802" />
+
+* Yes, then multiple cases are not possible. Good observation. [FORMULA]
+
+<img width="748" height="414" alt="image" src="https://github.com/user-attachments/assets/a2fc2f48-ee8b-482d-b66f-326a40b7236d" />
+
+* From **Case-2 & Case-3**.
+
+<img width="796" height="369" alt="image" src="https://github.com/user-attachments/assets/446d85ba-fbc2-4b3d-ac50-9a8613a46b0a" />
+
+* Ans -> Option **B** -> Q. [From Case-1]
+
+<img width="1419" height="814" alt="image" src="https://github.com/user-attachments/assets/2eba0bfb-ca00-4baa-99e0-43f4b5b8545a" />
+
+* No compulsion of 1 'TT', 1 'L' and 1 'Alt'. [FORMULA]
+* Any combination of the '3' are possible. [FORMULA]
+* Only '1' compulsion -> Exactly '1' of them is a thief. [FORMULA]
+* Make the cases on the basis of thief. [FORMULA]
+
+<img width="1410" height="813" alt="image" src="https://github.com/user-attachments/assets/e55cc70b-1d67-4168-9cae-e6d2c406a8af" />
+<img width="1428" height="822" alt="image" src="https://github.com/user-attachments/assets/996627e0-0b60-4dd4-8d19-41ee19af86cc" />
+
+* If the 1st and 2nd statements are **false** of a person then the 3rd statement is bound to be **false** as well as that person is the **liar** -> F, F, F.
+
+<img width="1428" height="811" alt="image" src="https://github.com/user-attachments/assets/56b1b484-1832-40c7-a508-31c6ff1d022f" />
+<img width="1426" height="804" alt="image" src="https://github.com/user-attachments/assets/5b3ec3f0-e5b2-40c8-ae18-a99498c2a615" />
+
+* If the 1st statement is **true** and the 2nd statement are **false** of a person then the 3rd statement is bound to be **true** as well as that person is the **alternator** -> T, F, T.
+
+<img width="1436" height="851" alt="image" src="https://github.com/user-attachments/assets/37060e98-97b3-4931-9d4b-6dc5437e9890" />
+<img width="1426" height="824" alt="image" src="https://github.com/user-attachments/assets/3bae60f0-d655-44f3-9c1e-03e20ff48952" />
+<img width="1435" height="802" alt="image" src="https://github.com/user-attachments/assets/e1a49330-f96f-439a-9a87-5ac2de92d67c" />
+<img width="1421" height="825" alt="image" src="https://github.com/user-attachments/assets/7980caac-7d74-4541-950c-51b958f8fe22" />
+<img width="1417" height="811" alt="image" src="https://github.com/user-attachments/assets/0501ee4d-39c7-422b-b088-15a64319133e" />
+<img width="1421" height="801" alt="image" src="https://github.com/user-attachments/assets/b170d728-784a-4665-b5e2-eb0b9b464d29" />
+
+* C's 1st statemenet -> Box can be filled in '2' ways -> True Or False.
+
+<img width="1431" height="827" alt="image" src="https://github.com/user-attachments/assets/f0901f44-0913-432e-a15f-e54ab1550afd" />
+<img width="1425" height="812" alt="image" src="https://github.com/user-attachments/assets/0f2876cb-2454-47da-bdf5-fb6f69d345de" />
+
+* C's 1st statemenet -> Definitely True.
+
+<img width="1435" height="811" alt="image" src="https://github.com/user-attachments/assets/09fe33e1-edc4-4369-bb59-ba39d8b0476b" />
+<img width="1428" height="802" alt="image" src="https://github.com/user-attachments/assets/fffd2457-198b-49e9-beae-08a6be7a0988" />
+
+* C's 2nd statemenet -> Box can be filled in '2' ways -> True Or False.
+
+<img width="1420" height="818" alt="image" src="https://github.com/user-attachments/assets/bd7d17bb-591e-4e2e-930c-aeaa537cb643" />
+<img width="1416" height="798" alt="image" src="https://github.com/user-attachments/assets/8ac66ec8-57c9-4581-abab-ad2db8a28cf6" />
+
+* C's 2nd statemenet -> False.
+
+<img width="1421" height="806" alt="image" src="https://github.com/user-attachments/assets/71ef4547-46ff-40f7-ad21-e05fef05d1e8" />
+
+* C's 2nd statemenet -> True.
+
+<img width="1416" height="808" alt="image" src="https://github.com/user-attachments/assets/d065a322-5ea6-4b38-a0f8-1a2c247be6c5" />
+<img width="270" height="76" alt="image" src="https://github.com/user-attachments/assets/e55f0e59-0935-42ab-b90c-a15a881fcde0" />
+
+* Yes.
+
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/63140505-293b-4433-aa09-e6c8402872b5" />
+
+* He can be **alternator** also.
+
+<img width="1393" height="796" alt="image" src="https://github.com/user-attachments/assets/19be7257-6d6a-4ae4-9a8e-0a2dfa6da0a3" />
+<img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/656849bb-9c97-4776-94aa-d7e984f54245" />
+<img width="1409" height="812" alt="image" src="https://github.com/user-attachments/assets/067fb96c-0fce-4866-a274-75dd9b5c54d5" />
+
+* C's 2nd statemenet -> Either **True** or **False** -> Truthteller or Alternator.
+
+<img width="1435" height="815" alt="image" src="https://github.com/user-attachments/assets/92bf3d51-fa18-41b1-9f7a-7f864fb2e06c" />
+<img width="1414" height="800" alt="image" src="https://github.com/user-attachments/assets/a48510c7-4ef2-459a-9160-d3394d05a078" />
+<img width="1437" height="852" alt="image" src="https://github.com/user-attachments/assets/2ab4414e-dd97-446b-adca-7441e9c3ee7d" />
+<img width="1404" height="803" alt="image" src="https://github.com/user-attachments/assets/028b7e3e-67d9-439e-8b5a-55e096d04e42" />
+<img width="1407" height="811" alt="image" src="https://github.com/user-attachments/assets/9207c8c3-19cc-4fb9-8e46-6037679b56d5" />
+<img width="593" height="418" alt="image" src="https://github.com/user-attachments/assets/1e677104-4174-4cd4-927d-a8be130e545e" />
+<img width="586" height="416" alt="image" src="https://github.com/user-attachments/assets/6b7acd6d-47cd-4b44-aa26-dca04bf40bfa" />
+<img width="808" height="407" alt="image" src="https://github.com/user-attachments/assets/f5f5be2c-bb93-4bca-9b67-a0530dad6f3e" />
+
+* Ans -> 3 or 4. [Correct Answer]
+* As it is not given in the options, so we select option **D**, "none of these".
+
+### Truthteller, Liar, Alternator, Binary Logic and Comparison (2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4595,6 +4744,7 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
 
 
