@@ -4742,6 +4742,75 @@
 
 * [Example]
 
+<img width="1433" height="914" alt="image" src="https://github.com/user-attachments/assets/b019eeef-7045-4693-ba8b-4d54e4265b84" />
+<img width="1423" height="818" alt="image" src="https://github.com/user-attachments/assets/0cc34adb-8e00-43d7-a1cc-49386fed6e30" />
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/f0796ae9-7ecc-4025-b2d9-943c71daa5fd" />
+<img width="1406" height="817" alt="image" src="https://github.com/user-attachments/assets/cf467518-e6d6-40a5-b704-e13c6cb52129" />
+
+* R's 1st statement -> Should be **False** -> As the 3rd statement was **False**. It can be either alternator or liar.
+
+<img width="1435" height="821" alt="image" src="https://github.com/user-attachments/assets/833a9d28-583c-4271-8f9c-a20c99e8bb4c" />
+<img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/13059dcc-902c-4c68-b70c-a0a1fe644031" />
+
+* R's 1st statement -> **False**.
+* R's 1st statement -> Q is a liar -> False => Q -> Not a liar -> Alternator. [Formula]
+
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/74ac540e-9b43-404b-b5c7-b5a84f54c899" />
+<img width="1425" height="804" alt="image" src="https://github.com/user-attachments/assets/f9328190-10dd-4343-9d96-e174d503cff5" />
+
+* Q's 2nd statement -> True -> As 'Q' is alternator.
+
+<img width="1414" height="824" alt="image" src="https://github.com/user-attachments/assets/44f6b48b-521c-455c-88f0-5b1c8d0f729c" />
+<img width="1422" height="813" alt="image" src="https://github.com/user-attachments/assets/ec81c0db-4a10-461a-844e-866896cf91ce" />
+<img width="444" height="119" alt="image" src="https://github.com/user-attachments/assets/39a8b9a1-2917-4761-a37d-19f2b66ae89d" />
+<img width="422" height="148" alt="image" src="https://github.com/user-attachments/assets/c406e0ae-5721-4d45-8fc9-6e1f619adf4a" />
+
+* R's 3rd statement -> **False**.
+* T, , F -> This patter is not possible.
+
+<img width="519" height="419" alt="image" src="https://github.com/user-attachments/assets/3fcea869-ade0-4ae9-a928-6583ffd4439f" />
+<img width="527" height="408" alt="image" src="https://github.com/user-attachments/assets/19c70a56-12ea-464b-b861-53626466e897" />
+
+* [IMPORTANT]
+
+<img width="1430" height="817" alt="image" src="https://github.com/user-attachments/assets/c25e0ee5-03b7-4b4d-bb34-4c398dae337a" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/2913e9de-342c-4ab8-a79d-860b6de8b92d" />
+<img width="1441" height="827" alt="image" src="https://github.com/user-attachments/assets/ed345fb6-4243-4d20-afba-8cbc07a7eb34" />
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/c35b76d8-0e50-42a1-a668-e1bf6afbf162" />
+<img width="1430" height="800" alt="image" src="https://github.com/user-attachments/assets/674a3efd-b205-4f2b-a30b-b6228ff11673" />
+<img width="1410" height="825" alt="image" src="https://github.com/user-attachments/assets/74dd74b4-2eb0-436c-adf2-cc3fa0b3e2b8" />
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/0215aa6a-c6d5-4355-9e0b-e2f97d4482a5" />
+
+* P's 1st statement -> False.
+* As 'P' is an **Alternator**.
+* P's 2nd statement -> definitely True.
+
+<img width="1409" height="805" alt="image" src="https://github.com/user-attachments/assets/77a14cfa-4fa6-4b11-92fc-40c52c57abc2" />
+<img width="1414" height="793" alt="image" src="https://github.com/user-attachments/assets/06bc673a-0d09-4122-8595-bf3da7e7cb53" />
+<img width="639" height="466" alt="image" src="https://github.com/user-attachments/assets/c1bb397c-2f62-4871-8442-1338913bb0fe" />
+
+* Liar -> R or Q.
+
+<img width="1421" height="809" alt="image" src="https://github.com/user-attachments/assets/ca55ab49-8ef3-40bc-b361-71c8f4a07a63" />
+<img width="1421" height="804" alt="image" src="https://github.com/user-attachments/assets/dba4e76a-9a12-4733-b05c-5fa1811d9250" />
+
+* [Example] [IMPORTANT]
+
+<img width="1436" height="824" alt="image" src="https://github.com/user-attachments/assets/9ca3e5c7-bc78-4064-bda0-f59270c462dc" />
+<img width="1440" height="837" alt="image" src="https://github.com/user-attachments/assets/2c4040c3-c3a5-483f-8b99-10f63a3d1361" />
+
+* Exams.
+
+<img width="1077" height="550" alt="image" src="https://github.com/user-attachments/assets/809eded3-5dcd-43e4-8559-564a5060f624" />
+
+* MBA course options.
+
+### Dices, Cubes (1)
+
+
+
+
+
 
 
 
@@ -4889,4 +4958,5 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
