@@ -4688,8 +4688,62 @@
 
 * [Example] [IMPORTANT]
 
-
 ### Truthteller, Liar, Alternator, Binary Logic and Comparison (3)
+
+<img width="1434" height="915" alt="image" src="https://github.com/user-attachments/assets/0b5536d2-65d4-4b22-b46a-045bc50032d0" />
+
+* I am the Liar -> Can be said only by **Alternator**.
+
+<img width="1423" height="815" alt="image" src="https://github.com/user-attachments/assets/605ec4d9-06a9-4cf1-a47a-93aa0dfc56ce" />
+<img width="1418" height="797" alt="image" src="https://github.com/user-attachments/assets/d406552c-b935-4495-be23-4d3b8b73a4f6" />
+
+* False Bhai's 2nd statement -> Should be **True** -> As the 1st statement was **False**, as he is an **alternator**.
+
+<img width="1400" height="797" alt="image" src="https://github.com/user-attachments/assets/aa4ed652-763a-4188-a394-c8c4094ffb9a" />
+<img width="429" height="88" alt="image" src="https://github.com/user-attachments/assets/f4b06bef-89cf-41d9-9ca9-5f56c6688304" />
+
+* Yes.
+
+<img width="1417" height="813" alt="image" src="https://github.com/user-attachments/assets/9db504b7-986d-4906-8ce2-065fd0cb8b8b" />
+<img width="1433" height="798" alt="image" src="https://github.com/user-attachments/assets/a89b61fd-dd67-4865-af89-18f50b356e51" />
+
+* Multiple cases are possible.
+
+<img width="1424" height="826" alt="image" src="https://github.com/user-attachments/assets/1847ea3b-284a-4541-9cd5-6015a084661c" />
+<img width="786" height="424" alt="image" src="https://github.com/user-attachments/assets/938c4fd9-d47c-491b-aea7-768fd2b1811b" />
+<img width="651" height="391" alt="image" src="https://github.com/user-attachments/assets/93e8bcb3-44f0-407e-b1a5-cc8709ac0486" />
+
+* [Example]
+
+<img width="1440" height="915" alt="image" src="https://github.com/user-attachments/assets/abb72091-f5a3-43ed-9757-ce28826f7d1b" />
+
+* There is no **liars**. [Formula]
+
+<img width="1424" height="802" alt="image" src="https://github.com/user-attachments/assets/3cef80b8-6d7b-4f35-a5a1-4033f2139b4b" />
+<img width="1423" height="819" alt="image" src="https://github.com/user-attachments/assets/e2c872a7-60e6-41c1-b176-186b7be658c3" />
+<img width="1434" height="823" alt="image" src="https://github.com/user-attachments/assets/fa5d2392-3022-4c65-8960-04b1d0b5b6fc" />
+
+* **Altenator** has **2** options -> T, F & F, T. [Formula]
+
+<img width="1425" height="821" alt="image" src="https://github.com/user-attachments/assets/dc0f9f7c-7e7c-46b7-b566-9327ee6c5252" />
+<img width="1411" height="795" alt="image" src="https://github.com/user-attachments/assets/c5c94ba0-ee6b-4664-8443-bab29f7bd880" />
+<img width="1415" height="803" alt="image" src="https://github.com/user-attachments/assets/f4e91955-7550-4591-a1e3-87f5b27b250b" />
+<img width="1418" height="822" alt="image" src="https://github.com/user-attachments/assets/5df2f299-3600-4c01-ad75-d4099730a48e" />
+<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/7d8a4475-aa53-4b2f-8c72-142a2ef59465" />
+<img width="1424" height="812" alt="image" src="https://github.com/user-attachments/assets/a6a535d1-7e59-4f24-8424-cc0bf78b7cd9" />
+<img width="1401" height="793" alt="image" src="https://github.com/user-attachments/assets/fd0a4d26-be8e-44b4-8741-7d1baf3c9bfd" />
+<img width="1429" height="815" alt="image" src="https://github.com/user-attachments/assets/6b739a2b-9645-4376-b5cb-db98a9490a25" />
+
+* [IMPORTANT]
+
+<img width="1426" height="829" alt="image" src="https://github.com/user-attachments/assets/0f69e395-c952-4a4d-85e8-04c38b286135" />
+<img width="656" height="426" alt="image" src="https://github.com/user-attachments/assets/4226b444-65c1-46f8-8f8b-3d93c258e7f4" />
+<img width="584" height="390" alt="image" src="https://github.com/user-attachments/assets/c81a5ed9-af80-43b1-a429-bc9e7e425cac" />
+
+* [Example]
+
+
+
 
 
 
@@ -4835,3 +4889,4 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
