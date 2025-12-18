@@ -4807,18 +4807,61 @@
 
 ### Dices, Cubes (1)
 
+<img width="1416" height="815" alt="image" src="https://github.com/user-attachments/assets/787598fc-25a9-4d84-9cb3-aec89c297ffd" />
 
+* 1 cut -> Min. of 2 piece.
+* 2 cut -> Min. of 3 piece.
+* 3 cut -> Min. of 4 piece.
 
+<img width="1414" height="815" alt="image" src="https://github.com/user-attachments/assets/39d4bace-af47-449e-b89a-4a314e6c31ae" />
 
+* 2D figures. [Formula]
 
+<img width="1434" height="864" alt="image" src="https://github.com/user-attachments/assets/3d21e67a-57e9-4cac-896d-097e6843edfc" />
+<img width="1438" height="851" alt="image" src="https://github.com/user-attachments/assets/fcc6b078-b536-437d-b515-781c070facdc" />
 
+* 3D figures. [Formula]
 
+<img width="1087" height="560" alt="image" src="https://github.com/user-attachments/assets/a1e322a0-22c4-49d5-a21c-560c9517d3d5" />
+<img width="1027" height="534" alt="image" src="https://github.com/user-attachments/assets/1daf39f3-6103-498b-b806-2a54ace584c0" />
 
+* [Formula]
 
+<img width="1110" height="356" alt="image" src="https://github.com/user-attachments/assets/28a414e8-4daf-4731-8413-eb95c2e3f394" />
 
+* Cube -> 3D figure.
+* Ans -> CBD.
 
+<img width="239" height="86" alt="image" src="https://github.com/user-attachments/assets/9cf59bbc-5906-4768-afd0-08fede969e71" />
 
+* Yes.
+* Min. of '7' pieces.
 
+<img width="1418" height="823" alt="image" src="https://github.com/user-attachments/assets/96d883cc-be1f-430a-9fff-c955e312214b" />
+
+* Multiple cases are possible.
+
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/d0bbce7e-a525-4886-9143-da23b008b02c" />
+<img width="1424" height="823" alt="image" src="https://github.com/user-attachments/assets/eafe37a5-4aac-430e-9e75-220f95344c43" />
+<img width="1421" height="799" alt="image" src="https://github.com/user-attachments/assets/24b69fc9-204f-4802-bc86-8d24573aacd0" />
+
+* Min -> 7 pieces.
+* Max -> 27 pieces.
+* Max -> When **cuts** are distributed equally in **each direction** -> Equally divide. [Formula]
+* Min -> When **cuts** are distributed only in '1' direction. [Formula]
+
+<img width="1015" height="440" alt="image" src="https://github.com/user-attachments/assets/e7b3243e-1eb4-418a-aa66-01e74bf4b14b" />
+<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/f92ce21a-10b5-4e60-9842-f5387d1f675a" />
+
+* Give the cuts to anyone of them, as we are doing **multiplication** so it doesn't matter.
+
+<img width="1441" height="824" alt="image" src="https://github.com/user-attachments/assets/d0397012-b90a-4066-9ca2-16f3400ba0b8" />
+<img width="1409" height="816" alt="image" src="https://github.com/user-attachments/assets/4961fe6f-a921-43ad-80de-53eb28202483" />
+<img width="1433" height="810" alt="image" src="https://github.com/user-attachments/assets/e16fc751-b358-420a-b720-7131b2118481" />
+<img width="1436" height="821" alt="image" src="https://github.com/user-attachments/assets/54aa7b19-ba62-4a56-9bdf-5eb1515a037d" />
+
+* Divide equally always for **max. no. of cuts**. [Formula]
+* Start from 28mins.
 
 
 
@@ -4958,5 +5001,6 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
 
