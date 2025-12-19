@@ -2267,7 +2267,82 @@
 <img width="1430" height="547" alt="image" src="https://github.com/user-attachments/assets/e8a56787-98f5-467b-84fd-f77952cefcb7" />
 
 * 29^2->841->41. [Example]
-* Start from 24mins.
+
+<img width="1412" height="820" alt="image" src="https://github.com/user-attachments/assets/e972c15b-567c-4831-ab4d-a283dd3663fd" />
+<img width="1431" height="818" alt="image" src="https://github.com/user-attachments/assets/518c082e-e892-4045-afcc-91736a0be5e6" />
+<img width="1429" height="823" alt="image" src="https://github.com/user-attachments/assets/5639bc09-a490-43ff-9296-0957cc4d2f45" />
+
+*  [Example]
+
+<img width="1419" height="831" alt="image" src="https://github.com/user-attachments/assets/06c83f02-af4a-438c-99a1-85bd88b05e56" />
+
+* [FORMULA]
+
+<img width="1413" height="861" alt="image" src="https://github.com/user-attachments/assets/ae9117f8-3083-49f1-a485-c80287019fe3" />
+
+* [FORMULA]
+
+<img width="1438" height="818" alt="image" src="https://github.com/user-attachments/assets/b49784c2-5f77-44d6-a24c-ef58a1c4edae" />
+<img width="1436" height="809" alt="image" src="https://github.com/user-attachments/assets/efe7c4fc-8a30-4f4b-8ed8-75e9319108b3" />
+<img width="1412" height="799" alt="image" src="https://github.com/user-attachments/assets/84eb346b-bb01-44fb-a555-99b5db6d00b9" />
+<img width="1440" height="833" alt="image" src="https://github.com/user-attachments/assets/9c5a3540-4c55-4004-a191-82b429a4d2f5" />
+
+* Last '2' digits of '4 & 7' -> Groups of '4'. [FORMULA]
+
+<img width="1423" height="793" alt="image" src="https://github.com/user-attachments/assets/2af5d989-6cf1-459e-bf02-af18e23d90c3" />
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/612caa65-f85b-4e9d-bece-9997ea975965" />
+
+*  [Example]
+
+<img width="1425" height="808" alt="image" src="https://github.com/user-attachments/assets/4bfe5390-d208-45ad-b138-c532ce61494b" />
+<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/72f4abd4-50bc-4ab8-aa6d-fcf6ac3aa9ff" />
+
+* Last '2' digits of '2' repeat after a cycle of '20'. [FORMULA]
+
+<img width="1436" height="828" alt="image" src="https://github.com/user-attachments/assets/5a66681a-0877-42af-8f92-df7dd75a6bd7" />
+
+* Last '2' digits of '2'.
+* [FORMULA]
+
+<img width="1422" height="815" alt="image" src="https://github.com/user-attachments/assets/eec6c1ad-197f-4af3-9d97-0fe1483fb654" />
+
+* [FORMULA]
+
+<img width="1441" height="848" alt="image" src="https://github.com/user-attachments/assets/4af1f891-1678-4b38-ba25-cd51bd9d610a" />
+<img width="627" height="628" alt="image" src="https://github.com/user-attachments/assets/d050a94a-542c-479b-b491-559a73823d50" />
+<img width="1417" height="798" alt="image" src="https://github.com/user-attachments/assets/5272f505-7847-460b-b968-94bdf12d84ef" />
+<img width="931" height="793" alt="image" src="https://github.com/user-attachments/assets/e43a226d-fa72-4b2e-b962-b259505a112f" />
+
+* Any power of '76' -> Last '2' digits is '76' itself. [FORMULA]
+* Power of '2' in multiples of '20' -> 76.
+
+<img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/ace28303-8433-4af8-9d67-8add6d74774d" />
+
+* 76 * 24 -> '24' always.
+
+<img width="1428" height="812" alt="image" src="https://github.com/user-attachments/assets/fbb81ea7-a82a-4593-953d-a93499795812" />
+<img width="1435" height="807" alt="image" src="https://github.com/user-attachments/assets/6e4c3d1a-96bf-4a89-9735-a284a772ff8a" />
+<img width="1419" height="780" alt="image" src="https://github.com/user-attachments/assets/839b6732-2db4-4299-ae17-7dee33b4c73c" />
+
+* [EXAMPLE]
+
+<img width="1087" height="475" alt="image" src="https://github.com/user-attachments/assets/cd9bccfe-b77c-4a53-95e1-781fe4cbfbb3" />
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/d4b9fea6-cf01-4a59-9cde-4f096f4a4e70" />
+
+* Last digit is '5' and the power is even -> Last '2' digits is '25' always. [FORMULA]
+
+<img width="1430" height="810" alt="image" src="https://github.com/user-attachments/assets/24ceec9e-bf0c-4f1c-a1c8-dcc791aaf282" />
+<img width="1407" height="810" alt="image" src="https://github.com/user-attachments/assets/02829da1-5d1d-41f6-9f08-18aaac1231ba" />
+<img width="1401" height="812" alt="image" src="https://github.com/user-attachments/assets/1e58d63b-e0df-4843-a211-3ba88370401c" />
+
+* Last '2' digits of '5'. [FORMULA] [EXAMPLE]
+
+<img width="946" height="523" alt="image" src="https://github.com/user-attachments/assets/e03bf7e6-da91-462c-ad5c-00eae92580f8" />
+<img width="854" height="551" alt="image" src="https://github.com/user-attachments/assets/39959e5f-668f-4361-a7e3-ceabee7538b3" />
+<img width="1408" height="820" alt="image" src="https://github.com/user-attachments/assets/1778ef61-0bb0-4495-8a1b-dcb8f8c0f825" />
+
+
+
 
 
 
@@ -2342,6 +2417,7 @@
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
 <img width="1403" height="841" alt="image" src="https://github.com/user-attachments/assets/e1ce68dc-51be-4063-95af-356056257ef2" />
+
 
 
 
