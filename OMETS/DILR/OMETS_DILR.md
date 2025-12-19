@@ -4861,23 +4861,89 @@
 <img width="1436" height="821" alt="image" src="https://github.com/user-attachments/assets/54aa7b19-ba62-4a56-9bdf-5eb1515a037d" />
 
 * Divide equally always for **max. no. of cuts**. [Formula]
-* Start from 28mins.
 
+<img width="1421" height="818" alt="image" src="https://github.com/user-attachments/assets/13e72e7b-244e-4bdc-9d97-651adf725381" />
+<img width="1432" height="914" alt="image" src="https://github.com/user-attachments/assets/38fb3068-8c7b-45bb-b615-0dd88051ff43" />
 
+* 7,7,7. [Wrong]
 
+<img width="1413" height="809" alt="image" src="https://github.com/user-attachments/assets/3751636c-a63e-46bb-896a-4ab53a415340" />
 
+* Nothing is given -> We have to find anything -> That's why CBD.
 
+<img width="1416" height="806" alt="image" src="https://github.com/user-attachments/assets/e5ba54ce-ed13-4e9a-87ca-1613b58633e9" />
 
+* Ans -> CBD.
 
+<img width="1419" height="800" alt="image" src="https://github.com/user-attachments/assets/b3022fe8-0bac-4a21-8c50-3b2e298bae61" />
 
+* Min Cuts-> 21 -> Divided equally/close to equally.
+* Max Cuts-> 21 -> All put in one direction.
 
+<img width="1423" height="824" alt="image" src="https://github.com/user-attachments/assets/39df3d1f-48d5-4c7f-b147-62abfdb5f249" />
+<img width="1432" height="820" alt="image" src="https://github.com/user-attachments/assets/6c470ba9-c039-43ed-944a-9e143af95665" />
+<img width="1439" height="843" alt="image" src="https://github.com/user-attachments/assets/92267898-34c8-4b0e-a001-d6545dda2d73" />
+<img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/9c7b67b4-e3ad-4794-bf35-12be50030af6" />
 
+* 5,5,4 -> 6 * 6 * 5 -> 180.
+* Ans -> 5 + 5 + 4 -> 14.
 
+<img width="1435" height="813" alt="image" src="https://github.com/user-attachments/assets/f953ecad-3d54-4d9e-b1da-a6398dc340e3" />
+<img width="1433" height="827" alt="image" src="https://github.com/user-attachments/assets/5a32799a-8d70-492e-8cb0-e4139f581dc4" />
+<img width="1439" height="832" alt="image" src="https://github.com/user-attachments/assets/ca2c89c9-aa7d-4e63-ba36-f01b9b15176a" />
+<img width="1442" height="818" alt="image" src="https://github.com/user-attachments/assets/b9bc9188-2d8f-48bc-a281-a27f7d69a52c" />
 
+* [Example] [Answer]
 
+<img width="440" height="110" alt="image" src="https://github.com/user-attachments/assets/59ba49ab-3270-4d9d-be82-50091251072f" />
 
+* Yes.
+* For **max** cuts.
 
+<img width="1430" height="844" alt="image" src="https://github.com/user-attachments/assets/a09e8381-90e3-4230-8c9e-96374bb6d8b0" />
 
+* Min -> 8 cuts.
+* Max -> 47 cuts -> 47 * 1 * 1.
+
+<img width="1175" height="268" alt="image" src="https://github.com/user-attachments/assets/143b1a72-0522-4093-8db3-68d08b4e46c3" />
+
+* [FORMULA]
+
+<img width="1410" height="510" alt="image" src="https://github.com/user-attachments/assets/9bae79d4-b507-4481-b480-f4aece0eac36" />
+<img width="1402" height="522" alt="image" src="https://github.com/user-attachments/assets/1553bd73-b982-46bb-a837-9aa07b03dea4" />
+<img width="1431" height="817" alt="image" src="https://github.com/user-attachments/assets/c0f9dbde-6da5-4067-a0d0-6efe6c7d9057" />
+<img width="1419" height="811" alt="image" src="https://github.com/user-attachments/assets/6581a3b0-9530-4caf-9dea-f26a3aa9d3bc" />
+<img width="1430" height="810" alt="image" src="https://github.com/user-attachments/assets/1001c8cd-196e-43ff-b894-d4b10cc07d8e" />
+
+* [FORMULA]
+
+<img width="1441" height="826" alt="image" src="https://github.com/user-attachments/assets/75994054-45ae-4e69-884d-eed106200bc6" />
+
+* '1' Edge -> 4 cubes
+* 12 edges -> 4 * 12 -> 48 cubes. [We will not include the corner ones as they have '3' painted surfaces]
+
+<img width="1427" height="819" alt="image" src="https://github.com/user-attachments/assets/dd11ab55-326d-4e07-90cd-ccb0b56673ce" />
+
+* '1' face -> 16 cubes
+* '6' face -> 16 * 6 -> 96 cubes
+
+<img width="1426" height="833" alt="image" src="https://github.com/user-attachments/assets/46b45bb3-c787-4a46-9d83-2662da6bc11d" />
+<img width="648" height="164" alt="image" src="https://github.com/user-attachments/assets/d860671a-d14a-4308-98bd-3cbd249d6ea1" />
+
+* 216-96-48-8 -> 64.
+
+<img width="1426" height="823" alt="image" src="https://github.com/user-attachments/assets/0b6a13b1-43a9-421b-b511-f2ba0fac2472" />
+<img width="933" height="394" alt="image" src="https://github.com/user-attachments/assets/004013db-9885-4317-a734-3657cf543dfa" />
+<img width="828" height="333" alt="image" src="https://github.com/user-attachments/assets/b90c787d-4372-453a-a5f2-6c53ed8408cb" />
+<img width="816" height="305" alt="image" src="https://github.com/user-attachments/assets/d2d7314e-3803-41a6-b0ac-c7f5f5ca198b" />
+<img width="1439" height="841" alt="image" src="https://github.com/user-attachments/assets/75487cbf-49bd-45ac-b9fa-93c89f1dc4b2" />
+<img width="1437" height="827" alt="image" src="https://github.com/user-attachments/assets/694e2611-d14f-493c-a369-a17cec62f6af" />
+<img width="1434" height="832" alt="image" src="https://github.com/user-attachments/assets/658db59b-143a-4358-b0b2-a6dc267142c2" />
+
+* Let n =6.
+* [FORMULA]
+
+### Cubes (2)
 
 
 
@@ -5001,6 +5067,7 @@
 
 <img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/2076dd6f-fcbb-4759-8277-bc31c097e438" />
 <img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/34e58484-9589-4419-920e-accb695e48b6" />
+
 
 
 
