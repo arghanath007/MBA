@@ -2005,45 +2005,269 @@
 
 
 
+### Data Sufficiency(DS) [1]
 
+<img width="1425" height="822" alt="image" src="https://github.com/user-attachments/assets/22d40792-c89f-4f63-8dba-461a7c9e233e" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/e17542b4-e424-4db0-a575-9829ce4ba13c" />
+<img width="400" height="486" alt="image" src="https://github.com/user-attachments/assets/cc31f540-972e-4ffa-aa4b-9edf816d3a12" />
 
+* Whatever is given in the statement is always **True**. [FORMULA]
 
+<img width="1433" height="825" alt="image" src="https://github.com/user-attachments/assets/3398366d-1786-4005-98d3-a9f00be69f63" />
+<img width="1414" height="793" alt="image" src="https://github.com/user-attachments/assets/40d8b48a-e1f9-468d-bef5-bc23f62e15ed" />
 
+* Need to find unique value of 'X'. [Formula]
+* 3X=29.
+* X + Y =17.
 
+<img width="1476" height="836" alt="image" src="https://github.com/user-attachments/assets/74a9ebfe-f65e-4b82-bb54-755fba458769" />
 
+* Need unique answers. [Formula]
 
+<img width="1014" height="370" alt="image" src="https://github.com/user-attachments/assets/0b582817-6887-4e6e-a2c4-b5399533f387" />
 
+* Even Powers -> No unique answer. [Formula]
+* Odd Powers -> Unique answer. [Formula]
 
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/d7c3f2e8-f7e0-49b4-a596-6aded999b5a1" />
+<img width="1402" height="806" alt="image" src="https://github.com/user-attachments/assets/e71f1ed1-f1eb-40ca-9090-eb2d18ead79d" />
 
+* When both the equations are clubbed together -> I & II -> C.
+* [IMPORTANT]
 
+<img width="1416" height="820" alt="image" src="https://github.com/user-attachments/assets/cfde9f33-44ea-497b-a43e-b99897b968b8" />
 
+* [IMPORTANT]
 
+<img width="1386" height="796" alt="image" src="https://github.com/user-attachments/assets/6b3c7b77-0c75-4950-9f92-38afa9c48e25" />
 
+* [IMPORTANT]
 
+<img width="1422" height="805" alt="image" src="https://github.com/user-attachments/assets/2bc19b83-f58c-4f6a-bf30-73970c697593" />
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/05e04306-e4ed-4438-b0c1-52093eb58059" />
 
+* [FORMULA]
 
+<img width="1404" height="806" alt="image" src="https://github.com/user-attachments/assets/aaf6d3d5-2ce9-48c2-88f1-4ebf3906c84b" />
+<img width="1406" height="804" alt="image" src="https://github.com/user-attachments/assets/7f909da6-a8e4-4053-a752-342e7cc2fae7" />
 
+* [IMPORTANT]
+
+<img width="1399" height="559" alt="image" src="https://github.com/user-attachments/assets/a5809bf0-fe41-4c44-a1ef-ed8250f7b9b0" />
+<img width="1409" height="808" alt="image" src="https://github.com/user-attachments/assets/207285ac-dfd7-4ac9-987c-5c543617077d" />
+<img width="1410" height="794" alt="image" src="https://github.com/user-attachments/assets/6d63c343-e1fc-4bae-ac5d-fb76ca97258b" />
+<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/4faa9bd8-22f0-4e85-acc3-3763465deb15" />
+<img width="1411" height="801" alt="image" src="https://github.com/user-attachments/assets/861769bc-4169-4d43-aa49-0c3c776f79fd" />
+
+* Doesn't matter if the answer comes in positive or negative, as long as we get the answers to the question. [FORMULA]
+* We should get answer to the question, whether positive or negative. [FORMULA]
+* By default -> Variables are real numbers. [FORMULA]
+* [IMPORTANT]
+
+<img width="1393" height="619" alt="image" src="https://github.com/user-attachments/assets/f96e53c6-14a7-48e4-bea2-212f96fae206" />
+<img width="1403" height="799" alt="image" src="https://github.com/user-attachments/assets/9bd17a54-3f64-4d85-8127-fbb968061add" />
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/c1e25e9b-1349-4569-ba20-75aa540e83b0" />
+
+* No, No. [Wrong]
+* Yes, No.
+* Ans -> D. [Wrong]
+* Ans -> A. [Example]  [IMPORTANT]
+
+<img width="312" height="69" alt="image" src="https://github.com/user-attachments/assets/d039b2f4-dcd8-425a-84d1-75d91b7d47a2" />
+
+* When question is -> What is the value of 'x'?
+* Question here-> Is 'x' an odd number?
+
+<img width="956" height="571" alt="image" src="https://github.com/user-attachments/assets/37d793de-4829-4093-9d68-a5ef0f5c6a5e" />
+<img width="1391" height="822" alt="image" src="https://github.com/user-attachments/assets/b46b500b-bfac-496c-977f-9ab77f783f0c" />
+
+* No, No.
+* Ans -> D. [Correct] [IMPORTANT]
+
+<img width="1437" height="823" alt="image" src="https://github.com/user-attachments/assets/265ecabd-a97d-4c68-b15c-03e268eea4a4" />
+<img width="1412" height="803" alt="image" src="https://github.com/user-attachments/assets/33bd2241-6ac1-4eb1-9707-08014bbee90a" />
+
+* No unique answer. [IMPORTANT]
+* Ans -> E.
+
+<img width="1011" height="831" alt="image" src="https://github.com/user-attachments/assets/a61ff97e-f7d2-4cff-a680-11652752bbd3" />
+
+* [FORMULA]
+
+<img width="1029" height="355" alt="image" src="https://github.com/user-attachments/assets/2e6db7c0-588f-412b-b8ab-ff05f00df9bc" />
+<img width="1454" height="823" alt="image" src="https://github.com/user-attachments/assets/6c957960-d9a0-46e1-bb27-5d53b01498d9" />
+<img width="1433" height="836" alt="image" src="https://github.com/user-attachments/assets/0c88cd0d-d591-4cf9-8ff4-bb0bfdc36f5d" />
+<img width="1438" height="851" alt="image" src="https://github.com/user-attachments/assets/3236b09c-e938-477c-8d3c-cb05d92ab905" />
+
+* P =20.
+* 20/20 -> Rem = 1.
+
+<img width="1424" height="831" alt="image" src="https://github.com/user-attachments/assets/618d5259-0d1b-4245-9e00-62eb78e63d38" />
+
+* Ans -> C. [Example] [IMPORTANT]
+
+<img width="931" height="348" alt="image" src="https://github.com/user-attachments/assets/68a22580-19ef-4adc-8875-716e77a2d759" />
+<img width="1430" height="821" alt="image" src="https://github.com/user-attachments/assets/8c962095-e139-4bae-890c-ec8fb40f8408" />
+
+* Ans -> C. [Example] [IMPORTANT]
+
+<img width="1451" height="815" alt="image" src="https://github.com/user-attachments/assets/fce033ce-a0b1-4e91-beff-6f521c57976b" />
+
+* Divisibility rule of 9 -> Sum of the digits should be divisible by 9. [FORMULA] [EXAMPLE]
+* Divisibility rule of 25 -> No. formed by last '2' digits should be divisible by 25. [FORMULA] [EXAMPLE]
+
+<img width="1417" height="806" alt="image" src="https://github.com/user-attachments/assets/7ac80075-2556-433d-b80c-677a55f00ff0" />
+
+* I -> No unique value -> No.
+* Ans -> C. [Example] [IMPORTANT] [Correct]
+
+<img width="1430" height="859" alt="image" src="https://github.com/user-attachments/assets/76e97490-9d01-4b7f-a9a8-4d0f1ee9dea8" />
+<img width="1439" height="821" alt="image" src="https://github.com/user-attachments/assets/0c59e386-f1e7-48cf-9193-401a81882257" />
+<img width="1441" height="839" alt="image" src="https://github.com/user-attachments/assets/3ee32fbb-d180-477f-bf54-3f12f2f31d68" />
+<img width="1433" height="803" alt="image" src="https://github.com/user-attachments/assets/03dd42c0-ab05-460f-9f6f-b6de6633357a" />
+
+* [Example]
+
+<img width="802" height="416" alt="image" src="https://github.com/user-attachments/assets/d87507d8-1d1b-4e72-856f-3c81a73f8f06" />
+<img width="1419" height="831" alt="image" src="https://github.com/user-attachments/assets/361355f1-4c21-49d1-9b86-44b8887c5d65" />
+
+* q & 'q+1' -> Consequetive numbers.
+* If q -> Odd -> q + 1 -> Even.
+* If q -> Even -> q + 1 -> Odd.
+* Odd * Even -> Even. [FORMULA]
+* Even * Odd -> Even. [FORMULA]
+* Odd + Even -> Odd. [FORMULA]
+* Even + Odd -> Odd. [FORMULA]
+
+<img width="1440" height="828" alt="image" src="https://github.com/user-attachments/assets/7f2167d4-9c1b-4a51-96eb-ecc8b1503bb8" />
+<img width="1429" height="812" alt="image" src="https://github.com/user-attachments/assets/ed91f1cc-94c4-4dcb-9a43-4b7d99a86e0a" />
+
+* 2p -> Always Even.
+
+<img width="1441" height="830" alt="image" src="https://github.com/user-attachments/assets/6a581588-1044-4c69-a8ed-bebe370bc036" />
+<img width="1435" height="825" alt="image" src="https://github.com/user-attachments/assets/22c03fcd-3e55-44bf-92c7-8a1c3f16b94f" />
+
+* Clubbed -> q = odd.
+* Ans -> E. [Correct] [Example] [IMPORTANT]
+
+<img width="1419" height="552" alt="image" src="https://github.com/user-attachments/assets/4f688362-3b38-4729-b621-2d2f1b94cde7" />
+<img width="1427" height="822" alt="image" src="https://github.com/user-attachments/assets/a6a3e950-8b6f-4c65-8f11-5abf9188ed53" />
+<img width="1431" height="845" alt="image" src="https://github.com/user-attachments/assets/49b2c0e1-57d6-4fb1-9750-02a2fc428ce5" />
+<img width="1430" height="818" alt="image" src="https://github.com/user-attachments/assets/6b4cb636-ea33-4acd-b2d1-e87e270cd66e" />
+<img width="1433" height="810" alt="image" src="https://github.com/user-attachments/assets/db2877e5-35fb-4be9-9de6-0a02817e2842" />
+
+* Ans -> E. [Wrong]
+* Ans -> C. [Answer] [Example] [IMPORTANT]
+
+<img width="1407" height="798" alt="image" src="https://github.com/user-attachments/assets/b1427d91-7be2-45d4-ab9b-3da1ac329cb8" />
+
+* Ans -> B. 
+
+<img width="1417" height="819" alt="image" src="https://github.com/user-attachments/assets/396b267b-9352-4d96-a69d-7854c43c2f66" />
+<img width="1434" height="801" alt="image" src="https://github.com/user-attachments/assets/967252aa-4ef8-461c-82a8-971eef1947a6" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/34db20d6-8cb0-4fbc-86a3-b4db86589e71" />
+
+* Ans -> C. 
+
+<img width="1163" height="430" alt="image" src="https://github.com/user-attachments/assets/0392b547-a81b-4ae2-93d3-6a3658b84979" />
+
+* n -> Odd natural number. [FORMULA]
+* When 'n' is an **odd natural number**, it is divisible. [FORMULA]
+
+<img width="892" height="389" alt="image" src="https://github.com/user-attachments/assets/5493bd8f-0664-44ce-bb5c-e142d8c5bb63" />
+<img width="1424" height="808" alt="image" src="https://github.com/user-attachments/assets/c2bb2757-2911-4d07-97c4-5c825017ace7" />
+
+* I -> No unique values -> No.
+* II -> We got the answer, which is 'No' -> Yes.
+* Ans -> E. [Wrong]
+* Ans -> B. [Correct]
+
+<img width="958" height="364" alt="image" src="https://github.com/user-attachments/assets/1ac3e6ce-ca93-4170-bfd6-8916f622247b" />
+<img width="1416" height="812" alt="image" src="https://github.com/user-attachments/assets/017930c5-0e5b-4994-a3ee-1ed4425f7f01" />
+<img width="1438" height="815" alt="image" src="https://github.com/user-attachments/assets/70173945-7fd5-4cb5-90eb-a2cf5cd43ba4" />
+<img width="1430" height="823" alt="image" src="https://github.com/user-attachments/assets/83187c5f-0945-4d3c-b73b-7b6f32c10d22" />
+
+* No, No. 
+* Ans -> A. [Wrong]
+* Ans -> E. [Correct]
+
+<img width="1433" height="812" alt="image" src="https://github.com/user-attachments/assets/71f020c9-4c7e-48a2-844e-af4193d8a3df" />
+
+* [Example] [IMPORTANT]
+
+<img width="1428" height="797" alt="image" src="https://github.com/user-attachments/assets/68eecde4-0dd4-495b-b466-8632a97d4473" />
+<img width="1421" height="807" alt="image" src="https://github.com/user-attachments/assets/019281d2-8217-4a51-93fd-f6a0e9a9e617" />
+
+* [Example] [IMPORTANT]
+* Ans -> D.
+
+<img width="1074" height="648" alt="image" src="https://github.com/user-attachments/assets/7d2a7d44-f601-4c93-afbc-3981b52443a1" />
+<img width="1528" height="850" alt="image" src="https://github.com/user-attachments/assets/eaf2d0c9-187b-4c74-8dc8-0c344e1dc27c" />
+<img width="1424" height="808" alt="image" src="https://github.com/user-attachments/assets/03401d32-3d6c-4a18-b932-ff0bd6739dfe" />
+
+* Ans -> D. [Correct]
+
+### Last 2 digits of a number
+
+<img width="1151" height="616" alt="image" src="https://github.com/user-attachments/assets/b12f872f-3c9a-45e5-882f-ac049acab4ef" />
+
+* Last 2 digits -> Remainder of 00.
+
+<img width="1423" height="820" alt="image" src="https://github.com/user-attachments/assets/18c131ab-c62f-4849-907c-dacb2a9370e9" />
+<img width="1418" height="811" alt="image" src="https://github.com/user-attachments/assets/239058a6-74fa-4e1e-8b0a-bce1b6fd9146" />
+<img width="1428" height="828" alt="image" src="https://github.com/user-attachments/assets/4addf3bc-3953-4a5f-baf2-98723dcfd0ae" />
+<img width="1429" height="830" alt="image" src="https://github.com/user-attachments/assets/460d283f-30b5-47e5-ba1b-fdb681f311a5" />
+<img width="1425" height="806" alt="image" src="https://github.com/user-attachments/assets/0ae478e9-0d6e-4b63-bbdc-25d71092921b" />
+
+* Ends with '1'. [FORMULA]
+
+<img width="1047" height="559" alt="image" src="https://github.com/user-attachments/assets/f227a922-e91a-4489-b334-0c842ea1b4c3" />
+<img width="1432" height="833" alt="image" src="https://github.com/user-attachments/assets/f9710a00-9087-4b0d-80f3-b67e995ebefb" />
+
+* [Example]
+
+<img width="1424" height="817" alt="image" src="https://github.com/user-attachments/assets/db85f087-8f0a-4c0e-a4bc-72a880c16d39" />
+<img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/dcdea29e-3bae-4592-b512-37a01ec13ee0" />
+
+* [Example]
+
+<img width="1421" height="820" alt="image" src="https://github.com/user-attachments/assets/6011ff85-6686-4e44-b79c-4cce9937eb47" />
+<img width="1426" height="829" alt="image" src="https://github.com/user-attachments/assets/7409bd72-83c2-4db9-bc33-b09ede993ace" />
+<img width="1438" height="815" alt="image" src="https://github.com/user-attachments/assets/560a3383-cb75-4648-814b-678783ddb33e" />
+
+* [FORMULA]
+
+<img width="738" height="267" alt="image" src="https://github.com/user-attachments/assets/7794c54c-d620-4d7f-a641-c5061f327887" />
+
+* 100-89->11.
+* 11^2-> 121 -> 21. [Answer] [Example]
+
+<img width="862" height="503" alt="image" src="https://github.com/user-attachments/assets/918d8985-d760-45f3-abfb-e5cf3cca2bff" />
+
+* 50-58->8.
+* 8^2-> 64. [Answer] [Example]
  
+<img width="883" height="608" alt="image" src="https://github.com/user-attachments/assets/345b8e15-c323-444e-aa28-79f577ab0c03" />
 
+* 50-38->12.
+* 12^2-> 144 -> 44. [Answer] [Example]
 
+<img width="818" height="231" alt="image" src="https://github.com/user-attachments/assets/32c7bbcf-8e64-4cf4-b8c4-eda29e5ca5cf" />
 
+* 100-79->21
+* 21^2->441->41. [Answer] [Example]
 
+<img width="1042" height="785" alt="image" src="https://github.com/user-attachments/assets/467a8fa9-ae60-47aa-b5f9-216e4c264442" />
 
+* 50-61->11.
+* 11^2-> 121 -> 21. [Answer] [Example]
+* 50-37->13.
+* 13^2-> 169 -> 69. [Answer] [Example]
 
+<img width="1430" height="547" alt="image" src="https://github.com/user-attachments/assets/e8a56787-98f5-467b-84fd-f77952cefcb7" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 29^2->841->41. [Example]
+* Start from 24mins.
 
 
 
@@ -2118,6 +2342,7 @@
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/d4866577-8f9a-434a-86f1-e511af6f35e6" />
 <img width="936" height="1280" alt="image" src="https://github.com/user-attachments/assets/7751df34-7bc8-47c5-9fad-2fe916570326" />
 <img width="1403" height="841" alt="image" src="https://github.com/user-attachments/assets/e1ce68dc-51be-4063-95af-356056257ef2" />
+
 
 
 
