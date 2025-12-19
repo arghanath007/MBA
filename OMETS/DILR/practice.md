@@ -448,8 +448,231 @@
 * Ashok -> Uncle.
 * [VERY IMPORTANT]
 
+## SNAP Marathon 
 
+* Link -> https://www.youtube.com/watch?v=25xdW2OlEMo [2hr 31mins]
 
+<img width="1694" height="916" alt="image" src="https://github.com/user-attachments/assets/fbba1ce2-1d29-41c0-837a-ed0e6aed77d9" />
+<img width="1611" height="892" alt="image" src="https://github.com/user-attachments/assets/3a41c71e-e703-446e-84a3-5b99d70d9630" />
+<img width="1630" height="878" alt="image" src="https://github.com/user-attachments/assets/1e505a72-e0b6-41a1-b609-7e4fff48dc7c" />
+<img width="1281" height="881" alt="image" src="https://github.com/user-attachments/assets/288892de-d111-4720-91d3-777657d8daec" />
+<img width="1309" height="878" alt="image" src="https://github.com/user-attachments/assets/68e066e6-3b2d-4ff3-9b34-9227861da022" />
+<img width="1400" height="887" alt="image" src="https://github.com/user-attachments/assets/22d59d22-efac-4b36-b200-fbff858d65ba" />
+<img width="1349" height="880" alt="image" src="https://github.com/user-attachments/assets/5410ea9c-1714-438c-a2a3-8d4e11cea7fe" />
+<img width="1607" height="903" alt="image" src="https://github.com/user-attachments/assets/ccbb9d2c-fb65-4bce-9700-095a01f3c9e0" />
+<img width="1322" height="891" alt="image" src="https://github.com/user-attachments/assets/46521554-bb2e-4878-93e6-68c7d45ee5bb" />
+<img width="1470" height="895" alt="image" src="https://github.com/user-attachments/assets/b63961f6-5d1e-45e9-8002-9ef41e79c73b" />
+<img width="1655" height="906" alt="image" src="https://github.com/user-attachments/assets/2e8fa6a1-430b-4232-86ad-539ba0f14f0d" />
+<img width="1576" height="895" alt="image" src="https://github.com/user-attachments/assets/6527de4f-7859-445d-b443-4a9dceedfb8a" />
+<img width="1629" height="904" alt="image" src="https://github.com/user-attachments/assets/f98d8612-1e96-4cf1-86e6-759be9d2c162" />
+<img width="1460" height="894" alt="image" src="https://github.com/user-attachments/assets/b1f86984-67b1-4b2f-9afc-e53da4d24e7e" />
+<img width="1624" height="899" alt="image" src="https://github.com/user-attachments/assets/a0f43331-0c31-4ce4-916f-0a2bcdfb2eba" />
+<img width="1430" height="899" alt="image" src="https://github.com/user-attachments/assets/372d6720-d22a-411e-8647-207b09ca7747" />
+<img width="1622" height="889" alt="image" src="https://github.com/user-attachments/assets/1f0fd547-3116-49ce-90ae-aa285aaf11e0" />
+<img width="1338" height="778" alt="image" src="https://github.com/user-attachments/assets/fc798b7d-4c46-4c6b-a34b-a4ddbc048b71" />
+<img width="1473" height="886" alt="image" src="https://github.com/user-attachments/assets/0eb818c3-94ef-452e-a348-fc10fefbacf4" />
+<img width="1627" height="890" alt="image" src="https://github.com/user-attachments/assets/2f7b0208-c58e-40a3-81c2-b2089c36ec98" />
+<img width="1696" height="897" alt="image" src="https://github.com/user-attachments/assets/6d411c72-81cd-4188-bb5e-f47343e5517c" />
+<img width="1694" height="900" alt="image" src="https://github.com/user-attachments/assets/d62ae176-c331-40ff-aaa2-35d344174465" />
+
+* [IMPORTANT]
+
+<img width="1658" height="885" alt="image" src="https://github.com/user-attachments/assets/29803c01-39a0-4338-825f-eebc79d7851d" />
+<img width="1637" height="888" alt="image" src="https://github.com/user-attachments/assets/fef56ef6-b313-433d-814d-6706e44dd943" />
+
+* Digit Sum.
+* [IMPORTANT]
+
+<img width="1598" height="893" alt="image" src="https://github.com/user-attachments/assets/35b3323d-b816-4a50-9e35-833f4ea208b4" />
+<img width="1594" height="882" alt="image" src="https://github.com/user-attachments/assets/91d00761-bd72-489a-9872-e8f7b6034e02" />
+
+* [IMPORTANT]
+
+<img width="1585" height="887" alt="image" src="https://github.com/user-attachments/assets/2b241464-b294-4f42-bb71-3f5052771d64" />
+
+* [IMPORTANT]
+
+<img width="1302" height="790" alt="image" src="https://github.com/user-attachments/assets/83213404-6f10-4d6b-8ade-8e89be4545f6" />
+<img width="1623" height="894" alt="image" src="https://github.com/user-attachments/assets/1d60db73-bf40-46ff-89bc-5f0e8b0c1071" />
+<img width="1636" height="724" alt="image" src="https://github.com/user-attachments/assets/7b7c0a5e-6823-45bb-9d8a-ae612239e9c2" />
+
+* Hoof -> Lower hard part of horse -> Foot protection. [MEANING]
+
+<img width="1220" height="574" alt="image" src="https://github.com/user-attachments/assets/d0ab5c16-c600-492d-b913-429e7132824d" />
+<img width="1394" height="609" alt="image" src="https://github.com/user-attachments/assets/ed9a0a3a-b612-415c-86c2-537f4fbfe580" />
+
+* [IMPORTANT]
+
+<img width="1314" height="541" alt="image" src="https://github.com/user-attachments/assets/53b2ce6a-b688-4dfc-973d-90dd1fa07295" />
+<img width="1352" height="549" alt="image" src="https://github.com/user-attachments/assets/39f556e4-bc27-4e11-af40-b5157947b6c8" />
+
+* Cytology -> Study of cells. [MEANING]
+* Ornithology -> Study of birds. [MEANING]
+* Entomology -> Study of insects. [MEANING]
+* Physiology -> Study of normal functions and mechanisms within living systems. [MEANING]
+* Morphology -> Study of words. [MEANING]
+
+<img width="1406" height="826" alt="image" src="https://github.com/user-attachments/assets/90d26544-d172-4f35-95dc-e15c2effc01e" />
+<img width="1509" height="558" alt="image" src="https://github.com/user-attachments/assets/1468ce00-ffaa-42fb-a741-3f0f07242b37" />
+<img width="1505" height="676" alt="image" src="https://github.com/user-attachments/assets/4ba555cb-23c6-4db8-8a4e-07329a909a2d" />
+
+* Mendacity -> Liar. [MEANING]
+* Honesty -> Not liar, truth teller. [MEANING]
+* fortitude -> strength of mind that enables a person to encounter danger or bear pain or adversity with courage. [MEANING]
+* Courageous -> having or characterized by courage : brave. [MEANING]
+* Craven -> lacking the least bit of courage : contemptibly fainthearted. [MEANING]
+* turpitude -> inherent baseness : depravity. [MEANING]
+* depravity -> a corrupt act or practice. [MEANING]
+* [IMPORTANT]
+
+<img width="1411" height="693" alt="image" src="https://github.com/user-attachments/assets/4e069eb5-1784-447a-a463-4b268bb128e3" />
+<img width="1626" height="893" alt="image" src="https://github.com/user-attachments/assets/6f611642-eab8-4892-969b-5673bad4fc99" />
+
+* [IMPORTANT]
+
+<img width="730" height="515" alt="image" src="https://github.com/user-attachments/assets/2a7ff935-56b8-4017-be90-5e495d2d2f4d" />
+<img width="1605" height="684" alt="image" src="https://github.com/user-attachments/assets/a4aa9eff-80dc-40bf-a50b-d6a13485ea69" />
+
+* preamble -> an introductory statement -> especially : the introductory part of a constitution or statute that usually states the reasons for and intent of the law. [MEANING]
+* preface -> the introductory remarks of a speaker or author. [MEANING]
+* [IMPORTANT]
+
+<img width="1457" height="881" alt="image" src="https://github.com/user-attachments/assets/64798e6a-5f02-412b-b30a-c2700a22b411" />
+<img width="1591" height="681" alt="image" src="https://github.com/user-attachments/assets/0e472e9b-d9dc-4fdb-963e-5c1d27a335dd" />
+<img width="1031" height="548" alt="image" src="https://github.com/user-attachments/assets/494a11cc-ef39-49f8-9baa-64eadd71b999" />
+
+* All are prime nos.
+
+<img width="1720" height="903" alt="image" src="https://github.com/user-attachments/assets/298403be-3220-4599-a31d-9253ae41c9d6" />
+
+* Yuan -> China's currency.
+* Kyat -> Myanmar's currency. 
+* Lira -> Turkey, Lebanon and Syria's currency. 
+* Dirham -> United Arab Emirates's currency. 
+* [IMPORTANT]
+
+<img width="1506" height="892" alt="image" src="https://github.com/user-attachments/assets/b4b194d7-7aa4-4fac-8974-bd07602870df" />
+
+* [IMPORTANT]
+
+<img width="1505" height="897" alt="image" src="https://github.com/user-attachments/assets/04da33e4-9bdd-4d48-9fb7-adae7d0b6604" />
+
+* [IMPORTANT]
+
+<img width="1606" height="893" alt="image" src="https://github.com/user-attachments/assets/40bb421a-0f2c-429b-8969-eecdca9b316e" />
+<img width="1442" height="890" alt="image" src="https://github.com/user-attachments/assets/7ee37a75-696a-4b32-802e-1605a136fd4d" />
+
+* No. of states and their capitals.
+
+<img width="1421" height="884" alt="image" src="https://github.com/user-attachments/assets/f29f8024-4ecd-45f3-8b2e-1847cbc3b394" />
+<img width="1689" height="835" alt="image" src="https://github.com/user-attachments/assets/a5dc9f73-9999-47fc-bae7-876d5db95e7a" />
+
+* [IMPORTANT]
+
+<img width="1626" height="894" alt="image" src="https://github.com/user-attachments/assets/c167d1f1-02d5-4dca-90e5-176c0915867f" />
+<img width="1356" height="707" alt="image" src="https://github.com/user-attachments/assets/d1994c8f-08f0-4552-9e0a-28378dcf4ec7" />
+
+* [IMPORTANT]
+
+<img width="1674" height="899" alt="image" src="https://github.com/user-attachments/assets/f0295431-8279-4d4e-aeb5-0d4b548c70cf" />
+<img width="1676" height="804" alt="image" src="https://github.com/user-attachments/assets/a2ef9140-4a5f-46ec-ba8d-e9305a51628f" />
+<img width="1677" height="904" alt="image" src="https://github.com/user-attachments/assets/99802122-2324-4caa-9b7e-0f4112fb5191" />
+
+* [FORMULA]
+
+<img width="1562" height="897" alt="image" src="https://github.com/user-attachments/assets/dda04834-d0ab-4fc2-9546-c2bd57850b1b" />
+
+* [Example]
+
+<img width="1585" height="899" alt="image" src="https://github.com/user-attachments/assets/5ba82f5d-c33a-4f6b-8d5f-911de0ff09b1" />
+
+* [IMPORTANT]
+
+<img width="1622" height="901" alt="image" src="https://github.com/user-attachments/assets/0353b0ad-1de2-4653-9359-63c00a33af44" />
+
+* [IMPORTANT]
+
+<img width="1632" height="898" alt="image" src="https://github.com/user-attachments/assets/2ce3254a-6e83-4242-90db-de1c1d6f39a4" />
+<img width="1613" height="893" alt="image" src="https://github.com/user-attachments/assets/47976f8c-1e40-4a1c-a5c3-2736ee5a67c9" />
+
+* 3.5+2.5->6mins
+* 4to10pm->6hrs
+* 6mins * 6hrs -> 36mins. [Ans]
+
+<img width="1632" height="891" alt="image" src="https://github.com/user-attachments/assets/c12ee33c-919f-41a9-a8c0-34c43151dee8" />
+<img width="1698" height="899" alt="image" src="https://github.com/user-attachments/assets/d7ffad0d-106e-4a92-bfc1-2f6dc4d6cf12" />
+<img width="1652" height="907" alt="image" src="https://github.com/user-attachments/assets/e7ddc7c3-ee6a-4512-895c-02c9f8dff827" />
+
+* Hour hand sum -> 11.
+* Minute hand sum -> 60.
+* 10+1->11.
+* 40+20->60.
+* 1hr 20mins. [Ans]
+* [IMPORTANT]
+
+<img width="1591" height="828" alt="image" src="https://github.com/user-attachments/assets/59bae3b7-2b24-46c1-af74-655145f86dc3" />
+<img width="1636" height="897" alt="image" src="https://github.com/user-attachments/assets/f506519b-4895-4dcc-9d0b-20279ea6dee3" />
+
+* 3+8->11.
+* 40+20->60.
+* 8hr 20mins. [Ans]
+
+<img width="1603" height="802" alt="image" src="https://github.com/user-attachments/assets/3bbd49df-ccaf-429e-ad09-90f1b50cd9fb" />
+<img width="1545" height="708" alt="image" src="https://github.com/user-attachments/assets/f9dbbeef-4549-4e73-9236-bc6c359182ff" />
+<img width="1616" height="898" alt="image" src="https://github.com/user-attachments/assets/a2c60e13-2278-4cb4-ba5e-2d1d179da976" />
+
+* [IMPORTANT]
+
+<img width="1674" height="898" alt="image" src="https://github.com/user-attachments/assets/cbd3a1fa-105b-4f73-9019-49248d9194f8" />
+<img width="1602" height="896" alt="image" src="https://github.com/user-attachments/assets/93de8ca8-08f1-469d-bb37-2fb87d306dd8" />
+<img width="1577" height="891" alt="image" src="https://github.com/user-attachments/assets/ee0dc098-e63b-4a4c-9ca2-a2a03f5ef42b" />
+
+* [IMPORTANT]
+
+<img width="1658" height="899" alt="image" src="https://github.com/user-attachments/assets/c1b1ae4a-711d-41d1-9fb9-a9b366ef1ad2" />
+<img width="908" height="564" alt="image" src="https://github.com/user-attachments/assets/f9146e2a-67c7-4887-8b01-8c3c3c67dd07" />
+<img width="1655" height="894" alt="image" src="https://github.com/user-attachments/assets/4bd068f8-5486-4d8e-afdc-072f52d506a3" />
+
+* After 28yrs -> Leap years are repeated. [FORMULA]
+
+<img width="1658" height="899" alt="image" src="https://github.com/user-attachments/assets/a3178372-e394-43eb-90c3-d85d29762f29" />
+<img width="1620" height="894" alt="image" src="https://github.com/user-attachments/assets/e5fe5315-6461-4178-82ba-351362608867" />
+<img width="1630" height="902" alt="image" src="https://github.com/user-attachments/assets/4a14ba24-5b0a-44fc-8ccd-667c5e597b4f" />
+
+* 14th Feb -> We cannot determine as it can be a leap yr or not.
+* [IMPORTANT]
+
+<img width="618" height="358" alt="image" src="https://github.com/user-attachments/assets/0c456779-e6b1-47f5-bcf7-5b0064a0559e" />
+<img width="988" height="716" alt="image" src="https://github.com/user-attachments/assets/cc074b51-4b71-4d72-a849-0a1439c6ab21" />
+
+* 100 -> 5
+* 200 -> 3
+* 300 -> 1
+* 400 -> 0
+* Calendar. [FORMULA]
+
+<img width="1572" height="886" alt="image" src="https://github.com/user-attachments/assets/9b342d39-6016-4a49-a0ce-679023203a7a" />
+<img width="1631" height="891" alt="image" src="https://github.com/user-attachments/assets/b6d6f713-8340-4cde-b8e5-b23409709a1d" />
+<img width="1644" height="901" alt="image" src="https://github.com/user-attachments/assets/91a4ff57-4115-47ca-bde9-a6629e64ceb1" />
+
+* [IMPORTANT]
+* 5 odd days -> Friday.
+* 0 odd days -> Sunday.
+* 1 -> Monday.
+* 2 -> Tuesday.
+* 3 -> Wednesday.
+* 4 -> Thusday.
+* 5 -> Friday.
+* 6 -> Saturday.
+* 7 or 0 -> Sunday.
+
+<img width="1656" height="729" alt="image" src="https://github.com/user-attachments/assets/a7f80acd-a443-494e-a855-f7ac83e9fd85" />
+<img width="1624" height="815" alt="image" src="https://github.com/user-attachments/assets/d1ff16cd-340f-4674-9295-f1d485bf9856" />
+<img width="1654" height="899" alt="image" src="https://github.com/user-attachments/assets/caf925e2-c0ff-49e7-917c-8031cb3ac32b" />
+<img width="1687" height="912" alt="image" src="https://github.com/user-attachments/assets/46d4c63c-a540-456c-944a-d94cd2ec9889" />
+<img width="1648" height="897" alt="image" src="https://github.com/user-attachments/assets/c7b91a6b-93f9-4925-a038-3855e2d7a916" />
+
+* [IMPORTANT]
 
 
 
