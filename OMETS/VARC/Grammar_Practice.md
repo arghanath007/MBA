@@ -469,6 +469,101 @@
 
 * VARC Section -> 15Q -> 7-8mins.
 
+## Snap Marathon 3
+
+* Link -> https://www.youtube.com/watch?v=25xdW2OlEMo (5hrs)
+
+<img width="1399" height="547" alt="image" src="https://github.com/user-attachments/assets/efd0d91a-a449-42d0-9e89-3142e82a5a68" />
+<img width="1379" height="664" alt="image" src="https://github.com/user-attachments/assets/76f4b811-a297-406e-97e0-efee491ed622" />
+
+* Opportune -> Perfect moment. [MEANING]
+
+<img width="1295" height="485" alt="image" src="https://github.com/user-attachments/assets/49d709a3-2aac-4a62-b2ce-b72b153871d3" />
+<img width="1174" height="580" alt="image" src="https://github.com/user-attachments/assets/afefa231-2797-4c48-a9f6-6a9cc5c1b24a" />
+
+* I am a liar.
+
+<img width="1372" height="767" alt="image" src="https://github.com/user-attachments/assets/9c7b55fa-7e05-40d0-bbff-b44928e640a2" />
+<img width="1516" height="789" alt="image" src="https://github.com/user-attachments/assets/0e3984d8-63ca-4717-9881-ba1919cfba76" />
+
+* [IMPORTANT]
+
+<img width="1275" height="534" alt="image" src="https://github.com/user-attachments/assets/e48a2b6e-b152-4fec-be76-028b29a2e71c" />
+
+* [IMPORTANT]
+
+<img width="1357" height="644" alt="image" src="https://github.com/user-attachments/assets/93d208bd-4fde-41e1-852c-dad906dc46e7" />
+<img width="1311" height="616" alt="image" src="https://github.com/user-attachments/assets/0094a238-a3f5-4be5-be3c-2d3f83474d52" />
+
+* Based on the context.
+* [IMPORTANT]
+
+<img width="1287" height="487" alt="image" src="https://github.com/user-attachments/assets/08fc480f-03db-4200-bc89-0810f5e551ff" />
+<img width="1290" height="482" alt="image" src="https://github.com/user-attachments/assets/38c5fa7d-51a4-4756-9740-a63f2e24e43a" />
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/509b6ae0-75d1-4ef0-b974-b36225bc3ca2" />
+<img width="964" height="476" alt="image" src="https://github.com/user-attachments/assets/1fab70d5-b659-4541-903d-5a881b9f9139" />
+<img width="1155" height="732" alt="image" src="https://github.com/user-attachments/assets/5a81c1d2-39fe-420f-8621-a364d47e7403" />
+
+* Break the ice -> Start/Initiate the conversation.
+
+<img width="1143" height="439" alt="image" src="https://github.com/user-attachments/assets/ac4fdcdc-fe2f-4ced-b9a0-32f65eb8a9f2" />
+<img width="1048" height="521" alt="image" src="https://github.com/user-attachments/assets/3e5543dc-8f2e-4cf1-a74e-2b6aff48f941" />
+<img width="943" height="433" alt="image" src="https://github.com/user-attachments/assets/40225e09-f410-4139-bdc7-6fdd8d441a56" />
+<img width="1296" height="908" alt="image" src="https://github.com/user-attachments/assets/5996b9b9-f6bf-4b64-b760-76fc67a338f5" />
+
+* [IMPORTANT]
+
+<img width="753" height="463" alt="image" src="https://github.com/user-attachments/assets/a816f132-4524-4b3b-aae3-329b70639b75" />
+
+* [FORMULA]
+
+<img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/ee6fcf05-6ffb-4098-ba78-2c62de294ac6" />
+<img width="1675" height="914" alt="image" src="https://github.com/user-attachments/assets/f1eab821-5ebb-4e7a-aa03-fd9c2eee704f" />
+<img width="1651" height="911" alt="image" src="https://github.com/user-attachments/assets/36b5c1cb-733b-417f-a17e-0f8b73502de5" />
+<img width="1163" height="490" alt="image" src="https://github.com/user-attachments/assets/753638ef-3c52-450a-b064-611a87459dcc" />
+<img width="1368" height="720" alt="image" src="https://github.com/user-attachments/assets/6d88382e-b2b8-4bb5-b8fe-967b6790249e" />
+<img width="1238" height="631" alt="image" src="https://github.com/user-attachments/assets/873f2fa1-f20c-47ee-8072-31c9ebea6a01" />
+<img width="1306" height="765" alt="image" src="https://github.com/user-attachments/assets/ab1408ad-8bea-4ea8-ac37-2c670c0011bf" />
+
+* [IMPORTANT]
+* Death -> Passed away. [Euphemism]
+
+<img width="1143" height="441" alt="image" src="https://github.com/user-attachments/assets/d647a947-f282-4bf1-8252-25b9ae071707" />
+<img width="1309" height="721" alt="image" src="https://github.com/user-attachments/assets/fd8b2610-f160-4b32-99d5-c25098680704" />
+<img width="1315" height="538" alt="image" src="https://github.com/user-attachments/assets/a7a2b34f-cc7d-466f-8bd1-84c91a8ca26a" />
+<img width="1392" height="612" alt="image" src="https://github.com/user-attachments/assets/a2100df1-e1f7-4f43-9c30-6223b6960d2e" />
+<img width="1311" height="539" alt="image" src="https://github.com/user-attachments/assets/5e80227c-349f-4a43-8484-e167b9643224" />
+<img width="1303" height="508" alt="image" src="https://github.com/user-attachments/assets/337655e5-6598-49b0-9671-b4a113bb6b06" />
+<img width="1413" height="750" alt="image" src="https://github.com/user-attachments/assets/38fcd2d3-3bc3-4fb6-a79b-82a0c849c7ef" />
+<img width="1383" height="774" alt="image" src="https://github.com/user-attachments/assets/4b35bb48-c281-4247-b6ee-04221aa3b5f1" />
+
+* Anticlimax -> an event, period, or outcome that is strikingly less important or dramatic than expected. [MEANING]
+* Climax -> the highest point : culmination. [MEANING]
+* [IMPORTANT]
+
+<img width="1443" height="772" alt="image" src="https://github.com/user-attachments/assets/d205b3d3-00e9-4a4b-97cd-23a36bf5aada" />
+<img width="1672" height="783" alt="image" src="https://github.com/user-attachments/assets/917a5dd4-2f99-4518-bf05-bb452783b1ff" />
+
+* E. [Wrong]
+* Ans -> A.
+* [IMPORTANT]
+
+<img width="1073" height="540" alt="image" src="https://github.com/user-attachments/assets/519911e8-8eb3-422f-b672-84014ca4c722" />
+<img width="1100" height="506" alt="image" src="https://github.com/user-attachments/assets/24a855bf-6f42-43f7-b8a8-720bc2c74488" />
+
+* [IMPORTANT]
+
+<img width="1266" height="660" alt="image" src="https://github.com/user-attachments/assets/44c05dfa-f5c5-49f3-8c22-7124731e421e" />
+<img width="1533" height="912" alt="image" src="https://github.com/user-attachments/assets/22ee736c-b035-416d-8439-d8565bcded99" />
+
+* [IMPORTANT]
+* 5hrs 50mins.
+
+
+
+
+
+
 
 
 
