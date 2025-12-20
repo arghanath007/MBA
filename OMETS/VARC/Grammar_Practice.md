@@ -557,7 +557,196 @@
 <img width="1533" height="912" alt="image" src="https://github.com/user-attachments/assets/22ee736c-b035-416d-8439-d8565bcded99" />
 
 * [IMPORTANT]
-* 5hrs 50mins.
+
+<img width="1572" height="908" alt="image" src="https://github.com/user-attachments/assets/c5efbc1a-b261-4f7b-b76b-ecd20e5618d0" />
+<img width="1287" height="547" alt="image" src="https://github.com/user-attachments/assets/2c0b23f6-2208-4338-8d86-525a2ceba4cd" />
+
+* Rebuttal -> Opposing argument. [MEANING]
+
+<img width="1226" height="486" alt="image" src="https://github.com/user-attachments/assets/deeb756f-36c3-46b5-a282-6796fe9aba4b" />
+
+* Mendacious -> Dishonest. [MEANING]
+* [IMPORTANT]
+
+<img width="1311" height="573" alt="image" src="https://github.com/user-attachments/assets/1ee3c289-8647-4d78-89d2-c19d1303f480" />
+<img width="1308" height="573" alt="image" src="https://github.com/user-attachments/assets/3b51892b-2d41-45f3-8f80-22c75b6a763f" />
+<img width="1297" height="609" alt="image" src="https://github.com/user-attachments/assets/212e6315-5632-432c-b226-2a2cdc39126e" />
+
+* Ans -> B.
+* [IMPORTANT]
+
+<img width="1303" height="528" alt="image" src="https://github.com/user-attachments/assets/db413e45-5841-452e-803e-3c7579aeee93" />
+<img width="1301" height="579" alt="image" src="https://github.com/user-attachments/assets/a95f38de-cb1b-431c-8f46-54cd1a92d320" />
+<img width="1359" height="827" alt="image" src="https://github.com/user-attachments/assets/1c79755d-7d70-4d79-a4e2-e307b29b238b" />
+
+* lexicographer -> an author or editor of a dictionary. [MEANING]
+* cartographer -> one that makes maps. [MEANING]
+* [IMPORTANT]
+
+<img width="1112" height="505" alt="image" src="https://github.com/user-attachments/assets/17b51087-9b58-4e1b-a2f6-67950d8ed00f" />
+<img width="1331" height="616" alt="image" src="https://github.com/user-attachments/assets/8ff8b3a2-e828-4b83-9aba-54c2c4e7d6ed" />
+
+* [IMPORTANT]
+
+<img width="1266" height="537" alt="image" src="https://github.com/user-attachments/assets/96bbae99-76a4-4484-bdb3-eeeeadc9d9de" />
+<img width="1450" height="746" alt="image" src="https://github.com/user-attachments/assets/3a59ccab-d632-4c09-8c71-ce6e9fa89bbe" />
+<img width="1315" height="728" alt="image" src="https://github.com/user-attachments/assets/08d2a1f9-5788-4cb6-8550-ff4bac01ba9f" />
+<img width="1292" height="747" alt="image" src="https://github.com/user-attachments/assets/7f9542db-d3d7-428e-bf89-2caae7d95e48" />
+
+* cicada -> An insect, a bug. [MEANING]
+* Yelp -> For humans. [MEANING]
+* Coo, Chirp -> For Birds. [MEANING]
+
+<img width="1166" height="479" alt="image" src="https://github.com/user-attachments/assets/fe6ef071-116f-4587-be80-428e45d0e3db" />
+
+* [IMPORTANT]
+
+<img width="1124" height="628" alt="image" src="https://github.com/user-attachments/assets/8c591838-5f1f-455a-a266-094d60d9cc90" />
+<img width="1077" height="610" alt="image" src="https://github.com/user-attachments/assets/2334b536-d56a-4871-9c9e-7449d9dd51c4" />
+
+* Metonymy -> a figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated (such as "crown" in "lands belonging to the crown"). [MEANING]
+* [IMPORTANT]
+
+<img width="1234" height="451" alt="image" src="https://github.com/user-attachments/assets/e562ed0b-278d-41d7-a715-3b247aa58d28" />
+<img width="1450" height="908" alt="image" src="https://github.com/user-attachments/assets/eed86ff6-8a65-4cf0-ad57-dd04da444b04" />
+<img width="1287" height="602" alt="image" src="https://github.com/user-attachments/assets/d8d91fcd-d3eb-4d8c-a399-41cd44c20fc5" />
+<img width="1282" height="651" alt="image" src="https://github.com/user-attachments/assets/6fb5888e-7b13-4184-8d06-499e26522477" />
+<img width="1620" height="699" alt="image" src="https://github.com/user-attachments/assets/0dce04bb-07fb-4eac-bd69-ef21f07be478" />
+<img width="1356" height="629" alt="image" src="https://github.com/user-attachments/assets/a86b2dd4-eee4-4a14-bf96-95b77c9aa3a0" />
+
+* B
+
+<img width="1008" height="523" alt="image" src="https://github.com/user-attachments/assets/5db21531-f3a7-46d2-853f-81c6dbcb4a33" />
+<img width="1025" height="490" alt="image" src="https://github.com/user-attachments/assets/cc6c26df-3a56-43bc-b7bf-a51013dee9e9" />
+<img width="1349" height="910" alt="image" src="https://github.com/user-attachments/assets/d9763b5d-fec9-4cc4-92a0-e8a0a73258e2" />
+
+* A
+* No subjunctive mood here.
+
+<img width="952" height="497" alt="image" src="https://github.com/user-attachments/assets/cc7b8c15-50e5-4d98-9dca-86809e03daa6" />
+<img width="937" height="469" alt="image" src="https://github.com/user-attachments/assets/970d3719-7018-4c38-9777-0571ef29c7c0" />
+
+* A. [Wrong]
+* D.
+* [IMPORTANT]
+
+<img width="1368" height="842" alt="image" src="https://github.com/user-attachments/assets/15989b5d-fb8d-493f-b1a8-e8de71bed9b7" />
+<img width="1357" height="835" alt="image" src="https://github.com/user-attachments/assets/c0bac744-f291-4eee-be50-1f5aae510f93" />
+<img width="1320" height="782" alt="image" src="https://github.com/user-attachments/assets/cda1c63e-30c7-4772-9bfd-4c3ebba59e40" />
+
+* C.
+* Trap question.
+* [IMPORTANT]
+* Facts -> Either-OR
+* Opinion -> E -> Both I and II
+
+* Owe, Owed -> Load/debt -> to be under obligation to pay or repay in return for something received : be indebted in the sum of. [MEANING]
+* Owing to -> because of -> absent owing to illness. [MEANING]
+
+<img width="1350" height="815" alt="image" src="https://github.com/user-attachments/assets/9c8b4b0c-a49f-4053-acd8-f64b572f80c0" />
+<img width="1350" height="815" alt="image" src="https://github.com/user-attachments/assets/d5328f6e-a9b9-413f-bc8c-d03f235256d8" />
+<img width="1037" height="527" alt="image" src="https://github.com/user-attachments/assets/1a7bae36-358c-4d1a-af82-6b45d95332fa" />
+
+* A. [Wrong]
+* B. [Correct]
+* [IMPORTANT]
+
+<img width="1121" height="618" alt="image" src="https://github.com/user-attachments/assets/b24725d4-1a31-46eb-8662-5e18a3e0d7ff" />
+<img width="930" height="660" alt="image" src="https://github.com/user-attachments/assets/41d8a932-5496-4bfc-bf63-b9c13ffc4bbc" />
+<img width="1153" height="697" alt="image" src="https://github.com/user-attachments/assets/01fa6e53-b4e5-4c7e-87b6-a63f200aa466" />
+<img width="1072" height="582" alt="image" src="https://github.com/user-attachments/assets/4cccb73f-67f1-4b65-8c03-fed20e30d748" />
+<img width="1097" height="552" alt="image" src="https://github.com/user-attachments/assets/0400debf-4f43-4c5a-a747-7b64c7f12c5a" />
+<img width="1121" height="693" alt="image" src="https://github.com/user-attachments/assets/8070db12-5c09-429d-9090-2bcf7c1ded9d" />
+
+* Witty remark -> Clever reply. [MEANING]
+
+<img width="1227" height="802" alt="image" src="https://github.com/user-attachments/assets/250e9f2c-3378-419e-bcd0-aff014540012" />
+<img width="1277" height="781" alt="image" src="https://github.com/user-attachments/assets/1e230943-8f15-4467-9220-b27cedb4856c" />
+
+* E. [Wrong]
+* B. 
+* [IMPORTANT]
+
+<img width="1222" height="686" alt="image" src="https://github.com/user-attachments/assets/0063345b-4772-40a5-9dee-9b64d3a0847d" />
+<img width="1659" height="880" alt="image" src="https://github.com/user-attachments/assets/4a372fe5-c2f6-440a-a259-d0b070a2eba7" />
+
+* A.
+* [IMPORTANT]
+
+<img width="1177" height="800" alt="image" src="https://github.com/user-attachments/assets/a0fa742e-be57-4950-9bc9-e5771776179b" />
+<img width="1294" height="788" alt="image" src="https://github.com/user-attachments/assets/78b803a0-bbfd-47a6-b816-da53a299f020" />
+
+* [IMPORTANT]
+
+<img width="1122" height="689" alt="image" src="https://github.com/user-attachments/assets/c839e527-bb07-40d4-879c-695569f8d337" />
+<img width="1341" height="745" alt="image" src="https://github.com/user-attachments/assets/51fbd2ab-0f98-4e89-ac2f-2cad1a052a51" />
+
+* [IMPORTANT]
+
+<img width="991" height="430" alt="image" src="https://github.com/user-attachments/assets/ebe7fcdb-e745-4afa-98b9-9b3dcd219d54" />
+<img width="982" height="448" alt="image" src="https://github.com/user-attachments/assets/1d2dd16f-e99f-4f24-91b3-ddc4345e3bb0" />
+
+* Antithesis -> the rhetorical contrast of ideas by means of parallel arrangements of words, clauses, or sentences (as in "action, not words" or "they promised freedom and provided slavery"). [MEANING]
+* It can be best of times, it can be worst of times. [Example] [Antithesis]
+
+<img width="1729" height="909" alt="image" src="https://github.com/user-attachments/assets/c6376a1f-90df-43b4-a752-6db539b8e000" />
+<img width="1163" height="663" alt="image" src="https://github.com/user-attachments/assets/48574c89-2b51-4467-bcfc-ea5db7f9f4b1" />
+<img width="1115" height="642" alt="image" src="https://github.com/user-attachments/assets/45c155ad-3c61-41c3-a123-480dbf4707ab" />
+<img width="1129" height="453" alt="image" src="https://github.com/user-attachments/assets/215f8bc8-5250-4070-8187-8407e1c375d5" />
+<img width="1216" height="405" alt="image" src="https://github.com/user-attachments/assets/5645f364-4346-48c6-b6b7-924eda242c12" />
+<img width="1258" height="482" alt="image" src="https://github.com/user-attachments/assets/963c327a-bc3a-4421-b89c-4538f58a89b8" />
+<img width="1212" height="643" alt="image" src="https://github.com/user-attachments/assets/bb3291cf-3515-4369-8842-0f7f0954b206" />
+<img width="1264" height="619" alt="image" src="https://github.com/user-attachments/assets/e713c7ea-7db3-46ca-8165-3ad863ebb280" />
+<img width="1297" height="624" alt="image" src="https://github.com/user-attachments/assets/4a90997c-696e-4d39-b04b-0ad20b73be26" />
+
+* C. [Wrong]
+* B. [Ans]
+* [IMPORTANT]
+
+<img width="1155" height="721" alt="image" src="https://github.com/user-attachments/assets/c30a23c5-fba9-4373-99e0-fafbf9aa70c7" />
+<img width="1350" height="914" alt="image" src="https://github.com/user-attachments/assets/76094538-c254-44f1-9aaa-e80d7ad1d3fc" />
+<img width="1148" height="473" alt="image" src="https://github.com/user-attachments/assets/395baf7c-00b6-404d-aa4b-294a0db703bb" />
+<img width="1327" height="773" alt="image" src="https://github.com/user-attachments/assets/200969b9-8a78-4a67-95c1-1078b61b8107" />
+
+* Melancholic -> Sad, gloomy, sorrowful, mournful. [MEANING]
+* A -> Ethos. [MEANING]
+
+<img width="1227" height="573" alt="image" src="https://github.com/user-attachments/assets/bc28906b-ac2d-48f7-a78d-756236e54468" />
+<img width="1216" height="768" alt="image" src="https://github.com/user-attachments/assets/e6676aa1-ecbc-4004-a2ab-f965678e0001" />
+<img width="1394" height="744" alt="image" src="https://github.com/user-attachments/assets/c796d645-ac9e-4949-a4a0-851e7e32ebbe" />
+
+* laconic -> using or involving the use of a minimum of words : concise to the point of seeming rude or mysterious -> Usage of less words to convey your point -> Diplomatic words. [MEANING]
+* [IMPORTANT]
+* laconic -> Antonyme -> Garrulous, verbose.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
