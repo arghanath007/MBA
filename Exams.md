@@ -61,3 +61,12 @@
 
 * 19 Dec 2025 12:00 PM. [Check again at the end of Nov if new dates have come or not] [UPDATED]
 * NMAT -> No Geometry, LR there, Cubes, Dices, Binary Logic, Syllogisms, Clocks, Calendars, LS, truth teller/liar. [Topcis of 2025]
+
+## XGMT
+
+* XGMT to be held on January 25, 2026
+
+
+
+
+
