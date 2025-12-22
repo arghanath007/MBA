@@ -1,4 +1,10 @@
-# DM (1)
+# DM
+
+<img width="411" height="72" alt="image" src="https://github.com/user-attachments/assets/54240747-9971-4a3c-9147-c0081e46cf80" />
+
+* 8-10mins to solve '1' DM set.
+
+## DM (1)
 
 <img width="1425" height="815" alt="image" src="https://github.com/user-attachments/assets/3988c581-7316-4413-9854-6cfd4ecab517" />
 <img width="1401" height="799" alt="image" src="https://github.com/user-attachments/assets/1eec2279-5f46-4c73-b433-f6e9a8a0d941" />
@@ -98,6 +104,244 @@
 
 * 3. [HW]
 * Next Class.
+
+## DM (2)
+
+<img width="1397" height="783" alt="image" src="https://github.com/user-attachments/assets/a937f593-b154-45f3-b8f9-1f08354a913c" />
+
+* 3.
+
+<img width="1427" height="897" alt="image" src="https://github.com/user-attachments/assets/6a1960b7-f999-4fbe-b9da-3d66c2d0c68a" />
+<img width="1423" height="809" alt="image" src="https://github.com/user-attachments/assets/ed514097-9714-4a70-969e-2150a1b73909" />
+<img width="1429" height="817" alt="image" src="https://github.com/user-attachments/assets/ab7ad4ea-e06b-4748-8bb9-a30ecdbbe5b0" />
+<img width="1406" height="799" alt="image" src="https://github.com/user-attachments/assets/37a18287-a19b-4e42-8975-d02f6aef61fe" />
+
+* A -> Decent option.
+* B -> Public issue -> Wrong.
+* C -> Good option.
+* D -> Divide -> Wrong.
+* E -> Unethical -> Wrong.
+* Best option -> Sum of happiness is the maximum. [VERY IMPORTANT] 
+* A vs C.
+* Ans -> C.
+
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/96af1c14-9e8e-42be-b9d9-8921168e6924" />
+<img width="1427" height="901" alt="image" src="https://github.com/user-attachments/assets/eb6ed282-4b4c-4519-af84-0e0308e9ce11" />
+<img width="1423" height="821" alt="image" src="https://github.com/user-attachments/assets/b4d30070-26d8-48a5-8627-607bc3287266" />
+<img width="1402" height="800" alt="image" src="https://github.com/user-attachments/assets/f479bfc6-568c-4378-9fac-b69664ab0a21" />
+
+* A -> Not the best system -> Question mark(?).
+* B -> Safety convern -> Cannot compromise on safety -> Unethical -> Cross.
+* C -> Dividing people on groups, price etc -> Question mark(?).
+* D -> More money is being spent, against finance crunch -> Cross.
+* E -> Unsure option, will make the issues public -> Cross.
+* A vs C.
+* A -> More efficient -> First come first serve basis.
+* C -> Less efficient compared to A, dividing people.
+* Ans -> A.
+
+<img width="1425" height="817" alt="image" src="https://github.com/user-attachments/assets/dba5a4ad-36ec-4059-8483-38d899388bd0" />
+<img width="1439" height="904" alt="image" src="https://github.com/user-attachments/assets/bf1c1acb-1efb-422d-8bf9-e3ffffcd48b6" />
+<img width="1406" height="804" alt="image" src="https://github.com/user-attachments/assets/a5326ce8-0848-4955-9dfe-ad7ad05ee1ae" />
+<img width="1427" height="817" alt="image" src="https://github.com/user-attachments/assets/a9f2ce82-8d8d-473e-8255-61d2d971f9bf" />
+
+* Protest -> Immediate solution.
+* A -> Looks good.
+* B -> People will still think the system is diased -> Wrong.
+* C -> Same as 'B' -> Wrong.
+* D -> Talking without any proof, states are high, need to be cautious -> Wrong.
+* E -> Will take time to fix the technical issues -> Wrong.
+* Ans -> A.
+
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/9373b8de-f309-4a33-8fbc-44b4461bf223" />
+
+* 4.
+
+<img width="1442" height="900" alt="image" src="https://github.com/user-attachments/assets/603c3266-f504-4eb8-bfb3-5a51f739555b" />
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/1295a58a-7be4-468c-b803-1eb4f76b15fb" />
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/ce61f716-1909-4c58-85da-4a55f683c939" />
+
+* A -> Disagreeming/Differences in opinions, so better to take suggestions/opinions from 3rd pary -> Expert's opinion.
+* B -> Deviation -> Wrong.
+* C -> Too risky, uncertainity, don't know if mira's plan will work or not -> Wrong.
+* D -> Staff are not experts, Take expert's opinion -> Wrong.
+* E -> Too risky, uncertainity, we don't know, a lot of assumptions -> Wrong.
+* Ans -> A.
+* E. [Wrong]
+* Sensitive, high stress -> Always talk on data points. [VERY IMPORTANT]
+
+<img width="1424" height="797" alt="image" src="https://github.com/user-attachments/assets/df4a3f11-bad5-41f6-84c6-a0eb3ad8a716" />
+<img width="1436" height="902" alt="image" src="https://github.com/user-attachments/assets/5f0c396b-e830-43f9-91b8-cca750cbce99" />
+<img width="1429" height="802" alt="image" src="https://github.com/user-attachments/assets/0e9729ea-87ad-4845-b35b-0516888507a4" />
+<img width="1429" height="810" alt="image" src="https://github.com/user-attachments/assets/485d8fce-6fb1-41eb-b048-20e32acf0cf8" />
+<img width="1439" height="807" alt="image" src="https://github.com/user-attachments/assets/a81595c7-283e-4132-8e05-156240b7f05a" />
+
+* A -> Decent option -> Has some assumptions -> Desperation is being shown -> Question(?).
+* B -> Issue is not being addressed(Uncertainity about the company's future) -> Wrong.
+* C -> Very slow/lazy process -> Wrong.
+* D -> Same as 'B', conflict of interest there -> Wrong.
+* E -> Decent option -> Question(?).
+* A vs E.
+* A -> Promoting employees to the next higher position -> Uncertain/chaos situation -> Lower organizational confidence.
+* E -> Organizational confidence will be better/higher -> More positive -> Handling the chaos.
+* Ans -> E.
+* A. [Wrong]
+* Look for **important keywords** -> Pick up on the **keywords** -> rebuilding organizational confidence, 23 stores, 140 employees. [VERY IMPORTANT]
+
+<img width="1410" height="797" alt="image" src="https://github.com/user-attachments/assets/1e94c511-8963-4c13-adf7-e1bfbcb434ce" />
+<img width="1433" height="903" alt="image" src="https://github.com/user-attachments/assets/97d937e2-c96c-4d92-8065-ec7e2bf3858e" />
+<img width="1413" height="776" alt="image" src="https://github.com/user-attachments/assets/081239dc-06d5-44e7-856d-497b381ce6b3" />
+<img width="1426" height="802" alt="image" src="https://github.com/user-attachments/assets/5b548713-33c6-4141-a7ed-32f926345ba1" />
+<img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/a6b5bc05-d5c5-45b4-8f40-0b41ef947817" />
+<img width="1432" height="805" alt="image" src="https://github.com/user-attachments/assets/26fa4170-bb1e-4464-a3ec-6aa10fb37acc" />
+
+* Read the question completely first and then go to the **option** reading. [VERY IMPORTANT]
+* Statement 'A' -> Looks good.
+* Statement 'B' -> Looks good.
+* Statement 'C' -> Less wastage => More money.
+* Statement 'D' -> Looks good.
+* Individually they are looking good but have to see how if they are looking good in **combination/groups**.  [VERY IMPORTANT]
+* Option 'A' -> Base if weak, no mention of product, how will be able to execute.
+* Option 'B' -> Statement 'A' should come -> AB > BC -> Wrong.
+* Option 'C' ->  Advanced inventory system => Less wastage, more money/profit, better use of money.
+* Close Options -> Read the question 2-3 times to find the **hint** to successfully choose the **correct option**. [VERY IMPORTANT]
+* Hint -> Immediate, successful implementation of hybrid-model. [IMPORTANT]
+* Option 'C' -> Smooth operation, inefficiency reduction, stronger hybrid-model. [IMPORTANT]
+* Influencer marketing -> We will not be able to successfully implement the hybrid mode. [IMPORTANT]
+* Ans -> C.
+* A. [Wrong]
+
+<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/647952f5-a35f-4f16-92c5-896ec4f85cf5" />
+
+* 5.
+
+<img width="1439" height="895" alt="image" src="https://github.com/user-attachments/assets/55beeb6c-6012-4f99-b694-2bb7e810d41f" />
+<img width="1416" height="816" alt="image" src="https://github.com/user-attachments/assets/cacce0ec-c271-4000-bb3f-901b027cae1c" />
+<img width="1428" height="801" alt="image" src="https://github.com/user-attachments/assets/5ab367de-58cd-472b-8568-a8a2f688e13c" />
+<img width="1425" height="808" alt="image" src="https://github.com/user-attachments/assets/817ae8a6-661b-4435-a99f-081d0b147262" />
+
+* B. [Wrong]
+* A -> Tier-2 had the drastic drop -> Student/Buyer's point of view -> Data -> Good option.
+* B -> Faculty point of view -> Opinion -> Data > Opinion -> After reading 'A'-> Wrong.
+* C -> Doing a task without backing of data, not filling the exact gaps, no data => no student's point of view -> Wrong.
+* D -> Talk directly to students rather than consultants -> Direct access to buyers -> No need of 3rd party -> Wrong.
+* E -> Need to identify the problems first -> Identify proper gaps beforehand -> Wrong.
+* 'C' is next step after 'A'. Identify the cap first.
+* Ans -> A.
+
+<img width="1439" height="887" alt="image" src="https://github.com/user-attachments/assets/75149026-ab1a-4390-b170-668ced6cc65d" />
+<img width="1409" height="794" alt="image" src="https://github.com/user-attachments/assets/6fa97f02-25bf-4363-8a91-433d0e306001" />
+<img width="1408" height="798" alt="image" src="https://github.com/user-attachments/assets/555cf340-a662-4ded-968d-631694744fc7" />
+<img width="1421" height="804" alt="image" src="https://github.com/user-attachments/assets/635e0779-c603-4b40-9af1-05a38f15b193" />
+<img width="1419" height="792" alt="image" src="https://github.com/user-attachments/assets/e8796525-c522-4950-a48d-dbf4bca19ae8" />
+<img width="1413" height="795" alt="image" src="https://github.com/user-attachments/assets/24eab457-b95d-45aa-a685-8a08337b0666" />
+
+* Ans -> A.
+* A -> Satisfaction improves, adapted lessons, not major restructuring -> Looks fine.
+* B -> No point of negotiations, downing/disagreeing with CFO and investors -> Wrong.
+* C -> Satisfaction will be down, not improving satisfaction -> Wrong.
+* D -> Restructuring is happening -> CFO said restructuring should be postponed -> Wrong.
+* E -> More disatisfaction -> Wrong.
+* Pilot -> Trial, exprementations. [MEANING]
+* Keywords are **super important**. [VERY IMPORTANT]
+
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/c3392a01-7d98-4f14-8810-31edd8354e72" />
+<img width="1414" height="803" alt="image" src="https://github.com/user-attachments/assets/b52a0777-8c5b-4edb-9304-572527500c45" />
+
+* A -> fixing burnout.
+* C, D -> Burnout and learning quality.
+* Ans -> ACD -> option **A**.
+* Discussion in next class. [HW]
+
+## DM (3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
