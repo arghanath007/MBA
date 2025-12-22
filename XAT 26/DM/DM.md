@@ -313,7 +313,59 @@
 <img width="1412" height="802" alt="image" src="https://github.com/user-attachments/assets/7e3a3721-e0d6-45ae-ad02-41b81e0741cd" />
 
 * 7.
-* Start from 1hr 14mins.
+
+<img width="1437" height="910" alt="image" src="https://github.com/user-attachments/assets/569fdc4f-fb75-41a8-a45c-c3a9e196ef44" />
+<img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/ec19165b-2db2-4da7-841a-86c584550a55" />
+<img width="1423" height="792" alt="image" src="https://github.com/user-attachments/assets/98beae8b-bcdd-4221-9c79-fffbf3fab250" />
+
+* A -> Biased, going against HR, biased towards Nikhil -> Wrong.
+* B -> Going against the passage -> Single internal promotion -> Wrong.
+* C -> Capable people Vs probability -> Wrong.
+* D -> Trial to check performance -> Good option.
+* E -> Biased towards Rhea -> Wrong.
+* B. [Wrong]
+* Ans -> D.
+* Trap option -> Next episode. [VERY IMPORTANT]
+* Pick best option but not the best answer. [VERY IMPORTANT]
+
+<img width="1440" height="888" alt="image" src="https://github.com/user-attachments/assets/0ceec7b5-0072-471a-b394-0faf777e1867" />
+<img width="1418" height="791" alt="image" src="https://github.com/user-attachments/assets/3ab73e69-2c93-4883-b79c-28f8b7c381c0" />
+
+* A -> Showing strenght and weakness as well -> Decent option.
+* B -> Not balancing the opportunity, rhea doesn't have innovation -> A > B -> Wrong.
+* C -> Cannot change timeline for a single person, compressed timeline already -> Wrong.
+* D -> Rhea is not interested, higher chances of conflicts, decision making will be slow because of multiple leaders/overseers -> Wrong.
+* E -> To act quickly we will not hire additional support, Nikhil is quite capable -> A > E -> Wrong.
+* D. [Wrong]
+* Ans -> A. 
+
+<img width="1438" height="900" alt="image" src="https://github.com/user-attachments/assets/acfe581f-2749-43d2-b2ae-0247b1816345" />
+<img width="1409" height="802" alt="image" src="https://github.com/user-attachments/assets/7fa6dcdd-7bcc-42ea-8f7d-04d2b3f10a19" />
+<img width="1409" height="796" alt="image" src="https://github.com/user-attachments/assets/2c8ceedf-a3c2-4ddd-a808-d699bd9363cd" />
+<img width="1413" height="804" alt="image" src="https://github.com/user-attachments/assets/0dad8038-17bc-4590-9085-27081b91a22b" />
+
+* A -> Nikhil getting managerial role, Nikhil will not stick, He values title more -> Wrong.
+* B -> We can keep both of them -> Good option.
+* C -> Nikhil has uncertainity, Biased for Rhea -> B > C -> Wrong.
+* D -> 70% chance they will leave -> Bad option.
+* E -> They will not stay -> Wrong.
+* Ans -> B.
+
+<img width="997" height="633" alt="image" src="https://github.com/user-attachments/assets/ab710049-0e95-467a-b3f8-992f3c022119" />
+
+## DM(4)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
