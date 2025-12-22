@@ -255,6 +255,104 @@
 
 ## DM (3)
 
+<img width="1410" height="805" alt="image" src="https://github.com/user-attachments/assets/8e3257e1-a80d-476c-9929-a305320ba7e1" />
+<img width="1404" height="801" alt="image" src="https://github.com/user-attachments/assets/95bb42af-4323-4fc4-a991-a9c72f6f4db1" />
+<img width="1436" height="901" alt="image" src="https://github.com/user-attachments/assets/fbf619e8-0232-4125-8dc6-89f0495d8b57" />
+<img width="1416" height="796" alt="image" src="https://github.com/user-attachments/assets/f07a9ac8-2d02-4b67-b72c-248d93b6ee7a" />
+<img width="1409" height="794" alt="image" src="https://github.com/user-attachments/assets/9d33fd9c-f459-425c-946c-522a0ffb30d4" />
+<img width="1400" height="780" alt="image" src="https://github.com/user-attachments/assets/f6a27372-f4f8-4d0a-ab61-bf472e2d13bd" />
+
+* Ans -> ACD -> option **A**.
+* B -> Reduce batch size -> Revenue will decrease overrall -> Question(?).
+* C -> Increase student learning quality -> Strong option.
+* D -> May not be the strongest option -> Considering finances, it is a good option -> So-so option.
+* E -> Will destroy student learning quality -> Wrong.
+* F -> More burnout among teachers -> Wrong.
+
+<img width="1417" height="800" alt="image" src="https://github.com/user-attachments/assets/21d51d82-8ff5-4f6c-a870-24a5fd6421db" />
+
+* 6.
+
+<img width="1412" height="801" alt="image" src="https://github.com/user-attachments/assets/1f96f660-68ff-4a35-94ae-9df580b4acad" />
+<img width="1437" height="894" alt="image" src="https://github.com/user-attachments/assets/6cebfcae-28fa-45c8-962f-73c755fbf2ab" />
+<img width="1438" height="798" alt="image" src="https://github.com/user-attachments/assets/83b6f5c2-0e08-481c-bc53-efaabce3b39d" />
+<img width="1414" height="792" alt="image" src="https://github.com/user-attachments/assets/87795059-9637-4be5-a8bd-3573b5825b18" />
+
+* A -> Win-win situation, Sum of happiness is maximum -> Balanced option.
+* B -> Generic option -> Usually not a strong option.
+* C -> Will effect long-term stability -> Wrong.
+* D -> Not biased in any way -> Good option.
+* E -> Not a strong option -> Wrong.
+* F -> Biased towards company -> Wrong.
+* Option **E** -> DEF. [Wrong]
+* ABD -> Option **A**. [Answer]
+
+<img width="1419" height="798" alt="image" src="https://github.com/user-attachments/assets/01cf7f2a-5733-406f-b893-b63738d4418f" />
+<img width="1447" height="895" alt="image" src="https://github.com/user-attachments/assets/6c265223-7ae8-48ed-b5be-eb4a49062075" />
+<img width="1435" height="793" alt="image" src="https://github.com/user-attachments/assets/9a899ae4-c203-4285-8312-11ca672cc157" />
+
+* A -> True.
+* B -> Wrong option.
+* C -> Wrong option.
+* D -> Wrong option.
+* E -> Cannot do it solo. Need a team. Need to look at the range -> Wrong.
+* Ans -> A.
+
+<img width="1430" height="899" alt="image" src="https://github.com/user-attachments/assets/f0f7e752-ac3f-4c30-b04b-69bb5a79713e" />
+<img width="1429" height="814" alt="image" src="https://github.com/user-attachments/assets/ad6db47f-2ad9-4367-9a40-07d1659f4d54" />
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/d4fd26d1-9cf6-42b7-827e-b59a485ae42b" />
+
+* A -> Sharing driver's data with the insurar -> Subjective thing -> Win-Win situation -> Acknowledging the concerns of the insurer compared to 'E' -> Good option.
+* B -> Compromise in quality -> Wait for a little bit -> Not a feasible option -> Bad decision -> Wrong.
+* C -> Deviating from the topic -> A > C -> Wrong.
+* D -> Suddenly accepting the increased premium -> Giving up -> Next step -> Wrong.
+* E -> Cannot negotiate with insurer -> Cannot wait for 6months -> Insurer will not wait -> Insurer is at higher risks -> Risk is greater -> Not acknowledging the insurer -> Wrong.
+* Ans -> A.
+* E. [Wrong]
+
+<img width="1412" height="802" alt="image" src="https://github.com/user-attachments/assets/7e3a3721-e0d6-45ae-ad02-41b81e0741cd" />
+
+* 7.
+* Start from 1hr 14mins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
