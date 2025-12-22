@@ -355,6 +355,128 @@
 
 ## DM(4)
 
+<img width="1414" height="807" alt="image" src="https://github.com/user-attachments/assets/59d9f2a6-48c2-4b1e-9ed4-2d0ef5e493ff" />
+
+* 8.
+* DM -> Pick logical options. [VERY IMPORTANT]
+
+<img width="1437" height="879" alt="image" src="https://github.com/user-attachments/assets/7f589eba-4f6c-45f6-ae29-f4ba7f5924c0" />
+<img width="1417" height="803" alt="image" src="https://github.com/user-attachments/assets/cb4e29ea-6e88-48c6-85b5-d4174f7b9315" />
+
+* A -> Decent otpion.
+* B -> Compromise -> Wrong.
+* C -> Next step/episode -> Wrong.
+* D -> Compromising -> Wrong.
+* E -> Problem is not solved -> Wrong.
+* Ans -> A.
+
+<img width="1433" height="898" alt="image" src="https://github.com/user-attachments/assets/63288f76-c286-4d5d-88b8-060d22311e3f" />
+<img width="1411" height="791" alt="image" src="https://github.com/user-attachments/assets/02a11c2d-681a-4519-ac48-68695b5a44b4" />
+
+* A, B, E -> Not being transparent -> Wrong.
+* C -> Transparent -> Good option.
+* D -> Investor will loose confidence -> Wrong.
+* Ans -> C.
+
+<img width="1438" height="894" alt="image" src="https://github.com/user-attachments/assets/d2b5ce7f-dc2d-447d-a73c-01b3d33bf499" />
+<img width="1414" height="807" alt="image" src="https://github.com/user-attachments/assets/997f9540-284a-4f4e-922c-a8e86043ba79" />
+
+* A -> Evasive action -> Wrong.
+* B -> Need to present some facts -> Wrong.
+* C -> Has transparency, Overdoing -> Decent/Question mark(?) option.
+* D -> Better option than 'C' -> Good option.
+* E -> Vague option -> Wrong.
+* Working with an NGO, public, media, protest to resolve the issue. Always take a back step. [VERY IMPORTANT]
+* Ans -> D.
+* C. [Wrong]
+
+<img width="1419" height="796" alt="image" src="https://github.com/user-attachments/assets/7827ee04-b4a8-4686-ba05-2273fe7ad4b4" />
+<img width="1413" height="785" alt="image" src="https://github.com/user-attachments/assets/cb066b0b-9e1a-460e-b733-d1d0fb07b67c" />
+
+* 9.
+
+<img width="1409" height="796" alt="image" src="https://github.com/user-attachments/assets/cb18bf1a-a1fa-478c-8de9-2e01089ca431" />
+<img width="1438" height="895" alt="image" src="https://github.com/user-attachments/assets/1e179f02-f8cd-4d43-aff0-032d011f21c4" />
+<img width="1413" height="801" alt="image" src="https://github.com/user-attachments/assets/28de8f8a-629c-45ca-920a-ad9af5995082" />
+
+* A -> Need specialists for the unit -> Wrong.
+* B -> Good option.
+* C -> Need specialists for the unit -> Wrong.
+* D -> Very generic option -> Bad DM skill -> Wrong.
+* E -> Pause, going against stateholder, Going against DHO -> Wrong.
+* 4 -> Ans -> B.
+* D. [Wrong]
+* Very generic option -> Bad DM skill. [VERY IMPORTANT]
+* **Specific reason** preferred over **generic reason**. [VERY IMPORTANT]
+
+<img width="1437" height="881" alt="image" src="https://github.com/user-attachments/assets/e2c500dd-e1b0-48d2-a977-33304a303ad3" />
+<img width="1428" height="816" alt="image" src="https://github.com/user-attachments/assets/84dfe59c-9282-46c5-996e-5a55840ea039" />
+<img width="1412" height="798" alt="image" src="https://github.com/user-attachments/assets/213e33a5-eeea-43ad-98a1-2d2d03f096c1" />
+<img width="1421" height="800" alt="image" src="https://github.com/user-attachments/assets/abf4fd26-3cc1-4ffb-9bd6-89cfa4cb0082" />
+
+* A -> Ensures fairness -> Good option.
+* B, C, D -> Wrong.
+* E -> Good option.
+* A vs E.
+* A -> In my hand, unethical condition is declined.
+* E -> Long time situaion => Delaying the process, In his hand, Sounding desperate. 
+* 5 -> Ans -> A.
+
+<img width="1415" height="799" alt="image" src="https://github.com/user-attachments/assets/9050e92a-5435-4ad2-bb30-8d14cb6c022e" />
+<img width="1422" height="903" alt="image" src="https://github.com/user-attachments/assets/6aa26fbb-c41f-4e62-960c-53e7d2e2e143" />
+<img width="1420" height="814" alt="image" src="https://github.com/user-attachments/assets/9f61dfa1-1b4b-4cae-8bce-225fa30c348a" />
+
+* A -> Good option.
+* B -> Compromise on quality.
+* C -> A > C -> Wrong.
+* D -> Going against passage -> Wrong.
+* E -> Uncertainity will increase -> Wrong.
+* Ans -> A.
+* C. [Wrong]
+* High stake options -> Public Health, Patience, Criticalness, Public life, Human life -> Low risk options. [VERY IMPORTANT]
+
+<img width="1415" height="803" alt="image" src="https://github.com/user-attachments/assets/b98d51ba-db12-45de-9e0a-d44d0cd17859" />
+
+* 10.
+
+<img width="1430" height="903" alt="image" src="https://github.com/user-attachments/assets/6db0d7e0-73cc-4f25-80a5-613d2b9d908d" />
+<img width="1417" height="808" alt="image" src="https://github.com/user-attachments/assets/bdddc8d5-2fee-4e29-9767-2a5712767625" />
+<img width="1437" height="813" alt="image" src="https://github.com/user-attachments/assets/3ac694ac-7d14-402c-9946-15e8626715c0" />
+
+* A -> Deviation -> Wrong.
+* B -> Need to take it forward -> Good point.
+* C-> Wrong.
+* D -> Generic view -> Wrong.
+* E -> Divide the school, create chaos -> Wrong.   
+* Ans -> B.
+* E. [Wrong]
+
+<img width="1438" height="895" alt="image" src="https://github.com/user-attachments/assets/cbdfdb7a-72c4-4478-b09d-e37e2f9dd4ae" />
+<img width="1432" height="813" alt="image" src="https://github.com/user-attachments/assets/5aae872b-0615-4c9d-bb2e-ead7165ff419" />
+
+* A -> Collaboration -> Good option.
+* B, C -> Experience is not used -> Wrong.
+* D -> Decent option.
+* E -> No need of external consultants -> Wrong. 
+* Ans -> A.
+
+<img width="1440" height="896" alt="image" src="https://github.com/user-attachments/assets/a8045b4e-3a04-4d68-b778-6bf506955cb0" />
+<img width="1434" height="813" alt="image" src="https://github.com/user-attachments/assets/eeb2283a-f32b-4569-add2-27a38ee12cef" />
+<img width="1429" height="809" alt="image" src="https://github.com/user-attachments/assets/10685b3b-8115-4412-9076-dda6b2c4d449" />
+
+* A -> Creating discrimination -> Good option.
+* B -> Fundraising -> Bad option.
+* C -> Creating gaps, dividing the kids -> Wrong.
+* D, E -> Not equal for all -> Wrong.
+* Ans -> A.
+* D. [Wrong]
+
+## DM(5)
+
+
+
+
+
 
 
 
