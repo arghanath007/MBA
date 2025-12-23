@@ -2,6 +2,160 @@
 
 ## CR(1)
 
+* CR -> 4-5Marks.
+
+<img width="978" height="563" alt="image" src="https://github.com/user-attachments/assets/a565b74f-bbee-4fbb-ba81-b90cd08c74f0" />
+<img width="1411" height="802" alt="image" src="https://github.com/user-attachments/assets/1bdde556-d72b-4303-99de-759e3635c8c4" />
+
+* [IMPORTANT] 
+
+<img width="1430" height="820" alt="image" src="https://github.com/user-attachments/assets/371915af-d0a1-42e8-aabb-3e3962ca3eb6" />
+<img width="1442" height="895" alt="image" src="https://github.com/user-attachments/assets/bbe3e7ea-e41e-4be6-95ed-ac52d2e1df15" />
+
+* Misclicked.
+* Thoguth of clicking option **D** only.
+* B. [Wrong]
+* Ans -> D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
