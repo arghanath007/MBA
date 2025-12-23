@@ -127,10 +127,71 @@
 * Loath -> Loath to -> Reluctant -> slow to begin or proceed with a course of action because of doubts or uncertainty -> unwilling to eat. [MEANING] [Example]
 * Loathe -> Loathing -> Hate, as in to hate, to dislike strongly. [MEANING]
 
+<img width="1436" height="901" alt="image" src="https://github.com/user-attachments/assets/827d57ee-23cf-49c8-afe5-87f3efbf5c26" />
 
+* Ans -> D.
 
+<img width="1413" height="793" alt="image" src="https://github.com/user-attachments/assets/fb370956-14ed-4f78-b4e6-91a7745c6c41" />
+<img width="1414" height="807" alt="image" src="https://github.com/user-attachments/assets/f6d8a351-c8fe-4083-830c-db5932f3929e" />
 
+* A -> Guitar -> object -> a -> instrument.
+* D -> plays -> the.
+* With **"senior, junior, elder"** -> we use **"to"**. [IMPORTANT]
+* With **"keen"** -> we use **"on"**. [IMPORTANT]
+* With **"good, bad"** -> we use **"at"**. [IMPORTANT]
+* Keen to paint. [Correct]
+* With **"older"** -> we use **"than"**. [IMPORTANT]
 
+<img width="1410" height="792" alt="image" src="https://github.com/user-attachments/assets/6e690711-abc8-4f4a-bbc7-0cd31e007136" />
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/1668b097-dd16-4af2-89d6-7a9acabb50ba" />
+<img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/9ed3037b-6fbb-4389-8c74-01c2db24bea4" />
+<img width="1437" height="901" alt="image" src="https://github.com/user-attachments/assets/75311d50-f03c-429e-9505-ab107ac2491b" />
+
+* Ans -> A.
+* Ally -> Alliances, friendly. [MEANING]
+* Protagonists -> Heroes. [MEANING]
+* Antagonists -> Villain, Enemy -> one that is hostile toward another. [MEANING]
+* Eloquence -> rhetoric -> Emotional appeal -> the art or power of speaking or writing in a forceful and convincing way. [MEANING]
+* Bewitched -> possessed, enchanted, mesmorized. [MEANING]
+* Discourse -> Dialectical/Dialectic -> Discussion -> of, relating to, or in accordance with dialectic. [MEANING]
+
+<img width="1424" height="800" alt="image" src="https://github.com/user-attachments/assets/10d80a99-5eb2-4c2b-adcd-78766b50de4d" />
+<img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/732ef3e8-673f-4e69-8c6b-e9ea16b368d8" />
+
+* Clarity in arguments/dialogue -> Cogency -> Logical soundness of arguments. [MEANING]
+* Dialect -> Slang, varient of a language. [MEANING]
+
+<img width="1424" height="792" alt="image" src="https://github.com/user-attachments/assets/acc48a5f-afc1-4cc1-9ab8-362068d05659" />
+<img width="1439" height="891" alt="image" src="https://github.com/user-attachments/assets/a51a511d-a3ea-4b2d-9162-d58f246ec3f4" />
+<img width="1425" height="813" alt="image" src="https://github.com/user-attachments/assets/7aefaeb5-3068-4d67-8b6c-7a2ff5d708e9" />
+
+* DEF. [Wrong]
+* Ans -> C. [Correct]
+* Specific Event -> We use **"on"**. [IMPORTANT]
+* We congratulated her on her weeding. [Example]
+* We object "to" **something**.  [IMPORTANT]
+* The library is **in** the north -> Giving general direction. [Correct] [Example]
+* The library is **on** the north side of the quad. [Correct] [Example]
+* **"At"** -> To show **approximate location**.
+* The manager sat at her desk. [Correct] [Example]
+* She walked into the room. [Correct]
+* She is in the room -> No movement. [Correct]
+* Walked, stepped -> Showing Movement -> **into**. [IMPORTANT]
+* She jumped into the river. [Correct]
+
+<img width="1431" height="906" alt="image" src="https://github.com/user-attachments/assets/ea13fa8c-78f2-43b0-8a5f-fac798403c4b" />
+
+* CEF. [Wrong]
+* Ans -> D. [Correct]
+
+<img width="293" height="86" alt="image" src="https://github.com/user-attachments/assets/59841225-fa4c-4017-ba64-2a1af73275e3" />
+<img width="446" height="91" alt="image" src="https://github.com/user-attachments/assets/8f4ee53f-6d97-43c8-ac83-833597ea2bdd" />
+<img width="1435" height="789" alt="image" src="https://github.com/user-attachments/assets/cb252898-5c42-4f8c-8676-81a0f14d55ea" />
+
+* Step in -> to substitute. [MEANING]
+* F -> Correct statement.
+
+<img width="1408" height="803" alt="image" src="https://github.com/user-attachments/assets/fd9b2e73-45d6-4576-b8e4-a136e9edf387" />
 
 
 
