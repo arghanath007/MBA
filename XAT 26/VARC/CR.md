@@ -140,9 +140,9 @@
 * B. [Wrong]
 * Ans -> E.
 
+## CR(2)
 
-
-
+6mins.
 
 
 
