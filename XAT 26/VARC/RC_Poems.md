@@ -75,36 +75,83 @@
 
 ## RC (2)
 
+<img width="867" height="603" alt="image" src="https://github.com/user-attachments/assets/dce698d8-810b-4784-84f6-8df70cfecb73" />
+<img width="1095" height="691" alt="image" src="https://github.com/user-attachments/assets/74d02792-dd54-412a-9f7b-282a7a083842" />
 
+* [IMPORTANT]
 
+<img width="1429" height="895" alt="image" src="https://github.com/user-attachments/assets/0b1f7a6d-72f0-4d6c-ac18-6c9684f62581" />
 
+* 3. [Novel Excerpt RC]
 
+<img width="1434" height="889" alt="image" src="https://github.com/user-attachments/assets/7d53a01b-2178-41ee-a96a-e50b183f8409" />
+<img width="1431" height="818" alt="image" src="https://github.com/user-attachments/assets/ee940f81-9b64-4588-9335-8317426fccfa" />
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/95e90f04-5b05-4115-ad69-d6c9bde8dc58" />
+<img width="1428" height="815" alt="image" src="https://github.com/user-attachments/assets/d158be3b-11bf-41a6-a2b4-a6e5b0029aa6" />
 
+* B -> Distorted, indirectly trying to die.
+* D -> Incomplete.
+* Ans -> E.
 
+<img width="1437" height="890" alt="image" src="https://github.com/user-attachments/assets/4c134aee-76cf-436b-83b3-4a53c748d2e4" />
+<img width="1426" height="808" alt="image" src="https://github.com/user-attachments/assets/5d255349-87a3-4d3d-b9d5-d436e9fc7ea3" />
 
+* A -> Destiny is mocking us.
+* B -> Inevitability of density, no mention of sarcasm.
+* D -> We are not making mockery of destiny.
+* E -> Too broad.
+* Ans -> A.
 
+<img width="1436" height="888" alt="image" src="https://github.com/user-attachments/assets/143e4764-391d-46a4-871b-244addd3783c" />
+<img width="1427" height="809" alt="image" src="https://github.com/user-attachments/assets/3ce2fbf6-a781-4c24-ba7b-edd869c689dd" />
 
+* B -> and -> implies both are co-existing together.
+* D -> Broad, metaphorial.
+* Ans -> C.
+* To give way to -> To allow, to surrender. [MEANING]
+* Sarcasm -> Irony, mockery. [MEANING]
 
+<img width="1416" height="817" alt="image" src="https://github.com/user-attachments/assets/5f615cdd-12df-4540-988b-277f91f50e3e" />
+<img width="1421" height="776" alt="image" src="https://github.com/user-attachments/assets/0c9e1624-135b-4d0e-b647-c9657b8ccd39" />
 
+* Poems. [VERY IMPORTANT]
 
+<img width="1428" height="802" alt="image" src="https://github.com/user-attachments/assets/3c14fa57-3c78-432c-aa92-c994997a934c" />
 
+* 4. [Poem]
 
+<img width="1434" height="872" alt="image" src="https://github.com/user-attachments/assets/286024f8-d07f-4f67-9c10-759cd4c4362e" />
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/872ec5f6-840f-4251-9322-11f8cf6baafc" />
+<img width="1429" height="799" alt="image" src="https://github.com/user-attachments/assets/1582ccd0-a511-40a1-a6bb-0850290363de" />
+<img width="1433" height="804" alt="image" src="https://github.com/user-attachments/assets/aadba51d-3e3a-493a-a87d-95a4ab5dab7c" />
 
+* Ans -> D.
 
+<img width="1439" height="874" alt="image" src="https://github.com/user-attachments/assets/5dd89a08-a085-4425-9e98-dfeccf9668ac" />
+<img width="1421" height="778" alt="image" src="https://github.com/user-attachments/assets/0cc90adc-ec02-44d3-8da6-e41cc64b07b7" />
+<img width="1420" height="785" alt="image" src="https://github.com/user-attachments/assets/1c95c5e9-0ad6-4600-8081-f9be057a1153" />
+<img width="1417" height="808" alt="image" src="https://github.com/user-attachments/assets/e83d44c4-76bf-46fe-b105-ccac9c60eb59" />
 
+* B -> Mixed feelings.
+* C -> Negative feelings.
+* Ans -> C.
+* pun ->  the usually humorous use of a word in such a way as to suggest two or more of its meanings or the meaning of another word similar in sound. [MEANING]
 
+<img width="1438" height="818" alt="image" src="https://github.com/user-attachments/assets/e5734d29-f33f-4aab-9966-9a0a028d690f" />
 
+* Possibility -> [MEANING]
+* Probably -> [MEANING]
+* Likely ->  [MEANING]
 
+<img width="440" height="86" alt="image" src="https://github.com/user-attachments/assets/5f1a6dc3-5c51-4e63-afe9-88d5ea1c41b7" />
 
+* Yes.
 
+<img width="1434" height="794" alt="image" src="https://github.com/user-attachments/assets/fb9ce1aa-7a0b-4da5-b4eb-f42c22f1dc65" />
+<img width="427" height="92" alt="image" src="https://github.com/user-attachments/assets/b79394ef-0552-462c-9c78-e82678ad7c19" />
 
-
-
-
-
-
-
-
+* Yes.
+* 51mins.
 
 
 
