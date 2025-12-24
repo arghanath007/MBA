@@ -142,30 +142,113 @@
 
 ## CR(2)
 
-6mins.
+<img width="1397" height="797" alt="image" src="https://github.com/user-attachments/assets/255bbabd-cf6c-42e2-940f-8249cefd736f" />
 
+* 1-5 & 7 => IMPORTANT topics
+* 6, 8 -> Less questions asked on them.
+* 9 -> Will practice.
 
+<img width="1414" height="806" alt="image" src="https://github.com/user-attachments/assets/0786f003-27d3-4ac5-9606-cc51649bb57c" />
+<img width="1115" height="773" alt="image" src="https://github.com/user-attachments/assets/bac3d2f6-5fe1-479a-b326-424c6a86f8a4" />
+<img width="1254" height="666" alt="image" src="https://github.com/user-attachments/assets/318517b5-6e44-493e-8b7d-e08c32609d40" />
+<img width="1220" height="760" alt="image" src="https://github.com/user-attachments/assets/8c42b9d7-5c80-4a0c-b7be-c089e24db2af" />
 
+* If we don't the **logic or evidence** then skip/drop that question.
+* Conclusion. [VERY IMPORTANT]
 
+<img width="1435" height="855" alt="image" src="https://github.com/user-attachments/assets/9cdeec72-e5d0-4c82-8d3f-f487ca282f21" />
+<img width="1417" height="793" alt="image" src="https://github.com/user-attachments/assets/8eb689c7-4f5a-4ee8-9379-6a74dfeda4af" />
 
+* Ans -> D.
+* D -> They are talking about '2' different things. There is no common point to diagree. [IMPORTANT]
 
+<img width="1436" height="873" alt="image" src="https://github.com/user-attachments/assets/3144f00b-fb5c-489e-bbab-0a9d334c743a" />
+<img width="1415" height="788" alt="image" src="https://github.com/user-attachments/assets/181baba3-8224-4b13-9a60-2be2730160ea" />
 
+* B -> Generalization, too broad.
+* Ans -> D. [IMPORTANT]
 
+<img width="1432" height="873" alt="image" src="https://github.com/user-attachments/assets/d93eec20-94c6-4731-8322-ee6d1682718b" />
+<img width="1413" height="789" alt="image" src="https://github.com/user-attachments/assets/5ec0e628-cd9f-4bcd-bd59-2910419531ca" />
 
+* Ans -> A. [IMPORTANT]
 
+<img width="227" height="98" alt="image" src="https://github.com/user-attachments/assets/01c66114-e70b-481b-90f7-f9dcb5d6cc4d" />
 
+* Yes.
+* Panacea -> Can cure anything. [MEANING]
 
+<img width="1442" height="882" alt="image" src="https://github.com/user-attachments/assets/d12ae638-dffa-4934-a6ff-2ae7d2b65e11" />
+<img width="1417" height="804" alt="image" src="https://github.com/user-attachments/assets/2cecb72f-da43-41c1-a916-098035626f6c" />
+<img width="1410" height="800" alt="image" src="https://github.com/user-attachments/assets/bcc93741-59b7-4c83-adb3-411a4d5d032c" />
 
+* Ans -> C. [IMPORTANT]
+* D -> no way -> Extreme + irrelevant.
+* Outcome is unpredictable.
+* Fiscal -> of or relating to taxation, public revenues, or public debt -> of or relating to financial matters. [MEANING]
 
+<img width="1435" height="882" alt="image" src="https://github.com/user-attachments/assets/a81e5f18-487f-42b8-8ca0-89693d37b642" />
+<img width="1417" height="791" alt="image" src="https://github.com/user-attachments/assets/9f567222-86eb-44bd-a7f1-28dd4e4c87c0" />
 
+* Ans -> C. [IMPORTANT]
+* D, E -> We do not know, no evidence, no logic.
+* A -> Irrevalent.
+* Read the question **Twice** -> Make it a habit. [VERY IMPORTANT]
+* Consistent -> Based on the paragraph it should be **True**. [VERY IMPORTANT]
+* Inconsistent -> Based on the paragraph it should be **False/Not True/Contradictory**. [VERY IMPORTANT]
 
+<img width="1438" height="880" alt="image" src="https://github.com/user-attachments/assets/3ffe54e4-55c9-43d9-bbbb-391c29832085" />
+<img width="1434" height="797" alt="image" src="https://github.com/user-attachments/assets/db5b9b91-71cb-49d1-ba3d-df7c3a01b16a" />
+<img width="1419" height="818" alt="image" src="https://github.com/user-attachments/assets/d0a908c1-3bcc-4903-98e0-663824d1b179" />
 
+* After narrowing to '2' options think for 10-15secs before marking the **answer**. [VERY IMPORTANT]
+* Weaken question -> Make a shadow answer before reading the options.  [VERY IMPORTANT]
+* Passage saying => Isolation -> Failure.
+* A -> Too broad.
+* D -> General/generic option.
+* Ans -> B. [IMPORTANT]
 
+<img width="1430" height="872" alt="image" src="https://github.com/user-attachments/assets/5501144b-73e6-442f-8435-96d3143804f6" />
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/798e82a8-1b37-4195-a8e6-913082ae2715" />
+<img width="1406" height="793" alt="image" src="https://github.com/user-attachments/assets/8a63dc9c-bffb-413e-aa75-c6ea4b76c102" />
 
+* D -> Would have felt more satisfied.
+* E -> Irrevalent.
+* Ans -> D. [IMPORTANT]
 
+<img width="1439" height="877" alt="image" src="https://github.com/user-attachments/assets/6fab2c52-795a-45c0-b61e-effccae9b59d" />
+<img width="1411" height="798" alt="image" src="https://github.com/user-attachments/assets/8b8b7d30-5783-44ef-b923-5e10e9151590" />
 
+* Agree the most -> Author will say **Yes, Yes** and he agrees. [VERY IMPORTANT]
+* Bound to be True -> Different from **Agree the most**. [VERY IMPORTANT]
+* Likely to be True -> Different from **Agree the most**. [VERY IMPORTANT]
+* When we see **Qualitative, Quantitative words** in options -> Tall, fat, strong, some, all, few, most, better -> Be very careful, read the logic. [VERY IMPORTANT]
+* catchment -> something that catches water -> also : the amount of water caught ->  the action of catching water. [MEANING]
+* D -> Distortion.
+* E -> Better -> Extreme.
+* A -> Most -> Extreme.
+* Ans -> C.
 
+<img width="1440" height="880" alt="image" src="https://github.com/user-attachments/assets/d67ec4e0-1180-44cf-96c8-2c1908d1114f" />
+<img width="1422" height="788" alt="image" src="https://github.com/user-attachments/assets/6f0f753b-fc98-42f4-9ede-04df2815f0ab" />
 
+* A,B,C -> Only -> Extreme.
+* D -> Proverb -> Irrevalent.
+* Ans -> E. [IMPORTANT]
+* Overt -> open to view : manifest. [MEANING]
+* Covert -> not openly shown, engaged in, or avowed : veiled. [MEANING]
+
+<img width="1427" height="877" alt="image" src="https://github.com/user-attachments/assets/422cce7c-0aaf-417d-bd31-ad3d4018aca5" />
+<img width="1408" height="797" alt="image" src="https://github.com/user-attachments/assets/94d0d3a2-3915-423d-87dd-bec2347040f9" />
+<img width="1413" height="792" alt="image" src="https://github.com/user-attachments/assets/759f65cc-2884-4ac0-8a2c-c7175260b21b" />
+
+* Ans -> D.
+
+<img width="1437" height="870" alt="image" src="https://github.com/user-attachments/assets/d4b73e19-8d7e-4860-9923-c40e3fd240b8" />
+<img width="1419" height="792" alt="image" src="https://github.com/user-attachments/assets/189e2bfd-d342-4ce5-af7a-03a767e1a5da" />
+<img width="1425" height="809" alt="image" src="https://github.com/user-attachments/assets/f7fee478-b948-4115-84b0-9669bfa51e0b" />
+
+* Ans -> A.
 
 
 
