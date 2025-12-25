@@ -151,17 +151,45 @@
 <img width="427" height="92" alt="image" src="https://github.com/user-attachments/assets/b79394ef-0552-462c-9c78-e82678ad7c19" />
 
 * Yes.
-* 51mins.
 
+<img width="1418" height="793" alt="image" src="https://github.com/user-attachments/assets/aae46204-32fb-4a2d-a72e-fc99136c0a9a" />
 
+* 5. [Poem]
 
+<img width="1430" height="884" alt="image" src="https://github.com/user-attachments/assets/b56b62e2-77b5-4540-92e6-a33cf4f08a61" />
+<img width="1406" height="783" alt="image" src="https://github.com/user-attachments/assets/67b71355-d39c-4ee4-8d5d-adc7d4942e37" />
 
+* A, B -> A part -> Narrow.
+* Prescriptive -> : acquired by, founded on, or determined by prescription or by long-standing custom. [MEANING]
+* Ans -> C.   
 
+<img width="1435" height="891" alt="image" src="https://github.com/user-attachments/assets/770fe817-54fb-46c5-98f0-02ae28508407" />
+<img width="1417" height="781" alt="image" src="https://github.com/user-attachments/assets/49473ba5-6733-4118-b0c2-fec3fe44297b" />
 
+* Ans -> B.   
 
+<img width="1416" height="791" alt="image" src="https://github.com/user-attachments/assets/6527a2bc-3354-4b02-b78f-e7d5f6553f86" />
 
+* 6. [Poem] [Test-1]
 
+<img width="1434" height="888" alt="image" src="https://github.com/user-attachments/assets/4fd8e0c2-8e30-4ee8-a3a6-7cd14719e0ca" />
+<img width="1438" height="769" alt="image" src="https://github.com/user-attachments/assets/b6cfc4c2-fc49-491f-98cc-ad0f37ff3879" />
 
+* Ans -> B.
+
+<img width="1438" height="873" alt="image" src="https://github.com/user-attachments/assets/4c160dbb-41d3-4741-981c-63d653c6b7db" />
+<img width="1435" height="795" alt="image" src="https://github.com/user-attachments/assets/7e5fe678-64a4-4406-905a-f2fd3abf4949" />
+
+* Ans -> B.
+
+<img width="1440" height="869" alt="image" src="https://github.com/user-attachments/assets/6efdc0c2-ef14-43d4-96ef-3bf9307ccf73" />
+<img width="1422" height="770" alt="image" src="https://github.com/user-attachments/assets/afacdf1e-d551-43c0-ab97-e807195d9187" />
+
+* Ans -> E.
+
+<img width="1426" height="796" alt="image" src="https://github.com/user-attachments/assets/063022aa-e9c7-4382-8d3f-93454a971faa" />
+
+* Somnet -> 14 line poems.
 
 
 
