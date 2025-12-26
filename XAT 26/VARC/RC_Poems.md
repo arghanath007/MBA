@@ -191,39 +191,104 @@
 
 * Somnet -> 14 line poems.
 
+## RC (3)
 
+<img width="1403" height="795" alt="image" src="https://github.com/user-attachments/assets/308e70c9-fd3c-470e-affd-c9cf03f04fb5" />
+<img width="1413" height="801" alt="image" src="https://github.com/user-attachments/assets/ee2066c4-b38a-4d4a-943e-3e786aee5eb4" />
 
+* Colors -> Positive emotions. [Example]
+* Black color -> Negative emotions. [Example]
 
+<img width="1426" height="796" alt="image" src="https://github.com/user-attachments/assets/33ccfeed-0e78-4795-867f-ca8c9274a695" />
+<img width="1418" height="795" alt="image" src="https://github.com/user-attachments/assets/4d4978d2-9c09-4597-9a42-6596d63959d0" />
+<img width="1099" height="662" alt="image" src="https://github.com/user-attachments/assets/de5403af-b170-4864-9a5b-8cc67b02b7b6" />
 
+* Important questions to think about.
+* 2 -> Where is the person?
 
+<img width="1411" height="786" alt="image" src="https://github.com/user-attachments/assets/3262a8cc-e188-4fe6-9e0e-e5bcfcc712c1" />
+<img width="1406" height="790" alt="image" src="https://github.com/user-attachments/assets/ed5b53e4-9149-4b29-acc8-be90bdcfdaf8" />
 
+* After reading a poem -> Try to find out the poem's **dominent emotion**.
 
+<img width="1418" height="806" alt="image" src="https://github.com/user-attachments/assets/c5f0077c-335d-4b8b-ab32-c7b18a23f9a7" />
 
+* Focus on the **emotion part**.
 
+<img width="1441" height="789" alt="image" src="https://github.com/user-attachments/assets/3dbd2604-a69e-4023-ad15-f534d0be4f7f" />
 
+* Focus on eliminating options.
+* How to tackle **Poems**. [VERY IMPORTANT]
 
+<img width="1419" height="804" alt="image" src="https://github.com/user-attachments/assets/cedda002-6e4a-4c65-9fd8-6109cd2f73a6" />
 
+* 7. [Poem] [Test-4]
 
+<img width="1431" height="867" alt="image" src="https://github.com/user-attachments/assets/cb2bd162-bca8-4916-990f-cfd1725cb537" />
+<img width="1416" height="799" alt="image" src="https://github.com/user-attachments/assets/35d7cf9d-90e2-4245-8f6e-5befb21f78ca" />
+<img width="1438" height="824" alt="image" src="https://github.com/user-attachments/assets/c64f0bdc-6124-403b-ae37-20cba4708e19" />
+<img width="1427" height="806" alt="image" src="https://github.com/user-attachments/assets/d1f18fc9-501f-450b-83d7-2f74c26bd09c" />
 
+* Ans -> D.
 
+<img width="426" height="81" alt="image" src="https://github.com/user-attachments/assets/e0e9acc9-13c5-4c98-876f-b8b4f43b02d9" />
 
+* Yes.
+* Naive -> Extremely innocent. [MEANING]
 
+<img width="1439" height="868" alt="image" src="https://github.com/user-attachments/assets/5a2e2bf6-ed07-44ea-9286-939a878b082e" />
+<img width="1416" height="799" alt="image" src="https://github.com/user-attachments/assets/3de3e5d1-5b5e-4124-bc96-a2d89fca353c" />
+<img width="1417" height="779" alt="image" src="https://github.com/user-attachments/assets/f20fed56-70d8-401a-9280-f87029e32b8a" />
 
+* Ans -> B.
 
+<img width="1431" height="874" alt="image" src="https://github.com/user-attachments/assets/071f49ac-91b8-4174-b396-bf218dd6afce" />
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/a87c462f-d6b0-4143-9c93-28f36ec2b53d" />
+<img width="1415" height="810" alt="image" src="https://github.com/user-attachments/assets/5f02d0c2-d631-458d-a383-89f18de1c0a8" />
 
+* Ans -> C.
 
+<img width="845" height="723" alt="image" src="https://github.com/user-attachments/assets/6df07768-44e9-4336-a30f-55352bcf8abb" />
 
+* 8. [Poem]
+* Slant -> Slope. [MEANING]
+* Heft -> weight, heaviness. [MEANING]
 
+<img width="1422" height="804" alt="image" src="https://github.com/user-attachments/assets/63b86ef8-d0d2-46de-ba12-18b315b7039a" />
 
+* Dominant emotion -> Sad, gloomy, hurt.
 
+<img width="1433" height="852" alt="image" src="https://github.com/user-attachments/assets/3afffa43-d102-4d63-8c12-5319fc67c36f" />
+<img width="1407" height="793" alt="image" src="https://github.com/user-attachments/assets/77ccce93-91e1-4dc9-80f4-a096e6992805" />
+<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/d4742323-bfe7-4d4b-abd3-287d04bb25ed" />
+<img width="1410" height="802" alt="image" src="https://github.com/user-attachments/assets/ffc3019c-b4f4-46ba-ad96-eb0aac812f12" />
 
+* Ans -> B.
+* Affliction -> a cause of persistent pain or distress, great suffering. [MEANING]
 
+<img width="1420" height="888" alt="image" src="https://github.com/user-attachments/assets/9a782009-87c9-4537-9f21-52efe7547f76" />
+<img width="1406" height="801" alt="image" src="https://github.com/user-attachments/assets/be45b3e3-f20f-4aa1-8fa7-be1bc392843d" />
+<img width="1396" height="812" alt="image" src="https://github.com/user-attachments/assets/28691084-93f7-40a4-9134-eefbd6c97466" />
 
+* Ans -> C.
 
+<img width="1431" height="879" alt="image" src="https://github.com/user-attachments/assets/ed68f60a-1027-4f85-b38b-6add683ebdfc" />
+<img width="1394" height="809" alt="image" src="https://github.com/user-attachments/assets/c6148f8d-6477-47a0-b93c-2a11850b9153" />
 
+* Ans -> E.
 
+<img width="1418" height="896" alt="image" src="https://github.com/user-attachments/assets/df8d3416-d9a6-44fd-9239-ab383d092357" />
+<img width="1401" height="822" alt="image" src="https://github.com/user-attachments/assets/9fd06b14-1d61-47bd-a43f-fe86095c5ba1" />
+<img width="1406" height="813" alt="image" src="https://github.com/user-attachments/assets/75be5024-c0b4-4458-b338-7f017650bbd3" />
+<img width="1414" height="790" alt="image" src="https://github.com/user-attachments/assets/d5bb91fc-0e36-4673-92d1-1868bea1565c" />
 
+* Ans -> B.
 
+<img width="423" height="94" alt="image" src="https://github.com/user-attachments/assets/c37b04a1-f05f-4692-a254-ebc2aae24cbb" />
+
+* 2.5min per Question on an average. [VERY IMPORTANT]
+
+## RC (4)
 
 
 
