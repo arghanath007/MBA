@@ -250,53 +250,139 @@
 
 * Ans -> A.
 
+## CR(3)
 
+<img width="1408" height="804" alt="image" src="https://github.com/user-attachments/assets/7e1c964e-4237-4895-ab07-0e2caa7136bf" />
 
+* VALR -> 14+ marks in mocks -> Goood score. [IMPORTANT]
+* RC questions -> 2.5min/Question.
+* RC with 3Qs -> 7-8Mins.
 
+<img width="1420" height="803" alt="image" src="https://github.com/user-attachments/assets/e0c84701-fc1e-4779-bafc-8e773393e123" />
+<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/7f347afc-252d-40d7-b0d6-06d565e1abee" />
+<img width="1409" height="804" alt="image" src="https://github.com/user-attachments/assets/ed996935-8d58-430d-ac61-94bf53096936" />
+<img width="1133" height="505" alt="image" src="https://github.com/user-attachments/assets/02e47d01-bc7d-446a-95e6-f887ad570fc6" />
 
+* Based on the passage, it is likely to be **True**.
+* Inference questions. [VERY IMPORTANT]
 
+<img width="1426" height="797" alt="image" src="https://github.com/user-attachments/assets/8482e2d2-1e29-4dd9-a527-b0a4e91d6f1f" />
+<img width="1420" height="795" alt="image" src="https://github.com/user-attachments/assets/9b16f4f4-5eaa-44fa-a6d7-9dcb6684a598" />
+<img width="1089" height="684" alt="image" src="https://github.com/user-attachments/assets/c9da03d0-7f2b-4cdd-8915-02edc7050ca7" />
+<img width="1404" height="636" alt="image" src="https://github.com/user-attachments/assets/341724df-87c6-4dc6-8e14-6ab0acf307b2" />
 
+* Avoid your biased and knowledge.
+* [VERY IMPORTANT]
 
+<img width="1436" height="885" alt="image" src="https://github.com/user-attachments/assets/851ddbf9-7dab-4fc0-ac83-7de9624f8ecb" />
+<img width="1434" height="797" alt="image" src="https://github.com/user-attachments/assets/ec93f598-68eb-41ed-8e8a-03bce3f7bae2" />
+<img width="1433" height="808" alt="image" src="https://github.com/user-attachments/assets/0009f778-046d-4812-8e25-c0fb734dce18" />
 
+* Ans -> C.
+* Likely to be True => Must be True. 
 
+<img width="1433" height="810" alt="image" src="https://github.com/user-attachments/assets/dfa3d0de-ecd1-405d-91d8-5efceec29d7d" />
 
+* Start from **No data** ->  Inadequate data option. [VERY IMPORTANT]
+* If **YES** => Probably Yes OR Definitely True -> Ignore Probably False OR Definitely False. [VERY IMPORTANT]
+* If **NO** => Probably False OR Definitely False -> Ignore Probably Yes OR Definitely True. [VERY IMPORTANT]
 
+<img width="1438" height="887" alt="image" src="https://github.com/user-attachments/assets/ef35ec76-fc85-43a9-8c77-959041551e50" />
+<img width="1431" height="795" alt="image" src="https://github.com/user-attachments/assets/290705a5-f7ca-476f-aa60-fd0a208369ba" />
 
+* [IMPORTANT]
+* fodder -> something fed to domestic animals -> inferior or readily available material used to supply a heavy demand. [MEANING]
+* No evidence => No inference. [VERY IMPORTANT]
 
+<img width="1440" height="866" alt="image" src="https://github.com/user-attachments/assets/eadaa2b1-2089-430d-a532-e16696ffabdb" />
+<img width="1431" height="809" alt="image" src="https://github.com/user-attachments/assets/0c7dd320-6951-4fea-9376-7d88f17e2c2d" />
 
+* [IMPORTANT]
+* specter -> Ghost, spirit, a visible disembodied spirit : ghost, something that haunts or perturbs the mind : phantasm. [MEANING]
+* If no contradiction => It is probably **True**. [VERY IMPORTANT]
 
+<img width="1438" height="874" alt="image" src="https://github.com/user-attachments/assets/1e8093f3-67d3-40ed-85ee-b95daa902eb3" />
+<img width="1439" height="810" alt="image" src="https://github.com/user-attachments/assets/d2201b6c-24d5-4be0-84b7-23f16ec1db87" />
 
+* [IMPORTANT]
+* Bailout -> Try to assist/help someone -> to abandon a harmful or difficult situation. [MEANING]
+* Definitely True -> True beyond any reasonable doubt. [VERY IMPORTANT] [MEANING]
 
+<img width="1437" height="882" alt="image" src="https://github.com/user-attachments/assets/3d06b0ad-67cb-48e6-93da-242298868861" />
+<img width="1435" height="816" alt="image" src="https://github.com/user-attachments/assets/3d5ded6a-2a9d-4fa8-8111-15defc5d6839" />
+<img width="1441" height="816" alt="image" src="https://github.com/user-attachments/assets/8d1e74e3-e5b1-4678-8a11-ea2eaaacb0e5" />
 
+* [IMPORTANT]
+* Solves(S), Reduces(R), Improve(I) situation
 
+<img width="1427" height="814" alt="image" src="https://github.com/user-attachments/assets/cb794a90-2a53-4589-bb89-01b9a622583b" />
+<img width="1428" height="874" alt="image" src="https://github.com/user-attachments/assets/f2fccc5e-10fc-4589-b5d3-e782ec9f89c6" />
+<img width="1421" height="795" alt="image" src="https://github.com/user-attachments/assets/998d646b-1236-4e77-a761-d9e0adcac9a8" />
+<img width="1439" height="825" alt="image" src="https://github.com/user-attachments/assets/7c30c039-4ab3-45b2-a0cc-cf7f8c316433" />
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/8dcda3f2-0b15-455c-b878-f03a3554a89c" />
 
+* [IMPORTANT]
+* Keyword -> All.
+* Ans -> D.
+* No -> Definitely False. [VERY IMPORTANT]
 
+<img width="1439" height="873" alt="image" src="https://github.com/user-attachments/assets/39a12b93-afa7-4f7a-9f87-1f8f0e369a69" />
+<img width="1433" height="815" alt="image" src="https://github.com/user-attachments/assets/9a0f45a9-4c40-4eee-99b9-858ab78102e0" />
+<img width="1418" height="799" alt="image" src="https://github.com/user-attachments/assets/610313d1-ab42-45f4-b881-a5aad3d9ec17" />
 
+* Plain Wrong -> Certain -> Definitely.
+* [IMPORTANT]
 
+<img width="1234" height="649" alt="image" src="https://github.com/user-attachments/assets/b4ea683f-dcbc-4004-9ce2-1fefbbc629fe" />
+<img width="1436" height="877" alt="image" src="https://github.com/user-attachments/assets/c864b3bd-416d-4d72-bf41-a7bab693434d" />
+<img width="1433" height="797" alt="image" src="https://github.com/user-attachments/assets/b163d329-efb4-4eda-ab91-9ebd2a7ceb58" />
+<img width="1440" height="813" alt="image" src="https://github.com/user-attachments/assets/6cb9f728-0ef9-4d64-b6dc-62ad75f26a71" />
 
+* [IMPORTANT]
+* Ans -> A.
+* Will soon -> Likely -> Definitely.
 
+<img width="435" height="113" alt="image" src="https://github.com/user-attachments/assets/15e5f2bc-099b-4caf-9ada-a64c119cf831" />
 
+* Yes. [IMPORTANT]
 
+<img width="1441" height="870" alt="image" src="https://github.com/user-attachments/assets/5ef655d2-4546-4d07-b1a9-c3932a01758c" />
+<img width="1415" height="800" alt="image" src="https://github.com/user-attachments/assets/a968ddd5-46be-4411-b392-0a707e812063" />
 
+* Ans -> D.
 
+<img width="1438" height="868" alt="image" src="https://github.com/user-attachments/assets/5dd4992b-8de7-4907-bba5-bcecdbc7084a" />
+<img width="1416" height="805" alt="image" src="https://github.com/user-attachments/assets/ea2f8c41-639b-4902-a08e-bdb7b932e8c6" />
 
+* [IMPORTANT]
+* Ans -> D.
 
+<img width="1438" height="882" alt="image" src="https://github.com/user-attachments/assets/51196edd-f852-4f4f-8090-f553c782d70b" />
+<img width="1408" height="803" alt="image" src="https://github.com/user-attachments/assets/d68f19e9-7c21-46af-97b1-f40d011e136f" />
 
+* [IMPORTANT]
+* Ans -> D.
 
+<img width="1410" height="448" alt="image" src="https://github.com/user-attachments/assets/e6a9238f-c6c3-4959-9fd4-1640c7faacfb" />
 
+* Assumption question. [VERY IMPORTANT]
 
+<img width="1436" height="878" alt="image" src="https://github.com/user-attachments/assets/4fea6e5a-e9c2-48a4-99c1-5c642a7b3969" />
+<img width="1422" height="673" alt="image" src="https://github.com/user-attachments/assets/29fbee77-2bfb-4a37-89e6-4baff93051f2" />
+<img width="1425" height="805" alt="image" src="https://github.com/user-attachments/assets/9f1a6c72-24fd-4119-b7d9-2bcbbec1b08b" />
+<img width="1440" height="831" alt="image" src="https://github.com/user-attachments/assets/75cc930a-6fdb-45a9-af4c-4eeda4931740" />
 
+* [IMPORTANT]
+* When both the assumptions are **True** -> Negation Test, then also confused -> Have to find the **bigger assumption** -> D > C. [VERY IMPORTANT]
+* If 'D' is True then 'C' comes. 'D' is the main assumption.
+* Conclusion -> Collection points.
+* Ans -> D.
 
+<img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/b30b30e7-399d-4dd4-8227-14e998c7462c" />
+<img width="1395" height="603" alt="image" src="https://github.com/user-attachments/assets/363c8e76-b096-4ff8-80d4-47aaa7e92ae1" />
+<img width="429" height="129" alt="image" src="https://github.com/user-attachments/assets/a4765e16-8c93-45e1-b907-0764f2329fa2" />
 
-
-
-
-
-
-
-
-
-
+* Yes.
 
 
 
