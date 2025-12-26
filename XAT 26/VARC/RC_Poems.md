@@ -290,7 +290,9 @@
 
 ## RC (4)
 
+<img width="1420" height="808" alt="image" src="https://github.com/user-attachments/assets/3cfd0920-4316-406c-b0ba-5b9632e079b1" />
 
+* VALR -> 14+ marks. [VERY IMPORTANT]
 
 
 
